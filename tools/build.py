@@ -22,6 +22,7 @@ from datetime import date, timedelta
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import flags  # noqa: E402
 import i18n  # noqa: E402
+import names  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "docs")
@@ -2492,6 +2493,8 @@ def mirror_files(srcs):
 
 TR_SKIP = {"src", "href", "id", "ftype", "bg", "space", "pos", "type", "kind", "path", "url", "de_path", "src_path",
            "og_image", "value", "tag", "date", "lat", "lng", "languages", "breadcrumb"}
+# Ersetzungen (replace.json, Produktnamen) auch in »value« – dort stehen neben IDs sichtbare Texte (Kennzahlen)
+TEXT_SKIP = TR_SKIP - {"value"}
 
 
 def translate(obj, tr, key=""):
@@ -2542,7 +2545,7 @@ def use_locale(loc):
     if reps:
         def sub(o):
             if isinstance(o, dict):
-                return {k: (v if k in TR_SKIP else sub(v)) for k, v in o.items()}
+                return {k: (v if k in TEXT_SKIP else sub(v)) for k, v in o.items()}
             if isinstance(o, list):
                 return [sub(v) for v in o]
             if isinstance(o, str):
@@ -2552,6 +2555,11 @@ def use_locale(loc):
         for path in list(PAGES):
             PAGES[path] = sub(PAGES[path])
         NAV = sub(NAV)
+    # Produktnamen der maschinellen Übersetzung reparieren (»titanium« -> »titan«, »« cockpit »« -> »cockpit«)
+    if loc["src"]:
+        for path in list(PAGES):
+            PAGES[path] = names.fix_all(PAGES[path], LANG, TEXT_SKIP)
+        NAV = names.fix_all(NAV, LANG, TEXT_SKIP)
     for d in (DE_OF, LOC_OF, ALIASES, OTHER, NAV_LABELS, QUERIES, SLUGS):
         d.clear()
     qfile = os.path.join(ROOT, "content", "sites", loc["src"], "queries.json") if loc["src"] else os.path.join(ROOT, "content", "queries.json")

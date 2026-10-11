@@ -1,0 +1,51 @@
+{
+ "_info": "Produktnamen für tools/names.py: In den Länderfassungen wird jeder Name aus »names« auf »name« gebracht, wenn er von Guillemets umgeben ist (auch verschachtelt wie »« cockpit »«). »aliases« sind mitübersetzte Namen je Sprache (»titanium« -> »titan«), »words« Füllwörter, die die Übersetzung in eigene Guillemets gesetzt hat (»the« »hyperion« -> the »hyperion«).",
+ "names": [
+  "3dCheck", "3dCheck micro", "ace", "actbyLight", "adaptYourHolder", "ahd", "apus", "aralon", "asza", "asza-rot",
+  "autoLock", "AWV III", "bravo 1/2/3", "caz", "cockpit", "coCon", "compass", "conDiaZ", "conDress", "conDress 200",
+  "contur", "coolbyLight", "coolTool", "cora", "coraArm", "coraControl", "coraExpress", "coraLogistic",
+  "coraMachineLoad", "coraMeasure LG", "coraVarion", "coraVarion/micBox", "edgeControl", "edgeControl 600",
+  "elephant", "elephant 2.0", "eQ", "eQset", "eQuick", "eQuick 200M", "eQuick 300", "flash", "focus 360i", "gemini",
+  "genius", "genius 3", "genius 3 sx", "genius Mikro", "highTower", "hobCheck", "hobCheck800", "hyperion",
+  "hyperion 300", "hyperion 300/500/700", "hyperion 500", "hyperion 500/700", "hyperion 700", "idChip", "idLabel",
+  "idLabelPrinter", "idLabels", "keeper", "keeper 2000", "lasso", "liteSet", "loadBox", "masterPiece", "metis",
+  "micBox", "millCheck", "millSet", "mslz", "mµFocus", "mμFocus", "orthoScan", "pcs", "phoenix", "pilot",
+  "pilot 1.0", "pilot 2 mT", "pilot 3", "pilot 3.0", "pilot 3.0/4.0", "pilot 4", "pilot 4.0", "pilot elephant",
+  "pilotBasic", "pilotStarter", "pom", "pomBasic", "pomBasic Compact", "pomBasic micro", "pomBasic MTI",
+  "pomBasicMicro", "pomCam", "pomColorCam", "pomDiaCheck", "pomLightTube", "pomMicroCam", "pomMicroLightTube",
+  "pomSkpGo", "pomSoft", "pomSoft 2", "pomZenit", "powerShrink", "powerShrink 200", "powerShrink 300",
+  "powerShrink 400", "powerShrink 400 ❘ 11", "powerShrink 600", "quickPick", "reamCheck", "redomatic",
+  "redomatic 400", "redomatic 600", "redomatic 600 pilot 4.0", "redomatic carrier", "redomatic mst", "roboBox",
+  "roboClean", "roboMark", "roboSet", "roboSet 1", "roboSet 2", "roboToSet", "saturn", "sawCheck", "screenMachine",
+  "screwMatic", "shrinkbyLight", "skp", "sls", "smartCheck", "smartCheck 450", "smartCheck 450/600/800",
+  "smartCheck 600", "smartCheck 600/800", "smartCheck 800", "smartCompartment", "smartCompartments", "smartPallet",
+  "smile", "smile 320", "smile 320 pilot 1.0", "smile 420", "smile 420 / pilot 4.0", "smile 420 pilot 1.0",
+  "smile 420 pilot 4.0", "smile 620", "smile EDM", "smile | GBO", "smileAdvance", "smileBasic", "smileCheck",
+  "smileCompact", "swomp", "tcs", "threadCheck", "threadCheck ❘ cc", "titan", "TMS Core", "toolBalancer",
+  "toolBalancer 1000", "toolBalancer 550", "toolBalancer 750", "toolCart", "toolCart 750", "toolEx", "Tooling",
+  "toolOrganizer", "toolOrganizer 1225", "toolOrganizer 600", "toolOrganizer 900", "toolSet", "toolStation",
+  "torquematic", "tribos", "tribos 600", "twinPanel", "twister", "V321combi", "V420 magnum", "V420 premium",
+  "V420 profi", "varOct", "venturion", "venturion 450", "venturion 450 pilot 4.0", "venturion 600", "venturion 800",
+  "wearCheck", "z.CAM Integration", "z.Connectivity", "z.DMI", "z.Integration", "z.One", "z.Resources",
+  "z.Shopfloor", "z.Stats", "z.Stock", "z.Storage", "Z3dCam", "zenit", "zep", "zep-R", "zidCode", "zidCode 4.0",
+  "zStream", "zTower"
+ ],
+ "aliases": {
+  "en": {"titanium": "titan", "smile GBO": "smile | GBO", "threadCheck cc": "threadCheck ❘ cc"},
+  "fr": {"titane": "titan", "gardien": "keeper", "génie": "genius", "zénith": "zenit", "Code ZID": "zidCode",
+         "threadCheck cc": "threadCheck ❘ cc"},
+  "es": {"titanio": "titan", "titán": "titan", "hiperión": "hyperion", "redomático": "redomatic",
+         "torquemático": "torquematic", "sonrisa": "smile", "piloto": "pilot", "piloto 3.0": "pilot 3.0",
+         "piloto 4.0": "pilot 4.0", "cabina de mando": "cockpit", "cabina": "cockpit",
+         "organizador de herramientas": "toolOrganizer", "organizador de herramientas 600": "toolOrganizer 600",
+         "carro de herramientas": "toolCart", "carro de herramientas 750": "toolCart 750",
+         "transportista redomático": "redomatic carrier", "atornilladora": "screwMatic",
+         "threadCheck cc": "threadCheck ❘ cc"}
+ },
+ "words": {
+  "en": ["the", "a", "an"],
+  "fr": ["le", "la", "les", "l'", "du", "de", "des", "un", "une", "en", "par", "kit", "modèles", "puce", "puces",
+         "système"],
+  "es": ["el", "la", "los", "las", "un", "una", "en", "es", "y", "o", "de", "chip", "opcional"]
+ }
+}
