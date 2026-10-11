@@ -1034,13 +1034,15 @@ main .bg-black, .site-footer { overflow-x: clip; }
 /* ---------- Seitenübergänge (View Transitions) ---------- */
 @view-transition { navigation: auto; }
 .site-header { view-transition-name: site-header; }
-::view-transition-old(root) { animation: 360ms cubic-bezier(.4, 0, 1, 1) both vt-out; }
-::view-transition-new(root) { animation: 640ms cubic-bezier(.16, 1, .3, 1) both vt-in; }
+/* Blattwechsel: die alte Seite sinkt als Karte ins Dunkle zurück, die neue gleitet mit gelber Messkante von unten darüber */
+::view-transition { background: #050506; }
+::view-transition-old(root) { animation: vt-sink .7s cubic-bezier(.65, 0, .35, 1) both; transform-origin: 50% 35%; }
+::view-transition-new(root) { animation: vt-rise .8s cubic-bezier(.16, 1, .3, 1) .06s both; box-shadow: 0 -2px 0 0 var(--yellow), 0 -40px 90px -20px rgba(0, 0, 0, .7); }
 ::view-transition-group(product-hero) { animation-duration: 820ms; animation-timing-function: cubic-bezier(.16, 1, .3, 1); }
 ::view-transition-image-pair(product-hero) { isolation: auto; }
 ::view-transition-old(product-hero), ::view-transition-new(product-hero) { mix-blend-mode: normal; height: 100%; object-fit: contain; }
-@keyframes vt-out { to { opacity: 0; transform: scale(.985); } }
-@keyframes vt-in { from { opacity: 0; transform: translateY(26px); } }
+@keyframes vt-sink { to { transform: scale(.92); opacity: .3; border-radius: 28px; } }
+@keyframes vt-rise { from { transform: translateY(100%); border-radius: 28px 28px 0 0; } to { transform: none; border-radius: 0; box-shadow: 0 0 0 0 rgba(240, 230, 0, 0), 0 0 0 0 rgba(0, 0, 0, 0); } }
 @media (prefers-reduced-motion: reduce) {
   @view-transition { navigation: none; }
 }
@@ -1902,4 +1904,129 @@ html.has-mscale .scroll-progress { display: none; }
 }
 @media print {
   .mscale, .footer-mark, .homefilm__dim { display: none !important; }
+}
+
+/* =========================================================================
+   Bewegung im Stil der Messtechnik (assets/js/motion.js)
+   ========================================================================= */
+
+/* Intro der Startseite (einmal pro Sitzung, html.intro-on setzt das Skript im <head>): auf Schwarz zieht sich die gelbe
+   Messkante auf, das Logo steigt aus ihr, darunter läuft ein Lineal voll – dann öffnet sich das Bild wie ein Messschieber.
+   Läuft ohne JavaScript zu Ende; motion.js überspringt es bei Scrollen, Klick oder Taste. */
+.intro { display: none; }
+html.intro-on .intro { display: block; position: fixed; inset: 0; z-index: 10001; animation: intro-gone 0s 2.25s forwards; }
+html.intro-skip .intro { animation: intro-skip .4s var(--ease-out) forwards; }
+.intro__jaw { position: absolute; left: 0; right: 0; height: 50.2%; background: #050506; display: flex; justify-content: center; will-change: transform; }
+.intro__jaw--top { top: 0; align-items: flex-end; animation: jaw-top .9s cubic-bezier(.76, 0, .24, 1) 1.28s forwards; }
+.intro__jaw--bot { bottom: 0; align-items: flex-start; animation: jaw-bot .9s cubic-bezier(.76, 0, .24, 1) 1.28s forwards; }
+.intro__jaw::after { content: ""; position: absolute; left: 0; right: 0; height: 2px; background: var(--yellow); box-shadow: 0 0 22px 2px rgba(240, 230, 0, .55); transform: scaleX(0); animation: intro-edge .8s var(--ease-out) .12s forwards; }
+.intro__jaw--top::after { bottom: 0; }
+.intro__jaw--bot::after { top: 0; }
+.intro__logo { width: min(360px, 62vw); margin-bottom: clamp(26px, 4.5vh, 52px); overflow: hidden; }
+.intro__logo svg { display: block; width: 100%; height: auto; color: #fff; transform: translateY(105%); animation: intro-rise 1s var(--ease-out) .32s forwards; }
+.intro__ruler { position: relative; width: min(360px, 62vw); height: 16px; margin-top: clamp(22px, 3.6vh, 40px); clip-path: inset(0 100% 0 0); animation: intro-wipe .8s var(--ease-out) .42s forwards;
+  background: repeating-linear-gradient(90deg, rgba(255, 255, 255, .6) 0 1px, transparent 1px 36px) 0 0 / 100% 16px no-repeat,
+              repeating-linear-gradient(90deg, rgba(255, 255, 255, .3) 0 1px, transparent 1px 7.2px) 0 0 / 100% 8px no-repeat; }
+.intro__ruler::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 2px; background: var(--yellow); transform-origin: 0 50%; transform: scaleX(0); animation: intro-fill .75s cubic-bezier(.55, .06, .18, 1) .55s forwards; }
+@keyframes intro-edge { to { transform: scaleX(1); } }
+@keyframes intro-rise { to { transform: none; } }
+@keyframes intro-wipe { to { clip-path: inset(0 0 0 0); } }
+@keyframes intro-fill { to { transform: scaleX(1); } }
+@keyframes jaw-top { to { transform: translateY(-101%); } }
+@keyframes jaw-bot { to { transform: translateY(101%); } }
+@keyframes intro-gone { to { visibility: hidden; } }
+@keyframes intro-skip { to { opacity: 0; visibility: hidden; } }
+.reduced-motion .intro { display: none !important; }
+
+/* Hero-Titel Buchstabe für Buchstabe (danach stellt motion.js den Originaltext wieder her – Unterschneidung bleibt) */
+.c-split .cw { display: inline-block; white-space: nowrap; overflow: hidden; vertical-align: top; padding: 0 .04em .14em; margin: 0 -.04em -.14em; }
+.c-split .cc { display: inline-block; transform: translateY(112%) rotate(7deg); transform-origin: 0 100%; animation: cc-in 1.05s var(--ease-out) forwards; animation-delay: calc(var(--cs-d, .2s) + var(--i, 0) * 24ms); }
+@keyframes cc-in { to { transform: none; } }
+
+/* Gelber Marker unter hervorgehobenen Wörtern großer Texte */
+.mk { background: linear-gradient(rgba(240, 230, 0, .85), rgba(240, 230, 0, .85)) no-repeat 0 90% / 0% .34em; -webkit-box-decoration-break: clone; box-decoration-break: clone; transition: background-size 1.2s var(--ease-out) .1s; }
+.mk.mk-in { background-size: 100% .34em; }
+.bg-yellow .mk { background-image: linear-gradient(rgba(255, 255, 255, .85), rgba(255, 255, 255, .85)); }
+.bg-black .mk, .feature-dark .mk { background-image: linear-gradient(rgba(240, 230, 0, .42), rgba(240, 230, 0, .42)); }
+
+/* Technische Daten als Messprotokoll: Zeilen laufen nacheinander ein, jede mit kurzem gelben Prüfstrich */
+table.proto :is(td, th) { opacity: 0; translate: -12px 0; transition: opacity .6s var(--ease-out), translate .8s var(--ease-out); transition-delay: calc(var(--r, 0) * 32ms); }
+table.proto.proto-in :is(td, th) { opacity: 1; translate: none; }
+table.proto.proto-in td:first-child { animation: proto-tick 1.3s var(--ease-out) calc(var(--r, 0) * 32ms + .15s) backwards; }
+@keyframes proto-tick { from { box-shadow: inset 3px 0 0 var(--yellow); background-color: rgba(240, 230, 0, .2); } to { box-shadow: inset 3px 0 0 rgba(240, 230, 0, 0); background-color: rgba(240, 230, 0, 0); } }
+
+/* Footer: Spalten und Links nacheinander */
+.fg > * { opacity: 0; translate: 0 26px; transition: opacity .8s var(--ease-out), translate 1s var(--ease-out); transition-delay: calc(var(--c, 0) * 90ms); }
+.fg li { opacity: 0; translate: 0 10px; transition: opacity .6s var(--ease-out), translate .8s var(--ease-out); transition-delay: calc(var(--c, 0) * 90ms + var(--l, 0) * 38ms + .2s); }
+.fg.fg-in > *, .fg.fg-in li { opacity: 1; translate: none; }
+
+/* Buttons: Beschriftung rollt beim Überfahren durch */
+.roll { position: relative; display: inline-block; overflow: hidden; vertical-align: top; height: 1.2em; line-height: 1.2; white-space: nowrap; }
+.roll > span { display: block; transition: transform .55s var(--ease-out); }
+.roll > span + span { position: absolute; left: 0; top: 100%; }
+.btn:hover .roll > span, .btn:focus-visible .roll > span { transform: translateY(-100%); }
+
+/* Fortschrittsring am »Nach oben«-Knopf */
+.to-top .to-top__ring { position: absolute; inset: 3px; width: auto; height: auto; transform: rotate(-90deg); pointer-events: none; overflow: visible; }
+.to-top__ring circle { fill: none; stroke: var(--black); stroke-width: 2; stroke-linecap: round; stroke-dasharray: 1; stroke-dashoffset: 1; opacity: .8; }
+@supports (animation-timeline: scroll()) {
+  .to-top__ring circle { animation: ring-fill linear both; animation-timeline: scroll(root); }
+}
+@keyframes ring-fill { to { stroke-dashoffset: 0; } }
+
+/* Scan beim Hereinscrollen: gelbe Messlinie, darunter das Bild noch grau im Messraster */
+.scan { position: absolute; inset: 0; z-index: 2; pointer-events: none; will-change: transform;
+  background-color: rgba(8, 10, 12, .16);
+  background-image: linear-gradient(rgba(255, 255, 255, .16) 1px, transparent 1px), linear-gradient(90deg, rgba(255, 255, 255, .16) 1px, transparent 1px);
+  background-size: 28px 28px; background-position: -1px -1px;
+  -webkit-backdrop-filter: grayscale(1) contrast(1.12) brightness(.8); backdrop-filter: grayscale(1) contrast(1.12) brightness(.8); }
+.scan::before { content: ""; position: absolute; left: 0; right: 0; top: -1px; height: 2px; background: var(--yellow); box-shadow: 0 0 16px 2px rgba(240, 230, 0, .75); opacity: 0; transition: opacity .3s; }
+.scan::after { content: ""; position: absolute; left: 0; right: 0; bottom: 100%; height: 72px; background: linear-gradient(0deg, rgba(240, 230, 0, .2), rgba(240, 230, 0, 0)); opacity: 0; transition: opacity .3s; }
+.scan.is-live::before, .scan.is-live::after { opacity: 1; }
+.media-frame--contain .scan { background-color: transparent; }
+
+/* Produktkarten: beim Überfahren fährt einmal die Messlinie über das Gerät */
+.product-card__img::before { content: ""; position: absolute; left: 8%; right: 8%; top: 4%; z-index: 2; height: 2px; border-radius: 2px; background: var(--yellow); box-shadow: 0 0 14px 2px rgba(240, 230, 0, .7); opacity: 0; pointer-events: none; }
+.product-card:hover .product-card__img::before { animation: card-scan 1.2s var(--ease-in-out) both; }
+@keyframes card-scan { 0% { top: 4%; opacity: 0; } 14%, 84% { opacity: 1; } 100% { top: 90%; opacity: 0; } }
+
+/* Messraster im Hintergrund dunkler Abschnitte – wandert langsamer als der Inhalt */
+.bp-grid { position: absolute; inset: 0; z-index: 0; overflow: hidden; pointer-events: none;
+  -webkit-mask-image: radial-gradient(ellipse 75% 70% at 50% 45%, #000 25%, transparent 88%); mask-image: radial-gradient(ellipse 75% 70% at 50% 45%, #000 25%, transparent 88%); }
+.bp-grid > i { position: absolute; left: 0; right: 0; top: -192px; bottom: -192px; will-change: transform;
+  background-image: linear-gradient(rgba(255, 255, 255, .075) 1px, transparent 1px), linear-gradient(90deg, rgba(255, 255, 255, .075) 1px, transparent 1px),
+                    linear-gradient(rgba(255, 255, 255, .035) 1px, transparent 1px), linear-gradient(90deg, rgba(255, 255, 255, .035) 1px, transparent 1px);
+  background-size: 192px 192px, 192px 192px, 48px 48px, 48px 48px; background-position: center top; }
+.uf-bg > .bp-grid { z-index: auto; }
+
+/* Fadenkreuz-Cursor (Desktop mit Maus) */
+html.has-cur:not(.cur-off), html.has-cur:not(.cur-off) :not(canvas, input, textarea, select, iframe, [contenteditable], [contenteditable] *) { cursor: none !important; }
+.cur { position: fixed; left: 0; top: 0; z-index: 2147483000; pointer-events: none; opacity: 0; transition: opacity .25s; --c: #0a0a0a; --c2: rgba(255, 255, 255, .85); --lk: #0a0a0a; }
+.cur.is-on { opacity: 1; }
+.cur.is-dark { --c: #fff; --c2: rgba(0, 0, 0, .55); --lk: var(--yellow); }
+html.cur-off .cur, .cur[data-mode="native"] { opacity: 0 !important; }
+.cur__dot { position: absolute; left: -3px; top: -3px; width: 6px; height: 6px; border-radius: 50%; background: var(--yellow); box-shadow: 0 0 0 1.5px var(--c); transition: scale .3s var(--ease-out); }
+.cur[data-mode="lock"] .cur__dot { scale: .5; }
+.cur__frame { position: absolute; left: 0; top: 0; width: 34px; height: 34px; transform-origin: 50% 50%; }
+.cur__frame i { position: absolute; width: 9px; height: 9px; border: 0 solid var(--c); filter: drop-shadow(0 0 1px var(--c2)); transition: width .3s var(--ease-out), height .3s var(--ease-out), border-color .3s; }
+.cur__frame i:nth-child(1) { left: 0; top: 0; border-left-width: 1.5px; border-top-width: 1.5px; }
+.cur__frame i:nth-child(2) { right: 0; top: 0; border-right-width: 1.5px; border-top-width: 1.5px; }
+.cur__frame i:nth-child(3) { left: 0; bottom: 0; border-left-width: 1.5px; border-bottom-width: 1.5px; }
+.cur__frame i:nth-child(4) { right: 0; bottom: 0; border-right-width: 1.5px; border-bottom-width: 1.5px; }
+.cur[data-mode="lock"] .cur__frame i { width: 12px; height: 12px; border-color: var(--lk); border-width: 0; }
+.cur[data-mode="lock"] .cur__frame i:nth-child(1) { border-left-width: 2px; border-top-width: 2px; }
+.cur[data-mode="lock"] .cur__frame i:nth-child(2) { border-right-width: 2px; border-top-width: 2px; }
+.cur[data-mode="lock"] .cur__frame i:nth-child(3) { border-left-width: 2px; border-bottom-width: 2px; }
+.cur[data-mode="lock"] .cur__frame i:nth-child(4) { border-right-width: 2px; border-bottom-width: 2px; }
+.cur[data-mode="measure"] .cur__frame i { border-color: var(--yellow); }
+.cur__h, .cur__v { position: absolute; left: 0; top: 0; width: 1px; height: 1px; background: rgba(240, 230, 0, .9); box-shadow: 0 0 6px rgba(240, 230, 0, .6); opacity: 0; transition: opacity .25s; }
+.cur__read { position: absolute; left: 0; top: 0; padding: .22rem .5rem .26rem; border-radius: 6px; background: rgba(8, 8, 10, .78); color: var(--yellow); font-size: .6875rem; font-weight: 700; letter-spacing: .05em; line-height: 1.3; font-variant-numeric: tabular-nums; white-space: pre; opacity: 0; transition: opacity .25s; }
+.cur[data-mode="measure"] :is(.cur__h, .cur__v, .cur__read) { opacity: 1; }
+
+@media (prefers-reduced-motion: reduce) {
+  .scan, .bp-grid, .cur, .intro, .to-top__ring { display: none !important; }
+  .product-card:hover .product-card__img::before { animation: none; }
+}
+@media print {
+  .scan, .bp-grid, .cur, .intro { display: none !important; }
 }

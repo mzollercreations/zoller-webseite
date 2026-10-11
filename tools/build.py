@@ -386,6 +386,8 @@ def _wordmark():
 
 
 WORDMARK_SVG = _wordmark()
+# Intro der Startseite: dasselbe Logo, eigene Clip-ID (der Footer-Schriftzug steht auf derselben Seite)
+INTRO_SVG = WORDMARK_SVG.replace('class="footer-mark__svg"', 'class="intro__svg"').replace("zw-clip", "zi-clip")
 
 
 # ============================================================= Blocks ====
@@ -2211,6 +2213,16 @@ def strip_zoller_links(doc, path):
     return doc
 
 
+# Intro der Startseite (main.css .intro, motion.js): nur beim ersten Besuch pro Sitzung, nicht beim Weg von einer
+# anderen Seite des Auftritts, nicht nach dem Länderwechsel und nicht bei »Bewegung reduzieren«
+INTRO_JS = ("try{(function(h,r){"
+            "if(!sessionStorage.getItem('zoller-intro')&&!h.classList.contains('reduced-motion')&&!h.classList.contains('arrive')"
+            "&&!(r&&new URL(r).host===location.host))h.classList.add('intro-on');sessionStorage.setItem('zoller-intro','1')"
+            "})(document.documentElement,document.referrer)}catch(e){}")
+INTRO_HTML = ('<div class="intro" aria-hidden="true"><div class="intro__jaw intro__jaw--top"><div class="intro__logo">' + INTRO_SVG + '</div></div>'
+              '<div class="intro__jaw intro__jaw--bot"><div class="intro__ruler"></div></div></div>\n')
+
+
 def render_page(page):
     ctx = Ctx(page)
     ctx.inline = False
@@ -2307,14 +2319,15 @@ def render_page(page):
 <link rel="stylesheet" href="{ctx.prefix}assets/css/main.css?v={ASSET_VER}">
 <script>document.documentElement.className='js';if(matchMedia('(prefers-reduced-motion: reduce)').matches)document.documentElement.classList.add('reduced-motion');
 setTimeout(function(){{if(!window.ZOLLER_READY)document.documentElement.classList.add('reduced-motion')}},5000);
-try{{var za=JSON.parse(sessionStorage.getItem('zoller-arrive')||'null');sessionStorage.removeItem('zoller-arrive');if(za&&Date.now()-za.t<15000)document.documentElement.classList.add('arrive')}}catch(e){{}}</script>{i18n_js}
+try{{var za=JSON.parse(sessionStorage.getItem('zoller-arrive')||'null');sessionStorage.removeItem('zoller-arrive');if(za&&Date.now()-za.t<15000)document.documentElement.classList.add('arrive')}}catch(e){{}}{INTRO_JS if is_home else ""}</script>{i18n_js}
 <script type="importmap">{{"imports":{{"three":"{ctx.root}assets/vendor/three.module.min.js"}}}}</script>
 </head>'''
     scripts = f'''<script src="{ctx.prefix}assets/vendor/gsap.min.js" defer></script>
 <script src="{ctx.prefix}assets/vendor/ScrollTrigger.min.js" defer></script>
 <script src="{ctx.prefix}assets/vendor/lenis.min.js" defer></script>
 <script src="{ctx.prefix}assets/js/main.js?v={ASSET_VER}" defer></script>
-<script src="{ctx.prefix}assets/js/scrollfx.js?v={ASSET_VER}" defer></script>'''
+<script src="{ctx.prefix}assets/js/scrollfx.js?v={ASSET_VER}" defer></script>
+<script src="{ctx.prefix}assets/js/motion.js?v={ASSET_VER}" defer></script>'''
     if ctx.has_agenda:
         scripts += f'''
 <script src="{ctx.prefix}assets/js/eventagenda.js?v={ASSET_VER}" defer></script>'''
@@ -2334,7 +2347,7 @@ try{{var za=JSON.parse(sessionStorage.getItem('zoller-arrive')||'null');sessionS
     doc = f'''{head}
 <body class="{body_cls}" data-root="{ctx.root}"{f' data-index="assets/search-index-{LOC["lang"]}.json"' if LOC["dir"] else ""}>
 <a class="skip-link" href="#main">{_("Zum Inhalt springen")}</a>
-{header_html(ctx)}
+{INTRO_HTML if is_home else ""}{header_html(ctx)}
 <main id="main" class="{ctx.main_cls}">
 {body}
 </main>
