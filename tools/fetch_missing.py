@@ -29,8 +29,11 @@ from fetch_locale import ORIGIN, get, slug, slugify  # noqa: E402
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LOCALE_PREFIXES = ("ca", "ca-fr", "mx", "en_DE", "us", "es", "fr", "it", "pt", "se", "ru", "tr", "ja", "kr", "in",
                    "br", "at", "ch", "cz", "pl", "si", "hu", "sk")
-FALLBACK = {"en": ("en-US", "en-IN", "en-DE", "en"), "fr": ("fr-FR",), "es": ("es-ES",), "de": ("de-AT",)}
-PAGE_WORD = {"de": "seite", "en": "page", "fr": "page", "es": "pagina"}
+FALLBACK = {"en": ("en-US", "en-IN", "en-DE", "en"), "fr": ("fr-FR",), "es": ("es-ES",), "de": ("de-AT", "de-DE"),
+            "it": ("it-IT",), "pt": ("pt-PT", "pt-BR"), "sv": ("sv-SE",), "pl": ("pl-PL",), "sl": ("sl-SI",),
+            "cs": ("cs-CZ",), "hu": ("hu-HU",), "sk": ("sk-SK",), "zh": ("zh-CN",), "ja": ("ja-JP",), "ko": ("ko-KR",)}
+PAGE_WORD = {"de": "seite", "en": "page", "fr": "page", "es": "pagina", "it": "pagina", "pt": "pagina", "sv": "sida",
+             "pl": "strona", "sl": "stran", "cs": "strana", "hu": "oldal", "sk": "strana", "zh": "page", "ja": "page", "ko": "page"}
 SKIP_QUERY = ("tx_form_formframework", "tx_zoller_serial", "tx_kesearch", "tx_indexedsearch", "L=", "type=")
 
 
@@ -42,20 +45,32 @@ def conf_for(loc):
 
 
 def page_lang_ok(raw, lang):
-    """Sprache des Hauptinhalts per Funktionswörter (wie extract_locale.language_ok)."""
+    """Sprache des Hauptinhalts per Funktionswörter bzw. Schriftzeichen (wie extract_locale.language_ok)."""
     main = re.search(r"<main[\s\S]*?</main>", raw)
-    words = re.findall(r"[a-zäöüßéèàùâêîôûçñáíóú]+", html.unescape(re.sub(r"<[^>]+>", " ", main.group(0) if main else raw)).lower())
-    score = lambda l: sum(words.count(w) for w in extract_locale.STOPWORDS[l])
+    text = html.unescape(re.sub(r"<[^>]+>", " ", main.group(0) if main else raw))
+    score = lambda l: extract_locale.lang_score(text, l)
+    if lang in extract_locale.SCRIPTS:
+        return score(lang) >= 10 * max(score("de"), score("en")) and score(lang) >= 20
     return all(score(lang) >= score(o) for o in extract_locale.STOPWORDS if o != lang)
 
 
-GENERIC = ("detail", "details", "detalle")
+GENERIC = extract_locale.DETAIL_SEGS
 # News-Bereiche: Detailseite der deutschen Seite (gleiche TYPO3-Seite, gleiche Abfrage-Parameter)
 DE_NEWS_BASE = (("your-success", "/ihr-erfolg/detail"), ("votre-reussite", "/ihr-erfolg/detail"), ("su-exito", "/ihr-erfolg/detail"),
                 ("reports-stories", "/unternehmen/reports-stories/detail"), ("rapports-et-articles", "/unternehmen/reports-stories/detail"),
                 ("informes-e-historias", "/unternehmen/reports-stories/detail"), ("/media", "/unternehmen/medien/detail"),
                 ("/medias", "/unternehmen/medien/detail"), ("medios-de-comunicacion", "/unternehmen/medien/detail"),
-                ("ihr-erfolg", "/ihr-erfolg/detail"), ("/medien", "/unternehmen/medien/detail"))
+                ("ihr-erfolg", "/ihr-erfolg/detail"), ("/medien", "/unternehmen/medien/detail"),
+                # weitere Sprachfassungen (2026-10-12): Berichte & Stories, Medien
+                ("rapporti-e-storie", "/unternehmen/reports-stories/detail"), ("relatorios-e-historias", "/unternehmen/reports-stories/detail"),
+                ("rapporter-och-beraettelser", "/unternehmen/reports-stories/detail"), ("raporty-i-artykuly", "/unternehmen/reports-stories/detail"),
+                ("报告与故事", "/unternehmen/reports-stories/detail"), ("レポートストーリー", "/unternehmen/reports-stories/detail"),
+                ("보고서-및-기사", "/unternehmen/reports-stories/detail"), ("jelentesek-es-toertenetek", "/unternehmen/reports-stories/detail"),
+                ("zpravy-a-pribehy", "/unternehmen/reports-stories/detail"), ("spravy-a-pribehy", "/unternehmen/reports-stories/detail"),
+                ("porocila-in-zgodbe", "/unternehmen/reports-stories/detail"), ("rapports-et-recits", "/unternehmen/reports-stories/detail"),
+                ("manufacturing-reports-stories", "/unternehmen/reports-stories/detail"),
+                ("/midia", "/unternehmen/medien/detail"), ("/mediji", "/unternehmen/medien/detail"), ("/媒体", "/unternehmen/medien/detail"),
+                ("/メディア", "/unternehmen/medien/detail"), ("/미디어", "/unternehmen/medien/detail"), ("/media", "/unternehmen/medien/detail"))
 
 
 def alternates(raw):
@@ -114,7 +129,8 @@ def resolve_news_query(h, loc, conf):
     except Exception:  # noqa: BLE001
         return None, None
     alts = alternates(de_slug_raw)
-    own = alts.get(conf["code"], "").replace(ORIGIN, "")
+    own = urllib.parse.unquote(alts.get(conf["code"], "").replace(ORIGIN, ""))
+    base = urllib.parse.unquote(base)
     path = own if own.startswith("/" + loc + "/") else base + "/" + de_path.rstrip("/").split("/")[-1]
     for url in ([alts[conf["code"]]] if conf["code"] in alts else []) + candidates(alts, conf["code"], conf["lang"]):
         try:
@@ -179,7 +195,7 @@ def main():
         for h in sorted(collect_links(pages, loc)):
             if h in tried or h in queries:
                 continue
-            if "?" not in h and local_path(h, loc, conf) in pages:
+            if "?" not in h and local_path(urllib.parse.unquote(h), loc, conf) in pages:
                 continue
             if "?" in h and "tx_news_pi1" not in h:
                 continue
@@ -195,9 +211,9 @@ def main():
             except Exception as e:  # noqa: BLE001
                 print("   nicht erreichbar:", h, str(e)[:60])
                 continue
-            path = h.split("?")[0].rstrip("/")
+            path = urllib.parse.unquote(h.split("?")[0]).rstrip("/")   # CJK-Adressen kommen kodiert (%E4…)
             alt = ""
-            if re.search(r"/(details?|detalle)/[^/?]+$", path):
+            if re.search(r"/" + extract_locale.DETAIL_RE + r"/[^/?]+$", path):
                 raw, alt = right_language(raw, lang, conf.get("code", "de-DE"))
             if "?" in h:
                 q = urllib.parse.unquote(h.split("?", 1)[1])
@@ -234,7 +250,7 @@ def main():
     # Bereits geladene News in falscher Sprache durch die offizielle Übersetzung ersetzen
     fixed = 0
     for fn in glob.glob(os.path.join(raw_dir, "*.html")):
-        if not re.search(r"__(details?|detalle)__[^_]", os.path.basename(fn)):
+        if not re.search(r"__" + extract_locale.DETAIL_RE + r"__[^_]", os.path.basename(fn)):
             continue
         raw = open(fn, encoding="utf-8", errors="ignore").read()
         body, alt = right_language(raw, lang, conf.get("code", "de-DE"))

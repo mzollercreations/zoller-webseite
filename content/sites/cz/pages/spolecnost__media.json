@@ -1,0 +1,339 @@
+{
+ "path": "/spolecnost/media",
+ "url": "/cz/spolecnost/media",
+ "title": "Média",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Společnost /",
+   "href": "/cz/spolecnost"
+  },
+  {
+   "label": "Média",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Společnost /",
+   "href": "/cz/spolecnost"
+  },
+  {
+   "label": "Média",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/medien",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/media",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/medios-de-comunicacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/medias",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/midia",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/media",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/media",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/medien",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/media",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/medias",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EB%AF%B8%EB%94%94%EC%96%B4",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/media",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/medios-de-comunicacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/midia",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "textmedia",
+   "header": "<h1> Média </h1>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c792",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "newslist",
+   "header": "<h3> Tiskové zprávy </h3>",
+   "articles": [],
+   "pages": [],
+   "ftype": "news_newsliststicky",
+   "id": "c793",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p><a class=\"btn\" href=\"/cz/spolecnost/zpravy-a-pribehy?tx_news_pi1%5BoverwriteDemand%5D%5Btags%5D=45&amp;cHash=25afede15b12521919a2bbdb5816e592\">Další tiskové zprávy</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c797",
+   "bg": "lightgray",
+   "space": {
+    "before": "none",
+    "after": "small"
+   }
+  },
+  {
+   "type": "downloads",
+   "header": "<h3> Brožury </h3>",
+   "files": [
+    {
+     "href": "/fileadmin/blaetterkatalog/DRMAG_01_2026_EN/index.html",
+     "name": "ZOLLER Magazine 01|2026 (Flipbook)",
+     "size": "4 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/5/1/csm_ZOLLER_Magazine_1_2026_DRMAG01_26_EN_124ebf7cd3.png",
+      "alt": "",
+      "w": 310,
+      "h": 437
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Magazin/ZOLLER_Magazine_1_2026_DRMAG01_26_EN.pdf",
+     "name": "ZOLLER Magazine 01|2026",
+     "size": "3 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/5/1/csm_ZOLLER_Magazine_1_2026_DRMAG01_26_EN_124ebf7cd3.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ZOLLER Magazine 01|2026"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Magazin/ZOLLER80_Grussbotschaft_EN.pdf",
+     "name": "80 years of ZOLLER",
+     "size": "8 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/7/6/csm_ZOLLER80_Grussbotschaft_EN_2786541a16.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "80 years of  ZOLLER"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Magazin/insights-ZOLLER_Brochure_EN.pdf",
+     "name": "ZOLLER insights",
+     "size": "1 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/b/1/csm_insights-ZOLLER_Brochure_EN_f4426262c6.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ZOLLER insights"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Magazin/rz_Ansicht_Zmagazin-05-2019_EN.pdf",
+     "name": "ZOLLER Magazin Edition 2019",
+     "size": "11 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/4/0/csm_rz_Ansicht_Zmagazin-05-2019_EN_939c3383e1.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ZOLLER Magazin Edition 2019"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Magazin/Zmagazine-04-2018_EN_web.pdf",
+     "name": "ZOLLER Magazin Edition 2018",
+     "size": "7 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/1/6/csm_Zmagazine-04-2018_EN_web_5398c9853c.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ZOLLER Magazin Edition 2018"
+     }
+    }
+   ],
+   "ftype": "uploads",
+   "id": "c4008",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "raw",
+   "html": "<h3> Kontakt pro média </h3> <a href=\"/cz/spolecnost/media\" title=\"Henrieke Heimbeck\"> <img alt=\"\" height=\"554\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/8/csm_press_contact_b9abc7099a.webp\" title=\"Henrieke Heimbeck\" width=\"1050\"/> </a> <h3>Henrieke Heimbeck</h3> <p>Assistentin der Geschäftsleitung</p> <p>Phone</p> <a href=\"tel:+4971448970133\">+4971448970133</a> <p>E-Mail</p> <a href=\"mailto:heimbeck@zoller-d.com\">heimbeck@zoller-d.com</a>",
+   "ftype": "list",
+   "id": "c794",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/f/6/csm_teaser_map_c7d5eb53c3.webp",
+    "alt": ""
+   },
+   "text": "<h3>Jsme tu pro Vás po celém světě</h3> <p><a class=\"btn\" href=\"/cz/spolecnost/kontakt/pobocky\">Vyhledávání poboček</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c789",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/cz/spolecnost/media",
+ "de_path": "/unternehmen/medien"
+}

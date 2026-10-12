@@ -1,0 +1,606 @@
+{
+ "path": "/reseni/drzaky-nastroju/casto-kladene-otazky",
+ "url": "/cz/reseni/drzaky-nastroju/casto-kladene-otazky",
+ "title": "Řešení pro nástroje – Často kladené otázky",
+ "description": "Často kladené otázky - Řešení pro nástroje – Často kladené otázky",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Řešení /",
+   "href": "/cz/reseni"
+  },
+  {
+   "label": "Nástrojové upínací držáky",
+   "href": "/cz/reseni/drzaky-nastroju"
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Řešení /",
+   "href": "/cz/reseni"
+  },
+  {
+   "label": "Nástrojové upínací držáky",
+   "href": "/cz/reseni/drzaky-nastroju"
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/werkzeugaufnahmen/faq",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/tooling-solutions/faq",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/portaherramientas/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/fixation-doutil/faq",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/porta-ferramentas/perguntas-frequentes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/soluzioni-dutensileria/domande-frequenti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/verktygshaallare/vanliga-fraagor",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/werkzeugaufnahmen/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/tooling-solutions/faq",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/porte-outils/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B7%A5%E5%85%B7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/tooling-solutions/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/porta-herramientas/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/porta-ferramentas/perguntas-frequentes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Nástrojové upínací držáky",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/cz/reseni/drzaky-nastroju",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Často kladené otázky",
+     "href": "/cz/reseni/drzaky-nastroju/casto-kladene-otazky",
+     "current": false
+    },
+    {
+     "label": "Info-centrum",
+     "href": "/cz/reseni/drzaky-nastroju/informacni-centrum",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1414",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Často kladené otázky </h1>",
+      "body": "<p>Často kladené otázky</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c1426",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Jaké podmínky musí moje výroba splňovat, aby bylo možné používat »idChip«?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Prvním důležitým předpokladem je vhodná čtečka, která dokáže načíst kód DataMatrix. Pro správu údajů o nástrojích potřebujete odpovídající software. Obojí Vám nabízí společnost ZOLLER v podobě »zidCode 4.0« a softwaru TMS Tool Management Solutions.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1455",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Je možné držáky označit čipem »idChip« i dodatečně?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Ano, to je možné kdykoli. Pokud chcete své nástroje vybavit čipem ZOLLER »idChip«, stačí se obrátit na naše obchodní oddělení.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1453",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Jaké výhody má »idChip« oproti označení pomocí samolepicích štítků?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>»idLabel« nalepovací štítky doporučujeme spíše pro pevné nástroje a upínací přípravky, protože se při použití neotáčí. U rotujících nástrojů je lepší volbou »idChip«. Upevňuje se do držáku, kde je chráněn, ale přesto dobře viditelný. »idChip« můžete snadno přilepit dvousložkovým lepidlem. To si můžete zakoupit u nás nebo u jiných dodavatelů.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1451",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Společnost ZOLLER je známá jako výrobce měřicích a seřizovacích přístrojů. Vyrábí společnost ZOLLER také držáky nástrojů Tooling Solutions?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>V oblasti upínání nástrojů společnost ZOLLER úzce spolupracuje se svým partnerem, firmou Schüssler. Firma Schüssler vyrábí nástrojové držáky, společnost ZOLLER dodává řešení »idChip« a prostřednictvím nového internetového obchodu ZOLLER zajišťuje snadný, rychlý a pohodlný nákup držáků.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1449",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Jaká je životnost držáku pro tepelné upínání? Kolikrát lze držáku ohřát a zchladit?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Při správném provedení ohřevu a zchlazení držáků ZOLLER Tooling Solutions lze tato řešení použít pro více než 10 000 cyklů bez ztráty přesnosti. Platí pro držáky s průměrem otvoru větším než 6 mm. U průměru 5 mm a méně je to 5 000 cyklů.</p> <p>Správný proces ohřevu a chlazení přímo podporuje technologie ZOLLER »actbyLight«, která zajišťuje správné a bezpečné provedení tepelných cyklů.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c1447",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Proč bychom měli používat vyvážené držáky nástrojů?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Vyvážené držáky nástrojů zvyšují produktivitu. Vyvážení má pozitivní výsledky a je patrné v mnoha oblastech obráběcího procesu. Delší životnost nástrojů, delší životnost vřeten strojů, lepší povrch a delší životnost nástrojů - to jsou jen některé z faktorů, které mohou výrazně snížit výrobní náklady.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1445",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Jaké maximální délky nabízí ZOLLER Tooling Solutions?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Držáky ZOLLER Tooling Solutions nabízí délku držáku GPL 200 mm (délka přesahu A).</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1443",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Jsou k dispozici také vyvážené upínací držáky s kleštinami ER?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>V rámci ZOLLER Tooling Solutions jsou k dispozici také vyvažovatelné upínací držáky s ER kleštinami. Pro vyvažování se nasadí pojistná matice a použije se referenční kolík, který simuluje řezný nástroj.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1441",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Z jakého materiálu je vyroben tepelný nástrojový držák?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Při výrobě nástrojových tepelných držáků ZOLLER Tooling Solutions se používá tepelně odolná nástrojová ocel.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1439",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Jaké jsou rozdíly mezi tepelným držákem, kleštinovým držákem a hydraulickým držákem?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Žádný jiný upínací systém se nemůže vyrovnat přesnosti upnutí s minimálním obvodovým házením a výkonu tepelného držáku. Jelikož tepelné upínací systémy nevyžadují kleštinu, upínací matici ani stavěcí šrouby, mají držáky malý vnější průměr, což umožňuje obrábět i těžko přístupná místa.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1437",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Jaká je nutná tolerance stopky nástroje, aby bylo možné řezné nástroje používat v tepelných upínacích držácích?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Tolerance stopky řezného nástroje by měla být h5 nebo h6.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1435",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Kde lze zakoupit nástrojové držáky ZOLLER Tooling Solutions?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Objednávku lze provést online prostřednictvím <a class=\"link-arrow\" href=\"https://myzoller.com/de/de/shop/tooling/\" rel=\"noopener\" target=\"_blank\"><strong>portálu</strong></a> ZOLLER <a class=\"link-arrow\" href=\"https://myzoller.com/de/de/shop/tooling/\" rel=\"noopener\" target=\"_blank\"><strong>MYZOLLER</strong></a>. Online objednávky lze v současné době zadávat v Německu a USA. V ostatních zemích je možné si nástrojové držáky vybrat na portálu MYZOLLER a vygenerovaný seznam položek zaslat příslušným regionálním prodejcům společnosti ZOLLER a požádat o cenovou nabídku.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1433",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Provádí se vyvažování nástrojových držáků po přidání čipu ZOLLER »idChip« nebo jiného RFID čipu?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Pokud jsou držáky nástrojů objednány s řešením ZOLLER »idChip« nebo jinými RFID čipy, jsou nástrojové držáky vyváženy spolu s těmito čipy.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1431",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Jaké jsou dodací lhůty u všech typů držáků ZOLLER Tooling Solutions?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Prostřednictvím internetového obchodu je možné kdykoli online zkontrolovat skladovou dostupnost produktů ZOLLER Tooling Solutions.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1429",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Je možné získat digitální formáty DXF, PNG a STP pro ZOLLER Tooling Solutions ještě před odesláním objednávky?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Digitální dvojčata jsou k dispozici v internetovém obchodě ZOLLER Tooling Solution, kde si je lze kdykoli stáhnout a použít v softwaru ZOLLER TMS Tool Management Solutions nebo v jiných systémech CAD/CAM.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1457",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c1427",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c1425",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Teď je řada na vás – neváhejte a sáhněte po něm! </h2>",
+   "body": "<p>V našem internetovém obchodě je vám nyní k dispozici kompletní sortiment upínacích systémů pro nástroje. Najděte si svůj ideální upínací systém snadno, rychle a pohodlně a využijte digitální dvojče, které je tam k dispozici, ihned ve svém systému CAM a pro správu nástrojů.</p> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">Do obchodu s nástroji</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/d/csm_zum_myzoller_shop_704443f1bc.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1458",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/cz/reseni/drzaky-nastroju/casto-kladene-otazky",
+ "de_path": "/solutions/werkzeugaufnahmen/faq"
+}

@@ -1,0 +1,290 @@
+{
+ "path": "/maszyny-pomiarowe",
+ "url": "/pl/maszyny-pomiarowe",
+ "title": "Maszyny pomiarowe",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pl/strona-glowna"
+  },
+  {
+   "label": "Maszyny pomiarowe",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pl/strona-glowna"
+  },
+  {
+   "label": "Maszyny pomiarowe",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/messmaschinen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/measuring-machines",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/maquinas-de-medicion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/machines-de-mesure",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/maquinas-de-medicao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/macchine-di-misura",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/maetmaskiner",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/messmaschinen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/machines-de-mesure",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E6%B8%AC%E5%AE%9A%E6%A9%9F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%B8%A1%EC%A0%95%EA%B8%B0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/measuring-machines",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/maquinas-de-medicion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/maquinas-de-medicao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/6/7/csm_messung_header_416ff4c8b2.webp",
+     "video": null,
+     "title": "Większa precyzja",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8018",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Urządzenia pomiarowe i kontrolne są równie ważne jak towarzyszące im oprogramowanie </h2>",
+   "body": "<p class=\"extra-large-text\">Aby narzędzia spełniały dokładnie to zadanie, do którego zostały zaprojektowane i skonstruowane, same muszą być wykonane z najwyższą precyzją. Dzięki naszym uniwersalnym maszynom pomiarowym można mierzyć narzędzia z dokładnością do mikrometra i sprawdzać, czy spełniają one wymagania.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c8019",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Pomiary w układzie współrzędnych </h2>",
+   "body": "<p>Zmierzone punkty pomiarowe są przypisywane przez maszyny pomiarowe, wzdłuż określonej osi przemieszczenia, do konkretnego systemu pomiaru długości. Oprogramowanie pomiarowe przetwarza następnie te informacje i przypisuje je do określonych punktów w całym układzie współrzędnych.</p> <p>Na podstawie tak ustalonych współrzędnych oprogramowanie maszyny pomiarowej określa następnie wartości wielkości, które nie zostały zmierzone bezpośrednio – na przykład długości, kąty, odległości między dwoma punktami pomiarowymi itp.</p> <p>Punkty pomiarowe (wartości rzeczywiste) określone w systemie pomiaru współrzędnych (ang. „Coordinate Measuring System”) są następnie porównywane z wartościami wynikającymi z wytycznych, np. z projektów narzędzi (wartości zadane). Jeśli wartości te nie są ze sobą zgodne, czyli występują odchylenia pomiarowe – czy to spowodowane błędami produkcyjnymi, czy zużyciem – można następnie podjąć odpowiednie działania.</p> <h4>Czym są <strong>maszyny pomiarowe 3D</strong>?</h4> <p>Termin „maszyny pomiarowe 3D” odnosi się zazwyczaj do maszyn pomiarowych, które w stosunkowo krótkim czasie – w idealnym przypadku w czasie rzeczywistym – są w stanie zmierzyć trójwymiarowe wymiary obiektu pomiarowego. Dzięki zastosowaniu kompaktowych kamer liniowych lub matrycowych niektóre z tych maszyn kontrolnych mogą być nawet przenośne lub przynajmniej mobilne. Jednak przenośne maszyny do pomiarów koordynatowych są zazwyczaj nieco mniej dokładne niż tradycyjne maszyny kontrolne.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/d/csm_inspection-and-measuring_02_68ae6129c7.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8020",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Technika pomiaru współrzędnych </h2>",
+   "body": "<p>Wiele urządzeń pomiarowych wykorzystuje tzw. technikę pomiaru współrzędnych. Urządzenie pomiarowe (pełna nazwa to wówczas „urządzenie do pomiaru współrzędnych”, KMG) rejestruje przy pomocy odpowiedniego czujnika dokładne współrzędne, w których znajdują się określone punkty na powierzchni przedmiotu obrabianego.</p> <p>W większości przypadków układ współrzędnych jest ustawiony równolegle do ortogonalnych osi przemieszczania systemów pomiaru współrzędnych.</p> <h4><strong>Pomiar bezkontaktowy</strong></h4> <p>Natomiast pomiar bezkontaktowy wykorzystuje kamery, czujniki triangulacji laserowej i inne metody, w których stosuje się na przykład czujniki optyczne lub elektryczne. Proces pomiaru odbywa się więc bez jakiegokolwiek kontaktu sondy pomiarowej z obrabianym elementem. W niektórych przypadkach może to znacznie przyspieszyć proces pomiaru.</p> <h4><strong>Pomiar dotykowy</strong></h4> <p>Do dotykowego (mechanicznego) pomiaru elementów stosuje się sondy pomiarowe lub igły pomiarowe; zazwyczaj rozróżnia się tu systemy przełączające (które potrafią rozróżniać jedynie stan spoczynku i dotyk) oraz systemy pomiarowe (które potrafią mierzyć odchylenia w wąskim zakresie).</p> <h4><strong>Wieloczujnikowe</strong></h4> <p>Wieloczujnikowe maszyny współrzędnościowe łączą różne metody pomiaru, aby nie tylko uzyskać szczególnie dokładne wyniki, ale także dobrać metodę pomiarową najlepiej dostosowaną do każdego zadania.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/6/csm_optik_8e5c836a3b.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8024",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/d/csm_teaser_inspection_small_3a55e21ba2.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Kontrola i pomiar: korzyści dla Państwa",
+     "href": "/pl/rozwiazania/kontrola-i-pomiary",
+     "caption": "<figcaption> <h3>Kontrola i pomiar: korzyści dla Państwa</h3> <p>Dowiedz się, jakie możliwości oferuje firma ZOLLER w zakresie kontroli narzędzia. Od kontroli w trakcie procesu produkcyjnego, przez zaawansowane analizy, aż po pomiary SKP, chropowatości oraz tworzenie cyfrowych bliźniaków.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Indywidualna rozmowa z ekspertem",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>Indywidualna rozmowa z ekspertem</h3> <p>Indywidualna rozmowa, w której wymieniają się Państwo na temat Państwa celów i naszych pomysłów, jak je osiągnąć. Doradztwo online firmy ZOLLER bezpośrednio z „Smart Factory”. Umówcie się Państwo na spotkanie już teraz. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3843",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/pl/maszyny-pomiarowe",
+ "de_path": "/messmaschinen"
+}

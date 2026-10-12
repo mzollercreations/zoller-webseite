@@ -1,0 +1,290 @@
+{
+ "path": "/测量机",
+ "url": "/ch/%E6%B5%8B%E9%87%8F%E6%9C%BA",
+ "title": "测量设备",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "测量设备",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "测量设备",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/messmaschinen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/measuring-machines",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/maquinas-de-medicion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/machines-de-mesure",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/maquinas-de-medicao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/macchine-di-misura",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/maetmaskiner",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/messmaschinen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/machines-de-mesure",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E6%B8%AC%E5%AE%9A%E6%A9%9F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%B8%A1%EC%A0%95%EA%B8%B0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/measuring-machines",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/maquinas-de-medicion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/maquinas-de-medicao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/6/7/csm_messung_header_416ff4c8b2.webp",
+     "video": null,
+     "title": "更高精度",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8018",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 测量和检测设备与配套软件同样重要 </h2>",
+   "body": "<p class=\"extra-large-text\">为了确保刀具能够完全按照设计和制造的初衷发挥作用，刀具本身必须经过精密加工。借助我们的通用测量机，可以对刀具进行微米级精度的测量，并检验其是否符合要求。</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c8019",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 在坐标测量机上进行测量 </h2>",
+   "body": "<p>测量机将测得的触点分别沿特定移动轴分配给特定的长度测量系统。随后，测量软件对这些信息进行进一步处理，并将它们分配给整个坐标测量系统中的特定点。</p> <p>随后，坐标测量机（CMM）的软件会根据如此确定的坐标，计算出未直接测量的量值 — 例如长度、角度、两个测量点之间的距离等。</p> <p>最后，将坐标测量系统（英文“Coordinate Measuring System”）中测得的测量点（实际值）与根据默认条件（例如刀具设计图）得出的数值（目标值）进行比较。 如果两者不一致，即存在测量偏差 — 无论是由于生产缺陷还是磨损 — 则可以随后采取相应的措施。</p> <h4>什么是<strong>3D测量机</strong>？</h4> <p>“三维测量机”通常指能够在相对较短的时间内（理想情况下为实时）测量被测物体三维尺寸的测量设备。 通过采用紧凑型线性或»matrix«阵列相机，这类检测设备甚至可以部分实现便携化，或至少具备可移动性。不过，便携式三坐标测量机通常比传统检测设备精度稍低。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/d/csm_inspection-and-measuring_02_68ae6129c7.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8020",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 坐标测量技术 </h2>",
+   "body": "<p>许多测量设备采用所谓的坐标测量技术。该测量设备（全称为“坐标测量机”，简称CMM）通过合适的传感器，采集工件表面特定点的精度较高的坐标。</p> <p>在多数情况下，坐标系与坐标测量系统的正交移动轴平行。</p> <h4><strong>非接触式测量</strong></h4> <p>相比之下，非接触式探测则利用摄像头、激光三角测量传感器及其他方法，例如采用光学或电学传感器技术。 因此，在此测量过程中，长度规完全不会与工件发生接触。在某些情况下，这可以显著加快测量过程。</p> <h4><strong>接触式测量</strong></h4> <p>对于工件的接触式（机械）检测，通常使用长度规或探针；在此通常区分开关式系统（即只能区分静止状态和接触状态）和测量式系统（可在狭窄范围内测量偏差）。</p> <h4><strong>多传感器</strong></h4> <p>多传感器坐标测量机结合了多种探测方法，不仅能获得特别高的精度，还能针对每项要求选择最合适的测量方法</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/6/csm_optik_8e5c836a3b.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8024",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/d/csm_teaser_inspection_small_3a55e21ba2.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "检测和测量：您将获得的优势",
+     "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F",
+     "caption": "<figcaption> <h3>检测和测量：您将获得的优势</h3> <p>了解ZOLLER在刀具检测方面能为您带来哪些可能。从贴近生产过程的检测或高端分析，到»skp«、粗糙度测量以及数字孪生的创建。</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "一对一专家咨询",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>一对一专家咨询</h3> <p>针对您的目标以及我们为此提出的方案，进行一对一的交流。ZOLLER 直接从“智能工厂”为您提供的在线咨询服务。立即预约。 </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3843",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ch/测量机",
+ "de_path": "/messmaschinen"
+}

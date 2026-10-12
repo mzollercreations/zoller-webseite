@@ -1,0 +1,496 @@
+{
+ "path": "/活动-1/automation-week-torrance-2026",
+ "url": "/活动-1/automation-week-torrance-2026",
+ "title": "ZOLLER Automation Week Torrance 2026",
+ "description": "2026年10月12日至16日，ZOLLER Inc. Pacific（加利福尼亚州托伦斯）：»coraLogistic«、»coraVarion« 和 »loadBox« 现场演示、讲座及一对一专家咨询。",
+ "og_image": "/assets/video/automation-week-poster.jpg",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "event_hero",
+   "id": "event",
+   "kicker": "活动 · ZOLLER Inc. Pacific",
+   "title": "ZOLLER Automation Week",
+   "subtitle": "连续五天现场体验自动化——»coraLogistic«、»coraVarion« 和 »loadBox« 实际运行。",
+   "dates": "2026年10月12日至16日",
+   "place": "托伦斯（加利福尼亚州）",
+   "hours": "每天 9:00–17:00（太平洋时间）",
+   "images": [
+    {
+     "src": "/assets/showroom/img/hd/coralogistic.webp",
+     "alt": "»coraLogistic«"
+    },
+    {
+     "src": "/assets/showroom/img/hd/loadbox.webp",
+     "alt": "»loadBox«"
+    },
+    {
+     "src": "/assets/showroom/img/hd/micbox.webp",
+     "alt": "»micBox«"
+    }
+   ],
+   "buttons": [
+    {
+     "label": "选择场次",
+     "href": "#schedule"
+    },
+    {
+     "label": "观看邀请视频",
+     "href": "#video",
+     "ghost": true
+    }
+   ]
+  },
+  {
+   "type": "event_facts",
+   "id": "facts",
+   "bg": "yellow",
+   "items": [
+    {
+     "value": "5",
+     "label": "天",
+     "text": "周一至周五，每天一个重点主题"
+    },
+    {
+     "value": "3",
+     "label": "项解决方案现场展示",
+     "text": "»coraLogistic«、»coraVarion« 和 »loadBox« 实际运行"
+    },
+    {
+     "value": "25+",
+     "label": "个场次",
+     "text": "现场演示、讲座、研讨会及一对一专家咨询"
+    },
+    {
+     "value": "0 美元",
+     "label": "入场费",
+     "text": "免费——每场演示名额有限"
+    }
+   ]
+  },
+  {
+   "type": "event_video",
+   "id": "video",
+   "bg": "black",
+   "kicker": "邀请",
+   "title": "诚邀您莅临托伦斯",
+   "text": "<p>托伦斯有哪些精彩等着您——以及为什么值得一来。</p>",
+   "src": "/assets/video/zoller-automation-week-torrance.mp4",
+   "poster": "/assets/video/automation-week-poster.jpg"
+  },
+  {
+   "type": "event_products",
+   "id": "solutions",
+   "bg": "lightgray",
+   "title": "三种解决方案。一个自动化刀具循环。",
+   "text": "<p>从刀具库到刀具准备，再到数控机床：了解 ZOLLER 自动化解决方案如何协同工作——以及这对您的生产意味着什么。</p>",
+   "items": [
+    {
+     "name": "»coraLogistic«",
+     "claim": "自动化车间物流",
+     "img": "/assets/showroom/img/hd/coralogistic.webp",
+     "href": "/produkte/automation/werkzeuglogistik/coralogistic",
+     "tag": "coralogistic",
+     "benefits": [
+      "刀具自行流转：自主移动机器人 »coraExpress« 在仓库、准备区和机床之间运送刀具",
+      "»smartPallet« 系统安全固定刀具——适用于手动或自动运输",
+      "在 webTMS 订单管理中只需几次点击即可创建运输订单",
+      "减少走动和寻找——刀具准时送达机床"
+     ]
+    },
+    {
+     "name": "»coraVarion«",
+     "claim": "可转位刀片的自动化装配、检测和测量",
+     "img": "/assets/showroom/img/hd/micbox.webp",
+     "href": "/produkte/automation/werkzeugvorbereitung/micbox",
+     "tag": "coravarion",
+     "benefits": [
+      "借助 »micBox«：刀片全自动转位、翻转和更换",
+      "装配、检测和测量在一个连续流程中完成",
+      "质量稳定，每把刀具均有完整记录",
+      "无人值守运行——您的专业人员可专注于高附加值工作"
+     ]
+    },
+    {
+     "name": "»loadBox«",
+     "claim": "智能刀具中心",
+     "img": "/assets/showroom/img/hd/loadbox.webp",
+     "href": "/produkte/automation/werkzeugbereitstellung/loadbox",
+     "tag": "loadbox",
+     "benefits": [
+      "按订单拣选刀具并提供给物流",
+      "FANUC 六轴机器人在出入口与仓库之间可靠地搬运刀具",
+      "Kardex Shuttle 升降系统中的紧凑型刀具存储",
+      "基于服务器的控制——可通过显示器、平板电脑或智能手机操作"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "agenda",
+   "id": "schedule",
+   "bg": "white",
+   "title": "日程",
+   "text": "<p>选择日期和演示。只需一次点击即可预约名额或将场次添加到日历。所有时间均为太平洋时间（PT）；讲座和演示使用英语。</p>",
+   "email": "sales@zoller-usa.com",
+   "event": "ZOLLER Automation Week Torrance 2026",
+   "location": "ZOLLER Inc. Pacific, 3882 Del Amo Blvd., Suite #603, Torrance, CA 90503, USA",
+   "tz": "America/Los_Angeles",
+   "tzoffset": "-07:00",
+   "days": [
+    {
+     "date": "2026-10-12",
+     "label": "开幕日",
+     "focus": "三种解决方案一览",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "签到与早餐",
+       "text": "到场后喝杯咖啡，与 ZOLLER 团队见面。"
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "all",
+       "title": "主题演讲：自动化刀具循环",
+       "text": "刀具准备、刀具配置和物流如何在智能工厂中融为一体。"
+      },
+      {
+       "start": "10:30",
+       "end": "11:15",
+       "kind": "Live-Demo",
+       "tag": "coralogistic",
+       "title": "»coraLogistic« 现场演示",
+       "text": "»coraExpress« 取走刀具，并用 »smartPallet« 将其送至机床。",
+       "seats": 12
+      },
+      {
+       "start": "11:30",
+       "end": "12:15",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "»coraVarion« 现场演示",
+       "text": "自动更换、检测和测量刀片。",
+       "seats": 12
+      },
+      {
+       "start": "12:15",
+       "end": "13:15",
+       "kind": "Networking",
+       "title": "午餐与交流"
+      },
+      {
+       "start": "13:15",
+       "end": "14:00",
+       "kind": "Live-Demo",
+       "tag": "loadbox",
+       "title": "»loadBox« 现场演示",
+       "text": "借助机器人和升降系统按订单拣选刀具。",
+       "seats": 12
+      },
+      {
+       "start": "14:15",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "一对一专家咨询",
+       "text": "与我们的自动化专家交流 45 分钟——围绕您的生产、您的刀具和您的目标。",
+       "seats": 3
+      },
+      {
+       "start": "16:30",
+       "end": "17:30",
+       "kind": "Networking",
+       "title": "欢迎酒会",
+       "text": "本周开幕交流会。"
+      }
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "label": "物流日",
+     "focus": "重点：»coraLogistic«",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "签到与早餐"
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "coralogistic",
+       "title": "不再奔波的车间物流",
+       "text": "刀具物流中时间损失在哪里——以及如何把时间夺回来。"
+      },
+      {
+       "start": "10:30",
+       "end": "11:30",
+       "kind": "Live-Demo",
+       "tag": "coralogistic",
+       "title": "深入了解 »coraLogistic«",
+       "text": "完整的运输订单：从仓库经预调一直到数控机床。",
+       "seats": 12
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Workshop",
+       "tag": "coralogistic",
+       "title": "实操：webTMS 订单管理",
+       "text": "亲自创建运输订单：选择小车、选择目标机床，出发。",
+       "seats": 8
+      },
+      {
+       "start": "12:30",
+       "end": "13:30",
+       "kind": "Networking",
+       "title": "午餐与交流"
+      },
+      {
+       "start": "13:30",
+       "end": "14:15",
+       "kind": "Live-Demo",
+       "tag": "loadbox",
+       "title": "»loadBox« 携手 »coraLogistic«",
+       "text": "拣选好的刀具直接进入自动化运输。",
+       "seats": 12
+      },
+      {
+       "start": "14:30",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "一对一专家咨询",
+       "text": "您的物流问题，由我们的专家解答。",
+       "seats": 3
+      }
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "label": "刀具准备日",
+     "focus": "重点：»coraVarion«",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "签到与早餐"
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "coravarion",
+       "title": "自动更换刀片",
+       "text": "为什么刀片处理特别适合自动化。"
+      },
+      {
+       "start": "10:30",
+       "end": "11:30",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "深入了解 »coraVarion«",
+       "text": "装配、检测和测量一气呵成——在单元旁现场演示。",
+       "seats": 12
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "近距离了解 »micBox«",
+       "text": "转位、翻转、更换：近距离了解刀片更换自动化。",
+       "seats": 12
+      },
+      {
+       "start": "12:30",
+       "end": "13:30",
+       "kind": "Networking",
+       "title": "午餐与交流"
+      },
+      {
+       "start": "13:30",
+       "end": "14:15",
+       "kind": "Live-Demo",
+       "tag": "coralogistic",
+       "title": "»coraLogistic« 现场演示",
+       "text": "刀具运输一览。",
+       "seats": 12
+      },
+      {
+       "start": "14:30",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "一对一专家咨询",
+       "text": "带上您的刀具和问题。",
+       "seats": 3
+      }
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "label": "刀具配置日",
+     "focus": "重点：»loadBox«",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "签到与早餐"
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "loadbox",
+       "title": "智能工厂的刀具枢纽",
+       "text": "按订单拣选刀具，告别寻找和收集。"
+      },
+      {
+       "start": "10:30",
+       "end": "11:30",
+       "kind": "Live-Demo",
+       "tag": "loadbox",
+       "title": "深入了解 »loadBox«",
+       "text": "机器人基础模块、升降系统和出入库模块协同工作。",
+       "seats": 12
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Workshop",
+       "tag": "loadbox",
+       "title": "通过平板电脑和智能手机控制",
+       "text": "亲自试用基于服务器的控制软件。",
+       "seats": 8
+      },
+      {
+       "start": "12:30",
+       "end": "13:30",
+       "kind": "Networking",
+       "title": "午餐与交流"
+      },
+      {
+       "start": "13:30",
+       "end": "14:15",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "»coraVarion« 现场演示",
+       "text": "自动更换、检测和测量刀片。",
+       "seats": 12
+      },
+      {
+       "start": "14:30",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "一对一专家咨询",
+       "text": "一起算算您的自动化项目。",
+       "seats": 3
+      }
+     ]
+    },
+    {
+     "date": "2026-10-16",
+     "label": "开放日",
+     "focus": "完整的刀具循环",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "签到与早餐"
+      },
+      {
+       "start": "09:30",
+       "end": "10:30",
+       "kind": "Live-Demo",
+       "tag": "all",
+       "title": "从仓库到主轴",
+       "text": "三种解决方案贯穿一个流程：»loadBox« 拣选，»coraVarion« 准备，»coraLogistic« 配送。",
+       "seats": 20
+      },
+      {
+       "start": "10:45",
+       "end": "11:30",
+       "kind": "Workshop",
+       "tag": "all",
+       "title": "对我来说值得吗？",
+       "text": "刀具准备自动化的经济性——附计算示例。",
+       "seats": 15
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Live-Demo",
+       "tag": "all",
+       "title": "开放演示：您选择的解决方案",
+       "text": "由您决定我们展示什么。",
+       "seats": 20
+      },
+      {
+       "start": "12:30",
+       "end": "14:00",
+       "kind": "Networking",
+       "title": "加州烧烤与告别",
+       "text": "我们以一场烧烤结束本周——诚邀您参加。"
+      },
+      {
+       "start": "14:00",
+       "end": "16:00",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "一对一专家咨询",
+       "text": "预约个人咨询的最后机会。",
+       "seats": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "event_venue",
+   "id": "directions",
+   "bg": "black",
+   "title": "交通指南",
+   "name": "ZOLLER Inc. Pacific",
+   "lines": [
+    "3882 Del Amo Blvd., Suite #603",
+    "Torrance, CA 90503, USA"
+   ],
+   "map": "https://www.google.com/maps/search/?api=1&query=3882+Del+Amo+Blvd+Suite+603+Torrance+CA+90503",
+   "notes": [
+    "位于洛杉矶南湾，靠近洛杉矶国际机场（LAX）",
+    "免费，需要报名",
+    "讲座和演示使用英语"
+   ],
+   "contact": {
+    "label": "报名与咨询",
+    "email": "sales@zoller-usa.com",
+    "phone": "+1 734 332 4851"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>十月没有时间？</h3> <p><a class=\"btn\" href=\"https://myzoller.com/us/en/expert/booking\" rel=\"noopener\" target=\"_blank\">在线预约一对一专家咨询</a></p>",
+   "id": "experte",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "de_path": "/events/automation-week-torrance-2026",
+ "hand": true
+}

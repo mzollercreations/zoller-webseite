@@ -1,0 +1,572 @@
+{
+ "path": "/loesningar/verktygshaallare",
+ "url": "/se/loesningar/verktygshaallare",
+ "title": "Verktygshållare",
+ "description": "Verktygshållare",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Lösningar /",
+   "href": "/se/loesningar"
+  },
+  {
+   "label": "Verktygshållare",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Lösningar /",
+   "href": "/se/loesningar"
+  },
+  {
+   "label": "Verktygshållare",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/werkzeugaufnahmen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/tooling-solutions",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/portaherramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/fixation-doutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/porta-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/soluzioni-dutensileria",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/verktygshaallare",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/werkzeugaufnahmen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/tooling-solutions",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/porte-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B7%A5%E5%85%B7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/tooling-solutions",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/porta-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/porta-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Verktygshållare",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Vanliga frågor",
+     "href": "/se/loesningar/verktygshaallare/vanliga-fraagor",
+     "current": false
+    },
+    {
+     "label": "Informationsbank",
+     "href": "/se/loesningar/verktygshaallare/informationsbank",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1418",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "product_header",
+   "title": "Verktygslösningar",
+   "text": "<p>Verktygshållare – den perfekta länken<br/>till din digitala tillverkning</p> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">Köp nu</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/d/c/csm_header_tooling_79126defc9.webp",
+    "alt": "",
+    "w": 1428,
+    "h": 896
+   },
+   "ftype": "zoller_product_header",
+   "id": "c1416",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Vi står för smarta lösningar </h2>",
+   "body": "<p>Med ZOLLER »idChip« blir verktygshållaren en del av den digitala verktygshanteringen. Varje verktygshållare kan levereras med integrerat chip och DataMatrix-kod för säker och entydig identifiering. Därmed får du tillgång till viktig information som antal krympcykler, maskinanvändning och full spårbarhet genom hela verktygets livscykel.</p> <p>Tack vare högprecisionsbearbetade funktionsytor, såsom härdade spännytor och medföringsspår, uppnås lång livslängd, hög driftsäkerhet och maximal bearbetningsprecision.</p> <p>Hållbart, kostnadseffektivt och redo för framtidens produktion.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/7/csm_zoller_smarte_solutions_171a2dc46c.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1417",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Integrerade processer",
+    "Garanterad precision",
+    "Allt under ett tak"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c1419",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> Pålitlighet för högsta precision </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/7/6/csm_ts_pin_modul_03_be3bbbf942.webp",
+    "alt": "",
+    "w": 1540,
+    "h": 630
+   },
+   "spots": [
+    {
+     "x": 23.533,
+     "y": 10.226,
+     "label": "Hål för chip",
+     "text": "<h3>Hål för chip</h3> <h4>Chiphål</h4> <p>För montering av datamedier såsom RFID-chip eller ZOLLER »idChip« på ZOLLER Tooling-verktygshållare. Standard på hålspetskoner HSK-A, branta koner SK och polygonspetskoner PSC.</p> <h4>ZOLLER »idChip«</h4> <p>För entydig identifiering av dina verktygshållare och för maximal livslängd. På din begäran levererar vi verktygshållarna balanserade med fast integrerat chip direkt till din produktion.</p> <h4>3-spårsteknik</h4> <p>I verktygshållarens chipborrning garanterar limmet en formpassning för en säker och fast anslutning.</p>"
+    },
+    {
+     "x": 48.478,
+     "y": 43.161,
+     "label": "Fyra gängor",
+     "text": "<h3>Fyra gängor</h3> <h4>Fyra gängor</h4> <p>För efterföljande finbalansering av standard-krympchuckar.</p>"
+    },
+    {
+     "x": 71.685,
+     "y": 51.793,
+     "label": "Lång krympning",
+     "text": "<h3>Lång krympning</h3> <h4>Lång krympning med införingsradie</h4> <p>Garanterar maximala krympkrafter tack vare verktygets spänning över hela skaftets längd.</p>"
+    },
+    {
+     "x": 13.641,
+     "y": 52.722,
+     "label": "Inmatningsskuldra",
+     "text": "<h3>Inmatningsskuldra</h3> <h4>Hårt efterbearbetad spännskuldra</h4> <p>Garanterar optimal glidning av spännsegmenten på spännskuldran och utmärkt spänning i spindeln. Detta resulterar i en rundgång på spännskuldran på maximalt 10 μm (5 gånger noggrannare än DIN).</p>"
+    },
+    {
+     "x": 82.12,
+     "y": 56.972,
+     "label": "Rundgångstoleranser",
+     "text": "<h3>Rundgångstoleranser</h3> <h4>Rundgångstoleranser</h4> <p>Tooling Solutions garanterar en rundgång på &lt; 3 µm.</p>"
+    },
+    {
+     "x": 24.674,
+     "y": 82.47,
+     "label": "Finkalibrerad",
+     "text": "<h3>Finkalibrerad</h3> <h4>Finkalibrerad</h4> <p><strong>Alla ZOLLER Tooling-verktygshållare är finbalanserade</strong> – G2,5 vid 25 000 min<sup>-1</sup> eller max. restobalans ≤ 1 gmm. Detta resulterar i en jämn spindellöpning som skonsamt behandlar lagren under bearbetningen. Du drar nytta av en längre livslängd på spindeln, en optimal yta på arbetsstycket och längre verktygslivslängd.</p>"
+    },
+    {
+     "x": 8.533,
+     "y": 36.919,
+     "label": "drivspår",
+     "text": "<h3>drivspår</h3> <h4>Hårt efterbearbetade drivspår</h4> <p>Garanterar att spåren är 100 % centrerade, perfekt passform i spindeln samt utmärkt vridmomentsöverföring.</p>"
+    },
+    {
+     "x": 23.478,
+     "y": 36.521,
+     "label": "utsläppsyta",
+     "text": "<h3>utsläppsyta</h3> <h4>Hårdbearbetad utstötningsyta</h4> <p>Garanterar säker frigöring av HSK-verktygsfästet vid verktygsbyte.</p>"
+    },
+    {
+     "x": 75.707,
+     "y": 75.697,
+     "label": "»coolTool«",
+     "text": "<h3>»coolTool«</h3> <h4>»coolTool«</h4> <p>För en perfekt, kyld verktygsskärkant, optimal spånavledning och för att undvika spånansamlingar vid verktygsskärkanten. Det sneda läget på kylmedelshålen garanterar att kylmedlet hamnar där det behövs: vid verktygsskäret. På så sätt uppnår du optimala bearbetningsresultat och förlänger verktygens livslängd.</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c1420",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Typiskt ZOLLER – allt från en och samma leverantör </h2>",
+   "body": "<p>ZOLLER går alltid ett steg längre när det gäller utveckling av nya produkter och skapar därmed lösningar för framtiden. Det är inte bara när det gäller våra mätmaskiner som vi har följt denna princip i årtionden. Rusta er för morgondagens digitala krav och förbered er för framtidens smarta fabrik – med våra ZOLLER Tooling Solutions.</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/OKLwuZLfF2s?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Tooling Solutions – Werkzeughelden"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1421",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> ZOLLER-lösningar för effektiv tillverkning </h2>",
+   "body": "<p>Dra nytta av våra ZOLLER Tooling Solutions för en effektiv tillverkningsprocess. Vi erbjuder ett komplett sortiment av kraftfulla och högprecisa verktygsfästsystem för dina bearbetningsuppgifter. ZOLLER Tooling Solutions utgör dessutom den perfekta gränssnittet för din digitala tillverkning.</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/iaV2Il_Gqn8?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Tooling Solutions – die perfekte Schnittstelle für Ihre digitale Fertigung"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1422",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "66-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Över 2000 artiklar </h2>",
+      "body": "<p>ZOLLER Tooling Solutions erbjuder ett komplett sortiment av verktygshållare som uppfyller alla krav i din bearbetningsprocess. Alla våra hållare överträffar dessutom alltid kraven i DIN-standarderna.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2063",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "none"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-2cols",
+   "id": "c2064",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/a/7/csm_ts_schrumpffutter_06c2dea98b.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Krympfodral",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:schrumpffutter",
+     "caption": "<figcaption> <h3>Krympfodral</h3> <p>För spänning av verktyg med cylindrisk skaft av hårdmetall eller HSS.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/7/csm_ts_spannzangenfutter_eb7fca68dc.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Spännbackchuck",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:spannzangenfutter",
+     "caption": "<figcaption> <h3>Spännbackchuck</h3> <p>För spänning av verktyg med cylindriskt skaft i ER-spännhylsor.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_ts_weldonaufnahmen_9c7a361d17.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Weldona-bilder",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:weldonaufnahmen",
+     "caption": "<figcaption> <h3>Weldona-bilder</h3> <p>Perfekt lämpad för användning av verktyg utan inre kylvätsketillförsel.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_ts_whistle-notch-aufnahmen_b74918fa98.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Whistle-Notch-inspelningar",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:whistle-notch-aufnahmen",
+     "caption": "<figcaption> <h3> Whistle-Notch-inspelningar</h3> <p>För spänning av verktyg med cylindrisk skaft.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_ts_fuer_einschraubfraeser_e7d8ee83f6.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "För skruvfräsar",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:für-einschraubfräsen",
+     "caption": "<figcaption> <h3>För skruvfräsar</h3> <p>För spänning av verktyg med cylindrisk skaft.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/2/csm_ts_messerkopfaufnahmen_b76fed0d9d.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Knivhuvudfästen",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:messerkopfaufnahmen",
+     "caption": "<figcaption> <h3>Knivhuvudfästen</h3> <p>För montering av fräsar med tvärspår, med kylvätsketillförsel till skärkanterna.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/a/csm_ts_kombidorne_48f13a98c4.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Kombidor",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:kombidorne",
+     "caption": "<figcaption> <h3>Kombidor</h3> <p>För montering av fräsar med längs- och tvärspår.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/f/csm_ts_morsekegelaufnahme_6909dcbe8a.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Morsekoniska upptagningar",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:morsekegelaufnahmen",
+     "caption": "<figcaption> <h3>Morsekoniska upptagningar</h3> <p>För montering av Morsekonverktyg med utdragningsflikar enligt DIN 2288.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/2/csm_ts_kurzbohrfutter_3c9582d0e0.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Kort borrchuck",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:kurzbohrfutter",
+     "caption": "<figcaption> <h3>Kort borrchuck</h3> <p>För spänning av verktyg med cylindrisk skaft.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/5/1/csm_ts_hawk_eye_07abe1a0d5.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "HAWK EYE",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:hawk-eye",
+     "caption": "<figcaption> <h3>HAWK EYE</h3> <p>HAWK EYE® HPC-precisionsspännfodral</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/2/csm_ts_er_collet_a62fe34c96.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "ER-spännhylsor",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:er-spannzangen",
+     "caption": "<figcaption> <h3>ER-spännhylsor</h3> <p>ER &amp; ER Mini»-spännhylsa«</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/a/b/csm_Schrumpfverlaenerungen_category_0b63e58178.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Förlängningar med krympband",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:schrumpfverlängerungen",
+     "caption": "<figcaption> <h3>Förlängningar med krympband</h3> <p>För montering av verktyg med cylindrisk skaft.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/c/csm_ts_accessories_651f0aa893.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Tillbehör",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:zubehör",
+     "caption": "<figcaption> <h3>Tillbehör</h3> <p>Tätningsskivor, spännmuttrar</p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c1912",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Nu är det din tur – passa på! </h2>",
+   "body": "<p>I vår webbshop finns nu hela sortimentet av verktygshållare tillgängligt. Hitta din perfekta verktygshållare enkelt, snabbt och smidigt och använd den digitala tvillingen som finns där direkt i ditt CAM- och verktygshållaresystem.</p> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">Till verktygsbutiken</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/d/csm_zum_myzoller_shop_704443f1bc.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1423",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/se/loesningar/verktygshaallare",
+ "de_path": "/solutions/werkzeugaufnahmen"
+}

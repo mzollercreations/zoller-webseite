@@ -1,0 +1,299 @@
+{
+ "path": "/刀具监测",
+ "url": "/ch/%E5%88%80%E5%85%B7%E7%9B%91%E6%B5%8B",
+ "title": "刀具检测",
+ "description": "通过定期检查和监控您的工具，您可以确保生产流程顺畅，并生产出高质量的产品。",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "刀具检测",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "刀具检测",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeugueberwachung",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-monitoring",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/supervision-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/surveillance-des-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/monitorizacao-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/monitoraggio-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verktygsoevervakning",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeugueberwachung",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/surveillance-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E7%9B%A3%E8%A6%96",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/tool-monitoring",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/monitoreo-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/monitorizacao-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/0/1/csm_tool_monitoring_header_355bada07e.webp",
+     "video": null,
+     "title": "用于质量保证的刀具检测",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7957",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\"><strong>刀具的状态直接决定了工件的质量。因此，以各种形式进行的刀具检测早已成为质量保证的基础。</strong></p> <p class=\"extra-large-text\">由于多种原因，有缺陷或准备不充分的刀具会带来诸多问题。这可能会导致整批产品出现瑕疵，而这种废品往往在不知不觉中逐渐积累 — 您肯定希望避免这种情况。</p> <p class=\"extra-large-text\">如果没有正确的检测，有缺陷的刀具不仅会导致刀具断裂，甚至可能造成机器损坏。这反过来又会中断现有的生产流程，减少制成的部件数量，并缩短生产设备的寿命 — 所有这些额外成本，都是一家高效运作的企业所不愿承担的。</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7959",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 质量控制与磨损分析 </h2>",
+   "body": "<p>因此，您应将质量控制和磨损分析系统地融入企业的日常工作流程中。检查工具并评估其质量应成为您日常工作的一部分。</p> <p>关键在于，测量结果必须清晰记录，并分别对应到每件工具及其存放位置。这样，您就能确保需要重新磨削的工具，在下次使用前确实得到了修复。这能确保您的机器始终使用准备充分的工具进行作业。</p> <p>检查和监控工具状态具有诸多优势。 您的钻头和切削工具将持续以全功率和高精度运行，企业生产流程将保持可控，您还能随时掌握工具的使用寿命——并在必要时及时确保补充和更换。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/e/csm_csm_Werkzeug-3d-Optik-User-Hand-ZOLLER_3c28f0800c_254258e0fc.webp",
+     "alt": "",
+     "w": 1116,
+     "h": 1000
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7960",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 采用ZOLLER技术的测量与检测 </h2>",
+   "body": "<p>ZOLLER 测量和检测设备可确保在各种应用领域实现安全、顺畅的流程。这些设备工作精准、重复性高，且不受操作人员影响。 通过相应的解决方案，我们为您提供经济且全自动的刀具参数测量服务，用于刀具监控。让您能够100%确信，您的生产始终使用的是完好无损的刀具。</p> <p>我们的测量和检测设备可电子传输刀具的设定值与实际值数据，根据配置不同，也可通过无线方式传输。 通过合适的接口，可连接到几乎所有参与磨削过程的系统。ZOLLER 设备支持与 ERP 或 CAM 系统、仓储系统以及 NUMROTO、Anca、MTS 等机床制造商的系统连接，还支持 GDX 2.0 接口。</p> <p><a class=\"btn\" href=\"/ch/%E4%BA%A7%E5%93%81\">点击此处了解有关 ZOLLER 调整、检测和测量设备的全部信息</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7961",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 系统性检测 </h2>",
+   "body": "<p>通过刀具检测，您可在测量瞬间实时获取刀具状态反馈。 切削刃几何形状是否正确？是否存在钝化？是否面临切削刃断裂的风险？通过对精密刀具进行测量，可以避免刀具受损以及生产流程或生产过程的中断。</p> <p>当然，刀具管理和刀具检测的各个方面还可以进一步实现互联。为此，ZOLLER 通过中央数据库提供面向<strong>智能工厂</strong>和测量技术 4.0 的互联解决方案。</p> <p>无论是在进料检验、生产过程还是最终检验，我们都能为您提供适用于每个生产环节的完美刀具检测和测量解决方案。当然，存储系统和自动化方案也是其中不可或缺的一部分。</p> <p><a class=\"btn\" href=\"/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F\">了解更多关于“测量技术 4.0”的信息</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7962",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "刀具管理：为您带来的优势",
+     "caption": "<figcaption> <h3>刀具管理：为您带来的优势</h3> <p>了解ZOLLER的刀具管理解决方案如何立即提升您的生产效率。借助刀具数据，加工过程将更加快速、安全——其中还包括对您机床的防碰撞保护功能。 </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "一对一专家咨询",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>一对一专家咨询</h3> <p>针对您的目标以及我们为此提出的方案，进行一对一的交流。ZOLLER 直接从“智能工厂”为您提供的在线咨询服务。立即预约。 </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ch/刀具监测",
+ "de_path": "/werkzeugueberwachung"
+}

@@ -1,0 +1,410 @@
+{
+ "path": "/reseni/vyvazovaci-technika",
+ "url": "/cz/reseni/vyvazovaci-technika",
+ "title": "Vyvažování nástrojů",
+ "description": "Vyvažování nástrojů",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Řešení /",
+   "href": "/cz/reseni"
+  },
+  {
+   "label": "Vyvažování nástrojů",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Řešení /",
+   "href": "/cz/reseni"
+  },
+  {
+   "label": "Vyvažování nástrojů",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/wuchttechnik",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/balancing-technology",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/tecnologia-de-equilibrado",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/technique-dimpact",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/tecnologia-de-equilibragem",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/tecnologia-per-la-bilanciatura-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/balanseringsteknik",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/wuchttechnik",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/balancing-technology",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/technique-dequilibrage",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4%E6%8A%80%E8%A1%93",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EB%B0%B8%EB%9F%B0%EC%8B%B1-%EA%B8%B0%EC%88%A0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/balancing-technology",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/tecnologia-de-equilibrado",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/tecnologia-de-equilibragem",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/4/a/csm_header_balancing_029a95df55.webp",
+     "video": null,
+     "title": "Technika vyvažování",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c703",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>Vyvažování nástrojů by mělo být samozřejmostí. Kdo vyvažuje, má lépe pod kontrolou možná rizika – při jakýchkoli otáčkách.</h3>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c705",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>Mnoho uživatelů přesných brusek a obráběcích strojů si vyvažování spojuje výhradně s velmi vysokými otáčkami. Ve skutečnosti však každý rotující nástroj může být nevyvážený. Negativní důsledky mohou být okamžité – nebo mohou až po určité době způsobit vysoké náklady a prostoje strojů.</strong></p> <p>Vyvažování vede k větší hospodárnosti, protože snižuje opotřebení nástrojů, které zvyšuje náklady. Zabraňuje drahým výpadkům strojů a omezuje časově náročné reklamace kvality.<br/>Řada »toolBalancer« od společnosti ZOLLER přichází s celosvětově jedinečnou technologií vyvažování. Nově vyvinutá zařízení nabízejí mnoho inovací, díky nimž se přesnost, bezpečnost, ergonomie a ovládání dostávají na dosud nedosaženou úroveň kvality.</p> <p>Minimalizujte výrobní rizika. Se společností ZOLLER – nejmodernější technologií vyvažování na trhu.</p> <p><a class=\"btn\" href=\"/cz/produkty/vyvazovaci-technika/toolbalancer\">Zobrazit produkty</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c706",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c704",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Přesné měření díky vysokému signálu snímače </h2>",
+   "body": "<p>Zvláštností každého zařízení »toolBalancer« je způsob měření. Společnost ZOLLER využívá speciální vyvažovací adaptér s přesazením středu, dvoubodovým uchycením a přítlačným prvkem.</p> <p>Tento měřicí přístup zesiluje signál snímače, a tím zvyšuje kvalitu měření. Získáte tak mimořádně přesné výsledky vyvažování. </p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c707",
+   "bg": "black",
+   "space": {
+    "before": "extra-large",
+    "after": "extra-large"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Navrácení klidu </h2>",
+   "body": "<p class=\"large-text\">Vyváženými nástroji maximalizujte hladký chod. Snížíte tím odstředivé síly v pohonech Vašich CNC strojů, předejdete zbytečným nákladům na údržbu a zajistíte si ochranu před poškozením vřetena.</p> <p class=\"large-text\">Díky výsledkům vyvažování &lt; 0,4 gmm zajišťuje vyvažovací technika společnosti ZOLLER vyšší produktivitu Vašich strojů. Přístroj »toolBalancer« identifikuje i malé nevyváženosti, které silně zatěžují vřetena nebo ložiska a mohou zkrátit životnost komponent.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/8/csm_balancing_01_4186f932b3.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c708",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Větší stabilita životností </h2>",
+   "body": "<p class=\"large-text\">Pravidelné vyvažování pomocí přesné technologie společnosti ZOLLER udržuje stabilní životnost nástrojů. Trvale tak těžíte z vyšší hospodárnosti a rychlé návratnosti Vaší investice. </p> <p class=\"large-text\">Pokud se rotující nástroj otáčí jen nepatrně excentricky, působí na břity dodatečné síly. Životnost klesá, náklady na nástroje stoupají a intervaly výměny nástrojů se zkracují.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_balancing_02_aaf3ff5460.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c709",
+   "bg": "white",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Povrchy nejvyšší kvality </h2>",
+   "body": "<p class=\"large-text\">Vyloučíte nevyváženost nástrojů a brusných kotoučů jako faktor snižující kvalitu. Technologie vyvažování od společnosti ZOLLER usnadňuje dosažení povrchů, které uspokojí i ta nejnáročnější odvětví.</p> <p class=\"large-text\">Pokud nástroje běží nerovnoměrně, může dojít ke snížení kvality povrchů. Jako příčina se většinou předpokládají řezné parametry nebo nástroj. Než se však vezme v úvahu nevyváženost, ztratí se značné množství produktivního času stroje, materiálu a životnosti nástroje.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/8/csm_balancing_03_8d69d2b1ea.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c710",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "count",
+   "title": "Vyvažuje s vysokou přesností i těžké nástroje",
+   "value": "30 kg",
+   "note": "Maximální hmotnost nástroje pro všechny modely řady přístrojů »toolBalancer«",
+   "ftype": "zoller_count-banner",
+   "id": "c711",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> vyvažovací technika </h2>",
+   "items": [
+    {
+     "href": "/cz/produkty/vyvazovaci-technika/toolbalancer",
+     "title": "»toolBalancer«",
+     "text": "<p>Vyvažovací systém s nejmodernější technologií a ergonomickým designem</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c1640",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_zoller_system_teaser_a6e5d69871.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Začněte s řešením ZOLLER – vstupte do systému.",
+     "href": "/cz/system",
+     "caption": "<figcaption> <h3>Začněte s řešením ZOLLER – vstupte do systému.</h3> <p>Naši zákazníci těží z komplexních řešení, která prosazujeme již po desetiletí. Výsledek: vynikající efektivita. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Individuální konzultace s odborníky",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>Individuální konzultace s odborníky</h3> <p>Individuální rozhovor o Vašich cílech a našich nápadech, jak jich dosáhnout. Online poradenství společnosti ZOLLER přímo ze Smart Factory. Domluvte si termín ještě dnes. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/cz/reseni/vyvazovaci-technika",
+ "de_path": "/solutions/wuchttechnik"
+}

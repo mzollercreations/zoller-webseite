@@ -1,0 +1,381 @@
+{
+ "path": "/esemenyek/zpac-kepzesi-napok/edzok",
+ "url": "/hu/esemenyek/zpac-kepzesi-napok/edzok",
+ "title": "Edzők",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Események /",
+   "href": "/hu/esemenyek"
+  },
+  {
+   "label": "Edzők",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Események /",
+   "href": "/hu/esemenyek"
+  },
+  {
+   "label": "Edzők",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/events/zpac-training-days/coaches",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/eventos/dias-de-entrenamiento-zpac/entrenadores",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/evenements/journees-de-formation-zpac/entraineurs",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/eventos/dias-de-treino-zpac/treinadores",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/eventi/giornate-di-formazione-zpac/allenatori",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/evenemang/zpac-utbildningsdagar/traenare",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/events/zpac-training-days/trainers",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/events/zpac-training-days/trainers",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/evenements/journees-de-formation-zpac/entraineurs",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/zpac-%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%87%E3%82%A4%E3%82%BA/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%96%89%EC%82%AC/zpac-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D-%EB%8D%B0%EC%9D%B4/%EC%BD%94%EC%B9%98",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/events/zpac-training-days/trainers",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/eventos/dias-de-entrenamiento-zpac/entrenadores",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/eventos/dias-de-treino-zpac/treinadores",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Edzők",
+     "href": "/hu/esemenyek/zpac-kepzesi-napok/edzok",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c7943",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/8/e/csm_csm_meet_zoller_599fe3f5ee_b8eb9cad0a.webp",
+     "video": null,
+     "title": "Találkozzon a szakértőkkel",
+     "kicker": "",
+     "text": "<p>ZOLLER Nyílt Nap &amp; Automatizációs Csúcstalálkozó</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7941",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "tiles",
+   "header": "<h2> Előadók és a ZOLLER csapata </h2>",
+   "cols": 4,
+   "tiles": [
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/e/csm_alexander_zoller_11_1138472629.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Alexander Zoller Elnök – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Alexander Zoller</h4> <p>Alexander Zoller 2004 óta a ZOLLER Inc. elnöke, és a családi tulajdonban lévő, globális technológiai vállalat egyik hajtóereje. Ő volt az a jövőlátó vezető, aki végrehajtotta az új észak-amerikai központ és az Ipar 4.0 Technológiai Központ bővítési tervét Ann Arborban, Michigan államban.</p> <p>A vállalat felkészítette magát és ügyfeleit a jövő gyártási realitásaira, ahol a hardver, a szoftver és az automatizálás zökkenőmentesen működik együtt a legmagasabb hatékonyság elérése érdekében az alkatrészgyártásban.</p> <p>Zoller 2001-ben szerzett informatikai diplomát a stuttgarti University of Cooperative Education-en, majd 2004-ben vette át az E.Zoller GmbH ügyvezető igazgatói posztját, amelyhez a ZOLLER Inc. irányítási felelőssége is társult.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/3/d/csm_nicole_wolter_05_57f4404314.webp",
+      "alt": "",
+      "w": 815,
+      "h": 815
+     },
+     "label": "Nicole Wolter A rendezvény műsorvezetője (a HM Manufacturing vezérigazgatója és elnöke)",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": null,
+     "label": "Max Egan az Atlas Fibre vezérigazgatója",
+     "img": {
+      "src": "/fileadmin/_processed_/7/4/csm_speaker_egan_07_694bd08753.webp",
+      "alt": "",
+      "w": 860,
+      "h": 860
+     },
+     "text": "<h3>Max Egan</h3> <p>Max Egan az Atlas Fibre és az Accurate Composites vezérigazgatója. A két testvérvállalat együttesen Észak-Amerika legnagyobb vertikálisan integrált merev kompozitgyártó vállalatát alkotja.</p> <p>Az Atlas Fibre a hőre keményedő kompozit anyagok kiemelkedő forgalmazója és nemfémes anyagok megmunkálója, amelynek szakterülete a hőre keményedő kompozitok, mint például a G10, G11, FR4 és a Canvas Phenolic, valamint a fejlett, nagy teljesítményű műanyagok, mint például a PEEK, a Vespel, az Ultem, a PPS és a PVDF.</p> <p>Az Atlas Fibre-nél ő valósította meg az Atlas Batch-Size-One koncepciót. Ez egy lean megközelítés, amely rugalmas rögzítést, folyamatstandardizálást és csúcstechnológiás automatizálást alkalmaz. Az Atlas Batch-Size-One lehetővé teszi az Atlas Fibre számára, hogy egyetlen alkatrészt gyártson, szinte ugyanolyan darabköltséggel, mint egy 10 000 darabos tétel esetében, és ezt a költségelőnyt a teljes gyártási folyamat során fenntartsa. Ez, valamint Észak-Amerika legnagyobb raktárkészlete lehetővé teszi cégünk számára, hogy a gyors átfutási idő és a folyamatos ellátás tökéletes kombinációját nyújtsa.</p> <p>Max a Duke Egyetemen szerzett informatikai diplomát, majd az Harvard Business Schoolon MBA fokozatot.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/3/b/csm_placeholder_square_img_grey_2d272b2636.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Peter Doyle a Hirsh Precision elnöke",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": null,
+     "label": "Frank Weisskopf Elnök-vezérigazgató – TTS",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/d/0/csm_tom_bassett_e33f269fc1.webp",
+      "alt": "",
+      "w": 1637,
+      "h": 1637
+     },
+     "label": "Tom Bassett Elnök – Pro-Cam LLC",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/1/d/csm_moll_17_3c77f9435c.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Dietmar Moll Értékesítési igazgató – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Dietmar Moll</h4> <p>Dietmar Moll a ZOLLER Inc. értékesítési igazgatója, mérnöki mesterdiplomáját a Stuttgarti Állami Egyetemen szerezte.</p> <p>Moll hosszú karriert épített fel a ZOLLER-nél, számos nemzetközi értékesítési pozíciót töltött be, valamint az indiai, thaiföldi és amerikai leányvállalatok ügyvezető igazgatója is volt.</p> <p>Összességében több mint 18 éves tapasztalattal rendelkezik a hatékony gyártás területén, különös tekintettel a szerszámgép-alkalmazásokra, valamint arra, hogy segítse a vállalatokat a szerszámbeállítás, a mérés és ellenőrzés, a szerszámkezelés és az automatizálási megoldások segítségével megérteni folyamatképességeiket.</p> <p>Az űrhajózás, az olaj- és gázipar, az autóipar és a bányászat számos gyártási szegmensében szerzett tapasztalata biztosítja, hogy a ZOLLER képes legyen megoldani a valós alkatrészgyártási kihívásokat, mivel az intelligens gyártás, az analitika és az Ipar 4.0 új generációs lehetőségeket teremt az integrált technológiák és a fejlett gyártási gyakorlatok terén.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/a/csm_rita_44_bf76963ef6.webp",
+      "alt": "",
+      "w": 800,
+      "h": 800
+     },
+     "label": "Rita Conroy-Martin Marketing- és ügyfélélmény-igazgató – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Rita Conroy-Martin</h4> <p>Rita Conroy-Martin a ZOLLER Inc. marketing- és ügyfélélmény-igazgatója, többnyelvű szakember, aki több mint 25 éves nemzetközi szakmai tapasztalattal rendelkezik az értékesítés és üzletfejlesztés, a marketing és a beszerzés területén, elsősorban a gyártási szektorban.</p> <p>Szenvedélyesen foglalkozik az értékesítés és a marketing összehangolásával a drámai átalakulás közepette, amely új szabályokat ír elő arra nézve, hogy a nagy és kis vállalatok hogyan lépjenek kapcsolatba a potenciális és meglévő ügyfelekkel.</p> <p>Jelenlegi pozíciójában a ZOLLER Inc.-nél ötvözi a hagyományos és az új marketing- és üzletfejlesztési stratégiákat, hogy a ZOLLER Solutions segítségével új szintre emelje az ügyfelek és potenciális ügyfelek oktatását, bevonását, bevezetését és promócióját.</p> <p>Az írországi Limerick Egyetemen szerzett üzleti és német nyelv szakos alapdiplomát, majd a belgiumi Université Libre de Bruxelles-en politikatudományi mesterdiplomát. </p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/3/2/csm_werner_lueken_v4_28_bcac49f60f.webp",
+      "alt": "",
+      "w": 711,
+      "h": 711
+     },
+     "label": "Werner Lueken A szerszámvizsgálati megoldások igazgatója – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Werner Lueken</h4> <p>Werner Lueken a ZOLLER Inc. szerszámvizsgálati megoldásokért felelős igazgatója.</p> <p>1997-ben szerzett ipari formatervező mérnöki diplomát a németországi Kiel-i Alkalmazott Tudományok Egyetemén. </p> <p>Lueken 23 évet töltött a ZOLLER Inc.nél, számos pozíciót betöltött, de munkája mindig az ügyfelek szerszámvizsgálati igényeinek támogatására összpontosult.</p> <p>Szenvedélyesen segíti a vágószerszám-gyártókat és a végfelhasználókat a szerszámgeometriai kihívások megoldásában, valamint a szerszámminőség biztosításában, és mind az Egyesült Államokban, mind világszerte elismert szakértőnek számít ezen a területen.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/f/csm_brothers_10_2e640c257f.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Matt testvérek Industry 4.0 Tech Center vezető – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Matt Brothers</h4> <p>Matt Brother a ZOLLER Inc. Ipar 4.0 Technológiai Központjának vezetője.</p> <p>Több mint 20 éves tapasztalattal rendelkezik a speciális formájú vágószerszámok ellenőrzése és gyártása terén, és egyedülálló szakértelemmel járul hozzá a ZOLLER munkájához, különösen a vágószerszám-ellenőrzési folyamatok fejlesztése és a hibaelhárítás terén.</p> <p>Brothers korábban a Starcutter és a Northern Tool vállalatoknál dolgozott. 2017 óta a ZOLLER alkalmazásában áll.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/2/8/csm_nelu_13_add1496942.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Nelu Bilba Gyártási termelékenységi szakértő – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Nelu Bilba</h4> <p>Nelu Bilba a ZOLLER Inc. gyártási termelékenységi szakértője. Új és meglévő ügyfelekkel egyaránt együttműködik gyártási folyamataik fejlesztése érdekében, és megfelelő ZOLLER megoldásokat javasol számukra. Vágószerszámok és szerszámtartók szakértője.</p> <p>Mielőtt a ZOLLER Inc. alkalmazásába került, a ZOLLER ügyfele volt az Egyesült Államokban és Németországban működő vállalatoknál. Műszaki képzését Romániában és Németországban végezte. Németországi továbbtanulása után különböző gyártási pozíciókat töltött be, a prototípus-készítéstől az öttengelyes megmunkáláson át a vágószerszám-gyártásig.</p> <p>2011-es amerikai költözése óta Bilba számos vezetői pozíciót töltött be a gyártás területén, többek között osztályvezetőként és gyártási/üzemvezetőként.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/f/9/csm_cedric_15_8519a48e1c.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Cedric Hasenfratz Észak-amerikai értékesítési és partnerkapcsolati vezető (TMS) – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Cedric Hasenfratz</h4> <p>Cedric Hasenfratz a ZOLLER TMS Tool Management Solutions portfólió észak-amerikai értékesítési és partnerkapcsolati vezetője, aki elkötelezett a gyártási folyamatok hatékonyságát növelő megoldások bevezetése iránt.</p> <p>A ZOLLER-nél betöltött pozíciója előtt a Hexagon Manufacturing Intelligence divíziójának amerikai ügyfélkapcsolati menedzsere volt a vállalat szoftverértékesítési szegmensében.</p> <p>Mélyreható ismeretekkel és tapasztalatokkal rendelkezik a digitális szerszámkezelés és a modern gyártás folyamatoptimalizálása terén. </p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/9/7/csm_gaether_06_10e992158f.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Dietmar Gaertner Értékesítési és alkalmazásmérnök – ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/7/e/csm_Clayton_Springer_o_logo_16_11847040e5.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 954
+     },
+     "label": "Clayton Springer Videóprodukciós szakértő – ZOLLER INC.",
+     "img": null,
+     "text": "<h4>Clayton Springer</h4> <p>Clayton Springer a ZOLLER Inc. marketingosztályának videoprodukciós szakértője.</p> <p>Tapasztalattal rendelkezik sportközvetítések, élő televíziós hírműsorok és vállalati marketing területén, valamint közösségi média tartalmak, kábeltelevíziós reklámok, promóciós anyagok, termékvideók és élő közvetítések gyártásában.</p> <p>A Ferris State University-n szerzett diplomát televíziós digitális médiaprodukció szakon.</p>"
+    }
+   ],
+   "ftype": "zoller_overlay-tiles",
+   "id": "c7939",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/hu/esemenyek/zpac-kepzesi-napok/edzok",
+ "de_path": ""
+}

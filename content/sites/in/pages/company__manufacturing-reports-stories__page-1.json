@@ -1,0 +1,424 @@
+{
+ "path": "/company/manufacturing-reports-stories/page-1",
+ "url": "/in/company/manufacturing-reports-stories",
+ "title": "Manufacturing Reports & Stories",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Home /",
+   "href": "/in/homepage"
+  },
+  {
+   "label": "Company /",
+   "href": "/in/company"
+  },
+  {
+   "label": "Manufacturing Reports & Stories",
+   "href": ""
+  },
+  {
+   "label": "Home /",
+   "href": "/in/homepage"
+  },
+  {
+   "label": "Company /",
+   "href": "/in/company"
+  },
+  {
+   "label": "Manufacturing Reports & Stories",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/reports-stories",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/reports-stories",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/informes-e-historias",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/rapports-et-recits",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/relatorios-e-historias",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/rapporti-e-storie",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/rapporter-och-beraettelser",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/reports-stories",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/reports-stories",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/rapports-et-articles",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EB%B3%B4%EA%B3%A0%EC%84%9C-%EB%B0%8F-%EA%B8%B0%EC%82%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/manufacturing-reports-stories",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/informes-e-historias",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/relatorios-e-historias",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "textmedia",
+   "header": "<h1> Manufacturing Reports &amp; Stories </h1>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c3213",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "taglist",
+   "tags": [],
+   "ftype": "news_taglist",
+   "id": "c3330",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "newslist",
+   "header": "",
+   "articles": [
+    {
+     "href": "/in/company/manufacturing-reports-stories/detail/streamlining-parts-machining-with-zoller",
+     "img": {
+      "src": "/fileadmin/_processed_/3/b/csm_zidCode__preview_da84f5d27a.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "User Report",
+      "Tool Management"
+     ],
+     "title": "Streamlining Parts Machining with ZOLLER",
+     "teaser": "Learn how a company used the ZOLLER »zidCode« to minimize setup times and reduce the risk of human error.",
+     "date": ""
+    },
+    {
+     "href": "/in/company/manufacturing-reports-stories/detail/how-genius-can-efficiently-reduce-costs",
+     "img": {
+      "src": "/fileadmin/_processed_/3/7/csm_genius_drabkansai_teaserimg_19001de27f.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "User Report",
+      "Inspection & Measuring"
+     ],
+     "title": "This is how efficiently »genius« can reduce costs",
+     "teaser": "Precise measurement of grinding wheels reduces set-up time by over 60 percent.",
+     "date": ""
+    },
+    {
+     "href": "/in/company/manufacturing-reports-stories/detail/venturion-improves-productivity",
+     "img": {
+      "src": "/fileadmin/_processed_/9/2/csm_ituwa_teaserimg_3cd1d73a8a.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "User Report",
+      "Presetting & Measuring"
+     ],
+     "title": "»venturion« improves productivity",
+     "teaser": "Ituwa Kogyo from Japan gains 20 minutes more running time per day and machine.",
+     "date": ""
+    },
+    {
+     "href": "/in/company/manufacturing-reports-stories/detail/verify-and-document-the-rounding-of-cutting-edges",
+     "img": {
+      "src": "/fileadmin/_processed_/0/d/csm_Schuhmacher_teaserimg_863d6147d6.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "User Report",
+      "Inspection & Measuring"
+     ],
+     "title": "Verify and document the rounding of cutting edges",
+     "teaser": "Fast, simple, and reliable measurement",
+     "date": ""
+    },
+    {
+     "href": "/in/company/manufacturing-reports-stories/detail/wirtschaftlich-in-serien-messen-mit-roboset-2",
+     "img": {
+      "src": "/fileadmin/_processed_/9/5/csm_mauth_teaserimg_5533c78968.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "User Report",
+      "Automation"
+     ],
+     "title": "Cost-Effective Batch Measurement with »roboSet 2«",
+     "teaser": "Greater Competitiveness for Mauth Through Automated Tool Inspection.",
+     "date": ""
+    },
+    {
+     "href": "/in/company/manufacturing-reports-stories/detail/greater-efficiency-and-higher-quality-with-smile",
+     "img": {
+      "src": "/fileadmin/_processed_/3/6/csm_fivestraight_teaserimg_0da79bf681.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "User Report",
+      "Presetting & Measuring"
+     ],
+     "title": "More efficiency and higher quality with »smile«",
+     "teaser": "Five Straight from Japan increases tool life by a factor of 1.5.",
+     "date": ""
+    },
+    {
+     "href": "/in/company/manufacturing-reports-stories/detail/venturion-increases-accuracy-and-process-reliability",
+     "img": {
+      "src": "/fileadmin/_processed_/f/5/csm_korin_teaserimg_28a95a40d5.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "User Report",
+      "Presetting & Measuring"
+     ],
+     "title": "»venturion« increases accuracy and process reliability",
+     "teaser": "Significant time savings mean greater efficiency",
+     "date": ""
+    },
+    {
+     "href": "/in/company/manufacturing-reports-stories/detail/find-the-perfect-custom-tool-quickly-and-easily",
+     "img": {
+      "src": "/fileadmin/_processed_/5/2/csm_Nikolaus_Grinding_teaserimg_5a236b4071.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "User Report",
+      "Inspection & Measuring"
+     ],
+     "title": "Safe and fast access to the perfect special tool",
+     "teaser": "Nikolaus relies on precise ZOLLER measuring technology",
+     "date": ""
+    },
+    {
+     "href": "/in/company/manufacturing-reports-stories/detail/mmfocus-measurement-with-the-highest-precision",
+     "img": {
+      "src": "/fileadmin/_processed_/1/4/csm_WEMA_teaserimg_6a166ec368.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "User Report",
+      "Inspection & Measuring"
+     ],
+     "title": "»mμFocus« – Measurement with the highest precision",
+     "teaser": "Greater efficiency in tool production",
+     "date": ""
+    },
+    {
+     "href": "/in/company/manufacturing-reports-stories/detail/smile-420-drives-1-million-increase-in-revenue",
+     "img": {
+      "src": "/fileadmin/_processed_/a/c/csm_content_img_02_0c6cd77d5f.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "User Report",
+      "Presetting & Measuring"
+     ],
+     "title": "»smile 420« drives $1 million increase in revenue",
+     "teaser": "ProCam Services LLC: A presetting and measuring machine that streamlines workflows and saves a lot of time.",
+     "date": ""
+    },
+    {
+     "href": "/in/company/manufacturing-reports-stories/detail/more-efficient-production-thanks-to-correct-tool-data",
+     "img": {
+      "src": "/fileadmin/_processed_/3/5/csm_lidu_teaserimg_12b9c6a225.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "User Report",
+      "Tool Management"
+     ],
+     "title": "More efficient production thanks to correct tool data",
+     "teaser": "LIDU Maschinenbau shortens throughput times and increases flexibility with ZOLLER",
+     "date": ""
+    },
+    {
+     "href": "/in/company/manufacturing-reports-stories/detail/rautiefen-flaechig-zu-messen-optimiert-zerspanungswerkzeuge",
+     "img": {
+      "src": "/fileadmin/_processed_/c/3/csm_hufschmied_teaserimg_b413107b89.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "User Report",
+      "Inspection & Measuring"
+     ],
+     "title": "Rautiefen flächig zu messen, optimiert Zerspanungswerkzeuge",
+     "teaser": "Hufschmied erzielt optimale Messergebnisse mit ZOLLER",
+     "date": ""
+    }
+   ],
+   "pages": [
+    {
+     "label": "1",
+     "href": "",
+     "current": true
+    },
+    {
+     "label": "2",
+     "href": "/in/company/manufacturing-reports-stories?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5BcurrentPage%5D=2&tx_news_pi1%5BoverwriteDemand%5D%5Btags%5D=43&cHash=436134ed4027b60297dcda47ef34bc6e",
+     "current": false
+    }
+   ],
+   "ftype": "news_pi1",
+   "id": "c557",
+   "bg": "",
+   "space": {
+    "before": "medium",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/in/company/manufacturing-reports-stories/page-1",
+ "de_path": "/unternehmen/reports-stories"
+}

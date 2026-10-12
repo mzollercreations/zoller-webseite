@@ -1,0 +1,814 @@
+{
+ "path": "/기업/프로필/연혁",
+ "url": "/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84/%EC%97%B0%ED%98%81",
+ "title": "연혁",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "기업 /",
+   "href": "/kr/%EA%B8%B0%EC%97%85"
+  },
+  {
+   "label": "프로필 /",
+   "href": "/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84"
+  },
+  {
+   "label": "연혁",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "기업 /",
+   "href": "/kr/%EA%B8%B0%EC%97%85"
+  },
+  {
+   "label": "프로필 /",
+   "href": "/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84"
+  },
+  {
+   "label": "연혁",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/profil/historie",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/profile/history",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/profil/historia",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/profil/historie",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/history",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/profil/historique",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/%E6%B2%BF%E9%9D%A9",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84/%EC%97%B0%ED%98%81",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/profile/history",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/perfil/historia",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/perfil/historia",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "timeline",
+   "heads": {
+    "772": {
+     "year": "1945",
+     "label": "귀환과 새로운 시작"
+    },
+    "773": {
+     "year": "1948",
+     "label": "성장과 변화"
+    },
+    "774": {
+     "year": "1958",
+     "label": "세계 최초"
+    },
+    "775": {
+     "year": "1968",
+     "label": "빠른 시작"
+    },
+    "776": {
+     "year": "1969",
+     "label": "연재 중"
+    },
+    "777": {
+     "year": "1976",
+     "label": "최초의 NC 제어식 조정 장치"
+    },
+    "778": {
+     "year": "1977",
+     "label": "시대를 앞서가는"
+    },
+    "779": {
+     "year": "1981",
+     "label": "공구 공정용 소프트웨어"
+    },
+    "780": {
+     "year": "1982",
+     "label": "졸러(ZOLLER)가 프라이베르크 암 네이치(Freiberg a.N.)로 이전합니다."
+    },
+    "781": {
+     "year": "1983",
+     "label": "졸러가 기준을 제시합니다"
+    },
+    "782": {
+     "year": "1985",
+     "label": "Power Brain이 Tool Brain을 대체합니다"
+    },
+    "783": {
+     "year": "1988",
+     "label": "수상 경력에 빛나는 디자인"
+    },
+    "784": {
+     "year": "1989",
+     "label": "모든 사용자에게 마이크로미터 단위의 정밀도"
+    },
+    "785": {
+     "year": "1991",
+     "label": "마우스 대신 손가락"
+    },
+    "786": {
+     "year": "1992",
+     "label": "ZOLLER의 첫 번째 공구 검사 장비"
+    },
+    "787": {
+     "year": "1993",
+     "label": "가장 힘든 결정"
+    },
+    "788": {
+     "year": "1994",
+     "label": "칸반이 도입됩니다"
+    },
+    "789": {
+     "year": "1995",
+     "label": "»스마트체크« 시대의 시작"
+    },
+    "790": {
+     "year": "1996",
+     "label": "새로운 소프트웨어 솔루션"
+    },
+    "791": {
+     "year": "1997",
+     "label": "서쪽으로 가자"
+    },
+    "792": {
+     "year": "1998",
+     "label": "측정 및 검사 분야의 최신 소식"
+    },
+    "793": {
+     "year": "1999",
+     "label": "»라소는« 윤곽을 포착한다"
+    },
+    "794": {
+     "year": "2000",
+     "label": "새로운 차이점: »smile«"
+    },
+    "795": {
+     "year": "2001",
+     "label": "인증된 환경 경영"
+    },
+    "796": {
+     "year": "2002",
+     "label": "축소 전문가: »redomatic«"
+    },
+    "797": {
+     "year": "2003",
+     "label": "»genius 3«로 더 선명한 시야"
+    },
+    "798": {
+     "year": "2004",
+     "label": "은퇴는 무산됐다"
+    },
+    "799": {
+     "year": "2005",
+     "label": "60년 후의 소규모 장비 현황"
+    },
+    "800": {
+     "year": "2006",
+     "label": "»파일럿 3.0«"
+    },
+    "801": {
+     "year": "2007",
+     "label": "»pilot elephant«: 사전 지식 없이도 측정 가능"
+    },
+    "802": {
+     "year": "2008",
+     "label": "플라이델스하임으로 이사"
+    },
+    "803": {
+     "year": "2010",
+     "label": "일본의 졸러"
+    },
+    "804": {
+     "year": "2011",
+     "label": "ZOLLER를 활용한 공구 관리"
+    },
+    "805": {
+     "year": "2012",
+     "label": "»티타늄«"
+    },
+    "806": {
+     "year": "2013",
+     "label": "측정 장비의 신제품"
+    },
+    "807": {
+     "year": "2014",
+     "label": "자동화를 통한 효율성 향상"
+    },
+    "808": {
+     "year": "2016",
+     "label": "»smile« 및 »venturion« 업데이트"
+    },
+    "809": {
+     "year": "2017",
+     "label": "공구 표면의 정밀 분석"
+    },
+    "810": {
+     "year": "2018",
+     "label": "앤아버에 본사를 두고,"
+    },
+    "811": {
+     "year": "2020",
+     "label": "스마트 팩토리와 아카데미를 갖춘 신축 건물"
+    },
+    "812": {
+     "year": "2021",
+     "label": "제조용 공구 자동화"
+    },
+    "813": {
+     "year": "2022",
+     "label": "밸런싱 및 수축 공정을 위한 혁신 기술"
+    },
+    "814": {
+     "year": "2023",
+     "label": "자동화를 위한 포털 솔루션"
+    },
+    "815": {
+     "year": "2024",
+     "label": "새로운 측정기"
+    },
+    "816": {
+     "year": "2025",
+     "label": "»pom« 모델에 대한 종합적인 관리"
+    }
+   },
+   "items": [
+    {
+     "id": "772",
+     "html": "19<br/> 45 <h1>귀환과 새로운 시작</h1> <p>알프레드 졸러가 베를린에서 루트비히스부르크로 돌아왔다. 그는 9년 동안 기계공 장인으로 히르트 항공 엔진 회사에 파견 근무를 했다. 9월 1일, 알프레드 졸러는 루트비히스부르크의 보겐슈트라세에 자신의 기계 공방을 설립했다. 제2차 세계대전이 끝난 지 불과 4개월이 지났을 때였다. 그만큼 창업 조건은 어려웠다. 한편으로는 수리해야 할 물건이 많았지만, 다른 한편으로는 공구와 자재, 기계가 부족했다. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/8/csm_1945_01_0487a6b9c4.webp\" width=\"600\"/> <p>알프레드 졸러</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/0/csm_1945_02_240d6e6568.webp\" width=\"600\"/> <p>루트비히스부르크의 보겐슈트라세</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/d/csm_1945_03_bb9b277f52.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/6/csm_1945_04_f1fa6af766.webp\" width=\"600\"/> <h4>만년필, 라이터, 소방 호스</h4> <p>알프레드 졸러는 엔진, 소방 호스, 어린이 장난감, 만년필, 그리고 사람들이 가져오는 온갖 물건을 수리합니다. 또한 고장 난 기계들을 수리하기도 합니다. 이 기계들은 그가 직접 제품을 만드는 데 필요한 기반이 됩니다.</p> <p>특히 그가 선반을 이용해 제작하는 알루미늄 라이터는 큰 성공을 거둡니다. 시간이 지나면서 미군 병사들이 그의 주요 고객이 됩니다. 그들은 주로 담배, 땅콩버터, 초콜릿으로 라이터 값을 지불합니다.</p>",
+     "img": null
+    },
+    {
+     "id": "773",
+     "html": "19<br/> 48 <h3>성장과 변화</h3> <p>알프레드 졸러의 회사는 루트비히스부르크에서 성공적으로 자리를 잡았다. 이 소규모 기업은 지난 3년 동안 성장하며 직원 수도 늘어났다. 보겐슈트라세 사무실은 점점 비좁아졌다. 이에 작업장은 장소를 옮겨 샤를로텐슈트라세로 이전한다. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/4/csm_1948_01_3e7d4e5914.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/3/csm_1948_02_cd124cd83d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/1/csm_1948_03_ddef5d6539.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/b/csm_1948_04_35d2f43c2e.webp\" width=\"600\"/> <h4>공구 홀더와 기술 발전</h4> <p>졸러의 기계공으로서의 실력이 입소문을 탔다. 회사는 라이선스를 통해 선반용 공구 홀더를 생산하여 여러 대리점을 통해 판매했다. 이는 졸러 역사상 최초의 공구 솔루션이었다. 이를 통해 알프레드 졸러는 선반 공구 및 선반 업계에 발을 들여놓게 되었다. </p> <p>기계 제조사들로부터 추가 주문이 들어옵니다. 알프레드 졸러는 선반 공구를 조정할 수 있는 금속 템플릿을 제작해야 했습니다. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/4/csm_1948_01_3e7d4e5914.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "774",
+     "html": "19<br/> 58 <h3>세계 최초: 졸러의 선반 공구 조정 장치</h3> <p>고객들로부터 선반 공구용 사전 설정 장치가 생산 효율을 크게 높여줄 것이라는 제안이 제기되었습니다. 창의적인 슈바벤 기업 졸러(Zoller)는 이 아이디어를 받아들여 공구 설정을 위한 팬토그래프를 개발했습니다. </p> <p>사실 팬토그래프는 도면 작성용 기구입니다. 하지만 졸러는 이 메커니즘을 현미경과 결합하여 공구 설정에 활용하는 방법을 찾아냈습니다. 이는 기계 조작자가 기술 도면을 바탕으로 모든 선반 공구를 외부에서 사전 설정할 수 있게 해준 세계 최초의 장치였습니다. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/b/csm_1958_01_a451fe7896.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/0/csm_1958_02_ad7853d944.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/d/b/csm_1958_01_a451fe7896.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "775",
+     "html": "19<br/> 68 <h3>빠른 시작 </h3> <p>알프레드 졸러의 아들 에버하르트 졸러가 4월 8일 회사에 합류한다. 이 젊은 기계공학 엔지니어는 대형 인쇄기 전문 기업인 하이델베르거 드루크에서 근무하고 있었다. 하지만 아버지의 건강 상태가 시급한 조치를 필요로 했다. “저는 하이델베르거 드루크에서 매우 만족스럽게 일했습니다. 그곳은 독일에서 가장 현대적인 기업 중 하나였죠. 하지만 아버지의 회사에 합류하는 데는 한 순간도 망설이지 않았습니다.” 에버하르트 졸러는 이렇게 회상한다. 그의 첫 번째 임무는 조정 및 측정 장치를 더욱 발전시키는 것이었다. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/6/csm_1968_01_6f0f9a1511.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/6/csm_1968_02_8f0be66930.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/7/csm_1968_03_c3382b902c.webp\" width=\"600\"/> <h4>상호 변경</h4> <p>장비 및 공구 홀더 분야로 사업 초점이 더욱 이동함에 따라, 회사는 사명을 변경했습니다. 하노버 산업박람회에서는 “ALFRED ZOLLER Maschinen- und Vorrichtungsbau”라는 이름으로 참가했습니다. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/6/csm_1968_01_6f0f9a1511.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "776",
+     "html": "19<br/> 69 <h3>연재 중</h3> <p>알프레드 졸러가 발명하고 에버하르트 졸러가 개량한 이 조정 장치가 양산에 들어간다. 한때 기계 공장으로 설립된 이 회사는 기계 제조업체로 거듭난다. 연말까지 30대 이상의 장비가 판매된다. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/7/csm_1969_01_2d454117fb.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/7/csm_1969_01_2d454117fb.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "777",
+     "html": "19<br/> 76 <h3>최초의 NC 제어식 조정 장치</h3> <p>공구 설정은 여전히 수작업으로 이루어지고 있습니다. 이에 ZOLLER는 공구를 설정 위치로 자동으로 이동시키는 방법을 모색하고 있습니다. 세계 최초의 NC 제어식 설정 장비가 시장에 출시되었습니다. 바로 ZOLLER의 H 4000입니다.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/e/csm_1976_03_cded673504.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/4/csm_1976_02_d7b5b5374d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/b/csm_1976_01_5e9cfdb9f4.webp\" width=\"600\"/> <h4>국왕의 방문</h4> <p>졸러(ZOLLER)가 스톡홀름에서 열린 공작기계 박람회에 참가했습니다. 루트비히스부르크에 본사를 둔 이 회사의 명성은 최고위층까지 널리 알려져 있는 듯합니다. 수출 파트너국의 국왕인 스웨덴의 카를 구스타프 국왕이 직접 졸러의 부스를 방문했습니다. 그는 슈바벤 지역의 정밀 기술이 무엇이 그렇게 특별한지 궁금해했습니다.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/e/csm_1976_03_cded673504.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "778",
+     "html": "19<br/> 77 <h3>시대를 앞서가는: Basic으로 디지털 인테리어 계획서 만들기 </h3> <p>소프트웨어가 공정에서 점점 더 중요한 역할을 하게 될 것이라는 점은 에버하르트 졸러에게 있어 시간 문제일 뿐이었다. ZOLLER가 이를 위한 솔루션을 개발해야 한다는 사실에는 의심의 여지가 없었다. 이에 ZOLLER의 사장은 주저 없이 베이직(Basic) 프로그래밍을 독학하기 시작했고, 하노버 국제 박람회에서 최초의 디지털 설정 시트를 선보였다. 반응은 즉각적으로 폭발적이었다. 하지만 ZOLLER는 예상치 못한 문제에 직면했다. 바로 제품을 공급할 수 없다는 점이었다. 사장은 이 프로그램을 그저 개념 스케치로만 생각했었다. 하지만 씨앗은 뿌려진 셈이었다. 에버하르트 졸러는 프로그래머를 채용한다.</p>",
+     "img": null
+    },
+    {
+     "id": "779",
+     "html": "19<br/> 81 <h3>공구 공정용 소프트웨어</h3> <p>에버하르트 졸러는 공구 관리와 관련된 더 많은 요구 사항을 디지털로 구현하고자 했습니다. 1981년, 졸러는 첫 번째 공구 관리 소프트웨어인 ‘툴 브레인(Tool Brain)’을 선보였습니다.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/d/csm_1981_01_96ddb65e12.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/b/csm_1981_02_f5b5db0122.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/6/d/csm_1981_01_96ddb65e12.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "780",
+     "html": "19<br/> 82 <h3>졸러(ZOLLER)가 프라이베르크 암 네이치(Freiberg a.N.)로 이전합니다.</h3> <p>ZOLLER의 루트비히스부르크 소재 부지가 회사의 성장 규모를 더 이상 감당할 수 없게 됨에 따라, 곧 새로운 이전을 앞두고 있습니다. ZOLLER는 프라이베르크 암 네이더(Freiberg a.N.)에 새로운 시설을 건설함으로써, 생산, 개발 및 관리 부문을 미래 지향적으로 운영할 수 있는 최적의 여건을 마련하고 있습니다. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/e/csm_1982_01_55ec0d8af2.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_1982_02_8738e9d4cd.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/e/csm_1982_01_55ec0d8af2.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "781",
+     "html": "19<br/> 83 <h3>졸러(ZOLLER)는 조정 장비 분야의 표준을 제시합니다</h3> <p>디지털 디스플레이와 D150 mm 프로젝터를 탑재한 수동 조정기 H 1000이 시장을 석권합니다. 이 제품은 당시 CNC 선반에 가장 널리 사용되던 조정기였습니다. 또한 ZOLLER의 첫 수직형 모델인 V 1500이 시장에 출시됩니다. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/b/csm_1983_01_cda21bfcaf.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/b/csm_1983_01_cda21bfcaf.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "782",
+     "html": "19<br/> 85 <h3>Power Brain이 Tool Brain을 대체합니다</h3> <p>졸러(ZOLLER)는 디지털 공구 관리의 중요성을 정확히 파악하고 소프트웨어 ‘툴 브레인(Tool Brain)’의 개발을 지속적으로 추진해 왔습니다. 이 소프트웨어의 첫 번째 확장 버전인 ‘파워 브레인(Power Brain)’은 1985년에 출시되었습니다. 이는 이후의 TMS 툴 관리 솔루션(TMS Tool Management Solutions)으로 이어지는 길을 열었습니다. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/4/csm_1985_01_b58799cdf1.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/e/csm_1985_02_365ef2e25f.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/4/csm_1985_01_b58799cdf1.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "783",
+     "html": "19<br/> 88 <h3>디자인, 인체공학, 사용 편의성에서 높은 평가를 받음</h3> <p>에버하르트 졸러는 인체공학, 간편한 조작, 모듈식 구조를 특히 중요하게 여깁니다. 그에게 이는 ZOLLER가 시장에서 차별화될 수 있는 결정적인 특징이자 부가적인 가치를 제공하는 요소들입니다. 이를 위해 그는 V 및 H 장비 시리즈를 새롭게 개발하도록 지시했습니다. 이 시리즈는 앞서 언급한 기준을 더욱 철저히 충족해야 합니다. </p> <p>졸러는 이 시리즈에 한 손 조작 손잡이와 무단계 미세 조정 기능과 같은 혁신적인 기술을 적용했습니다. 이러한 기능들은 조작 편의성을 획기적으로 높여줍니다. 회사는 처음으로 산업 디자이너와 협업했습니다. 그 노력은 결실을 맺었습니다. 이 장비들은 국제 산업 디자인상인 HiF를 수상했으며, \"최고 중의 최고\"로 선정되었습니다.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/2/csm_1988_01_fa494a9b49.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/3/csm_1988_02_3a8ac45faa.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/7/csm_1988_03_967f0da541.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/4/csm_1988_04_0d0d8359a6.webp\" width=\"600\"/> <h4>국제화 전략으로 판매량 증가</h4> <p>국제 영업 활동이 확대되면서 조정 및 측정 기기의 연간 판매량이 600대로 증가했습니다. 프랑스, 오스트리아, 스위스에 지사가 설립되었으며 다수의 대리점도 추가되었습니다. ZOLLER-Austria는 설립 10년 만에 오스트리아 시장 점유율 1위를 차지했습니다.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_1988_01_fa494a9b49.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "784",
+     "html": "19<br/> 89 <h3>모든 사용자에게 마이크로미터 단위의 정밀도</h3> <p>ZOLLER의 또 하나의 기술적 이정표: CNC 제어식 조정 장비에 전자식 PET 프로젝터가 최초로 적용되었습니다. 이를 통해 ZOLLER는 전 세계 제조사 중 최초로, 작업자에 관계없이 마이크로미터 단위의 정밀한 측정을 재현할 수 있는 시스템을 선보입니다.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/f/csm_1989_01_9d8f692b54.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/9/csm_1989_02_a7e3a3b9a2.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/f/csm_1989_01_9d8f692b54.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "785",
+     "html": "19<br/> 91 <h3>마우스 대신 손가락</h3> <p>졸러(ZOLLER)는 자사 장비에 한층 더 향상된 편의성을 더했습니다. 새로운 전자 제어 장치 TS 20 및 40을 통해 처음으로 터치스크린이 도입되어, 소프트웨어 조작 시 마우스 클릭이 거의 필요 없게 되었습니다. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/2/csm_1991_01_1336facf94.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/2/csm_1991_01_1336facf94.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "786",
+     "html": "19<br/> 92 <h3>ZOLLER의 첫 번째 공구 검사 장비 </h3> <p>공구 제조업체와 연삭 업체의 까다로운 요구 사항을 충족하기 위해 ZOLLER는 뛰어난 정밀도와 더욱 다양한 기능을 갖춘 전문 측정 장비를 개발했습니다. 첫 번째 장비인 H321S는 슈바벤 지역의 이웃 도시인 튀빙겐에 위치한 Walter사에 공급됩니다. 이 장비에는 CNC 연삭기로의 데이터 전송 기능을 포함한 새로운 GeoTool 소프트웨어가 탑재되어 있습니다.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/c/csm_1992_01_256c6efd73.webp\" width=\"600\"/> <h4>1992/93년 경제 위기 – 몇 달 만에 판매량이 급감 </h4> <p>그러나 열기는 식어버렸다. FAMETA '92가 진행 중이던 당시, 자동차 업계는 수만 명의 직원을 해고하겠다고 발표했다. 경제 위기가 닥쳐와 졸러(ZOLLER)에 지대한 영향을 미쳤다. 에버하르트 졸러는 \"9월까지 월평균 약 50대의 설정 및 측정 장비 주문이 들어왔다\"고 회상한다. “12월에는 단 4건에 불과했습니다.” </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/c/csm_1992_01_256c6efd73.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "787",
+     "html": "19<br/> 93 <h3>가장 힘든 결정</h3> <p>에버하르트 졸러는 1992년 크리스마스 연휴 기간 동안 직장 생활 내내 가장 힘든 결정 중 하나를 내려야만 했습니다. 1993년, 졸러는 사내 부품 생산 부문을 폐쇄했습니다. 생산이 외주화되면서 많은 직원들이 일자리를 잃게 되었습니다. </p> <p>에버하르트 졸러: “그것은 직원들에게도, 저에게도 힘든 일이었습니다. 우리는 2교대 근무를 하는 현대적인 생산 시설을 갖추고 있었습니다. 기계에 부품을 장착해 밤에도 무인 상태로 가동할 수 있었죠. 하지만 이제 그 모든 것이 끝났습니다.”</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/7/csm_1993_01_3b720306c3.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_1993_02_b47ef20774.webp\" width=\"600\"/> <h4>AWV – 특허 받은 영상 처리 기술</h4> <p>하노버 EMO 전시회에서 ZOLLER는 자체 개발하고 특허를 취득한 영상 처리 기술 AWV를 처음으로 선보입니다. AWV가 공구의 측정 데이터를 탁월하게 시각화함에 따라 ZOLLER는 전 세계적으로 큰 주목을 받고 있습니다. AWV는 영상 처리 및 광학 기술을 통한 산업용 측정 기술의 초석을 마련합니다.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/5/7/csm_1993_01_3b720306c3.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "788",
+     "html": "19<br/> 94 <h3>칸반이 도입됩니다</h3> <p>졸러(ZOLLER)에서 3세대가 사업을 시작합니다. 에버하르트 졸러의 장남인 크리스토프 졸러가 졸러 팀의 일원이 되었습니다. 그의 첫 번째 프로젝트는 부품 창고에 칸반(KANBAN) 시스템을 도입하여 조직 운영을 최적화하는 것이었습니다. 이는 효율성을 높이기 위한 중요한 조치로, 이를 통해 졸러는 자사 제품 포트폴리오에 포함된 모든 조정 및 측정 장비를 14일 이내에 고객에게 배송할 수 있게 되었습니다. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/f/csm_1994_01_19b5d93249.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/2/csm_1994_02_116316a436.webp\" width=\"600\"/> <h4>Windows 기반 ZOLLER 소프트웨어</h4> <p>슈투트가르트에서 열린 AMB 전시회에서 ZOLLER는 Windows 운영 체제를 탑재한 »Multivision« 소프트웨어를 처음으로 선보였습니다. 또한 공구 및 금형 제조용 전극 측정기인 »V321combi도« 공식적으로 공개되었습니다. </p> <p>새롭게 개발된 »'하이페리온(hyperion)«' 제품군과 새로운 »'브라보(bravo) 1/2/3'« 모델 시리즈가 시장에 출시됩니다.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/f/csm_1994_01_19b5d93249.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "789",
+     "html": "19<br/> 95 <h3>»스마트체크« 시대의 시작 </h3> <p>공구 제조업체 및 연마 업체용 장비인 H321S의 후속 모델이 출시됩니다. »smartCheck가« 출시되며, 당분간은 회전식 투과광 카메라와 »screenMachine« 소프트웨어가 함께 제공됩니다.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/2/csm_1995_01_2c911ae657.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/2/csm_1995_01_2c911ae657.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "790",
+     "html": "19<br/> 96 <h3>새로운 소프트웨어 솔루션</h3> <p>첫 공개 후 불과 3년 만에 ZOLLER는 고객들에게 한층 더 발전된 이미지 처리 소프트웨어 »AWV III를« 선보입니다. 장비의 제어 소프트웨어인 »‘saturn«’ 또한 새롭게 선보이는 기능입니다. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/d/csm_1996_01_9278eff800.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/f/csm_1996_02_928584a655.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/8/d/csm_1996_01_9278eff800.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "791",
+     "html": "19<br/> 97 <h3>Go West – 졸러, 미국에 지사 설립 </h3> <p>졸러(ZOLLER)는 1997년까지 미국 시장을 외부 대리점을 통해 관리했다. 성과는 그다지 크지 않았다. 1992년 시카고에서 열린 IMTS 박람회를 방문한 후, 크리스토프 졸러는 미국에 졸러 지사를 설립하기로 결정했습니다. 위치는 미시간주 앤아버로, 한때 미국의 자동차 중심지였던 디트로이트에서 서쪽으로 약 60km 떨어진 곳입니다. 졸러 인크(ZOLLER Inc.)는 중요한 거점으로 성장했으며, 현재는 미국 내 고객뿐만 아니라 캐나다와 멕시코의 고객들도 지원하고 있습니다.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/3/csm_1997_01_a08b653023.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/0/csm_1997_02_60f63602df.webp\" width=\"600\"/> <h4>수동 측정이 더욱 간편해집니다</h4> <p>ZOLLER 수동 장비용 새로운 이미지 처리 시스템의 이름은 “E-Magix”입니다. 이를 통해 이 설정 및 측정 장비들도 사용자 독립적이고 마이크로미터 단위의 정밀한 측정이 가능해집니다. 따라서 예산이 제한적인 ZOLLER 고객들도 자동 측정 이미지 처리 시스템의 이점을 누릴 수 있게 되었습니다. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/3/csm_1997_01_a08b653023.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "792",
+     "html": "19<br/> 98 <h3>측정 및 검사 분야의 최신 소식</h3> <p>아우크스부르크에서 열린 정밀 공구 제조업체를 위한 첫 번째 전문 박람회에서 졸러(Zoller)는 공구 측정 및 검사 제품군을 선보였습니다. 특히 »V420 프리미엄«, »V420 프로피« 모델과, 무엇보다도 이미지 처리 기술을 탑재한 »V420 매그넘« 모델이 큰 주목을 받았습니다.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/8/csm_1998_01_3d21d4534b.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/5/csm_1998_02_889c862a76.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/9/csm_1998_03_be2a6c4d07.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/8/csm_1998_01_3d21d4534b.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "793",
+     "html": "19<br/> 99 <h3>»라소는« 윤곽을 포착한다</h3> <p>한 소프트웨어가 전문가들의 큰 관심을 받고 있습니다. »‘lasso’는« 조정 및 측정 장비에서 나선형 공구를 완전 자동으로 스캔하는 것을 최초로 가능하게 했습니다. 또한 이 소프트웨어는 DXF 기준 윤곽을 바탕으로 허용 오차 범위를 적용한 목표/실측 비교를 통해 형상과 윤곽을 마이크로미터 단위의 정밀도로 분석할 수 있습니다. 이른바 '전나무 모양' 공구는 특히 항공 및 우주 산업 분야에서 큰 인기를 끌었습니다. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/4/csm_1999_01_387ee1601f.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/0/csm_1999_02_efda5ebf67.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/4/csm_1999_01_387ee1601f.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "794",
+     "html": "20<br/> 00 <h3>새로운 차이점: »smile«</h3> <p>ZOLLER의 »‘smile’« 시리즈 출시로, 수동 조정 및 측정 기기용 투과형 프로젝터는 이제 완전히 과거의 유물이 되었습니다. 경쟁사들이 인터툴(Intertool) 박람회에서 프로젝터가 장착된 기기를 신제품으로 내세우며 단지 다른 제조사의 제품을 선보이는 데 그친 반면, 혁신의 선두주자인 ZOLLER는 다시 한번 시장을 한참 앞서 나가고 있습니다. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/0/csm_2000_01_92bdc20f46.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/7/csm_2000_02_3a12cc2553.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/0/csm_2000_01_92bdc20f46.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "795",
+     "html": "20<br/> 01 <h3>인증된 환경 경영</h3> <p>졸러(ZOLLER)는 환경 보호를 중요하게 생각합니다. 이에 따라 당사는 DIN EN ISO 14001 인증을 획득했습니다. 이를 통해 국제적으로 인정받는 기업 환경 관리 체계를 구축하게 되었습니다.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/7/csm_2001_00_fcecf51b1d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/c/csm_2001_01_fbfed3b0ab.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/3/csm_2001_02_96ed611f19.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/2/csm_2001_03_a6c71d07ca.webp\" width=\"600\"/> <h4>검사의 천재: »genius«</h4> <p>ZOLLER는 측정 및 검사 장비인 »genius를« 통해 조정 및 측정 장비 기술을 확장합니다. 이 장비는 5축 CNC 및 자동 반사광 측정 기능을 제공합니다. 이를 통해 ZOLLER는 절삭면에 대한 다양한 매개변수를 자동으로 측정하고 공구의 품질을 고정밀도로 검사하고자 하는 고객, 즉 공구 제조업체와 연삭 업체에도 제품을 공급할 수 있게 되었습니다. </p> <p>하노버 EMO 전시회에서 ZOLLER는 새로 개발된 기술적 하이라이트를 추가로 선보입니다: 범용 스핀들 »'ace'«, »'phoenix'를« 이용한 센터 간 클램핑 및 측정, 커터 헤드용 좌석형 설정 및 측정 장비 »'zenit'«, 그리고 크랭크샤프트 밀링 커터용 완전 자동 측정 장비 »'gemini'가« 바로 그것입니다.</p> <h4>3세대, 2부</h4> <p>에버하르트 졸러의 차남인 알렉산더 졸러가 9월부터 회사에 입사합니다. 그는 입사 전 직업 아카데미와 졸러에서 이중 교육 과정을 이수했습니다.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/7/csm_2001_00_fcecf51b1d.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "796",
+     "html": "20<br/> 02 <h3>축소 전문가: »redomatic«</h3> <p>공구를 삽입 및 탈착하고, 측정 및 조정할 수 있는 장비에 대한 첫 번째 주문이 들어왔다. 이제 필요한 것은 적합한 솔루션뿐이다. 스위스에 있는 고객을 방문하기 위해 차를 타고 가는 길에, 에버하르트 졸러와 개발자 크리스티안 파우는 잠재적인 기술적 접근 방안을 논의합니다. 이웃 나라로의 이 짧은 여행은 그만한 가치가 있었습니다. 돌아온 후, 설계는 이미 완성되었습니다. 적어도 머릿속에서는 말이죠. 그 과정에서 두 사람은 스위스에 »'genius'« 3대를 판매하기도 했습니다. </p> <p>유도 수축 기술을 적용한 새로운 조정 및 측정 장비인 »'redomatic'이« 슈투트가르트에서 열린 AMB 박람회에서 공개되었습니다. 이는 ZOLLER가 개발한 수축 기술의 시작에 불과했다. 동시에 미국에서 열린 IMTS에서 ZOLLER는 완전 자동화 버전인 »roboToSet을« 선보이며, 슈넝크(Schunk)의 TRIBOS 다각형 클램핑 기술이 V 시리즈 조정 및 측정 장비와 어떻게 결합되는지 소개했다.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/a/csm_2002_00_95db9b4435.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_2002_01_1d3c5d8d2f.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/a/csm_2002_00_95db9b4435.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "797",
+     "html": "20<br/> 03 <h3>»genius 3«로 더 선명한 시야</h3> <p>졸러(ZOLLER)는 측정기 »‘genius «3’에 새로운 광학 시스템을 탑재하고, »‘genius Mikro’« 모델을 선보입니다. 수평형 장비 시리즈인 »‘hyperion’에는 DME 카메라, 회전 장치 및 광학 시스템 신속 조정 기능이 포함된 새로운 광학 마운트가 적용되어, 공구 설정의 유연성이 한층 더 확대되었습니다.«</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/d/csm_2003_00_913135cae6.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/8/csm_2003_01_2bdaa4001e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/1/csm_2003_02_de3551a3c4.webp\" width=\"600\"/> <h4>졸러 이베리카</h4> <p>ZOLLER Iberica의 설립이 완료되었습니다. 이에 따라 ZOLLER는 포르투갈과 스페인이라는 두 개의 새로운 시장에 현지 법인을 통해 진출하게 되었습니다. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/d/csm_2003_00_913135cae6.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "798",
+     "html": "20<br/> 04 <h3>은퇴는 무산됐다</h3> <p>졸러(ZOLLER)는 아들 알렉산더 졸러와 크리스토프 졸러를 경영진에 합류시킵니다. 계획은 이렇습니다. 크리스토프 졸러는 미국에서 돌아와 프라이베르크 암 네이더(Freiberg a.N.)에서 더 많은 역할을 맡게 됩니다. 에버하르트 졸러는 경영 업무에서 대부분 물러날 예정입니다. 이미 은퇴를 앞두고 반려견을 입양한 이 선임 대표는 산책도 하고, 네 발 달린 가족의 일이나 챙기려 했기 때문입니다. 하지만 사정은 달라졌습니다.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/1/csm_2004_00_cb56fd1d1e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/b/csm_2004_01_51b4876229.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/5/csm_2004_02_cb9a1f217b.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/5/csm_2004_03_ad74b64e11.webp\" width=\"600\"/> <h4>중국으로 향하다 </h4> <p>크리스토프 졸러는 미국에서 출발해 중국과 인도로 향합니다. 성장하는 시장에는 결국 졸러 지사가 필요하니까요. 말한 대로 실행에 옮겼습니다. 그는 상하이와 푸네에 각각 지사를 열었습니다. 동생 알렉산더는 미국으로 건너가 미국 사업을 맡아 지사를 더욱 확장해 나갑니다. 그리고 에버하르트 졸러는요? 그는 여전히 회사에 출근합니다. 반려견과 함께 말이죠.</p> <h4>모든 절삭 위치에서 측정</h4> <p>졸러 »아랄론(«Zoller »aralon)«을 통해 내부 절삭날이 있는 크랭크샤프트 밀링 커터를 모든 절삭 위치에서 최초로 완전 자동으로 측정할 수 있게 되었다. 커터 헤드용 측정기인 제닛(»zenit«)에는 침지축의 공압식 클램핑 기능을 갖춘 포털형 리트스톡이 추가되었다.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/f/1/csm_2004_00_cb56fd1d1e.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "799",
+     "html": "20<br/> 05 <h3>60년 후의 소규모 장비 현황</h3> <p>졸러(ZOLLER)에서는 창립자 알프레드 졸러(Alfred Zoller)가 남긴 가치관이 여전히 회사의 핵심 정신으로 자리 잡고 있습니다. 변화에 신속하게 대응하고, 끊임없이 혁신을 추구하며, 고객이 원하는 바를 항상 세심하게 경청하는 것입니다. </p> <p>전 세계 고객들은 이러한 업무 방식에 신뢰를 보내고 있습니다. 알프레드 졸러가 최초의 장비를 개발한 이래, ZOLLER는 2005년 말까지 약 20,000대의 추가 조정 및 측정 장비를 판매했습니다.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/1/csm_2005_00_fdd8ab8f6d.webp\" width=\"600\"/> <h4>완전 자동 공구 검사</h4> <p>측정기 »genius 3가« 한층 더 발전하여 처음으로 완전 자동 로딩 기능을 갖추게 되었습니다. »genius 3 sx« 모델은 매거진에 적재된 75개의 다양한 종류의 공구를 완전히 무인 상태로 측정합니다. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/1/csm_2005_00_fdd8ab8f6d.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "800",
+     "html": "20<br/> 06 <h3>최고 수준의 기기 소프트웨어: »pilot 3.0«</h3> <p>장비 소프트웨어 »'saturn'의« 후속 버전인 »'pilot 3.0'이« 새로운 아키텍처와 MMI에 최적화된 현대적인 사용자 인터페이스를 갖추고 출시됩니다. </p> <p>이를 통해 졸러(Zoller)는 설정 및 측정 장비, 측정기, 이미지 처리, 공구 관리(데이터 관리 및 인터페이스 포함)를 아우르는 통합 소프트웨어 컨셉의 글로벌 기준을 제시합니다. »'pilot 3'은« 편리한 조작과 초고속 이미지 처리를 위한 최고의 솔루션입니다. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/7/csm_2006_00_d45da2d636.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/5/csm_2006_01_5b3b85a630.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/2/csm_2006_02_b88e48a4ae.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/9/csm_2006_03_b2dcfb6a42.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/7/csm_2006_00_d45da2d636.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "801",
+     "html": "20<br/> 07 <h3>»pilot elephant«: 사전 지식 없이도 측정 가능</h3> <p>ZOLLER의 신조는 ‘측정은 간편해야 한다’는 것입니다. ZOLLER는 보조 소프트웨어 »‘pilot elephant«’를 통해, ZOLLER 장비를 사용하는 누구나 데이터 입력이나 조작 지식 없이도 공구를 마이크로미터 단위로 정확하게 측정할 수 있음을 입증합니다. 숙련된 가공 기술자든 방학 아르바이트생이든, 설정 및 측정 장비 앞에 서 있는 사람이라면 누구든 상관없습니다. ZOLLER 내부에서는 이 기능을 '증기 해머'라고 부릅니다. </p> <p>ZOLLER는 EMO에서 이미 성공을 거둔 측정기 »'genius'를« 어떻게 더욱 개선할 수 있는지 선보입니다. »genius는« 이제 »pilot 3를« 탑재하고, 추가 축과 새로운 마이크로 센서를 갖추고 있습니다. 이를 통해 정밀도가 한층 더 향상되었으며, 심지어 재료가 투명할 때조차 표면의 각도 측정이 가능해졌습니다. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/1/csm_2007_00_d5ee02dddf.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/2/csm_2007_01_2e3104732a.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/1/csm_2007_00_d5ee02dddf.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "802",
+     "html": "20<br/> 08 <h3>플라이델스하임으로 이사</h3> <p>25년이 넘은 지금, 프라이베르크 암 네카(Freiberg a.N.)에 위치한 본사 건물은 공간이 부족해졌습니다. ZOLLER는 약 4km 떨어진 네카르 강 건너편인 플라이델스하임(Pleidelsheim)으로 이전합니다.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/1/csm_2008_00_afd72ac2c5.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/0/csm_2008_01_bb00de4a3d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/f/csm_2008_02_08fa1ae800.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/f/csm_2008_03_678beb8dc2.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/1/csm_2008_00_afd72ac2c5.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "803",
+     "html": "20<br/> 10 <h3>일본의 졸러</h3> <p>인구 100만 명이 넘는 도시 오사카에 졸러(ZOLLER)가 일본 지사를 설립했습니다. 플라이델스하임에 본사를 둔 이 중견 기업은 이를 통해 또 하나의 주요 시장을 단계적으로 개척해 나가고 있습니다. 이후 나가노와 요코하마에도 지사가 추가로 개설될 예정입니다.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/f/csm_2010_00_93381b4b80.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/2/csm_2010_01_6ac9a7367e.webp\" width=\"600\"/> <h4>»벤투리온«의 확장성 강화</h4> <p>»벤투리온800« 제품군의 조정 및 측정 장비에 Z축 방향으로 더 많은 공간이 확보되었습니다. 요청 시 이제 1,400mm 및 1,600mm 측정 길이를 선택할 수 있습니다. 첫 번째 장비는 미국의 ZF-Windpower에 납품될 예정입니다.</p> <h4>최초의 가상 측정기</h4> <p>소프트웨어 분야에서도 새로운 소식이 있습니다. 바로 시뮬레이션 소프트웨어 »CAZ«(computer aided ZOLLER)입니다. 이는 공구 설계 단계에서 3D 모델을 기반으로 측정 프로세스를 시뮬레이션할 수 있는 가상 측정 장비입니다. »CAZ는« »pilot«에 통합되어 있어, 설계자가 완성된 측정 루틴을 ZOLLER 장비로 전송할 수 있습니다. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/f/csm_2010_00_93381b4b80.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "804",
+     "html": "20<br/> 11 <h3>ZOLLER를 활용한 공구 관리</h3> <p>생산 현장에서 공구 관리 소프트웨어를 사용하는 기업은 체계적으로 정리된 공구 데이터를 보유하게 됩니다. ZOLLER는 TMS Toolmanagement Solutions 소프트웨어를 선보이며, 이를 통해 디지털 공구 관리와 설정 및 측정 장비, 시험기에서 얻은 측정 데이터 간의 가교 역할을 수행합니다. 데이터와 데이터 관리가 하나로 통합되고 있습니다.</p> <h4>신속하고 공정 친화적인 측정</h4> <p>ZOLLER가 »pomSkpGo를« 출시합니다. 이는 절삭날 준비 상태를 측정하는 최초의 휴대용 측정 장비입니다. 이를 통해 ZOLLER는 유연성과 높은 정밀도를 하나의 장비에 결합했습니다. 이는 공정 밀착형 측정에 초점을 맞춘 장비들의 시작을 알리는 것입니다. 이 장비들은 입고 시 신속하고 정밀한 수동 측정을 수행하거나, 연삭기 옆에서 공구 점검을 수행하는 데 사용됩니다.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/0/csm_2011_00_3b26f621ab.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/d/csm_2011_01_32ad31d9b5.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/4/csm_2011_02_63b4fd55b9.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/3/csm_2011_03_692d824123.webp\" width=\"600\"/> <h4>특수 응용 분야로 포트폴리오 확장</h4> <p>또한 새롭게 선보이는 것은 특수 공구 유형을 위한 6가지 최상급 전문 솔루션입니다. 이제 고객은 롤러 커터 측정을 위해 »hobCheck와« »pomZenit을« 활용할 수 있습니다. 톱날을 측정하고자 하는 고객은 »sawCheck를«, 평면 커터 헤드는 »millCheck를«, 모서리 커터 헤드는 »pomZenit를«, 인서트가 장착된 롤링 커터는 »hobCheck800을« 사용하여 측정할 수 있습니다. </p> <p>엔진 제조 분야의 고객을 위해 ZOLLER는 크랭크축 밀링 커터의 측정 및 정렬에 자사의 뛰어난 측정 기술을 적용했습니다. 해당 솔루션은 »eQick200과« »eQuick« 300입니다.</p> <p>공구 및 금형 제조 분야의 요구 사항에도 더욱 주목하고 있습니다. ZOLLER는 »smile EDM을« 구현하고, 이를 위해 전자식 측정 프로브가 장착된 특수 모듈과 그래픽 사용자 인터페이스 및 추가 계산 방법을 갖춘 소프트웨어를 개발하고 있습니다.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/0/csm_2011_00_3b26f621ab.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "805",
+     "html": "20<br/> 12 <h3>기술적으로 실현 가능한 한계: »티탄«</h3> <p>측정 및 검사 장비 »‘티탄(titan)«’은 »‘지니어스(genius)’« 제품군을 확장합니다. 이 장비는 최대 7개의 CNC 축을 갖춘 완전 자동화 하이엔드 솔루션으로, 절삭날 가공을 포함한 정밀 공구의 마이크로미터(µm) 단위 정밀 검사를 수행합니다. »‘티탄’은« 무게가 최대 1,400kg에 달하는 측정 분야의 거인입니다. 생산 현장의 한가운데서도 침착하게 정밀한 작업을 수행해 냅니다.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/d/csm_2012_00_c6b0ad0be7.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/2/csm_2012_01_7dd3291b48.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/b/csm_2012_02_d7d56b35ec.webp\" width=\"600\"/> <h4>리머 전문가 </h4> <p>이미지 처리를 통한 보링 바의 조정 및 측정과 관련된 포괄적인 솔루션 외에도, ZOLLER는 »reamCheck« 장비에 전자식 이중 터치 프로브를 장착했습니다.</p> <h4>영국과 인도네시아의 ZOLLER</h4> <p>12월, ZOLLER는 영국에 지사를 설립했습니다. 현재 ZOLLER 영국 팀은 더비셔 주의 한적한 마을 포스턴에 본사를 두고 있습니다. 이곳은 버밍엄–셰필드–맨체스터 삼각형의 거의 중심부에 위치해 있습니다. 같은 해, ZOLLER는 인도네시아에 사무소를 개설했습니다. </p> <p>전 세계적으로 판매된 조정 및 측정 장비의 총 대수는 연말까지 30,000대를 넘어섰습니다. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/d/csm_2012_00_c6b0ad0be7.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "806",
+     "html": "20<br/> 13 <h3>측정 장비의 신제품</h3> <p>»threadCheck« 측정기는 나사산 공구의 자동 측정 및 검사를 통해 검사 제품군을 완성합니다. </p> <p>새로운 장비인 »3dCheck는« »genius를« 기반으로 하지만 추가 기능을 제공합니다. 이는 공구의 디지털 트윈 및 가공물의 디지털화에 대한 증가하는 추세를 따릅니다. 이 6축 측정기는 정밀한 공구 검사를 수행할 뿐만 아니라, 예를 들어 공구를 기반으로 3D 디지털 모델을 생성합니다. </p> <p>»edgeControl« 측정기는 마모 흔적을 감지하고 절삭날의 미세한 파손까지 비접촉 방식으로 측정하는 데 특화되어 있습니다. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/5/csm_2013_00_fd665e9f3e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/7/csm_2013_01_915ec1ed8a.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/2/csm_2013_02_5c895d3081.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/0/csm_2013_03_781bcf7142.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/a/csm_2013_04_13dd281fe0.webp\" width=\"600\"/> <h4>공정 현장 측정용 추가 장비</h4> <p>POM 시리즈에 세 가지 신제품이 추가되었습니다. 표준 및 마이크로 공구의 공정 내 측정을 위해 ZOLLER는 고객 여러분께 새로운 범용 장비인 »pomBasic« 및 »pomBasic micro를« 선보입니다. 또한 »pomDiaCheck는« 원형 연마된 블랭크와 드릴 및 리밍 공구의 직경을 1 µm 미만의 정밀도로 측정하는 공정 내 사용이 가능한 특수 장비로 시장에 출시됩니다.</p> <h4>redomatic용 CNC 기술</h4> <p>수축 공구의 길이 정밀 수축, 조정 및 측정을 위한 복합 장비가 이제 완전 자동으로 측정합니다. 부품 삽입과 완성된 전체 공구 꺼내기를 제외하고는 작업자는 관찰자 역할만 수행합니다.</p> <h4>인증</h4> <p>졸러(ZOLLER)는 DIN EN ISO 17025를 도입하고, 품질 관리 부문에서 ISO 9001:2008, VDA 6.4:2005 및 환경 경영 시스템 ISO 140001:2004에 따라 재인증을 획득했습니다.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/3/5/csm_2013_00_fd665e9f3e.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "807",
+     "html": "20<br/> 14 <h3>자동화를 통한 공구 제조업체의 효율성 향상</h3> <p>아우크스부르크에서 열리는 GrindTec 전시회에서 ZOLLER는 공구 제조업체와 연삭 업체가 공구 검사를 어떻게 자동화할 수 있는지 선보입니다. »roboSet 1은« »범용« 측정기 »genius의« 모든 공구 취급 공정을 담당합니다. 전체 공구 배치에 대한 검사가 완전 자동으로 수행되며 결과가 문서화됩니다. </p> <p>또한 새롭게 선보이는 제품으로는 KENtip과 같은 특수 드릴 형상 및 유형을 완전 자동으로 측정하는 솔루션과 연삭 휠 측정용 소프트웨어가 있습니다.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/4/csm_2014_00_ee8616f1bd.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/7/csm_2014_01_4b275c8266.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/4/csm_2014_02_8723403680.webp\" width=\"600\"/> <h4>원활하고 자동화된 데이터 전송</h4> <p>공구 데이터를 수동으로 입력하는 시대는 지났습니다. 밀라노 EMO에서 ZOLLER는 »zidCode를« 처음으로 선보입니다. 이 새로운 ZOLLER 솔루션은 공구 데이터를 오류 없이 제어 시스템에 맞춰 CNC 머신으로 직접 전송합니다. 공구의 코드를 스캔하기만 하면 됩니다.</p> <p>ZOLLER에게 zidCode는 중요한 혁신입니다. 이를 통해 이제 CAM-to-Part 프로세스 전반에 걸쳐 제조가 디지털 방식으로 진행되기 때문입니다.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/4/csm_2014_00_ee8616f1bd.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "808",
+     "html": "20<br/> 16 <h3>»smile«와 »venturion«을 위한 대규모 업데이트</h3> <p>»smile« 및 »venturion« 시리즈의 검증된 조정 및 측정 장비들이 새롭게 재탄생했습니다. 더욱 정밀해지고, 조작은 더욱 간편해졌으며, 편의성도 한층 높아졌습니다. 이제 »smile이나« »venturion의« 버튼을 누르는 사람이 전문가이든 비전문가가든 거의 차이가 없습니다. </p> <p>CNC 제어, 기기 소프트웨어 »pilot«, 오토포커스, 별도의 조작 장치 »cockpit«, 보조 소프트웨어 »elephant«, 그리고 새로운 한 손 조작 그립 »eQ가« 최상의 지원을 제공합니다. ZOLLER는 가장 사용자 친화적인 정밀 기기가 플라이델스하임에서 나온다는 것을 입증합니다.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/1/csm_2016_00_b30d8d238e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/3/csm_2016_01_94d97f1b9b.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/d/csm_2016_02_3b49344a7e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/9/csm_2016_03_23ec9d58b3.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/d/1/csm_2016_00_b30d8d238e.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "809",
+     "html": "20<br/> 17 <h3>공구 표면의 정밀 분석</h3> <p>공정 현장용 검사 장비인 »mµFocus를« 통해 공구 제조업체는 절삭날 표면의 거칠기를 비접촉 방식으로 세밀하게 확인할 수 있습니다. 고해상도 광학 시스템과 »pilot«의 뛰어난 영상 처리 기술을 바탕으로 »mµFocus는« 색상 코드화 된 이미지를 생성합니다. 이를 통해 미세한 흠집과 홈까지 명확하게 확인할 수 있습니다.</p> <h4>공구 관리 하드웨어로 공구 관리 기능 확장 </h4> <p>많은 ZOLLER 고객사가 이미 공구 및 공구 데이터 관리를 위한 모듈형 소프트웨어인 TMS Tool Management Solutions를 사용하고 있습니다. 이제 이에 걸맞은 하드웨어가 출시되었습니다. 대형 공구 보관함인 »keeper«, 공구 및 소형 부품을 위한 보관함인 »toolOrganizer«, 그리고 조립 작업대인 »toolStation이« 바로 그것입니다. 이 모든 제품은 ZOLLER 소프트웨어와 직접 연동할 수 있습니다. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/f/csm_2017_00_887e40741c.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/8/csm_2017_01_8a326e2894.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/3/f/csm_2017_00_887e40741c.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "810",
+     "html": "20<br/> 18 <h3>앤아버에 본사, 일본에 신사옥</h3> <p>미국 시장에서 20년 넘게 사업을 확장해 온 ZOLLER의 미국 법인인 ZOLLER Inc.가 미시간주 앤아버에 새로 지은 본사로 이전합니다. 이를 통해 알렉산더 졸러는 건축 분야를 위한 새로운 ZOLLER 디자인의 초석을 다지게 됩니다. 넓고 시설이 완비된 쇼룸은 곧 고객 상담, 교육, 프레젠테이션, 사내 행사 및 미국 내 성공을 위한 핵심 거점으로 자리매김합니다. </p> <p>일본에서도 졸러는 입지를 강화합니다. 회사는 자체 건물을 확보합니다.</p> <h4>»genius« 제품군을 위한 새로운 자동화 솔루션 </h4> <p>불과 5년 만에 »roboSet 1«의 후속 모델이 출시됩니다. ZOLLER는 »roboSet 2를« 통해 »genius«용 자동화 솔루션에 세척 및 라벨링 스테이션을 통합합니다. 이를 통해 공구 검사 및 문서화 과정에서 더욱 필수적인 공정 단계들이 무인화되어 진행될 수 있게 되었습니다.</p> <h4>콜렛 척이 장착된 공구를 위한 자동화</h4> <p>콜렛 척을 비롯한 공구의 자동 측정 및 조정을 위해 졸러는 또 하나의 세계 최초 기술인 »torqueMatic을« 개발했습니다. 이 조정 및 측정 장치는 조임 너트를 자동으로 풀고, 토크 모니터링을 통해 조정한 후 다시 조일 수 있습니다. </p> <p>토크 모니터링 기능이 탑재된 조임 스테이션이 추가된 »venturion 450은« 새로운 »screwMatic«으로 거듭납니다. 이를 통해 Schunk TENDO 타입의 유압 확장 척의 풀기 및 조임 작업이 자동화됩니다. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/7/csm_2018_00_3b05fd742d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/8/csm_2018_01_30fd37ca38.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/4/csm_2018_02_6b7b90acfb.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/2/csm_2018_03_f2be83cd14.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/f/csm_2018_04_06fda817d9.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/7/csm_2018_00_3b05fd742d.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "811",
+     "html": "20<br/> 20 <h3>스마트 팩토리와 아카데미를 갖춘 신축 건물</h3> <p>플라이델스하임에 위치한 본사 확장을 통해 졸러(ZOLLER)는 새로운 장을 열었습니다. 이곳에는 개발, 조립, 출하 및 관리 기능을 갖춘 고객 센터가 조성됩니다. 졸러 아카데미는 신축 건물 내에 현대적이고 널찍한 공간을 확보하게 됩니다. 그 중심에는 졸러가 인더스트리 4.0을 위한 네트워크 기반 솔루션을 처음으로 선보일 수 있는 스마트 팩토리가 자리 잡고 있습니다.</p> <h4>최고 수준의 소프트웨어를 한층 더 발전시켰습니다</h4> <p>탁월한 이미지 처리 기능을 갖춘 장비 소프트웨어 »'pilot 3.0«'은 전 세계적으로 표준으로 인정받고 있습니다. 그럼에도 ZOLLER는 검증된 기술을 더욱 발전시키는 것을 목표로 삼고 있습니다. 후속 버전인 »'pilot 4.0'은« 스마트폰과 태블릿을 기반으로 한 새로운 사용자 인터페이스를 선보입니다. »'pilot 3.0«'의 편리한 조작 방식은 그대로 유지됩니다. 이제 사용자는 자신의 작업 환경을 개별적으로 구성하고 모든 ZOLLER 장비에서 이를 불러올 수 있습니다. »pilot 4.0은« 최고의 편의성, 높은 사용자 친화성, 그리고 더욱 간편한 작업을 의미합니다.</p> <h4>새로운 장비 플랫폼과 새로운 디자인 </h4> <p>»genius« 시리즈의 모든 ZOLLER 공구 측정기는 새로운 플랫폼으로 전환되어 완전히 새롭게 설계되었습니다. 최첨단 기술, 독보적인 인체공학 설계 및 진동 차단 기능 외에도, »genius«, »threadCheck«, »edgeControl«, »3dCheck« 및 »titan은« 새로운 디자인으로 거듭났습니다.</p> <h4>수축 기술 확장 및 데이터 처리 편의성 향상</h4> <p>수축 제품 라인에 »redomatic mst«가 추가되어 기술이 한층 더 풍부해졌습니다.</p> <p>»zidCode 4.0이« »zidCode의« 확장판으로 출시됩니다. »zidCode 4.0은« 완전한 네트워크 연결 및 양방향 통신을 지원합니다. 중앙 데이터베이스인 z.One에서 데이터를 불러와 CNC 기계 제어 장치로 전송할 수 있을 뿐만 아니라, 수명 같은 업데이트된 데이터를 데이터베이스로 다시 기록할 수도 있습니다.</p> <h4>중국에도 신사옥 건립</h4> <p>크리스토프 졸러(Christoph Zoller)가 중국 사업을 시작한 지 16년 만에, 졸러(ZOLLER)는 중국 지사를 위한 새로운 건물을 개관합니다. 이는 국제 사업에서 길지만 성공적인 여정의 한 이정표입니다. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/3/csm_2020_00_1463439bea.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/6/csm_2020_01_2b46d3f70f.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/5/csm_2020_02_4de4e4c5ee.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/6/csm_2020_03_02ba7d969e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/6/csm_2020_04_4a68438d24.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/f/csm_2020_05_332915d9da.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/a/csm_2020_06_6b235cbb9a.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/c/csm_2020_07_b0ebae7512.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/8/csm_2020_08_6b194eb4bd.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/4/csm_2020_09_6e0fd677cf.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/3/csm_2020_00_1463439bea.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "812",
+     "html": "20<br/> 21 <h3>제조용 공구 자동화</h3> <p>시스템 공급업체 ZOLLER는 고객이 공구 공정을 자동화하고 생산 라인을 단계적으로 스마트 팩토리로 전환할 수 있도록 지원하는 신제품을 선보입니다.</p> <p>»loadBox는« 공구 피킹을 자동화하며, »roboBox는« 공구 조립, 설정 및 측정, 세척, 삽입 및 탈착 등 다양한 작업을 위한 모듈형 자동화 솔루션입니다. 다용도 »cora« 시리즈는 공구 핸들링, 코봇 지원 및 생산 현장 물류를 아우릅니다. </p> <p>ZOLLER는 조정 및 측정, 검사 및 측정, 공구 관리, 소프트웨어, 데이터 전송을 위한 솔루션의 장기적인 비전을 바탕으로 성장하고 있습니다. 자동화 분야에서는 이 모든 요소가 유기적으로 결합됩니다.</p> <h4>»idChip이« 탑재된 차세대 공구 홀더 </h4> <p>1948년 선반 공구 홀더로 시작했던 사업이 73년 만에 다시 부활했습니다: »툴링«. \"Made in Germany\"의 최고급 공구 홀더와 스마트한 액세서리를 통해 전 세계 고객은 이제 ZOLLER의 정평 있는 품질을 갖춘 클램핑 장비를 이용할 수 있게 되었습니다. </p> <p>마찬가지로 새롭게 도입된 »idChip«은 공구 홀더를 ZOLLER의 공구 관리 시스템에 즉시 사용할 수 있도록 준비시킵니다. 코딩된 플라스틱 칩이 공구 홀더에 내장되어 있어 공구를 명확하게 식별할 수 있습니다. 그러나 비용은 RFID 트랜스폰더보다 훨씬 저렴합니다. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/9/csm_2021_00_b1855bd81f.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/c/csm_2021_02_4783ccf6d7.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/0/csm_2021_03_3269d32dbd.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/0/csm_2021_04_3db7f96f03.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/f/csm_2021_05_d78f69282a.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/4/csm_2021_06_9d5701d1b6.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/a/csm_2021_07_f8723cb7dc.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/9/csm_2021_00_b1855bd81f.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "813",
+     "html": "20<br/> 22 <h3>밸런싱 및 수축 공정을 위한 혁신 기술</h3> <p>졸러(ZOLLER)는 이미 20년 전부터 밸런싱 및 수축 솔루션을 제공해 왔습니다. 하지만 요구 사항은 계속 발전해 왔습니다. 이제 새로운 변화를 맞이할 때입니다. </p> <p>»toolBalancer와« »powerShrink를« 통해 ZOLLER는 정밀도, 에너지 효율, 안전성 및 인체공학성을 이전에는 달성할 수 없었던 새로운 차원의 수준으로 끌어올리는 두 가지 신제품을 성공적으로 개발했습니다. </p> <p>공구의 밸런싱 작업이 이토록 간편하고 정밀하게 수행된 적은 없었습니다. 또한 생산 현장의 직원들이 수축 및 이완 공정을 이토록 빠르고 효율적으로 수행할 수 있었던 적도 없었습니다. </p> <p>ZOLLER는 두 솔루션 모두를 위해 기술적으로 완전히 새로운 길을 개척하며 탁월한 혁신 역량을 입증했습니다. 슈투트가르트 AMB와 시카고 IMTS에 참석한 전문가들은 새로운 장비의 정밀도, 속도, 인체공학 및 디자인에 감탄을 금치 못했습니다. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/a/csm_2022_00_a9077eb7ea.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_2022_01_9d28b009d5.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_2022_02_248e734173.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/5/csm_2022_03_642b4ee4f4.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/a/csm_2022_00_a9077eb7ea.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "814",
+     "html": "20<br/> 23 <h3>»coraMeasure LG«: 자동 조정 및 측정을 위한 포털 솔루션</h3> <p>로봇 암 없이 소형 포털을 활용한 공구 자동화 – 이것이 알렉산더 졸러(Alexander Zoller)가 개발팀에 제시한 과제입니다. 졸러(ZOLLER)가 EMO 2023에서 이 결과를 독일에서 처음으로 공개하자마자 큰 관심을 받았습니다. »coraMeasure LG는« 현재 직면한 과제인 전문 인력 부족을 신속하게 해결하기 위한 졸러의 또 다른 혁신적인 시도입니다.</p> <h4>새로운 산업 분야로의 진출</h4> <p>졸러의 측정 기술이 석재 가공 산업에 진출합니다. 새로운 »ConDiaZ는« 이 업계의 특수 성형 공구에 대한 측정 및 데이터 최적화를 식은 죽 먹기로 만들어 줍니다. 여기서 핵심은 바로 AI의 지원입니다!</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/1/csm_2023_00_5aebb5cd96.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/b/csm_2023_01_d984fc38e4.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/d/1/csm_2023_00_5aebb5cd96.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "815",
+     "html": "20<br/> 24 <h3>새로운 측정기</h3> <p>»threadCheck I cc에« 오신 것을 환영합니다. 이 새로운 측정기는 특히 나사산 공구를 완전히 밀폐되고 진동이 차단된 유닛 내에서 최초로 측정합니다. 측정상의 미세한 차이를 식별하는 데 있어 더욱 정밀한 성능을 제공합니다. 통합된 CNC 제어식 후면 스핀들은 자동으로 공구를 장착할 수 있습니다.</p> <h4>공구를 안전하게 보관</h4> <p>공구 캐비닛 »toolOrganizer에« 새로운 옵션인 »smartCompartments가« 추가되었습니다. ZOLLER가 개발한 이 수납함 잠금 장치는 이미 뛰어난 기능을 갖춘 공구 관리 하드웨어의 활용도를 한층 더 높여줍니다.</p> <h4>석재 및 목재용</h4> <p>»smile gbo와« 새로운 대형 화면을 통해 ZOLLER는 고객이 석재 및 목재 가공 공구의 복잡한 형상을 한 번에 신속하게 측정할 수 있도록 지원합니다. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/8/csm_2024_00_f953f5ad3d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/5/csm_2024_01_11e8ff9e06.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/6/csm_2024_02_1b4af3f1bd.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/f/csm_2024_03_45c77f1de1.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/8/csm_2024_00_f953f5ad3d.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "816",
+     "html": "20<br/> 25 <h3>»pom« 모델에 대한 종합적인 관리</h3> <p>졸러(ZOLLER)는 프로세스 중심의 검사 장비인 »pomBasic« 시리즈를 대대적으로 개편했습니다. 새로운 모델인 »pomBasic Compact«와 »pomBasic MTI가« 추가되었습니다. </p> <p>특히 직경 0.1mm 이하의 초소형 공구 분야에서는 이는 엄청난 도약입니다. 특수 광학 시스템과 소프트웨어 기능을 통해 미세한 형상도 시각화 및 측정할 수 있게 되었습니다. 또한 »3dCheck micro를« 통해 완전 자동 측정도 가능해졌습니다.</p> <h4>마모 검사에 집중</h4> <p>ZOLLER는 복잡한 마모 주제에 대한 연구를 강화하고 있습니다. »edgeControl«의 개발이 빠르게 진행되고 있습니다. ZOLLER의 개발팀은 마모 검사에 최적화된 소프트웨어를 개발하고 있습니다.</p> <h4>부품 창고의 자동화</h4> <p>창립 80주년을 맞이한 1월 초, ZOLLER는 미래를 향해 한 걸음 더 나아갑니다. 플라이델스하임(Pleidelsheim) 조립 공장에서는 2주 차에 자동화된 소형 부품 창고가 가동을 시작합니다. 이 시스템은 18,000개 이상의 부품을 자동으로 관리하며, 조립 라인에 필요한 부품을 공급합니다. \"이는 회사에 있어 중요한 이정표입니다. 창립 80주년을 맞이한 지금도 우리는 끊임없이 현대화를 추진하고 변화에 발맞추어 나가겠다는 신념을 굳건히 지키고 있습니다.\"라고 에버하르트 졸러는 말합니다.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/d/csm_2025_00_bf3fc026d8.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/f/csm_2025_01_f37aa89108.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/3/csm_2025_02_55890fb3a6.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/b/csm_2025_03_ab3d89c3cc.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/d/csm_2025_00_bf3fc026d8.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    }
+   ]
+  }
+ ],
+ "src_path": "/kr/기업/프로필/연혁",
+ "de_path": "/unternehmen/profil/historie"
+}

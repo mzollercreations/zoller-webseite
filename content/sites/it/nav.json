@@ -1,0 +1,802 @@
+{
+ "meta": [
+  {
+   "label": "Servizio",
+   "href": "/it/azienda/contatto/persona-di-contatto"
+  },
+  {
+   "label": "Media",
+   "href": "/it/azienda/media"
+  },
+  {
+   "label": "Lavora con noi",
+   "href": "/it/azienda/carriera"
+  }
+ ],
+ "main": [
+  {
+   "label": "Il sistema",
+   "href": "/it/il-sistema"
+  },
+  {
+   "label": "Il vostro successo",
+   "href": "/it/il-vostro-successo"
+  },
+  {
+   "label": "Solutions",
+   "href": "/it/solutions",
+   "children": [
+    {
+     "label": "Perché scegliere ZOLLER Solutions?",
+     "href": "/it/solutions"
+    },
+    {
+     "label": "Regolazione e misurazione",
+     "href": "/it/solutions/regolazione-e-misurazione"
+    },
+    {
+     "label": "Tool management",
+     "href": "/it/solutions/tool-management",
+     "children": [
+      {
+       "label": "Panoramica",
+       "href": "/it/solutions/tool-management"
+      },
+      {
+       "label": "TMS Software",
+       "href": "/it/solutions/tool-management/tms-software"
+      },
+      {
+       "label": "TMS Hardware",
+       "href": "/it/solutions/tool-management/tms-hardware"
+      }
+     ]
+    },
+    {
+     "label": "Controllo e misurazione",
+     "href": "/it/solutions/controllo-e-misurazione"
+    },
+    {
+     "label": "Automazione",
+     "href": "/it/solutions/automazione",
+     "children": [
+      {
+       "label": "Panoramica",
+       "href": "/it/solutions/automazione"
+      },
+      {
+       "label": "Logistica",
+       "href": "/it/solutions/automazione/logistica"
+      },
+      {
+       "label": "Preparazione degli utensili",
+       "href": "/it/solutions/automazione/preparazione-degli-utensili"
+      },
+      {
+       "label": "Fornitura degli utensili",
+       "href": "/it/solutions/automazione/fornitura-degli-utensili"
+      },
+      {
+       "label": "Ispezione utensile",
+       "href": "/it/solutions/automazione/ispezione-utensile"
+      }
+     ]
+    },
+    {
+     "label": "Tecnologia per il calettamento a caldo",
+     "href": "/it/solutions/tecnologia-per-il-calettamento-a-caldo"
+    },
+    {
+     "label": "Soluzioni d’utensileria",
+     "href": "/it/solutions/soluzioni-dutensileria"
+    },
+    {
+     "label": "Tecnologia per la bilanciatura utensili",
+     "href": "/it/solutions/tecnologia-per-la-bilanciatura-utensili"
+    },
+    {
+     "label": "Lavorazione della pietra CNC",
+     "href": "/it/solutions/lavorazione-della-pietra-cnc"
+    }
+   ]
+  },
+  {
+   "label": "Prodotti",
+   "href": "/it/prodotti",
+   "children": [
+    {
+     "label": "Panoramica dei prodotti",
+     "href": "/it/prodotti"
+    },
+    {
+     "label": "Regolazione e misurazione",
+     "href": "/it/prodotti/regolazione-e-misurazione",
+     "children": [
+      {
+       "label": "Strumenti verticali",
+       "href": "/it/prodotti/regolazione-e-misurazione/strumenti-verticali",
+       "children": [
+        {
+         "label": "»smile«",
+         "href": "/it/prodotti/regolazione-e-misurazione/strumenti-verticali/smile",
+         "claim": "La vostra introduzione alla regolazione e misurazione professionale",
+         "desc": "I robusti dispositivi entry-level con precisione esatta al µm per utensili standard",
+         "img": "/fileadmin/_processed_/4/3/csm_smile_preview_6232033e55.webp"
+        },
+        {
+         "label": "»venturion«",
+         "href": "/it/prodotti/regolazione-e-misurazione/strumenti-verticali/venturion",
+         "claim": "La classe premium modulare per le esigenze più elevate",
+         "desc": "Eccellente posizione e misurazione degli utensili con numerose opzioni",
+         "img": "/fileadmin/_processed_/7/d/csm_venturion_preview_7611e56f51.webp"
+        }
+       ]
+      },
+      {
+       "label": "Strumenti orizzontali",
+       "href": "/it/prodotti/regolazione-e-misurazione/strumenti-orizzontali",
+       "children": [
+        {
+         "label": "»hyperion«",
+         "href": "/it/prodotti/regolazione-e-misurazione/strumenti-orizzontali/hyperion",
+         "claim": "Il tuttofare con focus sugli utensili di tornitura",
+         "desc": "Il dispositivo di presetting e macchina di misurazione orizzontale per la lavorazione rotativa",
+         "img": "/fileadmin/_processed_/1/8/csm_hyperion_preview_3b4c91eaf7.webp"
+        }
+       ]
+      },
+      {
+       "label": "Soluzioni di automazione",
+       "href": "/it/prodotti/regolazione-e-misurazione/soluzioni-di-automazione",
+       "children": [
+        {
+         "label": "»coraMeasure LG«",
+         "href": "/it/prodotti/automazione/preparazione-degli-utensili/corameasure-lg",
+         "claim": "La misurazione automatizzata degli utensili",
+         "desc": "Gestione economica degli utensili per ZOLLER »venturion«",
+         "img": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_b31336460f.webp"
+        },
+        {
+         "label": "»roboBox«",
+         "href": "/it/prodotti/automazione/preparazione-degli-utensili/robobox",
+         "claim": "L’automazione modulare per il reparto utensili",
+         "desc": "Fino a sei moduli per operazioni quali assemblaggio, pulizia, misurazione, calettamento e altro ancora",
+         "img": "/fileadmin/_processed_/7/a/csm_roboBox_preview_ae1a1aba4b.webp"
+        }
+       ]
+      },
+      {
+       "label": "Lavorazione della pietra con macchine a controllo numerico",
+       "href": "/it/prodotti/verificaremisurare/lavorazione-della-pietra-con-macchine-a-controllo-numerico-1",
+       "children": [
+        {
+         "label": "»smile | GBO«",
+         "href": "/it/prodotti/verificaremisurare/lavorazione-della-pietra-con-macchine-a-controllo-numerico-1/smile-gbo",
+         "claim": "Misurare gli utensili in pietra e quelli in legno",
+         "desc": "Grazie all'ottica grandangolare, consente una misurazione dell'altezza particolaremente precisa",
+         "img": "/fileadmin/_processed_/f/4/csm_smileGBO_preview_63b44ef4c9.webp"
+        },
+        {
+         "label": "»conDress«",
+         "href": "/it/prodotti/controllo-e-misurazione/lavorazione-della-pietra-con-macchine-a-controllo-numerico/condress",
+         "claim": "Pulizia delle superfici di rettifica diamantate",
+         "desc": "Pulizia e ripristino della capacità di taglio degli utensili per la lavorazione della pietra",
+         "img": "/fileadmin/_processed_/8/5/csm_conDress_preview_7966236664.webp"
+        }
+       ]
+      },
+      {
+       "label": "Soluzioni speciali",
+       "href": "/it/prodotti/regolazione-e-misurazione/soluzioni-speciali",
+       "children": [
+        {
+         "label": "Soluzioni speciali",
+         "href": "/it/prodotti/regolazione-e-misurazione/soluzioni-speciali/soluzioni-speciali",
+         "claim": "Soluzioni per le vostre esigenze individuali"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Tool management",
+     "href": "/it/prodotti/tool-management",
+     "children": [
+      {
+       "label": "Software",
+       "href": "/it/software",
+       "children": [
+        {
+         "label": "»TMS Core«",
+         "href": "/it/software/tms-core",
+         "claim": "Sistema modulare",
+         "desc": "Il punto iniziale ideale per l’organizzazione digitale degli utensili",
+         "img": "/fileadmin/_processed_/7/b/csm_TMSCore_product_664765c1fd.webp"
+        },
+        {
+         "label": "Add-on »z.Stock«",
+         "href": "/it/software/add-on-zstock",
+         "claim": "Giacenze esatte",
+         "desc": "Garantisce una chiara trasparenza nel magazzino degli utensili",
+         "img": "/fileadmin/_processed_/6/a/csm_zStock_product_5160ca87bf.webp"
+        },
+        {
+         "label": "Add-on »z.CAM Integration«",
+         "href": "/it/software/add-on-zcam-integration",
+         "claim": "Flusso di lavoro efficace",
+         "desc": "Amplia il sistema con interfacce ad alte prestazioni e integra i dati utensile direttamente nel flusso di lavoro",
+         "img": "/fileadmin/_processed_/9/6/csm_zCAM_Integration_product_5dd5c4a531.webp"
+        },
+        {
+         "label": "Add-on »z.Resources«",
+         "href": "/it/software/add-on-zresources",
+         "claim": "Capacità centrali",
+         "desc": "Gestisce tutte le risorse aggiuntive",
+         "img": "/fileadmin/_processed_/b/9/csm_zResources_product_2eef7f49be.webp"
+        },
+        {
+         "label": "Add-on »z.Shopfloor«",
+         "href": "/it/software/add-on-zshopfloor",
+         "claim": "Digitale Transparenz",
+         "desc": "Ciclo di lavorazione degli utensili continuo ed efficace direttamente in officina",
+         "img": "/fileadmin/_processed_/2/e/csm_zShopfloor_product_ccbeaa7b22.webp"
+        },
+        {
+         "label": "Add-on »z.Connectivity«",
+         "href": "/it/software/add-on-zconnectivity",
+         "claim": "Trasferimento sicuro dei dati",
+         "desc": "Collegamento digitale continuo tra la misurazione utensile, la gestione utensili e la macchina",
+         "img": "/fileadmin/_processed_/d/a/csm_zConnectivity_product_8dec59a214.webp"
+        },
+        {
+         "label": "Add-on »z.Integration«",
+         "href": "/it/software/add-on-zintegration",
+         "claim": "Connessione intelligente",
+         "desc": "Soluzione di gestione degli utensili indipendente dal produttore per ambienti di produzione di grandi dimensioni",
+         "img": "/fileadmin/_processed_/a/7/csm_zIntegration_product_5d9cbc0f19.webp"
+        }
+       ]
+      },
+      {
+       "label": "Magazzino utensili",
+       "href": "/it/prodotti/tool-management/magazzino-utensili",
+       "children": [
+        {
+         "label": "»twister«",
+         "href": "/it/prodotti/tool-management/magazzino-utensili/twister",
+         "claim": "Armadio di stoccaggio",
+         "desc": "Per componenti di utensili e accessori",
+         "img": "/fileadmin/_processed_/0/1/csm_twister__preview_9c9c9e9f21.webp"
+        },
+        {
+         "label": "»autoLock«",
+         "href": "/it/prodotti/tool-management/magazzino-utensili/autolock",
+         "claim": "Armadio di stoccaggio",
+         "desc": "Per strumenti di verifica, sostanze di lavoro e componenti di grandi dimensioni",
+         "img": "/fileadmin/_processed_/2/7/csm_autolock__preview_89166f3498.webp"
+        },
+        {
+         "label": "»toolOrganizer«",
+         "href": "/it/prodotti/tool-management/magazzino-utensili/toolorganizer",
+         "claim": "Armadio portautensili",
+         "desc": "Per utensili da taglio e minuteria",
+         "img": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_bbf66a1054.webp"
+        },
+        {
+         "label": "»keeper«",
+         "href": "/it/prodotti/tool-management/magazzino-utensili/keeper",
+         "claim": "Armadio portautensili",
+         "desc": "Per utensili completi e portautensili",
+         "img": "/fileadmin/_processed_/b/a/csm_keeper_preview_f25bf71aa1.webp"
+        },
+        {
+         "label": "»z.Storage«",
+         "href": "/it/prodotti/tool-management/magazzino-utensili/zstorage",
+         "claim": "Gestione dello stoccaggio degli utensili",
+         "desc": "I tuoi articoli emessi secondo il principio di un distributore automatico",
+         "img": "/fileadmin/_processed_/f/5/csm_zStorage_preview_f2484908b6.webp"
+        }
+       ]
+      },
+      {
+       "label": "Montaggio utensile",
+       "href": "/it/prodotti/tool-management/montaggio-utensile",
+       "children": [
+        {
+         "label": "»zTower«",
+         "href": "/it/prodotti/tool-management/montaggio-utensile/ztower",
+         "claim": "Isola di montaggio",
+         "desc": "Per il montaggio universale degli utensili",
+         "img": "/fileadmin/_processed_/2/6/csm_zTower_preview_03c8143f73.webp"
+        },
+        {
+         "label": "»toolStation«",
+         "href": "/it/prodotti/tool-management/montaggio-utensile/toolstation",
+         "claim": "Banco da lavoro",
+         "desc": "Per un montaggio ottimale degli utensili",
+         "img": "/fileadmin/_processed_/a/f/csm_toolStation_preview_284869f711.webp"
+        }
+       ]
+      },
+      {
+       "label": "Trasporto degli utensili",
+       "href": "/it/prodotti/tool-management/trasporto-degli-utensili",
+       "children": [
+        {
+         "label": "»toolCart«",
+         "href": "/it/prodotti/tool-management/trasporto-degli-utensili/toolcart",
+         "claim": "Carrello portautensili",
+         "desc": "Per un comodo trasporto degli utensili",
+         "img": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_f133269ad8.webp"
+        }
+       ]
+      },
+      {
+       "label": "Trasferimento dei dati",
+       "href": "/it/prodotti/tool-management/trasferimento-dei-dati",
+       "children": [
+        {
+         "label": "»zidCode«",
+         "href": "/it/prodotti/tool-management/trasferimento-dei-dati/zidcode",
+         "claim": "Trasferire i dati degli utensili senza errori",
+         "desc": "Maggiore sicurezza ed efficienza grazie alla semplice gestione dei dati utensile",
+         "img": "/fileadmin/_processed_/e/c/csm_zidCode_preview_21aa224ca2.webp"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Controllo e misurazione",
+     "href": "/it/prodotti/controllo-e-misurazione",
+     "children": [
+      {
+       "label": "Macchine di misura universali",
+       "href": "/it/prodotti/controllo-e-misurazione/macchine-di-misura-universali",
+       "children": [
+        {
+         "label": "»genius«",
+         "href": "/it/prodotti/controllo-e-misurazione/macchine-di-misura-universali/genius",
+         "claim": "Misurare e controllare gli utensili di lavorazione senza contatto",
+         "desc": "Rileva oltre 100 parametri con estrema precisione e ha dato prova della sua efficacia in oltre 1000 casi in tutto il mondo.",
+         "img": "/fileadmin/_processed_/0/d/csm_genius_1_d819caed90.webp"
+        },
+        {
+         "label": "»titan«",
+         "href": "/it/prodotti/controllo-e-misurazione/macchine-di-misura-universali/titan",
+         "claim": "La macchina di controllo e misurazione in versione di alta gamma",
+         "desc": "Per gli esperti che vogliono sapere tutto, compresa la preparazione dei taglienti",
+         "img": "/fileadmin/_processed_/3/b/csm_titan__preview_7e0a3aa7f3.webp"
+        },
+        {
+         "label": "»smartCheck«",
+         "href": "/it/prodotti/controllo-e-misurazione/macchine-di-misura-universali/smartcheck"
+        }
+       ]
+      },
+      {
+       "label": "Misurazione orientata al processo",
+       "href": "/it/prodotti/controllo-e-misurazione/misurazione-orientata-al-processo",
+       "children": [
+        {
+         "label": "»pomBasic«",
+         "href": "/it/prodotti/controllo-e-misurazione/misurazione-orientata-al-processo/pombasic",
+         "claim": "Per l’ispezione manuale precisa in produzione",
+         "desc": "Verifica di oltre 70 parametri sull'utensile durante il processo",
+         "img": "/fileadmin/_processed_/5/f/csm_pombasic__preview_2a4f915bf9.webp"
+        },
+        {
+         "label": "»mμFocus«",
+         "href": "/it/prodotti/controllo-e-misurazione/misurazione-orientata-al-processo/mmfocus",
+         "claim": "Il dispositivo 2 in 1 per SKP e rugosità superficiale",
+         "desc": "Analizza le topografie e crea figure 3D dei taglienti utensili",
+         "img": "/fileadmin/_processed_/c/0/csm_myFocus__preview_4b3d285137.webp"
+        }
+       ]
+      },
+      {
+       "label": "Soluzioni di automazione",
+       "href": "/it/prodotti/controllo-e-misurazione/soluzioni-di-automazione",
+       "children": [
+        {
+         "label": "»roboSet 2«",
+         "href": "/it/prodotti/automazione/ispezione-utensile/roboset-2",
+         "claim": "Controllo e documentazione degli utensili 24/7",
+         "desc": "Per »genius«, »3dCheck«, »threadCheck«, »titan« e »edgeControl«",
+         "img": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_354a6e7ab1.webp"
+        }
+       ]
+      },
+      {
+       "label": "Lavorazione della pietra con macchine a controllo numerico",
+       "href": "/it/prodotti/controllo-e-misurazione/lavorazione-della-pietra-con-macchine-a-controllo-numerico",
+       "children": [
+        {
+         "label": "»conDiaZ«",
+         "href": "/it/prodotti/controllo-e-misurazione/lavorazione-della-pietra-con-macchine-a-controllo-numerico/condiaz",
+         "claim": "Misurazione precisa dei contorni in pochi secondi",
+         "desc": "Strumento di ispezione specificamente progettato per misurare e verificare l'integrità di utensili per la lavorazione della pietra con rivestimento in diamante",
+         "img": "/fileadmin/_processed_/b/1/csm_conDiaz_preview_8d8faa8ebf.webp"
+        },
+        {
+         "label": "»conDress«",
+         "href": "/it/prodotti/controllo-e-misurazione/lavorazione-della-pietra-con-macchine-a-controllo-numerico/condress",
+         "claim": "Pulizia delle superfici abrasive con inserti diamantati",
+         "desc": "Pulizia e ripristino della capacità di taglio degli utensili per la lavorazione della pietra",
+         "img": "/fileadmin/_processed_/8/5/csm_conDress_preview_7966236664.webp"
+        }
+       ]
+      },
+      {
+       "label": "Soluzioni speciali",
+       "href": "/it/prodotti/controllo-e-misurazione/soluzioni-speciali",
+       "children": [
+        {
+         "label": "Soluzioni speciali",
+         "href": "/it/prodotti/controllo-e-misurazione/soluzioni-speciali/soluzioni-speciali",
+         "claim": "Soluzioni per le vostre esigenze individuali"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Automazione",
+     "href": "/it/prodotti/automazione",
+     "children": [
+      {
+       "label": "Logistica degli utensili",
+       "href": "/it/prodotti/automazione/logistica-degli-utensili",
+       "children": [
+        {
+         "label": "»coraLogistic«",
+         "href": "/it/prodotti/automazione/logistica-degli-utensili/coralogistic",
+         "claim": "La logistica automatizzata del reparto produttivo",
+         "desc": "Per operazioni di trasporto tra magazzino utensili, preparazione utensili e macchina CNC",
+         "img": "/fileadmin/_processed_/c/0/csm_coraLogistics_preview_4e713a1c9b.webp"
+        },
+        {
+         "label": "»coraMachineLoad«",
+         "href": "/it/prodotti/automazione/logistica-degli-utensili/coramachineload",
+         "claim": "Carica e scarica le macchine CNC in modo completamente automatico",
+         "desc": "Gestione precisa e puntuale degli utensili tra logistica e magazzino macchine",
+         "img": "/fileadmin/_processed_/e/e/csm_coraMaschineLoad_preview_f78fc031d8.webp"
+        }
+       ]
+      },
+      {
+       "label": "Preparazione degli utensili",
+       "href": "/it/prodotti/automazione/preparazione-degli-utensili",
+       "children": [
+        {
+         "label": "»coraMeasure LG«",
+         "href": "/it/prodotti/automazione/preparazione-degli-utensili/corameasure-lg",
+         "claim": "La misurazione automatizzata degli utensili",
+         "desc": "Gestione economica degli utensili per ZOLLER »venturion«",
+         "img": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_b31336460f.webp"
+        },
+        {
+         "label": "»roboBox«",
+         "href": "/it/prodotti/automazione/preparazione-degli-utensili/robobox",
+         "claim": "L’automazione modulare per il reparto utensili",
+         "desc": "Fino a sei moduli per operazioni quali assemblaggio, pulizia, misurazione, calettamento e altro ancora",
+         "img": "/fileadmin/_processed_/7/a/csm_roboBox_preview_ae1a1aba4b.webp"
+        },
+        {
+         "label": "»micBox«",
+         "href": "/it/prodotti/automazione/preparazione-degli-utensili/micbox",
+         "claim": "La gestione efficiente delle placchette di taglio reversibili",
+         "desc": "Si occupa di ruotare, ribaltare e sostituire le placchette di taglio reversibili",
+         "img": "/fileadmin/_processed_/6/a/csm_micbox_preview_e6568b3640.webp"
+        }
+       ]
+      },
+      {
+       "label": "Fornitura degli utensili",
+       "href": "/it/prodotti/automazione/fornitura-degli-utensili",
+       "children": [
+        {
+         "label": "»loadBox«",
+         "href": "/it/prodotti/automazione/fornitura-degli-utensili/loadbox",
+         "claim": "Il centro utensili intelligente",
+         "desc": "Prepara gli utensili in base agli ordini e li predisponi per la logistica.",
+         "img": "/fileadmin/_processed_/5/3/csm_loadBox_preview_d9538dbfe3.webp"
+        }
+       ]
+      },
+      {
+       "label": "Ispezione utensile",
+       "href": "/it/prodotti/automazione/ispezione-utensile",
+       "children": [
+        {
+         "label": "»roboSet 2«",
+         "href": "/it/prodotti/automazione/ispezione-utensile/roboset-2",
+         "claim": "Controllo e documentazione degli utensili 24/7",
+         "desc": "Per »genius«, »3dCheck«, »threadCheck«, »titan« e »edgeControl«",
+         "img": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_354a6e7ab1.webp"
+        }
+       ]
+      },
+      {
+       "label": "Marcatura laser",
+       "href": "/it/prodotti/automazione/marcatura-laser",
+       "children": [
+        {
+         "label": "»roboMark«",
+         "href": "/it/prodotti/automazione/marcatura-laser/robomark",
+         "claim": "Impianto di marcatura laser",
+         "desc": "Marcatura rapida e precisa dei vostri utensili",
+         "img": "/fileadmin/_processed_/9/c/csm_roboMark_preview_ecf02129c4.webp"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Tecnologia per il calettamento a caldo",
+     "href": "/it/prodotti/tecnologia-per-il-calettamento-a-caldo",
+     "children": [
+      {
+       "label": "»powerShrink«",
+       "href": "/it/prodotti/tecnologia-per-il-calettamento-a-caldo/powershrink",
+       "claim": "Ritirare gli utensili",
+       "desc": "Il sistema di termoretrazione con efficienza energetica ottimale e massima sicurezza",
+       "img": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_8e31408c1d.webp"
+      },
+      {
+       "label": "»redomatic«",
+       "href": "/it/prodotti/tecnologia-per-il-calettamento-a-caldo/redomatic",
+       "claim": "Ritiro e misurazione",
+       "desc": "Presetting e macchina di misurazione con sistema di restringimento utensili integrato",
+       "img": "/fileadmin/_processed_/f/b/csm_redomatic_preview_afc51b7ecf.webp"
+      }
+     ]
+    },
+    {
+     "label": "Soluzioni d’utensileria",
+     "href": "/it/prodotti/soluzioni-dutensileria",
+     "children": [
+      {
+       "label": "Tooling Shop",
+       "href": "https://myzoller.com/int/en/shop/tooling",
+       "claim": "Oltre 2500 portautensili",
+       "desc": "Opzionale con »idChip« per un processo più sicuro grazie ai dati utensile aggiornati. Compatibile con ZOLLER TMS Tool Management Solutions.",
+       "img": "/fileadmin/_processed_/3/f/csm_ToolingSolutions4_preview_6c25bb2bd5.webp"
+      }
+     ]
+    },
+    {
+     "label": "Tecnologia per la bilanciatura utensili",
+     "href": "/it/prodotti/tecnologia-per-la-bilanciatura-utensili",
+     "children": [
+      {
+       "label": "»toolBalancer«",
+       "href": "/it/prodotti/tecnologia-per-la-bilanciatura-utensili/toolbalancer",
+       "claim": "Bilanciare gli utensili",
+       "desc": "Il sistema di bilanciamento con tecnologia all'avanguardia e design ergonomico",
+       "img": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_c222571512.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Accademia",
+   "href": "/it/accademia"
+  },
+  {
+   "label": "Eventi",
+   "href": "/it/eventi"
+  },
+  {
+   "label": "Azienda",
+   "href": "/it/azienda",
+   "children": [
+    {
+     "label": "Mostra panoramica",
+     "href": "/it/azienda"
+    },
+    {
+     "label": "Profilo",
+     "href": "/it/azienda/profilo",
+     "children": [
+      {
+       "label": "Informazioni su ZOLLER",
+       "href": "/it/azienda/profilo"
+      },
+      {
+       "label": "Riferimenti",
+       "href": "/it/azienda/profilo/riferimenti"
+      },
+      {
+       "label": "Partner",
+       "href": "/it/azienda/profilo/partner"
+      }
+     ]
+    },
+    {
+     "label": "Contatti",
+     "href": "/it/azienda/contatto",
+     "children": [
+      {
+       "label": "Modulo di contatto",
+       "href": "/it/azienda/contatto"
+      },
+      {
+       "label": "Sedi",
+       "href": "/it/azienda/contatto/sedi"
+      },
+      {
+       "label": "Fabbrica intelligente",
+       "href": "/it/azienda/contatto/fabbrica-intelligente"
+      },
+      {
+       "label": "Persona di contatto",
+       "href": "/it/azienda/contatto/persona-di-contatto"
+      },
+      {
+       "label": "1:1 Colloquio con esperti",
+       "href": "https://myzoller.com/int/en/expert/booking"
+      },
+      {
+       "label": "Formazione e corsi di formazione",
+       "href": "/it/azienda/contatto/formazione-e-corsi-di-formazione"
+      },
+      {
+       "label": "Newsletter",
+       "href": "/it/azienda/contatto/newsletter"
+      }
+     ]
+    },
+    {
+     "label": "Carriera",
+     "href": "/it/azienda/carriera",
+     "children": [
+      {
+       "label": "Lavorare presso ZOLLER",
+       "href": "/it/azienda/carriera"
+      },
+      {
+       "label": "Offerte di lavoro",
+       "href": "/it/azienda/carriera/offerte-di-lavoro"
+      }
+     ]
+    },
+    {
+     "label": "Rapporti e storie",
+     "href": "/it/azienda/rapporti-e-storie"
+    },
+    {
+     "label": "Media",
+     "href": "/it/azienda/media"
+    },
+    {
+     "label": "Sostenibilità",
+     "href": "/it/azienda/sostenibilita"
+    },
+    {
+     "label": "Gestione della qualità",
+     "href": "/it/azienda/gestione-della-qualita"
+    },
+    {
+     "label": "Conformità",
+     "href": "/it/azienda/conformita"
+    }
+   ]
+  }
+ ],
+ "footer_links": [
+  {
+   "label": "Torna su",
+   "href": "#body"
+  },
+  {
+   "label": "Il sistema",
+   "href": "/it/il-sistema"
+  },
+  {
+   "label": "Il vostro successo",
+   "href": "/it/il-vostro-successo"
+  },
+  {
+   "label": "Solutions",
+   "href": "/it/solutions"
+  },
+  {
+   "label": "Prodotti",
+   "href": "/it/prodotti"
+  },
+  {
+   "label": "Accademia",
+   "href": "/it/accademia"
+  },
+  {
+   "label": "Eventi",
+   "href": "/it/eventi"
+  },
+  {
+   "label": "Azienda",
+   "href": "/it/azienda"
+  },
+  {
+   "label": "Servizio",
+   "href": "/it/azienda/contatto/persona-di-contatto"
+  },
+  {
+   "label": "Media",
+   "href": "/it/azienda/media"
+  },
+  {
+   "label": "Lavora con noi",
+   "href": "/it/azienda/carriera"
+  },
+  {
+   "label": "Calcolatore di redditività",
+   "href": "/it/calcolatore-di-redditivita"
+  },
+  {
+   "label": "Contatti",
+   "href": "/it/azienda/contatto/persona-di-contatto"
+  },
+  {
+   "label": "Invia e-mail",
+   "href": "mailto:info@zoller.info"
+  },
+  {
+   "label": "Assistenza ZOLLER",
+   "href": "/it/azienda/contatto/persona-di-contatto"
+  },
+  {
+   "label": "Aggiornamenti software",
+   "href": "/it/aggiornamenti-software"
+  },
+  {
+   "label": "Assistenza online",
+   "href": "/it/assistenza-online"
+  },
+  {
+   "label": "Settori di attività",
+   "href": "/it/settori-di-attivita-1"
+  },
+  {
+   "label": "Iscrizione alla newsletter",
+   "href": "/it/azienda/contatto/newsletter"
+  },
+  {
+   "label": "Condizioni generali di acquisto",
+   "href": "/it/condizioni-generali-di-acquisto"
+  },
+  {
+   "label": "Opzioni di finanziamento",
+   "href": "https://www.goleasing.com/zoller/"
+  },
+  {
+   "label": "LinkedIn",
+   "href": "https://www.linkedin.com/company/zollersolutions"
+  },
+  {
+   "label": "YouTube",
+   "href": "https://www.youtube.com/user/zollertv"
+  },
+  {
+   "label": "Contatto",
+   "href": "/it/azienda/contatto"
+  },
+  {
+   "label": "Protezione dei dati",
+   "href": "/it/protezione-dei-dati"
+  },
+  {
+   "label": "Esclusione di responsabilità",
+   "href": "/it/esclusione-di-responsabilita"
+  },
+  {
+   "label": "Note legali",
+   "href": "/it/note-legali"
+  },
+  {
+   "label": "Cookie settings",
+   "href": "#"
+  }
+ ]
+}

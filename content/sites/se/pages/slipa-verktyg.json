@@ -1,0 +1,489 @@
+{
+ "path": "/slipa-verktyg",
+ "url": "/se/slipa-verktyg",
+ "title": "Slipa verktyg",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Slipa verktyg",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Slipa verktyg",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeuge-schleifen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/sharpening-tools",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/rectificado-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/affuter-les-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/afiar-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/affilatura-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/slipa-verktyg",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeuge-schleifen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/grinding-tools",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/affutage-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E7%A0%94%E3%81%8E",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EC%97%B0%EB%A7%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/grinding-tools",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/afilar-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/afiar-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/7/e/csm_header_grinding_21f044b386.webp",
+     "video": null,
+     "title": "Större framgång för verktygstillverkare och slipverk",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c2447",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Gränssnitt, mätvärden, slipskivor, CNC-kompatibla verktygsdata </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c728",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>För verktygstillverkare och slipverkstäder är mätdata och datahantering av avgörande betydelse för att uppnå hög lönsamhet och dokumenterad kvalitet. ZOLLER har allt du behöver för detta. </strong></p> <p>Med ZOLLER får du gränssnitt till CAD-program och CNC-styrningar, hård- och mjukvara för hantering av slipskivor, processnära mät- och kontrollutrustning med mikrometerprecision för inspektioner samt säkra tekniker för felfri överföring av slipskivs- och geometridata till CNC-slipmaskiner.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c727",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c729",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "count",
+   "title": "Sänker personalkostnaderna* med upp till",
+   "value": "83 %",
+   "note": "*Gäller inspektioner vid tre-skiftsdrift med en anställd per skift.",
+   "ftype": "zoller_count-banner",
+   "id": "c722",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> ZOLLER-lösningar för din slipningsprocess </h2>",
+   "items": [
+    {
+     "href": "/se/produkter/kontrollera-maeta/universella-maetmaskiner/geni",
+     "title": "»geni«",
+     "text": "<p>Mäter över 100 parametrar med extrem precision och har bevisat sin tillförlitlighet i över 1 000 installationer världen över</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/d/csm_genius_1_5b500df8d2.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/se/produkter/kontrollera-maeta/universella-maetmaskiner/titan",
+     "title": "»titan«",
+     "text": "<p>För experter som vill veta allt – inklusive preparering av skäreggar</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/3/b/csm_titan__preview_9813f51631.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/se/produkter/verktygshantering/verktygslager/toolorganizer",
+     "title": "»toolOrganizer«",
+     "text": "<p>För skärverktyg och smådelar</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_018ce796c6.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/se/produkter/balanseringsteknik/toolbalancer",
+     "title": "»toolBalancer«",
+     "text": "<p>Balanseringssystemet med den senaste tekniken och ergonomisk design</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/se/produkter/kontrollera-maeta/processorienterad-maetning/mmfocus",
+     "title": "»mμFocus«",
+     "text": "<p>Analyserar topografier och skapar 3D-bilder av verktygsskär</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/0/csm_myFocus__preview_b0f99094b2.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/se/produkter/kontrollera-maeta/processorienterad-maetning/pombasic",
+     "title": "»pomBasic«",
+     "text": "<p>Kontrollera över 70 parametrar på verktyget i realtid</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/5/f/csm_pombasic__preview_65ddb1db86.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/se/produkter/automatisering/verktygskontroll/roboset-2",
+     "title": "»roboSet 2«",
+     "text": "<p>Verktygshantering för »genius«, »3dCheck«, »threadCheck«, »titan« och »edgeControl«</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_7361e448c0.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/se/produkter/kontrollera-maeta/specialanpassade-loesningar/specialanpassade-loesningar/threadcheckcc",
+     "title": "»﻿﻿﻿﻿threadCheck ❘ cc﻿﻿﻿﻿«",
+     "text": "<p>Högklassig utrustning med sex CNC-axlar och en svängbar optikbärare med flera sensorer</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/6/8/csm_threadCheckCC__preview_ffdf543c62.webp",
+      "alt": "",
+      "w": 1563,
+      "h": 1291
+     }
+    },
+    {
+     "href": "/se/produkter/kontrollera-maeta/specialanpassade-loesningar/specialanpassade-loesningar/hobcheck",
+     "title": "»hobCheck«",
+     "text": "<p>Över 200 mätvärden från genomlysnings- och reflekskameror samt mätgivare</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/a/csm_hobCheck__preview_63b423e059.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/se/produkter/kontrollera-maeta/universella-maetmaskiner/smartcheck",
+     "title": "»smartCheck«",
+     "text": "<p>Inställnings- och mätinstrument med extra infallande ljus och utökad bildanalys</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_b44dfc4928.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/se/produkter/verktygshantering/dataoeverfoering/zidcode",
+     "title": "»zidCode«",
+     "text": "<p>Ökad säkerhet och effektivitet tack vare enkel hantering av verktygsdata</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/c/csm_zidCode_preview_538b53ed83.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/se/produkter/verktygshantering/verktygslager/maalvakt",
+     "title": "»målvakt«",
+     "text": "<p>För kompletta verktyg och verktygshållare</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/a/csm_keeper_preview_1e87de3ba7.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/se/produkter/verktygshantering/verktygslager/autolock",
+     "title": "»autoLock«",
+     "text": "<p>För mätutrustning, driftsmaterial och större komponenter</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/7/csm_autolock__preview_a71350a53a.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/se/produkter/verktygshantering/verktygslager/twister",
+     "title": "»twister«",
+     "text": "<p>För verktygskomponenter och tillbehör</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/1/csm_twister__preview_edf94f7d12.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/se/produkter/verktygshantering/verktygsmontering/toolstation",
+     "title": "»toolStation«",
+     "text": "<p>För optimal verktygsmontering</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/f/csm_toolStation_preview_00b81d24f9.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/se/produkter/verktygshantering/verktygsmontering/ztower",
+     "title": "»zTower«",
+     "text": "<p>För universell verktygsmontering</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/6/csm_zTower_preview_c0c8e3585e.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/se/produkter/verktygshantering/verktygstransport/toolcart",
+     "title": "»toolCart«",
+     "text": "<p>För bekväm transport av verktyg</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_3be007bbac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_categorized_pages",
+   "id": "c4775",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1-samtal med en expert",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1-samtal med en expert</h3> <p>Ett personligt samtal om era mål och våra idéer för att uppnå dem. ZOLLER:s online-rådgivning direkt från Smart Factory. Boka en tid redan nu. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/e/csm_teaser-2Colume-Media_8e9165a74e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Media: ZOLLER i detalj",
+     "href": "/se/foeretag/media",
+     "caption": "<figcaption> <h3>Media: ZOLLER i detalj</h3> <p>Här hittar du pressmeddelanden, produktlanseringar, mässdeltagande, pressartiklar från facktidskrifter, nyhetsarkivet och våra kontaktpersoner för media. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c738",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/se/slipa-verktyg",
+ "de_path": "/werkzeuge-schleifen"
+}

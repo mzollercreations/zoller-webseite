@@ -1,0 +1,471 @@
+{
+ "path": "/solutions/toolmanagement/tms-hardware",
+ "url": "/hu/solutions/toolmanagement/tms-hardware",
+ "title": "TMS Hardware",
+ "description": "TMS Hardware",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Megoldások /",
+   "href": "/hu/megoldasok"
+  },
+  {
+   "label": "TMS Hardware",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Megoldások /",
+   "href": "/hu/megoldasok"
+  },
+  {
+   "label": "TMS Hardware",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/toolmanagement/tms-hardware",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/tool-management/tms-hardware",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/gestion-de-herramientas/tms-hardware",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/gestion-des-outils/materiel",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/gestao-de-ferramentas/tms-hardware",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/tool-management/tms-hardware",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/solutions/toolmanagement/tms-hardware",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/toolmanagement/tms-hardware",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/tool-management/tms-hardware",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/gestion-des-outils/tms-hardware",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/solutions/toolmanagement/tms-hardware",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/solutions/toolmanagement/tms-hardware",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/toolmanagement/tms-hardware",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/gestion-de-herramientas/tms-hardware",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/gestao-de-ferramentas/tms-hardware",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/2/3/csm_header_toolmanagement_02_d65126df29.webp",
+     "video": null,
+     "title": "Intelligens szekrények",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c164336",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "subnav",
+   "title": "",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "TMS Software",
+     "href": "/hu/solutions/toolmanagement/tms-software",
+     "current": false
+    },
+    {
+     "label": "TMS Hardware",
+     "href": "/hu/solutions/toolmanagement/tms-hardware",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/hu/solutions/toolmanagement/faq",
+     "current": false
+    },
+    {
+     "label": "Információs központ",
+     "href": "/hu/solutions/toolmanagement/informacios-koezpont",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c163338",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Intelligens raktározási és irányítási megoldások </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c163290",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p class=\"large-text\">Hatékony szerszámraktárral szeretne termelékenyebben és gazdaságosabban dolgozni? Akkor a ZOLLER Smart Cabinets pontosan az Ön számára készült!</p> <p class=\"large-text\">Kínálunk megfelelő raktározási megoldást, függetlenül attól, hogy szerszámokat és azok alkatrészeit, tartozékokat vagy mérő- és ellenőrző eszközöket szeretne kezelni. A szoftveres kapcsolódásnak köszönhetően a teljes raktár virtuálisan megjeleníthető.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c163266",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c163314",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "quotes",
+   "header": "",
+   "slides": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/1/e/csm_josua_schade_9179cf0129.webp",
+      "alt": ""
+     },
+     "text": "<p class=\"extra-large-text\">Mi, a ZOLLER-nél a hardvert és a szoftvert a felhasználók igényeihez igazítjuk. Így gyakorlatias megoldásokat kínálunk egy kézből.</p> <p><strong>Josua Schade, TMS-hardver termékmenedzsment</strong></p>",
+     "right": true,
+     "quote": true,
+     "dark": true
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/a/b/csm_sarah-michelle_wiacek_c4c06a6999.webp",
+      "alt": ""
+     },
+     "text": "<p class=\"extra-large-text\">A németországi Pleidelsheimben működő ZOLLER szerelőcsapat minden nap mindent megtesz azért, hogy a Smart Cabinets termékeink minősége mindig kiváló legyen. Egyszerűen fantasztikus részese lenni ennek!</p> <p><strong>Sarah-Michelle Wiacek, munkatervező csapat</strong></p>",
+     "right": true,
+     "quote": true,
+     "dark": true
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/0/9/csm_michael_haas_a5847acaff.webp",
+      "alt": ""
+     },
+     "text": "<p class=\"extra-large-text\">A Smart Cabinets segítségével a ZOLLER ügyfelei nemcsak a hatékonyságot növelik, hanem elkerülik a gyártási folyamat során előforduló hibákat is.</p> <p><strong>Michael Haas, ZOLLER Dél értékesítési vezető</strong></p>",
+     "right": true,
+     "quote": true,
+     "dark": true
+    }
+   ],
+   "ftype": "zoller_slider-full-width",
+   "id": "c163242",
+   "bg": "black",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Digitalizált raktározási folyamatok",
+    "Költséghatékony, hatékony szerszámtárolás",
+    "Gyors, biztonságos hozzáférés a szerszámokhoz és az adatokhoz"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c163218",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "products",
+   "header": "<h2> Hardveres megoldások </h2>",
+   "items": [
+    {
+     "href": "/hu/termekek/eszkoezkezeles/adatatvitel/zidcode",
+     "title": "»zidCode«",
+     "text": "<p>Nagyobb biztonság és hatékonyság az egyszerű szerszámadatok kezelésének köszönhetően</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/c/csm_zidCode_preview_538b53ed83.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/eszkoezkezeles/szerszamraktar/toolorganizer",
+     "title": "»toolOrganizer«",
+     "text": "<p>Vágószerszámokhoz és apró alkatrészekhez</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_018ce796c6.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/eszkoezkezeles/szerszamraktar/keeper",
+     "title": "»keeper«",
+     "text": "<p>Komplett szerszámokhoz és szerszámtartókhoz</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/a/csm_keeper_preview_1e87de3ba7.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/eszkoezkezeles/szerszamraktar/autolock",
+     "title": "»autoLock«",
+     "text": "<p>Mérőeszközök, üzemanyagok és nagyobb alkatrészek esetében</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/7/csm_autolock__preview_a71350a53a.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/eszkoezkezeles/szerszamraktar/twister",
+     "title": "»twister«",
+     "text": "<p>Szerszámalkatrészekhez és kiegészítőkhöz</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/1/csm_twister__preview_edf94f7d12.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/eszkoezkezeles/szerszamok-oesszeszerelese/toolstation",
+     "title": "»toolStation«",
+     "text": "<p>Az optimális szerszám-összeszereléshez</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/f/csm_toolStation_preview_00b81d24f9.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/eszkoezkezeles/szerszamok-oesszeszerelese/ztower",
+     "title": "»zTower«",
+     "text": "<p>Univerzális szerszámrögzítéshez</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/6/csm_zTower_preview_c0c8e3585e.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/eszkoezkezeles/szerszamok-szallitasa/toolcart",
+     "title": "»toolCart«",
+     "text": "<p>A szerszámok kényelmes szállításához</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_3be007bbac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c163194",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "newslist",
+   "header": "<h3> Felhasználói beszámolók </h3>",
+   "articles": [],
+   "pages": [],
+   "ftype": "news_newsliststicky",
+   "id": "c163122",
+   "bg": "lightgray",
+   "space": {
+    "before": "medium",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p><a class=\"btn\" href=\"/hu/vallalat/jelentesek-es-toertenetek?tx_news_pi1%5BoverwriteDemand%5D%5Btags%5D=43&amp;cHash=a66df74004d8f7d852aedf42cdc02852\">Minden sikertörténet megtekintése</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c163098",
+   "bg": "lightgray",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/hu/solutions/toolmanagement/tms-hardware",
+ "de_path": "/solutions/toolmanagement/tms-hardware"
+}

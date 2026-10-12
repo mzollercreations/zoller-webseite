@@ -1,0 +1,325 @@
+{
+ "path": "/suporte-online",
+ "url": "/br/suporte-online",
+ "title": "Suporte online",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/br/pagina-inicial"
+  },
+  {
+   "label": "Suporte online",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/br/pagina-inicial"
+  },
+  {
+   "label": "Suporte online",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/online-support",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/online-support",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/asistencia-en-linea",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/assistance-en-ligne",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/suporte-online",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/assistenza-online",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/online-support",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/online-support",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/online-support",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/assistance-en-ligne",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%A7%80%EC%9B%90",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/online-support",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/soporte-en-linea",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/suporte-online",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Suporte online </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7607",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>Para poder ajudá-lo de forma mais efetiva em caso de dúvidas sobre os nossos produtos ou eventuais problemas, oferecemos aqui a opção de estabelecer uma ligação remota ao seu computador.</strong></p> <p>Por favor, tenha em consideração que isso só é possível mediante marcação prévia.<br/>Para</p> <p>Aparelhos de medição / Gestão externa de ferramentas<br/><a class=\"link-arrow\" href=\"mailto:service@zoller-d.com?subject=Online%20Support%20Terminanfrage%20f%C3%BCr%20%C2%BBpilot%203.0%C2%AB%20%7C%20Online%20support%20meeting%20request%20for%20%C2%BBpilot%203.0%C2%AB\">service@zoller-d.com</a></p> <p>TMS Tool Management Solutions em<br/><a class=\"link-arrow\" href=\"mailto:tms-support@zoller-d.com?subject=Online%20Support%20Terminanfrage%20f%C3%BCr%20%C2%BBTMS%20Tool%20Management%20Solutions%C2%AB%20%7C%20Online%20support%20meeting%20request%20for%20%C2%BBTMS%20Tool%20Management%20Solutions%C2%AB\">TMS-support@zoller-d.com</a></p> <p>Se tiver problemas ao descarregar ou executar as aplicações de suporte online da ZOLLER, isso pode estar relacionado com o facto de terem sido bloqueadas pelo seu administrador de sistema. Nesse caso, contacte o seu administrador local. Em determinadas circunstâncias, este poderá oferecer uma opção|possibilidade.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7609",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c7608",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> FastViewer </h2>",
+      "body": "<p><a class=\"btn\" href=\"/fileadmin/03_Media_Press/Downloads/Online-Support/FastClient.exe\" rel=\"noopener\" target=\"_blank\">Descarregar FastViewer</a> <a href=\"/fileadmin/03_Media_Press/Downloads/Online-Support/ANLEITUNG-FastViewer-DE.pdf\" rel=\"noopener\" target=\"_blank\">Instruções FastViewer </a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/6/b/csm_fastviewer_34e74da115.webp",
+        "alt": "",
+        "w": 1050,
+        "h": 554,
+        "href": "/fileadmin/03_Media_Press/Downloads/Online-Support/FastClient.exe"
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7626",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Splashtop </h2>",
+      "body": "<p><a class=\"btn\" href=\"https://my.splashtop.com/sos/packages/download/5RYX2KHJZ2P7\" rel=\"noopener\" target=\"_blank\">Descarregar Splashtop</a> </p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/5/1/csm_splashtop_466380f3ff.webp",
+        "alt": "",
+        "w": 1050,
+        "h": 554,
+        "href": "https://my.splashtop.com/sos/packages/download/5RYX2KHJZ2P7"
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7630",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c7628",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Conversa com especialistas",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Conversa com especialistas</h3> <p>A troca individual sobre os seus objetivos e as nossas ideias para os alcançar. A consultoria online da ZOLLER diretamente da Smart Factory. Marque já a sua consulta. </p> <br/> Saber mais </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/e/csm_teaser-2Colume-Media_8e9165a74e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Mídia: ZOLLER em detalhes",
+     "href": "/br/empresa/midia",
+     "caption": "<figcaption> <h3>Mídia: ZOLLER em detalhes</h3> <p>Aqui encontra comunicados de imprensa, anúncios de produtos, participações em feiras, artigos de imprensa de revistas especializadas, o arquivo de notícias e os nossos contactos para os meios de comunicação social. </p> <br/> Saber mais </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c738",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/br/suporte-online",
+ "de_path": "/online-support"
+}

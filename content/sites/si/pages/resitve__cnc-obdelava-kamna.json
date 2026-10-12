@@ -1,0 +1,354 @@
+{
+ "path": "/resitve/cnc-obdelava-kamna",
+ "url": "/si/resitve/cnc-obdelava-kamna",
+ "title": "CNC-obdelava kamna",
+ "description": "CNC-obdelava kamna",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/si/domaca-stran"
+  },
+  {
+   "label": "Rešitve /",
+   "href": "/si/resitve"
+  },
+  {
+   "label": "CNC-obdelava kamna",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/si/domaca-stran"
+  },
+  {
+   "label": "Rešitve /",
+   "href": "/si/resitve"
+  },
+  {
+   "label": "CNC-obdelava kamna",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/cnc-steinbearbeitung",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/stone-cnc-machining",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/mecanizado-cnc-de-piedra",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/usinage-de-pierre-par-cnc",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/processamento-de-pedra-cnc",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/lavorazione-della-pietra-cnc",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/cnc-bearbetning-av-sten",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/cnc-steinbearbeitung",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/stone-cnc-machining",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/usinage-de-la-pierre-par-cnc",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/cnc%E7%9F%B3%E6%9D%90%E5%8A%A0%E5%B7%A5",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/cnc-%EC%84%9D%EC%9E%AC-%EA%B0%80%EA%B3%B5",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/stone-cnc-machining",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/mecanizado-cnc-de-piedra",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/processamento-de-pedra-cnc",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/6/0/csm_header_cnc_steinbearbeitung_5057b88b46.webp",
+     "video": null,
+     "title": "CNC-obdelava kamna",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c30133",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Kdor je sposoben v krajšem času izdelati popoln obris, bo prevladal v tekmovanju. Začnimo! </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c30115",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>Natančno oblikovanje kontur na kamnitih ploščah je zamudno, saj je treba diamantna orodja redno popravljati. Prav v tem pa leži potencial za optimizacijo procesov. ZOLLER ponuja ustrezne tehnologije, s katerimi je mogoče z merjenjem, pregledovanjem in čiščenjem orodij bistveno skrajšati čas, potreben za doseganje popolnih rezultatov. </strong></p> <p>Diamantna orodja se običajno ponovno ostrijo po 150 do 200 metrih obdelave kamna. Pri tem se pogosto izgubi več ur dragocenega proizvodnega časa na stroj in izmeno. Kdor natančno pozna stanje svojih orodij, skrajša ta ogromen časovni vložek in si zagotovi večjo proizvodno zmogljivost. </p> <p>S preciznimi napravami podjetja ZOLLER pridobite celovit vpogled v stanje orodja z natančnostjo do mikrometra. Poznate vrednosti številnih geometrij orodja in natančno zajemate konture. S pridobljenimi podatki optimizirate parametre procesa, kot je na primer obseg odrezka. S tem je pot prosta za popolno kakovost robov, dolgo življenjsko dobo orodja in znatno daljši čas delovanja stroja. Nepremagljive prednosti v konkurenci. </p> <p><a class=\"btn\" href=\"/si/izdelki/preverjanje-in-merjenje/cnc-obdelava-kamna\">Prikaži izdelke</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c30106",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c30124",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Priprava serijske proizvodnje kamnitih orodij </h2>",
+   "body": "<p>Vsa orodja, od grobega brušenja do finega poliranja, se v enem samem postopku zajamejo zaporedno, konture se samodejno primerjajo, odstopanja pa se takoj prikažejo. Naprave ZOLLER med seboj optimizirajo merilne in korekcijske vrednosti ter lahko prevzamejo tudi avtomatiziran prenos podatkov neposredno v CNC-krmiljenje – brez ponovnega nastavljanja. Tako je celoten nabor orodij optimalno usklajen, čas priprave in izpad stroja pa se znatno zmanjšata. Izdelane robove: preprosto odlične!</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/0/csm_cnc_steinbearbeitung_01_fa256afb63.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c30088",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Nastavljanje, merjenje, preverjanje in čiščenje diamantnih orodij </h2>",
+   "items": [
+    {
+     "href": "/si/izdelki/nastavitev-in-merjenje/cnc-obdelava-kamna/smile-gbo",
+     "title": "»smile | GBO«",
+     "text": "<p>Z optiko za velike slike omogoča posebej natančno merjenje višine</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/f/4/csm_smileGBO_preview_ab539499c1.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/si/izdelki/preverjanje-in-merjenje/cnc-obdelava-kamna/condiaz",
+     "title": "»conDiaZ«",
+     "text": "<p>Merilni instrument, namenjen posebej za merjenje in preverjanje diamantno prevlečenih orodij za obdelavo kamna</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/1/csm_conDiaz_preview_66ae2d253b.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/si/izdelki/preverjanje-in-merjenje/cnc-obdelava-kamna/condress",
+     "title": "»conDress«",
+     "text": "<p>Čiščenje in obnova rezalnih lastnosti orodij za obdelavo kamna</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/8/5/csm_conDress_preview_e519dedb34.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c30052",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_zoller_system_teaser_a6e5d69871.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Začnite z rešitvijo – vstopite v sistem.",
+     "href": "/si/sistem",
+     "caption": "<figcaption> <h3>Začnite z rešitvijo – vstopite v sistem.</h3> <p>Naši kupci imajo koristi od celostnih rešitev, ki jih že desetletja razvijamo. Rezultat: izjemna učinkovitost. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Pogovor s strokovnjakom",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Pogovor s strokovnjakom</h3> <p>Osebni pogovor o vaših ciljih in naših idejah za njihovo uresničitev. Spletno svetovanje podjetja ZOLLER neposredno iz pametne tovarne. Dogovorite se za termin že danes. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/si/resitve/cnc-obdelava-kamna",
+ "de_path": "/solutions/cnc-steinbearbeitung"
+}

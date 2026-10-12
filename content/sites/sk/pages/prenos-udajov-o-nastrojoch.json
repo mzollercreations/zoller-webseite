@@ -1,0 +1,282 @@
+{
+ "path": "/prenos-udajov-o-nastrojoch",
+ "url": "/sk/prenos-udajov-o-nastrojoch",
+ "title": "Prenos údajov o nástrojoch",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/sk/domovska-stranka"
+  },
+  {
+   "label": "Prenos údajov o nástrojoch",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/sk/domovska-stranka"
+  },
+  {
+   "label": "Prenos údajov o nástrojoch",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/uebermittlung-werkzeugdaten",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/transfer-of-tool-data",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/transmision-de-datos-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/transmission-des-donnees-doutils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/transmissao-de-dados-da-ferramenta",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/trasmissione-dei-dati-utensile",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/oeverfoering-av-verktygsdata",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/uebermittlung-werkzeugdaten",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/transmission-of-tool-data",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/transmission-des-donnees-doutils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%84%E3%83%BC%E3%83%AB%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E9%80%81%E4%BF%A1",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/transmission-of-tool-data",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/transmision-de-datos-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/transmissao-de-dados-da-ferramenta",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/e/a/csm_toolmanagement_intro_e7e8908938.webp",
+     "video": null,
+     "title": "Prenos údajov o nástrojoch",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7948",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Zabezpečiť bezpečný prenos dát vysokou rýchlosťou kedykoľvek </h2>",
+   "body": "<p><strong>Výmena údajov medzi jednotlivými prvkami výroby je pre súčasnú priemyselnú výrobu nevyhnutná. Softvérové riešenia spoločnosti ZOLLER zaručujú spoľahlivý a rýchly prenos údajov o nástrojoch kedykoľvek – úplne nezávisle od výrobcu a platformy.</strong></p> <p>Správa údajov o nástrojoch je komplexná úloha. Plynulá spolupráca všetkých systémov a komponentov má pre „Priemysel 4.0“ kľúčový význam – a nie je vôbec samozrejmá. Často sa totiž používajú systémy a stroje od rôznych výrobcov, ktoré zase pracujú s rôznymi prenosovými technikami. V takom prípade sa správa nástrojov aj s digitálnou podporou rýchlo stáva výzvou.</p> <p>Normy, ako napríklad štruktúra charakteristických vlastností DIN 4000, slúžia na umožnenie výmeny medzi rôznymi komponentmi; vďaka norme DIN máte možnosť definovať svoje jednotlivé komponenty v súlade s normou, a tým ich urobiť zameniteľnými. Tým sa umožňuje plynulá výmena informácií medzi rôznymi systémami (napríklad pre CAD/CAM alebo NC simuláciu).</p> <p>Jednotná a štandardizovaná databáza je teda základom pre automatický import údajov o nástrojoch, ktorý spoľahlivo funguje aj naprieč rôznymi výrobcami. To je dôležité nielen preto, že tak pri prenose nedochádza k oneskoreniam, ktoré by zase mali za následok zastavenie strojov a prerušenie výrobných procesov, ale aj preto, že pracovný postup nemožno vykonať podľa plánu.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7950",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Zabezpečenie prenosu dát nezávisle od výrobcu pomocou softvéru na správu nástrojov </h2>",
+   "body": "<p>V súčasnosti existuje mnoho spoľahlivých a rýchlych spôsobov prenosu dát zo zariadenia na prednastavenie do stroja alebo strojov. Softvér meracích zariadení od spoločnosti ZOLLER dnes umožňuje bezpečný prenos údajov o nástrojoch nezávisle od výrobcu.</p> <p>Či už prostredníctvom RFID čipu, postprocesora (systém DNC: Distributed Numerical Control) alebo aj prostredníctvom nadradených systémov riadenia výroby: ponúkame vhodné riešenie prenosu dát pre takmer každé výrobné prostredie. Ďalšou veľmi efektívnou variantou je aj šifrovanie aktuálnych údajov do kódu Datamatrix, ktorý sa naskenuje čítačkou pripojenou k riadeniu CNC stroja.</p> <p>Ešte lepšie: údaje o nástrojoch od popredných výrobcov sú často k dispozícii v cloude a pomocou softvéru ZOLLER TMS Tool Management Solutions ich možno bez väčšej námahy a jedným kliknutím myši vyvolať.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/f/csm_toolmanagement_01_ac672b9feb.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7951",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Ďalšie funkcie riešení TMS Tool Management Solutions </h2>",
+   "body": "<ul><li>Import a export nástrojov, jednotlivých komponentov a nastavovacích listov, príslušenstva, údajov o strojoch a ďalších údajov medzi jednotlivými produktmi spoločnosti ZOLLER</li><li>Import a export údajov o nástrojoch nezávislý od platformy a výrobcu (v prípade potreby prostredníctvom filtrov na načítanie alebo postprocesorov)</li><li>Mobilný prístup ku všetkým údajom o nástrojoch a zoznamom nástrojov</li><li>Správa údajov o nástrojoch s grafikou, zoznamami dielov a príslušenstva a lištou vlastností</li><li>Kódový skener na identifikáciu a zobrazenie údajov skutočných nástrojov</li></ul><h4><strong>Vaše výhody:</strong></h4><ul><li>Voliteľné prepojenie s externými systémami</li><li>Bezpečnosť procesu vďaka predchádzaniu chýb</li><li>Jednoduchá a rýchla obsluha vďaka prehľadným štruktúram</li></ul><p>Zistite tu všetko o riešeniach ZOLLER TMS Tool Management Solutions</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7952",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Správa nástrojov: Vaše výhody",
+     "caption": "<figcaption> <h3>Správa nástrojov: Vaše výhody</h3> <p>Zistite, ako systém správy nástrojov od spoločnosti ZOLLER okamžite zvýši vašu produktivitu. Vďaka údajom o nástrojoch prebiehajú procesy rýchlejšie a bezpečnejšie – vrátane ochrany pred kolíziou pre vaše stroje. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Rozhovor s odborníkom",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Rozhovor s odborníkom</h3> <p>Individuálna diskusia o vašich cieľoch a našich nápadoch, ako ich dosiahnuť. Online poradenstvo spoločnosti ZOLLER priamo zo Smart Factory. Dohodnite si termín už teraz. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/sk/prenos-udajov-o-nastrojoch",
+ "de_path": "/uebermittlung-werkzeugdaten"
+}

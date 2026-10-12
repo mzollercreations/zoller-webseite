@@ -26,18 +26,42 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ORIGIN = "https://www.zoller.info"
 HOME = "/startseite"
 # Häufige Funktionswörter: News, die auf zoller.info noch nicht übersetzt sind, erkennen
+# (je Sprache Wörter, die in den anderen Sprachen nicht vorkommen)
 STOPWORDS = {
     "de": ("und", "der", "die", "das", "mit", "für", "nicht", "wird", "sich", "auch"),
     "en": ("and", "the", "with", "for", "that", "this", "are", "from", "which", "our"),
     "fr": ("et", "les", "des", "pour", "avec", "une", "dans", "est", "sur", "qui"),
     "es": ("y", "los", "las", "para", "con", "una", "del", "que", "por", "más"),
+    "it": ("il", "di", "che", "della", "sono", "nel", "alla", "degli", "delle", "anche"),
+    "pt": ("os", "das", "com", "uma", "não", "são", "também", "pelo", "dos", "às"),
+    "sv": ("och", "att", "som", "för", "med", "är", "av", "på", "till", "inte"),
+    "pl": ("się", "jest", "oraz", "dla", "przez", "jako", "może", "także", "nie", "są"),
+    "sl": ("in", "je", "za", "ki", "so", "tudi", "lahko", "pri", "ali", "kot"),
+    "cs": ("pro", "jsou", "které", "také", "jako", "nebo", "při", "jejich", "může", "této"),
+    "hu": ("és", "az", "egy", "hogy", "nem", "van", "vagy", "is", "ezt", "által"),
+    "sk": ("pre", "sú", "ktoré", "tiež", "ako", "alebo", "pri", "ich", "môže", "tejto"),
 }
+# Chinesisch, Japanisch, Koreanisch: Schriftzeichen statt Funktionswörter
+SCRIPTS = {"zh": r"[\u4e00-\u9fff]", "ja": r"[\u3040-\u30ff]", "ko": r"[\uac00-\ud7af]"}
+# Pfadteil der News-Detailseiten in den Sprachfassungen (…/your-success/detail/<artikel>)
+DETAIL_SEGS = ("detail", "details", "detalle", "dettaglio", "detalhe", "detaljer", "szczegoly", "podrobnosti",
+               "reszletek", "详情", "詳細", "상세-정보")
+DETAIL_RE = "(?:" + "|".join(DETAIL_SEGS) + ")"
+
+
+def lang_score(text, lang):
+    """Anteil der Sprache lang an einem Text (Funktionswörter bzw. Schriftzeichen)."""
+    if lang in SCRIPTS:
+        return len(re.findall(SCRIPTS[lang], text))
+    words = re.findall(r"[^\W\d_]+", text.lower())
+    return sum(words.count(w) for w in STOPWORDS[lang])
 
 
 def language_ok(page, lang):
-    words = re.findall(r"[a-zäöüßéèàùâêîôûçñáíóú]+", json.dumps(page["blocks"], ensure_ascii=False).lower())
-    score = lambda l: sum(words.count(w) for w in STOPWORDS[l])
-    return score(lang) >= score("de")
+    text = json.dumps(page["blocks"], ensure_ascii=False)
+    if lang in SCRIPTS:   # mindestens so viele Schriftzeichen wie deutsche Funktionswörter x 10
+        return lang_score(text, lang) >= 10 * lang_score(text, "de") and lang_score(text, lang) >= 20
+    return lang_score(text, lang) >= lang_score(text, "de")
 
 
 def main():
@@ -50,6 +74,8 @@ def main():
     pages_dir = os.path.join(out, "pages")
     os.makedirs(pages_dir, exist_ok=True)
     for f in glob.glob(os.path.join(pages_dir, "*.json")):
+        if '"hand": true' in open(f, encoding="utf-8").read():
+            continue   # handgebaute Seiten (Eventseiten Automation Week / Automation Days …) bleiben
         os.remove(f)
     extract.images.clear()
     pages = {}
@@ -71,10 +97,10 @@ def main():
             continue
         m = re.search(r'<link rel="alternate" hreflang="de-DE" href="([^"]+)"', raw)
         de = m.group(1).replace(ORIGIN, "").rstrip("/") if m else ""
-        if re.search(r"/(details?|detalle)/", path):
+        if re.search(r"/" + DETAIL_RE + "/", path):
             if not language_ok(p, conf["lang"]):
                 skipped += 1  # wird über content/sites/<sprachpfad>/translations.json übersetzt
-            if re.search(r"/(details?|detalle)$", de):
+            if re.search(r"/" + DETAIL_RE + "$", de):
                 de = ""  # hreflang zeigt hier nur auf die allgemeine Detailseite
         p["path"] = path
         p["src_path"] = extract.page_path_from_file(fn)

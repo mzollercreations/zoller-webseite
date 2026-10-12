@@ -1,0 +1,446 @@
+{
+ "path": "/sprava-nastroju",
+ "url": "/cz/sprava-nastroju",
+ "title": "Správa nástrojů",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Správa nástrojů",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Správa nástrojů",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/tool-management",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-management",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/gestion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/gestion-des-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/gestao-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/gestione-degli-strumenti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verktygshantering",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/tool-management",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/gestion-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/tool-management",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/gestion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/gestao-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/5/b/csm_toolmanagement_header_ab8ef9c82c.webp",
+     "video": null,
+     "title": "Správa nástrojů – víc než jen správa nářadí",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8115",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">Moderní správa nástrojů má mnoho aspektů – jde o správu údajů o nástrojích, skladování, přepravu a objednávání nástrojů a jejich součástí, ale především o jedno: efektivnější a lepší pracovní procesy.</p> <p class=\"extra-large-text\">S dobrým systémem správy nástrojů máte přehled o všech fázích životního cyklu svých nástrojů a máte je pod kontrolou – a můžete si sami určit, v jaké míře detailnosti a složitosti si chcete udržovat přehled.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8116",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Správa nástrojů: skladování, plánování, kontrola </h2>",
+   "body": "<p>Správa nástrojů znamená například centrální evidenci a správu všech nástrojů a jejich komponent. Získáte tak přehled o svých nástrojích a komponentách, který si budete moci udržet, ale také budete moci optimalizovat skladové zásoby, plánovat a kontrolovat využití nástrojů – a objednávat nové nástroje a komponenty přesně ve správný okamžik, tedy just-in-time.</p> <p>S vhodným softwarem tak získáte plnou transparentnost o tom, jak a kde jsou vaše nástroje používány – a to v rámci celého procesního řetězce. To také znamená: lepší kontrolu nákladů, optimalizované pracovní postupy, efektivnější využití vašich nástrojů.</p> <p>Správa nástrojů také znamená, že všechna data o nástrojích jsou spravována centrálně a v ideálním případě jsou prostřednictvím vhodných rozhraní přenášena přímo do vašich CAM systémů. To zjednodušuje a zkracuje proces přípravy, díky čemuž je nastavení vašich nástrojů rychlejší a spolehlivější.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/4/csm_tms_connected_3fe459a22a.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 900
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8117",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Software pro správu nástrojů, který vám vyhovuje </h2>",
+      "body": "<p>Modulární software TMS Tool Management Solutions od společnosti ZOLLER nabízí všechny funkce a rozhraní, které můžete od moderního softwaru pro správu nástrojů očekávat.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c8119",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Skvěle zorganizované",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Zaznamenejte všechny jednotlivé komponenty, kompletní nástroje a nastavovací listy do centrální databáze.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8122",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Bezztrátové rozhraní",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Díky četným rozhraním můžete systém ZOLLER-TMS propojit se svými CAM systémy – bezchybný digitální přenos dat o nástrojích šetří čas, starosti i peníze.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8124",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Správa skladů",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Všechny díly jsou na svém místě – díky systému ZOLLER-TMS máte vždy přehled o tom, kde se nacházejí vaše součásti a nástroje. Zároveň tak efektivně udržujete přehled o svých skladových zásobách.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8126",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Monitorování nástrojů",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Sjednoťte kontrolu kvality a analýzu opotřebení na jednom místě, sledujte využití svých nástrojů a vytvářejte statistiky o jednotlivých zakázkách a svých nákladech.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8128",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Transparentnost a efektivita",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Propojte svou administrativu s procesy objednávání, abyste vždy včas objednali přesně to, co potřebujete. Identifikujte problémy ve výrobním procesu a zajistěte hladký průběh.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8130",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c8120",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8118",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Software pro správu nástrojů jako ústřední součást správy nástrojů </h2>",
+   "body": "<p>Moderní logistika nástrojů je bez odpovídajícího správního softwaru vlastně již nemyslitelná. S vhodným programem zajistíte, že bude zajištěno zásobování nástroji pro každý pracovní postup, a také zdlouhavé hledání nástrojů bude patřit minulosti. Ve vašem seznamu nástrojů bude totiž uvedeno, kde se každý jednotlivý díl nachází – a pokud budete chtít, můžete využít inteligentní skříně (Smart Cabinets), abyste se ujistili, že je opravdu vše na svém místě.</p> <h3>Údaje o nástrojích vždy po ruce</h3> <p>Správa nástrojů je však mnohem více než jen skladování nástrojů: systém má vždy k dispozici příslušné údaje o nástrojích nebo přednastavení nástrojů a umožňuje rychlý a bezchybný přenos do vašich nástrojových systémů nebo do přednastavovacího zařízení. To zabraňuje chybám, snižuje zmetkovost a zrychluje pracovní procesy.</p> <p>Ať už se jedná o použití obráběcích nástrojů (obvykle hovoříme vždy o „obráběcích nástrojích“, ale pokud je z hlediska SEO lepší termín „obráběcí nástroje“, můžete použít i tento termín) nebo zařízení z úplně jiné třídy nástrojů: Ve vaší logistice jistě existuje potenciál pro zlepšení, existují možnosti optimalizace – možná při výdeji nástrojů, ve skladovém systému nebo v používané databázi nástrojů.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/9/csm_digital_durchstarten_webTMS_16feff8d28.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8131",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Správa nástrojů: Vaše výhody",
+     "caption": "<figcaption> <h3>Správa nástrojů: Vaše výhody</h3> <p>Zjistěte, jak systém správy nástrojů od společnosti ZOLLER okamžitě zvýší vaši produktivitu. Díky údajům o nástrojích probíhají procesy rychleji a bezpečněji – včetně ochrany před kolizemi pro vaše stroje. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Individuální konzultace s odborníkem",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>Individuální konzultace s odborníkem</h3> <p>Individuální rozhovor o vašich cílech a našich nápadech, jak jich dosáhnout. Online poradenství společnosti ZOLLER přímo ze Smart Factory. Domluvte si termín ještě dnes. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/cz/sprava-nastroju",
+ "de_path": "/tool-management"
+}

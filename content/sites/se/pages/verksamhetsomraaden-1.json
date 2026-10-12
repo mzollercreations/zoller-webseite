@@ -1,0 +1,437 @@
+{
+ "path": "/verksamhetsomraaden-1",
+ "url": "/se/verksamhetsomraaden-1",
+ "title": "Verksamhetsområden",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Verksamhetsområden",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Verksamhetsområden",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/geschaeftsfelder",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/business-areas-1",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/areas-de-negocio-1",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/domaines-dactivite-1",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/areas-de-negocio-1",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/settori-di-attivita-1",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verksamhetsomraaden-1",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/geschaeftsfelder-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/secteurs-dactivite-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BA%8B%E6%A5%AD%E5%88%86%E9%87%8E-1",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%82%AC%EC%97%85-%EB%B6%84%EC%95%BC-1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/business-areas-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/areas-de-negocio-1",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/areas-de-negocio-1",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/c/4/csm_smartfactory_header_4a3f7f359c.webp",
+     "video": null,
+     "title": "Översikt från ZOLLER: Vår expertkunskap",
+     "kicker": "",
+     "text": "<p>Vi stöder ert arbete</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8150",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">Med våra produkter, våra maskiner och vår programvara hjälper vi er att effektivisera era processer och minska mängden kassation.</p> <p class=\"extra-large-text\">Vi utvecklar skräddarsydda lösningar för just dina utmaningar. Läs mer här om de möjligheter som vår programvara och våra enheter erbjuder dig.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8151",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Inställning och mätning </h3> <h2> Spara kostnader och öka säkerheten med förinställda verktyg </h2>",
+   "body": "<p>För att tillverka detaljer med hög precision behöver moderna CNC-verktygsmaskiner exakta verktygsgeometridata. Med hjälp av verktygsinställningsenheten kan du fastställa verktygsdata utanför maskinen och därmed spara mycket inställningstid. När verktyget sätts in läser du omedelbart in verktygsdata från verktygsinställningsenheten. Dataöverföringen till maskinen sker elektroniskt och därmed helt felfritt, eftersom skrivfel och överföringsfel utesluts.</p> <p><a class=\"btn\" href=\"/se/foerinstaellningsenhet\">Läs mer om inställnings- och mätinstrument för verktygsinställning</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/3/5/csm_smile_header_c846e8a6b4.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8153",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Verktygshantering </h3> <h2> Goda skäl att producera på ett mätbart mer lönsamt sätt </h2>",
+   "body": "<ul><li>Minska inställningstiderna: Rätt verktyg finns alltid på rätt plats vid rätt tidpunkt. Den styrningsanpassade datautmatningen förhindrar inmatningsfel vid maskinen och de kostnader som detta medför.</li><li>Hitta istället för att söka: Du vet alltid vilka verktyg som finns tillgängliga för vilka maskiner och var de finns<br/>.</li><li>Bättre organisation: Planerade arbetsflöden med beräkningsbara stycktider och effektiv kontroll säkerställer en effektiv processhantering och därmed korta reaktionstider. Självförsörjande tillverkningsenheter kan integreras och organiseras.</li><li>Undvik maskinstillestånd: Alla verktyg är alltid tillgängliga, 24 timmar om dygnet. Genom att använda rätt verktyg på maskinerna förhindras kollisioner och verktygsbrott undviks.</li><li>Garantera kvalitet: Hög systemtillgänglighet och transparenta, stabila tillverkningsprocesser garanterar högsta kvalitet.</li><li>Spara lagerkostnader: Du ser vilka verktyg som används och hur ofta, och beställer bara det som faktiskt behövs.</li><li>Utnyttja verktygens potential: Optimala skärhastigheter och matningar ökar livslängden.</li><li>Öka produktiviteten: En optimerad verktygsrotation säkerställer korta genomloppstider och fullt utnyttjade maskiner, vilket ökar produktiviteten och sänker tillverkningskostnaderna.</li></ul><p><a class=\"btn\" href=\"/se/verktygshantering\">Ekonomisk verktygshantering</a><br/><a class=\"btn\" href=\"/se/verktygsorganisation\">Effektiv lagerhantering och hantering av tillverkningsdata</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/8/csm_keeper_header_fc94668ac2.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8165",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Dataöverföring </h3> <h2> Säker och snabb dataöverföring </h2>",
+   "body": "<p>Datautbytet mellan de enskilda produktionsenheterna är oumbärligt för dagens industriella tillverkning. Med ZOLLERs mjukvarulösningar garanteras en processsäker och snabb överföring av verktygsdata vid alla tillfällen – helt oberoende av tillverkare och plattform.</p> <p><a class=\"btn\" href=\"/se/oeverfoering-av-verktygsdata\">Överföring av verktygsdata</a><br/><a class=\"btn\" href=\"/se/verktygsoevervakning\">Perfekt verktygshantering och tillverkningsorganisation</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/8/5/csm_zidCode_kombi_header_8e15ec79e7.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8164",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Kontrollera &amp; mäta </h3> <h2> Mätmaskiner säkerställer en precis tillverkning </h2>",
+   "body": "<p>För att verktyg ska fungera precis som de är avsedda och konstruerade för måste de själva vara tillverkade med hög precision. Med våra universella mätmaskiner kan verktyg mätas med mikrometerprecision och kontrolleras för att se om de uppfyller kraven.</p> <p><a class=\"btn\" href=\"/se/maetmaskiner\">Högre precision tack vare mätmaskiner</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_genius_header_fd8701f3c0.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8161",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Automatisering </h3> <h2> Automatiseringslösning för verktygsmätning </h2>",
+   "body": "<p>Oavsett om det gäller verktygsslipning eller förberedelse, tillhandahållande och inställning av verktyg – automatiseringen av de dagliga arbetsuppgifterna kommer att vara svaret på denna utmaning. ZOLLER levererar rätt lösning för automatiserad verktygshantering för varje uppgift. Beroende på kraven kan lösningen bestå av ett slutet system med ytterligare moduler, ett komplext automatiseringskoncept eller ett system med kollaborativa robotar i verktygsrummet.</p> <p><a class=\"btn\" href=\"/se/loesningar/automatisering\">Allt om modulär automatisering för skärverktyg</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/c/7/csm_corameasureLG_header_89e9e61ae5.webp",
+     "alt": "",
+     "w": 1428,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8162",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Krympteknik </h3> <h2> Korta förberedelsetider tack vare användning av en krympmaskin </h2>",
+   "body": "<p>För många borr- och fräsverktyg är krympning den snabbaste och samtidigt mest exakta metoden för att spänna fast verktyget. Med en lämplig krympstation kan de nödvändiga arbetsstegen enkelt utföras; en krympmaskin kan i stor utsträckning automatisera dessa och samtidigt garantera processäkerheten genom lämpliga mätningar.</p> <p><a class=\"btn\" href=\"/se/krympning-av-verktyg\">Vilka fördelar ger verktygskrympning?</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/9/csm_header_powershrink_fda54c16eb.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 896
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8163",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Balanseringsteknik </h3> <h2> Balansera slipskivor och verktyg? Viktigt och enkelt! </h2>",
+   "body": "<p>För moderna bearbetningsmaskiner är noggrant balanserade verktyg oerhört viktiga. Obalanser i slipskivor, verktyg och verktygssystem leder till slitage eller till och med skador på spindlar och motorer – men inte minst också till kassation av arbetsstycken. Regelbunden balansering förhindrar driftstopp, säkerställer kvaliteten och minskar dina kostnader totalt sett.</p> <p><a class=\"btn\" href=\"/se/balansera-verktyg\">Vårt balanseringssystem ökar verktygens livslängd</a><br/><a class=\"btn\" href=\"/se/balansera-slipskivan\">Jämnare gång och bättre bearbetningsprestanda tack vare balanserade slipskivor</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_header_toolBalancer_df19c3c897.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 896
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8160",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Optimera livslängden på dina verktyg </h2>",
+      "body": "<p>Ju längre livslängd ett skärverktyg har, desto lägre blir kostnaderna för verktyget och desto effektivare kan det arbeta. Om du känner till de viktigaste faktorerna som påverkar livslängden blir det enklare att optimera den.</p> <p><a class=\"btn\" href=\"/se/verktygets-livslaengd\">Hur du kan kontrollera och optimera livslängden på ditt verktyg</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "center",
+      "ftype": "textmedia",
+      "id": "c8166",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Optimera förberedelsetiden –<br/>hur och varför? </h2>",
+      "body": "<p>Idag tillverkar nästan ingen maskin eller anläggning enbart en enda produkt – i regel ställs de om för olika produkter efter behov. Detta medför omställningstider då maskinen vanligtvis inte producerar någonting.</p> <p><a class=\"btn\" href=\"/se/optimering-av-foerberedelsetiden\">Varför optimera omställningstiden?</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c8168",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8167",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>1:1-samtal med en expert</h3> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/expert/booking\" rel=\"noopener\" target=\"_blank\">Boka tid nu</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/se/verksamhetsomraaden-1",
+ "de_path": "/geschaeftsfelder"
+}

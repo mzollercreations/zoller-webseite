@@ -1,0 +1,489 @@
+{
+ "path": "/szerszamok-elezese",
+ "url": "/hu/szerszamok-elezese",
+ "title": "Szerszámok élezése",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Szerszámok élezése",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Szerszámok élezése",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeuge-schleifen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/sharpening-tools",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/rectificado-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/affuter-les-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/afiar-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/affilatura-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/slipa-verktyg",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeuge-schleifen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/grinding-tools",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/affutage-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E7%A0%94%E3%81%8E",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EC%97%B0%EB%A7%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/grinding-tools",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/afilar-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/afiar-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/7/e/csm_header_grinding_21f044b386.webp",
+     "video": null,
+     "title": "Nagyobb siker a szerszámgyártók és csiszolóüzemek számára",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c2447",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Csatlakozók, mérési értékek, csiszolótárcsák, CNC-kompatibilis szerszámadatok </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c728",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>A szerszámgyártók és csiszolóüzemek számára a mérési adatok és az adatkezelés elengedhetetlenül fontosak a magas gazdaságosság és a dokumentált minőség elérése érdekében. A ZOLLER minden szükséges eszközt biztosít ehhez. </strong></p> <p>A ZOLLER segítségével CAD-programokhoz és CNC-vezérlőkhöz kapcsolódó interfészek, csiszolókorongok kezeléséhez szükséges hardver és szoftver, a gyártási folyamatokhoz közvetlenül kapcsolódó, mikrométeres pontosságú mérő- és ellenőrző eszközök, valamint a csiszolókorongok és geometriai adatok hibamentes átvitelét biztosító technológiák állnak rendelkezésére a CNC-csiszológépekhez.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c727",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c729",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "count",
+   "title": "Akár",
+   "value": "83 %",
+   "note": "*Három műszakos üzemeltetés esetén, műszakonként egy alkalmazottal.",
+   "ftype": "zoller_count-banner",
+   "id": "c722",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> A ZOLLER megoldásai az Ön csiszolási folyamatához </h2>",
+   "items": [
+    {
+     "href": "/hu/termekek/ellenorzes-es-meres/univerzalis-merogepek/genius",
+     "title": "»genius«",
+     "text": "<p>Több mint 100 paramétert mér rendkívüli pontossággal, és világszerte már több mint 1000 alkalommal bizonyította megbízhatóságát</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/d/csm_genius_1_5b500df8d2.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/ellenorzes-es-meres/univerzalis-merogepek/titan",
+     "title": "»titan«",
+     "text": "<p>Azoknak a szakértőknek, akik mindent tudni akarnak – beleértve a vágóélek előkészítését is</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/3/b/csm_titan__preview_9813f51631.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/eszkoezkezeles/szerszamraktar/toolorganizer",
+     "title": "»toolOrganizer«",
+     "text": "<p>Vágószerszámokhoz és apró alkatrészekhez</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_018ce796c6.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/kiegyensulyozasi-technika/toolbalancer",
+     "title": "»toolBalancer«",
+     "text": "<p>A legmodernebb technológiával és ergonómikus kialakítással rendelkező kiegyensúlyozó rendszer</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/ellenorzes-es-meres/folyamatorientalt-meres/mmfocus",
+     "title": "»mμFocus«",
+     "text": "<p>Elemezi a domborzatokat és 3D-ábrákat készít a szerszámok vágóéleiről</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/0/csm_myFocus__preview_b0f99094b2.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/ellenorzes-es-meres/folyamatorientalt-meres/pombasic",
+     "title": "»pomBasic«",
+     "text": "<p>A gyártási folyamat közben több mint 70 paraméter ellenőrzése a szerszámon</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/5/f/csm_pombasic__preview_65ddb1db86.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/automatizalas/szerszamellenorzes/roboset-2",
+     "title": "»roboSet 2«",
+     "text": "<p>Szerszámkezelés a »genius«, »3dCheck«, »threadCheck«, »titan« és »edgeControl« szoftverekhez</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_7361e448c0.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/ellenorzes-es-meres/egyedi-megoldasok/egyedi-megoldasok/threadcheckcc",
+     "title": "»﻿﻿﻿﻿threadCheck ❘ cc﻿﻿﻿﻿«",
+     "text": "<p>Csúcskategóriás, hat CNC-tengelyes, forgatható multiszenzoros optikai tartóval</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/6/8/csm_threadCheckCC__preview_ffdf543c62.webp",
+      "alt": "",
+      "w": 1563,
+      "h": 1291
+     }
+    },
+    {
+     "href": "/hu/termekek/ellenorzes-es-meres/egyedi-megoldasok/egyedi-megoldasok/hobcheck",
+     "title": "»hobCheck«",
+     "text": "<p>Több mint 200 mérési érték átvilágító és felülről megvilágító kamerákból, valamint mérőérzékelőktől</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/a/csm_hobCheck__preview_63b423e059.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/ellenorzes-es-meres/univerzalis-merogepek/smartcheck",
+     "title": "»smartCheck«",
+     "text": "<p>Beállító és mérőműszer kiegészítő felülről eső fényforrással és kiterjesztett képelemzéssel</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_b44dfc4928.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/eszkoezkezeles/adatatvitel/zidcode",
+     "title": "»zidCode«",
+     "text": "<p>Nagyobb biztonság és hatékonyság az egyszerű szerszámadatok kezelésének köszönhetően</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/c/csm_zidCode_preview_538b53ed83.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/eszkoezkezeles/szerszamraktar/keeper",
+     "title": "»keeper«",
+     "text": "<p>Komplett szerszámokhoz és szerszámtartókhoz</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/a/csm_keeper_preview_1e87de3ba7.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/eszkoezkezeles/szerszamraktar/autolock",
+     "title": "»autoLock«",
+     "text": "<p>Mérőeszközök, üzemanyagok és nagyobb alkatrészek esetében</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/7/csm_autolock__preview_a71350a53a.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/eszkoezkezeles/szerszamraktar/twister",
+     "title": "»twister«",
+     "text": "<p>Szerszámalkatrészekhez és kiegészítőkhöz</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/1/csm_twister__preview_edf94f7d12.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/eszkoezkezeles/szerszamok-oesszeszerelese/toolstation",
+     "title": "»toolStation«",
+     "text": "<p>Az optimális szerszám-összeszereléshez</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/f/csm_toolStation_preview_00b81d24f9.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/eszkoezkezeles/szerszamok-oesszeszerelese/ztower",
+     "title": "»zTower«",
+     "text": "<p>Univerzális szerszámrögzítéshez</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/6/csm_zTower_preview_c0c8e3585e.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/eszkoezkezeles/szerszamok-szallitasa/toolcart",
+     "title": "»toolCart«",
+     "text": "<p>A szerszámok kényelmes szállításához</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_3be007bbac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_categorized_pages",
+   "id": "c4775",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 szakértői beszélgetés",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 szakértői beszélgetés</h3> <p>Személyre szabott megbeszélés az Ön céljairól és az azokhoz kapcsolódó ötleteinkről. A ZOLLER online tanácsadása közvetlenül a Smart Factory-ból. Foglaljon időpontot most! </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/e/csm_teaser-2Colume-Media_8e9165a74e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Média: A ZOLLER részletesen",
+     "href": "/hu/vallalat/media",
+     "caption": "<figcaption> <h3>Média: A ZOLLER részletesen</h3> <p>Itt megtalálhatja a sajtóközleményeket, a termékbejelentéseket, a kiállítási részvételeket, a szaklapokban megjelent cikkeket, a hírek archívumát, valamint a sajtókapcsolati munkatársainkat. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c738",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/hu/szerszamok-elezese",
+ "de_path": "/werkzeuge-schleifen"
+}

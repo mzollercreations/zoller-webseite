@@ -1,0 +1,434 @@
+{
+ "path": "/工具组织",
+ "url": "/ch/%E5%B7%A5%E5%85%B7%E7%BB%84%E7%BB%87",
+ "title": "刀具管理",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "刀具管理",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "刀具管理",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeugorganistation",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-organization",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/organizacion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/organisation-des-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/organizacao-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/organizzazione-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verktygsorganisation",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeugorganistation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/tool-organization",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/organisation-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%95%B4%E7%90%86",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EC%A0%95%EB%A6%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/tool-organization",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/organizacion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/organizacao-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/7/e/csm_toolorga_header_d09c850eda.webp",
+     "video": null,
+     "title": "合理的刀具布局提升效率",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7972",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">更好的刀具管理不仅能让车间表面看起来更加整洁有序，还能切实减少设备停机时间，从而提高生产效率。这是如何做到的？</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7974",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 刀具管理不仅是整理 </h2>",
+   "body": "<p>在车间的实际工作中，难免会出现一些杂乱无章的情况 — 但这很大程度上取决于每件刀具是否都有一个专属的存放位置，且必须归位。</p> <p>这实际上是刀具管理的核心：确保每件刀具都能随时被找到。 如果能省去寻找刀具的麻烦，您不仅能避免烦恼和挫败感，还能节省大量工作时间和精力。您的机器无需等待下次使用，刀具也不会闲置 — 您的工作效率也将显著提高。</p> <p>在 ZOLLER，我们致力于提供一种全面、综合的刀具管理方案。 因此，我们将<strong>模块化设计的</strong>刀具管理<strong>软件</strong>与<strong>智能仓储系统</strong>相结合，二者协同运作，确保您随时掌握特定刀具的当前位置及其状态 — 包括备件是否充足、是否需要订购补充库存等诸多信息。</p> <p>而且，由于刀具自然是针对特定任务设计的，因此将<strong>刀具数据</strong>以数字化、无误且无线<strong>的方式传输</strong>至机床，也是完整、全面刀具管理的重要组成部分。这样您就能专注于核心事务：高效且有效地制造您的零部件。</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7975",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "设备停机时间短：高效利用时间和人力 ",
+    "随时全面掌握所有刀具的位置和状态 ",
+    "无供应缺口：随时掌握备件更换和补货情况"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c7976",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 满足各类需求的刀具管理软件 </h2>",
+   "body": "<p><strong>高效刀具管理首先在于数据管理。</strong> </p> <p>首先，需在调试或测量设备中采集单个部件的刀具数据（如切削材料和重量），并将其输入系统。结合调试单及其他信息，您所需了解的关于刀具的一切信息都将集中存储在一个中心位置，并随时可供每位员工查阅。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/9/csm_digital_durchstarten_webTMS_16feff8d28.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7977",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-33-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> 轻松管理刀具 </h2>",
+      "body": "<p>借助我们的<strong>TMS Tool Management Solutions刀具管理</strong>软件，即使在BRONZE铜牌套餐的功能范围内，我们也为您提供了刀具管理所需的一切。其中尤其包括以下功能：</p><ul><li>从制造商目录或云端导入刀具数据 — 安全、准确、快捷</li><li>可通过移动设备访问刀具数据</li><li>与您的 ZOLLER 测量和调整设备完全集成</li><li>每次刀具调整设置均可保存并即时调用</li></ul><p><a class=\"btn\" href=\"/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/tms-%E5%B7%A5%E5%85%B7%E7%AE%A1%E7%90%86%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E8%BD%AF%E4%BB%B6%E5%A5%97%E4%BB%B6/bronze-cad/cam-%E6%A8%A1%E5%9D%97\">了解有关 BRONZE 软件包的全部信息</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/d/1/csm_software_bronze_19edbebfe9.webp",
+        "alt": "",
+        "w": 680,
+        "h": 429
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7980",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> 刀具管理不止于仓储 </h2>",
+      "body": "<p><strong>这件刀具确切位于何处？其状况如何？</strong>若您能将仓储管理也进行数字化组织和优化，从而根据需求和质量要求实时掌握刀具<strong>库存</strong>状况，便能实现刀具管理的升级。具体而言，这意味着：</p><ul><li>查找时间缩短，</li><li>设置时间缩短，</li><li>刀具调整几乎自动完成。</li></ul><p>我们的 SILVER 银牌套件包含所有这些功能，不仅让您能够随时掌握单个刀具的位置和使用情况，还能确保及时有效地备足零部件和备件。这意味着<strong>刀具监控</strong>功能也已完全集成<strong>，可用于质量控制和磨损分析</strong>。</p> <p><a class=\"btn\" href=\"/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/tms-%E5%B7%A5%E5%85%B7%E7%AE%A1%E7%90%86%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E8%BD%AF%E4%BB%B6%E5%A5%97%E4%BB%B6/silver-%E8%BF%90%E8%90%A5%E7%BB%84%E7%BB%87\">了解有关 SILVER 软件包的全部信息</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/e/0/csm_software_silver_d66477a30d.webp",
+        "alt": "",
+        "w": 680,
+        "h": 429
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7981",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> 刀具管理焕新升级 </h2>",
+      "body": "<p>GOLD金牌刀具管理标准将刀具管理全面融入企业所有业务流程，使您能够实时查看刀具的使用效率及相关成本。通过这种方式，您可在整个流程链中对刀具管理实现<strong>全面的成本控制和透明度</strong>。</p> <p>通过记录单个刀具在不同订单中的使用情况，刀具管理系统可为您生成统计数据，从而提供您的工作效率精度。我们的软件 GOLD金牌套件不仅能实现以上功能，还能为您带来：</p><ul><li>实现刀具数据管理的最高效率</li><li>生产订单和设置表的系统化管理</li><li>集成式使用寿命管理</li><li>可选的订购系统集成（包括供应商管理）</li></ul><p><a class=\"btn\" href=\"/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/tms-%E5%B7%A5%E5%85%B7%E7%AE%A1%E7%90%86%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E8%BD%AF%E4%BB%B6%E5%A5%97%E4%BB%B6/gold-%E9%97%A8%E5%BA%97%E7%AE%A1%E7%90%86\">了解有关 GOLD 软件包的全部信息</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/e/a/csm_software_gold_79cf4e6793.webp",
+        "alt": "",
+        "w": 680,
+        "h": 429
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7982",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-33-33-33",
+   "id": "c7979",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 刀具管理，助您减轻工作负担 </h2>",
+   "body": "<p><strong>任何刀具管理系统的价值，都取决于它能否长期为您和您的员工减轻工作负担。</strong> 我们的 <strong>TMS 刀具管理解决方案</strong>软件旨在<strong>与现有数据库、机器、仓储系统和测量设备</strong>实现全面、无缝的<strong>协作</strong>。从而为您分担工作，提高效率，并让车间工作更加轻松。</p> <p>凭借我们软件包的模块化结构，您可以仅选择真正需要的功能。如果您希望将刀具管理提升到更高水平，还可以随时添加新功能。</p> <p>欢迎联系我们，我们将很乐意为您提供详细咨询，并为您量身定制报价方案！</p> <p>了解更多关于 webTMS</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/6/csm_webTMS_devices_9783f65f1d.webp",
+     "alt": "",
+     "w": 1484,
+     "h": 1066
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7983",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 刀具智能存储 </h2>",
+   "body": "<p>我们的智能储物柜是软件化刀具管理的完美补充 — 因为它们能够自动、有序地提供所需刀具。</p> <p>此外，智能存储柜还能管理和整理车间日常所需的一切物品。通过我们智能储物柜的多种型号，您可以系统地存放各种材料 — 从刀具和零部件、耗材，到配件或测量和检测设备。 需要使用刀具时，在我们的存储系统中，您能立即找到所需物品。</p> <p>从配备齐全（且空间宽敞）的 <a class=\"link-arrow\" href=\"/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%AE%89%E8%A3%85/toolstation\">台式工作台</a>，到所有组件触手可及的刀具装配台，再到可灵活使用的 <a class=\"link-arrow\" href=\"/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E8%BF%90%E8%BE%93/toolcart\">刀具推车</a>（可容纳 100 多种不同刀具），以及 <a class=\"link-arrow\" href=\"/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E4%BB%93%E5%BA%93/keeper\">用于存放成套刀具</a>和换径套的大型 <a class=\"link-arrow\" href=\"/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E4%BB%93%E5%BA%93/keeper\">刀具柜</a> — 每种存储方案都能确保您的刀具和材料得到最佳的存放与管理。</p> <p>在我们的产品概览中，您可以找到所有智能柜和存储解决方案 — 您的车间一定也能找到合适的款式！</p> <p>关于我们的存储系统的所有信息</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/5/csm_toolmanagement_02_7e37951c35.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7984",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "刀具管理：为您带来的优势",
+     "caption": "<figcaption> <h3>刀具管理：为您带来的优势</h3> <p>了解ZOLLER的刀具管理解决方案如何立即提升您的生产效率。借助刀具数据，加工过程将更加快速、安全——其中还包括对您机床的防碰撞保护功能。 </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "一对一专家咨询",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>一对一专家咨询</h3> <p>针对您的目标以及我们为此提出的方案，进行一对一的交流。ZOLLER 直接从“智能工厂”为您提供的在线咨询服务。立即预约。 </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ch/工具组织",
+ "de_path": "/werkzeugorganistation"
+}

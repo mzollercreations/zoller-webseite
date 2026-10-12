@@ -1,0 +1,473 @@
+{
+ "path": "/the-system",
+ "url": "/en_DE/the-system",
+ "title": "The System",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Home /",
+   "href": "/en_DE/home"
+  },
+  {
+   "label": "The System",
+   "href": ""
+  },
+  {
+   "label": "Home /",
+   "href": "/en_DE/home"
+  },
+  {
+   "label": "The System",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/das-system",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/the-system",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/el-sistema",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/le-systeme",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/o-sistema",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/il-sistema",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/systemet",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/das-system",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/the-system",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/le-systeme",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%8B%9C%EC%8A%A4%ED%85%9C",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/the-system",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/el-sistema",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/o-sistema",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/01_Pages/The_System/ZOLLER_WELT_1920x1080.mp4",
+     "title": "ZOLLER - the complete management system for your cutting tools",
+     "kicker": "",
+     "text": "<p>Based on decades of experience, our customers benefit from a holistic approach to drive efficiency on the shop floor.</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c604",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "66-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2 class=\"headline-decor\"> Start with a Solution - Enter a System. </h2>",
+      "body": "<p class=\"extra-large-text\">The “Smart Factory” isn't just a buzzword. It's the future of manufacturing.</p> <p class=\"extra-large-text\">To stay competitive and maximize ROI, companies will need to integrate their processes for cutting tools across the shop floor. ZOLLER is the only manufacturer in the world with a single system. It networks cutting tool processes with data, leading to maximum efficiency, quality, and precision for your machining production.</p> <p class=\"extra-large-text\">With ZOLLER, you can start where you are and stop when your requirements are met — with the certainty of always being able to take the next step.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c556",
+      "bg": "yellow",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-2cols",
+   "id": "c1854",
+   "bg": "yellow",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "hotspots",
+   "header": "",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/2/4/csm_zoller_system_en_7439d4eabe.webp",
+    "alt": "zoller system",
+    "w": 1540,
+    "h": 1193
+   },
+   "spots": [
+    {
+     "x": 71.714,
+     "y": 20.307,
+     "label": "Tool Management",
+     "text": "<h3>Tool Management</h3> <p>Tool cabinets, assembly stations, software, and interfaces: ZOLLER creates order in the tool room and improves the transparency of tool data. </p> <p>Your advantages <a class=\"btn\" href=\"/en_DE/products/tool-management\">Show products</a></p>"
+    },
+    {
+     "x": 87.074,
+     "y": 38.032,
+     "label": "Tool Heat Shrink Technology",
+     "text": "<h3>Tool Heat Shrink Technology</h3> <p>The most innovative solutions for shrinking and unshrinking tools: First-class user guidance, reduced energy consumption, and record-breaking short process times. </p> <p><a class=\"btn\" href=\"/en_DE/solutions/shrink-technology\">Your advantages</a> <a class=\"btn\" href=\"/en_DE/products/shrink-technology\">Show products</a></p>"
+    },
+    {
+     "x": 89.237,
+     "y": 54.501,
+     "label": "Tool Balancing Technology",
+     "text": "<h3>Tool Balancing Technology</h3> <p>Longer tool life, higher surface quality: with the best balancing equipment on the market. </p> <p><a class=\"btn\" href=\"/en_DE/solutions/balancing-technology\">Your advantages</a> <a class=\"btn\" href=\"/en_DE/products/balancing-technology\">Show products</a></p>"
+    },
+    {
+     "x": 38.021,
+     "y": 59.037,
+     "label": "Tool Holders with ZOLLER »idChip«",
+     "text": "<h3>Tool Holders with ZOLLER »idChip«</h3> <p>»idChip« – the perfect interface between tools and digital manufacturing.</p> <p><a class=\"btn\" href=\"/en_DE/solutions/tooling-solutions\">Your advantages</a> <a class=\"btn\" href=\"https://myzoller.com/int/en/shop/tooling\" rel=\"noopener\" target=\"_blank\">Go directly to the tooling shop</a></p>"
+    },
+    {
+     "x": 42.347,
+     "y": 77.53,
+     "label": "Inspection & Measuring",
+     "text": "<h3>Inspection &amp; Measuring</h3> <p>Document quality and create digital twins.</p> <p><a class=\"btn\" href=\"/en_DE/solutions/inspection-measuring\">Your advantages</a> <a class=\"btn\" href=\"/en_DE/products/inspection-measuring\">View products</a></p>"
+    },
+    {
+     "x": 64.954,
+     "y": 84.787,
+     "label": "Grinding",
+     "text": "<h3>Grinding</h3> <p>For tool manufacturers and grinding companies, measurement data and data management are essential for achieving high efficiency and documented quality. ZOLLER has everything you need to do this.</p> <p><a class=\"btn\" href=\"/en_DE/sharpening-tools\">Learn more</a></p>"
+    },
+    {
+     "x": 75.23,
+     "y": 84.368,
+     "label": "Milling",
+     "text": "<h3>Milling</h3> <p>Greater cost-effectiveness for milling processes thanks to µm-precise tool data and digitization from CAM to part.</p> <p><a class=\"btn\" href=\"/en_DE/milling\">Learn more</a></p>"
+    },
+    {
+     "x": 85.398,
+     "y": 84.299,
+     "label": "Turning",
+     "text": "<h3>Turning</h3> <p>Precise adjustment and measurement of turning tools and high data availability: Increase the productivity of turning applications now. </p> <p><a class=\"btn\" href=\"/en_DE/turn\">Learn more</a></p>"
+    },
+    {
+     "x": 85.019,
+     "y": 70.551,
+     "label": "»zidCode«",
+     "text": "<h3>»zidCode«</h3> <p>Greater safety and efficiency through automated, error-free tool data handling.</p> <p><a class=\"btn\" href=\"/en_DE/products/tool-management/data-transfer/zidcode\">More about »zidCode«</a></p>"
+    },
+    {
+     "x": 68.415,
+     "y": 68.737,
+     "label": "Presetting & Measuring",
+     "text": "<h3>Presetting &amp; Measuring</h3> <p>This reduces setup times by 40% or more and increases the service life of your tools. </p> <p><a class=\"btn\" href=\"/en_DE/solutions/presetting-measuring\">Your advantages</a> <a class=\"btn\" href=\"/en_DE/products/presetting-measuring\">Show products</a></p>"
+    },
+    {
+     "x": 50.676,
+     "y": 21.144,
+     "label": "Process-oriented measurement",
+     "text": "<h3> Process-oriented measurement</h3> <p>Quickly and accurately check tools upon receipt of goods or check grinding quality right next to the machine—the process-oriented solutions from ZOLLER.</p> <p><a class=\"btn\" href=\"/en_DE/solutions/inspection-measuring\">Your advantages</a> <a class=\"btn\" href=\"/en_DE/products/inspection-measuring/process-oriented-measurement/pombasic\">More about »pomBasic«</a></p>"
+    },
+    {
+     "x": 57.004,
+     "y": 31.333,
+     "label": "Tool Preparation",
+     "text": "<h3>Tool Preparation</h3> <p>Automate tool setting and measurement, including tool handling. Even common process chains run independently with ZOLLER. </p> <p><a class=\"btn\" href=\"/en_DE/solutions/automation\">Your advantages</a> <a class=\"btn\" href=\"/en_DE/products/automation/tool-preparation\">Show products</a></p>"
+    },
+    {
+     "x": 38.453,
+     "y": 47.732,
+     "label": "Tool Provisioning",
+     "text": "<h3>Tool Provisioning</h3> <p>With ZOLLER, you can have all tools for the next production orders provided automatically. </p> <p><a class=\"btn\" href=\"/en_DE/solutions/automation\">Your advantages</a> <a class=\"btn\" href=\"/en_DE/products/automation/tool-provisioning\">Show products</a></p>"
+    },
+    {
+     "x": 56.03,
+     "y": 60.642,
+     "label": "Tool Inspection",
+     "text": "<h3>Tool Inspection</h3> <p>How to automate tool inspection with the »genius« series measuring machines. Optionally available with laser marking and complete documentation.</p> <p><a class=\"btn\" href=\"/en_DE/solutions/automation\">Your advantages</a> <a class=\"btn\" href=\"/en_DE/products/automation/tool-inspection\">Show products</a></p>"
+    },
+    {
+     "x": 69.443,
+     "y": 45.429,
+     "label": "Tool Logistic",
+     "text": "<h3>Tool Logistic</h3> <p>Your tools are automatically transferred from the tool preparation area to the CNC machine – or to the tool magazine. And back again. </p> <p><a class=\"btn\" href=\"/en_DE/solutions/automation\">Your advantages</a> <a class=\"btn\" href=\"/en_DE/products/automation/tool-logistics\">Show products</a></p>"
+    },
+    {
+     "x": 76.041,
+     "y": 33.357,
+     "label": "»toolCart«",
+     "text": "<h3>»toolCart«</h3> <p>For convenient tool transport</p> <p><a class=\"btn\" href=\"/en_DE/products/tool-management/tool-transportation/toolcart\">More about »toolCart«</a></p>"
+    },
+    {
+     "x": 27.258,
+     "y": 39.358,
+     "label": "CAD Design",
+     "text": "<h3>CAD Design</h3> <p>ZOLLER's tool management provides tool data from the start of the process to the end. Our interfaces transfer tool data from CAD/CAM systems, ERP systems, and tool catalogs to the ZOLLER TMS Tool Management Solutions software.</p> <p>Your advantages</p>"
+    },
+    {
+     "x": 38.94,
+     "y": 30.356,
+     "label": "CAM Manufacturing",
+     "text": "<h3>CAM Manufacturing</h3> <p>Tool management with ZOLLER ensures that your data is consistently available from CAM to part with the z.One database. This simplifies production planning, reduces setup times, and minimizes missing parts—from the start of the process with CAM and CAD to the control of CNC grinding or production machines.</p> <p>More about interfaces</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c4007",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> The value-driven system for modern manufacturing </h1>",
+   "body": "<p class=\"extra-large-text\">ZOLLER's system-oriented approach is based on four core values: Innovation, quality, precision and service. We adhere to these values with every product that we develop, manufacture and deliver—ensuring performance and customer satisfaction</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/8/csm_value_system_4adb77b8bc.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c607",
+   "bg": "black",
+   "space": {
+    "before": "extra-small",
+    "after": "none"
+   }
+  },
+  {
+   "type": "values",
+   "header": "",
+   "tiles": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_value_innovation_30b03ea669.webp",
+      "alt": "",
+      "w": 739,
+      "h": 774
+     },
+     "text": "<p>At ZOLLER, the willingness to innovate is the most important ingredient for continuous progress. <br/>We have been creating the future of manufacturing for 80 years.</p>"
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/1/f/csm_value_quality_596c87a5e7.webp",
+      "alt": "",
+      "w": 739,
+      "h": 774
+     },
+     "text": "<p>At ZOLLER, experts assemble every machine by hand. The brand is known for German-made reliability and quality.</p>"
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/3/8/csm_value_precition_86c1763b85.webp",
+      "alt": "",
+      "w": 739,
+      "h": 774
+     },
+     "text": "<p>ZOLLER uses the finest measurement technology. Our top machines resolve structures below 1 µm and provide precise data for informed decision-making.</p>"
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/9/6/csm_value_service_c143139351.webp",
+      "alt": "",
+      "w": 739,
+      "h": 774
+     },
+     "text": "<p>You can reach us in 62 countries around the world. From Argentina to Vietnam, we are there for you!</p>"
+    }
+   ],
+   "ftype": "zoller_column-image-text",
+   "id": "c605",
+   "bg": "black",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> <a href=\"/en_DE/the-system\">Balancing tools with precision</a> </h2>",
+   "body": "<p class=\"large-text\">The »toolBalancer« from ZOLLER is a state-of-the-art tool balancing machine that achieves balancing results &lt; 0.4 gmm with high ergonomics and simple operation. All »toolBalancers« are TÜV and UL/CSA approved.</p> <p><a class=\"btn\" href=\"/en_DE/products/balancing-technology/toolbalancer\">More about »toolBalancer«</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/a/csm_teaser_toolbalancer_e584d45648.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034,
+     "href": "/en_DE/products/balancing-technology/toolbalancer"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c750",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> <a href=\"/en_DE/the-system\">Maximize value with tool shrinking</a> </h2>",
+   "body": "<p class=\"large-text\">»powerShrink« shrinks tools with record-breaking speed and energy efficiency. With »powerShrink«, shrink fit tool holders can be safely and sustainably heated and cooled.</p> <p><a class=\"btn\" href=\"/en_DE/products/shrink-technology/powershrink\">More about »powerShrink«</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/3/c/csm_teaser_powershrink_ff1b555a0d.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034,
+     "href": "/en_DE/products/shrink-technology/powershrink"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c752",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/en_DE/the-system",
+ "de_path": "/das-system"
+}

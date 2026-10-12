@@ -1,0 +1,1020 @@
+{
+ "path": "/vallalat/profil/partner",
+ "url": "/hu/vallalat/profil/partner",
+ "title": "Partner",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Vállalat /",
+   "href": "/hu/vallalat"
+  },
+  {
+   "label": "Profil /",
+   "href": "/hu/vallalat/profil"
+  },
+  {
+   "label": "Partner",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Vállalat /",
+   "href": "/hu/vallalat"
+  },
+  {
+   "label": "Profil /",
+   "href": "/hu/vallalat/profil"
+  },
+  {
+   "label": "Partner",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/profil/partner",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/profile/partner",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/perfil/socios",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/profil/partenaires",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/perfil/parceiros",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/profilo/partner",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/profil/partner",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/profil/partner",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/profile/partners",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/profil/partenaires",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84/%ED%8C%8C%ED%8A%B8%EB%84%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/profile/partner",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/perfil/socios",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/perfil/parceiros",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Okos együttműködés </h1>",
+      "body": "<p>A ZOLLER partnereivel együttműködve törekszik az ügyfelek igényeinek optimális kielégítésére.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2853",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "ANCA",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Az ANCA piacvezető a kiváló minőségű CNC-csiszológépek és CNC-rendszerek területén. A vállalat folyamatosan fejlődik; ez az innováción és a technológián alapuló vállalati stratégiának, valamint annak az elszántságnak köszönhető, hogy olyan gépeket gyártson, amelyek kielégítik ügyfeleink igényeit és túlteljesítik elvárásaikat.</p> <p>A ZOLLER interfészt kínál az ANCA szerszámcsiszológépekhez.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/1/6/csm_logo_anca_0308eafd4f.webp",
+            "alt": "",
+            "w": 388,
+            "h": 92,
+            "href": "https://www.anca.com"
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2883",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "A+B Solutions Kft.",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Több mint 35 éves tapasztalatával az A+B Solutions átfogó szakértelemmel rendelkezik a gyártás nyomon követésére és vezérlésére szolgáló megoldások tervezése és integrálása terén. Az olyan vezető szállítók, mint a Siemens PLM Software megoldáspartnereként az A+B Solutions teljes körű megoldásokat kínál ügyfeleinek: a tanácsadástól kezdve a tervezésen és a projektkivitelezésen át egészen a rendszerintegrációig és a szervizelésig.</p> <p>Az A+B Solutions megoldásai számos alkalmazáshoz biztosítanak interfészt, és minden fejlesztési, megrendelési és gyártási adat központi csomópontjaként egységes és átfogó adatstruktúrát hoznak létre. Az A+B Solutions a ZOLLER fejlesztési partnere a rendszereink Siemens NX és Teamcenter rendszerekhez való csatlakoztatásában.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/0/0/csm_logo_a_b_8d5dbcb371.webp",
+            "alt": "",
+            "w": 193,
+            "h": 125,
+            "href": "http://www.aplusb-solutions.com/"
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2884",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Balluff",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Több mint 50 éves érzékelőgyártási tapasztalatával a Balluff GmbH ma az ipari automatizálás területén az egyik leghatékonyabb és világszerte vezető érzékelőtechnológiai gyártó. Kifinomult technológia és a legmodernebb elektronika – saját, tanúsított laboratóriumunkban alaposan tesztelve –, alkalmazásspecifikus ügyfélmegoldások, valamint személyre szabott tanácsadás és első osztályú szolgáltatás jellemzik a Stuttgart melletti Neuhausen a.d.F.-ben székhellyel rendelkező vállalatot. Mindezt 2050 munkatársunk biztosítja itthon és külföldön egyaránt.</p> <p>A Balluff és a ZOLLER a szerszámkódolás és a szerszámazonosítás révén együttműködik a szerszámadatok átvitelének területén.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/c/d/csm_logo_balluff_2ac5adb7b9.webp",
+            "alt": "",
+            "w": 388,
+            "h": 54,
+            "href": "http://www.balluff.com"
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2913",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Camaix Kft.",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A Camaix cég formagyártás, gépgyártás és járműgyártás területén nyújt szolgáltatásokat, és különösen az elmúlt években az űrhajózási technológiával, valamint a komplex 5- és 6-tengelyes megmunkálással foglalkozott, és ehhez speciális megoldásokat fejlesztett ki.</p> <p>A ZOLLER szerszámkezelő rendszerhez tartozó, egyszerűen és intuitív módon kezelhető Mastercam-felület lehetővé teszi, hogy a Mastercam programban az összeszerelt szerszámok aktuális geometriájával programozzunk, és az adatokat szimulációhoz és ütközésellenőrzéshez használjuk fel.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/f/2/csm_logo_camaix_b573ef8fd2.webp",
+            "alt": "",
+            "w": 271,
+            "h": 109
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2912",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Camtek Kft.",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A stuttgarti Weinstadtban található Camtek GmbH-t 1993-ban alapították a PEPS CAD/CAM-rendszer kizárólagos forgalmazójaként. Neves gép- és vezérlőgyártókkal szoros együttműködésben fejlesztik a kiváló minőségű utómunkáló programokat, és folyamatosan tökéletesítik a két rendszert.</p> <p>A ZOLLER kényelmes és egyszerűen kezelhető interfészt kínál a PEPS CAD/CAM rendszerhez.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/2/e/csm_logo_camtek_6110635aba.webp",
+            "alt": "",
+            "w": 283,
+            "h": 59
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2914",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Delcam",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A Delcam világszerte az egyik vezető fejlesztője és forgalmazója a gyártóipar számára készült modern CAD/CAM, valamint eszközfüggetlen 3D mérőszoftvereknek. Ma a Delcam az Egyesült Királyság legnagyobb CAD/CAM-szoftverfejlesztője, és fióktelepekkel rendelkezik Észak-Amerikában, Európában és Ázsiában. A Delcam termékeit több mint 80 országban, több mint 50 000 vállalat használja. A Delcam termékei között megtalálható többek között a világszerte vezető CAM-szoftver, a PowerMILL. A PowerMILL és a ZOLLER TMS Tool<br/><br/>Management Solutions közötti interfészen keresztül kényelmesen hozzáférhet a kiterjedt ZOLLER-adatbázishoz.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/0/7/csm_logo_delcam_4072b1d63b.webp",
+            "alt": "delcam logo",
+            "w": 388,
+            "h": 123
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2915",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "DP Technology",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A DP Technology a számítógépes gyártást támogató (CAM) szoftverek egyik vezető gyártója és szállítója a gyártóipar széles körében. Az ESPRIT, a DP Technology fő terméke, egy rendkívül nagy teljesítményű és kiváló minőségű NC-programozó rendszer maráshoz, fúráshoz, esztergáláshoz, szikraforgácsoláshoz, valamint olyan multifunkciós gépekhez is, mint például a maró-esztergáló központok.</p> <p>A ZOLLER TMS szerszámkezelési megoldásokhoz tartozó, egyszerűen és intuitív módon kezelhető ESPRIT CAM felület lehetővé teszi a szerszámadatok egyszerű cseréjét.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/0/7/csm_logo_esprit_0628a45021.webp",
+            "alt": "",
+            "w": 324,
+            "h": 114
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2916",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Virtuális Gibbs",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A Virtual Gibbs egy nagy teljesítményű, rugalmas CAM-szoftver, amely jelentősen leegyszerűsíti a CNC-programozást. A felhasználóbarát felület növeli a termelékenységet, így ideális választás CNC-programozók, megmunkáló szakemberek és mérnökök számára. A 2D-től az 5 tengelyes marásig, esztergálásig, MTM-ig és szikraforgácsolásig terjedő támogatással a Virtual Gibbs gyors és megbízható programozást tesz lehetővé. A Virtual Gibbs a vezető CAM-megoldás komplex, többcsatornás megmunkáló központok programozásához. A Virtual Gibbs ZOLLER-interfészének köszönhetően a szerszámok központilag és egyszerre kerülnek létrehozásra, ami biztosítja a hatékonyságot és a konzisztenciát.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/b/4/csm_logo_virtual_gibbs_bed09f00c2.webp",
+            "alt": "",
+            "w": 421,
+            "h": 94
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2917",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Hermle",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A Hermle megmunkáló központok szerszámok, formák és sorozatgyártott alkatrészek hatékony megmunkálására szolgálnak. Minőségüknek és nagy pontosságuknak köszönhetően számtalan gyártási területen alkalmazzák őket, különösen olyan igényes iparágakban, mint az orvostechnika, az optikai ipar, a repülőgép- és autóipar, a szerszám- és formagyártás, valamint ezek beszállítói.<br/><br/>A ZOLLER beállító és mérőműszerek opcionálisan rendelkeznek interfésszel a Hermle megmunkáló központokhoz.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/0/e/csm_logo_Hermle_4efcfb7fff.webp",
+            "alt": "",
+            "w": 253,
+            "h": 115
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2918",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Ingersoll",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Az Ingersoll forgácsoláshoz használt, cserélhető lapokkal felszerelt szabványos és egyedi szerszámokat fejleszt és gyárt. A szerszámokat világszerte használják, többek között az autóiparban és a gépgyártásban. A standard program mellett az Ingersoll az ügyfelei igényeinek megfelelően igényes megoldásokat is fejleszt és tervez.<br/><br/>A ZOLLER az Ingersoll-lal együttműködve többek között egy újszerű koncepciót fejlesztett ki a cserélhető lapokkal felszerelt hengerlő- és fogformázó marók műhelyben történő ellenőrzésére és mérésére.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/5/d/csm_logo_ingersoll_52703a0545.webp",
+            "alt": "",
+            "w": 355,
+            "h": 86
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2919",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "KOMET CERATIZIT CSOPORT",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Innovatív szerszámkoncepcióival és a furatmegmunkáláshoz kínált átfogó megoldásaival a <i>KOMET</i> CERATIZIT GROUP világszerte technológiai vezetőnek számít. A KOMET ügyfelei különösen nagyra értékelik a jövőbe mutató szolgáltatásokat, az egyedülálló műszaki támogatást, a gyakorlatias szakmai szemináriumokat, valamint a fúráshoz, dörzsárazáshoz és menetvágáshoz kínált prémium minőségű szerszámokat.</p> <p>A ZOLLER megoldásokat kínál a <i>KOMET</i> CERATIZIT GROUP szerszámainak beállításához és méréséhez.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/f/f/csm_logo_KOMET_CERATIZIT_a820d40e25.webp",
+            "alt": "",
+            "w": 317,
+            "h": 81
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2920",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "KROMI",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A KROMI Logistik AG a hazai és külföldi gyártóvállalatok számára a precíziós szerszámok beszerzésének teljes körű kiszervezését kínálja. A hangsúly a fém- és műanyagmegmunkáláshoz szükséges, műszakilag igényes marószerszámokon van.<br/><br/>A TMS Tool Management Solutions SILVER csomag magában foglalja a KROMI-hoz való csatlakozási felületet.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/6/0/csm_logo_kromi_86af58d78f.webp",
+            "alt": "",
+            "w": 354,
+            "h": 141
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2921",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "MAKINO",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A MAKINO a szerszámgépipar egyik vezető technológiai és szolgáltatójaként ismert. Termékpalettája magában foglalja az alkatrészgyártáshoz, valamint a szerszám- és formagyártáshoz szükséges megmunkáló központokat, amelyek széles körű alkalmazási területekkel rendelkeznek a repülőgép- és űrhajózási ipar, az autóipar, a mezőgazdasági és építőipari gépek, az általános gépgyártás és a mikrotechnológia területén.</p> <p>A ZOLLER beállító és mérőműszerei opcionálisan rendelkeznek interfésszel a MAKINO megmunkáló központokhoz.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/1/4/csm_logo_makino_691cf9493b.webp",
+            "alt": "",
+            "w": 368,
+            "h": 127
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2922",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "moldtech Kft.",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A CAD/CAM – TopSolid termékcsalád alapján a MOLDTECH megoldásokat kínál a megmunkálóipar számára. A TopSolid termékcsaládhoz kapcsolódó szolgáltatásokkal a Moldtech segíti a felhasználókat abban, hogy a tervezés és a gyártás során felmerülő igényes feladatokat gyorsabban és hatékonyabban oldják meg.</p> <p>A ZOLLER szerszámkezelő rendszerhez kapcsolódó, egyszerűen és intuitív módon kezelhető TopSolid‘Cam interfész lehetővé teszi, hogy a TopSolid‘Cam programban az összeszerelt szerszámok aktuális geometriáival programozzon, és az adatokat szimulációhoz és ütközésellenőrzéshez használja fel.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/b/c/csm_logo_moldtech_5c18924e61.webp",
+            "alt": "",
+            "w": 443,
+            "h": 92
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2923",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "MTS Rt.",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Az MTS AG világszerte fejleszt és forgalmaz szoftvereket CNC-csiszológépekhez. A „tool-kit PROFESSIONAL” termék világszerte elismert szoftver a szakemberek számára egyszerűtől a komplex munkadarabok gyártásához és utóélezéséhez.<br/><br/>A ZOLLER beállító és mérőműszerei interfészt biztosítanak az MTS szoftvermegoldásával felszerelt szerszámcsiszológépekhez.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/5/7/csm_logo_mts_baec1b20bf.webp",
+            "alt": "",
+            "w": 149,
+            "h": 81
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2924",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "NUM",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A NUM CNC-vezérlőket és azokhoz illeszkedő szoftvermegoldásokat gyárt. A szerszámcsiszolás területén a NUM a NUMROTOplus szoftverrel piacvezető.<br/><br/>A ZOLLER beállító és mérőműszerei interfészt biztosítanak a NUMROTOplus szoftverrel felszerelt szerszámcsiszoló gépekhez.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/b/b/csm_logo_num_000273b7d7.webp",
+            "alt": "",
+            "w": 302,
+            "h": 89
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2925",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Okuma",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Az Okuma innovatív szerszámgépek vezető gyártója, széles és lenyűgöző termékválasztékkal. Ez magában foglalja a rendkívül pontos és robusztus NC-esztergákat, a multifunkciós gépeket és a kiváló OSP-vezérléssel felszerelt megmunkáló központokat.</p> <p>A ZOLLER beállító és mérőműszerei opcionálisan interfészt kínálnak az Okuma szerszámgépekhez.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/2/d/csm_logo_okuma_b30dbed8b5.webp",
+            "alt": "",
+            "w": 372,
+            "h": 89
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2926",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Nyitott gondolkodás",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Az OPEN MIND Technologies AG innovatív CAM/CAD-megoldásokat fejleszt és forgalmaz, amelyek digitális modellek alapján optimális NC-maró- és esztergálási programokat generálnak szerszámgépekhez. A legkülönbözőbb iparágak gyártói világszerte az OPEN MIND termékek mellett döntenek, mert azok segítségével gazdaságosan és hatékonyan tudnak gyártani. Így lenyűgöző minőségű modellek, prototípusok, szerszámok, formák, prizmás munkadarabok, integrált alkatrészek és még sok más készül el.</p> <p>A ZOLLER TMS Tool Management Solutions rendszerhez kapcsolódó hyperMILL® interfészen keresztül kényelmesen hozzáférhet a kiterjedt ZOLLER adatbázishoz.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/c/1/csm_logo_openmind_51569ef80f.webp",
+            "alt": "",
+            "w": 415,
+            "h": 75
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2927",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "OPUS",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Az OPUS<sup>®</sup> több mint 30 éve nyújt feladatorientált megoldásokat a CAM, MDE és DNC területeken. A közel 1000 vállalatnál végrehajtott, jóval több mint 4000 telepítés önmagáért beszél. Az OPUS®-t pontosan a gyártási követelményekhez igazítják, és a felhasználókkal közösen fejlesztik tovább.<br/><br/>A ZOLLER TMS Tool Management Solutions rendszerhez kapcsolódó, egyszerűen és intuitív módon kezelhető OPUS interfész lehetővé teszi az adatok egyszerű átvitelét a ZOLLER adatbázis és az OPUS CAM-rendszer között.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/b/7/csm_logo_opus_087bc57d09.webp",
+            "alt": "",
+            "w": 158,
+            "h": 78
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2928",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "zsákok",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A Saacke, egy több mint 100 éves hagyományokkal rendelkező innovatív családi vállalkozás, világszerte irányadó szerepet tölt be a szerszámélező gépek, valamint a fogazó- és profilozó szerszámok területén.<br/><br/>A ZOLLER beállító és mérőműszerei opcionálisan interfészt kínálnak a Saacke szerszámélező gépekhez.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/1/5/csm_logo_saacke_0310abbe36.webp",
+            "alt": "",
+            "w": 129,
+            "h": 114
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2929",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Siemens Industry Software Kft.",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A Siemens PLM Software, a Siemens Digital Factory divízió egyik üzleti egysége, a termékéletciklus-kezelés (PLM) és a gyártási folyamatok kezelése (MOM) területén világszerte vezető szoftver-, rendszer- és szolgáltatásszolgáltató, több mint 15 millió licencelt felhasználóval és világszerte több mint 140 000 ügyféllel.</p> <p>A ZOLLER, mint a Siemens Software &amp; Technology Partner, interfészeket kínál a Siemens Teamcenterhez a tervezett és tényleges adatok átvitelére a ZOLLER beállító, mérő és ellenőrző készülékéről a szerszámgépre, valamint a Siemens NX termékfejlesztési és gyártási integrált szoftvercsomaghoz a TMS Tool Management Solutions-szel való biztonságos adatcseréhez a ZOLLER z.One szerszámadatbázison keresztül.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/7/1/csm_logo_siemens_7bc6805809.webp",
+            "alt": "",
+            "w": 235,
+            "h": 114
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2930",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "SOFLEX",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A SOFLEX vezette be az első rugalmas gyártási rendszereket Németországban, és a Stuttgarti Egyetem spin-off vállalkozásaként a kezdetektől fogva jelen van ebben az izgalmas és kihívásokkal teli iparágban. 1984 óta a vezérlőrendszerek, beleértve a cellák és a gyártás irányítását, jelentik a vállalat alapvető kompetenciáját. A SOFLEX értékes impulzusokat kap egy széles körű egyetemi és felsőoktatási hálózattól.<br/><br/>A ZOLLER beállító és mérőberendezés tartalmaz egy interfészt a SOFLEX-hez, így a tervezési megbízások átkerülnek a ZOLLER berendezésre. Ezenkívül a beállító és mérőberendezés a ZOLLER-SOFLEX-PCS interfészen keresztül teljesen automatikusan lekérdezi a szerszámigény-listát. A ZOLLER beállító és mérőberendezésen végzett beállítás után a mért adatok közvetlenül továbbításra kerülnek a SOFLEX-PCS rendszerbe, majd a SOFLEX-PCS a szerszám betöltésekor továbbítja a szerszámadatokat a gépnek.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/1/3/csm_logo_soflex_01b48cd0dc.webp",
+            "alt": "",
+            "w": 246,
+            "h": 72
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2931",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "SolidCAM Kft.",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A SolidCAM a világ egyik vezető integrált CAD/CAM-rendszer-szolgáltatója, amely hatékony CAM-programozást biztosít a gépiparban, az elektronikai, orvosi, fogyasztási cikkek, géptervezés, autóipar és repülőgépipar területén, valamint a formák és szerszámok gyártásában. A SolidCAM SolidCAM és InventorCAM termékeivel zökkenőmentes integrációt kínál a SolidWorks és az Autodesk Inventor szoftverekbe. A forradalmian új, szabadalmaztatott iMachining technológiával és a SolidCAM MillTurn plus szoftverrel a szoftver a CNC-alkalmazások teljes skáláját támogatja, egészen a komplex eszterga-maró központokig és hosszú esztergákig.<br/>Több mint 75 munkatárs nyolc telephelyen és három technológiai központban biztosítja a kompetens felhasználói támogatást és az első osztályú helyszíni műszaki szolgáltatást az egész ország területén.<br/><br/>A ZOLLER szerszámkezeléshez tartozó, egyszerűen és intuitív módon kezelhető SolidCAM felület a TMS Tool Management Solutions segítségével kényelmes hozzáférést biztosít a kiterjedt ZOLLER szerszámadatbázishoz. A maráshoz, esztergáláshoz és esztergálás-maráshoz szükséges komplett szerszámok 3D szerszámadatokként közvetlenül a SolidCAM-ban használhatók szimulációhoz és ütközésellenőrzéshez.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/d/8/csm_logo_solidcam_9711414196.webp",
+            "alt": "",
+            "w": 317,
+            "h": 70
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2932",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Takisawa Machine Tool Co. Ltd.",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A szerszámgépgyártó 1922-es alapítása óta a TAKISAWA úttörő szellemiségével és szenvedélyével nyeri meg a felhasználókat. Hatalmas tapasztalati tőkéjével és közel 100 éves hagyományával a TAKISAWA ma számos innovatív és technológiailag fejlett terméket kínál.</p> <p>A ZOLLER interfészt biztosít a szerszámadatok TAKISAWA-hoz történő átviteléhez.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/a/6/csm_logo_takisawa_ee8c24d2ee.webp",
+            "alt": "",
+            "w": 381,
+            "h": 41
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2935",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Tebis AG",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A Tebis AG a CAD/CAM és MES terület globális piac- és technológiai vezetőjei közé tartozik. A Tebis szoftverek segítségével az ügyfelek hatékonyan, biztonságosan és kiváló minőségben terveznek, szerveznek és gyártanak magas színvonalú modelleket, formázó szerszámokat és alkatrészeket. A gyakorlati tapasztalattal rendelkező tanácsadói és implementációs szakértőkből álló csapatok stratégiákat dolgoznak ki a hatékony és biztonságos CAD/CAM-folyamatokhoz, ezeket megvalósítják az ügyfeleknél, és így biztosítják a tartós technológiai és versenyelőnyt. A München közelében, Martinsriedben székhellyel rendelkező vállalat világszerte 9 Tebis-fióktelepet, valamint további 8 országban kereskedelmi képviseleteket tart fenn. Az automatizálás több mint 30 éve a Tebis sikerének titka. Ügyfelei számára a Tebis az Ipar 4.0 felé vezető út úttörőjeként tekinti magát.</p> <p>A ZOLLER TMS Tool Management Solutions rendszerhez kapcsolódó, egyszerűen és intuitív módon kezelhető Tebis interfész lehetővé teszi a szerszámadatok és beállítási lapok – beleértve az egyes alkatrészeket és a komplett szerszámokat is – egyszerű átvitelét a ZOLLER z.One szerszámadatbázis és a Tebis CAM-rendszer között.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/d/e/csm_logo_tebis_2cbb64c1c1.webp",
+            "alt": "",
+            "w": 323,
+            "h": 114
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2933",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Vollmer",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A 14 telephellyel rendelkező Vollmer Csoport széles körű gépparkjával világszerte sikeresen működik a gyártásban és a szervizelésben a szerszámmegmunkálás szakértőjeként. A technológiai piacvezető termékpalettája a fa- és fémfeldolgozó ipar számára a legmodernebb csiszoló-, szikraforgácsoló és megmunkáló gépeket, valamint kör- és szalagfűrészeket tartalmaz.</p> <p>ZOLLER beállító és mérőműszerek – tökéletes hálózati összeköttetés a Vollmer csiszológépekhez.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/0/2/csm_logo_vollmer_174ffc994c.webp",
+            "alt": "",
+            "w": 439,
+            "h": 116
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2934",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "A DSC Software AG-ról",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A TÁRSAD INTEGRÁLT PLM-MEGOLDÁSOK TERÉN</p> <p>Mi, a DSC Software AG-nál szenvedélyesen dolgozunk azon, hogy összehozzuk az embereket, a folyamatokat és a rendszereket. Szívünk az Ön termékadataiért dobog.</p> <p>Hadd ragadjon magával az integráció iránti lelkesedésünk! Innovatív, emberközpontú és partneri szellemben kísérjük Önt digitális stratégiájának konkrét megvalósításában: az SAP-t használjuk üzleti folyamatai központi digitális adatbázisaként, amelyet pontosan illeszkedő, bevált gyakorlatokon alapuló megoldások egészítenek ki.</p> <p>Hosszú évek óta tartó SAP-partnerként kiváló hálózattal rendelkező és tapasztalt társra lelhet mellettünk. A DSC csapata összesen több mint 1100 évnyi PLM-szakértelemmel rendelkezik, és egyetlen célja van: a legjobb megoldást kidolgozni az Ön egyedi kihívásaira. Hogy zseniális ötleteit még gyorsabban okos termékekké alakíthassa, és jövőbiztos maradjon.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/1/a/csm_logo_dsc_software_40e1276b00.webp",
+            "alt": "",
+            "w": 246,
+            "h": 92
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2936",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c2854",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2852",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/hu/vallalat/profil/partner",
+ "de_path": "/unternehmen/profil/partner"
+}

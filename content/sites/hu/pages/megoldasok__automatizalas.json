@@ -1,0 +1,493 @@
+{
+ "path": "/megoldasok/automatizalas",
+ "url": "/hu/megoldasok/automatizalas",
+ "title": "Automatizálás",
+ "description": "Automatizálás",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Megoldások /",
+   "href": "/hu/megoldasok"
+  },
+  {
+   "label": "Automatizálás",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Megoldások /",
+   "href": "/hu/megoldasok"
+  },
+  {
+   "label": "Automatizálás",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/automation",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/automation",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/automatizacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/automatisation",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/automacao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/automazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/automatisering",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/automation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/automation",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/automatisation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E8%87%AA%E5%8B%95%E5%8C%96",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%9E%90%EB%8F%99%ED%99%94",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/automation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/automatizacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/automacao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/01_Pages/Solutions/Automation/zoller_automation_komp.mp4",
+     "title": "Automatizálás",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c2805",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "subnav",
+   "title": "Automatizálás",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Logisztika",
+     "href": "/hu/megoldasok/automatizalas/logisztika",
+     "current": false
+    },
+    {
+     "label": "Szerszámok előkészítése",
+     "href": "/hu/megoldasok/automatizalas/szerszamok-elokeszitese",
+     "current": false
+    },
+    {
+     "label": "Szerszámok biztosítása",
+     "href": "/hu/megoldasok/automatizalas/szerszamok-biztositasa",
+     "current": false
+    },
+    {
+     "label": "Szerszámellenőrzés",
+     "href": "/hu/megoldasok/automatizalas/szerszamellenorzes",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c2273",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>A ZOLLER Automation Solutions számos dolgot másképp és sokkal jobban csinál. A szerszámgyártási folyamatok hatékonyságát a csúcsra emeli.</h3>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2271",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>A ZOLLER Automation Solutions automatizálja a szerszámokkal kapcsolatos összes folyamatot. A beállító- és mérőberendezéshez tartozó asszisztensrobottól kezdve az új »coraMeasure LG« portálmegoldáson át egészen a gyártócsarnok teljes automatizálásáig – beleértve a gépek betöltését is – a ZOLLER-rel minden lehetséges. Építse fel most lépésről lépésre saját intelligens gyárát! </strong></p> <p>Az automatizálás növeli a gazdaságosságot. Megkönnyíti a szakemberek munkáját a szerszámok összeszerelése vagy a CNC-géphez való szállítása során. Csökkenti a költségeket, biztosítja a szerszámok rendelkezésre állását és növeli a termelékenységet. </p> <p>A ZOLLER Automation Solutions segítségével rugalmasan automatizálhat. Minden megoldás egymásba illeszkedik, és a teljes gyártási szintet, az összes CNC-géppel együtt figyelembe veszi. </p> <p><a class=\"btn\" href=\"/hu/termekek/automatizalas\">Termékek megtekintése</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2270",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2272",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "quotes",
+   "header": "",
+   "slides": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/8/5/csm_toolBalancer_Alexander_Zoller2_7bc76f629f.webp",
+      "alt": ""
+     },
+     "text": "<p class=\"extra-large-text\">Legfőbb ideje modernizálni a gyártási folyamatokban használt szerszámok rendelkezésre állását. A ZOLLER moduláris automatizálási koncepciója minden gyártóüzem számára megnyitja az utat az intelligens gyár felé. </p> <p><strong>Alexander Zoller, ügyvezető igazgató</strong></p>",
+     "right": true,
+     "quote": true,
+     "dark": true
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/2/7/csm_toolBalancer_Christoph_Zoller2_490ea1f2a5.webp",
+      "alt": ""
+     },
+     "text": "<p class=\"extra-large-text\">A ZOLLER Automation Solutions a következő logikus lépés az Ön számára. Növelje gyártásának hatékonyságát innovatív technológiák segítségével.</p> <p><strong>Christoph Zoller, ügyvezető igazgató</strong></p>",
+     "right": false,
+     "quote": true,
+     "dark": true
+    }
+   ],
+   "ftype": "zoller_slider-full-width",
+   "id": "c2269",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "A hatékony gyártás érdekében",
+    "A gépek maximális termelékenysége érdekében",
+    "A szerszámok folyamatos rendelkezésre állása érdekében, a nap 24 órájában"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c2268",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Előny a nagyobb gazdaságosság révén </h2>",
+   "body": "<p><strong>Számos gyártóüzem termelékenysége csökken, mert a magasan képzett munkatársaknak rutinmunkákat kell elvégezniük. Ha a szerszámok összeszerelését, összeállítását és szállítását a ZOLLER Automation Solutions segítségével automatizálja, csökkentheti ezt a költségigényes időráfordítást.</strong></p> <p>Használja ki optimálisan szakembereinek rendelkezésre álló idejét. Foglalkoztassa szakértőit produktívan úgy, hogy tudásukat és tapasztalatukat ott kamatoztatja, ahol az elengedhetetlen. Gyártási termelékenysége és nyeresége növekedni fog.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/1/csm_kosteneffizienz_einzel_en_01_a17aa14a5e.webp",
+     "alt": "",
+     "w": 1097,
+     "h": 1097
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c2267",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Szerszámadatokkal történő automatizálás </h2>",
+   "body": "<p>Átgondolt szerszámkezelő rendszerünk, amely számos interfésszel és funkcióval rendelkezik, különösen egyszerűvé teszi az adatközpontú automatizálást. A ZOLLER z.One adatbázisban és a ZOLLER webTMS szoftverben tökéletesen rendszerezett szerszámadatok segítségével asztali számítógépről vagy mobil eszközről is megtervezheti és kezelheti gyártási folyamatainak automatizálását.</p> <p>További információk</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/c/6/csm_software_automation_en_7ad0d9045a.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c2266",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Automatizálási megoldások </h2>",
+   "items": [
+    {
+     "href": "/hu/termekek/automatizalas/szerszamlogisztika/coralogistic",
+     "title": "»coraLogistic«",
+     "text": "<p>Szállítási feladatokhoz a szerszámraktár, a szerszámelőkészítés és a CNC-gép között</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/0/csm_coraLogistics_preview_8cd4f5bccb.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/automatizalas/szerszamok-elokeszitese/corameasure-lg",
+     "title": "»coraMeasure LG«",
+     "text": "<p>Gazdaságos szerszámkezelés a ZOLLER venturionhoz</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/automatizalas/szerszamok-biztositasa/loadbox",
+     "title": "»loadBox«",
+     "text": "<p>A megrendeléseknek megfelelően összeállítja a szerszámokat, és átadja azokat a logisztikai részlegnek</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/5/3/csm_loadBox_preview_c2695dfc22.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/automatizalas/szerszamok-elokeszitese/robobox",
+     "title": "»roboBox«",
+     "text": "<p>Akár hat modul olyan rutinműveletekhez, mint a szerelés, tisztítás, mérés, zsugorítás és egyebek</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/a/csm_roboBox_preview_f71dd04107.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/automatizalas/szerszamlogisztika/coramachineload",
+     "title": "»coraMachineLoad«",
+     "text": "<p>Pontos és pontos szerszámkezelés a logisztika és a gépi raktár között</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/e/csm_coraMaschineLoad_preview_7ffc6574e3.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/automatizalas/szerszamok-elokeszitese/micbox",
+     "title": "»micBox«",
+     "text": "<p>A forgácsolóbetétek forgatását, megfordítását és cseréjét végzi</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/6/a/csm_micbox_preview_ff03cd31af.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c2265",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_zoller_system_teaser_a6e5d69871.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Kezdje a megoldással – lépjen be a rendszerbe.",
+     "href": "/hu/a-rendszer",
+     "caption": "<figcaption> <h3>Kezdje a megoldással – lépjen be a rendszerbe.</h3> <p>Ügyfeleink élvezik azoknak a holisztikus megoldásoknak az előnyeit, amelyeket már évtizedek óta fejlesztünk. Az eredmény: kiváló hatékonyság. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 szakértői beszélgetés",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 szakértői beszélgetés</h3> <p>Személyre szabott megbeszélés az Ön céljairól és az azokhoz kapcsolódó ötleteinkről. A ZOLLER online tanácsadása közvetlenül a Smart Factory-ból. Foglaljon időpontot most! </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/hu/megoldasok/automatizalas",
+ "de_path": "/solutions/automation"
+}

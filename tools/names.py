@@ -1,4 +1,4 @@
-"""Produktnamen in den Länderfassungen reparieren (Kanada EN/FR, Mexiko ES, USA EN).
+"""Produktnamen in den Länderfassungen reparieren (alle Sprachen außer Deutsch).
 
 Die Länderfassungen von zoller.info sind maschinell übersetzt. Dabei wurden Markennamen teils mitübersetzt
 (»titanium« statt »titan«, »gardien« statt »keeper«, »hiperión« statt »hyperion«) und die deutschen Guillemets mit
@@ -6,6 +6,12 @@ den französischen/spanischen Anführungszeichen verschachtelt (»« cockpit »�
 »Hyperion 500/700,«). fix() bringt jeden Namen aus content/names.json auf die Schreibweise der deutschen Seite:
 »name«. Ein Name wird nur angefasst, wenn links UND rechts Guillemets stehen – Fließtext (»génie universel«,
 »aleaciones de titanio«) und Links (…/titanium/) bleiben unverändert.
+
+Regel (Nutzer, 2026-10-12): Produktnamen werden nie übersetzt, auch wenn zoller.info sie übersetzt hat. Seit 2026-10-12
+auch für it, pt, sv, pl, sl, cs, hu, sk, zh, ja, ko: übersetzte Namen (»tytan«, »målvakt«, »ハイペリオン«) zurück auf das
+Original, Artikel/Präpositionen aus den Guillemets heraus (»o roboSet 2« -> o »roboSet 2«), japanische/koreanische
+Partikel hinter die Guillemets (»geniusなら« -> »genius«なら), ungarische Endungen mit Bindestrich (»toolOrganizer 600-zal«
+-> »toolOrganizer 600«-zal), chinesische/japanische Anführungszeichen um Namen als »…« (“天才” -> »genius«).
 
 Genutzt von tools/build.py (Länderseiten) und zoller-produktumgebung-3d/tools/build_locale.py (3D-Showroom).
 """
@@ -16,7 +22,14 @@ import re
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = json.load(open(os.path.join(ROOT, "content", "names.json"), encoding="utf-8"))
 # Artikel, die die Übersetzung mit in die Guillemets gezogen hat (»du titane« -> du »titan«)
-ARTICLES = {"en": r"the|a|an", "fr": r"le|la|les|du|de|des|un|une", "es": r"el|la|los|las|un|una|de|del"}
+ARTICLES = {"en": r"the|a|an", "fr": r"le|la|les|du|de|des|un|une", "es": r"el|la|los|las|un|una|de|del",
+            "it": r"il|lo|la|i|gli|le|del|della|dello|nel|nella|nello|al|alla|con|un|una|uno",
+            "pt": r"o|a|os|as|do|da|dos|das|no|na|nos|nas|ao|pelo|pela|um|uma|com|para o|para a",
+            "sv": r"i|med|för|den|det", "pl": r"w|z|ze|do|na|dla|przez", "sl": r"v|z|s|na|za|pri",
+            "cs": r"v|ve|s|se|z|ze|pomocí|pro|na", "sk": r"v|vo|s|so|z|zo|pomocou|pre|na", "hu": r"a|az"}
+# Partikel, die die Übersetzung mit in die Guillemets gezogen hat (Japanisch, Koreanisch)
+PARTICLES = {"ja": r"では|には|から|まで|より|なら|は|を|が|の|に|で|と|も|へ",
+             "ko": r"에서는|에서|에는|으로|까지|은|는|이|가|을|를|에|의|로|와|과|도|만"}
 SEP = r"(?:\s|&nbsp;)+"
 _cache = {}
 
@@ -70,7 +83,7 @@ def _next_quote(s, i):
     return ""
 
 
-def _fix_names(s, rx, canon):
+def _fix_names(s, rx, canon, cjk=False):
     out, pos = [], 0
     for m in rx.finditer(s):
         a, b = m.span("name")
@@ -115,6 +128,9 @@ def _fix_names(s, rx, canon):
         trail_ws = " " if post and (post[-1].isspace() or (nxt_word and k < len(s))) else ""
         if trail_ws and k < len(s) and s[k] in ",.;:!?)":
             trail_ws = "" if s[k] != ":" else " "
+        if cjk:   # Chinesisch, Japanisch, Koreanisch: Leerzeichen nur, wo der Text schon eines hatte
+            lead_ws = ""
+            trail_ws = " " if post and post[-1].isspace() and k < len(s) and (s[k] in "»«" or (s[k].isascii() and s[k].isalnum())) else ""
         art = m.group("art") or ""
         new = lead_ws + art + "»" + _canonical(m.group("name"), canon) + "«" + punct + trail_ws
         out.append(s[pos:start])
@@ -215,21 +231,42 @@ def _balance_part(part, strict):
     return re.sub(r"(?<=\S) {2,}(?=\S)", " ", part)
 
 
+def _cjk_quotes(s, lang):
+    """“天才” / 「ハイペリオン」 um einen Produktnamen -> »…« (wie auf der deutschen Seite)."""
+    canon = _setup(lang)[1]
+    def rep(m):
+        inner = m.group(2).strip()
+        return f"»{inner}«" if _key(inner) in canon else m.group(0)
+    return re.sub(r"([“「])([^“”「」<>]{1,40})([”」])", rep, s)
+
+
+def _particles(s, lang, canon):
+    """»geniusなら« -> »genius«なら, »zidCode 4.0을« -> »zidCode 4.0«을."""
+    rx = re.compile(r"»([^«»<]{1,40}?)\s*(" + PARTICLES[lang] + r")«")
+    return rx.sub(lambda m: f"»{m.group(1)}«{m.group(2)}" if _key(m.group(1)) in canon else m.group(0), s)
+
+
 def fix(s, lang):
     """Produktnamen in einem Text (auch HTML) der Sprache lang ("en", "fr", "es") reparieren."""
-    if not isinstance(s, str) or not s or lang not in ("en", "fr", "es"):
+    if not isinstance(s, str) or not s or lang == "de":
         return s
     s = s.replace("﻿", "")
+    if lang in ("zh", "ja", "ko") and ("“" in s or "「" in s):
+        s = _cjk_quotes(s, lang)
     if "»" not in s and "«" not in s:
         return s
     rx, canon, wrx = _setup(lang)
+    if lang in PARTICLES:
+        s = _particles(s, lang, canon)
+    if lang == "hu":
+        s = re.sub(r"»([^«»<]{1,40}?)-([a-záéíóöőúüű]{1,6})«", lambda m: f"»{m.group(1)}«-{m.group(2)}" if _key(m.group(1)) in canon else m.group(0), s)
     s = re.sub(r"»threadCheck«(\s*[❘|]\s*cc)", r"»threadCheck\1", s)
     if wrx:
         s = wrx.sub(lambda m: m.group(1) + " ", s)
-    s = _fix_names(s, rx, canon)
+    s = _fix_names(s, rx, canon, cjk=lang in ("zh", "ja", "ko"))
     s = _extend(s.replace("»»", "»").replace("««", "«"), canon)
-    # streng: Englisch (keine französischen/spanischen Zitate) und kurze Texte ohne HTML (Tabellenzellen, Titel)
-    return _balance(s, strict=lang == "en" or ("<" not in s and len(s) <= 120))
+    # streng: Englisch, Chinesisch, Japanisch, Koreanisch (keine »«-Zitate) und kurze Texte ohne HTML (Tabellenzellen, Titel)
+    return _balance(s, strict=lang in ("en", "zh", "ja", "ko") or ("<" not in s and len(s) <= 120))
 
 
 RENAMES = json.load(open(os.path.join(ROOT, "content", "renames.json"), encoding="utf-8"))
@@ -238,7 +275,10 @@ RENAMES = json.load(open(os.path.join(ROOT, "content", "renames.json"), encoding
 def rename_path(src, path):
     """Neue Adresse einer Seite der Sprachfassung src (content/renames.json, auch für Unterseiten):
     …/titanium -> …/titan. Pfade ohne Sprachpräfix, andere Pfade bleiben unverändert. Deutsche Seite: src "" -> "de"."""
-    for old, new in RENAMES.get(src or "de", {}).items():
+    # längster passender Eintrag zuerst: …/ベンチュリオン/モデル/トリボス -> …/venturion/モデル/tribos
+    for old, new in sorted(RENAMES.get(src or "de", {}).items(), key=lambda kv: -len(kv[0])):
+        if old.startswith("_"):
+            continue
         if path == old or path.startswith(old + "/"):
             return new + path[len(old):]
     return path

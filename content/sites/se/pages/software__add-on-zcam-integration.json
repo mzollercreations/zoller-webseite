@@ -1,0 +1,610 @@
+{
+ "path": "/software/add-on-zcam-integration",
+ "url": "/se/software/add-on-zcam-integration",
+ "title": "Add-on »z.CAM Integration«",
+ "description": "Add-on »z.CAM Integration« - Utökar systemet med kraftfulla gränssnitt och integrerar verktygsdata direkt i arbetsflödet - Effektiv arbetsflöde",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Produkter /",
+   "href": "/se/produkter"
+  },
+  {
+   "label": "Verktygshantering /",
+   "href": "/se/produkter/verktygshantering"
+  },
+  {
+   "label": "Software /",
+   "href": "/se/software"
+  },
+  {
+   "label": "Add-on »z.CAM Integration«",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Produkter /",
+   "href": "/se/produkter"
+  },
+  {
+   "label": "Verktygshantering /",
+   "href": "/se/produkter/verktygshantering"
+  },
+  {
+   "label": "Software /",
+   "href": "/se/software"
+  },
+  {
+   "label": "Add-on »z.CAM Integration«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/software/add-on-zcam-integration",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/software/add-on-zcam-integration",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/software/add-on-zcam-integration",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/software/add-on-zcam-integration",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/software/add-on-zcam-integration",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/software/add-on-zcam-integration",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/software/add-on-zcam-integration",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/software/add-on-zcam-integration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/software/zcam-integration-add-on",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/software/add-on-zcam-integration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/software/add-on-zcam-integration",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/software/add-on-zcam-integration",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/software/add-on-zcam-integration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/software/add-on-zcam-integration",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/software/add-on-zcam-integration",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Software",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/se/software",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "»TMS Core«",
+     "href": "/se/software/tms-core",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Stock«",
+     "href": "/se/software/add-on-zstock",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.CAM Integration«",
+     "href": "/se/software/add-on-zcam-integration",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Resources«",
+     "href": "/se/software/add-on-zresources",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Shopfloor«",
+     "href": "/se/software/add-on-zshopfloor",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Connectivity«",
+     "href": "/se/software/add-on-zconnectivity",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Integration«",
+     "href": "/se/software/add-on-zintegration",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c164325",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Effektiv arbetsflöde </h3> <h1> Add-on »z.CAM Integration« </h1>",
+   "body": "<p>ZOLLER TMS med <strong>tilläggsprogrammet »z.CAM Integration«</strong> utökar systemet med kraftfulla gränssnitt och integrerar verktygsdata direkt i arbetsflödet. DIN/ISO-egenskaper, den integrerade 2D- och 3D-redigeraren samt teknikdata säkerställer entydiga och fullständiga verktygsdefinitioner. NC-programhanteringen och mer än 25 CAM-gränssnitt möjliggör en sömlös processintegration. Tydliga verktygsstrukturer förkortar CAM-programmeringen och inställningstiderna samt ökar processäkerheten.</p> <p><a class=\"btn\" href=\"/se/foeretag/kontakt\">Request now</a> <a href=\"https://myzoller.com/us/en/expert/booking/\" rel=\"noopener\" target=\"_blank\">1:1 expert meeting</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/6/csm_zCAM_Integration_product_067b00c254.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 852
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c164374",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Standardiserad datainmatning enligt DIN/ISO ",
+    "Digital tillverkningskompetens genom teknikdata ",
+    "Mindre behov av samordning mellan CAM och tillverkning"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c164379",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "table",
+   "header": "<h2> Add-on »z.CAM Integration« </h2>",
+   "table": "<table> <tbody> <tr> <td> </td> <td class=\"text-center\"> Webbläsare </td> <td class=\"text-center\"> Skrivbordsprogram </td> </tr> <tr> <td> DIN/ISO-egenskaper </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> 2D- och 3D-redigerare </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Tekniska data </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> NC-tolkar </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> NC-programhantering </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> CAM-gränssnitt (25+) </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ⦿ </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c164384",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p>● Grundversion ⦿ valfritt <strong>―</strong> ej tillgängligt </p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c164423",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/1/csm_TMS_Sachmerkmalleiste_a61a88c016.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>Egenskapsförteckning enligt DIN 4000 och ISO 13399</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/7/6/csm_TMS_Komplettdaten_9c30b59c48.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>Fullständiga data för varje verktyg i form av 2D-/3D-grafik</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/a/1/csm_TMS_Werkzeugzusammenbau_84446bd1b9.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>Grafisk sammanställning av alla verktygskomponenter</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_TMS_NC-Programmverwaltung_6190c9d218.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>Hantering av NC-program, inklusive versionshantering samt dubbelriktad dataöverföring till och från maskinen</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164389",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Add-on »z.CAM Integration« </h3> <h2> Processplus </h2>",
+   "body": "<p class=\"large-text\">Tillägget ger en mätbar avkastning på investeringen tack vare kortare genomloppstider.</p> <p class=\"large-text\">Tillägget tillhandahåller centrala, konsistenta verktygsdata för CAM, NC och tillverkning utan versionskonflikter.</p> <p class=\"large-text\">Tillägget integreras smidigt i befintliga system och växer i takt med dina behov.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/9/csm_zCAM_Integration_benefit_EN_009e476788.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c164394",
+   "bg": "image",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/3/6/csm_zCAM_Integration_Feature_01_0e2954f648.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "title": "CAM-gränssnitt",
+     "caption": "<figcaption> <h3>CAM-gränssnitt</h3> <p>CAM-gränssnitt med användarvänliga gränssnitt</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/3/csm_zCAM_Integration_Feature_02_ac22df714b.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "title": "DIN 4000/ISO 13399",
+     "caption": "<figcaption> <h3>DIN 4000/ISO 13399</h3> <p>För en entydig beskrivning av verktyg</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164399",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Urval av stödjande CAM-system </h2>",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/e/csm_ZOLLER-CAM-System_autodesk_powermill_c2fdcfa1b7.webp",
+     "alt": "PowerMill-gränssnittet kopplar samman ZOLLER TMS direkt med CAM-programmeringen. Verktygsdata och 3D-geometrier hanteras centralt och görs automatiskt tillgängliga i PowerMill.",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.autodesk.com/"
+    },
+    {
+     "src": "/fileadmin/_processed_/5/1/csm_ZOLLER-CAM-System_topsolid_58be78cf00.webp",
+     "alt": "Integrationen med TopSolid kopplar samman verktygsdatabasen och CAM-programmeringen. Användarna har alltid tillgång till godkända verktyg och aktuella teknikdata från ZOLLER TMS.",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.topsolid.com/"
+    },
+    {
+     "src": "/fileadmin/_processed_/5/8/csm_ZOLLER-CAM-System_peps_749f7a18b8.webp",
+     "alt": "PEPS-integrationen kopplar samman ZOLLER TMS med CAM-programmeringen för en mängd olika bearbetningsmetoder. Verktygsdata hanteras centralt och tillhandahålls automatiskt.",
+     "w": 376,
+     "h": 167,
+     "href": "https://apic.de/"
+    },
+    {
+     "src": "/fileadmin/_processed_/8/b/csm_ZOLLER-CAM-System_siemens_ee72b3958f.webp",
+     "alt": "ZOLLER TMS-gränssnittet till Siemens NX tillhandahåller verktygsdata, 3D-geometrier och bearbetningsparametrar centralt. På så sätt arbetar konstruktionsavdelningen, CAM-programmeringen och tillverkningen alltid med identiska verktygsdata.",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.siemens.com/de-de/products/cad-cam-software/"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/d/csm_ZOLLER-CAM-System_virtual_gibbs_648f71fb1d.webp",
+     "alt": "Anslutningen till Virtual Gibbs möjliggör direkt åtkomst till centrala verktygsdata från ZOLLER TMS. Verktygskonfigurationer och teknikdata integreras på ett enhetligt sätt i programmeringsprocessen.",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.gibbscam.com/"
+    },
+    {
+     "src": "/fileadmin/_processed_/0/f/csm_ZOLLER-CAM-System_camworks_e762945d8a.webp",
+     "alt": "Tack vare integrationen med CAMWorks finns aktuella verktygsdata direkt tillgängliga i CAM-miljön. ZOLLER TMS säkerställer en central databas och minskar behovet av manuell uppdatering.",
+     "w": 376,
+     "h": 167,
+     "href": "https://camworks.com/"
+    },
+    {
+     "src": "/fileadmin/_processed_/d/a/csm_ZOLLER-CAM-System_hexagon_0b224a447b.webp",
+     "alt": "ZOLLER TMS integrerar verktygsdata med CAM-systemen EDGECAM, WORKNC och ALPHACAM. Enhetlig verktygsinformation underlättar programmering, simulering och tillverkning i alla system.",
+     "w": 376,
+     "h": 167,
+     "href": "https://hexagon.com/"
+    },
+    {
+     "src": "/fileadmin/_processed_/7/0/csm_ZOLLER-CAM-System_solidcam_90a00592f2.webp",
+     "alt": "Det direkta gränssnittet mellan ZOLLER TMS och SolidCAM överför automatiskt verktygsdata, 3D-geometrier och bearbetningsparametrar. Fräs-, svarv- och kombinerade fräs- och svarvprocesser drar nytta av enhetlig verktygsinformation.",
+     "w": 376,
+     "h": 167,
+     "href": "https://solidcam.com/"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/8/csm_ZOLLER-CAM-System_cgtech_vericut_c95699a054.webp",
+     "alt": "",
+     "w": 376,
+     "h": 167,
+     "href": "https://vericut.com/"
+    },
+    {
+     "src": "/fileadmin/_processed_/7/a/csm_ZOLLER-CAM-System_autodesk_featurecam_b0f04a2941.webp",
+     "alt": "ZOLLER TMS tillhandahåller FeatureCAM-kompatibla verktygsdata och verktygsmodeller. På så sätt kopplas programmering och verktygshantering samman på ett effektivt sätt.",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.autodesk.com/"
+    },
+    {
+     "src": "/fileadmin/_processed_/1/7/csm_ZOLLER-CAM-System_cimatron_ad4747e7b9.webp",
+     "alt": "ZOLLER TMS kombinerar verktygshantering och CAM-programmering i Cimatron. Verktygsdata hanteras centralt och finns tillgängliga för säker NC-programmering.",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.cimatron.com/"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/5/csm_ZOLLER-CAM-System_esprit_2aeeb378ff.webp",
+     "alt": "Genom integrationen med ESPRIT tillhandahåller ZOLLER TMS centrala verktygsdata för fräsning, svarvning och flerkanalsbearbetning. Enhetliga verktygsdata ökar processäkerheten vid NC-programmeringen.",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.espritcam.com/"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/2/csm_ZOLLER-CAM-System_hypermill_b46e28c353.webp",
+     "alt": "ZOLLER TMS synkroniserar verktygsdata med hyperMILL och tillhandahåller identiska verktygsmodeller för programmering, simulering och tillverkning.",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.openmind-tech.com"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/3/csm_ZOLLER-CAM-System_tebis_c502d5fafb.webp",
+     "alt": "ZOLLER TMS levererar fullständiga verktygsdata till Tebis, inklusive 3D-geometrier och verktygskonstruktioner. På så sätt samordnas programmering, simulering och tillverkning på ett optimalt sätt.",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.tebis.com"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/6/csm_ZOLLER-CAM-System_ptccreo_a21f494310.webp",
+     "alt": "ZOLLER TMS kopplar samman verktygsdata med CAD/CAM-miljön i PTC Creo. Enhetliga verktygsmodeller underlättar en effektiv planering och programmering.",
+     "w": 376,
+     "h": 167,
+     "href": "https://ptc-solutions.de"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/e/csm_ZOLLER-CAM-System_ncgcam_7289d6d989.webp",
+     "alt": "Med NCG CAM-gränssnittet tillhandahåller ZOLLER TMS enhetliga verktygsdata och verktygsgeometrier för programmeringen. Detta minskar antalet fel och standardiserar processerna.",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.ncgcam.com"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/9/csm_ZOLLER-CAM-System_bscatia_e77d082089.webp",
+     "alt": "",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.3ds.com/products/catia"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/3/csm_ZOLLER-CAM-System_opus_4c21c05760.webp",
+     "alt": "Tack vare integrationen med OPUS CAM finns verktygsdata från ZOLLER TMS direkt tillgängliga för NC-programmering. En centraliserad datahantering minskar underhållsarbetet och höjer datakvaliteten.",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.opus-cam.de"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/1/csm_ZOLLER-CAM-System_mastercam_57acba4b57.webp",
+     "alt": "Genom integrationen med Mastercam tillhandahåller ZOLLER TMS centrala verktygsdata för NC-programmering. Verktygsgeometrier och processdata hämtas automatiskt och hålls uppdaterade.",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.mastercam.com/"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/4/csm_ZOLLER-CAM-System_eureka_0edf08affb.webp",
+     "alt": "",
+     "w": 376,
+     "h": 167,
+     "href": "https://www.eureka-sim.com/"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 5,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164414",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/9/csm_TMS_teaser_46de18cb11.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Verktygshantering: Fördelarna för er",
+     "href": "/se/loesningar/tool-management",
+     "caption": "<figcaption> <h3>Verktygshantering: Fördelarna för er</h3> <p>Upptäck hur ZOLLER:s verktygshantering omedelbart ökar er produktivitet. Med verktygsdata går processerna snabbare och säkrare – inklusive kollisionsskydd för era maskiner. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164343",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/se/software/add-on-zcam-integration",
+ "de_path": "/produkte/toolmanagement/software/add-on-zcam-integration"
+}

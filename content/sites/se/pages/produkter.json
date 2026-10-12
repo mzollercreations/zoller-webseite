@@ -1,0 +1,438 @@
+{
+ "path": "/produkter",
+ "url": "/se/produkter",
+ "title": "Produkter",
+ "description": "Produkter - Produktöversikt",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Produkter",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Produkter",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/02_Products/_Overview/zoller_solutions_header_02.mp4",
+     "title": "Välj din väg till framgång",
+     "kicker": "",
+     "text": "<p>Ökad effektivitet med ZOLLER Solutions</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4402",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Produktöversikt </h2>",
+   "body": "<p class=\"extra-large-text\"><strong>ZOLLER Solutions är nyckeln till din framtid – vi hjälper dig att nå större framgång. Den som tillverkar snabbare och effektivare arbetar mer lönsamt och kan därmed investera i framtiden. Om ekonomisk utveckling är ditt mål är ZOLLER din partner.</strong></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4399",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "productlist",
+   "filters": {
+    "solutions": [
+     {
+      "value": "259",
+      "label": "Inställning och mätning",
+      "selected": false
+     },
+     {
+      "value": "251",
+      "label": "Verktygshantering",
+      "selected": false
+     },
+     {
+      "value": "254",
+      "label": "Kontrollera & mäta",
+      "selected": false
+     },
+     {
+      "value": "253",
+      "label": "Automatisering",
+      "selected": false
+     },
+     {
+      "value": "250",
+      "label": "Krympteknik",
+      "selected": false
+     },
+     {
+      "value": "252",
+      "label": "Verktygshållare",
+      "selected": false
+     },
+     {
+      "value": "249",
+      "label": "Balanseringsteknik",
+      "selected": false
+     }
+    ],
+    "tool": [
+     {
+      "value": "1055",
+      "label": "Borrverktyg",
+      "selected": false
+     },
+     {
+      "value": "1175",
+      "label": "Kapsfräs",
+      "selected": false
+     },
+     {
+      "value": "1127",
+      "label": "Svarvverktyg",
+      "selected": false
+     },
+     {
+      "value": "1247",
+      "label": "Vrid- och urborrverktyg",
+      "selected": false
+     },
+     {
+      "value": "1139",
+      "label": "Fräsverktyg",
+      "selected": false
+     },
+     {
+      "value": "1151",
+      "label": "Verktyg för finborrning",
+      "selected": false
+     },
+     {
+      "value": "1067",
+      "label": "Gängverktyg",
+      "selected": false
+     },
+     {
+      "value": "1199",
+      "label": "Verktyg för hög prestanda",
+      "selected": false
+     },
+     {
+      "value": "1187",
+      "label": "Vevaxelfräs",
+      "selected": false
+     },
+     {
+      "value": "1223",
+      "label": "Precisionsverktyg",
+      "selected": false
+     },
+     {
+      "value": "1163",
+      "label": "Planfräsar",
+      "selected": false
+     },
+     {
+      "value": "1115",
+      "label": "Plan-, hörn- och finbearbetningsknivhuvuden",
+      "selected": false
+     },
+     {
+      "value": "1079",
+      "label": "Reibahlen",
+      "selected": false
+     },
+     {
+      "value": "1271",
+      "label": "Slipskivor",
+      "selected": false
+     },
+     {
+      "value": "1091",
+      "label": "Sågblad",
+      "selected": false
+     },
+     {
+      "value": "1235",
+      "label": "Verktyg för stenbearbetning",
+      "selected": false
+     },
+     {
+      "value": "1103",
+      "label": "Skaftverktyg",
+      "selected": false
+     },
+     {
+      "value": "1211",
+      "label": "Kuggtillverkningsverktyg",
+      "selected": false
+     }
+    ]
+   },
+   "rows": [
+    {
+     "title": "",
+     "items": [
+      {
+       "href": "/se/produkter/instaellning-och-maetning",
+       "title": "Inställning och mätning",
+       "text": "Minska inställningstiderna med 40 % eller mer.",
+       "img": {
+        "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/se/produkter/verktygshantering",
+       "title": "Verktygshantering",
+       "text": "Samordna processer, säkerställa kvaliteten och tillverka snabbare.",
+       "img": {
+        "src": "/fileadmin/_processed_/3/3/csm_toolmanagement_preview_7889eaddc9.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/se/produkter/kontrollera-maeta",
+       "title": "Kontrollera & mäta",
+       "text": "Dokumentera kvaliteten och skapa digitala tvillingar.",
+       "img": {
+        "src": "/fileadmin/_processed_/0/d/csm_genius_1_5b500df8d2.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/se/produkter/automatisering",
+       "title": "Automatisering",
+       "text": "Flexibel, modulär automatisering för skärverktyg.",
+       "img": {
+        "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/se/produkter/krympteknik",
+       "title": "Krympteknik",
+       "text": "Montering och demontering av verktyg på rekordtid.",
+       "img": {
+        "src": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_506ab0ccb9.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/se/produkter/verktygshaallare",
+       "title": "Verktygshållare",
+       "text": "Verktygshållare med »idChip« – den perfekta gränssnittet för din digitala tillverkning.",
+       "img": {
+        "src": "/fileadmin/_processed_/4/8/csm_ToolingSolutions_preview_7b8d14560e.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/se/produkter/balanseringsteknik",
+       "title": "Balanseringsteknik",
+       "text": "Skona spindlarna, säkerställ kvaliteten: med marknadens bästa balanseringsmaskiner.",
+       "img": {
+        "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "src_path": "/se/produkter",
+ "de_path": "/produkte"
+}

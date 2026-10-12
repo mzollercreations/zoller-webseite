@@ -1,0 +1,426 @@
+{
+ "path": "/spolocnost/kariera",
+ "url": "/sk/spolocnost/kariera",
+ "title": "Kariéra",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/sk/domovska-stranka"
+  },
+  {
+   "label": "Spoločnosť /",
+   "href": "/sk/spolocnost"
+  },
+  {
+   "label": "Kariéra",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/sk/domovska-stranka"
+  },
+  {
+   "label": "Spoločnosť /",
+   "href": "/sk/spolocnost"
+  },
+  {
+   "label": "Kariéra",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/karriere",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/carrera-profesional",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/carriere",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/carreira",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/carriera",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/karriaer",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/karriere",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/career",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/carriere",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EC%B1%84%EC%9A%A9-%EC%A0%95%EB%B3%B4",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/career",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/carrera-profesional",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/carreira",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/2/8/csm_carreer_header_0aa181ca44.webp",
+     "video": null,
+     "title": "Práca v spoločnosti ZOLLER",
+     "kicker": "",
+     "text": "<p>Svetový líder s rodinnou atmosférou – začiatok tvojej kariéry v spoločnosti ZOLLER.</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4050",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "subnav",
+   "title": "Kariéra",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Ponuky práce",
+     "href": "/sk/spolocnost/kariera/ponuky-prace",
+     "current": false
+    },
+    {
+     "label": "Často kladené otázky",
+     "href": "/sk/spolocnost/kariera/casto-kladene-otazky",
+     "current": false
+    },
+    {
+     "label": "Žiadosť",
+     "href": "/sk/spolocnost/kariera/ziadost",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c4066",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Hľadáme odborníkov! </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c4048",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>Práca v rodinnom podniku:</h4> <p>ZOLLER je rodinná firma, ktorá vyvíja a vyrába inovatívne nastavovacie a meracie zariadenia, softvér na meranie, kontrolu a správu obrábacích nástrojov, ako aj príslušné automatizačné riešenia. Vďaka technologickým inováciám, vysokému dôrazu na kvalitu a aktívnemu prístupu k službám sme si zabezpečili miesto medzi svetovou špičkou. Za náš úspech vďačíme približne 400 zamestnancom spoločnosti ZOLLER v centrále v Pleidelsheime pri Štutgarte, ako aj viac ako 400 kolegom v pobočkách a zastúpeniach na 85 miestach po celom svete.</p> <h4>Zaujímavé oblasti pôsobnosti:</h4> <p>Ponúkame náročné a pestré úlohy, krátke rozhodovacie cesty, ako aj možnosti podieľať sa na tvorbe a ďalšom rozvoji. Či už ide o odbornú prípravu alebo o zamestnanca so skúsenosťami – staňte sa súčasťou tímu ZOLLER.</p> <h4>Medzinárodné prostredie:</h4> <p>V spoločnosti ZOLLER je blízkosť k zákazníkom nielen sľubom, ale realitou: v 62 krajinách máme lokálne zastúpenie v oblasti predaja a servisu.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c4049",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4047",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Odborná príprava v spoločnosti ZOLLER </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c26164",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<ul><li>Špecialista v oblasti informačných technológií pre vývoj aplikácií</li><li>Špecialista v oblasti IT pre systémovú integráciu</li><li>Obchodník v priemysle</li><li>Mechatronik</li><li>Technický produktový dizajnér – konštrukcia strojov a zariadení</li></ul><p><a href=\"/fileadmin/01_Pages/Company/Career/DE/ZOLLER_BR_Karriere_BRKARRIERE_00_DE.pdf\" rel=\"noopener\" target=\"_blank\"><img alt=\"\" height=\"263\" loading=\"lazy\" src=\"/fileadmin/01_Pages/Company/Career/DE/ZOLLER_Ausbildung.jpg\" title=\"\" width=\"150\"/></a></p> <p><a class=\"link-arrow\" href=\"/fileadmin/01_Pages/Company/Career/DE/ZOLLER_BR_Karriere_BRKARRIERE_00_DE.pdf\" rel=\"noopener\" target=\"_blank\">Brožúra o odbornom vzdelávaní (PDF)</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c26172",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c26156",
+   "bg": "lightgray",
+   "space": {
+    "before": "extra-small",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Duálne štúdium v spoločnosti ZOLLER </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c26188",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<ul><li>Data Science a umelá inteligencia</li><li>Informatika</li><li>Informatika – informačné technológie</li><li>Strojárstvo – konštrukcia a vývoj</li><li>Hospodárske inžinierstvo – všeobecné hospodárske inžinierstvo</li></ul>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c26196",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c26180",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/0/csm_teaser_profile_bf2693bd59.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "O spoločnosti ZOLLER",
+     "href": "/sk/spolocnost/profil",
+     "caption": "<figcaption> <h3>O spoločnosti ZOLLER</h3> <p>S menom ZOLLER je úzko spojený tím pozostávajúci z viac ako 800 ľudí, množstvo inovácií a tradičné hodnoty rodinného podniku.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/4/csm_teaser_media_f7299d9c84.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Médiá",
+     "href": "/sk/spolocnost/media",
+     "caption": "<figcaption> <h3>Médiá</h3> <p>Tu nájdete tlačové správy, oznámenia o produktoch, účasť na veľtrhoch, články z odborných časopisov a<br/> archív noviniek.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/b/csm_teaser_reports_90bbbeda0a.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Správy a články",
+     "href": "/sk/spolocnost/spravy-a-pribehy",
+     "caption": "<figcaption> <h3>Správy a články</h3> <p>Čo sa deje v spoločnosti ZOLLER a čo hovoria naši zákazníci o práci s riešeniami ZOLLER? Tu nájdete najnovšie informácie.</p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c26310",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/sk/spolocnost/kariera",
+ "de_path": "/unternehmen/karriere"
+}

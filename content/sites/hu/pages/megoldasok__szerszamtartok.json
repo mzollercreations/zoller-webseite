@@ -1,0 +1,572 @@
+{
+ "path": "/megoldasok/szerszamtartok",
+ "url": "/hu/megoldasok/szerszamtartok",
+ "title": "Szerszámtartók",
+ "description": "Szerszámtartók",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Megoldások /",
+   "href": "/hu/megoldasok"
+  },
+  {
+   "label": "Szerszámtartók",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Megoldások /",
+   "href": "/hu/megoldasok"
+  },
+  {
+   "label": "Szerszámtartók",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/werkzeugaufnahmen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/tooling-solutions",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/portaherramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/fixation-doutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/porta-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/soluzioni-dutensileria",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/verktygshaallare",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/werkzeugaufnahmen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/tooling-solutions",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/porte-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B7%A5%E5%85%B7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/tooling-solutions",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/porta-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/porta-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Szerszámtartók",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "GYIK",
+     "href": "/hu/megoldasok/szerszamtartok/gyik",
+     "current": false
+    },
+    {
+     "label": "Információs központ",
+     "href": "/hu/megoldasok/szerszamtartok/informacios-koezpont",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1418",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "product_header",
+   "title": "Szerszámmegoldások",
+   "text": "<p>A szerszámtartó: a digitális gyártás tökéletes összekötő<br/>eleme</p> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">Vásároljon most</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/d/c/csm_header_tooling_79126defc9.webp",
+    "alt": "",
+    "w": 1428,
+    "h": 896
+   },
+   "ftype": "zoller_product_header",
+   "id": "c1416",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Az intelligens megoldások mellett állunk </h2>",
+   "body": "<p>Szerszámtartók ZOLLER »idChip«-pel. Kérésére minden szerszámtartót beépített chip-pel és DataMatrix-kóddal szállítunk. Ezzel bármikor egyértelműen azonosíthatja szerszámtartóit, és mindenről tájékozódhat: a fűtési ciklusok számáról, a gépen végzett bevetésekről és még sok minden másról. A szerszámtartó fontos funkcionális felületeinek, például a keményforgatott befogóvállaknak és a hajtóhornyoknak a kivitelezése garantálja a hosszú élettartamot és a legmagasabb pontosságot a megmunkálási folyamatban. Fenntartható, gazdaságos: ez a jövő.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/7/csm_zoller_smarte_solutions_171a2dc46c.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1417",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Összekapcsolt folyamatok",
+    "Precíziós garancia",
+    "Minden egy kézből"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c1419",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> Megbízhatóság a legmagasabb szintű pontosság érdekében </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/7/6/csm_ts_pin_modul_03_be3bbbf942.webp",
+    "alt": "",
+    "w": 1540,
+    "h": 630
+   },
+   "spots": [
+    {
+     "x": 23.533,
+     "y": 10.226,
+     "label": "Chipfurat",
+     "text": "<h3>Chipfurat</h3> <h4>Chip-furat</h4> <p>Adathordozók, például RFID-chipek vagy ZOLLER »idChipek« rögzítéséhez a ZOLLER Tooling szerszámfogadókon. Alapfelszereltségként az HSK-A üreges kúpos, az SK meredek kúpos és a PSC sokszögletű kúpos szerszámoknál.</p> <h4>ZOLLER »idChip«</h4> <p>A szerszámtartók egyértelmű azonosításához és a maximális termékélettartam biztosításához. Kérésére a szerszámtartókat kiegyensúlyozva, beépített chip-pel ellátva közvetlenül a gyártóüzemébe is szállítjuk.</p> <h4>3-hornyos technológia</h4> <p>A szerszámtartó chipfuratában a ragasztó biztosítja a formazárást a biztonságos és szilárd rögzítés érdekében.</p>"
+    },
+    {
+     "x": 48.478,
+     "y": 43.161,
+     "label": "Négy menet",
+     "text": "<h3>Négy menet</h3> <h4>Négy menet</h4> <p>Szabványos zsugorító befogók utólagos finomkiegyensúlyozásához.</p>"
+    },
+    {
+     "x": 71.685,
+     "y": 51.793,
+     "label": "Hosszú zsugorító illesztés",
+     "text": "<h3>Hosszú zsugorító illesztés</h3> <h4>Hosszú zsugorító illesztés bevezető sugárral</h4> <p>Garantálja a maximális zsugorítóerőt, köszönhetően a szerszámnak a szár teljes hosszán kifejtett feszültségének.</p>"
+    },
+    {
+     "x": 13.641,
+     "y": 52.722,
+     "label": "bevezető váll",
+     "text": "<h3>bevezető váll</h3> <h4>Keményen utómunkált befogóváll</h4> <p>Garantálja a feszítőelemek optimális csúszását a feszítővállon és a kiváló feszességet az orsóban. Ennek eredményeként a feszítővállon a körkörös eltérés legfeljebb 10 μm (5-ször pontosabb, mint a DIN előírása).</p>"
+    },
+    {
+     "x": 82.12,
+     "y": 56.972,
+     "label": "Körkörös eltérések",
+     "text": "<h3>Körkörös eltérések</h3> <h4>Körkörös eltérési tűréshatárok</h4> <p>A Tooling Solutions &lt; 3 µm-es körkörös eltérést garantál.</p>"
+    },
+    {
+     "x": 24.674,
+     "y": 82.47,
+     "label": "Finomkiegyensúlyozott",
+     "text": "<h3>Finomkiegyensúlyozott</h3> <h4>Finomkiegyensúlyozott</h4> <p><strong>Minden ZOLLER Tooling szerszámtartó finomkiegyensúlyozott</strong> – G2,5 25 000 min<sup>-1-</sup>nél vagy max. maradék egyensúlyhiány ≤ 1 gmm. Ez biztosítja a megmunkálás során az orsó csendes, csapágykímélő futását. Önök az orsó hosszabb élettartamából, az optimális munkadarab-felületből és a szerszámok hosszabb élettartamából profitálnak.</p>"
+    },
+    {
+     "x": 8.533,
+     "y": 36.919,
+     "label": "hajtóhornyok",
+     "text": "<h3>hajtóhornyok</h3> <h4>Keményen utómegmunkált vezetőhornyok</h4> <p>Garantálják a hornyok 100%-os középső elhelyezkedését, a tökéletes illeszkedést az orsóban, valamint a kiváló nyomatékátvitelt.</p>"
+    },
+    {
+     "x": 23.478,
+     "y": 36.521,
+     "label": "kibocsátási felület",
+     "text": "<h3>kibocsátási felület</h3> <h4>Keményre megmunkált kilökőfelület</h4> <p>Garantálja a HSK szerszámfoglalat biztonságos kioldását szerszámcsere során.</p>"
+    },
+    {
+     "x": 75.707,
+     "y": 75.697,
+     "label": "»coolTool«",
+     "text": "<h3>»coolTool«</h3> <h4>»coolTool«</h4> <p>A szerszámvágóél tökéletes hűtése, az forgács optimális elvezetése és a forgács felhalmozódásának elkerülése érdekében. A hűtőfolyadék-furatok ferde elhelyezkedése garantálja, hogy a hűtőfolyadék oda jusson, ahol szükség van rá: a szerszámvágóélre. Ezzel optimális megmunkálási eredményeket érhet el, és meghosszabbíthatja szerszámai élettartamát.</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c1420",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Tipikus ZOLLER – minden egy kézből </h2>",
+   "body": "<p>A ZOLLER új termékek fejlesztése során mindig egy lépéssel előrébb jár, és ezzel a jövőre szabott megoldásokat hoz létre. Nem csupán mérőgépeink esetében követjük ezt az elvet már évtizedek óta. Készüljön fel a holnap digitális kihívásaira, és készüljön fel a jövő intelligens gyárára – a ZOLLER Tooling Solutions megoldásainkkal.</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/IRXINmkUTkk?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Tooling Solutions – Tooling Heroes"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1421",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> A ZOLLER megoldásai a hatékony gyártásért </h2>",
+   "body": "<p>Használja ki a ZOLLER Tooling Solutions megoldásainkat a gyártási folyamat hatékonyságának növelése érdekében. Megmunkálási feladatokhoz teljes körű, nagy teljesítményű és rendkívül pontos szerszámbefogó rendszerek választékát kínáljuk. A ZOLLER Tooling Solutions emellett tökéletes kapcsolódási pontot biztosít a digitális gyártáshoz.</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/xmsnaIc1TvI?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Tooling Solutions – The Perfect Interface for Your Digital Manufacturing"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1422",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "66-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Több mint 2000 felvétel </h2>",
+      "body": "<p>A ZOLLER Tooling Solutions teljes körű szerszámtartó-kínálatot biztosít az Ön megmunkálási folyamatának minden igényéhez. Minden szerszámtartónk következetesen meghaladja a DIN-szabvány követelményeit.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2063",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "none"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-2cols",
+   "id": "c2064",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/a/7/csm_ts_schrumpffutter_06c2dea98b.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Shrink fit chuck",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:shrink-fit-holder",
+     "caption": "<figcaption> <h3>Shrink fit chuck</h3> <p>For clamping tools with cylindrical shank made of carbide or HSS.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/7/csm_ts_spannzangenfutter_eb7fca68dc.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Collet chuck",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:collet-chuck",
+     "caption": "<figcaption> <h3>Collet chuck</h3> <p>For clamping tools with cylindrical shank in ER collets.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_ts_weldonaufnahmen_9c7a361d17.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Weldon mounts",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:endmill-holder-weldon",
+     "caption": "<figcaption> <h3>Weldon mounts</h3> <p>Ideally suited for the use of tools without internal coolant supply.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_ts_whistle-notch-aufnahmen_b74918fa98.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Whistle-Notch recordings",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:endmill-holder-whistle-notch",
+     "caption": "<figcaption> <h3> Whistle-Notch recordings</h3> <p>For clamping tools with cylindrical shank.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_ts_fuer_einschraubfraeser_e7d8ee83f6.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "For screw-in milling",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:thread-shank-adapter",
+     "caption": "<figcaption> <h3>For screw-in milling</h3> <p>For clamping tools with cylindrical shank.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/2/csm_ts_messerkopfaufnahmen_b76fed0d9d.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Cutter head holders",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:shell-mill-holder",
+     "caption": "<figcaption> <h3>Cutter head holders</h3> <p>For holding milling cutters with cross groove, with coolant supply to the cutting edges.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/a/csm_ts_kombidorne_48f13a98c4.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Combination mandrels",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:combi-shell-mill-holder",
+     "caption": "<figcaption> <h3>Combination mandrels</h3> <p>For holding milling cutters with longitudinal and transverse grooves.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/f/csm_ts_morsekegelaufnahme_6909dcbe8a.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Morse code recordings",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:morse-taper-adapter",
+     "caption": "<figcaption> <h3>Morse code recordings</h3> <p>For holding Morse taper tools with drive-out tabs to DIN 2288.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/2/csm_ts_kurzbohrfutter_3c9582d0e0.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Short drill chuck",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:drill-chuck",
+     "caption": "<figcaption> <h3>Short drill chuck</h3> <p>For clamping tools with cylindrical shank.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/5/1/csm_ts_hawk_eye_07abe1a0d5.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "HAWK EYE",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:hawk-eye",
+     "caption": "<figcaption> <h3>HAWK EYE</h3> <p>HAWK EYE® HPC precision ER collet chuck</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/2/csm_ts_er_collet_a62fe34c96.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "ER Collets",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:er-collet",
+     "caption": "<figcaption> <h3>ER Collets</h3> <p>ER &amp; ER «Mini» Collet chuck</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/a/b/csm_Schrumpfverlaenerungen_category_0b63e58178.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Shrink extensions",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:shrink-fit-extension",
+     "caption": "<figcaption> <h3>Shrink extensions</h3> <p>For holding tools with cylindrical shank.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/c/csm_ts_accessories_651f0aa893.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Accessories",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:accessories",
+     "caption": "<figcaption> <h3>Accessories</h3> <p>Sealing washers, clamping nuts</p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c1912",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Most Önön a sor – ne habozzon, ragadja meg az alkalmat! </h2>",
+   "body": "<p>Webáruházunkban mostantól a szerszámbefogó rendszerek teljes választéka elérhető. Találja meg egyszerűen, gyorsan és kényelmesen az Önnek legmegfelelőbb szerszámbefogót, és azonnal használja a rendelkezésre álló digitális ikertestét CAM- és szerszámkezelő rendszerében.</p> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">A szerszámboltba</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/d/csm_zum_myzoller_shop_704443f1bc.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1423",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/hu/megoldasok/szerszamtartok",
+ "de_path": "/solutions/werkzeugaufnahmen"
+}

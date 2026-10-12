@@ -1,0 +1,346 @@
+{
+ "path": "/academie",
+ "url": "/fr/academie",
+ "title": "Académie",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/fr/page-daccueil"
+  },
+  {
+   "label": "Académie",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/fr/page-daccueil"
+  },
+  {
+   "label": "Académie",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/academy",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/academy",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/academia",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/academie",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/academia",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/accademia",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/akademin",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/academy",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/academy",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/academie",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/academy",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/academia",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/academia",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/5/9/csm_myzoller_academy_header_42676cb222.webp",
+     "video": null,
+     "title": "ACADÉMIE",
+     "kicker": "",
+     "text": "<p>Le centre d'expertise disponible 24 h/24, 7 j/7</p>",
+     "buttons": [],
+     "light": true
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c3100",
+   "bg": "lightgray",
+   "space": {
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4><strong>Vous souhaitez tirer le meilleur parti de vos machines ?</strong></h4> <p class=\"large-text\">Notre Académie est disponible 24 heures sur 24, 7 jours sur 7, et regorge d'exemples pratiques, de conseils sur les produits et de connaissances d'experts. Nous aidons ainsi tout le monde, des apprentis aux employés expérimentés, à atteindre une qualité supérieure, une meilleure efficacité et des coûts faibles grâce à ZOLLER.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8251",
+   "bg": "",
+   "space": {
+    "before": "medium",
+    "after": "extra-small"
+   }
+  },
+  {
+   "type": "academy",
+   "filters": {
+    "Catégorie": [
+     "événement",
+     "produit",
+     "entraînement"
+    ],
+    "Solution": [
+     "automatisation",
+     "Réglage et mesure",
+     "Contrôler et mesurer",
+     "technique de rétrécissement",
+     "technique d'impact",
+     "gestion des outils",
+     "Fixation d'outil"
+    ],
+    "Search": []
+   },
+   "items": [
+    {
+     "href": "https://www.youtube.com/watch?v=4esLi8qbdp4",
+     "img": {
+      "src": "/fileadmin/_processed_/4/3/csm_ZOLLER_80th_Anniversary_Open_House_%E2%80%93_Ann_Arbor__MI_927baec342.png",
+      "alt": "ZOLLER_80th_Anniversary_Open_House_–_Ann_Arbor__MI.youtube",
+      "w": 1280,
+      "h": 720,
+      "title": "ZOLLER 80th Anniversary Open House – Ann Arbor, MI"
+     },
+     "title": "ZOLLER 80th Anniversary Open House – Ann Arbor, MI",
+     "text": "<a href=\"https://www.youtube.com/watch?v=4esLi8qbdp4\" rel=\"noopener\" target=\"_blank\"> <img alt=\"ZOLLER_80th_Anniversary_Open_House_–_Ann_Arbor__MI.youtube\" height=\"720\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/3/csm_ZOLLER_80th_Anniversary_Open_House_%E2%80%93_Ann_Arbor__MI_927baec342.png\" title=\"ZOLLER 80th Anniversary Open House – Ann Arbor, MI\" width=\"1280\"/> </a> Tue., 24. March 2026 <h3> <a href=\"https://www.youtube.com/watch?v=4esLi8qbdp4\" rel=\"noopener\" target=\"_blank\">ZOLLER 80th Anniversary Open House – Ann Arbor, MI</a> </h3> événement"
+    },
+    {
+     "href": "https://www.youtube.com/watch?v=wRGQN0mcVwM",
+     "img": {
+      "src": "/fileadmin/_processed_/e/9/csm_ZOLLER_80th_Anniversary_VIP_Technology_Day_Tour_recap_4eddbaab22.png",
+      "alt": "ZOLLER_80th_Anniversary_VIP_Technology_Day_Tour_recap.youtube",
+      "w": 1280,
+      "h": 720,
+      "title": "ZOLLER 80th Anniversary VIP Technology Day Tour recap"
+     },
+     "title": "ZOLLER 80th Anniversary VIP Technology Day Tour recap",
+     "text": "<a href=\"https://www.youtube.com/watch?v=wRGQN0mcVwM\" rel=\"noopener\" target=\"_blank\"> <img alt=\"ZOLLER_80th_Anniversary_VIP_Technology_Day_Tour_recap.youtube\" height=\"720\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/9/csm_ZOLLER_80th_Anniversary_VIP_Technology_Day_Tour_recap_4eddbaab22.png\" title=\"ZOLLER 80th Anniversary VIP Technology Day Tour recap\" width=\"1280\"/> </a> Tue., 24. March 2026 <h3> <a href=\"https://www.youtube.com/watch?v=wRGQN0mcVwM\" rel=\"noopener\" target=\"_blank\">ZOLLER 80th Anniversary VIP Technology Day Tour recap</a> </h3> événement"
+    },
+    {
+     "href": "https://www.youtube.com/watch?v=N603JUzVJUM",
+     "img": {
+      "src": "/fileadmin/_processed_/2/d/csm_ZOLLER_at_IMTS_2024__7_solutions_to_improve_efficiency_68bcc75060.png",
+      "alt": "ZOLLER_at_IMTS_2024__7_solutions_to_improve_efficiency.youtube",
+      "w": 1280,
+      "h": 720,
+      "title": "ZOLLER at IMTS 2024: 7 solutions to improve efficiency"
+     },
+     "title": "ZOLLER at IMTS 2024: 7 solutions to improve efficiency",
+     "text": "<a href=\"https://www.youtube.com/watch?v=N603JUzVJUM\" rel=\"noopener\" target=\"_blank\"> <img alt=\"ZOLLER_at_IMTS_2024__7_solutions_to_improve_efficiency.youtube\" height=\"720\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/d/csm_ZOLLER_at_IMTS_2024__7_solutions_to_improve_efficiency_68bcc75060.png\" title=\"ZOLLER at IMTS 2024: 7 solutions to improve efficiency\" width=\"1280\"/> </a> Tue., 24. March 2026 <h3> <a href=\"https://www.youtube.com/watch?v=N603JUzVJUM\" rel=\"noopener\" target=\"_blank\">ZOLLER at IMTS 2024: 7 solutions to improve efficiency</a> </h3> événement"
+    },
+    {
+     "href": "https://www.youtube.com/watch?v=cJh_mzKHvgc",
+     "img": {
+      "src": "/fileadmin/_processed_/8/5/csm_ZOLLER_at_IMTS_2024__Thank_you_for_your_visit__ee02d640bb.png",
+      "alt": "ZOLLER_at_IMTS_2024__Thank_you_for_your_visit_.youtube",
+      "w": 1280,
+      "h": 720,
+      "title": "ZOLLER at IMTS 2024! Thank you for your visit!"
+     },
+     "title": "ZOLLER at IMTS 2024! Thank you for your visit!",
+     "text": "<a href=\"https://www.youtube.com/watch?v=cJh_mzKHvgc\" rel=\"noopener\" target=\"_blank\"> <img alt=\"ZOLLER_at_IMTS_2024__Thank_you_for_your_visit_.youtube\" height=\"720\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/5/csm_ZOLLER_at_IMTS_2024__Thank_you_for_your_visit__ee02d640bb.png\" title=\"ZOLLER at IMTS 2024! Thank you for your visit!\" width=\"1280\"/> </a> Tue., 24. March 2026 <h3> <a href=\"https://www.youtube.com/watch?v=cJh_mzKHvgc\" rel=\"noopener\" target=\"_blank\">ZOLLER at IMTS 2024! Thank you for your visit!</a> </h3> événement"
+    },
+    {
+     "href": "https://www.youtube.com/watch?v=4NszLdNNwwk",
+     "img": {
+      "src": "/fileadmin/_processed_/2/b/csm_ZOLLER_Better_together_with_ANCA_1d7c54f5e6.png",
+      "alt": "ZOLLER_Better_together_with_ANCA.youtube",
+      "w": 1280,
+      "h": 720,
+      "title": "ZOLLER Better together with ANCA"
+     },
+     "title": "ZOLLER Better together with ANCA",
+     "text": "<a href=\"https://www.youtube.com/watch?v=4NszLdNNwwk\" rel=\"noopener\" target=\"_blank\"> <img alt=\"ZOLLER_Better_together_with_ANCA.youtube\" height=\"720\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/b/csm_ZOLLER_Better_together_with_ANCA_1d7c54f5e6.png\" title=\"ZOLLER Better together with ANCA\" width=\"1280\"/> </a> Tue., 24. March 2026 <h3> <a href=\"https://www.youtube.com/watch?v=4NszLdNNwwk\" rel=\"noopener\" target=\"_blank\">ZOLLER Better together with ANCA</a> </h3>"
+    },
+    {
+     "href": "https://www.youtube.com/watch?v=_L8PVdcDOi4",
+     "img": {
+      "src": "/fileadmin/_processed_/e/3/csm_ZOLLER_Better_Together_with_Chiron_9dc5d9f13b.png",
+      "alt": "ZOLLER_Better_Together_with_Chiron.youtube",
+      "w": 1280,
+      "h": 720,
+      "title": "ZOLLER Better Together with Chiron"
+     },
+     "title": "ZOLLER Better Together with Chiron",
+     "text": "<a href=\"https://www.youtube.com/watch?v=_L8PVdcDOi4\" rel=\"noopener\" target=\"_blank\"> <img alt=\"ZOLLER_Better_Together_with_Chiron.youtube\" height=\"720\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/3/csm_ZOLLER_Better_Together_with_Chiron_9dc5d9f13b.png\" title=\"ZOLLER Better Together with Chiron\" width=\"1280\"/> </a> Tue., 24. March 2026 <h3> <a href=\"https://www.youtube.com/watch?v=_L8PVdcDOi4\" rel=\"noopener\" target=\"_blank\">ZOLLER Better Together with Chiron</a> </h3>"
+    },
+    {
+     "href": "https://www.youtube.com/watch?v=10NHggCTI_Q",
+     "img": {
+      "src": "/fileadmin/_processed_/f/4/csm_ZOLLER_Better_Together_with_Fastems_445cdf8170.png",
+      "alt": "ZOLLER_Better_Together_with_Fastems.youtube",
+      "w": 1280,
+      "h": 720,
+      "title": "ZOLLER Better Together with Fastems"
+     },
+     "title": "ZOLLER Better Together with Fastems",
+     "text": "<a href=\"https://www.youtube.com/watch?v=10NHggCTI_Q\" rel=\"noopener\" target=\"_blank\"> <img alt=\"ZOLLER_Better_Together_with_Fastems.youtube\" height=\"720\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/4/csm_ZOLLER_Better_Together_with_Fastems_445cdf8170.png\" title=\"ZOLLER Better Together with Fastems\" width=\"1280\"/> </a> Tue., 24. March 2026 <h3> <a href=\"https://www.youtube.com/watch?v=10NHggCTI_Q\" rel=\"noopener\" target=\"_blank\">ZOLLER Better Together with Fastems</a> </h3>"
+    },
+    {
+     "href": "https://www.youtube.com/watch?v=jOhDkpgZSeM",
+     "img": {
+      "src": "/fileadmin/_processed_/a/5/csm_ZOLLER_Pacific_Grand_Reopening___Technology_Days_839bc21814.png",
+      "alt": "ZOLLER_Pacific_Grand_Reopening___Technology_Days.youtube",
+      "w": 1280,
+      "h": 720,
+      "title": "ZOLLER Pacific Grand Reopening & Technology Days"
+     },
+     "title": "ZOLLER Pacific Grand Reopening & Technology Days",
+     "text": "<a href=\"https://www.youtube.com/watch?v=jOhDkpgZSeM\" rel=\"noopener\" target=\"_blank\"> <img alt=\"ZOLLER_Pacific_Grand_Reopening___Technology_Days.youtube\" height=\"720\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/5/csm_ZOLLER_Pacific_Grand_Reopening___Technology_Days_839bc21814.png\" title=\"ZOLLER Pacific Grand Reopening &amp; Technology Days\" width=\"1280\"/> </a> Tue., 24. March 2026 <h3> <a href=\"https://www.youtube.com/watch?v=jOhDkpgZSeM\" rel=\"noopener\" target=\"_blank\">ZOLLER Pacific Grand Reopening &amp; Technology Days</a> </h3> événement"
+    },
+    {
+     "href": "https://www.youtube.com/watch?v=DR7wZO8NW9Q",
+     "img": {
+      "src": "/fileadmin/_processed_/c/0/csm_ZOLLER__coraMeasure_LG__system_automates_tool_measuring_2dc085d51e.png",
+      "alt": "ZOLLER__coraMeasure_LG__system_automates_tool_measuring.youtube",
+      "w": 1280,
+      "h": 720,
+      "title": "ZOLLER »coraMeasure LG« system automates tool measuring"
+     },
+     "title": "ZOLLER »coraMeasure LG« system automates tool measuring",
+     "text": "<a href=\"https://www.youtube.com/watch?v=DR7wZO8NW9Q\" rel=\"noopener\" target=\"_blank\"> <img alt=\"ZOLLER__coraMeasure_LG__system_automates_tool_measuring.youtube\" height=\"720\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/0/csm_ZOLLER__coraMeasure_LG__system_automates_tool_measuring_2dc085d51e.png\" title=\"ZOLLER »coraMeasure LG« system automates tool measuring\" width=\"1280\"/> </a> Tue., 24. March 2026 <h3> <a href=\"https://www.youtube.com/watch?v=DR7wZO8NW9Q\" rel=\"noopener\" target=\"_blank\">ZOLLER »coraMeasure LG« system automates tool measuring</a> </h3> produit automatisation"
+    }
+   ],
+   "raw": "",
+   "ftype": "zoller_academy",
+   "id": "c3097",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/fr/academie",
+ "de_path": "/academy"
+}

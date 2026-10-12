@@ -1,0 +1,379 @@
+{
+ "path": "/software",
+ "url": "/ja/software",
+ "title": "Software",
+ "description": "Software",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ja/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8"
+  },
+  {
+   "label": "製品 /",
+   "href": "/ja/%E8%A3%BD%E5%93%81"
+  },
+  {
+   "label": "ツール管理 /",
+   "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86"
+  },
+  {
+   "label": "Software",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ja/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8"
+  },
+  {
+   "label": "製品 /",
+   "href": "/ja/%E8%A3%BD%E5%93%81"
+  },
+  {
+   "label": "ツール管理 /",
+   "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86"
+  },
+  {
+   "label": "Software",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/software",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/software",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/software",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/software",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/software",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/software",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/software",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/software",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/software",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/software",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/software",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/software",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/software",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/software",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/software",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [],
+   "ftype": "zoller_hero-slider",
+   "id": "c4402",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> 製品ラインナップ </h1>",
+   "body": "<p class=\"extra-large-text\"><strong>速く生産する。効率よく生産する。——シンプルですが、これこそが企業の経営力を決める要素です。ZOLLER Solutionsは、お客様の生産現場でこの二つを同時に実現し、生まれた余力をお客様の次の成長へとつなげます。事業を伸ばし続けたいすべての企業に、ZOLLERは選ばれるパートナーです。</strong></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4399",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "productlist",
+   "filters": {
+    "solutions": [
+     {
+      "value": "259",
+      "label": "プリセッティングと測定",
+      "selected": false
+     },
+     {
+      "value": "251",
+      "label": "ツール管理",
+      "selected": true
+     },
+     {
+      "value": "254",
+      "label": "工具検査・測定",
+      "selected": false
+     },
+     {
+      "value": "253",
+      "label": "自動化",
+      "selected": false
+     },
+     {
+      "value": "250",
+      "label": "焼きばめ装置",
+      "selected": false
+     },
+     {
+      "value": "252",
+      "label": "ツールホルダ",
+      "selected": false
+     },
+     {
+      "value": "249",
+      "label": "ツールバランシング",
+      "selected": false
+     }
+    ],
+    "applications": [
+     {
+      "value": "13361",
+      "label": "Software",
+      "selected": true
+     },
+     {
+      "value": "430",
+      "label": "工具倉庫",
+      "selected": false
+     },
+     {
+      "value": "431",
+      "label": "工具の取り付け",
+      "selected": false
+     },
+     {
+      "value": "432",
+      "label": "工具の搬送",
+      "selected": false
+     },
+     {
+      "value": "343",
+      "label": "データ転送",
+      "selected": false
+     }
+    ]
+   },
+   "rows": [
+    {
+     "title": "",
+     "items": [
+      {
+       "href": "/ja/software/tms-core",
+       "title": "»TMS Core«",
+       "text": "デジタル工具管理を始めるのに最適な出発点",
+       "img": {
+        "src": "/fileadmin/_processed_/7/b/csm_TMSCore_product_44555a00d3.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": true,
+       "kind": "product"
+      },
+      {
+       "href": "/ja/software/add-on-zstock",
+       "title": "Add-on »z.Stock«",
+       "text": "金型倉庫の透明性を確保します",
+       "img": {
+        "src": "/fileadmin/_processed_/6/a/csm_zStock_product_080c00d832.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/ja/software/add-on-zcam-integration",
+       "title": "Add-on »z.CAM Integration«",
+       "text": "システムに高性能なインターフェースを追加し、工具データをワークフローに直接統合します",
+       "img": {
+        "src": "/fileadmin/_processed_/9/6/csm_zCAM_Integration_product_3d7c6707ab.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/ja/software/add-on-zresources",
+       "title": "Add-on »z.Resources«",
+       "text": "すべての追加設備を管理する",
+       "img": {
+        "src": "/fileadmin/_processed_/b/9/csm_zResources_product_9093d037df.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/ja/software/add-on-zshopfloor",
+       "title": "Add-on »z.Shopfloor«",
+       "text": "現場で直接行われる、一貫性のある効率的な工具循環",
+       "img": {
+        "src": "/fileadmin/_processed_/2/e/csm_zShopfloor_product_50074e8009.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/ja/software/add-on-zconnectivity",
+       "title": "Add-on »z.Connectivity«",
+       "text": "工具測定、工具管理、および工作機械間のシームレスなデジタル連携",
+       "img": {
+        "src": "/fileadmin/_processed_/d/a/csm_zConnectivity_product_0840457196.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/ja/software/add-on-zintegration",
+       "title": "Add-on »z.Integration«",
+       "text": "大規模な製造環境向けの、ベンダーに依存しない工具管理ソリューション",
+       "img": {
+        "src": "/fileadmin/_processed_/a/7/csm_zIntegration_product_8352d357ce.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "src_path": "/ja/software",
+ "de_path": "/produkte/toolmanagement/software"
+}

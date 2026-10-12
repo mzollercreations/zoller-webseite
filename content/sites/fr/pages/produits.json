@@ -1,0 +1,438 @@
+{
+ "path": "/produits",
+ "url": "/fr/produits",
+ "title": "Produits",
+ "description": "Produits - Aperçu des produits",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/fr/page-daccueil"
+  },
+  {
+   "label": "Produits",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/fr/page-daccueil"
+  },
+  {
+   "label": "Produits",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/02_Products/_Overview/zoller_solutions_header_02.mp4",
+     "title": "Choisissez votre voie vers le succès",
+     "kicker": "",
+     "text": "<p>Plus d'efficacité grâce aux solutions ZOLLER</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4402",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Aperçu des produits </h2>",
+   "body": "<p class=\"extra-large-text\"><strong>Les solutions ZOLLER sont synonymes d'avenir : nous vous aidons à réussir. En effet, une fabrication plus rapide et plus efficace permet de travailler de manière plus rentable afin de pouvoir investir dans l'avenir. Si votre objectif est le progrès économique, ZOLLER est votre partenaire idéal.</strong></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4399",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "productlist",
+   "filters": {
+    "solutions": [
+     {
+      "value": "259",
+      "label": "Réglage et mesure",
+      "selected": false
+     },
+     {
+      "value": "251",
+      "label": "Gestion des outils",
+      "selected": false
+     },
+     {
+      "value": "254",
+      "label": "Contrôler et mesurer",
+      "selected": false
+     },
+     {
+      "value": "253",
+      "label": "Automatisation",
+      "selected": false
+     },
+     {
+      "value": "250",
+      "label": "Technologie de frettage",
+      "selected": false
+     },
+     {
+      "value": "252",
+      "label": "Porte outils",
+      "selected": false
+     },
+     {
+      "value": "249",
+      "label": "Technologie d'équilibrage",
+      "selected": false
+     }
+    ],
+    "tool": [
+     {
+      "value": "161",
+      "label": "Outils de perçage",
+      "selected": false
+     },
+     {
+      "value": "167",
+      "label": "Fraise à capuchon",
+      "selected": false
+     },
+     {
+      "value": "173",
+      "label": "Outils rotatifs",
+      "selected": false
+     },
+     {
+      "value": "179",
+      "label": "Outils de tournage/dégagement",
+      "selected": false
+     },
+     {
+      "value": "185",
+      "label": "outils de fraisage",
+      "selected": false
+     },
+     {
+      "value": "192",
+      "label": "Outils d'alésage de précision",
+      "selected": false
+     },
+     {
+      "value": "199",
+      "label": "Outils de filetage",
+      "selected": false
+     },
+     {
+      "value": "206",
+      "label": "Outils haute performance",
+      "selected": false
+     },
+     {
+      "value": "213",
+      "label": "Fraise pour vilebrequin",
+      "selected": false
+     },
+     {
+      "value": "220",
+      "label": "Outils de précision",
+      "selected": false
+     },
+     {
+      "value": "227",
+      "label": "Inserts à surfacer planimétriques",
+      "selected": false
+     },
+     {
+      "value": "234",
+      "label": "Têtes de lame planes, angulaires et lisses",
+      "selected": false
+     },
+     {
+      "value": "241",
+      "label": "Alésoirs",
+      "selected": false
+     },
+     {
+      "value": "248",
+      "label": "Meules abrasives",
+      "selected": false
+     },
+     {
+      "value": "255",
+      "label": "Lames de scie",
+      "selected": false
+     },
+     {
+      "value": "262",
+      "label": "Outils pour le travail de la pierre",
+      "selected": false
+     },
+     {
+      "value": "269",
+      "label": "Outils à queue",
+      "selected": false
+     },
+     {
+      "value": "276",
+      "label": "Outil de taillage",
+      "selected": false
+     }
+    ]
+   },
+   "rows": [
+    {
+     "title": "",
+     "items": [
+      {
+       "href": "/fr/produits/reglage-et-mesure",
+       "title": "Réglage et mesure",
+       "text": "Réduisez les temps d'équipement de 40 % et plus.",
+       "img": {
+        "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/fr/produits/gestion-des-outils",
+       "title": "Gestion des outils",
+       "text": "Mettre en réseau les processus, garantir la qualité et accélérer la production.",
+       "img": {
+        "src": "/fileadmin/_processed_/3/3/csm_toolmanagement_preview_7889eaddc9.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/fr/produits/controler-et-mesurer",
+       "title": "Contrôler et mesurer",
+       "text": "Documentez la qualité et créez des jumeaux numériques.",
+       "img": {
+        "src": "/fileadmin/_processed_/0/d/csm_genius_1_5b500df8d2.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/fr/produits/automatisation",
+       "title": "Automatisation",
+       "text": "Automatisation flexible et modulaire pour les outils de coupe.",
+       "img": {
+        "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/fr/produits/technique-de-retrecissement",
+       "title": "Technologie de frettage",
+       "text": "Défrettage et dilatation des outils en un temps record.",
+       "img": {
+        "src": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_506ab0ccb9.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/fr/produits/fixation-doutil",
+       "title": "Porte outils",
+       "text": "Porte-outils avec »puce idChip« : l'interface parfaite pour votre production numérique.",
+       "img": {
+        "src": "/fileadmin/_processed_/4/8/csm_ToolingSolutions_preview_7b8d14560e.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/fr/produits/technique-dimpact",
+       "title": "Technologie d'équilibrage",
+       "text": "Préserver les broches, garantir la qualité : avec les meilleurs équilibreurs du marché.",
+       "img": {
+        "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "src_path": "/fr/produits",
+ "de_path": "/produkte"
+}

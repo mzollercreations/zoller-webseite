@@ -1,0 +1,403 @@
+{
+ "path": "/vallalat/kapcsolat/kapcsolattarto",
+ "url": "/hu/vallalat/kapcsolat/kapcsolattarto",
+ "title": "Kapcsolattartó",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Vállalat /",
+   "href": "/hu/vallalat"
+  },
+  {
+   "label": "Kapcsolat /",
+   "href": "/hu/vallalat/kapcsolat"
+  },
+  {
+   "label": "Kapcsolattartó",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Vállalat /",
+   "href": "/hu/vallalat"
+  },
+  {
+   "label": "Kapcsolat /",
+   "href": "/hu/vallalat/kapcsolat"
+  },
+  {
+   "label": "Kapcsolattartó",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/kontakt/ansprechpartner",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/contact/contact-person",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/contacto/persona-de-contacto",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/contact/interlocuteur",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/contacto/pessoa-de-contacto",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/contatto/persona-di-contatto",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/kontakt/kontaktperson",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/kontakt/ansprechpartner",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/contact-us/contact-person",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/contact/interlocuteur",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E6%8B%85%E5%BD%93%E8%80%85",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98/%EB%8B%B4%EB%8B%B9%EC%9E%90",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/contact-us/your-contact-person-in-india",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/contacto/persona-de-contacto",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/contacto/entre-em-contato",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/c/f/csm_csm_customer-meeting-ZOLLER-03_RGB_38e548be22_360e80a1e0.webp",
+     "video": null,
+     "title": "Ügyfélközpontú",
+     "kicker": "",
+     "text": "<p>Személyre szabott tanácsadást keres?</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c3249",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "66-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p class=\"extra-large-text\">Keresse meg a régiójában illetékes kapcsolattartónkat. Munkatársaink örömmel állnak rendelkezésére – vegye igénybe a ZOLLER egyéni szakértői konzultációját.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3251",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-2cols",
+   "id": "c3250",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-33-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Kapcsolat </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3254",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>Tel/Fax: +36 23 378 544 </p> <p>E-mail: <a class=\"link-arrow\" href=\"mailto:info@rolatast.hu\">info@rolatast.hu</a> </p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c4179",
+      "bg": "lightgray",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-33-33-33",
+   "id": "c3253",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-33-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Helyszínek </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c4181",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>ROLATAST BT. </strong><br/>Herr Robert Rapp <br/>Fütö u. 60/D <br/>H-2030 Erd </p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c4182",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-33-33-33",
+   "id": "c4785",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-33-33",
+   "columns": [
+    [],
+    [],
+    []
+   ],
+   "ftype": "container-33-33-33",
+   "id": "c4786",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/2/csm_teaser_software_update_079d1bc12f.webp",
+     "alt": "",
+     "w": 633,
+     "h": 332,
+     "title": "Szoftverfrissítés",
+     "href": "/hu/szoftverfrissitesek",
+     "caption": "<figcaption> <h3>Szoftverfrissítés</h3> <p>Mindig a legfrissebb állapotban. Egyszerűen küldje el eszközének vagy szoftverének sorozatszámát, és élvezze a legújabb javítások előnyeit.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/d/0/csm_teaser_online_support_1b44919036.webp",
+     "alt": "",
+     "w": 633,
+     "h": 332,
+     "title": "Online ügyfélszolgálat",
+     "href": "/hu/online-uegyfelszolgalat",
+     "caption": "<figcaption> <h3>Online ügyfélszolgálat</h3> <p>Annak érdekében, hogy termékeinkkel kapcsolatos kérdéseik vagy műszaki problémáik esetén gyors és célzott segítséget nyújthassunk Önöknek.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/d/4/csm_teaser_newsletter_36e5e58bec.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Hírlevél",
+     "href": "/hu/vallalat/kapcsolat/hirlevel",
+     "caption": "<figcaption> <h3>Hírlevél</h3> <p>A ZOLLER „Insights into progress” című hírlevelében fontos iparági témákat mutatunk be. Termékekről, sikertörténetekről és eseményekről tájékoztatunk. Iratkozzon fel most!</p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c26294",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/hu/vallalat/kapcsolat/kapcsolattarto",
+ "de_path": "/unternehmen/kontakt/ansprechpartner"
+}

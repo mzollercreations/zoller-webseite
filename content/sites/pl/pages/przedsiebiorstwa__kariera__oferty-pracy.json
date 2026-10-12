@@ -1,0 +1,297 @@
+{
+ "path": "/przedsiebiorstwa/kariera/oferty-pracy",
+ "url": "/pl/przedsiebiorstwa/kariera/oferty-pracy",
+ "title": "Oferty pracy",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pl/strona-glowna"
+  },
+  {
+   "label": "Przedsiębiorstwa /",
+   "href": "/pl/przedsiebiorstwa"
+  },
+  {
+   "label": "Kariera /",
+   "href": "/pl/przedsiebiorstwa/kariera"
+  },
+  {
+   "label": "Oferty pracy",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pl/strona-glowna"
+  },
+  {
+   "label": "Przedsiębiorstwa /",
+   "href": "/pl/przedsiebiorstwa"
+  },
+  {
+   "label": "Kariera /",
+   "href": "/pl/przedsiebiorstwa/kariera"
+  },
+  {
+   "label": "Oferty pracy",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/karriere/stellenangebote",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/careers/job-openings",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/carrera-profesional/ofertas-de-empleo",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/carriere/offres-demploi",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/carreira/ofertas-de-emprego",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/carriera/offerte-di-lavoro",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/karriaer/lediga-tjaenster",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/karriere/stellenangebote",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/carriere/offres-demploi",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2/%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EC%B1%84%EC%9A%A9-%EC%A0%95%EB%B3%B4/%EC%B1%84%EC%9A%A9-%EA%B3%B5%EA%B3%A0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/career/stellenangebote",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/carrera-profesional/ofertas-de-empleo",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/carreira/ofertas-de-emprego",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Kariera",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/pl/przedsiebiorstwa/kariera",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Oferty pracy",
+     "href": "/pl/przedsiebiorstwa/kariera/oferty-pracy",
+     "current": false
+    },
+    {
+     "label": "Najczęściej zadawane pytania",
+     "href": "/pl/przedsiebiorstwa/kariera/najczesciej-zadawane-pytania",
+     "current": false
+    },
+    {
+     "label": "Podanie o pracę",
+     "href": "/pl/przedsiebiorstwa/kariera/podanie-o-prace",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c26231",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Oferty pracy </h1>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c26233",
+   "bg": "",
+   "space": {
+    "before": "medium",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>Akademia</h4><figure><table><tbody><tr><td><p>Inżynier ds. zastosowań w budowie maszyn (m/k/d)</p></td></tr></tbody></table></figure> <h4>Systemy informatyczne</h4><figure><table><tbody><tr><td><p><a class=\"link-arrow\" href=\"/pl/specjalista-ds-obslugi/programista-systemu-erp-abas-m/k/d\" rel=\"noopener\" target=\"_blank\">Specjalista ds. obsługi i rozwoju systemu abas ERP (m/k/d)</a></p></td></tr></tbody></table></figure><figure><table><tbody><tr><td><p><a class=\"link-arrow\" href=\"/pl/administrator-it-m/k/d\" rel=\"noopener\" target=\"_blank\">Administrator IT (m/k/d) – infrastruktura IT i wsparcie techniczne</a></p></td></tr></tbody></table></figure> <h4>Projektowanie instalacji elektrycznych</h4><figure><table><tbody><tr><td><p><a class=\"link-arrow\" href=\"/pl/programista-sterownikow-plc-m/k/d\" rel=\"noopener\" target=\"_blank\">Programista sterowników PLC (m/k/d)</a></p></td></tr></tbody></table></figure><figure><table><tbody><tr><td><p>Mechatronik (m/k/d)</p></td></tr></tbody></table></figure><figure><table><tbody><tr><td><p>Projektant instalacji elektrycznych (m/k/d)</p></td></tr></tbody></table></figure> <h4>Finanse i kontrola</h4><figure><table><tbody><tr><td><p><a class=\"link-arrow\" href=\"/controller-m/w/d\" rel=\"noopener\" target=\"_blank\">Kontroler (m/k/d)</a></p></td></tr></tbody></table></figure> <h4>Biuro Zarządzania Projektami i Automatyzacja</h4><figure><table><tbody><tr><td><p>Kierownik zespołu serwisowego – automatyka (m/k/d)</p></td></tr></tbody></table></figure> <h4>Serwis</h4><figure><table><tbody><tr><td><p>Technik ds. zastosowań (m/k/d) w terenie</p></td></tr></tbody></table></figure><figure><table><tbody><tr><td><p>Pracownik techniczny działu obsługi klienta (m/k/d)</p></td></tr></tbody></table></figure><figure><table><tbody><tr><td><p>Technik serwisowy (m/k/d)</p></td></tr></tbody></table></figure>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c26236",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/0/csm_teaser_profile_bf2693bd59.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "O firmie ZOLLER",
+     "href": "/pl/przedsiebiorstwa/profil",
+     "caption": "<figcaption> <h3>O firmie ZOLLER</h3> <p>Z nazwiskiem ZOLLER występuje ściśle połączenie z zespołem liczącym ponad 800 osób, wiele innowacji oraz przywiązanie do lokalnych korzeni charakterystyczne dla firmy rodzinnej.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/4/csm_teaser_media_f7299d9c84.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Media",
+     "href": "/pl/przedsiebiorstwa/media",
+     "caption": "<figcaption> <h3>Media</h3> <p>Tutaj znajdą Państwo komunikaty prasowe, zapowiedzi produktów, informacje o udziału w targach, artykuły prasowe z czasopism branżowych oraz<br/> archiwum wiadomości.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/b/csm_teaser_reports_90bbbeda0a.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Raporty i artykuły",
+     "href": "/pl/przedsiebiorstwa/raporty-i-artykuly",
+     "caption": "<figcaption> <h3>Raporty i artykuły</h3> <p>Co się dzieje w firmie ZOLLER? Co mówią nasi klienci o pracy z rozwiązaniami ZOLLER? Tutaj znajdziesz najnowsze informacje.</p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c26310",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/pl/przedsiebiorstwa/kariera/oferty-pracy",
+ "de_path": "/unternehmen/karriere/stellenangebote"
+}

@@ -1,0 +1,606 @@
+{
+ "path": "/resitve/nosilci-orodja/pogosta-vprasanja",
+ "url": "/si/resitve/nosilci-orodja/pogosta-vprasanja",
+ "title": "Rešitve za orodja – Pogosta vprašanja",
+ "description": "Pogosta vprašanja - Rešitve za orodja – Pogosta vprašanja",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/si/domaca-stran"
+  },
+  {
+   "label": "Rešitve /",
+   "href": "/si/resitve"
+  },
+  {
+   "label": "Nosilci orodja",
+   "href": "/si/resitve/nosilci-orodja"
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/si/domaca-stran"
+  },
+  {
+   "label": "Rešitve /",
+   "href": "/si/resitve"
+  },
+  {
+   "label": "Nosilci orodja",
+   "href": "/si/resitve/nosilci-orodja"
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/werkzeugaufnahmen/faq",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/tooling-solutions/faq",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/portaherramientas/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/fixation-doutil/faq",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/porta-ferramentas/perguntas-frequentes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/soluzioni-dutensileria/domande-frequenti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/verktygshaallare/vanliga-fraagor",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/werkzeugaufnahmen/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/tooling-solutions/faq",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/porte-outils/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B7%A5%E5%85%B7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/tooling-solutions/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/porta-herramientas/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/porta-ferramentas/perguntas-frequentes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Nosilci orodja",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/si/resitve/nosilci-orodja",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Pogosta vprašanja",
+     "href": "/si/resitve/nosilci-orodja/pogosta-vprasanja",
+     "current": false
+    },
+    {
+     "label": "Zbirka informacij",
+     "href": "/si/resitve/nosilci-orodja/zbirka-informacij",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1414",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Pogosta vprašanja </h1>",
+      "body": "<p>Pogosta vprašanja</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c1426",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Kakšne pogoje mora izpolnjevati moja proizvodnja, da lahko uporabljam »idChip«?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Prvi pomemben pogoj je ustrezen skener, s katerim lahko skenirate kodo DataMatrix. Za upravljanje podatkov o orodjih potrebujete ustrezno programsko opremo. Oboje vam ponuja podjetje ZOLLER s »programom zidCode 4.0« in programsko opremo TMS Tool Management Solutions.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1455",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Ali je mogoče orodje opremiti z »idChipom« tudi naknadno?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Da, to je mogoče kadarkoli. Če želite svoja orodja opremiti z ZOLLER »idChipom«, se preprosto obrnite na našo prodajno službo.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1453",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Kakšne prednosti ima »idChip« v primerjavi z označevanjem z nalepkami?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>»idLabel« priporočamo predvsem za rotacijsko orodje in priprave, saj se ti med delovanjem ne vrtijo. Pri rotacijskem orodju je »idChip« boljša izbira. Priključi se na držalo, kjer je zaščiten, a kljub temu dobro viden. »idChip« lahko preprosto pritrdite z dvosestavnim lepilom. To lahko kupite pri nas ali pa ga dobite pri drugih ponudnikih.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1451",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Podjetje ZOLLER je znano kot proizvajalec naprav za nastavljanje in merjenje. Ali ZOLLER sam proizvaja tudi držala za orodje Tooling Solutions?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Na področju nosilcev orodja podjetje ZOLLER tesno sodeluje s partnerjem Schüssler. Schüssler proizvaja nosilce orodja, ZOLLER pa dobavlja »idChip« in prek nove spletne trgovine ZOLLER omogoča enostaven, hiter in udoben nakup nosilcev orodja.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1449",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Kakšna je življenjska doba nosilca za termokontrakcijo? Kolikokrat je mogoče orodje v nosilcu termokontraktirati in ponovno raztegniti?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Ob pravilni izvedbi postopkov segrevanja in ohlajevanja rešitev ZOLLER Tooling Solutions se te lahko uporabljajo za več kot 10 000 ciklov krčenja brez izgube natančnosti za nosilce orodja s premerom izvrtine več kot 6 mm. Pri premeru 5 mm in manj je to 5 000 ciklov.</p> <p>Pravilno obdelavo z ogrevanjem in ohlajanjem podpira tehnologija ZOLLER »actbyLight«, ki zagotavlja pravilno in varno izvajanje krčilnih ciklov.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c1447",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Zakaj bi morali uporabljati uravnotežene nosilce orodja?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Uravnoteženi nosilci orodja povečajo produktivnost. Pozitivni učinki uporabe uravnoteženih nosilcev orodja so vidni na številnih področjih obdelovalnega procesa. Daljša življenjska doba orodja in vretena ter večji obseg obdelave so le nekateri od dejavnikov, ki lahko znatno znižajo proizvodne stroške.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1445",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Do kakšne dolžine so na voljo rešitve ZOLLER Tooling Solutions?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Orodja ZOLLER Tooling Solutions imajo dolžino nosilca GPL 200 mm (dolžina izteka A).</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1443",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Ali so na voljo uravnoteženi ER-vpenjalni sklopi?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>V okviru rešitev ZOLLER Tooling Solutions so na voljo tudi vpenjalni sklopi ER, ki jih je mogoče uravnotežiti. Za postopek uravnoteženja se namesti kontramatica in uporabi referenčni sornik za simulacijo rezalnega orodja.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1441",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Iz česa je narejen material krčljivega držala?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Podjetje ZOLLER za proizvodnjo rešitev ZOLLER Tooling Solutions uporablja vpenjalne puše iz toplotno odpornega orodnega jekla.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1439",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Kakšne so razlike med skrčljivim vpenjalom, vpenjalom s kleščami in hidravličnim sistemom za vpenjanje orodja?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Noben drug sistem vpenjanja ne more konkurirati oprijemu, natančnosti vrtenja in zmogljivosti vpenjalnega sistema s toplotnim krčenjem. Ker vpenjalni sistemi s toplotnim krčenjem ne potrebujejo vpenjalnih klešč, matic za vpenjalne klešče ali nastavnih vijakov, so lahko premeri nosilcev zelo tanki, kar omogoča obdelavo tudi težko dostopnih mest.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1437",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Kakšna mora biti toleranca greda, da se rezalna orodja lahko uporabljajo v vtisknih nasadkih?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Dovoljeno odstopanje za steblo rezalnega orodja naj bo h5 ali h6.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1435",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Kje je mogoče kupiti nosilce orodja ZOLLER Tooling Solutions?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Naročilo je mogoče oddati prek spletnega <a class=\"link-arrow\" href=\"https://myzoller.com/de/de/shop/tooling/\" rel=\"noopener\" target=\"_blank\"><strong>portala</strong></a> ZOLLER <a class=\"link-arrow\" href=\"https://myzoller.com/de/de/shop/tooling/\" rel=\"noopener\" target=\"_blank\"><strong>MYZOLLER</strong></a>. Spletna naročila so trenutno na voljo v Nemčiji in ZDA. V drugih državah je mogoče izbrati nosilec orodja prek portala MYZOLLER, ustvarjeni seznam artiklov pa poslati ustreznim regionalnim prodajalcem podjetja ZOLLER in zaprositi za ponudbo.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1433",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Ali se nosilci orodja uravnotežijo po vgradnji čipa ZOLLER »idChip« ali drugih RFID-čipov?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Če se nosilci orodja naročijo z ZOLLER »idChipom« ali drugimi RFID-čipi, se nosilci orodja uravnotežijo skupaj s čipi.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1431",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Kako dolgo traja dobava vseh vrst rešitev ZOLLER Tooling Solutions?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>V spletni trgovini lahko kadarkoli preverite razpoložljivost izdelkov ZOLLER Tooling Solutions na zalogi.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1429",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Ali je mogoče pridobiti digitalne datoteke v formatih dxf, png in stp za rešitve ZOLLER Tooling Solutions, preden oddam naročilo za ustrezne držale orodja?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Digitalni dvojniki so na voljo v spletni trgovini ZOLLER Tooling Solution, kjer jih je mogoče kadar koli prenesti in uporabiti v programski opremi ZOLLER TMS Tool Management Solutions ali drugih sistemih CAD/CAM.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1457",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c1427",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c1425",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Zdaj ste na vrsti – izberite si! </h2>",
+   "body": "<p>V naši spletni trgovini je zdaj na voljo celoten izbor sistemov za vpenjanje orodja. Enostavno, hitro in udobno poiščite svoj idealni nosilec orodja ter takoj uporabite digitalni dvojnik, ki je tam na voljo, v svojem sistemu CAM in sistemu za upravljanje orodja.</p> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">V trgovino z orodji</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/d/csm_zum_myzoller_shop_704443f1bc.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1458",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/si/resitve/nosilci-orodja/pogosta-vprasanja",
+ "de_path": "/solutions/werkzeugaufnahmen/faq"
+}

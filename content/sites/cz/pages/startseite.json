@@ -1,0 +1,475 @@
+{
+ "path": "/startseite",
+ "url": "/cz/uvodni-stranka",
+ "title": "Začít s řešením – Vstoupit do systému",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/startseite",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/home",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/pagina-de-inicio",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/page-daccueil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/pagina-inicial",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/home-page",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/startsida",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/startseite",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/home-page",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/page-daccueil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%99%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/homepage",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/pagina-de-inicio",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/pagina-inicial",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/01_Pages/Startingpage/zollerinfo_header_animation_780.mp4",
+     "title": "Systematicky k maximu",
+     "kicker": "",
+     "text": "<p>Zvyšte efektivitu svých procesů obrábění<br/>pomocí řešení od technologického lídra: společnosti ZOLLER. </p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c2274",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Špičková technologie pro každou výrobu </h2>",
+   "body": "<p class=\"extra-large-text\"><br/>Řešení společnosti ZOLLER přinášejí do procesů výroby vysokou efektivitu. Díky tomu se každá investice rychle vrátí. Již u jednoho CNC stroje řešení společnosti ZOLLER snižují čas, náklady a prostoje.</p> <p class=\"extra-large-text\">U společnosti ZOLLER je prémiová kvalita slibem,<br/>nikoli výsadou.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/2/csm_az_cz_30f31cdd7e.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c539",
+   "bg": "yellow",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "kpis",
+   "title": "Úspěchy zákazníků se společností ZOLLER",
+   "subtitle": "Vyšší zisky, více zakázek, úspora času, nižší výrobní náklady – společnost ZOLLER pomáhá zvyšovat efektivitu svých zákazníků po celém světě.",
+   "items": [
+    {
+     "label": "Extra rychlá přestavba stroje",
+     "value": "30 %",
+     "text": "<p>Díky přístroji ZOLLER »hyperion« zkracuje firma SycoTec dobu přípravy o výše uvedené procenta. Na tomto horizontálním měřicím a seřizovacím přístroji se měří soustružnické nástroje a vícenásobné upínací držáky. Společnost SycoTec je výrobcem vysokorychlostních malých motorů. </p> <p><a class=\"btn\" href=\"/cz/vas-uspech/podrobnosti?tx_news_pi1%5Bnews%5D=116&amp;cHash=421d313fd09bbdfb23f6ea4d752d4ee7\">K příběhu o úspěchu</a></p>"
+    },
+    {
+     "label": "Nižší náklady na personál",
+     "value": "83 %",
+     "text": "<p>O tolik se mohou snížit náklady na personál při kontrole nástrojů ve třísměnném provozu, pokud využijete automatizační řešení »roboSet 2«. </p> <p><a class=\"btn\" href=\"/cz/produkty/automatizace/kontrola-nastroju/roboset-2\">Více o »roboSet 2«</a></p>"
+    },
+    {
+     "label": "Rychlá návratnost",
+     "value": "9 měsíců",
+     "text": "<p>Průměrná doba, za kterou se měřicí a seřizovací přístroj »smile« zaplatí. Předpoklad: výroba v jednosměnném provozu s jedním CNC strojem. Při použití dvou strojů se tato doba zkrátí na polovinu. </p> <p><a class=\"btn\" href=\"/cz/produkty/nastaveni-a-mereni/vertikalni-zarizeni/smile\">Více o »smile«</a></p>"
+    },
+    {
+     "label": "Výrazný nárůst tržeb",
+     "value": "1 milion dolarů",
+     "text": "<p>Rodinná firma ProCam z Michiganu v USA zvýšila během dvou let od zakoupení stroje »smile 420« svůj obrat o 1 milion USD. Díky zkrácení časů na přípravu a snížení prostojů strojů mohla firma ProCam zpracovat více zakázek.</p> <p><a class=\"btn\" href=\"/cz/vas-uspech/podrobnosti?tx_news_pi1%5Bnews%5D=37&amp;cHash=992d0db4f33082f4543da88c75286a33\">K příběhu o úspěchu</a></p>"
+    }
+   ],
+   "ftype": "zoller_content-scroller",
+   "id": "c537",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_strip",
+   "icon": {
+    "src": "/fileadmin/_processed_/0/0/csm_calculator_8806cc3f97.webp",
+    "alt": "",
+    "w": 50,
+    "h": 65
+   },
+   "text": "<p class=\"bold\">Zvýšení produktivity díky měřicím a seřizovacím přístrojům ZOLLER</p> <p>Kalkulačka ZOLLER Vám vypočítá potenciál úspor pro Vaši výrobu.</p>",
+   "button": "<a class=\"btn\" href=\"/cz/kalkulator-rentability\">Zjistěte si nyní, kolik můžete ušetřit</a>",
+   "ftype": "zoller_icon-button",
+   "id": "c4326",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Vyšší produktivita při frézování, soustružení i broušení </h2>",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/2/csm_teaser_milling_6f80026943.webp",
+     "alt": "",
+     "w": 633,
+     "h": 377,
+     "title": "Milling",
+     "href": "/cz/frezovani",
+     "caption": "<figcaption> <h3>Milling</h3> <p>Access precise tool presetting and measuring with the best balancing technology on the market — including tool heat shrinking, unshrinking, and every interface you'll need for a seamless CAM-to-part process. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/1/5/csm_teaser_turning_a68c271858.webp",
+     "alt": "tool turning process",
+     "w": 633,
+     "h": 377,
+     "title": "Turning",
+     "href": "/cz/otaceni",
+     "caption": "<figcaption> <h3>Turning</h3> <p>Unlock success with special measuring technology for turning tools, tool management, and data handling.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/f/csm_teaser_grinding_7de917acd6.webp",
+     "alt": "",
+     "w": 633,
+     "h": 377,
+     "title": "Grinding",
+     "href": "/cz/brouseni-nastroju",
+     "caption": "<figcaption> <h3>Grinding</h3> <p>Achieve documented quality with machines that interface with CAD design. Use control-compatible data for your CNC grinding machine, simulate measuring runs, and process-related inspection and documentation.</p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c540",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> „Automatizace je nezbytná pro to, abychom byli na mezinárodním trhu konkurenceschopní.“ </h3>",
+   "body": "<p class=\"large-text\">Michael Mauth, jednatel společnosti Mauth Werkzeug-Schleiftechnik v Oberndorfu</p> <p><a class=\"btn\" href=\"/cz/vas-uspech/podrobnosti?tx_news_pi1%5Bnews%5D=109&amp;cHash=edd71d398b779dcca094c57186138635\"> Zpráva uživatele</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/3/csm_teaser_roboSet2_8f949c1d6b.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034,
+     "href": "/cz/vas-uspech/podrobnosti?tx_news_pi1%5Bnews%5D=109&cHash=edd71d398b779dcca094c57186138635"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c4109",
+   "bg": "white",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> „Digitalizace pomocí softwarových řešení ZOLLER rozhodujícím způsobem přispěla k ekonomičtější výrobě.“ </h2>",
+   "body": "<p class=\"large-text\">Dipl.-Ing. Frank Schaefer, člen vedení společnosti LIDU Maschinenbau Lienenbrügger GmbH v Dülmenu</p> <p><a class=\"btn\" href=\"/cz/vas-uspech/podrobnosti?tx_news_pi1%5Bnews%5D=112&amp;cHash=5bd9e00bf990db26ead5dc36b56cb9be\">K uživatelské recenzi</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/1/csm_teaser_zoller_002_647c6fcfb2.webp",
+     "alt": "two men talking",
+     "w": 1155,
+     "h": 1034,
+     "href": "/cz/vas-uspech/podrobnosti?tx_news_pi1%5Bnews%5D=112&cHash=5bd9e00bf990db26ead5dc36b56cb9be"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c536",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Zažijte systém ZOLLER na vlastní kůži </h2>",
+   "body": "<p>V ZOLLER Smart Factory v Pleidelsheimu představujeme systém ZOLLER se všemi řešeními až po kompletní automatizaci výroby. Přesvědčte se o vysoké efektivitě plynulých procesů od CAM až po hotový díl a o výhodách nepřetržitě dostupných údajů o nástrojích. </p> <p>Zjistěte si ještě dnes, jak si můžete domluvit termín návštěvy nebo individuální konzultaci s odborníkem.</p> <p><a class=\"btn\" href=\"/cz/spolecnost/kontakt/chytra-tovarna\">Do Smart Factory</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/9/csm_smartfactory_teaser_4b2372736c.webp",
+     "alt": "",
+     "w": 1400,
+     "h": 1400
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c59554",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> <a href=\"/cz/uvodni-stranka\">Předvést se při tepelném upínání</a> </h2>",
+   "body": "<p class=\"large-text\">Přístroj »powerShrink« dokáže nástroje tepelně upnout v rekordně rychlém čase a přitom je extrémně úsporný z hlediska spotřeby energie. Tepelné nástrojové držáky se zahřívají šetrně a rychle ochlazují – vysoká účinnost pro Vaše procesy tepelného upínání.</p> <p><a class=\"btn\" href=\"/cz/produkty/tepelne-upinani-nastroju/powershrink\">Více o »powerShrink«</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/3/c/csm_teaser_powershrink_ff1b555a0d.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034,
+     "href": "/cz/produkty/tepelne-upinani-nastroju/powershrink"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c752",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "newslist",
+   "header": "<h3> Aktuální zprávy </h3>",
+   "articles": [
+    {
+     "href": "/cz/vas-uspech/podrobnosti/ausschliesslich-strom-aus-nachhaltigen-quellen",
+     "img": {
+      "src": "/typo3temp/assets/_processed_/6/6/csm_dummy-preview-image_fcd6db6a31.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Společnost",
+      "Udržitelnost"
+     ],
+     "title": "Výhradně elektřina z udržitelných zdrojů",
+     "teaser": "K výrobě využíváme výhradně elektřinu z obnovitelných zdrojů. Přispíváme k tomu i díky naší vlastní fotovoltaické elektrárně.",
+     "date": ""
+    },
+    {
+     "href": "/cz/vas-uspech/podrobnosti/500-quadratmeter-insektenflugplatz",
+     "img": {
+      "src": "/typo3temp/assets/_processed_/6/6/csm_dummy-preview-image_fcd6db6a31.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Společnost",
+      "Udržitelnost"
+     ],
+     "title": "500 metrů čtverečních letiště pro hmyz",
+     "teaser": "Kvetoucí oáza pohody ve společnosti ZOLLER",
+     "date": ""
+    },
+    {
+     "href": "/cz/vas-uspech/podrobnosti/innovation-schuetzt-ressourcen-steigert-nachhaltigkeit",
+     "img": {
+      "src": "/typo3temp/assets/_processed_/6/6/csm_dummy-preview-image_fcd6db6a31.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Společnost",
+      "Udržitelnost"
+     ],
+     "title": "Inovace – chrání zdroje, zvyšuje udržitelnost",
+     "teaser": "Díky společnosti ZOLLER mohou výrobní podniky optimálně využívat své stroje, materiálové zdroje a nástroje. To snižuje počet chybějících dílů a zvyšuje efektivitu.",
+     "date": ""
+    }
+   ],
+   "pages": [],
+   "ftype": "news_newsliststicky",
+   "id": "c749",
+   "bg": "lightgray",
+   "space": {
+    "before": "medium",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>Individuální odborná konzultace</h3> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/expert/booking\" rel=\"noopener\" target=\"_blank\">Domluvte si schůzku hned teď</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/cz/uvodni-stranka",
+ "de_path": "/startseite"
+}

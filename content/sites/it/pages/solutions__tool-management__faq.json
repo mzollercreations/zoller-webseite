@@ -1,0 +1,562 @@
+{
+ "path": "/solutions/tool-management/faq",
+ "url": "/it/solutions/tool-management/faq",
+ "title": "Tooling Solutions – FAQ",
+ "description": "FAQ - Tooling Solutions – FAQ",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/it/home-page"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/it/solutions"
+  },
+  {
+   "label": "Tool management",
+   "href": "/it/solutions/tool-management"
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/it/home-page"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/it/solutions"
+  },
+  {
+   "label": "Tool management",
+   "href": "/it/solutions/tool-management"
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/toolmanagement/faq",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/tool-management/faq",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/gestion-de-herramientas/faq",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/gestion-des-outils/faq",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/gestao-de-ferramentas/faq",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/tool-management/faq",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/solutions/toolmanagement/faq",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/toolmanagement/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/tool-management/faq",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/gestion-des-outils/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/solutions/toolmanagement/faq",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/solutions/toolmanagement/faq",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/toolmanagement/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/gestion-de-herramientas/faq",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/gestao-de-ferramentas/faq",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Tool management",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/it/solutions/tool-management",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "TMS Software",
+     "href": "/it/solutions/tool-management/tms-software",
+     "current": false
+    },
+    {
+     "label": "TMS Hardware",
+     "href": "/it/solutions/tool-management/tms-hardware",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/it/solutions/tool-management/faq",
+     "current": false
+    },
+    {
+     "label": "Pool informativo",
+     "href": "/it/solutions/tool-management/pool-informativo",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c162806",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Domande frequenti </h1>",
+      "body": "<p>Domande frequenti</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c162758",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "È possibile effettuare l'utilizzo del TMS su dispositivi mobili come tablet o smartphone?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Sì, grazie all'app web indipendente dal dispositivo è possibile accedere in mobilità alla gestione utensili centralizzata da qualsiasi browser web, visualizzare tutte le informazioni relative alla produzione ed effettuare le registrazioni relative agli utensili.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c164289",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Per quali sistemi ZOLLER è in grado di fornire interfacce?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>ZOLLER vanta oltre 25 integrazioni con sistemi CAM e di simulazione ed è inoltre in grado di collegarsi a sistemi ERP, MES, sistemi di distribuzione elettronica e a vari altri sistemi rilevanti dotati di API.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c164291",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "È possibile gestire e valutare i tempi di lavorazione con ZOLLER?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>ZOLLER offre, se necessario, una gestione della durata utile degli utensili e un monitoraggio integrati con un'ampia analisi statistica. La trasmissione bidirezionale dei dati relativi alla durata utile degli utensili con le macchine può essere implementata, ad esempio, in modo flessibile e universale grazie alla tecnologia ZOLLER »zidCode 4.0«.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c164293",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Come e dove vengono memorizzati i dati utensile con la soluzione ZOLLER?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Con ZOLLER TMS, il vostro know-how produttivo rimane all’interno della vostra azienda. ZOLLER utilizza un database ospitato sui vostri server, a cui nessun altro ha accesso.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c164295",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Posso aggiungere altre funzioni in un secondo momento?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Sì, grazie alla struttura modulare del software, potete avviare con le funzionalità di cui avete bisogno oggi e aggiungere ulteriori moduli in qualsiasi momento in seguito. In questo modo il sistema cresce di pari passo con i vostri requisiti, proprio secondo il motto: “Enter a System, Start with a Solution”.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c164297",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "È possibile importare dati, ad esempio dal produttore o da un foglio di calcolo Excel?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Naturalmente è possibile importare dati già esistenti. Non solo è possibile importare elenchi Excel, ma anche dati digitali provenienti direttamente dal produttore, come i parametri degli utensili e i grafici in 2D e 3D.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c164301",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Per aziende di quali dimensioni è progettato il sistema TMS di ZOLLER?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Grazie alla sua modularità e scalabilità, il software può essere inserito in modo economicamente vantaggioso sia per le microimprese che per le grandi produzioni in serie.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c164302",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Quali processi è possibile digitalizzare con ZOLLER TMS?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Con ZOLLER TMS è possibile digitalizzare l'intero processo produttivo, dal disegno e dalla programmazione nel CAM, passando per la gestione magazzino, la preparazione e la misurazione degli utensili, fino alla macchina e viceversa. </p> <p>Tutte le postazioni di lavoro coinvolte nel processo di produzione utilizzano la stessa interfaccia utente e lo stesso database. Ciò garantisce un processo di produzione continuo grazie a un sistema coordinato di software e hardware.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c164303",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Come vengono gestiti gli aggiornamenti e l'assistenza presso ZOLLER?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Il nostro team di assistenza è disponibile per i nostri clienti in qualsiasi momento, sia per telefono che via e-mail, ed è in grado di fornire assistenza anche con breve preavviso. </p> <p>Grazie ai nostri tecnici applicativi regionali presenti nelle filiali di vendita e assistenza, siamo in grado di intervenire tempestivamente in loco in caso di necessità. </p> <p>Gli aggiornamenti principali regolari (di norma una volta all’anno) vengono installati in loco in collaborazione con il vostro reparto IT. Gli aggiornamenti incrementali possono essere comodamente scaricati online.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c164305",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Quali sono le possibilità per bloccare i cassetti del »toolOrganizer«?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>I cassetti possono essere bloccati sia elettronicamente che meccanicamente. Inoltre, è ulteriormente possibile realizzare il bloccaggio singolo di ogni scomparto con lo »smartCompartment«.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c162686",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "È possibile personalizzare la suddivisione all'interno di un cassetto del »toolOrganizer« o di un cassetto estraibile del »keeper«?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Il contenuto può essere definito liberamente. Il »toolOrganizer« dispone di divisori per cassetti, gli »smartCompartment«, che consentono di organizzare i cassetti in modo ottimale. Nel caso del »keeper«,« è possibile adattare l’altezza dei singoli piani e equipaggiarli degli appositi alloggiamenti per utensili di ZOLLER Tooling Solutions.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c162638",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "È possibile comandare gli Smart Cabinet anche dalla rete?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Sì, possono essere controllati anche tramite la rete.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c162590",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c162734",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c162782",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Colloquio con esperti",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Colloquio con esperti</h3> <p>Uno scambio individuale sui vostri obiettivi e sulle nostre idee per raggiungerli. La consulenza online di ZOLLER direttamente dalla Smart Factory. Fissate subito un appuntamento. </p> <br/> Scopri di più </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/e/csm_teaser-2Colume-Media_8e9165a74e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Media: ZOLLER in dettaglio",
+     "href": "/it/azienda/media",
+     "caption": "<figcaption> <h3>Media: ZOLLER in dettaglio</h3> <p>Qui trovate comunicati stampa, annunci di prodotti, partecipazioni a fiere, articoli tratti da riviste specializzate, l'archivio delle notizie e i nostri referenti per i media. </p> <br/> Scopri di più </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c738",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/it/solutions/tool-management/faq",
+ "de_path": "/solutions/toolmanagement/faq"
+}

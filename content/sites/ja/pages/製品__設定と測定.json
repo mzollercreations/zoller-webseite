@@ -1,0 +1,399 @@
+{
+ "path": "/製品/設定と測定",
+ "url": "/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A",
+ "title": "プリセッティングと測定",
+ "description": "プリセッティングと測定 - 工具費削減、段取り時間40％以上短縮、etc.",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ja/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8"
+  },
+  {
+   "label": "製品 /",
+   "href": "/ja/%E8%A3%BD%E5%93%81"
+  },
+  {
+   "label": "プリセッティングと測定",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ja/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8"
+  },
+  {
+   "label": "製品 /",
+   "href": "/ja/%E8%A3%BD%E5%93%81"
+  },
+  {
+   "label": "プリセッティングと測定",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/einstellen-messen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/presetting-measuring",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/ajuste-y-medicion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/reglage-et-mesure",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/ajuste-e-medicao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/regolazione-e-misurazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/instaellning-och-maetning",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/einstellen-messen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/presetting-measuring",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/reglage-et-mesure",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/presetting-measuring",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/ajuste-y-medicion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/ajuste-e-medicao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [],
+   "ftype": "zoller_hero-slider",
+   "id": "c4402",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> 製品ラインナップ </h1>",
+   "body": "<p class=\"extra-large-text\"><strong>速く生産する。効率よく生産する。——シンプルですが、これこそが企業の経営力を決める要素です。ZOLLER Solutionsは、お客様の生産現場でこの二つを同時に実現し、生まれた余力をお客様の次の成長へとつなげます。事業を伸ばし続けたいすべての企業に、ZOLLERは選ばれるパートナーです。</strong></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4399",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "productlist",
+   "filters": {
+    "solutions": [
+     {
+      "value": "259",
+      "label": "プリセッティングと測定",
+      "selected": true
+     },
+     {
+      "value": "251",
+      "label": "ツール管理",
+      "selected": false
+     },
+     {
+      "value": "254",
+      "label": "工具検査・測定",
+      "selected": false
+     },
+     {
+      "value": "253",
+      "label": "自動化",
+      "selected": false
+     },
+     {
+      "value": "250",
+      "label": "焼きばめ装置",
+      "selected": false
+     },
+     {
+      "value": "252",
+      "label": "ツールホルダ",
+      "selected": false
+     },
+     {
+      "value": "249",
+      "label": "ツールバランシング",
+      "selected": false
+     }
+    ],
+    "applications": [
+     {
+      "value": "264",
+      "label": "縦型ツールプリセッター",
+      "selected": false
+     },
+     {
+      "value": "263",
+      "label": "横型ツールプリセッター",
+      "selected": false
+     },
+     {
+      "value": "551",
+      "label": "自動化ソリューション",
+      "selected": false
+     },
+     {
+      "value": "6367",
+      "label": "CNC石材加工",
+      "selected": false
+     },
+     {
+      "value": "262",
+      "label": "特注ソリューション",
+      "selected": false
+     }
+    ]
+   },
+   "rows": [
+    {
+     "title": "縦型ツールプリセッター",
+     "items": [
+      {
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A/%E7%B8%A6%E5%9E%8B%E6%A9%9F%E5%99%A8/%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB",
+       "title": "»smile«",
+       "text": "精度を妥協しないエントリーモデル。 標準工具の段取りを、ミクロン単位で確実に。耐久性も、ZOLLERの基準で。",
+       "img": {
+        "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A/%E7%B8%A6%E5%9E%8B%E6%A9%9F%E5%99%A8/%E3%83%99%E3%83%B3%E3%83%81%E3%83%A5%E3%83%AA%E3%82%AA%E3%83%B3",
+       "title": "»venturion«",
+       "text": "測定精度・段取り効率・拡張性。三拍子そろった主力モデル。",
+       "img": {
+        "src": "/fileadmin/_processed_/7/d/csm_venturion_preview_cdaca59ebb.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "横型ツールプリセッター",
+     "items": [
+      {
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A/%E6%A8%AA%E5%9E%8B%E6%A9%9F%E5%99%A8/%E3%83%8F%E3%82%A4%E3%83%9A%E3%83%AA%E3%82%AA%E3%83%B3",
+       "title": "»hyperion«",
+       "text": "旋盤工具向け横型ツールプリセッター",
+       "img": {
+        "src": "/fileadmin/_processed_/1/8/csm_hyperion_preview_37118ddf5b.webp",
+        "alt": "zoller hyperion",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "自動化ソリューション",
+     "items": [
+      {
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%BA%96%E5%82%99/corameasure-lg",
+       "title": "»coraMeasure LG«",
+       "text": "ZOLLER »venturion«向け経済的な工具ハンドリング",
+       "img": {
+        "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%BA%96%E5%82%99/robobox",
+       "title": "»roboBox«",
+       "text": "組み立て、洗浄、測定、熱収縮などの作業用に、最大6つのモジュールを搭載可能",
+       "img": {
+        "src": "/fileadmin/_processed_/7/a/csm_roboBox_preview_f71dd04107.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "CNC石材加工",
+     "items": [
+      {
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A/cnc%E7%9F%B3%E6%9D%90%E5%8A%A0%E5%B7%A5/smile-gbo",
+       "title": "»smile | GBO«",
+       "text": "大口径光学系により、極めて高精度な高度測定を実現",
+       "img": {
+        "src": "/fileadmin/_processed_/f/4/csm_smileGBO_preview_ab539499c1.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A/cnc%E7%9F%B3%E6%9D%90%E5%8A%A0%E5%B7%A5/condress",
+       "title": "»conDress«",
+       "text": "石材加工工具の洗浄および切削性能の回復",
+       "img": {
+        "src": "/fileadmin/_processed_/8/5/csm_conDress_preview_e519dedb34.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "特注ソリューション",
+     "items": [
+      {
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A/%E7%89%B9%E6%B3%A8%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E7%89%B9%E6%B3%A8%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+       "title": "特注ソリューション",
+       "text": "お客様のニーズに合わせた特別なソリューションのラインナップはこちらをご覧ください",
+       "img": null,
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "src_path": "/ja/製品/設定と測定",
+ "de_path": "/produkte/einstellen-messen"
+}

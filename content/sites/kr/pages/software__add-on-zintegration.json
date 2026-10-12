@@ -1,0 +1,502 @@
+{
+ "path": "/software/add-on-zintegration",
+ "url": "/kr/software/add-on-zintegration",
+ "title": "Add-on »z.Integration«",
+ "description": "Add-on »z.Integration« - 확장된 제조 환경을 위한 제조사 독립형 공구 관리 솔루션 - 스마트 네트워킹",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "제품 /",
+   "href": "/kr/%EC%A0%9C%ED%92%88"
+  },
+  {
+   "label": "공구 관리 /",
+   "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC"
+  },
+  {
+   "label": "Software /",
+   "href": "/kr/software"
+  },
+  {
+   "label": "Add-on »z.Integration«",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "제품 /",
+   "href": "/kr/%EC%A0%9C%ED%92%88"
+  },
+  {
+   "label": "공구 관리 /",
+   "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC"
+  },
+  {
+   "label": "Software /",
+   "href": "/kr/software"
+  },
+  {
+   "label": "Add-on »z.Integration«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/software/add-on-zintegration",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/software/add-on-integration",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/software/add-on-zintegration",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/software/add-on-zintegration",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/software/add-on-zintegration",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/software/add-on-zintegration",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/software/add-on-zintegration",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/software/add-on-zintegration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/software/add-on-zintegration",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/software/add-on-zintegration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/software/add-on-zintegration",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/software/add-on-zintegration",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/software/add-on-integration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/software/add-on-zintegration",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/software/add-on-zintegration",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Software",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/kr/software",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "»TMS Core«",
+     "href": "/kr/software/tms-core",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Stock«",
+     "href": "/kr/software/add-on-zstock",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.CAM Integration«",
+     "href": "/kr/software/add-on-zcam-integration",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Resources«",
+     "href": "/kr/software/add-on-zresources",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Shopfloor«",
+     "href": "/kr/software/add-on-zshopfloor",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Connectivity«",
+     "href": "/kr/software/add-on-zconnectivity",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Integration«",
+     "href": "/kr/software/add-on-zintegration",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c164329",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> 스마트 네트워킹 </h3> <h1> Add-on »z.Integration« </h1>",
+   "body": "<p><strong>»z.Integration« 애드온이</strong> 포함된 ZOLLER TMS는 규모가 커진 생산 환경을 위한 제조사 독립형 공구 관리 솔루션입니다. 진정한 브라운필드 커넥터로서, 이 시스템은 수백 개의 인터페이스를 연결하고 가장 다양한 타사 시스템을 중앙 공구 데이터베이스에 완벽하게 통합합니다. 설정 및 측정 장비부터 자동 창고 시스템, ERP 및 CAM 환경에 이르기까지 어떤 시스템이 사용되고 있든, ZOLLER TMS는 공구의 전체 수명 주기에 걸쳐 일관된 데이터 흐름을 보장합니다.</p> <p><a class=\"btn\" href=\"/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98\">지금 문의하기</a> <a href=\"https://myzoller.com/de/de/expert/booking/\" rel=\"noopener\" target=\"_blank\">1:1 전문가 상담</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/a/7/csm_zIntegration_product_38b70f8400.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 852
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c164378",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "기존 시스템을 대체하는 대신 통합하기 ",
+    "분산된 솔루션 대신 중앙 집중식 데이터베이스 활용하기 ",
+    "특정 제조사에 구애받지 않는 미래 지향적인 디지털화"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c164383",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "table",
+   "header": "<h2> Add-on »z.Integration« </h2>",
+   "table": "<table> <tbody> <tr> <td> </td> <td class=\"text-center\"> 웹 브라우저 </td> <td class=\"text-center\"> 데스크톱 </td> </tr> <tr> <td> Excel 데이터 가져오기 인터페이스 V1/V2 </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> 타사 제조사 설정 장치 연동 </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ⦿ </td> </tr> <tr> <td> CAM 인터페이스 </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ⦿ </td> </tr> <tr> <td> 시뮬레이션 인터페이스 </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ⦿ </td> </tr> <tr> <td> ERP 인터페이스 </td> <td class=\"text-center\"> ⦿ </td> <td class=\"text-center\"> ⦿ </td> </tr> <tr> <td> 창고 시스템 인터페이스 </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ⦿ </td> </tr> <tr> <td> 타사 시스템에서 데이터 가져오기 </td> <td class=\"text-center\"> ⦿ </td> <td class=\"text-center\"> ⦿ </td> </tr> <tr> <td> 타사 시스템 연동 </td> <td class=\"text-center\"> ⦿ </td> <td class=\"text-center\"> ⦿ </td> </tr> <tr> <td> OEM 데이터 가져오기 인터페이스 (Sandvik/KM/Iscar 및 기타) </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> ToolsUnited 인터페이스 </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> TOOLS ERA 인터페이스 </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c164388",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p>● 기본 ⦿ 선택 사항 <strong>―</strong> 사용 불가 </p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c164427",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/c/csm_zIntegration_prozess_EN_9c0723c0ea.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 428
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164393",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Add-on »z.Integration« </h3> <h2> 공정 품질 </h2>",
+   "body": "<p class=\"large-text\">이 애드온을 사용하면 기존 시스템을 교체할 필요 없이 기존 투자를 그대로 유지할 수 있습니다.</p> <p class=\"large-text\">이 애드온은 자동화되고 일관된 데이터 흐름 덕분에 프로세스 속도를 눈에 띄게 높여줍니다.</p> <p class=\"large-text\">이 애드온을 통해 시스템 단절이 더 이상 발생하지 않으며, 모든 애플리케이션이 매끄럽게 연동됩니다.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/c/e/csm_zIntegration_benefit_EN_65f7452272.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c164398",
+   "bg": "image",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/c/9/csm_zIntegration_Feature_01_e176f7ae25.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "title": "ZOLLER와의 대화",
+     "caption": "<figcaption> <h3>ZOLLER와의 대화</h3> <p>대등한 입장에서의 상담</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/3/csm_zIntegration_Feature_02_7e2aeb8599.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "title": "교육",
+     "caption": "<figcaption> <h3>교육</h3> <p>ZOLLER 시스템의 최적 활용을 위한 교육</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164403",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 애드온을 통한 »통합 등으로« 가능한 외부 시스템 선정 </h2>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164416",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-33-33",
+   "columns": [
+    [
+     {
+      "type": "table",
+      "header": "",
+      "table": "<table> <tbody> <tr> <td class=\"text-center\"></td> </tr> <tr> <td class=\"text-center\"> 베어링 </td> </tr> <tr> <td class=\"text-center\"> Gühring </td> </tr> <tr> <td class=\"text-center\"> Hänel </td> </tr> <tr> <td class=\"text-center\"> Iscar </td> </tr> <tr> <td class=\"text-center\"> Kardex </td> </tr> <tr> <td class=\"text-center\"> Kennametal </td> </tr> <tr> <td class=\"text-center\"> + 기타 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c169984",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "table",
+      "header": "",
+      "table": "<table> <tbody> <tr> <td class=\"text-center\"></td> </tr> <tr> <td class=\"text-center\"> 시뮬레이션 </td> </tr> <tr> <td class=\"text-center\"> NCSimul </td> </tr> <tr> <td class=\"text-center\"> Vericut </td> </tr> <tr> <td class=\"text-center\"></td> </tr> <tr> <td class=\"text-center\"></td> </tr> <tr> <td class=\"text-center\"></td> </tr> <tr> <td class=\"text-center\"> + 기타 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c169986",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "table",
+      "header": "",
+      "table": "<table> <tbody> <tr> <td class=\"text-center\"></td> </tr> <tr> <td class=\"text-center\"> ERP </td> </tr> <tr> <td class=\"text-center\"> ﻿abas </td> </tr> <tr> <td class=\"text-center\"> Mantis </td> </tr> <tr> <td class=\"text-center\"> SAP </td> </tr> <tr> <td class=\"text-center\"></td> </tr> <tr> <td class=\"text-center\"></td> </tr> <tr> <td class=\"text-center\"> + 기타 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c169987",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-33-33-33",
+   "id": "c169985",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "large"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/9/csm_TMS_teaser_46de18cb11.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "공구 관리: 귀사가 누릴 수 있는 이점",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/toolmanagement",
+     "caption": "<figcaption> <h3>공구 관리: 귀사가 누릴 수 있는 이점</h3> <p>ZOLLER의 공구 관리 솔루션이 어떻게 생산성을 즉시 향상시키는지 확인해 보세요. 공구 데이터를 활용하면 공정이 더 빠르고 안전하게 진행되며, 여기에는 기계의 충돌 방지 기능도 포함됩니다. </p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now. </p> <br/> 자세히 알아보기 </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164343",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/kr/software/add-on-zintegration",
+ "de_path": "/produkte/toolmanagement/software/add-on-zintegration"
+}

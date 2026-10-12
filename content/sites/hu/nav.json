@@ -1,0 +1,740 @@
+{
+ "meta": [
+  {
+   "label": "Szolgáltatások",
+   "href": "/hu/vallalat/kapcsolat/kapcsolattarto"
+  },
+  {
+   "label": "Média",
+   "href": "/hu/vallalat/media"
+  },
+  {
+   "label": "Karrier",
+   "href": "/hu/vallalat/karrier"
+  }
+ ],
+ "main": [
+  {
+   "label": "A rendszer",
+   "href": "/hu/a-rendszer"
+  },
+  {
+   "label": "Az Ön sikere",
+   "href": "/hu/az-oen-sikere"
+  },
+  {
+   "label": "Megoldások",
+   "href": "/hu/megoldasok",
+   "children": [
+    {
+     "label": "Miért a ZOLLER Solutions?",
+     "href": "/hu/megoldasok"
+    },
+    {
+     "label": "Beállítás és mérés",
+     "href": "/hu/megoldasok/beallitas-es-meres"
+    },
+    {
+     "label": "Ellenőrzés és mérés",
+     "href": "/hu/megoldasok/ellenorzes-es-meres"
+    },
+    {
+     "label": "Automatizálás",
+     "href": "/hu/megoldasok/automatizalas",
+     "children": [
+      {
+       "label": "Áttekintés",
+       "href": "/hu/megoldasok/automatizalas"
+      },
+      {
+       "label": "Logisztika",
+       "href": "/hu/megoldasok/automatizalas/logisztika"
+      },
+      {
+       "label": "Szerszámok előkészítése",
+       "href": "/hu/megoldasok/automatizalas/szerszamok-elokeszitese"
+      },
+      {
+       "label": "Szerszámok biztosítása",
+       "href": "/hu/megoldasok/automatizalas/szerszamok-biztositasa"
+      },
+      {
+       "label": "Szerszámellenőrzés",
+       "href": "/hu/megoldasok/automatizalas/szerszamellenorzes"
+      }
+     ]
+    },
+    {
+     "label": "Hőre zsugorodó technika",
+     "href": "/hu/megoldasok/hore-zsugorodo-technika"
+    },
+    {
+     "label": "Szerszámtartók",
+     "href": "/hu/megoldasok/szerszamtartok"
+    },
+    {
+     "label": "kiegyensúlyozási technika",
+     "href": "/hu/megoldasok/kiegyensulyozasi-technika"
+    },
+    {
+     "label": "CNC-kőmegmunkálás",
+     "href": "/hu/megoldasok/cnc-komegmunkalas"
+    }
+   ]
+  },
+  {
+   "label": "Termékek",
+   "href": "/hu/termekek",
+   "children": [
+    {
+     "label": "Termékáttekintés",
+     "href": "/hu/termekek"
+    },
+    {
+     "label": "Beállítás és mérés",
+     "href": "/hu/termekek/beallitas-es-meres",
+     "children": [
+      {
+       "label": "Függőleges készülékek",
+       "href": "/hu/termekek/beallitas-es-meres/fueggoleges-keszuelekek",
+       "children": [
+        {
+         "label": "»smile«",
+         "href": "/hu/termekek/beallitas-es-meres/fueggoleges-keszuelekek/smile",
+         "claim": "Bevezetés a professzionális beállításba és felmérésbe",
+         "desc": "A strapabíró, mikrométeres pontosságú belépő szintű eszközök standard szerszámokhoz",
+         "img": "/fileadmin/_processed_/4/3/csm_smile_preview_6232033e55.webp"
+        },
+        {
+         "label": "»venturion«",
+         "href": "/hu/termekek/beallitas-es-meres/fueggoleges-keszuelekek/venturion",
+         "claim": "A moduláris prémium osztály a legmagasabb elvárásoknak",
+         "desc": "Kiváló szerszámbeállítás és -mérés számos opcióval",
+         "img": "/fileadmin/_processed_/7/d/csm_venturion_preview_7611e56f51.webp"
+        }
+       ]
+      },
+      {
+       "label": "Vízszintes gépek",
+       "href": "/hu/termekek/beallitas-es-meres/vizszintes-gepek",
+       "children": [
+        {
+         "label": "»hyperion«",
+         "href": "/hu/termekek/beallitas-es-meres/vizszintes-gepek/hyperion",
+         "claim": "A sokoldalú eszköz, amelynek középpontjában a forgácsoló szerszámok állnak",
+         "desc": "Vízszintes beállító és mérőműszer forgácsoláshoz",
+         "img": "/fileadmin/_processed_/1/8/csm_hyperion_preview_3b4c91eaf7.webp"
+        }
+       ]
+      },
+      {
+       "label": "Automatizálási megoldások",
+       "href": "/hu/termekek/beallitas-es-meres/automatizalasi-megoldasok",
+       "children": [
+        {
+         "label": "»coraMeasure LG«",
+         "href": "/hu/termekek/automatizalas/szerszamok-elokeszitese/corameasure-lg",
+         "claim": "Az automatizált szerszámmérés",
+         "desc": "Gazdaságos szerszámkezelés a ZOLLER venturionhoz",
+         "img": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_b31336460f.webp"
+        },
+        {
+         "label": "»roboBox«",
+         "href": "/hu/termekek/automatizalas/szerszamok-elokeszitese/robobox",
+         "claim": "Moduláris automatizálás a szerszámgyártó műhely számára",
+         "desc": "Akár hat modul olyan rutinműveletekhez, mint a szerelés, tisztítás, mérés, zsugorítás és egyebek",
+         "img": "/fileadmin/_processed_/7/a/csm_roboBox_preview_ae1a1aba4b.webp"
+        }
+       ]
+      },
+      {
+       "label": "CNC-kőmegmunkálás",
+       "href": "/hu/termekek/beallitas-es-meres/cnc-komegmunkalas",
+       "children": [
+        {
+         "label": "»smile | GBO«",
+         "href": "/hu/termekek/beallitas-es-meres/cnc-komegmunkalas/smile-gbo",
+         "claim": "Kő- és faeszközök mérése",
+         "desc": "A nagy látómezőjű optikának köszönhetően rendkívül pontos magasságmérést tesz lehetővé",
+         "img": "/fileadmin/_processed_/f/4/csm_smileGBO_preview_63b44ef4c9.webp"
+        },
+        {
+         "label": "»conDress«",
+         "href": "/hu/termekek/ellenorzes-es-meres/cnc-komegmunkalas/condress",
+         "claim": "Gyémántbeültetett csiszolófelületek tisztítása",
+         "desc": "Kőmegmunkáló szerszámok tisztítása és vágóképességének helyreállítása",
+         "img": "/fileadmin/_processed_/8/5/csm_conDress_preview_7966236664.webp"
+        }
+       ]
+      },
+      {
+       "label": "Egyedi megoldások",
+       "href": "/hu/termekek/beallitas-es-meres/egyedi-megoldasok",
+       "children": [
+        {
+         "label": "Egyedi megoldások",
+         "href": "/hu/termekek/beallitas-es-meres/egyedi-megoldasok/egyedi-megoldasok",
+         "claim": "Megoldások az Ön egyedi igényeire"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Eszközkezelés",
+     "href": "/hu/termekek/eszkoezkezeles",
+     "children": [
+      {
+       "label": "Software",
+       "href": "/hu/software"
+      },
+      {
+       "label": "Szerszámraktár",
+       "href": "/hu/termekek/eszkoezkezeles/szerszamraktar",
+       "children": [
+        {
+         "label": "»twister«",
+         "href": "/hu/termekek/eszkoezkezeles/szerszamraktar/twister",
+         "claim": "Raktárszekrény",
+         "desc": "Szerszámalkatrészekhez és kiegészítőkhöz",
+         "img": "/fileadmin/_processed_/0/1/csm_twister__preview_9c9c9e9f21.webp"
+        },
+        {
+         "label": "»autoLock«",
+         "href": "/hu/termekek/eszkoezkezeles/szerszamraktar/autolock",
+         "claim": "Raktárszekrény",
+         "desc": "Mérőeszközök, üzemanyagok és nagyobb alkatrészek esetében",
+         "img": "/fileadmin/_processed_/2/7/csm_autolock__preview_89166f3498.webp"
+        },
+        {
+         "label": "»toolOrganizer«",
+         "href": "/hu/termekek/eszkoezkezeles/szerszamraktar/toolorganizer",
+         "claim": "Szerszámos szekrény",
+         "desc": "Vágószerszámokhoz és apró alkatrészekhez",
+         "img": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_bbf66a1054.webp"
+        },
+        {
+         "label": "»keeper«",
+         "href": "/hu/termekek/eszkoezkezeles/szerszamraktar/keeper",
+         "claim": "Szerszámos szekrény",
+         "desc": "Komplett szerszámokhoz és szerszámtartókhoz",
+         "img": "/fileadmin/_processed_/b/a/csm_keeper_preview_f25bf71aa1.webp"
+        },
+        {
+         "label": "»z.Storage«",
+         "href": "/hu/termekek/eszkoezkezeles/szerszamraktar/zstorage",
+         "claim": "Szerszámraktári anyagmozgatás",
+         "desc": "Cikkei az automatikus kiadási rendszer elve szerint kerülnek kiadásra",
+         "img": "/fileadmin/_processed_/f/5/csm_zStorage_preview_f2484908b6.webp"
+        }
+       ]
+      },
+      {
+       "label": "Szerszámok összeszerelése",
+       "href": "/hu/termekek/eszkoezkezeles/szerszamok-oesszeszerelese",
+       "children": [
+        {
+         "label": "»zTower«",
+         "href": "/hu/termekek/eszkoezkezeles/szerszamok-oesszeszerelese/ztower",
+         "claim": "Szerelőállomás",
+         "desc": "Univerzális szerszámrögzítéshez",
+         "img": "/fileadmin/_processed_/2/6/csm_zTower_preview_03c8143f73.webp"
+        },
+        {
+         "label": "»toolStation«",
+         "href": "/hu/termekek/eszkoezkezeles/szerszamok-oesszeszerelese/toolstation",
+         "claim": "Munkapad",
+         "desc": "Az optimális szerszám-összeszereléshez",
+         "img": "/fileadmin/_processed_/a/f/csm_toolStation_preview_284869f711.webp"
+        }
+       ]
+      },
+      {
+       "label": "Szerszámok szállítása",
+       "href": "/hu/termekek/eszkoezkezeles/szerszamok-szallitasa",
+       "children": [
+        {
+         "label": "»toolCart«",
+         "href": "/hu/termekek/eszkoezkezeles/szerszamok-szallitasa/toolcart",
+         "claim": "szerszámkocsi",
+         "desc": "A szerszámok kényelmes szállításához",
+         "img": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_f133269ad8.webp"
+        }
+       ]
+      },
+      {
+       "label": "Adatátvitel",
+       "href": "/hu/termekek/eszkoezkezeles/adatatvitel",
+       "children": [
+        {
+         "label": "»zidCode«",
+         "href": "/hu/termekek/eszkoezkezeles/adatatvitel/zidcode",
+         "claim": "A szerszámadatok hibátlan átvitele",
+         "desc": "Nagyobb biztonság és hatékonyság az egyszerű szerszámadatok kezelésének köszönhetően",
+         "img": "/fileadmin/_processed_/e/c/csm_zidCode_preview_21aa224ca2.webp"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Ellenőrzés és mérés",
+     "href": "/hu/termekek/ellenorzes-es-meres",
+     "children": [
+      {
+       "label": "Univerzális mérőgépek",
+       "href": "/hu/termekek/ellenorzes-es-meres/univerzalis-merogepek",
+       "children": [
+        {
+         "label": "»genius«",
+         "href": "/hu/termekek/ellenorzes-es-meres/univerzalis-merogepek/genius",
+         "claim": "A metálmegmunkáló szerszámok érintésmentes mérése és ellenőrzése",
+         "desc": "Több mint 100 paramétert mér rendkívüli pontossággal, és világszerte már több mint 1000 alkalommal bizonyította megbízhatóságát",
+         "img": "/fileadmin/_processed_/0/d/csm_genius_1_d819caed90.webp"
+        },
+        {
+         "label": "»titan«",
+         "href": "/hu/termekek/ellenorzes-es-meres/univerzalis-merogepek/titan",
+         "claim": "A csúcskategóriás kivitelű vizsgáló- és mérőgép",
+         "desc": "Azoknak a szakértőknek, akik mindent tudni akarnak – beleértve a vágóélek előkészítését is",
+         "img": "/fileadmin/_processed_/3/b/csm_titan__preview_7e0a3aa7f3.webp"
+        },
+        {
+         "label": "»smartCheck«",
+         "href": "/hu/termekek/ellenorzes-es-meres/univerzalis-merogepek/smartcheck",
+         "claim": "Beállítás, mérés és ellenőrzés egyetlen készülékben",
+         "desc": "Beállító és mérőműszer kiegészítő felülről eső fényforrással és kiterjesztett képelemzéssel",
+         "img": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_ca2a5afc34.webp"
+        }
+       ]
+      },
+      {
+       "label": "Folyamatorientált mérés",
+       "href": "/hu/termekek/ellenorzes-es-meres/folyamatorientalt-meres",
+       "children": [
+        {
+         "label": "»pomBasic«",
+         "href": "/hu/termekek/ellenorzes-es-meres/folyamatorientalt-meres/pombasic",
+         "claim": "A gyártás során végzett precíz kézi ellenőrzéshez",
+         "desc": "A gyártási folyamat közben több mint 70 paraméter ellenőrzése a szerszámon",
+         "img": "/fileadmin/_processed_/5/f/csm_pombasic__preview_2a4f915bf9.webp"
+        },
+        {
+         "label": "»mμFocus«",
+         "href": "/hu/termekek/ellenorzes-es-meres/folyamatorientalt-meres/mmfocus",
+         "claim": "A 2 az 1-ben készülék az SKP és a felületi érdesség méréséhez",
+         "desc": "Elemezi a domborzatokat és 3D-ábrákat készít a szerszámok vágóéleiről",
+         "img": "/fileadmin/_processed_/c/0/csm_myFocus__preview_4b3d285137.webp"
+        }
+       ]
+      },
+      {
+       "label": "Automatizálási megoldások",
+       "href": "/hu/termekek/ellenorzes-es-meres/automatizalasi-megoldasok",
+       "children": [
+        {
+         "label": "»roboSet 2«",
+         "href": "/hu/termekek/automatizalas/szerszamellenorzes/roboset-2",
+         "claim": "Szerszámellenőrzés és -dokumentáció a nap 24 órájában",
+         "desc": "Szerszámkezelés a »genius«, »3dCheck«, »threadCheck«, »titan« és »edgeControl« szoftverekhez",
+         "img": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_354a6e7ab1.webp"
+        }
+       ]
+      },
+      {
+       "label": "CNC-kőmegmunkálás",
+       "href": "/hu/termekek/ellenorzes-es-meres/cnc-komegmunkalas",
+       "children": [
+        {
+         "label": "»conDiaZ«",
+         "href": "/hu/termekek/ellenorzes-es-meres/cnc-komegmunkalas/condiaz",
+         "claim": "Pontos kontúrmérés másodpercek alatt",
+         "desc": "Kifejezetten gyémántbevonatú kőmegmunkáló szerszámok mérésére és ellenőrzésére szolgáló mérőműszer",
+         "img": "/fileadmin/_processed_/b/1/csm_conDiaz_preview_8d8faa8ebf.webp"
+        },
+        {
+         "label": "»conDress«",
+         "href": "/hu/termekek/ellenorzes-es-meres/cnc-komegmunkalas/condress",
+         "claim": "Gyémántbeültetett csiszolófelületek tisztítása",
+         "desc": "Kőmegmunkáló szerszámok tisztítása és vágóképességének helyreállítása",
+         "img": "/fileadmin/_processed_/8/5/csm_conDress_preview_7966236664.webp"
+        }
+       ]
+      },
+      {
+       "label": "Egyedi megoldások",
+       "href": "/hu/termekek/ellenorzes-es-meres/egyedi-megoldasok",
+       "children": [
+        {
+         "label": "Egyedi megoldások",
+         "href": "/hu/termekek/ellenorzes-es-meres/egyedi-megoldasok/egyedi-megoldasok",
+         "claim": "Megoldások az Ön egyedi igényeire"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Automatizálás",
+     "href": "/hu/termekek/automatizalas",
+     "children": [
+      {
+       "label": "Szerszámlogisztika",
+       "href": "/hu/termekek/automatizalas/szerszamlogisztika",
+       "children": [
+        {
+         "label": "»coraLogistic«",
+         "href": "/hu/termekek/automatizalas/szerszamlogisztika/coralogistic",
+         "claim": "Az automatizált gyártási logisztika",
+         "desc": "Szállítási feladatokhoz a szerszámraktár, a szerszámelőkészítés és a CNC-gép között",
+         "img": "/fileadmin/_processed_/c/0/csm_coraLogistics_preview_4e713a1c9b.webp"
+        },
+        {
+         "label": "»coraMachineLoad«",
+         "href": "/hu/termekek/automatizalas/szerszamlogisztika/coramachineload",
+         "claim": "Teljesen automatikusan betölti és kirakja a CNC-gépeket",
+         "desc": "Pontos és pontos szerszámkezelés a logisztika és a gépi raktár között",
+         "img": "/fileadmin/_processed_/e/e/csm_coraMaschineLoad_preview_f78fc031d8.webp"
+        }
+       ]
+      },
+      {
+       "label": "Szerszámok előkészítése",
+       "href": "/hu/termekek/automatizalas/szerszamok-elokeszitese",
+       "children": [
+        {
+         "label": "»coraMeasure LG«",
+         "href": "/hu/termekek/automatizalas/szerszamok-elokeszitese/corameasure-lg",
+         "claim": "Az automatizált szerszámmérés",
+         "desc": "Gazdaságos szerszámkezelés a ZOLLER venturionhoz",
+         "img": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_b31336460f.webp"
+        },
+        {
+         "label": "»roboBox«",
+         "href": "/hu/termekek/automatizalas/szerszamok-elokeszitese/robobox",
+         "claim": "Moduláris automatizálás a szerszámgyártó műhely számára",
+         "desc": "Akár hat modul olyan rutinműveletekhez, mint a szerelés, tisztítás, mérés, zsugorítás és egyebek",
+         "img": "/fileadmin/_processed_/7/a/csm_roboBox_preview_ae1a1aba4b.webp"
+        },
+        {
+         "label": "»micBox«",
+         "href": "/hu/termekek/automatizalas/szerszamok-elokeszitese/micbox",
+         "claim": "A cserélhető pengék hatékony kezelése",
+         "desc": "A forgácsolóbetétek forgatását, megfordítását és cseréjét végzi",
+         "img": "/fileadmin/_processed_/6/a/csm_micbox_preview_e6568b3640.webp"
+        }
+       ]
+      },
+      {
+       "label": "Szerszámok biztosítása",
+       "href": "/hu/termekek/automatizalas/szerszamok-biztositasa",
+       "children": [
+        {
+         "label": "»loadBox«",
+         "href": "/hu/termekek/automatizalas/szerszamok-biztositasa/loadbox",
+         "claim": "Az intelligens szerszámközpont",
+         "desc": "A megrendeléseknek megfelelően összeállítja a szerszámokat, és átadja azokat a logisztikai részlegnek",
+         "img": "/fileadmin/_processed_/5/3/csm_loadBox_preview_d9538dbfe3.webp"
+        }
+       ]
+      },
+      {
+       "label": "Szerszámellenőrzés",
+       "href": "/hu/termekek/automatizalas/szerszamellenorzes",
+       "children": [
+        {
+         "label": "»roboSet 2«",
+         "href": "/hu/termekek/automatizalas/szerszamellenorzes/roboset-2",
+         "claim": "Szerszámellenőrzés és -dokumentáció a nap 24 órájában",
+         "desc": "Szerszámkezelés a »genius«, »3dCheck«, »threadCheck«, »titan« és »edgeControl« szoftverekhez",
+         "img": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_354a6e7ab1.webp"
+        }
+       ]
+      },
+      {
+       "label": "Lézeres jelölés",
+       "href": "/hu/termekek/automatizalas/lezeres-jeloeles",
+       "children": [
+        {
+         "label": "»roboMark«",
+         "href": "/hu/termekek/automatizalas/lezeres-jeloeles/robomark",
+         "claim": "Lézeres jelölőberendezés",
+         "desc": "Szerszámai gyors és pontos feliratozása",
+         "img": "/fileadmin/_processed_/9/c/csm_roboMark_preview_ecf02129c4.webp"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Hőre zsugorodó technika",
+     "href": "/hu/termekek/hore-zsugorodo-technika",
+     "children": [
+      {
+       "label": "»powerShrink«",
+       "href": "/hu/termekek/hore-zsugorodo-technika/powershrink",
+       "claim": "Szerszámok zsugorodnak",
+       "desc": "Az optimális energiahatékonyságú és maximális biztonságot nyújtó zsugorító rendszer",
+       "img": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_8e31408c1d.webp"
+      },
+      {
+       "label": "»redomatic«",
+       "href": "/hu/termekek/hore-zsugorodo-technika/redomatic",
+       "claim": "Zsugorítás és mérés",
+       "desc": "Univerzális beállító- és mérőműszer beépített szerszám-összehúzó rendszerrel",
+       "img": "/fileadmin/_processed_/f/b/csm_redomatic_preview_afc51b7ecf.webp"
+      }
+     ]
+    },
+    {
+     "label": "Szerszámtartók",
+     "href": "/hu/termekek/szerszamtartok",
+     "children": [
+      {
+       "label": "Tooling Shop",
+       "href": "https://myzoller.com/de/de/shop/tooling",
+       "claim": "Több mint 2500 szerszámtartó",
+       "desc": "Opcionálisan »idChip«-pel, az aktuális szerszámadatoknak köszönhetően nagyobb folyamatbiztonságot biztosítva. Kompatibilis a ZOLLER TMS szerszámkezelő megoldásokkal.",
+       "img": "/fileadmin/_processed_/3/f/csm_ToolingSolutions4_preview_6c25bb2bd5.webp"
+      }
+     ]
+    },
+    {
+     "label": "kiegyensúlyozási technika",
+     "href": "/hu/termekek/kiegyensulyozasi-technika",
+     "children": [
+      {
+       "label": "»toolBalancer«",
+       "href": "/hu/termekek/kiegyensulyozasi-technika/toolbalancer",
+       "claim": "Szerszámok kiegyensúlyozása",
+       "desc": "A legmodernebb technológiával és ergonómikus kialakítással rendelkező kiegyensúlyozó rendszer",
+       "img": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_c222571512.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Akadémia",
+   "href": "/hu/akademia"
+  },
+  {
+   "label": "Események",
+   "href": "/hu/esemenyek"
+  },
+  {
+   "label": "Vállalat",
+   "href": "/hu/vallalat",
+   "children": [
+    {
+     "label": "Áttekintés megjelenítése",
+     "href": "/hu/vallalat"
+    },
+    {
+     "label": "Profil",
+     "href": "/hu/vallalat/profil",
+     "children": [
+      {
+       "label": "A ZOLLER-ről",
+       "href": "/hu/vallalat/profil"
+      },
+      {
+       "label": "Referenciák",
+       "href": "/hu/vallalat/profil/referenciak"
+      },
+      {
+       "label": "Partner",
+       "href": "/hu/vallalat/profil/partner"
+      },
+      {
+       "label": "Története",
+       "href": "/hu/vallalat/profil/toertenete"
+      }
+     ]
+    },
+    {
+     "label": "Kapcsolat",
+     "href": "/hu/vallalat/kapcsolat",
+     "children": [
+      {
+       "label": "Kapcsolatfelvételi űrlap",
+       "href": "/hu/vallalat/kapcsolat"
+      },
+      {
+       "label": "Telephelyek",
+       "href": "/hu/vallalat/kapcsolat/telephelyek"
+      },
+      {
+       "label": "Intelligens gyár",
+       "href": "/hu/vallalat/kapcsolat/intelligens-gyar"
+      },
+      {
+       "label": "Kapcsolattartó",
+       "href": "/hu/vallalat/kapcsolat/kapcsolattarto"
+      },
+      {
+       "label": "Egyéni szakértői konzultáció",
+       "href": "https://myzoller.com/de/de/expert/booking"
+      },
+      {
+       "label": "Képzések és tréningek",
+       "href": "/hu/vallalat/kapcsolat/kepzesek-es-treningek"
+      },
+      {
+       "label": "Hírlevél",
+       "href": "/hu/vallalat/kapcsolat/hirlevel"
+      }
+     ]
+    },
+    {
+     "label": "Karrier",
+     "href": "/hu/vallalat/karrier",
+     "children": [
+      {
+       "label": "Karrier a ZOLLER-nél",
+       "href": "/hu/vallalat/karrier"
+      },
+      {
+       "label": "Állásajánlatok",
+       "href": "/hu/vallalat/karrier/allasajanlatok"
+      },
+      {
+       "label": "GYIK",
+       "href": "/hu/vallalat/karrier/gyik"
+      },
+      {
+       "label": "Jelentkezés",
+       "href": "/hu/vallalat/karrier/jelentkezes"
+      }
+     ]
+    },
+    {
+     "label": "Jelentések és történetek",
+     "href": "/hu/vallalat/jelentesek-es-toertenetek"
+    },
+    {
+     "label": "Média",
+     "href": "/hu/vallalat/media"
+    },
+    {
+     "label": "Fenntarthatóság",
+     "href": "/hu/vallalat/fenntarthatosag"
+    },
+    {
+     "label": "Minőségirányítás",
+     "href": "/hu/vallalat/minosegiranyitas"
+    },
+    {
+     "label": "Megfelelés",
+     "href": "/hu/vallalat/megfeleles"
+    }
+   ]
+  }
+ ],
+ "footer_links": [
+  {
+   "label": "Go up",
+   "href": "#body"
+  },
+  {
+   "label": "A rendszer",
+   "href": "/hu/a-rendszer"
+  },
+  {
+   "label": "Az Ön sikere",
+   "href": "/hu/az-oen-sikere"
+  },
+  {
+   "label": "Megoldások",
+   "href": "/hu/megoldasok"
+  },
+  {
+   "label": "Termékek",
+   "href": "/hu/termekek"
+  },
+  {
+   "label": "Akadémia",
+   "href": "/hu/akademia"
+  },
+  {
+   "label": "Események",
+   "href": "/hu/esemenyek"
+  },
+  {
+   "label": "Vállalat",
+   "href": "/hu/vallalat"
+  },
+  {
+   "label": "Szolgáltatások",
+   "href": "/hu/vallalat/kapcsolat/kapcsolattarto"
+  },
+  {
+   "label": "Média",
+   "href": "/hu/vallalat/media"
+  },
+  {
+   "label": "Karrier",
+   "href": "/hu/vallalat/karrier"
+  },
+  {
+   "label": "Gazdaságossági kalkulátor",
+   "href": "/hu/gazdasagossagi-kalkulator"
+  },
+  {
+   "label": "Kapcsolattartó",
+   "href": "/hu/vallalat/kapcsolat/kapcsolattarto"
+  },
+  {
+   "label": "E-mail küldése",
+   "href": "mailto:info@zoller.info"
+  },
+  {
+   "label": "ZOLLER szerviz",
+   "href": "/hu/vallalat/kapcsolat/kapcsolattarto"
+  },
+  {
+   "label": "Szoftverfrissítések",
+   "href": "/hu/szoftverfrissitesek"
+  },
+  {
+   "label": "Online ügyfélszolgálat",
+   "href": "/hu/online-uegyfelszolgalat"
+  },
+  {
+   "label": "Üzleti területek",
+   "href": "/hu/uezleti-terueletek-1"
+  },
+  {
+   "label": "Hírlevélre feliratkozás",
+   "href": "/hu/vallalat/kapcsolat/hirlevel"
+  },
+  {
+   "label": "LinkedIn",
+   "href": "https://www.linkedin.com/company/zollersolutions"
+  },
+  {
+   "label": "YouTube",
+   "href": "https://www.youtube.com/user/zollertv"
+  },
+  {
+   "label": "Kapcsolat",
+   "href": "/hu/vallalat/kapcsolat"
+  },
+  {
+   "label": "Adatvédelem",
+   "href": "/hu/adatvedelem"
+  },
+  {
+   "label": "Jogi nyilatkozat",
+   "href": "/hu/jogi-nyilatkozat"
+  },
+  {
+   "label": "Jogi nyilatkozat",
+   "href": "/hu/jogi-nyilatkozat-1"
+  },
+  {
+   "label": "Cookie settings",
+   "href": "#"
+  }
+ ]
+}

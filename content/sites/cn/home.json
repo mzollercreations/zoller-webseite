@@ -1,0 +1,53 @@
+{
+ "_info": "Zusätze der China-Startseite: Abschnitt zu ZOLLER Shanghai (wie Ann Arbor auf der USA-Seite). Fakten aus der Firmenchronik (2004 Standort Shanghai, 2020 Neubau) und content/locations.json (Asia Pacific Regional Headquarter). Bilder: Chronik 2020 (neues Gebäude) und 2004 (erster Standort).",
+ "hq": {
+  "id": "shanghai",
+  "kicker": "ZOLLER Shanghai, Ltd. · 亚太区域总部",
+  "title": "上海。<br><em>ZOLLER 在中国的家。</em>",
+  "text": "<p>2004 年，ZOLLER 在上海开设了中国分公司。16 年后的 2020 年，ZOLLER 为中国分公司启用了全新的办公大楼——这是国际业务发展道路上的又一个里程碑。</p><p>位于上海闵行区的 ZOLLER Shanghai 同时也是 ZOLLER 亚太区域总部，为中国及亚太地区的客户提供服务、培训和技术支持。</p>",
+  "image": {
+   "src": "/fileadmin/_processed_/e/4/csm_2020_09_6e0fd677cf.webp",
+   "alt": "ZOLLER 上海新办公大楼夜景",
+   "w": 1200,
+   "h": 587
+  },
+  "image2": {
+   "src": "/fileadmin/_processed_/0/5/csm_2004_02_cb9a1f217b.webp",
+   "alt": "2004 年 ZOLLER 在上海的第一个办公地点",
+   "w": 1200,
+   "h": 587,
+   "caption": "2004 年 ZOLLER 在上海的第一个办公地点。"
+  },
+  "facts": [
+   {
+    "value": "2004",
+    "label": "ZOLLER 进入中国"
+   },
+   {
+    "value": "2020",
+    "label": "新办公大楼启用"
+   },
+   {
+    "value": "APAC",
+    "label": "亚太区域总部"
+   }
+  ],
+  "address": [
+   "ZOLLER Shanghai, Ltd.",
+   "上海市闵行区北横沙河路468弄70号",
+   "邮编 201108"
+  ],
+  "phone": "+86 21 3407 3978",
+  "buttons": [
+   {
+    "label": "联系我们",
+    "page": "/unternehmen/kontakt/ansprechpartner"
+   },
+   {
+    "label": "规划路线",
+    "href": "https://www.google.com/maps/search/?api=1&query=ZOLLER+Shanghai+468+North+Hengshahe+Road+Minhang",
+    "ghost": true
+   }
+  ]
+ }
+}

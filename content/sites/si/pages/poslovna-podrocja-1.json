@@ -1,0 +1,437 @@
+{
+ "path": "/poslovna-podrocja-1",
+ "url": "/si/poslovna-podrocja-1",
+ "title": "Poslovna področja",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/si/domaca-stran"
+  },
+  {
+   "label": "Poslovna področja",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/si/domaca-stran"
+  },
+  {
+   "label": "Poslovna področja",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/geschaeftsfelder",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/business-areas-1",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/areas-de-negocio-1",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/domaines-dactivite-1",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/areas-de-negocio-1",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/settori-di-attivita-1",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verksamhetsomraaden-1",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/geschaeftsfelder-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/secteurs-dactivite-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BA%8B%E6%A5%AD%E5%88%86%E9%87%8E-1",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%82%AC%EC%97%85-%EB%B6%84%EC%95%BC-1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/business-areas-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/areas-de-negocio-1",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/areas-de-negocio-1",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/c/4/csm_smartfactory_header_4a3f7f359c.webp",
+     "video": null,
+     "title": "Pregled podjetja ZOLLER: Naše strokovno znanje",
+     "kicker": "",
+     "text": "<p>Podpiramo vaše delo</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8150",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">Z našimi izdelki, stroji in programsko opremo vam pomagamo pospešiti vaše procese in zmanjšati količino odpadnega materiala.</p> <p class=\"extra-large-text\">Razvijamo rešitve, ki so natančno prilagojene vašim izzivom. Tukaj izvedite več o možnostih, ki vam jih ponujajo naša programska oprema in naprave.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8151",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Nastavitev in merjenje </h3> <h2> Z vnaprej nastavljenim orodjem prihranite stroške in povečajte varnost </h2>",
+   "body": "<p>Za natančno izdelavo delov sodobni CNC-obdelovalni stroji potrebujejo natančne podatke o geometriji orodja. Z napravo za prednastavitev orodja določite podatke o orodju zunaj stroja in tako prihranite veliko časa pri nastavitvi. Ob vstavitvi orodja takoj prenesete podatke o orodju iz naprave za prednastavitev orodja. Prenos podatkov na stroj poteka elektronsko in je zato popolnoma brez napak, saj so tipkarske napake in napake pri prenosu izključene.</p> <p><a class=\"btn\" href=\"/si/naprava-za-prednastavitev\">Več o napravah za nastavitev in merjenje za prednastavitev orodja</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/3/5/csm_smile_header_c846e8a6b4.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8153",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Upravljanje orodij </h3> <h2> Dobri razlogi za merljivo bolj gospodarno proizvodnjo </h2>",
+   "body": "<ul><li>Skrajšajte čas priprave: pravo orodje je vedno na pravem mestu ob pravem času. Izpis podatkov, prilagojen krmiljenju, preprečuje napake pri vnosu na stroju in s tem povezane stroške.</li><li>Iskanje namesto iskanja: Vedno veste, katera orodja so na voljo za katere stroje in kje se<br/>nahajajo.</li><li>Boljša organizacija: Načrtovani poteki z izračunljivimi časi na kos in učinkovitim nadzorom zagotavljajo učinkovito vodenje procesov in s tem kratke odzivne čase. Samostojne proizvodne enote je mogoče integrirati in organizirati.</li><li>Preprečevanje zastojev strojev: Vsa orodja so vedno na voljo, 24 ur na dan. S pravilnimi orodji na strojih se preprečijo trki in zlomi orodja.</li><li>Zagotovite kakovost: Visoka razpoložljivost sistema ter pregledni in stabilni proizvodni procesi zagotavljajo najvišjo kakovost.</li><li>Prihranek pri stroških skladiščenja: vidite, katera orodja se uporabljajo in kako pogosto, ter naročite le tisto, kar je dejansko potrebno.</li><li>Izkoristite potencial orodja: optimalne hitrosti rezanja in pomiki povečajo življenjsko dobo.</li><li>Povečanje produktivnosti: Optimiziran obtok orodij zagotavlja kratke proizvodne čase in polno izkoriščenost strojev, produktivnost se poveča, proizvodni stroški pa zmanjšajo.</li></ul><p><a class=\"btn\" href=\"/si/upravljanje-orodij\">Ekonomsko upravljanje orodij</a><br/><a class=\"btn\" href=\"/si/organizacija-orodja\">Učinkovito upravljanje skladišča in upravljanje proizvodnih podatkov</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/8/csm_keeper_header_fc94668ac2.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8165",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Prenos podatkov </h3> <h2> Varnejši in hitrejši prenos podatkov </h2>",
+   "body": "<p>Izmenjava podatkov med posameznimi proizvodnimi elementi je za sodobno industrijsko proizvodnjo nepogrešljiva. S programskimi rešitvami podjetja ZOLLER je zanesljiv in hiter prenos podatkov o orodjih vedno zagotovljen – popolnoma neodvisno od proizvajalca in platforme.</p> <p><a class=\"btn\" href=\"/si/prenos-podatkov-o-orodjih\">Prenos podatkov o orodjih</a><br/><a class=\"btn\" href=\"/si/nadzor-orodja\">Popolna oskrba z orodji in organizacija proizvodnje</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/8/5/csm_zidCode_kombi_header_8e15ec79e7.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8164",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Preverjanje in merjenje </h3> <h2> Merilni stroji zagotavljajo natančno proizvodnjo </h2>",
+   "body": "<p>Da orodja delujejo točno tako, kot so bila načrtovana in izdelana, morajo biti sama natančno izdelana. Z našimi univerzalnimi merilnimi stroji je mogoče orodja meriti z mikrometersko natančnostjo in preveriti, ali ustrezajo zahtevam.</p> <p><a class=\"btn\" href=\"/si/merilni-stroji\">Večja natančnost zahvaljujoč merilnim strojem</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_genius_header_fd8701f3c0.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8161",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Avtomatizacija </h3> <h2> Rešitev za avtomatizacijo merjenja orodij </h2>",
+   "body": "<p>Naj gre za brušenje orodij ali za pripravo, zagotavljanje in nastavitev orodij – avtomatizacija vsakodnevnih opravil bo odgovor na ta izziv. Za vsako nalogo ZOLLER ponuja pravo rešitev za avtomatizirano ravnanje z orodji. Glede na zahteve lahko rešitev vključuje zaprt sistem z dodatnimi moduli, kompleksni koncept avtomatizacije ali podporo kolaborativnih robotov v orodjarni.</p> <p><a class=\"btn\" href=\"/si/resitve/avtomatizacija\">Vse o modularni avtomatizaciji za orodja za obdelavo</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/c/7/csm_corameasureLG_header_89e9e61ae5.webp",
+     "alt": "",
+     "w": 1428,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8162",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> tehnika krčenja </h3> <h2> Kratki časi priprave zaradi uporabe naprave za krčenje </h2>",
+   "body": "<p>Za mnoga orodja za vrtanje in rezkanje je krčenje orodja najhitrejša in hkrati tudi najnatančnejša metoda za vpenjanje orodja. Z ustrezno krčilno postajo je mogoče potrebne delovne korake enostavno izvesti; krčilni stroj lahko te korake v veliki meri avtomatizira in hkrati z ustreznimi meritvami zagotovi zanesljivost procesa.</p> <p><a class=\"btn\" href=\"/si/krcenje-orodja\">Kakšne prednosti prinaša krčenje orodja</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/9/csm_header_powershrink_fda54c16eb.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 896
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8163",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> tehnika uravnoteženja </h3> <h2> Uravnoteženje brusnih plošč in orodja? Pomembno in preprosto! </h2>",
+   "body": "<p>Za sodobne stroje za obdelavo so natančno uravnotežena orodja izjemno pomembna. Neuravnoteženost brusnih plošč, orodij in orodnih sistemov povzroča obrabo ali celo poškodbe vretena in motorjev – ne nazadnje pa tudi izpad obdelovancev. Redno uravnoteženje preprečuje zastoje, zagotavlja kakovost in na splošno zmanjšuje vaše stroške.</p> <p><a class=\"btn\" href=\"/si/uravnotezenje-orodja\">Naš sistem uravnoteženja podaljšuje življenjsko dobo orodij</a><br/><a class=\"btn\" href=\"/si/uravnotezenje-brusnega-diska\">Večja tišina delovanja in večja zmogljivost obdelave zaradi uravnoteženih brusnih plošč</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_header_toolBalancer_df19c3c897.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 896
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8160",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Optimizirajte življenjsko dobo vaših orodij </h2>",
+      "body": "<p>Čim daljša je življenjska doba obdelovalnega orodja, tem nižji so stroški za to orodje in tem učinkoviteje lahko deluje. Če poznate najpomembnejše dejavnike, ki vplivajo na življenjsko dobo, je lažje tudi te optimizirati.</p> <p><a class=\"btn\" href=\"/si/zivljenjska-doba-orodja\">Kako lahko nadzorujete in optimizirate življenjsko dobo svojega orodja</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "center",
+      "ftype": "textmedia",
+      "id": "c8166",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Optimizacija časa priprave –<br/>kako in zakaj? </h2>",
+      "body": "<p>Danes skoraj noben stroj ali naprava ne proizvaja le enega izdelka – praviloma se jih glede na potrebe prilagaja za različne izdelke. Zaradi tega nastanejo časi priprave, v katerih stroj praviloma ne proizvaja ničesar.</p> <p><a class=\"btn\" href=\"/si/optimizacija-casa-priprave\">Zakaj optimizacija časa priprave?</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c8168",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8167",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>1:1 Pogovor s strokovnjakom</h3> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/expert/booking\" rel=\"noopener\" target=\"_blank\">Določite termin zdaj</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/si/poslovna-podrocja-1",
+ "de_path": "/geschaeftsfelder"
+}

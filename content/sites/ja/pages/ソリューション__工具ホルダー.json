@@ -1,0 +1,572 @@
+{
+ "path": "/ソリューション/工具ホルダー",
+ "url": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B7%A5%E5%85%B7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC",
+ "title": "工具ホルダー",
+ "description": "工具ホルダー",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ja/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8"
+  },
+  {
+   "label": "ソリューション /",
+   "href": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3"
+  },
+  {
+   "label": "工具ホルダー",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ja/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8"
+  },
+  {
+   "label": "ソリューション /",
+   "href": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3"
+  },
+  {
+   "label": "工具ホルダー",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/werkzeugaufnahmen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/tooling-solutions",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/portaherramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/fixation-doutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/porta-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/soluzioni-dutensileria",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/verktygshaallare",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/werkzeugaufnahmen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/tooling-solutions",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/porte-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B7%A5%E5%85%B7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/tooling-solutions",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/porta-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/porta-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "工具ホルダー",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "よくある質問",
+     "href": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B7%A5%E5%85%B7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+     "current": false
+    },
+    {
+     "label": "情報ポータル",
+     "href": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B7%A5%E5%85%B7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC/%E6%83%85%E5%A0%B1%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1418",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "product_header",
+   "title": "ツーリングソリューション",
+   "text": "<p>デジタル製造の入口になる、</p> <p>ZOLLERのツールホルダー</p> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">今すぐ購入</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/d/c/csm_header_tooling_79126defc9.webp",
+    "alt": "",
+    "w": 1428,
+    "h": 896
+   },
+   "ftype": "zoller_product_header",
+   "id": "c1416",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 「スマートなツールホルダー」が、現場をスマートに変えていく </h2>",
+   "body": "<p>ZOLLERのツールホルダーには、»idChip«とデータマトリックスコードをご要望に応じて内蔵できます。これにより、ツールホルダー一本一本が「自分の履歴」を持つようになります——焼きばめの回数、加工機での使用回数、その他あらゆる情報を、いつでも瞬時に呼び出せる時代へ。一方で、ZOLLERのツールホルダーは「物理的な精度」も徹底的に追求しています。クランプショルダーは硬質旋削加工により高精度に仕上げられ、ドライブ溝の加工も極めて精密。これらが、長寿命と切削プロセスの最高精度を支えます。デジタルの賢さ、機械の精度、そしてサステナビリティ——この三つを併せ持つツールホルダーが、ものづくりの未来をかたちづくります。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/7/csm_zoller_smarte_solutions_171a2dc46c.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1417",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "連携されたプロセス",
+    "精度の保証",
+    "ワンストップサービス"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c1419",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> 最高の精度を実現する信頼性 </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/7/6/csm_ts_pin_modul_03_be3bbbf942.webp",
+    "alt": "",
+    "w": 1540,
+    "h": 630
+   },
+   "spots": [
+    {
+     "x": 23.533,
+     "y": 10.226,
+     "label": "チップの穴あけ",
+     "text": "<h3>チップの穴あけ</h3> <h4>チップ用穴</h4> <p>RFIDチップやZOLLER »idChip«などのデータキャリアを、ZOLLER Toolingの工具ホルダーに取り付けるためのものです。中空シャンクテーパーHSK-A、急テーパーSK、多角シャンクテーパーPSCには標準装備されています。</p> <h4>ZOLLER »idChip«</h4> <p>工具ホルダーを確実に識別し、製品寿命を最大限に延ばすためのものです。ご要望に応じて、チップが固定された状態でバランス調整済みの工具ホルダーを、お客様の製造現場へ直接お届けします。</p> <h4>3溝技術</h4> <p>チップ穴と工具ホルダーの嵌合部において、接着剤による形状嵌合を保証し、確実かつ強固な結合を実現します。</p>"
+    },
+    {
+     "x": 48.478,
+     "y": 43.161,
+     "label": "4つのネジ穴",
+     "text": "<h3>4つのネジ穴</h3> <h4>4つのネジ穴</h4> <p>標準収縮チャックの事後微調整用。</p>"
+    },
+    {
+     "x": 71.685,
+     "y": 51.793,
+     "label": "長いシュリンクフィット",
+     "text": "<h3>長いシュリンクフィット</h3> <h4>導入半径付きの長尺収縮嵌合</h4> <p>シャフト全長にわたって工具が加圧されるため、最大の収縮力を保証します。</p>"
+    },
+    {
+     "x": 13.641,
+     "y": 52.722,
+     "label": "引き込み肩",
+     "text": "<h3>引き込み肩</h3> <h4>高精度仕上げを施した引き込み肩</h4> <p>これにより、締め付け段における締め付けセグメントの最適な滑走と、スピンドル内の優れた締め付け力が保証されます。その結果、締め付け段における振れは最大10μm（DIN規格の5倍の精度）となります。</p>"
+    },
+    {
+     "x": 82.12,
+     "y": 56.972,
+     "label": "真円度公差",
+     "text": "<h3>真円度公差</h3> <h4>真円度公差</h4> <p>当社のツーリングソリューションは、3 µm未満の真円度を保証します。</p>"
+    },
+    {
+     "x": 24.674,
+     "y": 82.47,
+     "label": "精密バランス調整済み",
+     "text": "<h3>精密バランス調整済み</h3> <h4>精密バランス調整済み</h4> <p><strong>ZOLLER Toolingのすべての工具ホルダーは精密バランス調整済みです</strong>（25,000 min⁻¹でG2.5、または最大残留不均衡量≤1 gmm）。これにより、加工時のスピンドル回転が安定し、ベアリングへの負担が軽減されます。その結果、スピンドルの寿命延長、最適なワーク表面仕上げ、および工具寿命の向上というメリットが得られます。</p>"
+    },
+    {
+     "x": 8.533,
+     "y": 36.919,
+     "label": "ドライブ溝",
+     "text": "<h3>ドライブ溝</h3> <h4>高精度仕上げを施したドライブ溝</h4> <p>溝の位置が100%正確に中心に位置することを保証し、スピンドルへの完璧な嵌合と優れたトルク伝達を実現します。</p>"
+    },
+    {
+     "x": 23.478,
+     "y": 36.521,
+     "label": "放出面積",
+     "text": "<h3>放出面積</h3> <h4>硬質仕上げを施した排出面</h4> <p>工具交換時にHSK工具ホルダーが確実に外れることを保証します。</p>"
+    },
+    {
+     "x": 75.707,
+     "y": 75.697,
+     "label": "»coolTool«",
+     "text": "<h3>»coolTool«</h3> <h4>»coolTool«</h4> <p>工具の刃先を完璧に冷却し、切りくずの流れを最適化し、刃先への切りくずの堆積を防ぎます。冷却剤用穴を斜めに配置することで、冷却剤が必要な場所、つまり工具の刃先に確実に到達します。これにより、最適な切削結果が得られ、工具の寿命を延ばすことができます。</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c1420",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> まさにZOLLERらしい――すべてを一括で提供 </h2>",
+   "body": "<p>「一歩先を行く」とは、ZOLLERにとって単なる目標ではなく、創業以来守り続けてきた約束です。測定機の領域はもちろん、当社が手がけるすべての分野で、私たちは数十年にわたりこの約束を実践してきました。デジタル化の要求は、これからますます高度化します。そして、その先には「スマートファクトリー」という大きな変革が待っています。ZOLLERの「Tooling Solutions」が、お客様の未来をその時代に間に合わせます。</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/OKLwuZLfF2s?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Tooling Solutions – Werkzeughelden"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1421",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> ZOLLERのソリューションで、効率的な製造を実現 </h2>",
+   "body": "<p>ZOLLERのツーリングソリューションを活用し、効率的な製造プロセスを実現してください。当社は、お客様の加工ニーズに応える、高性能かつ高精度な工具保持システムを幅広く取り揃えております。さらに、ZOLLERのツーリングソリューションは、デジタル製造への最適なインターフェースとなります。</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/iaV2Il_Gqn8?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Tooling Solutions – die perfekte Schnittstelle für Ihre digitale Fertigung"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1422",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "66-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> 2000枚以上の写真 </h2>",
+      "body": "<p>ZOLLER Tooling Solutionsは、お客様の切削加工プロセスにおけるあらゆる要件に対応する、包括的なツールホルダーのラインナップをご用意しています。当社のホルダーはすべて、DIN規格の要件を常に上回る品質を誇ります。</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2063",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "none"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-2cols",
+   "id": "c2064",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/a/7/csm_ts_schrumpffutter_06c2dea98b.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "収縮チャック",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:schrumpffutter",
+     "caption": "<figcaption> <h3>収縮チャック</h3> <p>超硬合金またはHSS製のシリンダーシャンクを持つ工具の取付け用。</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/7/csm_ts_spannzangenfutter_eb7fca68dc.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "チャック",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:spannzangenfutter",
+     "caption": "<figcaption> <h3>チャック</h3> <p>シリンダーシャンク付き工具をERコレットに固定するために。</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_ts_weldonaufnahmen_9c7a361d17.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "ウェルドナの写真",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:weldonaufnahmen",
+     "caption": "<figcaption> <h3>ウェルドナの写真</h3> <p>内部冷却液供給機能のない工具の使用に最適です。</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_ts_whistle-notch-aufnahmen_b74918fa98.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "ホイッスル・ノッチの録音",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:whistle-notch-aufnahmen",
+     "caption": "<figcaption> <h3> ホイッスル・ノッチの録音</h3> <p>円筒軸を持つ工具の固定用。</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_ts_fuer_einschraubfraeser_e7d8ee83f6.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "ねじ切り用フライス",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:für-einschraubfräsen",
+     "caption": "<figcaption> <h3>ねじ切り用フライス</h3> <p>円筒軸を持つ工具の固定用。</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/2/csm_ts_messerkopfaufnahmen_b76fed0d9d.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "ナイフヘッドホルダー",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:messerkopfaufnahmen",
+     "caption": "<figcaption> <h3>ナイフヘッドホルダー</h3> <p>刃先に冷却液を供給する横溝付きフライスの取り付け用。</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/a/csm_ts_kombidorne_48f13a98c4.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "コンビドーン",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:kombidorne",
+     "caption": "<figcaption> <h3>コンビドーン</h3> <p>縦溝および横溝付きフライスの取り付け用。</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/f/csm_ts_morsekegelaufnahme_6909dcbe8a.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "モース信号の録音",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:morsekegelaufnahmen",
+     "caption": "<figcaption> <h3>モース信号の録音</h3> <p>DIN 2288に準拠したエジェクタタブ付きモーステーパー工具を取り付けるためのものです。</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/2/csm_ts_kurzbohrfutter_3c9582d0e0.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "ショートチャック",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:kurzbohrfutter",
+     "caption": "<figcaption> <h3>ショートチャック</h3> <p>円筒軸を持つ工具の固定用。</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/5/1/csm_ts_hawk_eye_07abe1a0d5.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "ホーク・アイ",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:hawk-eye",
+     "caption": "<figcaption> <h3>ホーク・アイ</h3> <p>HAWK EYE® HPC精密ERチャック</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/2/csm_ts_er_collet_a62fe34c96.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "ERチャック",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:er-spannzangen",
+     "caption": "<figcaption> <h3>ERチャック</h3> <p>ER &amp; ER ミニ»チャック«</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/a/b/csm_Schrumpfverlaenerungen_category_0b63e58178.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "シュリンクエクステンション",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:schrumpfverlängerungen",
+     "caption": "<figcaption> <h3>シュリンクエクステンション</h3> <p>円筒軸の工具を取り付けるためのものです。</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/c/csm_ts_accessories_651f0aa893.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "アクセサリー",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:zubehör",
+     "caption": "<figcaption> <h3>アクセサリー</h3> <p>ガスケット、締め付けナット</p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c1912",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> いまや、ツールホルダーもオンラインで！ </h2>",
+   "body": "<p> ZOLLERのオンラインショップなら、ツールホルダーの全ラインナップをいつでもご購入いただけます。膨大な製品の中から最適なツールホルダーを、簡単な検索ですばやくお選びいただけるうえ、購入時にはデジタルツインデータも同時に取得可能。CAMシステムや工具管理システムにそのまま取り込めば、設計から現場まで、データの流れがシームレスにつながります。</p> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">ツールショップへ</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/d/csm_zum_myzoller_shop_704443f1bc.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1423",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ja/ソリューション/工具ホルダー",
+ "de_path": "/solutions/werkzeugaufnahmen"
+}

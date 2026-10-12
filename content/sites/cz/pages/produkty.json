@@ -1,0 +1,438 @@
+{
+ "path": "/produkty",
+ "url": "/cz/produkty",
+ "title": "Produkty",
+ "description": "Produkty - Přehled produktů",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Produkty",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Produkty",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/02_Products/_Overview/zoller_solutions_header_02.mp4",
+     "title": "Zvolte si cestu k úspěchu",
+     "kicker": "",
+     "text": "<p>S řešením ZOLLER Solutions k vyšší efektivitě</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4402",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Přehled produktů </h2>",
+   "body": "<p class=\"extra-large-text\"><strong>Řešení ZOLLER jsou zárukou Vaší budoucnosti – pomáháme Vám dosáhnout větších úspěchů. Kdo totiž vyrábí rychleji a efektivněji, pracuje hospodárněji a může tak investovat do budoucnosti. Pokud je Vaším cílem hospodářský pokrok, pak je ZOLLER tím správným partnerem.</strong></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4399",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "productlist",
+   "filters": {
+    "solutions": [
+     {
+      "value": "259",
+      "label": "Měření a seřizování",
+      "selected": false
+     },
+     {
+      "value": "251",
+      "label": "Správa nástrojů",
+      "selected": false
+     },
+     {
+      "value": "254",
+      "label": "Měření a kontrola",
+      "selected": false
+     },
+     {
+      "value": "253",
+      "label": "Automatizace",
+      "selected": false
+     },
+     {
+      "value": "250",
+      "label": "Tepelné upínání nástrojů",
+      "selected": false
+     },
+     {
+      "value": "252",
+      "label": "Nástrojové upínací držáky",
+      "selected": false
+     },
+     {
+      "value": "249",
+      "label": "Vyvažování nástrojů",
+      "selected": false
+     }
+    ],
+    "tool": [
+     {
+      "value": "659",
+      "label": "Vrtací nástroje",
+      "selected": false
+     },
+     {
+      "value": "660",
+      "label": "Fréza s krytem",
+      "selected": false
+     },
+     {
+      "value": "661",
+      "label": "Obráběcí nástroje",
+      "selected": false
+     },
+     {
+      "value": "662",
+      "label": "Otočné a vyřezávací nástroje",
+      "selected": false
+     },
+     {
+      "value": "663",
+      "label": "Frézovací nástroje",
+      "selected": false
+     },
+     {
+      "value": "664",
+      "label": "Nástroje pro jemné vrtání",
+      "selected": false
+     },
+     {
+      "value": "665",
+      "label": "Nástroje na závity",
+      "selected": false
+     },
+     {
+      "value": "666",
+      "label": "Vysoce výkonné nástroje",
+      "selected": false
+     },
+     {
+      "value": "667",
+      "label": "Fréza na klikové hřídele",
+      "selected": false
+     },
+     {
+      "value": "668",
+      "label": "Přesné nástroje",
+      "selected": false
+     },
+     {
+      "value": "669",
+      "label": "Hlavy s měřicími noži",
+      "selected": false
+     },
+     {
+      "value": "670",
+      "label": "Rovné, rohové a dokončovací nožové hlavy",
+      "selected": false
+     },
+     {
+      "value": "671",
+      "label": "Výstružníky",
+      "selected": false
+     },
+     {
+      "value": "672",
+      "label": "Brusné kotouče",
+      "selected": false
+     },
+     {
+      "value": "673",
+      "label": "Pilové listy",
+      "selected": false
+     },
+     {
+      "value": "674",
+      "label": "Nástroje na opracování kamene",
+      "selected": false
+     },
+     {
+      "value": "675",
+      "label": "Nástroje s dříkem",
+      "selected": false
+     },
+     {
+      "value": "676",
+      "label": "Ozubené nástroje",
+      "selected": false
+     }
+    ]
+   },
+   "rows": [
+    {
+     "title": "",
+     "items": [
+      {
+       "href": "/cz/produkty/nastaveni-a-mereni",
+       "title": "Měření a seřizování",
+       "text": "Zkraťte dobu přípravy o více jak 40%.",
+       "img": {
+        "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/cz/produkty/sprava-nastroju",
+       "title": "Správa nástrojů",
+       "text": "Propojte procesy, zajistěte kvalitu a vyrábějte rychleji.",
+       "img": {
+        "src": "/fileadmin/_processed_/3/3/csm_toolmanagement_preview_7889eaddc9.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/cz/produkty/kontrola-a-mereni",
+       "title": "Měření a kontrola",
+       "text": "Dokumentujte kvalitu a vytvořte digitální dvojče.",
+       "img": {
+        "src": "/fileadmin/_processed_/0/d/csm_genius_1_5b500df8d2.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/cz/produkty/automatizace",
+       "title": "Automatizace",
+       "text": "Flexibilní modulární automatizace pro obráběcí nástroje.",
+       "img": {
+        "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/cz/produkty/tepelne-upinani-nastroju",
+       "title": "Tepelné upínání nástrojů",
+       "text": "Výměna nástrojů v rekordním čase.",
+       "img": {
+        "src": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_506ab0ccb9.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/cz/produkty/drzaky-nastroju",
+       "title": "Nástrojové upínací držáky",
+       "text": "Upínací držák nástrojů s »idChip« jako ideální rozhraní pro Vaši digitální výrobu.",
+       "img": {
+        "src": "/fileadmin/_processed_/4/8/csm_ToolingSolutions_preview_7b8d14560e.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/cz/produkty/vyvazovaci-technika",
+       "title": "Vyvažování nástrojů",
+       "text": "Šetřete vřetena strojů a zajistěte kvalitu díky nejlepším vyvažovacím přístrojům na trhu.",
+       "img": {
+        "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "src_path": "/cz/produkty",
+ "de_path": "/produkte"
+}

@@ -1,0 +1,357 @@
+{
+ "path": "/该系统",
+ "url": "/ch/%E8%AF%A5%E7%B3%BB%E7%BB%9F",
+ "title": "系统方案",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "系统方案",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "系统方案",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/das-system",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/the-system",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/el-sistema",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/le-systeme",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/o-sistema",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/il-sistema",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/systemet",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/das-system",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/the-system",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/le-systeme",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%8B%9C%EC%8A%A4%ED%85%9C",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/the-system",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/el-sistema",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/o-sistema",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/01_Pages/The_System/ZOLLER_WELT_1920x1080.mp4",
+     "title": "ZOLLER—切削刀具全套管理系统",
+     "kicker": "",
+     "text": "<p><strong>基于数十年的经验，我们以全局视角，助力客户提升生产现场效率。</strong></p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c604",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "66-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2 class=\"headline-decor\"> 始于解决方案，智启高效系统 </h2>",
+      "body": "<p class=\"extra-large-text\">“智能工厂”不是一句空洞的口号，而是制造业的未来。</p> <p class=\"extra-large-text\">为保持竞争力并实现投资回报最大化，企业必须对生产现场的刀具加工流程进行系统化整合。ZOLLER正是能够提供整套系统的制造商，将刀具流程与数据全面互联，为您的机加工生产带来高效、优质和高精度。</p> <p class=\"extra-large-text\">从您当前的起点开始，在需求得到满足时停止。同时，您始终可以确信，自己能够迈出下一步的台阶。 </p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c556",
+      "bg": "yellow",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-2cols",
+   "id": "c1854",
+   "bg": "yellow",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "hotspots",
+   "header": "",
+   "intro": "",
+   "img": null,
+   "spots": [],
+   "ftype": "zoller_image-hotspots",
+   "id": "c4007",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> 现代制造的价值体系 </h1>",
+   "body": "<p class=\"extra-large-text\">ZOLLER 以系统为导向的解决方案基于四大核心价值观：创新、质量、精度和服务。无论开发、制造还是交付任何产品，我们都始终恪守这些原则。我们的客户对此感到满意，因为这些价值观保障了我们的卓越表现。 </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/8/csm_value_system_4adb77b8bc.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c607",
+   "bg": "black",
+   "space": {
+    "before": "extra-small",
+    "after": "none"
+   }
+  },
+  {
+   "type": "values",
+   "header": "",
+   "tiles": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_value_innovation_30b03ea669.webp",
+      "alt": "",
+      "w": 739,
+      "h": 774
+     },
+     "text": "<p>对ZOLLER而言，创新精神是推动进步的关键要素。80年来，我们始终在开创未来。 </p>"
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/1/f/csm_value_quality_596c87a5e7.webp",
+      "alt": "",
+      "w": 739,
+      "h": 774
+     },
+     "text": "<p>在ZOLLER，专家们会亲手组装每一台设备。他们以自己的名字为产品品质背书：德国制造的可靠性。 </p>"
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/3/8/csm_value_precition_86c1763b85.webp",
+      "alt": "",
+      "w": 739,
+      "h": 774
+     },
+     "text": "<p>ZOLLER 采用最先进的测量技术。我们的顶级设备能够解决小于 1 微米的结构，并提供精准的数据。 </p>"
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/9/6/csm_value_service_c143139351.webp",
+      "alt": "",
+      "w": 739,
+      "h": 774
+     },
+     "text": "<p>在ZOLLER，可靠性至关重要。我们在全球62个国家设有分支机构。从阿根廷到越南，我们随时为您服务！ </p>"
+    }
+   ],
+   "ftype": "zoller_column-image-text",
+   "id": "c605",
+   "bg": "black",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 亲身体验ZOLLER系统 </h2>",
+   "body": "<p>在位于普莱德尔斯海姆的ZOLLER智能工厂，我们将展示ZOLLER系统及其所有解决方案，涵盖直至完整的车间自动化。请亲身体验无缝CAM到零件流程的高效率，以及刀具数据全程可用所带来的优势。 </p> <p>立即了解如何预约参观或进行一对一专业咨询。</p> <p><a class=\"btn\" href=\"/ch/%E4%BC%81%E4%B8%9A/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC/%E6%99%BA%E8%83%BD%E5%B7%A5%E5%8E%82\">前往智能工厂</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/9/csm_smartfactory_teaser_4b2372736c.webp",
+     "alt": "",
+     "w": 1400,
+     "h": 1400
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c59554",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 构成ZOLLER系统基础的四个数字 </h2>",
+   "body": "<p>ZOLLER 系统的背后，是一个持续运行的研发流程。这四个数字生动地诠释了这一过程：80 | 60 | 14 | 7。它们清晰地说明了为什么 ZOLLER 是刀具相关工艺的最佳合作伙伴。请查阅宣传单了解更多详情。</p> <p><a class=\"btn\" href=\"/fileadmin/03_Media_Press/Downloads/System/Flyer_ZOL_Vier_Zahlen_DE.pdf\" rel=\"noopener\" target=\"_blank\">下载宣传册</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/0/csm_teaser_vier_zahlen_fe067fe955.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c62147",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ch/该系统",
+ "de_path": "/das-system"
+}

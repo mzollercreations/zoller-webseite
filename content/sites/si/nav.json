@@ -1,0 +1,740 @@
+{
+ "meta": [
+  {
+   "label": "Storitve",
+   "href": "/si/podjetje/kontakt/kontaktna-oseba"
+  },
+  {
+   "label": "Mediji",
+   "href": "/si/podjetje/mediji"
+  },
+  {
+   "label": "Kariera",
+   "href": "/si/podjetje/kariera"
+  }
+ ],
+ "main": [
+  {
+   "label": "Sistem",
+   "href": "/si/sistem"
+  },
+  {
+   "label": "Vaš uspeh",
+   "href": "/si/vas-uspeh"
+  },
+  {
+   "label": "Rešitve",
+   "href": "/si/resitve",
+   "children": [
+    {
+     "label": "Zakaj ZOLLER Solutions?",
+     "href": "/si/resitve"
+    },
+    {
+     "label": "Nastavitev in merjenje",
+     "href": "/si/resitve/nastavitev-in-merjenje"
+    },
+    {
+     "label": "Preverjanje in merjenje",
+     "href": "/si/resitve/preverjanje-in-merjenje"
+    },
+    {
+     "label": "Avtomatizacija",
+     "href": "/si/resitve/avtomatizacija",
+     "children": [
+      {
+       "label": "Pregled",
+       "href": "/si/resitve/avtomatizacija"
+      },
+      {
+       "label": "Logistika",
+       "href": "/si/resitve/avtomatizacija/logistika"
+      },
+      {
+       "label": "Priprava orodja",
+       "href": "/si/resitve/avtomatizacija/priprava-orodja"
+      },
+      {
+       "label": "Zagotavljanje orodja",
+       "href": "/si/resitve/avtomatizacija/zagotavljanje-orodja"
+      },
+      {
+       "label": "Pregled orodja",
+       "href": "/si/resitve/avtomatizacija/pregled-orodja"
+      }
+     ]
+    },
+    {
+     "label": "tehnika krčenja",
+     "href": "/si/resitve/tehnika-krcenja"
+    },
+    {
+     "label": "Nosilci orodja",
+     "href": "/si/resitve/nosilci-orodja"
+    },
+    {
+     "label": "tehnika uravnoteženja",
+     "href": "/si/resitve/tehnika-uravnotezenja"
+    },
+    {
+     "label": "CNC-obdelava kamna",
+     "href": "/si/resitve/cnc-obdelava-kamna"
+    }
+   ]
+  },
+  {
+   "label": "Izdelki",
+   "href": "/si/izdelki",
+   "children": [
+    {
+     "label": "Pregled izdelkov",
+     "href": "/si/izdelki"
+    },
+    {
+     "label": "Nastavitev in merjenje",
+     "href": "/si/izdelki/nastavitev-in-merjenje",
+     "children": [
+      {
+       "label": "Vertikalne naprave",
+       "href": "/si/izdelki/nastavitev-in-merjenje/vertikalne-naprave",
+       "children": [
+        {
+         "label": "»smile«",
+         "href": "/si/izdelki/nastavitev-in-merjenje/vertikalne-naprave/smile",
+         "claim": "Vaš uvod v profesionalno nastavitev in merjenje",
+         "desc": "Robustne naprave za začetnike z natančnostjo v mikrometrih za standardna orodja",
+         "img": "/fileadmin/_processed_/4/3/csm_smile_preview_6232033e55.webp"
+        },
+        {
+         "label": "»venturion«",
+         "href": "/si/izdelki/nastavitev-in-merjenje/vertikalne-naprave/venturion",
+         "claim": "Modularna premijska razred za najvišje zahteve",
+         "desc": "Odlična nastavitev in merjenje orodja z mnogimi možnostmi",
+         "img": "/fileadmin/_processed_/7/d/csm_venturion_preview_7611e56f51.webp"
+        }
+       ]
+      },
+      {
+       "label": "Vodoravne naprave",
+       "href": "/si/izdelki/nastavitev-in-merjenje/vodoravne-naprave",
+       "children": [
+        {
+         "label": "»hyperion«",
+         "href": "/si/izdelki/nastavitev-in-merjenje/vodoravne-naprave/hyperion",
+         "claim": "Vsestranski izdelek, namenjen predvsem rezalnim orodjem",
+         "desc": "Naprava za horizontalno nastavljanje in merjenje za obdelavo z vrtenjem",
+         "img": "/fileadmin/_processed_/1/8/csm_hyperion_preview_3b4c91eaf7.webp"
+        }
+       ]
+      },
+      {
+       "label": "Rešitve za avtomatizacijo",
+       "href": "/si/izdelki/nastavitev-in-merjenje/resitve-za-avtomatizacijo",
+       "children": [
+        {
+         "label": "»coraMeasure LG«",
+         "href": "/si/izdelki/avtomatizacija/priprava-orodja/corameasure-lg",
+         "claim": "Avtomatsko merjenje orodja",
+         "desc": "Stroškovno učinkovito ravnanje z orodjem za ZOLLER »venturion«",
+         "img": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_b31336460f.webp"
+        },
+        {
+         "label": "»roboBox«",
+         "href": "/si/izdelki/avtomatizacija/priprava-orodja/robobox",
+         "claim": "Modularna avtomatizacija za orodjarno",
+         "desc": "Do šest modulov za rutinske postopke, kot so montaža, čiščenje, merjenje, krčenje in drugo",
+         "img": "/fileadmin/_processed_/7/a/csm_roboBox_preview_ae1a1aba4b.webp"
+        }
+       ]
+      },
+      {
+       "label": "CNC-obdelava kamna",
+       "href": "/si/izdelki/nastavitev-in-merjenje/cnc-obdelava-kamna",
+       "children": [
+        {
+         "label": "»smile | GBO«",
+         "href": "/si/izdelki/nastavitev-in-merjenje/cnc-obdelava-kamna/smile-gbo",
+         "claim": "Merjenje kamnitih in lesenih orodij",
+         "desc": "Z optiko za velike slike omogoča posebej natančno merjenje višine",
+         "img": "/fileadmin/_processed_/f/4/csm_smileGBO_preview_63b44ef4c9.webp"
+        },
+        {
+         "label": "»conDress«",
+         "href": "/si/izdelki/preverjanje-in-merjenje/cnc-obdelava-kamna/condress",
+         "claim": "Čiščenje brusnih površin z diamantnimi vložki",
+         "desc": "Čiščenje in obnova rezalnih lastnosti orodij za obdelavo kamna",
+         "img": "/fileadmin/_processed_/8/5/csm_conDress_preview_7966236664.webp"
+        }
+       ]
+      },
+      {
+       "label": "Posebne rešitve",
+       "href": "/si/izdelki/nastavitev-in-merjenje/posebne-resitve",
+       "children": [
+        {
+         "label": "Posebne rešitve",
+         "href": "/si/izdelki/nastavitev-in-merjenje/posebne-resitve/posebne-resitve",
+         "claim": "Rešitve za vaše individualne potrebe"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Upravljanje orodij",
+     "href": "/si/izdelki/upravljanje-orodij",
+     "children": [
+      {
+       "label": "Software",
+       "href": "/si/software"
+      },
+      {
+       "label": "skladišče orodja",
+       "href": "/si/izdelki/upravljanje-orodij/skladisce-orodja",
+       "children": [
+        {
+         "label": "»twister«",
+         "href": "/si/izdelki/upravljanje-orodij/skladisce-orodja/twister",
+         "claim": "Omara za shranjevanje",
+         "desc": "Za sestavne dele orodja in dodatno opremo",
+         "img": "/fileadmin/_processed_/0/1/csm_twister__preview_9c9c9e9f21.webp"
+        },
+        {
+         "label": "»autoLock«",
+         "href": "/si/izdelki/upravljanje-orodij/skladisce-orodja/autolock",
+         "claim": "Omara za shranjevanje",
+         "desc": "Za merilne naprave, goriva in večje komponente",
+         "img": "/fileadmin/_processed_/2/7/csm_autolock__preview_89166f3498.webp"
+        },
+        {
+         "label": "»toolOrganizer«",
+         "href": "/si/izdelki/upravljanje-orodij/skladisce-orodja/toolorganizer",
+         "claim": "Omara za orodje",
+         "desc": "Za rezalna orodja in majhne dele",
+         "img": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_bbf66a1054.webp"
+        },
+        {
+         "label": "»keeper«",
+         "href": "/si/izdelki/upravljanje-orodij/skladisce-orodja/keeper",
+         "claim": "Omara za orodje",
+         "desc": "Za kompletna orodja in nosilce orodja",
+         "img": "/fileadmin/_processed_/b/a/csm_keeper_preview_f25bf71aa1.webp"
+        },
+        {
+         "label": "»z.Storage«",
+         "href": "/si/izdelki/upravljanje-orodij/skladisce-orodja/zstorage",
+         "claim": "Ravnanje z orodjem v skladišču",
+         "desc": "Vaši izdelki se izdajo po principu avtomata za izdajo",
+         "img": "/fileadmin/_processed_/f/5/csm_zStorage_preview_f2484908b6.webp"
+        }
+       ]
+      },
+      {
+       "label": "Montaža orodja",
+       "href": "/si/izdelki/upravljanje-orodij/montaza-orodja",
+       "children": [
+        {
+         "label": "»zTower«",
+         "href": "/si/izdelki/upravljanje-orodij/montaza-orodja/ztower",
+         "claim": "Montažni otok",
+         "desc": "Za univerzalno montažo orodja",
+         "img": "/fileadmin/_processed_/2/6/csm_zTower_preview_03c8143f73.webp"
+        },
+        {
+         "label": "»toolStation«",
+         "href": "/si/izdelki/upravljanje-orodij/montaza-orodja/toolstation",
+         "claim": "delovna miza",
+         "desc": "Za optimalno montažo orodja",
+         "img": "/fileadmin/_processed_/a/f/csm_toolStation_preview_284869f711.webp"
+        }
+       ]
+      },
+      {
+       "label": "Prevoz orodja",
+       "href": "/si/izdelki/upravljanje-orodij/prevoz-orodja",
+       "children": [
+        {
+         "label": "»toolCart«",
+         "href": "/si/izdelki/upravljanje-orodij/prevoz-orodja/toolcart",
+         "claim": "voziček za orodje",
+         "desc": "Za udoben prevoz orodja",
+         "img": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_f133269ad8.webp"
+        }
+       ]
+      },
+      {
+       "label": "Prenos podatkov",
+       "href": "/si/izdelki/upravljanje-orodij/prenos-podatkov",
+       "children": [
+        {
+         "label": "»zidCode«",
+         "href": "/si/izdelki/upravljanje-orodij/prenos-podatkov/zidcode",
+         "claim": "Brezhiben prenos podatkov o orodjih",
+         "desc": "Več varnosti in učinkovitosti z enostavnim upravljanjem podatkov o orodjih",
+         "img": "/fileadmin/_processed_/e/c/csm_zidCode_preview_21aa224ca2.webp"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Preverjanje in merjenje",
+     "href": "/si/izdelki/preverjanje-in-merjenje",
+     "children": [
+      {
+       "label": "Univerzalni merilni stroji",
+       "href": "/si/izdelki/preverjanje-in-merjenje/univerzalni-merilni-stroji",
+       "children": [
+        {
+         "label": "»genius«",
+         "href": "/si/izdelki/preverjanje-in-merjenje/univerzalni-merilni-stroji/genius",
+         "claim": "Brezkontaktno merjenje in preverjanje orodij za obdelavo",
+         "desc": "Zelo natančno meri več kot 100 parametrov in se je po vsem svetu že več kot 1000-krat izkazal",
+         "img": "/fileadmin/_processed_/0/d/csm_genius_1_d819caed90.webp"
+        },
+        {
+         "label": "»titan«",
+         "href": "/si/izdelki/preverjanje-in-merjenje/univerzalni-merilni-stroji/titan",
+         "claim": "Merilni in preskusni stroj v vrhunski izvedbi",
+         "desc": "Za strokovnjake, ki želijo vedeti vse – vključno s pripravo rezalnih robov",
+         "img": "/fileadmin/_processed_/3/b/csm_titan__preview_7e0a3aa7f3.webp"
+        },
+        {
+         "label": "»smartCheck«",
+         "href": "/si/izdelki/preverjanje-in-merjenje/univerzalni-merilni-stroji/smartcheck",
+         "claim": "Nastavljanje, merjenje in preverjanje v enem samem napravi",
+         "desc": "Nastavljiv in merilni instrument z dodatnim osvetljevanjem in razširjeno analizo slike",
+         "img": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_ca2a5afc34.webp"
+        }
+       ]
+      },
+      {
+       "label": "Merjenje, usmerjeno v procese",
+       "href": "/si/izdelki/preverjanje-in-merjenje/merjenje-usmerjeno-v-procese",
+       "children": [
+        {
+         "label": "»pomBasic«",
+         "href": "/si/izdelki/preverjanje-in-merjenje/merjenje-usmerjeno-v-procese/pombasic",
+         "claim": "Za natančen ročni pregled v proizvodnji",
+         "desc": "Preverjanje več kot 70 parametrov na orodju med samim procesom",
+         "img": "/fileadmin/_processed_/5/f/csm_pombasic__preview_2a4f915bf9.webp"
+        },
+        {
+         "label": "»mμFocus«",
+         "href": "/si/izdelki/preverjanje-in-merjenje/merjenje-usmerjeno-v-procese/mmfocus",
+         "claim": "Naprava 2 v 1 za SKP in merjenje hrapavosti površine",
+         "desc": "Analizira topografijo in ustvarja 3D-slike rezil orodij",
+         "img": "/fileadmin/_processed_/c/0/csm_myFocus__preview_4b3d285137.webp"
+        }
+       ]
+      },
+      {
+       "label": "Rešitve za avtomatizacijo",
+       "href": "/si/izdelki/preverjanje-in-merjenje/resitve-za-avtomatizacijo",
+       "children": [
+        {
+         "label": "»roboSet 2«",
+         "href": "/si/izdelki/avtomatizacija/pregled-orodja/roboset-2",
+         "claim": "Preverjanje in dokumentiranje orodja 24 ur na dan, 7 dni na teden",
+         "desc": "Ravnanje z orodji za »genius«, »3dCheck«, »threadCheck«, »titan« in »edgeControl«",
+         "img": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_354a6e7ab1.webp"
+        }
+       ]
+      },
+      {
+       "label": "CNC-obdelava kamna",
+       "href": "/si/izdelki/preverjanje-in-merjenje/cnc-obdelava-kamna",
+       "children": [
+        {
+         "label": "»conDiaZ«",
+         "href": "/si/izdelki/preverjanje-in-merjenje/cnc-obdelava-kamna/condiaz",
+         "claim": "Natančno merjenje obrisov v nekaj sekundah",
+         "desc": "Merilni instrument, namenjen posebej za merjenje in preverjanje diamantno prevlečenih orodij za obdelavo kamna",
+         "img": "/fileadmin/_processed_/b/1/csm_conDiaz_preview_8d8faa8ebf.webp"
+        },
+        {
+         "label": "»conDress«",
+         "href": "/si/izdelki/preverjanje-in-merjenje/cnc-obdelava-kamna/condress",
+         "claim": "Čiščenje brusnih površin z diamantnimi vložki",
+         "desc": "Čiščenje in obnova rezalnih lastnosti orodij za obdelavo kamna",
+         "img": "/fileadmin/_processed_/8/5/csm_conDress_preview_7966236664.webp"
+        }
+       ]
+      },
+      {
+       "label": "Posebne rešitve",
+       "href": "/si/izdelki/preverjanje-in-merjenje/posebne-resitve",
+       "children": [
+        {
+         "label": "Posebne rešitve",
+         "href": "/si/izdelki/preverjanje-in-merjenje/posebne-resitve/posebne-resitve",
+         "claim": "Rešitve za vaše individualne potrebe"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Avtomatizacija",
+     "href": "/si/izdelki/avtomatizacija",
+     "children": [
+      {
+       "label": "Logistika orodja",
+       "href": "/si/izdelki/avtomatizacija/logistika-orodja",
+       "children": [
+        {
+         "label": "»coraLogistic«",
+         "href": "/si/izdelki/avtomatizacija/logistika-orodja/coralogistic",
+         "claim": "Avtomatizirana logistika v proizvodnji",
+         "desc": "Za prevoz med skladiščem orodja, pripravo orodja in CNC-strojem",
+         "img": "/fileadmin/_processed_/c/0/csm_coraLogistics_preview_4e713a1c9b.webp"
+        },
+        {
+         "label": "»coraMachineLoad«",
+         "href": "/si/izdelki/avtomatizacija/logistika-orodja/coramachineload",
+         "claim": "Popolnoma avtomatsko natovarja in raztovarja CNC-stroje",
+         "desc": "Natančno in točno ravnanje z orodjem med logistiko in skladiščem strojev",
+         "img": "/fileadmin/_processed_/e/e/csm_coraMaschineLoad_preview_f78fc031d8.webp"
+        }
+       ]
+      },
+      {
+       "label": "Priprava orodja",
+       "href": "/si/izdelki/avtomatizacija/priprava-orodja",
+       "children": [
+        {
+         "label": "»coraMeasure LG«",
+         "href": "/si/izdelki/avtomatizacija/priprava-orodja/corameasure-lg",
+         "claim": "Avtomatsko merjenje orodja",
+         "desc": "Stroškovno učinkovito ravnanje z orodjem za ZOLLER »venturion«",
+         "img": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_b31336460f.webp"
+        },
+        {
+         "label": "»roboBox«",
+         "href": "/si/izdelki/avtomatizacija/priprava-orodja/robobox",
+         "claim": "Modularna avtomatizacija za orodjarno",
+         "desc": "Do šest modulov za rutinske postopke, kot so montaža, čiščenje, merjenje, krčenje in drugo",
+         "img": "/fileadmin/_processed_/7/a/csm_roboBox_preview_ae1a1aba4b.webp"
+        },
+        {
+         "label": "»micBox«",
+         "href": "/si/izdelki/avtomatizacija/priprava-orodja/micbox",
+         "claim": "Učinkovito ravnanje z zamenljivimi rezili",
+         "desc": "Prevzame obračanje, obračanje in menjavo obračalnih plošč",
+         "img": "/fileadmin/_processed_/6/a/csm_micbox_preview_e6568b3640.webp"
+        }
+       ]
+      },
+      {
+       "label": "Zagotavljanje orodja",
+       "href": "/si/izdelki/avtomatizacija/zagotavljanje-orodja",
+       "children": [
+        {
+         "label": "»loadBox«",
+         "href": "/si/izdelki/avtomatizacija/zagotavljanje-orodja/loadbox",
+         "claim": "Pametna centralna postaja za orodje",
+         "desc": "Pripravlja orodje v skladu z naročilom in ga pripravi za logistiko",
+         "img": "/fileadmin/_processed_/5/3/csm_loadBox_preview_d9538dbfe3.webp"
+        }
+       ]
+      },
+      {
+       "label": "Pregled orodja",
+       "href": "/si/izdelki/avtomatizacija/pregled-orodja",
+       "children": [
+        {
+         "label": "»roboSet 2«",
+         "href": "/si/izdelki/avtomatizacija/pregled-orodja/roboset-2",
+         "claim": "Preverjanje in dokumentiranje orodja 24 ur na dan, 7 dni na teden",
+         "desc": "Ravnanje z orodji za »genius«, »3dCheck«, »threadCheck«, »titan« in »edgeControl«",
+         "img": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_354a6e7ab1.webp"
+        }
+       ]
+      },
+      {
+       "label": "Lasersko označevanje",
+       "href": "/si/izdelki/avtomatizacija/lasersko-oznacevanje",
+       "children": [
+        {
+         "label": "»roboMark«",
+         "href": "/si/izdelki/avtomatizacija/lasersko-oznacevanje/robomark",
+         "claim": "Naprava za lasersko označevanje",
+         "desc": "Hitro in natančno označevanje vaših orodij",
+         "img": "/fileadmin/_processed_/9/c/csm_roboMark_preview_ecf02129c4.webp"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "tehnika krčenja",
+     "href": "/si/izdelki/tehnika-krcenja",
+     "children": [
+      {
+       "label": "»powerShrink«",
+       "href": "/si/izdelki/tehnika-krcenja/powershrink",
+       "claim": "Orodje se skrči",
+       "desc": "Sistem za krčenje z optimalno energetsko učinkovitostjo in največjo varnostjo",
+       "img": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_8e31408c1d.webp"
+      },
+      {
+       "label": "»redomatic«",
+       "href": "/si/izdelki/tehnika-krcenja/redomatic",
+       "claim": "Krčenje in merjenje",
+       "desc": "Univerzalni nastavljiv in merilni aparat z vgrajenim sistemom za krčenje orodja",
+       "img": "/fileadmin/_processed_/f/b/csm_redomatic_preview_afc51b7ecf.webp"
+      }
+     ]
+    },
+    {
+     "label": "Nosilci orodja",
+     "href": "/si/izdelki/nosilci-orodja",
+     "children": [
+      {
+       "label": "Tooling Shop",
+       "href": "https://myzoller.com/de/de/shop/tooling",
+       "claim": "Več kot 2500 držal za orodje",
+       "desc": "Na voljo z »idChipom« za večjo zanesljivost procesa zaradi aktualnih podatkov o orodju. Združljiv z rešitvami za upravljanje orodja ZOLLER TMS.",
+       "img": "/fileadmin/_processed_/3/f/csm_ToolingSolutions4_preview_6c25bb2bd5.webp"
+      }
+     ]
+    },
+    {
+     "label": "tehnika uravnoteženja",
+     "href": "/si/izdelki/tehnika-uravnotezenja",
+     "children": [
+      {
+       "label": "»toolBalancer«",
+       "href": "/si/izdelki/tehnika-uravnotezenja/toolbalancer",
+       "claim": "Uravnoteženje orodja",
+       "desc": "Sistem za uravnoteženje z najsodobnejšo tehnologijo in ergonomsko obliko",
+       "img": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_c222571512.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Akademija",
+   "href": "/si/akademija"
+  },
+  {
+   "label": "Dogodki",
+   "href": "/si/dogodki"
+  },
+  {
+   "label": "Podjetje",
+   "href": "/si/podjetje",
+   "children": [
+    {
+     "label": "Pokaži pregled",
+     "href": "/si/podjetje"
+    },
+    {
+     "label": "Profil",
+     "href": "/si/podjetje/profil",
+     "children": [
+      {
+       "label": "O podjetju ZOLLER",
+       "href": "/si/podjetje/profil"
+      },
+      {
+       "label": "Referenca",
+       "href": "/si/podjetje/profil/referenca"
+      },
+      {
+       "label": "Partnerji",
+       "href": "/si/podjetje/profil/partnerji"
+      },
+      {
+       "label": "Zgodovina",
+       "href": "/si/podjetje/profil/zgodovina"
+      }
+     ]
+    },
+    {
+     "label": "Kontakt",
+     "href": "/si/podjetje/kontakt",
+     "children": [
+      {
+       "label": "Kontaktni obrazec",
+       "href": "/si/podjetje/kontakt"
+      },
+      {
+       "label": "Lokacije",
+       "href": "/si/podjetje/kontakt/lokacije"
+      },
+      {
+       "label": "Pametna tovarna",
+       "href": "/si/podjetje/kontakt/pametna-tovarna"
+      },
+      {
+       "label": "Kontaktna oseba",
+       "href": "/si/podjetje/kontakt/kontaktna-oseba"
+      },
+      {
+       "label": "1:1 pogovor s strokovnjakom",
+       "href": "https://myzoller.com/de/de/expert/booking"
+      },
+      {
+       "label": "Usposabljanje in izobraževanje",
+       "href": "/si/podjetje/kontakt/usposabljanje-in-izobrazevanje"
+      },
+      {
+       "label": "Novice",
+       "href": "/si/podjetje/kontakt/novice"
+      }
+     ]
+    },
+    {
+     "label": "Kariera",
+     "href": "/si/podjetje/kariera",
+     "children": [
+      {
+       "label": "Delo pri podjetju ZOLLER",
+       "href": "/si/podjetje/kariera"
+      },
+      {
+       "label": "Prosta delovna mesta",
+       "href": "/si/podjetje/kariera/prosta-delovna-mesta"
+      },
+      {
+       "label": "Pogosta vprašanja",
+       "href": "/si/podjetje/kariera/pogosta-vprasanja"
+      },
+      {
+       "label": "Prijava",
+       "href": "/si/podjetje/kariera/prijava"
+      }
+     ]
+    },
+    {
+     "label": "Poročila in zgodbe",
+     "href": "/si/podjetje/porocila-in-zgodbe"
+    },
+    {
+     "label": "Mediji",
+     "href": "/si/podjetje/mediji"
+    },
+    {
+     "label": "Trajnost",
+     "href": "/si/podjetje/trajnost"
+    },
+    {
+     "label": "Upravljanje kakovosti",
+     "href": "/si/podjetje/upravljanje-kakovosti"
+    },
+    {
+     "label": "Skladnost",
+     "href": "/si/podjetje/skladnost"
+    }
+   ]
+  }
+ ],
+ "footer_links": [
+  {
+   "label": "Go up",
+   "href": "#body"
+  },
+  {
+   "label": "Sistem",
+   "href": "/si/sistem"
+  },
+  {
+   "label": "Vaš uspeh",
+   "href": "/si/vas-uspeh"
+  },
+  {
+   "label": "Rešitve",
+   "href": "/si/resitve"
+  },
+  {
+   "label": "Izdelki",
+   "href": "/si/izdelki"
+  },
+  {
+   "label": "Akademija",
+   "href": "/si/akademija"
+  },
+  {
+   "label": "Dogodki",
+   "href": "/si/dogodki"
+  },
+  {
+   "label": "Podjetje",
+   "href": "/si/podjetje"
+  },
+  {
+   "label": "Storitve",
+   "href": "/si/podjetje/kontakt/kontaktna-oseba"
+  },
+  {
+   "label": "Mediji",
+   "href": "/si/podjetje/mediji"
+  },
+  {
+   "label": "Kariera",
+   "href": "/si/podjetje/kariera"
+  },
+  {
+   "label": "Kalkulator donosnosti",
+   "href": "/si/kalkulator-donosnosti"
+  },
+  {
+   "label": "Kontaktna oseba",
+   "href": "/si/podjetje/kontakt/kontaktna-oseba"
+  },
+  {
+   "label": "Pošlji e-pošto",
+   "href": "mailto:info@zoller.info"
+  },
+  {
+   "label": "ZOLLER servis",
+   "href": "/si/podjetje/kontakt/kontaktna-oseba"
+  },
+  {
+   "label": "Posodobitve programske opreme",
+   "href": "/si/posodobitve-programske-opreme"
+  },
+  {
+   "label": "Spletna podpora",
+   "href": "/si/spletna-podpora"
+  },
+  {
+   "label": "Poslovna področja",
+   "href": "/si/poslovna-podrocja-1"
+  },
+  {
+   "label": "Prijava na e-novice",
+   "href": "/si/podjetje/kontakt/novice"
+  },
+  {
+   "label": "LinkedIn",
+   "href": "https://www.linkedin.com/company/zollersolutions"
+  },
+  {
+   "label": "YouTube",
+   "href": "https://www.youtube.com/user/zollertv"
+  },
+  {
+   "label": "Kontakt",
+   "href": "/si/podjetje/kontakt"
+  },
+  {
+   "label": "Varstvo osebnih podatkov",
+   "href": "/si/varstvo-osebnih-podatkov"
+  },
+  {
+   "label": "Izjava o omejitvi odgovornosti",
+   "href": "/si/izjava-o-omejitvi-odgovornosti"
+  },
+  {
+   "label": "Pravna obvestila",
+   "href": "/si/pravna-obvestila"
+  },
+  {
+   "label": "Cookie settings",
+   "href": "#"
+  }
+ ]
+}

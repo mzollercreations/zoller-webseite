@@ -1,0 +1,437 @@
+{
+ "path": "/areas-de-negocio-1",
+ "url": "/pt/areas-de-negocio-1",
+ "title": "áreas de negócio",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pt/pagina-inicial"
+  },
+  {
+   "label": "áreas de negócio",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pt/pagina-inicial"
+  },
+  {
+   "label": "áreas de negócio",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/geschaeftsfelder",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/business-areas-1",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/areas-de-negocio-1",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/domaines-dactivite-1",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/areas-de-negocio-1",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/settori-di-attivita-1",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verksamhetsomraaden-1",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/geschaeftsfelder-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/secteurs-dactivite-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BA%8B%E6%A5%AD%E5%88%86%E9%87%8E-1",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%82%AC%EC%97%85-%EB%B6%84%EC%95%BC-1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/business-areas-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/areas-de-negocio-1",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/areas-de-negocio-1",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/c/4/csm_smartfactory_header_4a3f7f359c.webp",
+     "video": null,
+     "title": "Vista geral da ZOLLER: O nosso conhecimento especializado",
+     "kicker": "",
+     "text": "<p>Apoiamos o seu trabalho</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8150",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">Com os nossos produtos, máquinas e software, ajudamos a acelerar os seus processos e a produzir menos resíduos.</p> <p class=\"extra-large-text\">Desenvolvemos soluções sob medida para os seus desafios. Saiba mais aqui sobre as opções|possibilidades que o nosso software e os nossos dispositivos oferecem.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8151",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Configuração|Definição </h3> <h2> Economize custos e aumente a segurança com a pré-configuração de ferramentas </h2>",
+   "body": "<p>Para fabricar peças com precisão, as modernas máquinas-ferramentas CNC necessitam de dados exatos sobre a geometria das ferramentas. Com o dispositivo de predefinição de ferramenta, pode determinar os dados da ferramenta fora da máquina, poupando assim muito tempo de preparação. Ao usar a ferramenta, pode importar imediatamente os dados da ferramenta a partir do dispositivo de predefinição de ferramenta. A transferência de dados para a máquina é feita eletronicamente e, portanto, totalmente isenta de erros, uma vez que erros de digitação e erros de transferência são excluídos exclusivamente.</p> <p><a class=\"btn\" href=\"/pt/dispositivo-de-pre-ajuste\">Saiba mais sobre os dispositivos de ajuste e medição para a pré-configuração de ferramentas</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/3/5/csm_smile_header_c846e8a6b4.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8153",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> gestão de ferramentas </h3> <h2> Boas razões para produzir de forma mais económica </h2>",
+   "body": "<ul><li>Reduza os tempos de preparação: a ferramenta certa está sempre no lugar certo, na hora certa. A saída de dados no formato do comando evita erros de introdução na máquina e os custos daí resultantes.</li><li>Encontrar em vez de procurar|pesquisar: sabe sempre quais as ferramentas disponíveis para<br/>cada máquina e onde se encontram.</li><li>Organizar melhor: processos planeados com tempos unitários calculáveis e verificações eficientes garantem uma gestão eficiente dos processos e, consequentemente, tempos de resposta curtos. Unidades de produção autónomas podem ser integradas e organizadas.</li><li>Evitar paragens das máquinas: todas as ferramentas estão sempre disponíveis, 24 horas por dia. As ferramentas corretas nas máquinas evitam colisões e quebras de ferramentas.</li><li>Garantir a qualidade: uma elevada disponibilidade do sistema e processos de fabricação transparentes e estáveis garantem a máxima qualidade.</li><li>Economizar custos de armazenamento: pode ver quais ferramentas são usadas com que frequência e fazer uma encomenda apenas para o que é realmente necessário.</li><li>Aproveitar o potencial das ferramentas: velocidades de corte e avanços ótimos aumentam o tempo útil.</li><li>Aumentar a produtividade: uma rotação otimizada das ferramentas garante uma duração do processo curta e máquinas com utilização total, aumentando a produtividade e reduzindo os custos de produção.</li></ul><p><a class=\"btn\" href=\"/pt/gestao-de-ferramentas\">Gestão de ferramentas</a><br/><a class=\"btn\" href=\"/pt/organizacao-de-ferramentas\">Eficiente gestão de armazenamento e gestão dos dados de produção</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/8/csm_keeper_header_fc94668ac2.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8165",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> transferência de dados </h3> <h2> Transferência de dados segura e rápida </h2>",
+   "body": "<p>O intercâmbio de dados entre os diferentes elementos de produção é indispensável para a produção industrial atual. Com as soluções de software da ZOLLER, a transmissão rápida e confiável dos dados da ferramenta é garantida a qualquer momento, independentemente do fabricante e da plataforma.</p> <p><a class=\"btn\" href=\"/pt/transmissao-de-dados-da-ferramenta\">Transmissão de dados da ferramenta</a><br/><a class=\"btn\" href=\"/pt/monitorizacao-de-ferramentas\">Gestão perfeita de ferramentas e organização da produção</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/8/5/csm_zidCode_kombi_header_8e15ec79e7.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8164",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Verificar e medir </h3> <h2> As máquinas de medição garantem uma produção precisa </h2>",
+   "body": "<p>Para que as ferramentas façam exatamente aquilo para o qual foram planeadas e construídas, elas próprias têm de ser fabricadas com precisão. Com as nossas máquinas de medição universais, as ferramentas podem ser medidas com precisão micrométrica e verificadas quanto à sua correspondência com os requisitos.</p> <p><a class=\"btn\" href=\"/pt/maquinas-de-medicao\">Maior precisão graças às máquinas de medição</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_genius_header_fd8701f3c0.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8161",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Automação </h3> <h2> Solução de automação para ferramenta de medição </h2>",
+   "body": "<p>Seja na afiação de ferramentas ou na preparação, disponibilização e ajustamento das ferramentas, a automatização das tarefas diárias será a resposta a este desafio. Para cada tarefa, a ZOLLER fornece a solução certa para o manuseamento automatizado de ferramentas. Dependendo dos requisitos, a solução pode estar em um sistema fechado com módulos adicionais, um conceito de automação complexo ou um suporte colaborativo de robôs na sala de ferramentas.</p> <p><a class=\"btn\" href=\"/pt/solutions/automacao\">Tudo sobre a automatização modular para ferramentas de usinagem</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/c/7/csm_corameasureLG_header_89e9e61ae5.webp",
+     "alt": "",
+     "w": 1428,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8162",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Técnica de retração </h3> <h2> Tempos de preparação curtos graças à utilização de um aparelho de retração </h2>",
+   "body": "<p>Para muitas ferramentas de perfuração e fresagem, o encolhimento da ferramenta é o método mais rápido e, ao mesmo tempo, mais preciso para fixar a ferramenta. Com uma estação de encolhimento adequada, as etapas operacionais necessárias podem ser facilmente executadas; uma máquina de encolhimento pode automatizar grande parte dessas etapas e, ao mesmo tempo, garantir a segurança do processo através de medições adequadas.</p> <p><a class=\"btn\" href=\"/pt/retrair-ferramenta\">Quais são as vantagens da contração da ferramenta?</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/9/csm_header_powershrink_fda54c16eb.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 896
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8163",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Técnica de impacto </h3> <h2> Equilibrar rebolos e ferramentas? Importante e simples|fácil! </h2>",
+   "body": "<p>Para máquinas de corte modernas, ferramentas com equilíbrio preciso são extremamente importantes. Desequilíbrios em rebolos, em suas ferramentas e em sistemas de ferramentas causam desgaste ou até mesmo danos ao fuso e aos motores – sem falar no desperdício de peças a trabalhar. O equilíbrio regular evita paradas, garante a qualidade e reduz seus custos gerais.</p> <p><a class=\"btn\" href=\"/pt/equilibrar-a-ferramenta\">O nosso sistema de equilíbrio aumenta a vida útil das ferramentas</a><br/><a class=\"btn\" href=\"/pt/equilibrar-o-rebolo\">Maior suavidade de funcionamento e desempenho de corte através de rebolos equilibrados</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_header_toolBalancer_df19c3c897.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 896
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8160",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Otimize o tempo útil das suas ferramentas </h2>",
+      "body": "<p>Quanto maior o tempo útil de uma ferramenta de corte, os custos dessa ferramenta serão mais baixos e o seu funcionamento será mais efetivo. Se conhecer os principais fatores que influenciam o tempo útil, será mais fácil otimizá-lo.</p> <p><a class=\"btn\" href=\"/pt/tempo-util-da-ferramenta\">Como pode controlar e otimizar o tempo útil da sua ferramenta</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "center",
+      "ftype": "textmedia",
+      "id": "c8166",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Otimizar o tempo de preparação –<br/>como e porquê? </h2>",
+      "body": "<p>Hoje em dia, quase nenhuma máquina ou sistema fabrica apenas um produto – normalmente, elas são adaptadas para produtos diferentes|diversos, conforme a necessidade. Isso gera tempos de preparação, durante os quais a máquina normalmente não produz nada.</p> <p><a class=\"btn\" href=\"/pt/otimizacao-do-tempo-de-preparacao\">Porquê otimizar o tempo de preparação?</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c8168",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8167",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>1:1 Conversa com especialistas</h3> <p><a class=\"btn\" href=\"https://myzoller.com/int/en/expert/booking/\" rel=\"noopener\" target=\"_blank\">Marque agora uma consulta</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/pt/areas-de-negocio-1",
+ "de_path": "/geschaeftsfelder"
+}

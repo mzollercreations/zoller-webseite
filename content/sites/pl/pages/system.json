@@ -1,0 +1,471 @@
+{
+ "path": "/system",
+ "url": "/pl/system",
+ "title": "System",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pl/strona-glowna"
+  },
+  {
+   "label": "System",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pl/strona-glowna"
+  },
+  {
+   "label": "System",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/das-system",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/the-system",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/el-sistema",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/le-systeme",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/o-sistema",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/il-sistema",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/systemet",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/das-system",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/the-system",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/le-systeme",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%8B%9C%EC%8A%A4%ED%85%9C",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/the-system",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/el-sistema",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/o-sistema",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/01_Pages/The_System/ZOLLER_WELT_1920x1080.mp4",
+     "title": "ZOLLER – jedyny, który działa systemowo",
+     "kicker": "",
+     "text": "<p>Nasi klienci czerpią korzyści z<br/>kompleksowych rozwiązań,<br/>które rozwijamy od dziesięcioleci.<br/>Efekt: doskonała wydajność. </p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c604",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "66-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2 class=\"headline-decor\"> Zacznij od rozwiązania – wprowadź system. </h2>",
+      "body": "<p class=\"extra-large-text\">Najpewniejszym sposobem na zachowanie zdolności do działania w perspektywie długoterminowej jest wybór kompleksowego systemu zarządzania.</p> <p class=\"extra-large-text\">ZOLLER jest jedynym producentem na świecie, który może zaoferować Państwu taki system. System ten koncentruje się na narzędziach skrawających i łączy w sieć powiązane z nimi procesy. Rezultat: najwyższa ekonomiczność, jakość i precyzja w obróbce skrawaniem.</p> <p class=\"extra-large-text\">Zaczynają Państwo od tego, na jakim etapie się Państwo znajdują. Zatrzymują się Państwo tam, gdzie Państwa wymagania zostaną spełnione. I zawsze mają Państwo pewność, że będą mogli zrobić kolejny krok. </p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c556",
+      "bg": "yellow",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-2cols",
+   "id": "c1854",
+   "bg": "yellow",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "hotspots",
+   "header": "",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/2/4/csm_zoller_system_en_7439d4eabe.webp",
+    "alt": "zoller system",
+    "w": 1540,
+    "h": 1193
+   },
+   "spots": [
+    {
+     "x": 71.714,
+     "y": 20.307,
+     "label": "Zarządzanie narzędziami",
+     "text": "<h3>Zarządzanie narzędziami</h3> <p>Szafki na narzędzia, stanowiska montażowe, oprogramowanie i interfejsy: firma ZOLLER zapewnia porządek w magazynie narzędzi i zwiększa przejrzystość danych dotyczących narzędzi. </p> <p>Korzyści dla Państwa – <a class=\"btn\" href=\"/produkte/toolmanagement\">zobacz produkty</a></p>"
+    },
+    {
+     "x": 87.074,
+     "y": 38.032,
+     "label": "Technika obkurczania",
+     "text": "<h3>Technika obkurczania</h3> <p>Najbardziej innowacyjne rozwiązania w zakresie zakładania i zdejmowania narzędzi: doskonała obsługa, zmniejszone zużycie energii oraz rekordowo krótki czas trwania procesu. </p> <p><a class=\"btn\" href=\"/pl/rozwiazania/technika-obkurczania\">Korzyści dla Państwa</a> <a class=\"btn\" href=\"/produkte/schrumpftechnik\">Zobacz produkty</a></p>"
+    },
+    {
+     "x": 89.237,
+     "y": 54.501,
+     "label": "Technika wyważania",
+     "text": "<h3>Technika wyważania</h3> <p>Dłuższa żywotność narzędzi, lepsza jakość powierzchni: dzięki najlepszym wyważarkom dostępnym na rynku. </p> <p><a class=\"btn\" href=\"/pl/rozwiazania/technika-wywazania\">Twoje korzyści</a> <a class=\"btn\" href=\"/produkte/wuchttechnik\">Zobacz produkty</a></p>"
+    },
+    {
+     "x": 38.021,
+     "y": 59.037,
+     "label": "Uchwyty narzędziowe z »chipem« ZOLLER »idChip«",
+     "text": "<h3>Uchwyty narzędziowe z »chipem« ZOLLER »idChip«</h3> <p>»idChip« – idealne połączenie między narzędziem a cyfrową produkcją.</p> <p><a class=\"btn\" href=\"/pl/rozwiazania/uchwyty-narzedziowe\">Korzyści dla Państwa Przejdź</a> <a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">bezpośrednio do sklepu z narzędziami</a></p>"
+    },
+    {
+     "x": 42.347,
+     "y": 77.53,
+     "label": "Kontrola i pomiary",
+     "text": "<h3>Kontrola i pomiary</h3> <p>Dokumentuj jakość i twórz cyfrowe bliźniaki.</p> <p><a class=\"btn\" href=\"/pl/rozwiazania/kontrola-i-pomiary\">Korzyści dla Państwa</a> <a class=\"btn\" href=\"/produkte/pruefen-messen\">Zobacz produkty</a></p>"
+    },
+    {
+     "x": 64.954,
+     "y": 84.787,
+     "label": "Ostrzenie narzędzi",
+     "text": "<h3>Ostrzenie narzędzi</h3> <p>Dla producentów narzędzi i zakładów szlifierskich dane pomiarowe oraz zarządzanie danymi mają zasadnicze znaczenie dla osiągnięcia wysokiej rentowności i udokumentowanej jakości. Firma ZOLLER oferuje wszystko, czego potrzebują Państwo w tym zakresie.</p> <p><a class=\"btn\" href=\"/pl/ostrzenie-narzedzi\">Dowiedz się więcej</a></p>"
+    },
+    {
+     "x": 75.23,
+     "y": 84.368,
+     "label": "Frezowanie",
+     "text": "<h3>Frezowanie</h3> <p>Większa efektywność ekonomiczna procesów frezowania dzięki danym narzędziowym z dokładnością do mikrometrów oraz cyfryzacji procesu „CAM-to-Part”.</p> <p><a class=\"btn\" href=\"/pl/frezowanie\">Dowiedz się więcej</a></p>"
+    },
+    {
+     "x": 85.398,
+     "y": 84.299,
+     "label": "Obracanie",
+     "text": "<h3>Obracanie</h3> <p>Precyzyjna regulacja i pomiar narzędzi tokarskich oraz wysoka dostępność danych: zwiększ już teraz wydajność operacji toczenia. </p> <p><a class=\"btn\" href=\"/pl/obracanie\">Dowiedz się więcej</a></p>"
+    },
+    {
+     "x": 85.019,
+     "y": 70.551,
+     "label": "»zidCode«",
+     "text": "<h3>»zidCode«</h3> <p>Większe bezpieczeństwo i wydajność dzięki zautomatyzowanemu, bezbłędnemu zarządzaniu danymi narzędzi.</p> <p><a class=\"btn\" href=\"/pl/produkty/zarzadzanie-narzedziami/przesylanie-danych/zidcode\">Więcej informacji o »zidCode«</a></p>"
+    },
+    {
+     "x": 68.415,
+     "y": 68.737,
+     "label": "Ustawianie i pomiary",
+     "text": "<h3>Ustawianie i pomiary</h3> <p>W ten sposób skrócisz czas przezbrojenia o 40 % lub więcej i wydłużysz żywotność narzędzi. </p> <p><a class=\"btn\" href=\"/pl/rozwiazania/ustawianie-i-pomiary\">Korzyści dla Państwa</a> <a class=\"btn\" href=\"/produkte/einstellen-messen\">Zobacz produkty</a></p>"
+    },
+    {
+     "x": 50.676,
+     "y": 21.144,
+     "label": "Pomiar zorientowany na proces",
+     "text": "<h3> Pomiar zorientowany na proces</h3> <p>Szybka i dokładna kontrola narzędzi przy przyjęciu towaru lub sprawdzanie jakości szlifowania bezpośrednio przy maszynie – rozwiązania firmy ZOLLER dostosowane do procesów produkcyjnych.</p> <p><a class=\"btn\" href=\"/pl/rozwiazania/kontrola-i-pomiary\">Korzyści dla Państwa</a> <a class=\"btn\" href=\"/pl/produkty/kontrola-i-pomiary/pomiar-zorientowany-na-proces/pombasic\">Więcej informacji o »pomBasic«</a></p>"
+    },
+    {
+     "x": 57.004,
+     "y": 31.333,
+     "label": "Przygotowanie narzędzi",
+     "text": "<h3>Przygotowanie narzędzi</h3> <p>Zautomatyzuj ustawianie i pomiary narzędzi, w tym obsługę narzędzi. Również typowe łańcuchy procesowe przebiegają samodzielnie dzięki systemowi ZOLLER. </p> <p><a class=\"btn\" href=\"/pl/rozwiazania/automatyzacja\">Korzyści dla Państwa</a> <a class=\"btn\" href=\"/produkte/automation/werkzeugvorbereitung\">Zobacz produkty</a></p>"
+    },
+    {
+     "x": 38.453,
+     "y": 47.732,
+     "label": "Dostarczanie narzędzi",
+     "text": "<h3>Dostarczanie narzędzi</h3> <p>Dzięki ZOLLER wszystkie narzędzia potrzebne do realizacji kolejnych zleceń produkcyjnych są przygotowywane w sposób zautomatyzowany. </p> <p><a class=\"btn\" href=\"/pl/rozwiazania/automatyzacja\">Korzyści dla Państwa</a> <a class=\"btn\" href=\"/produkte/automation/werkzeugbereitstellung\">Zobacz produkty</a></p>"
+    },
+    {
+     "x": 56.03,
+     "y": 60.642,
+     "label": "Kontrola narzędzi",
+     "text": "<h3>Kontrola narzędzi</h3> <p>Jak zautomatyzować kontrolę narzędzi za pomocą maszyn pomiarowych z serii »genius«. Opcjonalnie z znakowaniem laserowym i pełną dokumentacją.</p> <p><a class=\"btn\" href=\"/pl/rozwiazania/automatyzacja\">Korzyści dla Ciebie</a> <a class=\"btn\" href=\"/produkte/automation/werkzeuginspektion\">Zobacz produkty</a></p>"
+    },
+    {
+     "x": 69.443,
+     "y": 45.429,
+     "label": "Logistyka narzędzi",
+     "text": "<h3>Logistyka narzędzi</h3> <p>Państwa narzędzia są automatycznie transportowane z działu przygotowania narzędzi do maszyny CNC – lub do magazynu narzędzi. A potem z powrotem. </p> <p><a class=\"btn\" href=\"/pl/rozwiazania/automatyzacja\">Korzyści dla Państwa</a> <a class=\"btn\" href=\"/produkte/automation/werkzeuglogistik\">Zobacz produkty</a></p>"
+    },
+    {
+     "x": 76.041,
+     "y": 33.357,
+     "label": "»toolCart«",
+     "text": "<h3>»toolCart«</h3> <p>Do wygodnego transportu narzędzi</p> <p><a class=\"btn\" href=\"/pl/produkty/zarzadzanie-narzedziami/transport-narzedzi/toolcart\">Więcej informacji o »toolCart«</a></p>"
+    },
+    {
+     "x": 27.258,
+     "y": 39.358,
+     "label": "Projektowanie CAD",
+     "text": "<h3>Projektowanie CAD</h3> <p>System zarządzania narzędziami firmy ZOLLER udostępnia dane narzędziowe od początku do końca procesu. Nasze interfejsy pobierają dane narzędziowe z systemów CAD/CAM, systemów ERP oraz katalogów narzędzi i przenoszą je do oprogramowania ZOLLER TMS Tool Management Solutions.</p> <p>Korzyści dla Państwa</p>"
+    },
+    {
+     "x": 38.94,
+     "y": 30.356,
+     "label": "Produkcja CAM",
+     "text": "<h3>Produkcja CAM</h3> <p>Zarządzanie narzędziami z firmą ZOLLER gwarantuje, że Państwa dane są dostępne w bazie danych z.One na każdym etapie procesu – od CAM aż po gotowy element. Ułatwia to planowanie produkcji, skraca czas przezbrajania i ogranicza liczbę brakujących elementów – od rozpoczęcia procesu w systemach CAM i CAD aż po sterowanie szlifierkami CNC lub maszynami obróbczymi.</p> <p>Więcej informacji o interfejsach</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c4007",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> System wartości we współczesnej produkcji </h1>",
+   "body": "<p class=\"extra-large-text\">Podejście firmy ZOLLER, ukierunkowane na systemowe rozwiązania, opiera się na czterech podstawowych wartościach: innowacyjności, jakości, precyzji i obsłudze. Kierujemy się nimi przy każdym produkcie, który opracowujemy, wytwarzamy i dostarczamy. Nasi klienci są zadowoleni, ponieważ nasze rozwiązania gwarantują wysoką jakość. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/8/csm_value_system_4adb77b8bc.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c607",
+   "bg": "black",
+   "space": {
+    "before": "extra-small",
+    "after": "none"
+   }
+  },
+  {
+   "type": "values",
+   "header": "",
+   "tiles": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_value_innovation_30b03ea669.webp",
+      "alt": "",
+      "w": 739,
+      "h": 774
+     },
+     "text": "<p>W firmie ZOLLER gotowość do wprowadzania innowacji jest najważniejszym składnikiem postępu. Od 80 lat tworzymy u nas przyszłość. </p>"
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/1/f/csm_value_quality_596c87a5e7.webp",
+      "alt": "",
+      "w": 739,
+      "h": 774
+     },
+     "text": "<p>W firmie ZOLLER eksperci montują każde urządzenie ręcznie. I swoim nazwiskiem ręczą za efekt: niezawodność „made in Germany”. </p>"
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/3/8/csm_value_precition_86c1763b85.webp",
+      "alt": "",
+      "w": 739,
+      "h": 774
+     },
+     "text": "<p>W firmie ZOLLER stosujemy najnowocześniejsze rozwiązania w dziedzinie techniki pomiarowej. Nasze najlepsze urządzenia rozróżniają struktury o wielkości poniżej 1 µm i dostarczają precyzyjne dane. </p>"
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/9/6/csm_value_service_c143139351.webp",
+      "alt": "",
+      "w": 739,
+      "h": 774
+     },
+     "text": "<p>W firmie ZOLLER liczy się niezawodność. Jesteśmy obecni w 62 krajach na całym świecie. Od Argentyny po Wietnam – jesteśmy do Państwa dyspozycji! </p>"
+    }
+   ],
+   "ftype": "zoller_column-image-text",
+   "id": "c605",
+   "bg": "black",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Poznaj system ZOLLER na żywo </h2>",
+   "body": "<p>W ZOLLER Smart Factory w Pleidelsheim prezentujemy system ZOLLER wraz ze wszystkimi rozwiązaniami, aż po pełną Automatykę hali produkcyjnej. Przekonajcie się Państwo o wysokiej wydajności spójnych procesów od CAM do gotowej części oraz o zaletach stałej dostępności danych narzędzia. </p> <p>Dowiedz się już teraz, jak umówić się na wizytę lub indywidualną rozmowę z ekspertem.</p> <p><a class=\"btn\" href=\"/pl/przedsiebiorstwa/kontakt/inteligentna-fabryka\">Do Smart Factory</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/9/csm_smartfactory_teaser_4b2372736c.webp",
+     "alt": "",
+     "w": 1400,
+     "h": 1400
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c59554",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Cztery liczby stanowiące podstawę systemu ZOLLER </h2>",
+   "body": "<p>Za systemem ZOLLER stoi nieustannie rozwijający się proces. Najlepiej oddają to cztery liczby: 80 | 60 | 14 | 7. Pokazują one wyraźnie, dlaczego firma ZOLLER jest najlepszym partnerem w zakresie procesów związanych z narzędziami. Dowiedz się więcej z ulotki.</p> <p><a class=\"btn\" href=\"/fileadmin/03_Media_Press/Downloads/System/Flyer_ZOL_Vier_Zahlen_DE.pdf\" rel=\"noopener\" target=\"_blank\">Pobierz ulotkę</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/0/csm_teaser_vier_zahlen_fe067fe955.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c62147",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/pl/system",
+ "de_path": "/das-system"
+}

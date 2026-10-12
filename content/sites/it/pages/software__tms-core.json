@@ -1,0 +1,549 @@
+{
+ "path": "/software/tms-core",
+ "url": "/it/software/tms-core",
+ "title": "»TMS Core«",
+ "description": "»TMS Core« - Il punto iniziale ideale per l’organizzazione digitale degli utensili - Sistema modulare",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/it/home-page"
+  },
+  {
+   "label": "Prodotti /",
+   "href": "/it/prodotti"
+  },
+  {
+   "label": "Tool management /",
+   "href": "/it/prodotti/tool-management"
+  },
+  {
+   "label": "Software /",
+   "href": "/it/software"
+  },
+  {
+   "label": "»TMS Core«",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/it/home-page"
+  },
+  {
+   "label": "Prodotti /",
+   "href": "/it/prodotti"
+  },
+  {
+   "label": "Tool management /",
+   "href": "/it/prodotti/tool-management"
+  },
+  {
+   "label": "Software /",
+   "href": "/it/software"
+  },
+  {
+   "label": "»TMS Core«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/software/tms-core",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/software/tms-core",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/software/tms-core",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/software/tms-core",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/software/tms-core",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/software/tms-core",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/software/tms-core",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/software/tms-core",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/software/tms-core",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/software/tms-core",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/software/tms-core",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/software/tms-core",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/software/tms-core",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/software/tms-core",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/software/tms-core",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Software",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/it/software",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "»TMS Core«",
+     "href": "/it/software/tms-core",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Stock«",
+     "href": "/it/software/add-on-zstock",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.CAM Integration«",
+     "href": "/it/software/add-on-zcam-integration",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Resources«",
+     "href": "/it/software/add-on-zresources",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Shopfloor«",
+     "href": "/it/software/add-on-zshopfloor",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Connectivity«",
+     "href": "/it/software/add-on-zconnectivity",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Integration«",
+     "href": "/it/software/add-on-zintegration",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c164281",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Sistema modulare </h3> <h1> »TMS Core« </h1>",
+   "body": "<p>Con <strong>»TMS Core«</strong>, ZOLLER offre il punto iniziale ideale per l’organizzazione digitale degli utensili. Snello, intuitivo e immediatamente pronto all’uso: perfetto per strutturare i processi e archiviare centralmente i dati utensili. Con TMS mantenete sempre la massima flessibilità: basato su browser, utilizzabile in tutte le sedi in modo complesso e semplice – adatto a qualsiasi livello di produzione. Su richiesta, »TMS Core« può essere ampliato in qualsiasi momento con sei componenti aggiuntivi – esattamente al ritmo che dovete seguire per far crescere il vostro Tool management.</p> <p><a class=\"btn\" href=\"/it/azienda/contatto\">Richiedi ora</a> <a href=\"https://myzoller.com/de/de/expert/booking/\" rel=\"noopener\" target=\"_blank\">un colloquio con un esperto 1:1</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/b/csm_TMSCore_product_c0b310efb0.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 852
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c164284",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Importazione dei dati dei Costruttori di utensili senza alcuno sforzo aggiuntivo ",
+    "Nessuna doppia gestione dei dati: il sistema cresce semplicemente con voi ",
+    "Notevole risparmio di tempo grazie al database centralizzato degli utensili"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c164283",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "table",
+   "header": "<h2> »TMS Core« </h2>",
+   "table": "<table> <tbody> <tr> <td> </td> <td class=\"text-center\"> Browser web </td> <td class=\"text-center\"> Desktop </td> </tr> <tr> <td> Licenze flottanti </td> <td class=\"text-center\"> 3 </td> <td class=\"text-center\"> 3 </td> </tr> <tr> <td> Componenti singoli </td> <td class=\"text-center\"> ● </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Utensili </td> <td class=\"text-center\"> ● </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Fogli di configurazione </td> <td class=\"text-center\"> ● </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Macchine </td> <td class=\"text-center\"> ● </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Accessori </td> <td class=\"text-center\"> ● </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Inventario </td> <td class=\"text-center\"> ● </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Integrazione macchina di regolazione (ZOLLER o produttori terzi) </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> API REST webService </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Accesso tramite ID utente </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Single Sign-On (SSO) </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Importazione/Esportazione </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Assistenza e aggiornamenti </td> <td class=\"text-center\"> ● </td> <td class=\"text-center\"> ● </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c164310",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p>● Base ― non disponibile </p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c164421",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/5/csm_EN_TMS_einzelkomponenten_2ea2eb942a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513
+    },
+    {
+     "src": "/fileadmin/_processed_/4/5/csm_EN_TMS_werkzeuge_c5ad0e3b91.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513
+    },
+    {
+     "src": "/fileadmin/_processed_/b/e/csm_EN_TMS_einrichteblaetter_2b2e2b6a9c.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513
+    },
+    {
+     "src": "/fileadmin/_processed_/a/d/csm_EN_TMS_zubehoer_8fb9694f39.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164314",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> »TMS Core« </h3> <h2> Potenziale di crescita </h2>",
+   "body": "<p class=\"large-text\">Il software è progettato appositamente per essere espandibile: avviate oggi, ampliatelo domani – con i componenti aggiuntivi di cui il vostro Tool management ha davvero bisogno.</p> <p class=\"large-text\">Grazie alla gestione centralizzata dei dati, »TMS Core« riduce il carico amministrativo.</p> <p class=\"large-text\">»TMS Core« garantisce che i dati utensile, una volta creati, possano essere utilizzati ovunque.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/d/csm_TMSCore_benefit_IT_48178589d5.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c164307",
+   "bg": "image",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/a/d/csm_TMSCore_Feature_01_6fffd22380.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "title": "Trasparenza degli utensili",
+     "caption": "<figcaption> <h3>Trasparenza degli utensili</h3> <p>Tool management come chiave per la trasparenza degli utensili</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_TMSCore_Feature_02_5a671e0bc1.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "title": "Sicuro per il processo",
+     "caption": "<figcaption> <h3>Sicuro per il processo</h3> <p>ZOLLER TMS per la massima sicurezza del processo</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164372",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Panoramica dell'hardware opzionale ZOLLER per »TMS Core« </h2>",
+   "items": [
+    {
+     "href": "/it/prodotti/regolazione-e-misurazione/strumenti-verticali/smile",
+     "title": "»smile«",
+     "text": "<p>I robusti dispositivi entry-level con precisione esatta al µm per utensili standard</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/it/prodotti/tecnologia-per-il-calettamento-a-caldo/powershrink",
+     "title": "»powerShrink«",
+     "text": "<p>Il sistema di termoretrazione con efficienza energetica ottimale e massima sicurezza</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_506ab0ccb9.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/it/prodotti/tecnologia-per-la-bilanciatura-utensili/toolbalancer",
+     "title": "»toolBalancer«",
+     "text": "<p>Il sistema di bilanciamento con tecnologia all'avanguardia e design ergonomico</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/it/prodotti/controllo-e-misurazione/macchine-di-misura-universali/genius",
+     "title": "»genius«",
+     "text": "<p>Rileva oltre 100 parametri con estrema precisione e ha dato prova della sua efficacia in oltre 1000 casi in tutto il mondo.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/d/csm_genius_1_5b500df8d2.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/it/prodotti/automazione/logistica-degli-utensili/coralogistic",
+     "title": "»coraLogistic«",
+     "text": "<p>Per operazioni di trasporto tra magazzino utensili, preparazione utensili e macchina CNC</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/0/csm_coraLogistics_preview_8cd4f5bccb.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/it/prodotti/automazione/preparazione-degli-utensili/corameasure-lg",
+     "title": "»coraMeasure LG«",
+     "text": "<p>Gestione economica degli utensili per ZOLLER »venturion«</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "",
+     "title": "»zidCode«",
+     "text": "<p>Maggiore sicurezza ed efficienza grazie a una gestione semplice dei dati utensile</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/8/csm_Teaser_zidcode_preview_472b8e8590.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "",
+     "title": "»zidCode 4.0«",
+     "text": "<p>Con »zidCode 4.0,« rendere disponibili i dati utensile direttamente durante il processo tramite scansione</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/d/csm_Teaser_zidcode40_preview_b71747bf93.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c164306",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "large"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/9/csm_TMS_teaser_46de18cb11.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Tool management: i vostri vantaggi",
+     "href": "/it/solutions/tool-management",
+     "caption": "<figcaption> <h3>Tool management: i vostri vantaggi</h3> <p>Scoprite come il Tool management di ZOLLER aumenta immediatamente la vostra produttività. Grazie ai dati utensile, i processi procedono in modo più rapido e sicuro, con protezione antiurto inclusa per le vostre macchine. </p> <br/> Scopri di più </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Colloquio con esperti",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Colloquio con esperti</h3> <p>Un colloquio personalizzato sui vostri obiettivi e sulle nostre idee per raggiungerli. La consulenza online di ZOLLER direttamente dalla Smart Factory. Fissate subito un appuntamento. </p> <br/> Scopri di più </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164343",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/it/software/tms-core",
+ "de_path": "/produkte/toolmanagement/software/tms-core"
+}

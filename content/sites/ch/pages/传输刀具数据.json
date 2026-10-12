@@ -1,0 +1,282 @@
+{
+ "path": "/传输刀具数据",
+ "url": "/ch/%E4%BC%A0%E8%BE%93%E5%88%80%E5%85%B7%E6%95%B0%E6%8D%AE",
+ "title": "刀具数据传输",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "刀具数据传输",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "刀具数据传输",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/uebermittlung-werkzeugdaten",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/transfer-of-tool-data",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/transmision-de-datos-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/transmission-des-donnees-doutils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/transmissao-de-dados-da-ferramenta",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/trasmissione-dei-dati-utensile",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/oeverfoering-av-verktygsdata",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/uebermittlung-werkzeugdaten",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/transmission-of-tool-data",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/transmission-des-donnees-doutils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%84%E3%83%BC%E3%83%AB%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E9%80%81%E4%BF%A1",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/transmission-of-tool-data",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/transmision-de-datos-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/transmissao-de-dados-da-ferramenta",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/e/a/csm_toolmanagement_intro_e7e8908938.webp",
+     "video": null,
+     "title": "刀具数据传输",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7948",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 确保数据安全、快速传输 </h2>",
+   "body": "<p><strong>在当今的工业制造中，各个生产环节之间的数据交换至关重要。借助ZOLLER软件解决方案，无论刀具来自哪家制造商，都能随时确保刀具数据的安全、快速传输。</strong></p> <p>刀具数据管理是一项复杂的任务。 所有系统和组件之间的无缝协作对于“工业 4.0”至关重要 — 但这绝非理所当然。因为通常会使用不同制造商的系统和机器，而它们各自采用不同的传输技术。因此，即使有数字支持，刀具管理也很快会成为一项挑战。</p> <p>诸如 DIN 4000 属性特征列表结构等标准，旨在促进不同组件之间的数据交换；通过该 DIN 标准，您可以按照规范定义各个组件，从而确保其互换性。 这使得不同系统之间（例如用于 CAD/CAM 或 NC 仿真）能够实现顺畅的信息交换。</p> <p>因此，统一且标准化的数据库是实现自动刀具数据导入的基础，这种导入即使跨越不同制造商也能可靠运行。 这一点之所以重要，不仅是因为这样可以避免传输延迟 — 这种延迟会导致机器停机、生产流程中断，进而导致某个工序无法按计划进行。</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7950",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 借助刀具管理软件，确保数据传输不受厂商限制 </h2>",
+   "body": "<p>如今，针对从预调设备向机床传输数据这一环节，已有许多既可靠又快捷的解决方案。ZOLLER的测量设备软件现已能够实现与制造商无关的、安全可靠的刀具数据传输。</p> <p>无论是通过 RFID 芯片、后处理器（DNC 系统：分布式数控）还是上级生产管理系统：我们几乎都能为任何生产环境提供合适的数据传输解决方案。 另一种非常高效的方案是将实际数据加密到数据矩阵码中，并通过连接到数控系统读取器的读取器进行扫描。</p> <p>更重要的是：领先制造商的刀具数据通常存储在云端，只需点击鼠标，即可通过 ZOLLER TMS 刀具管理解决方案（TMS Tool Management Solutions）软件轻松调用。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/f/csm_toolmanagement_01_ac672b9feb.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7951",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> TMS 刀具管理解决方案的其他功能 </h2>",
+   "body": "<ul><li>在各款ZOLLER产品之间导入和导出刀具、单个部件、设置表、附件、机床数据及其他内容</li><li>不受平台和制造商限制的刀具数据导入与导出（必要时可通过读取过滤器或后处理器）</li><li>可移动访问所有刀具数据和刀具清单</li><li>带图形、零件和附件清单以及属性栏的刀具数据管理</li><li>用于识别和显示实际刀具数据的条码扫描仪</li></ul><h4><strong>您的优势：</strong></h4><ul><li>可选的第三方系统连接</li><li>通过避免错误确保工艺可靠性</li><li>结构简单，操作便捷</li></ul><p>点击此处了解有关 ZOLLER TMS 刀具管理解决方案的全部信息</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7952",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "刀具管理：为您带来的优势",
+     "caption": "<figcaption> <h3>刀具管理：为您带来的优势</h3> <p>了解ZOLLER的刀具管理解决方案如何立即提升您的生产效率。借助刀具数据，加工过程将更加快速、安全——其中还包括对您机床的防碰撞保护功能。 </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "一对一专家咨询",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>一对一专家咨询</h3> <p>针对您的目标以及我们为此提出的方案，进行一对一的交流。ZOLLER 直接从“智能工厂”为您提供的在线咨询服务。立即预约。 </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ch/传输刀具数据",
+ "de_path": "/uebermittlung-werkzeugdaten"
+}

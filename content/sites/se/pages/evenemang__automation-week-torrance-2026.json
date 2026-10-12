@@ -1,0 +1,496 @@
+{
+ "path": "/evenemang/automation-week-torrance-2026",
+ "url": "/evenemang/automation-week-torrance-2026",
+ "title": "ZOLLER Automation Week Torrance 2026",
+ "description": "12–16 oktober 2026 hos ZOLLER Inc. Pacific i Torrance, Kalifornien: livedemos av »coraLogistic«, »coraVarion« och »loadBox«, föredrag och 1:1-samtal med experter.",
+ "og_image": "/assets/video/automation-week-poster.jpg",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "event_hero",
+   "id": "event",
+   "kicker": "Evenemang · ZOLLER Inc. Pacific",
+   "title": "ZOLLER Automation Week",
+   "subtitle": "Upplev fem dagar automatisering live – »coraLogistic«, »coraVarion« och »loadBox« i drift.",
+   "dates": "12–16 oktober 2026",
+   "place": "Torrance, Kalifornien",
+   "hours": "Dagligen 9.00–17.00 (PT)",
+   "images": [
+    {
+     "src": "/assets/showroom/img/hd/coralogistic.webp",
+     "alt": "»coraLogistic«"
+    },
+    {
+     "src": "/assets/showroom/img/hd/loadbox.webp",
+     "alt": "»loadBox«"
+    },
+    {
+     "src": "/assets/showroom/img/hd/micbox.webp",
+     "alt": "»micBox«"
+    }
+   ],
+   "buttons": [
+    {
+     "label": "Välj ett programpass",
+     "href": "#program"
+    },
+    {
+     "label": "Se inbjudningsvideon",
+     "href": "#video",
+     "ghost": true
+    }
+   ]
+  },
+  {
+   "type": "event_facts",
+   "id": "facts",
+   "bg": "yellow",
+   "items": [
+    {
+     "value": "5",
+     "label": "Dagar",
+     "text": "Måndag till fredag, varje dag med eget tema"
+    },
+    {
+     "value": "3",
+     "label": "Lösningar live",
+     "text": "»coraLogistic«, »coraVarion« och »loadBox« i drift"
+    },
+    {
+     "value": "25+",
+     "label": "Programpass",
+     "text": "Livedemos, föredrag, workshoppar och 1:1-samtal med experter"
+    },
+    {
+     "value": "0 $",
+     "label": "Inträde",
+     "text": "Kostnadsfritt – antalet platser per demo är begränsat"
+    }
+   ]
+  },
+  {
+   "type": "event_video",
+   "id": "video",
+   "bg": "black",
+   "kicker": "Inbjudan",
+   "title": "Din inbjudan till Torrance",
+   "text": "<p>Det här väntar dig i Torrance – och därför är besöket värt det.</p>",
+   "src": "/assets/video/zoller-automation-week-torrance.mp4",
+   "poster": "/assets/video/automation-week-poster.jpg"
+  },
+  {
+   "type": "event_products",
+   "id": "solutions",
+   "bg": "lightgray",
+   "title": "Tre lösningar. Ett automatiserat verktygskretslopp.",
+   "text": "<p>Från verktygslagret via förberedelsen till CNC-maskinen: se hur ZOLLERs automatisering samverkar – och vad det betyder för din produktion.</p>",
+   "items": [
+    {
+     "name": "»coraLogistic«",
+     "claim": "Automatiserad verkstadslogistik",
+     "img": "/assets/showroom/img/hd/coralogistic.webp",
+     "href": "/produkte/automation/werkzeuglogistik/coralogistic",
+     "tag": "coralogistic",
+     "benefits": [
+      "Verktygen färdas själva: den autonoma roboten »coraExpress« transporterar dem mellan lager, förberedelse och maskin",
+      "Systemet »smartPallet« håller verktygen säkert – för manuell eller automatiserad transport",
+      "Skapa transportordrar med några få klick i webTMS orderhantering",
+      "Mindre spring och letande – verktyget kommer i tid till maskinen"
+     ]
+    },
+    {
+     "name": "»coraVarion«",
+     "claim": "Automatiserad montering, kontroll och mätning av vändskär",
+     "img": "/assets/showroom/img/hd/micbox.webp",
+     "href": "/produkte/automation/werkzeugvorbereitung/micbox",
+     "tag": "coravarion",
+     "benefits": [
+      "Med »micBox«: vändskären vrids, vänds och byts helt automatiskt",
+      "Montering, kontroll och mätning i en sammanhängande process",
+      "Jämn kvalitet med fullständig dokumentation av varje verktyg",
+      "Körs obemannat – dina yrkesutbildade medarbetare kan ägna sig åt värdeskapande uppgifter"
+     ]
+    },
+    {
+     "name": "»loadBox«",
+     "claim": "Det intelligenta verktygscentret",
+     "img": "/assets/showroom/img/hd/loadbox.webp",
+     "href": "/produkte/automation/werkzeugbereitstellung/loadbox",
+     "tag": "loadbox",
+     "benefits": [
+      "Plockar verktyg orderbaserat och ställer dem till logistikens förfogande",
+      "En 6-axlig FANUC-robot hanterar verktygen säkert mellan in-/utmatning och lager",
+      "Kompakt verktygslagring i Kardex Shuttle-hissystemet",
+      "Serverbaserad styrning – manövreras via bildskärm, surfplatta eller smarttelefon"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "agenda",
+   "id": "program",
+   "bg": "white",
+   "title": "Program",
+   "text": "<p>Välj dag och demo. Med ett klick kan du begära en plats eller lägga till passet i din kalender. Alla tider anges i Pacific Time (PT); föredrag och demos på engelska.</p>",
+   "email": "sales@zoller-usa.com",
+   "event": "ZOLLER Automation Week Torrance 2026",
+   "location": "ZOLLER Inc. Pacific, 3882 Del Amo Blvd., Suite #603, Torrance, CA 90503, USA",
+   "tz": "America/Los_Angeles",
+   "tzoffset": "-07:00",
+   "days": [
+    {
+     "date": "2026-10-12",
+     "label": "Öppningsdag",
+     "focus": "Alla tre lösningarna i överblick",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "Incheckning och frukost",
+       "text": "Kom på plats, ta en kaffe och träffa ZOLLER-teamet."
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "all",
+       "title": "Keynote: det automatiserade verktygskretsloppet",
+       "text": "Hur verktygsförberedelse, verktygsförsörjning och logistik hänger ihop i den smarta fabriken."
+      },
+      {
+       "start": "10:30",
+       "end": "11:15",
+       "kind": "Live-Demo",
+       "tag": "coralogistic",
+       "title": "»coraLogistic« live",
+       "text": "»coraExpress« hämtar verktygen och levererar dem till maskinen på »smartPallet«.",
+       "seats": 12
+      },
+      {
+       "start": "11:30",
+       "end": "12:15",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "»coraVarion« live",
+       "text": "Byta, kontrollera och mäta vändskär automatiskt.",
+       "seats": 12
+      },
+      {
+       "start": "12:15",
+       "end": "13:15",
+       "kind": "Networking",
+       "title": "Lunch och nätverkande"
+      },
+      {
+       "start": "13:15",
+       "end": "14:00",
+       "kind": "Live-Demo",
+       "tag": "loadbox",
+       "title": "»loadBox« live",
+       "text": "Orderbaserad verktygsplockning med robot och hissystem.",
+       "seats": 12
+      },
+      {
+       "start": "14:15",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "1:1-samtal med experter",
+       "text": "45 minuter med våra automationsexperter – om din produktion, dina verktyg och dina mål.",
+       "seats": 3
+      },
+      {
+       "start": "16:30",
+       "end": "17:30",
+       "kind": "Networking",
+       "title": "Välkomstmottagning",
+       "text": "Mingel som startskott för veckan."
+      }
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "label": "Logistikdag",
+     "focus": "Fokus: »coraLogistic«",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "Incheckning och frukost"
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "coralogistic",
+       "title": "Verkstadslogistik utan onödiga steg",
+       "text": "Var tid går förlorad i verktygslogistiken – och hur du vinner tillbaka den."
+      },
+      {
+       "start": "10:30",
+       "end": "11:30",
+       "kind": "Live-Demo",
+       "tag": "coralogistic",
+       "title": "»coraLogistic« på djupet",
+       "text": "En komplett transportorder: från lagret via förinställning till CNC-maskinen.",
+       "seats": 12
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Workshop",
+       "tag": "coralogistic",
+       "title": "Praktiskt: webTMS orderhantering",
+       "text": "Skapa egna transportordrar: välj vagn, välj målmaskin, kör.",
+       "seats": 8
+      },
+      {
+       "start": "12:30",
+       "end": "13:30",
+       "kind": "Networking",
+       "title": "Lunch och nätverkande"
+      },
+      {
+       "start": "13:30",
+       "end": "14:15",
+       "kind": "Live-Demo",
+       "tag": "loadbox",
+       "title": "»loadBox« möter »coraLogistic«",
+       "text": "Plockade verktyg går direkt vidare till den automatiserade transporten.",
+       "seats": 12
+      },
+      {
+       "start": "14:30",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "1:1-samtal med experter",
+       "text": "Dina logistikfrågor, våra experter.",
+       "seats": 3
+      }
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "label": "Verktygsförberedelsedag",
+     "focus": "Fokus: »coraVarion«",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "Incheckning och frukost"
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "coravarion",
+       "title": "Byta vändskär automatiskt",
+       "text": "Varför hanteringen av vändskär passar så bra för automatisering."
+      },
+      {
+       "start": "10:30",
+       "end": "11:30",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "»coraVarion« på djupet",
+       "text": "Montering, kontroll och mätning i ett flöde – live vid cellen.",
+       "seats": 12
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "»micBox« på nära håll",
+       "text": "Vrida, vända, byta: automatiseringen av skärbyten på nära håll.",
+       "seats": 12
+      },
+      {
+       "start": "12:30",
+       "end": "13:30",
+       "kind": "Networking",
+       "title": "Lunch och nätverkande"
+      },
+      {
+       "start": "13:30",
+       "end": "14:15",
+       "kind": "Live-Demo",
+       "tag": "coralogistic",
+       "title": "»coraLogistic« live",
+       "text": "Verktygstransporten i överblick.",
+       "seats": 12
+      },
+      {
+       "start": "14:30",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "1:1-samtal med experter",
+       "text": "Ta med dina verktyg och dina frågor.",
+       "seats": 3
+      }
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "label": "Verktygsförsörjningsdag",
+     "focus": "Fokus: »loadBox«",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "Incheckning och frukost"
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "loadbox",
+       "title": "Den smarta fabrikens verktygsnav",
+       "text": "Plocka verktyg orderbaserat i stället för att leta och samla ihop."
+      },
+      {
+       "start": "10:30",
+       "end": "11:30",
+       "kind": "Live-Demo",
+       "tag": "loadbox",
+       "title": "»loadBox« på djupet",
+       "text": "Robotbasmodul, hissystem och in-/utmatningsmodul i samverkan.",
+       "seats": 12
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Workshop",
+       "tag": "loadbox",
+       "title": "Styrning via surfplatta och smarttelefon",
+       "text": "Prova den serverbaserade styrprogramvaran själv.",
+       "seats": 8
+      },
+      {
+       "start": "12:30",
+       "end": "13:30",
+       "kind": "Networking",
+       "title": "Lunch och nätverkande"
+      },
+      {
+       "start": "13:30",
+       "end": "14:15",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "»coraVarion« live",
+       "text": "Byta, kontrollera och mäta vändskär automatiskt.",
+       "seats": 12
+      },
+      {
+       "start": "14:30",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "1:1-samtal med experter",
+       "text": "Vi räknar på ditt automationsprojekt tillsammans.",
+       "seats": 3
+      }
+     ]
+    },
+    {
+     "date": "2026-10-16",
+     "label": "Öppet hus",
+     "focus": "Hela verktygskretsloppet",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "Incheckning och frukost"
+      },
+      {
+       "start": "09:30",
+       "end": "10:30",
+       "kind": "Live-Demo",
+       "tag": "all",
+       "title": "Från lagret till spindeln",
+       "text": "Alla tre lösningarna i en sammanhängande process: »loadBox« plockar, »coraVarion« förbereder, »coraLogistic« levererar.",
+       "seats": 20
+      },
+      {
+       "start": "10:45",
+       "end": "11:30",
+       "kind": "Workshop",
+       "tag": "all",
+       "title": "Lönar det sig för mig?",
+       "text": "Lönsamheten för automatisering inom verktygsförberedelse – med räkneexempel.",
+       "seats": 15
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Live-Demo",
+       "tag": "all",
+       "title": "Öppen demo: den lösning du väljer",
+       "text": "Du bestämmer vad vi visar.",
+       "seats": 20
+      },
+      {
+       "start": "12:30",
+       "end": "14:00",
+       "kind": "Networking",
+       "title": "Kalifornisk grillfest och avslutning",
+       "text": "Vi avslutar veckan med en grillfest – och du är bjuden."
+      },
+      {
+       "start": "14:00",
+       "end": "16:00",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "1:1-samtal med experter",
+       "text": "Sista chansen till ditt personliga samtal.",
+       "seats": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "event_venue",
+   "id": "directions",
+   "bg": "black",
+   "title": "Hitta hit",
+   "name": "ZOLLER Inc. Pacific",
+   "lines": [
+    "3882 Del Amo Blvd., Suite #603",
+    "Torrance, CA 90503, USA"
+   ],
+   "map": "https://www.google.com/maps/search/?api=1&query=3882+Del+Amo+Blvd+Suite+603+Torrance+CA+90503",
+   "notes": [
+    "I South Bay i Los Angeles, nära flygplatsen LAX",
+    "Kostnadsfritt, anmälan krävs",
+    "Föredrag och demos på engelska"
+   ],
+   "contact": {
+    "label": "Anmälan och frågor",
+    "email": "sales@zoller-usa.com",
+    "phone": "+1 734 332 4851"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>Ingen tid i oktober?</h3> <p><a class=\"btn\" href=\"https://myzoller.com/us/en/expert/booking\" rel=\"noopener\" target=\"_blank\">Boka ett 1:1-samtal med en expert online</a></p>",
+   "id": "experte",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "de_path": "/events/automation-week-torrance-2026",
+ "hand": true
+}

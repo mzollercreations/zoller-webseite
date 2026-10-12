@@ -1,0 +1,290 @@
+{
+ "path": "/预设装置",
+ "url": "/ch/%E9%A2%84%E8%AE%BE%E8%A3%85%E7%BD%AE",
+ "title": "预调设备",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "预调设备",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "预调设备",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/voreinstellgeraet",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/preset-device",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/dispositivo-de-preajuste",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/appareil-de-prereglage",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/dispositivo-de-pre-ajuste",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/dispositivo-di-preimpostazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foerinstaellningsenhet",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/voreinstellgeraet",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/appareil-de-prereglage",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%97%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88%E8%A3%85%E7%BD%AE",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%82%AC%EC%A0%84-%EC%84%A4%EC%A0%95-%EC%9E%A5%EC%B9%98",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/preset-device",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/dispositivo-de-preajuste",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/dispositivo-de-pre-ajuste",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/b/1/csm_voreinstellen_venturion_header_222cabbd3d.webp",
+     "video": null,
+     "title": "预调设备可提高生产效率、产品质量",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8104",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">设置时间短、设备运行时间长：这是提高机床生产效率的两大关键因素。刀具预调仪可预先测定所有关键数据，并将其准确无误地传输至机床。</p> <p class=\"extra-large-text\">为了实现精准加工，数控机床需要精确的刀具几何数据。如果这些刀具数据能在安装前于数控机床外部完成测定，那么在安装刀具时即可立即读取，无需等待。</p> <p class=\"extra-large-text\">从预调仪到机床的电子数据传输不仅能避免输入错误和其他传输问题，而且能在极短的时间内完成。 这样不仅将设置时间缩短至最低限度，新刀具的调试时间实际上为零，从而最大限度地延长刀具的使用寿命。</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8105",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 预调设备的优势 </h2>",
+   "body": "<ul><li>设置时间与装夹时间实现分离：在数控机床仍在运行时，即可提前准备刀具，这样就能简化或加快工作流程，甚至可以在不同地点分别进行。</li><li>无需调试时间：通过电子传输预备好的刀具数据，机床控制系统能够即时、准确地接收正确信息</li><li>提高工艺可靠性：通过将数据从预调装置直接以全电子方式传输至数控机床，彻底消除手动调整可能导致的错误。</li><li>从第一件工件起即保证质量：数据供应完善的机床从第一件工件开始就能产出顶级成果，且无废品。凭借精确测量过的刀具，还能避免碰撞和中断。</li><li>更长的刀具使用寿命：通过最大限度地缩短设置时间和调试时间，机床能够更高效、更具生产力地运行。借助预调仪对切削刃质量的定期检测，始终保持顶级品质</li></ul>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/f/csm_voreinstellen_demonstration_84e2c4fdc8.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8108",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 使用 ZOLLER 预调仪，工作更出色、更高效 </h2>",
+   "body": "<p><strong>ZOLLER 刀具预调仪可满足各种应用需求。</strong></p> <p>我们的测量设备采用模块化系统，因此可以针对各种需求组合出合适的解决方案。无论是在全自动还是手动测量中，它们都可以针对不同的参数和刀具配置相应的测量方法。无论哪种情况，都能确保获得精确的测量结果。</p> <p>直观的操作界面极其简单、安全且便捷。这些设备还具备自动刀具刃口识别功能、用于轻松调节滑块的单手操作手柄，以及用于动力主轴夹紧和主轴锁定的薄膜键盘。</p> <p>所有设备均支持刀具数据的直接电子传输，从而彻底杜绝输入错误。ZOLLER 预调仪提供多种方案，可确保数据安全传输至机床 — 无论针对中小企业还是大型企业，无论是 Heller、Index 还是其他机床制造商。</p> <p>此外，还提供用于导入和导出刀具数据的简易选项以及其他功能。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/1/csm_voreinstellen_fertigung_782ce05bd8.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8109",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/2/csm_teaser_presetting_small_4ff7902d1b.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "预调和测量：您的优势",
+     "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E9%A2%84%E8%B0%83%E5%92%8C%E6%B5%8B%E9%87%8F",
+     "caption": "<figcaption> <h3>预调和测量：您的优势</h3> <p>了解为什么调节和测量设备能够节省时间和成本。其效果具有可扩展性，并能带来可观的节省。 </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "一对一专家咨询",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>一对一专家咨询</h3> <p>针对您的目标以及我们为此提出的方案，进行一对一的交流。ZOLLER 直接从“智能工厂”为您提供的在线咨询服务。立即预约。</p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3837",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ch/预设装置",
+ "de_path": "/voreinstellgeraet"
+}

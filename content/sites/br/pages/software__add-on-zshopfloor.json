@@ -1,0 +1,509 @@
+{
+ "path": "/software/add-on-zshopfloor",
+ "url": "/br/software/add-on-zshopfloor",
+ "title": "Add-on »z.Shopfloor«",
+ "description": "Add-on »z.Shopfloor« - Ciclo de ferramentas contínuo e eficiente diretamente na área de produção - Transparência digital",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/br/pagina-inicial"
+  },
+  {
+   "label": "Produtos /",
+   "href": "/br/produtos"
+  },
+  {
+   "label": "Gerenciamento de ferramentas /",
+   "href": "/br/produtos/gestao-de-ferramentas"
+  },
+  {
+   "label": "Software /",
+   "href": "/br/software"
+  },
+  {
+   "label": "Add-on »z.Shopfloor«",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/br/pagina-inicial"
+  },
+  {
+   "label": "Produtos /",
+   "href": "/br/produtos"
+  },
+  {
+   "label": "Gerenciamento de ferramentas /",
+   "href": "/br/produtos/gestao-de-ferramentas"
+  },
+  {
+   "label": "Software /",
+   "href": "/br/software"
+  },
+  {
+   "label": "Add-on »z.Shopfloor«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/software/add-on-zshopfloor",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/software/add-on-shopfloor",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/software/complemento-para-shopfloor",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/software/add-on-zshopfloor",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/software/add-on-zshopfloor",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/software/add-on-zshopfloor",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/software/add-on-zshopfloor",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/software/add-on-zshopfloor",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/software/add-on-zshopfloor",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/software/add-on-zshopfloor",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/software/add-on-zshopfloor",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/software/add-on-zshopfloor",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/software/add-on-shopfloor",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/software/add-on-zshopfloor",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/software/add-on-zshopfloor",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Software",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/br/software",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "»TMS Core«",
+     "href": "/br/software/tms-core",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Stock«",
+     "href": "/br/software/add-on-zstock",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.CAM Integration«",
+     "href": "/br/software/add-on-zcam-integration",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Resources«",
+     "href": "/br/software/add-on-zresources",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Shopfloor«",
+     "href": "/br/software/add-on-zshopfloor",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Connectivity«",
+     "href": "/br/software/add-on-zconnectivity",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Integration«",
+     "href": "/br/software/add-on-zintegration",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c164327",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Transparência digital </h3> <h1> Add-on »z.Shopfloor« </h1>",
+   "body": "<p>O ZOLLER TMS, com o <strong>complemento »z.Shopfloor,«</strong> traz uma estrutura clara à produção: a gestão de encomendas fornece, a qualquer momento, informações corretas sobre ferramentas e preparação de máquinas, e o serviço de gestão de encomendas liga de forma integrada o planeamento e o chão de fábrica. O processo digital de reafiamento proporciona total transparência sobre cada retrabalho, e a gestão da vida útil garante a disponibilidade planeável das ferramentas – complementada, se desejado, pela monitorização opcional flash» para a deteção precoce de condições críticas das ferramentas. Assim, cria-se um ciclo de ferramentas contínuo e eficiente diretamente no chão de fábrica.«</p> <p><a class=\"btn\" href=\"/br/empresa/contacto\">Solicitar agora</a> <a href=\"https://myzoller.com/de/de/expert/booking/\" rel=\"noopener\" target=\"_blank\">1:1 Conversa com especialistas</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/e/csm_zShopfloor_product_85dc8b81e7.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 852
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c164376",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Coerência de dados em toda a cadeia, até à máquina ",
+    "Maior eficiência graças a ciclos de ferramentas claramente definidos ",
+    "Fluxos de trabalho fluidos no processo de produção"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c164381",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "table",
+   "header": "<h2> Add-on »z.Shopfloor« </h2>",
+   "table": "<table> <tbody> <tr> <td> </td> <td class=\"text-center\"> Navegador Web </td> <td class=\"text-center\"> Ambiente de trabalho </td> </tr> <tr> <td> Gestão de tarefas (se for selecionado o navegador Web) </td> <td class=\"text-center\"> ● </td> <td class=\"text-center\"> ― </td> </tr> <tr> <td> Gestão de tarefas (se for selecionado o ambiente de trabalho) </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Serviço de gestão de tarefas </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Processo de reajuste </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Gestão da vida útil </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c164386",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p>● Base ― não disponível </p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c164425",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/c/4/csm_TMS_auftragsverwaltung_shopfloor_4a618307b4.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>Gestão de encomendas com uma visão geral de todas as etapas da sua encomenda</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/2/csm_TMS_abbuchung_9ca0325010.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>Registo das ferramentas, tendo em conta a diferença que já se encontra na máquina</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/d/csm_TMS_auftragsuebersicht_5d24039e3a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>Visão geral da encomenda com os meios de produção relevantes para a produção</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/5/b/csm_TMS_nachschaerf_66b0d40b7c.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>Processo de reafiamento para a execução das etapas de reafiamento</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164391",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Add-on »z.Shopfloor« </h3> <h2> Segurança do processo </h2>",
+   "body": "<p class=\"large-text\">Graças ao complemento, as encomendas e o estado das ferramentas podem ser visualizados a qualquer momento em tempo real.</p> <p class=\"large-text\">O complemento proporciona total transparência no processo através de relatórios sem papel.</p> <p class=\"large-text\">O complemento padroniza os processos, acelera a integração e alivia a carga de trabalho dos seus colaboradores de forma sustentável e eficiente.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/9/csm_zShopfloor_benefit_PT_48f0f4a3a3.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c164396",
+   "bg": "image",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/8/csm_zShopfloor_Feature_01_969ecbcfca.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "title": "Soluções de Ferramentaria",
+     "caption": "<figcaption> <h3>Soluções de Ferramentaria</h3> <p>Com tecnologia »idChip« da ZOLLER integrada</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/8/9/csm_zShopfloor_Feature_02_531518a6ff.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "title": "Gestão de encomendas com garantia de processo",
+     "caption": "<figcaption> <h3>Gestão de encomendas com garantia de processo</h3> <p>Controlável independentemente da localização</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164401",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Visão geral do hardware opcional da ZOLLER para o complemento »z.Shopfloor« </h2>",
+   "items": [
+    {
+     "href": "",
+     "title": "»idLabel«",
+     "text": "<p>Todos os dados relevantes das ferramentas num relance com o »idLabel«</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/6/csm_Teaser_idlabel_preview_ab0ad5993e.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "",
+     "title": "»idChip«",
+     "text": "<p>A tecnologia »idChip« permite a identificação digital das ferramentas, proporcionando maior eficiência e segurança</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/f/csm_Teaser_idchip_preview_4ae28eb174.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "",
+     "title": "»zidCode«",
+     "text": "<p>Para maior segurança e eficiência através de uma gestão simples dos dados das ferramentas</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/8/csm_Teaser_zidcode_preview_472b8e8590.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "",
+     "title": "»zidCode 4.0«",
+     "text": "<p>Com o »zidCode 4.0«, disponibilizar dados de ferramentas diretamente no processo através de digitalização</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/d/csm_Teaser_zidcode40_preview_b71747bf93.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c164405",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "large"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/9/csm_TMS_teaser_46de18cb11.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Gestão de ferramentas: as suas vantagens",
+     "href": "/br/solutions/gestao-de-ferramentas",
+     "caption": "<figcaption> <h3>Gestão de ferramentas: as suas vantagens</h3> <p>Descubra como a gestão de ferramentas da ZOLLER aumenta imediatamente a sua produtividade. Com os dados das ferramentas, os processos decorrem de forma mais rápida e segura – incluindo proteção contra colisões para as suas máquinas. </p> <br/> Saber mais </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now. </p> <br/> Saber mais </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164343",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/br/software/add-on-zshopfloor",
+ "de_path": "/produkte/toolmanagement/software/add-on-zshopfloor"
+}

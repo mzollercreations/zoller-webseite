@@ -1,0 +1,464 @@
+{
+ "path": "/przedsiebiorstwa/kariera/najczesciej-zadawane-pytania",
+ "url": "/pl/przedsiebiorstwa/kariera/najczesciej-zadawane-pytania",
+ "title": "Kariera – Najczęściej zadawane pytania",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pl/strona-glowna"
+  },
+  {
+   "label": "Przedsiębiorstwa /",
+   "href": "/pl/przedsiebiorstwa"
+  },
+  {
+   "label": "Kariera /",
+   "href": "/pl/przedsiebiorstwa/kariera"
+  },
+  {
+   "label": "Najczęściej zadawane pytania",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pl/strona-glowna"
+  },
+  {
+   "label": "Przedsiębiorstwa /",
+   "href": "/pl/przedsiebiorstwa"
+  },
+  {
+   "label": "Kariera /",
+   "href": "/pl/przedsiebiorstwa/kariera"
+  },
+  {
+   "label": "Najczęściej zadawane pytania",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/karriere/faq",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/careers/faq",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/karriaer/vanliga-fraagor",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/karriere/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/carriere/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EC%B1%84%EC%9A%A9-%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Kariera",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/pl/przedsiebiorstwa/kariera",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Oferty pracy",
+     "href": "/pl/przedsiebiorstwa/kariera/oferty-pracy",
+     "current": false
+    },
+    {
+     "label": "Najczęściej zadawane pytania",
+     "href": "/pl/przedsiebiorstwa/kariera/najczesciej-zadawane-pytania",
+     "current": false
+    },
+    {
+     "label": "Podanie o pracę",
+     "href": "/pl/przedsiebiorstwa/kariera/podanie-o-prace",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c4065",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Najczęściej zadawane pytania </h1>",
+      "body": "<p class=\"large-text\">Najczęściej zadawane pytania</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c4063",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Jakie dokumenty powinny znaleźć się w kompletnej aplikacji?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Prosimy o przesłanie nam dokumentów w formie cyfrowej, najlepiej korzystając z formularza aplikacyjnego dołączonego do danej oferty pracy.</p> <p>Kompletna dokumentacja aplikacyjna powinna zawierać co najmniej następujące dokumenty:</p><ul><li>List motywacyjny</li><li>Pełny życiorys</li><li>Certyfikaty i świadectwa</li></ul>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c4060",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Skąd mam wiedzieć, czy moje zgłoszenie dotarło pomyślnie?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Prosimy o skorzystanie z formularza aplikacyjnego zamieszczonego przy ogłoszeniu o pracy. Jeśli wysłanie aplikacji przebiegło pomyślnie, otrzymają Państwo wiadomość e-mail z potwierdzeniem na podany przez Państwa adres e-mail.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c4056",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Jak długo będą przechowywane moje dokumenty aplikacyjne?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Po zakończeniu procesu rekrutacyjnego Państwa dane pozostaną zapisane w naszym systemie przez maksymalnie 2 miesiące, a następnie zostaną usunięte.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c4054",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Jak wygląda proces rekrutacyjny w firmie ZOLLER?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Po otrzymaniu Państwa zgłoszenia w naszym systemie otrzymają Państwo automatyczne potwierdzenie odbioru pocztą elektroniczną. Z doświadczenia wiemy, że rozpatrzenie zgłoszenia trwa od dwóch do trzech tygodni. Poinformujemy Państwa, czy zaprosimy Państwa na rozmowę kwalifikacyjną, czy też stanowisko zostanie obsadzone inną osobą.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c4052",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Czy mogę złożyć spontaniczną aplikację do firmy ZOLLER?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Oczywiście mogą Państwo również złożyć aplikację z własnej inicjatywy.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c4068",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Czy mogę zgłosić się do firmy ZOLLER w celu napisania pracy dyplomowej?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Będzie nam miło, jeśli zechcą Państwo napisać u nas pracę licencjacką lub magisterską o charakterze praktycznym. Propozycje tematów dotyczących konkretnych obszarów działalności firmy mogą Państwo po prostu przesłać do nas <a class=\"link-arrow\" href=\"mailto:bewerbung@zoller.info\" title=\"An die Personalabteilung\">pocztą elektroniczną</a>. Najlepiej byłoby, gdyby Państwo połączyli swoją pracę dyplomową ze stażem w firmie ZOLLER.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c4072",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Czy firma ZOLLER oferuje również studia dualne?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Tak, firma ZOLLER oferuje następujące kierunki studiów w ramach programu studiów dualnych na DHBW w Stuttgarcie:</p><ul><li>Nauka o danych i sztuczna inteligencja</li><li>Informatyka</li><li>Informatyka – technologie informacyjne</li><li>Inżynieria mechaniczna – projektowanie i rozwój</li><li>Inżynieria gospodarcza – ogólna inżynieria gospodarcza</li></ul><p>Studia dualne rozpoczynają się w semestrze zimowym każdego roku. Więcej informacji można znaleźć na stronie internetowej firmy ZOLLER w sekcji „Studia dualne” lub na stronie internetowej uczelni <a class=\"link-arrow\" href=\"https://www.dhbw-stuttgart.de/\" rel=\"noopener\" target=\"_blank\">DHWB w Stuttgarcie</a>.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c4074",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c4062",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4064",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/0/csm_teaser_profile_bf2693bd59.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "O firmie ZOLLER",
+     "href": "/pl/przedsiebiorstwa/profil",
+     "caption": "<figcaption> <h3>O firmie ZOLLER</h3> <p>Z nazwiskiem ZOLLER występuje ściśle połączenie z zespołem liczącym ponad 800 osób, wiele innowacji oraz przywiązanie do lokalnych korzeni charakterystyczne dla firmy rodzinnej.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/4/csm_teaser_media_f7299d9c84.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Media",
+     "href": "/pl/przedsiebiorstwa/media",
+     "caption": "<figcaption> <h3>Media</h3> <p>Tutaj znajdą Państwo komunikaty prasowe, zapowiedzi produktów, informacje o udziału w targach, artykuły prasowe z czasopism branżowych oraz<br/> archiwum wiadomości.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/b/csm_teaser_reports_90bbbeda0a.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Raporty i artykuły",
+     "href": "/pl/przedsiebiorstwa/raporty-i-artykuly",
+     "caption": "<figcaption> <h3>Raporty i artykuły</h3> <p>Co się dzieje w firmie ZOLLER? Co mówią nasi klienci o pracy z rozwiązaniami ZOLLER? Tutaj znajdziesz najnowsze informacje.</p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c26310",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/pl/przedsiebiorstwa/kariera/najczesciej-zadawane-pytania",
+ "de_path": "/unternehmen/karriere/faq"
+}

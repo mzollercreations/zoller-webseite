@@ -1,0 +1,536 @@
+{
+ "path": "/a-beallitasi-ido-optimalizalasa",
+ "url": "/hu/a-beallitasi-ido-optimalizalasa",
+ "title": "A beállítási idő optimalizálása",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "A beállítási idő optimalizálása",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "A beállítási idő optimalizálása",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/ruestzeitoptimierung",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/setup-time-optimization",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/optimizacion-del-tiempo-de-preparacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/optimisation-du-temps-de-preparation",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/otimizacao-do-tempo-de-preparacao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/ottimizzazione-dei-tempi-di-attrezzaggio",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/optimering-av-foerberedelsetiden",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/ruestzeitoptimierung",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/setup-time-optimization",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/optimisation-des-temps-de-preparation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E6%BA%96%E5%82%99%E6%99%82%E9%96%93%E3%81%AE%E6%9C%80%E9%81%A9%E5%8C%96",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A4%80%EB%B9%84-%EC%8B%9C%EA%B0%84-%EC%B5%9C%EC%A0%81%ED%99%94",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/setup-time-optimization",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/optimizacion-del-tiempo-de-preparacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/otimizacao-do-tempo-de-preparacao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/2/3/csm_ruesten_header_8622b0d406.webp",
+     "video": null,
+     "title": "Miért érdemes optimalizálni az előkészítési időt?",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8076",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">Manapság szinte egyetlen gép vagy berendezés sem gyárt csak egyféle terméket – általában az igényeknek megfelelően átállítják őket különböző termékek gyártására. Ez átállási időket eredményez, amelyek alatt a gép általában nem termel semmit.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8048",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Mit jelent az előkészítési idő? </h2>",
+   "body": "<p>Az átállási idő az az időtartam, amely alatt a gépet vagy berendezést egy termék gyártásáról egy másikra állítják át. Ha például darabárukat gyártanak, az átállási idő definíciója: az idő a régi tétel utolsó darabjától az új tétel első darabjáig.</p> <p>Az átállási idő tehát nem jelent „pazarlást” a szó szoros értelmében, de mivel legalább részben a gép leállási idejét jelenti, a hosszabb átállási idők természetesen csökkentik a gyártóberendezések termelékenységét és hatékonyságát.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/4/csm_tms_connected_3fe459a22a.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 900
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8049",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Hogyan optimalizálhatom az átállási időt? </h2>",
+      "body": "<p>A beállítási idő optimalizálása elsősorban azt jelenti, hogy a beállítási időt a lehető legrövidebbre kell csökkenteni! E cél eléréséhez különböző módszerek állnak rendelkezésre.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c8051",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "A felkészülési folyamatok elemzése",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Minden, az átállási idő csökkentését célzó fejlesztési folyamatot minden esetben az átállási műveletek elemzése előz meg: Mely lépések szükségesek? Melyeket hajtanak végre jelenleg, és mennyi időt kell rájuk fordítani? Milyen sorrendben hajtják végre a lépéseket, és lehet-e ezt megváltoztatni? Mely lépések valóban szükségesek, és melyeket lehet optimalizálni?</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8054",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "A tételek méretének optimalizálása",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Egy alapos elemzéshez az a kérdés is hozzátartozik: lehetséges-e, hogy a berendezéseket összességében ritkábban állítsuk át, vagyis csökkentsük a termékváltások számát? A ritkább átállási műveletek természetesen kevésbé időigényesek, és így pénzt takarítanak meg. Ugyanakkor az így megtakarított költségeket egyértelműen össze kell vetni azzal a kívánsággal, hogy a raktárkészletet a lehető legalacsonyabb szinten tartsák, vagyis ne kerüljön sor áruk túltermelésére. És természetesen mindeközben a berendezések kihasználtságának a lehető legmagasabb szinten kell maradnia.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8056",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Külső beállítás",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A beállítási idő keretében különbséget teszünk a külső beállítás (olyan tevékenységek, amelyek a gyártósor működése közben is elvégezhetők) és a belső beállítás (amelyhez a gyártósort le kell állítani) között. Természetesen az Ön érdeke, hogy a termelékenység csökkenését okozó belső beállítást a lehető legrövidebbre szorítsa.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8058",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Digitalizálás és automatizálás",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A modern gépek esetében a beállítási folyamatok alapos digitalizálása és automatizálása döntő fontosságú intézkedés. A szerszám-előbeállító készülékek például előre meghatározhatják a CNC-szerszámgépekhez szükséges szerszámadatokat, vagyis megmérik a szerszámokat, és közvetlenül elvégzik a megfelelő beállításokat. Így a belső beállítási idő drámaian csökken, ráadásul az elektronikus adatátvitel megakadályozza az átvitel során fellépő hibákat.</p> <p>Mivel a külső mérés a beállító és mérőeszközön történhet, miközben a gép még egy másik megbízást dolgoz fel, további időt takaríthatunk meg: amint a gép készen áll, a szerszámok azonnal bevethetők. A gép leállását nem kell feleslegesen meghosszabbítani a lézeres mérés miatt.</p> <p><a class=\"btn\" href=\"/hu/termekek/beallitas-es-meres\"><strong>A szerszámok mérése és a megfelelő beállítások azonnali elvégzése</strong></a></p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8060",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Képzés",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Bármilyen beállítási feladatnál – legyen az kézi vagy elektronikus, külső vagy belső – semmi sem ér fel a jól képzett beállító munkatársakkal. Ha a munkatársak megfelelő képzésben részesülnek a beállítási műhelyekben és a gyakorló gépeken, kevesebb hiba történik, és a problémákat már korán felismerik, még mielőtt termelékenységi veszteségekhez vezetnének.</p> <p><a class=\"btn\" href=\"/hu/vallalat/kapcsolat/kepzesek-es-treningek\">A ZOLLER képzései</a></p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8062",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c8052",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8050",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Milyen előnyökkel jár a beállítási idő optimalizálása? </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c8064",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Nagyobb hatékonyság és termelékenység",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Minél rövidebbek az átállási idők, és minél kisebb arányt képviselnek a munkavállalók munkaidejéből, annál több időt tudnak a gépek arra fordítani, amire valójában rendeltettek: a gyártásra. Ezzel jelentősen nő a folyamatok összteljesítménye.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8075",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "költségcsökkentés",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A rövidebb átállási idők csökkentik a költségeit is – nem csupán a nagyobb hatékonyságnak köszönhetően, hanem az összes egymással összefüggő folyamat optimalizálásának köszönhetően is.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8073",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "szabványosítás",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Az átállási idők és az azokhoz szükséges munkalépések alapos elemzése lehetővé teszi a folyamatok szabványosítását az egyes berendezéseken túlmutatóan. Ezeket pedig egyértelműbb irányelvekké és képzési anyagokká alakíthatjuk át a munkatársak számára. Ez további tájékozódási pontot és biztonságérzetet nyújt a munkatársaknak – és megkönnyíti az átállást azoknál a berendezéseknél is, amelyekkel a munkatársak még nem annyira ismerik.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8071",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c8065",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8063",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_zoller_system_teaser_a6e5d69871.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Kezdje a megoldással – lépjen be a rendszerbe.",
+     "href": "/hu/a-rendszer",
+     "caption": "<figcaption> <h3>Kezdje a megoldással – lépjen be a rendszerbe.</h3> <p>Ügyfeleink élvezik azoknak a holisztikus megoldásoknak az előnyeit, amelyeket már évtizedek óta fejlesztünk. Az eredmény: kiváló hatékonyság. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 szakértői beszélgetés",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 szakértői beszélgetés</h3> <p>Személyre szabott megbeszélés az Ön céljairól és az azokhoz kapcsolódó ötleteinkről. A ZOLLER online tanácsadása közvetlenül a Smart Factory-ból. Foglaljon időpontot most! </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/hu/a-beallitasi-ido-optimalizalasa",
+ "de_path": "/ruestzeitoptimierung"
+}

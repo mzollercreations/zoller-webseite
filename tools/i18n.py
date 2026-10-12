@@ -323,6 +323,11 @@ T = {
         "Academy": "Academy",
         "Events": "Events",
         "Solutions": "Solutions",
+        "Lateinamerika": "Latin America",
+        "Bereich: Produkte": "Products",
+        "Jahre": "Years",
+        "Automationslösungen": "Automation solutions",
+        "Service- und Vertriebszentrum": "Service and sales center",
     },
 
     # ------------------------------------------------------------ Französisch (Kanada)
@@ -631,6 +636,11 @@ T = {
         "Academy": "Académie",
         "Events": "Événements",
         "Solutions": "Solutions",
+        "Lateinamerika": "Amérique latine",
+        "Bereich: Produkte": "Produits",
+        "Jahre": "Années",
+        "Automationslösungen": "Solutions d'automatisation",
+        "Service- und Vertriebszentrum": "Centre de service et de vente",
     },
 
     # ------------------------------------------------------------ Spanisch (Mexiko)
@@ -939,8 +949,26 @@ T = {
         "Academy": "Academia",
         "Events": "Eventos",
         "Solutions": "Soluciones",
+        "Lateinamerika": "América Latina",
+        "Bereich: Produkte": "Productos",
+        "Jahre": "Años",
+        "Automationslösungen": "Soluciones de automatización",
+        "Service- und Vertriebszentrum": "Centro de servicio y ventas",
     },
 }
+
+# Weitere Sprachen (seit 2026-10-12): tools/i18n_texts/<sprache>.json (it, pt, sv, pl, sl, cs, hu, sk, zh, ja, ko …),
+# Landesvarianten mit eigenen Abweichungen unter dem Sprachcode (pt-BR.json, en-GB.json) – build.py sucht zuerst dort.
+# Ländernamen je Sprache: <sprache>.countries.json
+import glob as _glob  # noqa: E402
+import json as _json  # noqa: E402
+import os as _os  # noqa: E402
+_TEXTS = _os.path.join(_os.path.dirname(_os.path.abspath(__file__)), "i18n_texts")
+for _f in sorted(_glob.glob(_os.path.join(_TEXTS, "*.json"))):
+    _name = _os.path.basename(_f)[:-5]
+    if _name.endswith(".countries"):
+        continue
+    T[_name] = _json.load(open(_f, encoding="utf-8"))
 
 # Texte, die die Skripte im Browser brauchen (main.js, globe.js) – werden pro Seite eingebettet
 JS_KEYS = (
@@ -948,7 +976,7 @@ JS_KEYS = (
     "Produkte", "Solutions", "Unternehmen", "Ihr Erfolg", "Events", "Academy", "Start", "Standort", "Standorte",
     "Alle Länder", "Bitte alle Felder ausfüllen.", "YouTube-Video", "Stammhaus", "Niederlassung", "Vertretung",
     "Website", "Route planen", "Schließen", "Telefon", "Fax", "E-Mail", "Zuständig für", "In der Nähe",
-    "Kein Standort gefunden", "Bitte hängen Sie Ihre Dateien an diese E-Mail an:", "Softwarepaket", "Produkt",
+    "Kein Standort gefunden", "Bitte hängen Sie Ihre Dateien an diese E-Mail an:", "Softwarepaket", "Produkt", "Bereich: Produkte",
     "ZOLLER  ·  PRODUKTUMGEBUNG 3D  ·  ",
     "Ihr E-Mail-Programm öffnet sich mit der fertigen Nachricht – bitte dort absenden.",
 )
@@ -966,7 +994,7 @@ COUNTRIES = {
         "Pakistan": "Pakistan", "Philippines": "Philippines", "Poland": "Pologne", "Portugal": "Portugal", "Romania": "Roumanie",
         "Serbia": "Serbie", "Slovakia": "Slovaquie", "Slovenia": "Slovénie", "South Africa": "Afrique du Sud",
         "South Korea": "Corée du Sud", "Spain": "Espagne", "Sweden": "Suède", "Switzerland": "Suisse", "Taiwan": "Taïwan",
-        "Thailand": "Thaïlande", "Ukraine": "Ukraine", "United Kingdom": "Royaume-Uni", "United States": "États-Unis",
+        "Thailand": "Thaïlande", "Turkey": "Turquie", "Ukraine": "Ukraine", "United Kingdom": "Royaume-Uni", "United States": "États-Unis",
         "Venezuela": "Venezuela", "Vietnam": "Viêt Nam",
     },
     "es": {
@@ -980,26 +1008,92 @@ COUNTRIES = {
         "Pakistan": "Pakistán", "Philippines": "Filipinas", "Poland": "Polonia", "Portugal": "Portugal", "Romania": "Rumania",
         "Serbia": "Serbia", "Slovakia": "Eslovaquia", "Slovenia": "Eslovenia", "South Africa": "Sudáfrica",
         "South Korea": "Corea del Sur", "Spain": "España", "Sweden": "Suecia", "Switzerland": "Suiza", "Taiwan": "Taiwán",
-        "Thailand": "Tailandia", "Ukraine": "Ucrania", "United Kingdom": "Reino Unido", "United States": "Estados Unidos",
+        "Thailand": "Tailandia", "Turkey": "Turquía", "Ukraine": "Ucrania", "United Kingdom": "Reino Unido", "United States": "Estados Unidos",
         "Venezuela": "Venezuela", "Vietnam": "Vietnam",
     },
 }
+
+for _f in sorted(_glob.glob(_os.path.join(_TEXTS, "*.countries.json"))):
+    COUNTRIES[_os.path.basename(_f)[:-15]] = _json.load(open(_f, encoding="utf-8"))
 
 MONTHS = {
     "en": ("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"),
     "fr": ("janv.", "févr.", "mars", "avr.", "mai", "juin", "juil.", "août", "sept.", "oct.", "nov.", "déc."),
     "es": ("ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"),
+    "it": ("gen", "feb", "mar", "apr", "mag", "giu", "lug", "ago", "set", "ott", "nov", "dic"),
+    "pt": ("jan.", "fev.", "mar.", "abr.", "mai.", "jun.", "jul.", "ago.", "set.", "out.", "nov.", "dez."),
+    "sv": ("jan.", "feb.", "mars", "apr.", "maj", "juni", "juli", "aug.", "sep.", "okt.", "nov.", "dec."),
+    "pl": ("sty", "lut", "mar", "kwi", "maj", "cze", "lip", "sie", "wrz", "paź", "lis", "gru"),
+    "sl": ("jan.", "feb.", "mar.", "apr.", "maj", "jun.", "jul.", "avg.", "sep.", "okt.", "nov.", "dec."),
+    "cs": ("led", "úno", "bře", "dub", "kvě", "čvn", "čvc", "srp", "zář", "říj", "lis", "pro"),
+    "hu": ("jan.", "febr.", "márc.", "ápr.", "máj.", "jún.", "júl.", "aug.", "szept.", "okt.", "nov.", "dec."),
+    "sk": ("jan", "feb", "mar", "apr", "máj", "jún", "júl", "aug", "sep", "okt", "nov", "dec"),
+    "zh": tuple(f"{m}月" for m in range(1, 13)),
+    "ja": tuple(f"{m}月" for m in range(1, 13)),
+    "ko": tuple(f"{m}월" for m in range(1, 13)),
+    "ru": ("янв.", "февр.", "мар.", "апр.", "мая", "июн.", "июл.", "авг.", "сент.", "окт.", "нояб.", "дек."),
+    "tr": ("Oca", "Şub", "Mar", "Nis", "May", "Haz", "Tem", "Ağu", "Eyl", "Eki", "Kas", "Ara"),
 }
+# Englisch mit Tag vor Monat (13 Oct 2026): International, Großbritannien, Indien
+DAY_FIRST_EN = ("en", "en-GB", "en-IN")
+# Datum nur in Ziffern (Tag. Monat. Jahr) – in diesen Sprachen in Fließtext und Karten üblich
+NUMERIC = {"pl": "{d}.{m:02d}.{y}", "ru": "{d:02d}.{m:02d}.{y}", "tr": "{d:02d}.{m:02d}.{y}", "cs": "{d}. {m}. {y}", "sk": "{d}. {m}. {y}", "sl": "{d}. {m}. {y}", "hu": "{y}. {m:02d}. {d:02d}."}
+CJK_DATE = {"zh": "{y}年{m}月{d}日", "ja": "{y}年{m}月{d}日", "ko": "{y}년 {m}월 {d}일"}
 
 
-def fmt_date(lang, y, m, d):
-    """Datum für Kartenansichten: de 09.10.2026 · en Oct 9, 2026 · fr 9 oct. 2026 · es 9 oct 2026."""
+def fmt_date(lang, y, m, d, code=""):
+    """Datum für Kartenansichten: de 09.10.2026 · en Oct 9, 2026 (en-GB 9 Oct 2026) · fr 9 oct. 2026 · es 9 oct 2026 ·
+    pl 9.10.2026 · cs 9. 10. 2026 · hu 2026. 10. 09. · zh 2026年10月9日 · ko 2026년 10월 9일."""
+    y, m, d = int(y), int(m), int(d)
     if lang == "de":
-        return f"{d}.{m}.{y}"
-    mon = MONTHS[lang][int(m) - 1]
+        return f"{d:02d}.{m:02d}.{y}"
+    if lang in CJK_DATE:
+        return CJK_DATE[lang].format(y=y, m=m, d=d)
+    if lang in NUMERIC:
+        return NUMERIC[lang].format(y=y, m=m, d=d)
+    mon = MONTHS[lang][m - 1]
+    if lang == "en" and code not in DAY_FIRST_EN:
+        return f"{mon} {d}, {y}"
+    return f"{d} {mon} {y}"
+
+
+def fmt_range(lang, a, b, code=""):
+    """Zeitraum zweier date-Objekte: 13.–16.10.2026 · Oct 13–16, 2026 · 13–16 oct. 2026 · 2026年10月13日–16日."""
+    if a == b:
+        return fmt_date(lang, a.year, a.month, a.day, code)
+    same_m = (a.year, a.month) == (b.year, b.month)
+    if lang == "de":
+        return f"{a:%d.}–{b:%d.%m.%Y}" if same_m else f"{a:%d.%m.}–{b:%d.%m.%Y}"
+    if lang in CJK_DATE:
+        start = fmt_date(lang, a.year, a.month, a.day)
+        if same_m:
+            return start + "–" + (f"{b.day}日" if lang != "ko" else f"{b.day}일")
+        return start + "–" + (f"{b.month}月{b.day}日" if lang != "ko" else f"{b.month}월 {b.day}일")
+    if lang in NUMERIC:
+        if lang == "hu":
+            return f"{a.year}. {a.month:02d}. {a.day:02d}–{b.day:02d}." if same_m else f"{a.year}. {a.month:02d}. {a.day:02d}. – {b.month:02d}. {b.day:02d}."
+        if lang in ("pl", "ru", "tr"):
+            return f"{a.day}–{b.day}.{b.month:02d}.{b.year}" if same_m else f"{a.day}.{a.month:02d}–{b.day}.{b.month:02d}.{b.year}"
+        return f"{a.day}.–{b.day}. {b.month}. {b.year}" if same_m else f"{a.day}. {a.month}. – {b.day}. {b.month}. {b.year}"
+    mon = lambda x: MONTHS[lang][x.month - 1]
+    if lang == "en" and code not in DAY_FIRST_EN:
+        return f"{mon(a)} {a.day}–{b.day}, {b.year}" if same_m else f"{mon(a)} {a.day} – {mon(b)} {b.day}, {b.year}"
+    return f"{a.day}–{b.day} {mon(b)} {b.year}" if same_m else f"{a.day} {mon(a)} – {b.day} {mon(b)} {b.year}"
+
+
+def fmt_long(lang, dt, code=""):
+    """Wochentag und Datum ausgeschrieben: Montag, 12. Oktober 2026 · Monday, October 12, 2026 · lundi 12 octobre 2026 …"""
+    wd = WEEKDAYS[lang][dt.weekday()]
+    mon = MONTHS_GEN.get(lang, MONTHS_LONG[lang])[dt.month - 1]
+    d, y = dt.day, dt.year
     if lang == "en":
-        return f"{mon} {int(d)}, {y}"
-    return f"{int(d)} {mon} {y}"
+        return f"{wd} {d} {mon} {y}" if code in DAY_FIRST_EN else f"{wd}, {mon} {d}, {y}"
+    return {"de": f"{wd}, {d}. {mon} {y}", "fr": f"{wd} {d} {mon} {y}", "es": f"{wd}, {d} de {mon} de {y}",
+            "it": f"{wd} {d} {mon} {y}", "pt": f"{wd}, {d} de {mon} de {y}", "sv": f"{wd} {d} {mon} {y}",
+            "pl": f"{wd}, {d} {mon} {y}", "cs": f"{wd} {d}. {mon} {y}", "sk": f"{wd} {d}. {mon} {y}",
+            "sl": f"{wd}, {d}. {mon} {y}", "hu": f"{y}. {mon} {d}., {wd}",
+            "ru": f"{wd}, {d} {mon} {y} г.", "tr": f"{d} {mon} {y} {wd}",
+            "zh": f"{y}年{dt.month}月{d}日 {wd}", "ja": f"{y}年{dt.month}月{d}日（{wd}）", "ko": f"{y}년 {dt.month}월 {d}일 {wd}"}[lang]
 
 
 # Wochentage und Monate für die Eventliste
@@ -1008,11 +1102,68 @@ WEEKDAYS = {
     "en": ("Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"),
     "fr": ("lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"),
     "es": ("lunes", "martes", "miércoles", "jueves", "viernes", "sábado", "domingo"),
+    "it": ("lunedì", "martedì", "mercoledì", "giovedì", "venerdì", "sabato", "domenica"),
+    "pt": ("segunda-feira", "terça-feira", "quarta-feira", "quinta-feira", "sexta-feira", "sábado", "domingo"),
+    "sv": ("måndag", "tisdag", "onsdag", "torsdag", "fredag", "lördag", "söndag"),
+    "pl": ("poniedziałek", "wtorek", "środa", "czwartek", "piątek", "sobota", "niedziela"),
+    "sl": ("ponedeljek", "torek", "sreda", "četrtek", "petek", "sobota", "nedelja"),
+    "cs": ("pondělí", "úterý", "středa", "čtvrtek", "pátek", "sobota", "neděle"),
+    "hu": ("hétfő", "kedd", "szerda", "csütörtök", "péntek", "szombat", "vasárnap"),
+    "sk": ("pondelok", "utorok", "streda", "štvrtok", "piatok", "sobota", "nedeľa"),
+    "zh": ("星期一", "星期二", "星期三", "星期四", "星期五", "星期六", "星期日"),
+    "ja": ("月曜日", "火曜日", "水曜日", "木曜日", "金曜日", "土曜日", "日曜日"),
+    "ko": ("월요일", "화요일", "수요일", "목요일", "금요일", "토요일", "일요일"),
+    "ru": ("понедельник", "вторник", "среда", "четверг", "пятница", "суббота", "воскресенье"),
+    "tr": ("Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"),
+}
+# Kurzform für die Tages-Reiter im Terminkalender (sonst die ersten zwei Buchstaben)
+WEEKDAYS_SHORT = {
+    "zh": ("周一", "周二", "周三", "周四", "周五", "周六", "周日"),
+    "ja": ("月", "火", "水", "木", "金", "土", "日"),
+    "ko": ("월", "화", "수", "목", "금", "토", "일"),
+    "hu": ("H", "K", "Sze", "Cs", "P", "Szo", "V"),
+    "pt": ("Seg", "Ter", "Qua", "Qui", "Sex", "Sáb", "Dom"),
+    "ru": ("Пн", "Вт", "Ср", "Чт", "Пт", "Сб", "Вс"),
+    "tr": ("Pzt", "Sal", "Çar", "Per", "Cum", "Cmt", "Paz"),
 }
 MONTHS_LONG = {
     "de": ("Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"),
     "en": ("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"),
     "fr": ("janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"),
     "es": ("enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"),
+    "it": ("gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio", "agosto", "settembre", "ottobre", "novembre", "dicembre"),
+    "pt": ("janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto", "setembro", "outubro", "novembro", "dezembro"),
+    "sv": ("januari", "februari", "mars", "april", "maj", "juni", "juli", "augusti", "september", "oktober", "november", "december"),
+    "pl": ("styczeń", "luty", "marzec", "kwiecień", "maj", "czerwiec", "lipiec", "sierpień", "wrzesień", "październik", "listopad", "grudzień"),
+    "sl": ("januar", "februar", "marec", "april", "maj", "junij", "julij", "avgust", "september", "oktober", "november", "december"),
+    "cs": ("leden", "únor", "březen", "duben", "květen", "červen", "červenec", "srpen", "září", "říjen", "listopad", "prosinec"),
+    "hu": ("január", "február", "március", "április", "május", "június", "július", "augusztus", "szeptember", "október", "november", "december"),
+    "sk": ("január", "február", "marec", "apríl", "máj", "jún", "júl", "august", "september", "október", "november", "december"),
+    "zh": tuple(f"{m}月" for m in range(1, 13)),
+    "ja": tuple(f"{m}月" for m in range(1, 13)),
+    "ko": tuple(f"{m}월" for m in range(1, 13)),
+    "ru": ("январь", "февраль", "март", "апрель", "май", "июнь", "июль", "август", "сентябрь", "октябрь", "ноябрь", "декабрь"),
+    "tr": ("Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz", "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"),
 }
+# Monatsnamen im Genitiv (Datum im Satz: 12 października 2026, 12. října 2026, 12. októbra 2026)
+MONTHS_GEN = {
+    "pl": ("stycznia", "lutego", "marca", "kwietnia", "maja", "czerwca", "lipca", "sierpnia", "września", "października", "listopada", "grudnia"),
+    "cs": ("ledna", "února", "března", "dubna", "května", "června", "července", "srpna", "září", "října", "listopadu", "prosince"),
+    "sk": ("januára", "februára", "marca", "apríla", "mája", "júna", "júla", "augusta", "septembra", "októbra", "novembra", "decembra"),
+    "ru": ("января", "февраля", "марта", "апреля", "мая", "июня", "июля", "августа", "сентября", "октября", "ноября", "декабря"),
+}
+
+
+def month_year(lang, y, m):
+    """Überschrift einer Monatsgruppe: Oktober 2026 · octubre de 2026 · 2026年10月 · 2026. október."""
+    if lang in CJK_DATE:
+        return f"{y}年{m}月" if lang != "ko" else f"{y}년 {m}월"
+    if lang == "hu":
+        return f"{y}. {MONTHS_LONG[lang][m - 1]}"
+    name = MONTHS_LONG[lang][m - 1]
+    if lang == "ru":
+        return f"{name.capitalize()} {y}"
+    if lang in ("es", "pt"):
+        return f"{name} de {y}"
+    return f"{name} {y}"
 MONTHS_SHORT_DE = ("Jan", "Feb", "März", "Apr", "Mai", "Juni", "Juli", "Aug", "Sep", "Okt", "Nov", "Dez")

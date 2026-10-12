@@ -1,0 +1,534 @@
+{
+ "path": "/unternehmen/kontakt/ansprechpartner",
+ "url": "/at/unternehmen/kontakt/ansprechpartner",
+ "title": "Ansprechpartner",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/at/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/at/unternehmen"
+  },
+  {
+   "label": "Kontakt /",
+   "href": "/at/unternehmen/kontakt"
+  },
+  {
+   "label": "Ansprechpartner",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/at/startseite"
+  },
+  {
+   "label": "Unternehmen /",
+   "href": "/at/unternehmen"
+  },
+  {
+   "label": "Kontakt /",
+   "href": "/at/unternehmen/kontakt"
+  },
+  {
+   "label": "Ansprechpartner",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/kontakt/ansprechpartner",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/contact/contact-person",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/contacto/persona-de-contacto",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/contact/interlocuteur",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/contacto/pessoa-de-contacto",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/contatto/persona-di-contatto",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/kontakt/kontaktperson",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/kontakt/ansprechpartner",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/contact-us/contact-person",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/contact/interlocuteur",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E6%8B%85%E5%BD%93%E8%80%85",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98/%EB%8B%B4%EB%8B%B9%EC%9E%90",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/contact-us/your-contact-person-in-india",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/contacto/persona-de-contacto",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/contacto/entre-em-contato",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/c/f/csm_csm_customer-meeting-ZOLLER-03_RGB_38e548be22_360e80a1e0.webp",
+     "video": null,
+     "title": "Kundennah",
+     "kicker": "",
+     "text": "<p>Sie sind auf der Suche nach individueller Beratung?</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c0",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-33-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Standorte in Österreich </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c0",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>ZOLLER Austria GmbH</strong><br/>Einstell- und Messgeräte<br/>Haydnstraße 2<br/>A-4910 Ried im Innkreis<br/> +43 7752 87725-0</p> <p>Service-Hotline +43 7752 87725-37<br/>Montag-Freitag 8:00-12:00 Uhr &amp; 13:00-16:00 Uhr</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c0",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-33-33-33",
+   "id": "c0",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Geschäftsführung </h2>",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/8/1/csm_csm_Huemer-Wolfgang_2017_ZOLLER-Austria_01_29dc8de867_dd26e79737.webp",
+     "alt": "",
+     "w": 200,
+     "h": 200,
+     "title": "Ing. Wolfgang Huemer",
+     "caption": "<figcaption> <h3>Ing. Wolfgang Huemer</h3> <p>Geschäftsführung<br/> +43 7752 87725 0<br/> huemer@zoller-a.at</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 5,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c0",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Office </h2>",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/b/csm_csm_GerhardHei%C3%9F_655cf11bed_c22a1e5fa9.webp",
+     "alt": "",
+     "w": 200,
+     "h": 207,
+     "title": "Gerhard Heiß",
+     "caption": "<figcaption> <h3>Gerhard Heiß</h3> <p>Betriebsleitung / Head of Operations<br/> +43 7752 87725 0<br/> office@zoller-a.at</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/5/0/csm_csm_Huemer_Gerda_Neu_c7666ddce2_6355653339.webp",
+     "alt": "",
+     "w": 200,
+     "h": 200,
+     "title": "Gerda Huemer",
+     "caption": "<figcaption> <h3>Gerda Huemer</h3> <p>+43 7752 87725 0<br/> office@zoller-a.at</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/5/6/csm_csm_Deiser_Sabine_1e632ca1b2_d403c4acd9.webp",
+     "alt": "",
+     "w": 200,
+     "h": 200,
+     "title": "Sabine Deiser",
+     "caption": "<figcaption> <h3>Sabine Deiser</h3> <p>+43 7752 87725 0<br/> office@zoller-a.at</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/3/csm_csm_M%C3%BChlbacher_Christina_0fb271025e_3030d9165c.webp",
+     "alt": "",
+     "w": 200,
+     "h": 200,
+     "title": "Christina Mühlbacher",
+     "caption": "<figcaption> <h3>Christina Mühlbacher</h3> <p>+43 7752 87725 0<br/> office@zoller-a.at</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/8/7/csm_csm_Pur_Sandra_9018df62a5_b399fe041f.webp",
+     "alt": "",
+     "w": 200,
+     "h": 200,
+     "title": "Sandra Pur",
+     "caption": "<figcaption> <h3>Sandra Pur</h3> <p>+43 7752 87725 0<br/> office@zoller-a.at</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/3/csm_csm_Erlach_Claudia_39f45b6b08_7147276152.webp",
+     "alt": "",
+     "w": 200,
+     "h": 200,
+     "title": "Claudia Erlach",
+     "caption": "<figcaption> <h3>Claudia Erlach</h3> <p>+43 7752 87725 0<br/> office@zoller-a.at</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 5,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c0",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Vertrieb </h2>",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/9/csm_csm_Rackaseder_002_fd62d26c2f_7c48222000.webp",
+     "alt": "",
+     "w": 200,
+     "h": 200,
+     "title": "Gerald Rackaseder",
+     "caption": "<figcaption> <h3>Gerald Rackaseder</h3> <p>Leitung Vertrieb<br/> +43 7752 87725 0<br/> office@zoller-a.at</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 5,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c0",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Service </h2>",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/c/1/csm_csm_Gahbauer_Manuel_577ea2297d_56d1291bc7.webp",
+     "alt": "",
+     "w": 200,
+     "h": 200,
+     "title": "Manuel Gahbauer",
+     "caption": "<figcaption> <h3>Manuel Gahbauer</h3> <p>Teamleitung Service Innendienst<br/> +43 7752 87725 0<br/> service@zoller-a.at</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/0/csm_csm_Bramauer_Bernhard_8ff31d4550_6e6846b702.webp",
+     "alt": "",
+     "w": 200,
+     "h": 200,
+     "title": "Ing. Bernhard Bramauer",
+     "caption": "<figcaption> <h3>Ing. Bernhard Bramauer</h3> <p>Teamleitung Service Anwendungstechnik<br/> +43 7752 87725 0<br/> service@zoller-a.at</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/7/csm_csm_Ebner_Johann_a60a57e2c5_1b9511f34a.webp",
+     "alt": "",
+     "w": 200,
+     "h": 202,
+     "title": "Johann Ebner",
+     "caption": "<figcaption> <h3>Johann Ebner</h3> <p>Terminplanung<br/> +43 7752 87725 0<br/> serviceplanung@zoller-a.at</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/d/csm_csm_Schaffer_Martin_c541b95970_ba4fdc3772.webp",
+     "alt": "",
+     "w": 200,
+     "h": 200,
+     "title": "Martin Schaffer",
+     "caption": "<figcaption> <h3>Martin Schaffer</h3> <p>Service- und Anwendungstechniker<br/> +43 7752 87725 0<br/> service@zoller-a.at</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/7/9/csm_csm_Szabo_Janos_e9c378cf1e_7a2cc262e0.webp",
+     "alt": "",
+     "w": 200,
+     "h": 200,
+     "title": "János Szabó",
+     "caption": "<figcaption> <h3> János Szabó</h3> <p>Service- und Anwendungstechniker<br/> +43 7752 87725 0<br/> service@zoller-a.at</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/5/0/csm_csm_Jellitsch_Michael_247de79c41_a4008357af.webp",
+     "alt": "",
+     "w": 200,
+     "h": 200,
+     "title": "Michael Jellitsch",
+     "caption": "<figcaption> <h3>Michael Jellitsch</h3> <p>Service- und Anwendungstechniker<br/> +43 7752 87725 0<br/> service@zoller-a.at</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/5/csm_csm_Huemer_Huemer_josef_06385ec30e_e4eb28a930.webp",
+     "alt": "",
+     "w": 200,
+     "h": 200,
+     "title": "Josef Huemer-Huemer",
+     "caption": "<figcaption> <h3>Josef Huemer-Huemer</h3> <p>Service- und Anwendungstechniker<br/> +43 7752 87725 0<br/> service@zoller-a.at</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/a/5/csm_csm_Lichtenwallner_Raphael_5370e884b9_43acb99315.webp",
+     "alt": "",
+     "w": 200,
+     "h": 200,
+     "title": "Raphael Lichtenwallner",
+     "caption": "<figcaption> <h3>Raphael Lichtenwallner</h3> <p>Service- und Anwendungstechniker<br/> +43 7752 87725 0<br/> service@zoller-a.at</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/c/csm_csm_Spari_Robert_9687b3a2ed_cb1e669f4f.webp",
+     "alt": "",
+     "w": 200,
+     "h": 200,
+     "title": "Robert Spari",
+     "caption": "<figcaption> <h3>Robert Spari</h3> <p>Service- und Anwendungstechniker<br/> +43 7752 87725 0<br/> service@zoller-a.at</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/9/csm_Marco_Schefb%C3%A4nker_-_200x200_17580a23a1.webp",
+     "alt": "",
+     "w": 200,
+     "h": 200,
+     "title": "Marco Schefbänker",
+     "caption": "<figcaption> <h3>Marco Schefbänker</h3> <p>Service- und Anwendungstechniker<br/> +43 7752 87725 0<br/> service@zoller-a.at</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 5,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c0",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-33-33",
+   "columns": [
+    [],
+    [],
+    []
+   ],
+   "ftype": "container-33-33-33",
+   "id": "c0",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/2/csm_teaser_software_update_079d1bc12f.webp",
+     "alt": "",
+     "w": 633,
+     "h": 332,
+     "title": "Software-Update",
+     "href": "/at/software-updates",
+     "caption": "<figcaption> <h3>Software-Update</h3> <p>Immer auf dem neuesten Stand. Übermitteln Sie einfach Ihre Geräte- bzw. Software-Seriennummer und profitieren Sie vom neuesten Patchstand.</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/d/0/csm_teaser_online_support_1b44919036.webp",
+     "alt": "",
+     "w": 633,
+     "h": 332,
+     "title": "Online-Support",
+     "href": "/at/online-support",
+     "caption": "<figcaption> <h3>Online-Support</h3> <p>Um Sie bei Fragen zu unseren Produkten oder bei technischen Anliegen schnell und zielgerichtet zu unterstützen.</p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/d/4/csm_teaser_newsletter_36e5e58bec.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Newsletter",
+     "href": "/at/unternehmen/kontakt/newsletter",
+     "caption": "<figcaption> <h3>Newsletter</h3> <p>Im ZOLLER-Newsletter „Insights into progress“ stellen wir wichtige Branchenthemen vor. Wir informieren über Produkte, Erfolgs­geschichten und Termine. Jetzt anmelden.</p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c26294",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/at/unternehmen/kontakt/ansprechpartner",
+ "de_path": "/unternehmen/kontakt/ansprechpartner"
+}

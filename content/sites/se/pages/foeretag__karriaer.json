@@ -1,0 +1,426 @@
+{
+ "path": "/foeretag/karriaer",
+ "url": "/se/foeretag/karriaer",
+ "title": "Karriär",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Företag /",
+   "href": "/se/foeretag"
+  },
+  {
+   "label": "Karriär",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Företag /",
+   "href": "/se/foeretag"
+  },
+  {
+   "label": "Karriär",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/karriere",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/carrera-profesional",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/carriere",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/carreira",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/carriera",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/karriaer",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/karriere",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/career",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/carriere",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EC%B1%84%EC%9A%A9-%EC%A0%95%EB%B3%B4",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/career",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/carrera-profesional",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/carreira",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/2/8/csm_carreer_header_0aa181ca44.webp",
+     "video": null,
+     "title": "Arbeta hos ZOLLER",
+     "kicker": "",
+     "text": "<p>Världsledande och familjär – din karriärstart hos ZOLLER.</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4050",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "subnav",
+   "title": "Karriär",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Lediga tjänster",
+     "href": "/se/foeretag/karriaer/lediga-tjaenster",
+     "current": false
+    },
+    {
+     "label": "Vanliga frågor",
+     "href": "/se/foeretag/karriaer/vanliga-fraagor",
+     "current": false
+    },
+    {
+     "label": "Ansökan",
+     "href": "/se/foeretag/karriaer/ansoekan",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c4066",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Vi söker experter! </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c4048",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>Att arbeta i ett familjeföretag:</h4> <p>ZOLLER är ett familjeägt företag som utvecklar och tillverkar innovativa inställnings- och mätinstrument, programvara för mätning, inspektion och hantering av skärverktyg samt tillhörande automatiseringslösningar. Med teknisk innovation, högt kvalitetsmedvetande och en levande serviceanda har vi säkrat en plats i världstoppen. Vår framgång tackar vi de cirka 400 ZOLLER-medarbetarna vid huvudkontoret i Pleidelsheim nära Stuttgart samt de mer än 400 kollegorna vid filialer och representanter på 85 platser världen över.</p> <h4>Spännande arbetsuppgifter:</h4> <p>Vi erbjuder utmanande och varierande arbetsuppgifter, korta beslutsvägar samt möjligheter till medverkan och vidareutveckling. Oavsett om du är under utbildning eller är en erfaren medarbetare – bli en del av ZOLLER-teamet.</p> <h4>Internationell miljö:</h4> <p>Hos ZOLLER är kundnärhet inte bara ett löfte, utan verklighet: Vi finns lokalt med försäljning och service i 62 länder.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c4049",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4047",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Utbildning hos ZOLLER </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c26164",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<ul><li>IT-tekniker inom applikationsutveckling</li><li>IT-specialist för systemintegration</li><li>Industriköpman</li><li>Mekatroniker</li><li>Teknisk produktdesigner – maskin- och anläggningskonstruktion</li></ul><p><a href=\"/fileadmin/01_Pages/Company/Career/DE/ZOLLER_BR_Karriere_BRKARRIERE_00_DE.pdf\" rel=\"noopener\" target=\"_blank\"><img alt=\"\" height=\"263\" loading=\"lazy\" src=\"/fileadmin/01_Pages/Company/Career/DE/ZOLLER_Ausbildung.jpg\" title=\"\" width=\"150\"/></a></p> <p><a class=\"link-arrow\" href=\"/fileadmin/01_Pages/Company/Career/DE/ZOLLER_BR_Karriere_BRKARRIERE_00_DE.pdf\" rel=\"noopener\" target=\"_blank\">Utbildningsbroschyr (PDF)</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c26172",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c26156",
+   "bg": "lightgray",
+   "space": {
+    "before": "extra-small",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Deltidsstudier hos ZOLLER </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c26188",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<ul><li>Datavetenskap och artificiell intelligens</li><li>Datavetenskap</li><li>Datavetenskap – informationsteknik</li><li>Maskinteknik – Konstruktion och utveckling</li><li>Industriell ekonomi – Allmän industriell ekonomi</li></ul>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c26196",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c26180",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/0/csm_teaser_profile_bf2693bd59.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Om ZOLLER",
+     "href": "/se/foeretag/profil",
+     "caption": "<figcaption> <h3>Om ZOLLER</h3> <p>Namnet ZOLLER är nära förknippat med ett team på över 800 personer, många innovationer och det jordnära i ett familjeföretag.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/4/csm_teaser_media_f7299d9c84.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Media",
+     "href": "/se/foeretag/media",
+     "caption": "<figcaption> <h3>Media</h3> <p>Här hittar du pressmeddelanden, produktlanseringar, mässdeltagande, pressartiklar från facktidskrifter och det<br/> nyhetsarkivet.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/b/csm_teaser_reports_90bbbeda0a.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Rapporter och reportage",
+     "href": "/se/foeretag/rapporter-och-beraettelser",
+     "caption": "<figcaption> <h3>Rapporter och reportage</h3> <p>Vad händer hos ZOLLER, och vad säger våra kunder om hur det är att arbeta med ZOLLER Solutions? Här hittar du de senaste nyheterna.</p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c26310",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/se/foeretag/karriaer",
+ "de_path": "/unternehmen/karriere"
+}

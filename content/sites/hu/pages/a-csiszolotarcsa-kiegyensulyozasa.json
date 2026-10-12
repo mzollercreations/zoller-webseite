@@ -1,0 +1,362 @@
+{
+ "path": "/a-csiszolotarcsa-kiegyensulyozasa",
+ "url": "/hu/a-csiszolotarcsa-kiegyensulyozasa",
+ "title": "A csiszolótárcsa kiegyensúlyozása",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "A csiszolótárcsa kiegyensúlyozása",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "A csiszolótárcsa kiegyensúlyozása",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/schleifscheibe-auswuchten",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/balancing-a-grinding-wheel",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/equilibrar-el-disco-abrasivo",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/equilibrer-la-meule",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/equilibrar-o-rebolo",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/bilanciare-la-mola",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/balansera-slipskivan",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/schleifscheibe-auswuchten",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/balancing-the-grinding-wheel",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/equilibrage-dun-disque-abrasif",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E7%A0%94%E7%A3%A8%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%81%AE%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%97%B0%EB%A7%88-%EB%94%94%EC%8A%A4%ED%81%AC%EC%9D%98-%EA%B7%A0%ED%98%95-%EB%A7%9E%EC%B6%94%EA%B8%B0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/balancing-grinding-wheels",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/equilibrar-el-disco-abrasivo",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/equilibrar-o-rebolo",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/9/c/csm_grinding_wheel_header_82a94c5c43.webp",
+     "video": null,
+     "title": "Kiegyensúlyozni kell a csiszolótárcsát?",
+     "kicker": "",
+     "text": "<p>»A toolBalancer« kiegyensúlyozó rendszerünkkel gyerekjáték</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8000",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Kiegyensúlyozó rendszerünk meghosszabbítja a szerszámok élettartamát </h2>",
+   "body": "<p class=\"extra-large-text\">A modern megmunkáló gépeknél rendkívül fontos a szerszámok precíz kiegyensúlyozása. A csiszolótárcsák, szerszámrendszerek és rotorok kiegyensúlyozatlansága kopást vagy akár károsodást is okozhat – a rendszeres kiegyensúlyozás megakadályozza az állásidőt és csökkenti a költségeket.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c8001",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Hatékony kiegyensúlyozás a ZOLLER »toolBalancer« segítségével </h2>",
+   "body": "<p>A hosszú kiegyensúlyozási idők leállásokat és minőségromlást okoznak. A »toolBalancer« segítségével nemcsak a szerszámtartók, csiszolótárcsák és rotorok kiegyensúlyozhatók nagy pontossággal, hanem az automatizált mérési folyamatnak köszönhetően a művelet is jelentősen felgyorsul.</p> <p>A rendszer figyelembe veszi mind a jelenlegi igényeit, mind azokat a fejlesztéseket, amelyeket jelenleg még nem tud előre látni: moduláris felépítésének köszönhetően a »toolBalancer« teljesen egyénre szabható.</p> <p>A készülék intuitív és önmagáért beszélő módon kezelhető érintőképernyőn, billentyűzeten vagy egéren keresztül – pontosan úgy, ahogyan az Ön munkamódszeréhez leginkább illik. Így Ön a hatékony és kiváló minőségű munkavégzésre és gyártásra koncentrálhat. Ezzel mérhetően csökkenti a selejtarányt, a gépleállási időket és a gyártási költségeket!</p> <p><a class=\"btn\" href=\"/hu/termekek/kiegyensulyozasi-technika/toolbalancer\">További információk »a« »toolBalancerr«ől</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/a/csm_teaser_toolbalancer_e584d45648.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034,
+     "href": "/hu/termekek/kiegyensulyozasi-technika/toolbalancer"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8002",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Nagyobb megmunkálási teljesítmény",
+    "Hosszabb szerszámélettartam",
+    "Jobb alkatrészminőség"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c8003",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Mi az a kiegyensúlyozás? </h2>",
+   "body": "<p>A kiegyensúlyozással csökkenthetők, vagy ideális esetben teljesen megszüntethetők azok a kiegyensúlyozatlanságok, amelyek minden, egy rögzített tengely körül forgó merev testnél fennállnak. A kiegyensúlyozatlanságok a csiszolókorongon belüli egyenetlen tömegeloszlásból adódnak; a referenciapont ebben az esetben a csiszolóorsó forgástengelye. A kiegyensúlyozás központi célja az, hogy kiegyenlítse a forgó orsón fellépő összes centrifugális erőt, hogy az orsócsapágy ne legyen kitéve további erőknek.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8007",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Hogyan keletkeznek a csiszolókorongok kiegyensúlyozatlanságai? </h2>",
+   "body": "<p>A csiszolókorong egyensúlyhiányai már a gyártás során is előfordulhatnak, például:</p><ul><li>a gyártási hibák miatt az ideális geometriai alakjától vagy a tökéletesen szimmetrikus formától való enyhe eltérések,</li><li>egyéb gyártási hibák, vagy</li><li>a csiszolókorong szerkezetének egyenetlen sűrűsége (következmény: kiegyensúlyozatlan súlyeloszlás).</li></ul><p>A kiegyensúlyozatlanságok azonban elsősorban a csiszolási folyamat során fellépő kopás miatt alakulnak ki. Erre példák:</p><ul><li>egyenetlen kopás a csiszolási folyamat során,</li><li>szennyeződések forgácsok, hűtő- vagy kenőanyagok miatt, valamint</li><li>terhelés és deformációk a feszítőerők, vágási erők és centrifugális erők hatására.</li></ul><p>További problémák merülhetnek fel a csiszolókorongok nem megfelelő tárolása vagy helytelen kezelése miatt.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/5/csm_schleifscheiben_314b691a95.webp",
+     "alt": "",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8004",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Miért kell kiegyensúlyozni a csiszolókorongokat? </h2>",
+   "body": "<p>A kiegyensúlyozatlan csiszolókorong következményei sokrétűek lehetnek: előfordulhat, hogy a csiszolóorsó nem forog csendesen és egyenletesen (futásnyugalom); a kiegyensúlyozatlanság pedig egyenetlen kopáshoz vezet, ami tovább fokozhatja a hatást. Ezenkívül a csiszolókorong kopása, illetve anyageltávolítási teljesítménye is megnőhet.</p> <p>Általános szabály: ha a szerszám és a szerszámtartó egységként nem rendelkezik nagy körkörös pontossággal, a kiegyensúlyozatlanság következtében a centrifugális erő negatívan hathat az orsócsapágyra, és jelentősen csökkentheti annak élettartamát. A szerszám élettartama is jelentősen romolhat, ha a centrifugális erő által keltett rezgések átterjednek a gépre és a szerszámra. A kiegyensúlyozott szerszámok tehát hozzájárulnak az alacsonyabb szerszámköltségekhez és növelik a termelékenységet.</p> <p>A nagyobb megmunkálási teljesítmény és a hosszabb szerszámélettartam elérése érdekében fontos, hogy minden fordulatszám-változtatás előtt ellenőrizzük a csiszolókorong kiegyensúlyozottságát, mivel minden orsó-fordulatszám-szerszám kombináció sajátos kiegyensúlyozatlanságot eredményez.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/b/csm_scan_1dacd77291.webp",
+     "alt": "",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8005",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Milyen kiegyensúlyozó rendszerek léteznek? </h2>",
+   "body": "<p><strong>A kiegyensúlyozási technikák terén alapvetően három különböző kiegyensúlyozó rendszert különböztetünk meg.</strong></p><ul><li><p>Elektronikus kiegyensúlyozás: Itt a csiszolótárcsa kiegyensúlyozatlanságát közvetlenül a csiszolóorsón kiegyensúlyozzák; a megfelelő technika vagy beépíthető a csiszolóorsóba, vagy a kiegyensúlyozó súlyok kézi elmozdításával érhető el.</p></li><li><p>Görgős állványok: Két különálló görgős állvány (a görgős állványt kiegyensúlyozó állványnak is nevezik) mindegyike két keskeny, golyóscsapágyakon elhelyezett görgővel van ellátva. A görgős állványokat általában sínekre rögzítik, vagy mérőgépek gránitlapjain helyezik el.</p></li><li><p>Kiegyensúlyozó mérleg: A kiegyensúlyozó mérlegek meghatározzák a csiszolókorongok statikus kiegyensúlyozatlanságát. Ennél valójában csak egy síkot mérnek; a csiszolókorong akkor tekinthető statikusan kiegyensúlyozottnak, ha súlypontja középen, azaz a forgástengelyen helyezkedik el.</p></li></ul>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8006",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_teaser_balancing_small_e3b1b4fcf5.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Kiegyensúlyozási technika: előnyei",
+     "href": "/hu/megoldasok/kiegyensulyozasi-technika",
+     "caption": "<figcaption> <h3>Kiegyensúlyozási technika: előnyei</h3> <p>A kiegyensúlyozás fontosságát alábecsülik. Pedig a kiegyensúlyozás növeli a gazdaságosságot, mivel csökkenti a költségeket megnövelő szerszámkopást és tehermentesíti a géporsókat. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 szakértői beszélgetés",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 szakértői beszélgetés</h3> <p>Személyre szabott megbeszélés az Ön céljairól és az azok eléréséhez kapcsolódó ötleteinkről. A ZOLLER online tanácsadása közvetlenül a Smart Factory-ból. Foglaljon időpontot most! </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3832",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/hu/a-csiszolotarcsa-kiegyensulyozasa",
+ "de_path": "/schleifscheibe-auswuchten"
+}

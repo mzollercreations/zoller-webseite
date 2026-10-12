@@ -1,0 +1,496 @@
+{
+ "path": "/wydarzenia/automation-week-torrance-2026",
+ "url": "/wydarzenia/automation-week-torrance-2026",
+ "title": "ZOLLER Automation Week Torrance 2026",
+ "description": "12–16 października 2026 w ZOLLER Inc. Pacific w Torrance w Kalifornii: pokazy na żywo »coraLogistic«, »coraVarion« i »loadBox«, wykłady oraz indywidualne rozmowy z ekspertami.",
+ "og_image": "/assets/video/automation-week-poster.jpg",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "event_hero",
+   "id": "event",
+   "kicker": "Wydarzenie · ZOLLER Inc. Pacific",
+   "title": "ZOLLER Automation Week",
+   "subtitle": "Pięć dni automatyzacji na żywo – »coraLogistic«, »coraVarion« i »loadBox« w akcji.",
+   "dates": "12–16 października 2026",
+   "place": "Torrance, Kalifornia",
+   "hours": "Codziennie 9:00–17:00 (PT)",
+   "images": [
+    {
+     "src": "/assets/showroom/img/hd/coralogistic.webp",
+     "alt": "»coraLogistic«"
+    },
+    {
+     "src": "/assets/showroom/img/hd/loadbox.webp",
+     "alt": "»loadBox«"
+    },
+    {
+     "src": "/assets/showroom/img/hd/micbox.webp",
+     "alt": "»micBox«"
+    }
+   ],
+   "buttons": [
+    {
+     "label": "Wybierz termin",
+     "href": "#program"
+    },
+    {
+     "label": "Obejrzyj film z zaproszeniem",
+     "href": "#video",
+     "ghost": true
+    }
+   ]
+  },
+  {
+   "type": "event_facts",
+   "id": "facts",
+   "bg": "yellow",
+   "items": [
+    {
+     "value": "5",
+     "label": "Dni",
+     "text": "Od poniedziałku do piątku, każdego dnia inny temat"
+    },
+    {
+     "value": "3",
+     "label": "Rozwiązania na żywo",
+     "text": "»coraLogistic«, »coraVarion« i »loadBox« w działaniu"
+    },
+    {
+     "value": "25+",
+     "label": "Terminy",
+     "text": "Pokazy na żywo, wykłady, warsztaty i indywidualne rozmowy z ekspertami"
+    },
+    {
+     "value": "0 $",
+     "label": "Wstęp",
+     "text": "Bezpłatny – liczba miejsc na każdy pokaz jest ograniczona"
+    }
+   ]
+  },
+  {
+   "type": "event_video",
+   "id": "video",
+   "bg": "black",
+   "kicker": "Zaproszenie",
+   "title": "Zaproszenie do Torrance",
+   "text": "<p>Co czeka Państwa w Torrance – i dlaczego warto przyjechać.</p>",
+   "src": "/assets/video/zoller-automation-week-torrance.mp4",
+   "poster": "/assets/video/automation-week-poster.jpg"
+  },
+  {
+   "type": "event_products",
+   "id": "solutions",
+   "bg": "lightgray",
+   "title": "Trzy rozwiązania. Jeden zautomatyzowany obieg narzędzi.",
+   "text": "<p>Od magazynu narzędzi przez przygotowanie aż do maszyny CNC: proszę zobaczyć, jak automatyka ZOLLER działa ramię w ramię – i co to oznacza dla Państwa produkcji.</p>",
+   "items": [
+    {
+     "name": "»coraLogistic«",
+     "claim": "Zautomatyzowana logistyka na hali produkcyjnej",
+     "img": "/assets/showroom/img/hd/coralogistic.webp",
+     "href": "/produkte/automation/werkzeuglogistik/coralogistic",
+     "tag": "coralogistic",
+     "benefits": [
+      "Narzędzia jadą same: autonomiczny robot »coraExpress« przewozi je między magazynem, przygotowaniem a maszyną",
+      "System »smartPallet« bezpiecznie utrzymuje narzędzia – do transportu ręcznego lub zautomatyzowanego",
+      "Zlecenia transportowe tworzone kilkoma kliknięciami w module zleceń webTMS",
+      "Mniej chodzenia i szukania – narzędzie trafia do maszyny na czas"
+     ]
+    },
+    {
+     "name": "»coraVarion«",
+     "claim": "Zautomatyzowany montaż, kontrola i pomiar płytek wieloostrzowych",
+     "img": "/assets/showroom/img/hd/micbox.webp",
+     "href": "/produkte/automation/werkzeugvorbereitung/micbox",
+     "tag": "coravarion",
+     "benefits": [
+      "Z »micBox«: płytki są obracane, odwracane i wymieniane w pełni automatycznie",
+      "Montaż, kontrola i pomiar w jednym ciągłym procesie",
+      "Stała jakość z pełną dokumentacją każdego narzędzia",
+      "Praca bezobsługowa – wykwalifikowani pracownicy mogą zająć się zadaniami o wartości dodanej"
+     ]
+    },
+    {
+     "name": "»loadBox«",
+     "claim": "Inteligentne centrum narzędziowe",
+     "img": "/assets/showroom/img/hd/loadbox.webp",
+     "href": "/produkte/automation/werkzeugbereitstellung/loadbox",
+     "tag": "loadbox",
+     "benefits": [
+      "Kompletuje narzędzia według zleceń i udostępnia je logistyce",
+      "6-osiowy robot FANUC niezawodnie przenosi narzędzia między stacją wejścia/wyjścia a magazynem",
+      "Kompaktowe przechowywanie narzędzi w systemie windowym Kardex Shuttle",
+      "Sterowanie serwerowe – obsługa z monitora, tabletu lub smartfona"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "agenda",
+   "id": "program",
+   "bg": "white",
+   "title": "Program",
+   "text": "<p>Proszę wybrać dzień i pokaz. Jednym kliknięciem można zarezerwować miejsce lub dodać termin do kalendarza. Wszystkie godziny w czasie pacyficznym (PT); wykłady i pokazy w języku angielskim.</p>",
+   "email": "sales@zoller-usa.com",
+   "event": "ZOLLER Automation Week Torrance 2026",
+   "location": "ZOLLER Inc. Pacific, 3882 Del Amo Blvd., Suite #603, Torrance, CA 90503, USA",
+   "tz": "America/Los_Angeles",
+   "tzoffset": "-07:00",
+   "days": [
+    {
+     "date": "2026-10-12",
+     "label": "Dzień otwarcia",
+     "focus": "Wszystkie trzy rozwiązania w skrócie",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "Rejestracja i śniadanie",
+       "text": "Proszę przyjechać, napić się kawy i poznać zespół ZOLLER."
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "all",
+       "title": "Keynote: zautomatyzowany obieg narzędzi",
+       "text": "Jak przygotowanie, dostarczanie i logistyka narzędzi łączą się w inteligentnej fabryce."
+      },
+      {
+       "start": "10:30",
+       "end": "11:15",
+       "kind": "Live-Demo",
+       "tag": "coralogistic",
+       "title": "»coraLogistic« na żywo",
+       "text": "»coraExpress« odbiera narzędzia i dostarcza je do maszyny na »smartPallet«.",
+       "seats": 12
+      },
+      {
+       "start": "11:30",
+       "end": "12:15",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "»coraVarion« na żywo",
+       "text": "Automatyczna wymiana, kontrola i pomiar płytek wieloostrzowych.",
+       "seats": 12
+      },
+      {
+       "start": "12:15",
+       "end": "13:15",
+       "kind": "Networking",
+       "title": "Lunch i networking"
+      },
+      {
+       "start": "13:15",
+       "end": "14:00",
+       "kind": "Live-Demo",
+       "tag": "loadbox",
+       "title": "»loadBox« na żywo",
+       "text": "Kompletacja narzędzi według zleceń z robotem i systemem windowym.",
+       "seats": 12
+      },
+      {
+       "start": "14:15",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "Indywidualne rozmowy z ekspertami",
+       "text": "45 minut z naszymi ekspertami od automatyzacji – o Państwa produkcji, narzędziach i celach.",
+       "seats": 3
+      },
+      {
+       "start": "16:30",
+       "end": "17:30",
+       "kind": "Networking",
+       "title": "Powitalne spotkanie",
+       "text": "Wspólne rozpoczęcie tygodnia."
+      }
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "label": "Dzień logistyki",
+     "focus": "Tematem przewodnim: »coraLogistic«",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "Rejestracja i śniadanie"
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "coralogistic",
+       "title": "Logistyka bez zbędnych dróg",
+       "text": "Gdzie w logistyce narzędzi traci się czas – i jak go odzyskać."
+      },
+      {
+       "start": "10:30",
+       "end": "11:30",
+       "kind": "Live-Demo",
+       "tag": "coralogistic",
+       "title": "»coraLogistic« w szczegółach",
+       "text": "Kompletne zlecenie transportowe: od magazynu przez ustawianie aż do maszyny CNC.",
+       "seats": 12
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Workshop",
+       "tag": "coralogistic",
+       "title": "W praktyce: moduł zleceń webTMS",
+       "text": "Samodzielne tworzenie zleceń transportowych: wybór wózka, wybór maszyny docelowej, start.",
+       "seats": 8
+      },
+      {
+       "start": "12:30",
+       "end": "13:30",
+       "kind": "Networking",
+       "title": "Lunch i networking"
+      },
+      {
+       "start": "13:30",
+       "end": "14:15",
+       "kind": "Live-Demo",
+       "tag": "loadbox",
+       "title": "»loadBox« spotyka »coraLogistic«",
+       "text": "Skompletowane narzędzia trafiają prosto do zautomatyzowanego transportu.",
+       "seats": 12
+      },
+      {
+       "start": "14:30",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "Indywidualne rozmowy z ekspertami",
+       "text": "Państwa pytania o logistykę, nasi eksperci.",
+       "seats": 3
+      }
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "label": "Dzień przygotowania narzędzi",
+     "focus": "Tematem przewodnim: »coraVarion«",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "Rejestracja i śniadanie"
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "coravarion",
+       "title": "Automatyczna wymiana płytek",
+       "text": "Dlaczego obsługa płytek wieloostrzowych tak dobrze nadaje się do automatyzacji."
+      },
+      {
+       "start": "10:30",
+       "end": "11:30",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "»coraVarion« w szczegółach",
+       "text": "Montaż, kontrola i pomiar w jednym ciągu – na żywo przy celi.",
+       "seats": 12
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "»micBox« z bliska",
+       "text": "Obracanie, odwracanie, wymiana: automatyzacja wymiany płytek z bliska.",
+       "seats": 12
+      },
+      {
+       "start": "12:30",
+       "end": "13:30",
+       "kind": "Networking",
+       "title": "Lunch i networking"
+      },
+      {
+       "start": "13:30",
+       "end": "14:15",
+       "kind": "Live-Demo",
+       "tag": "coralogistic",
+       "title": "»coraLogistic« na żywo",
+       "text": "Transport narzędzi w skrócie.",
+       "seats": 12
+      },
+      {
+       "start": "14:30",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "Indywidualne rozmowy z ekspertami",
+       "text": "Proszę zabrać swoje narzędzia i pytania.",
+       "seats": 3
+      }
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "label": "Dzień dostarczania narzędzi",
+     "focus": "Tematem przewodnim: »loadBox«",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "Rejestracja i śniadanie"
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "loadbox",
+       "title": "Centrum narzędziowe inteligentnej fabryki",
+       "text": "Kompletowanie narzędzi według zleceń zamiast szukania i zbierania."
+      },
+      {
+       "start": "10:30",
+       "end": "11:30",
+       "kind": "Live-Demo",
+       "tag": "loadbox",
+       "title": "»loadBox« w szczegółach",
+       "text": "Moduł bazowy robota, system windowy i moduł wejścia/wyjścia we współpracy.",
+       "seats": 12
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Workshop",
+       "tag": "loadbox",
+       "title": "Sterowanie z tabletu i smartfona",
+       "text": "Proszę samodzielnie wypróbować serwerowe oprogramowanie sterujące.",
+       "seats": 8
+      },
+      {
+       "start": "12:30",
+       "end": "13:30",
+       "kind": "Networking",
+       "title": "Lunch i networking"
+      },
+      {
+       "start": "13:30",
+       "end": "14:15",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "»coraVarion« na żywo",
+       "text": "Automatyczna wymiana, kontrola i pomiar płytek wieloostrzowych.",
+       "seats": 12
+      },
+      {
+       "start": "14:30",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "Indywidualne rozmowy z ekspertami",
+       "text": "Wspólnie policzymy opłacalność Państwa projektu automatyzacji.",
+       "seats": 3
+      }
+     ]
+    },
+    {
+     "date": "2026-10-16",
+     "label": "Dzień otwarty",
+     "focus": "Cały obieg narzędzi",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "Rejestracja i śniadanie"
+      },
+      {
+       "start": "09:30",
+       "end": "10:30",
+       "kind": "Live-Demo",
+       "tag": "all",
+       "title": "Od magazynu do wrzeciona",
+       "text": "Wszystkie trzy rozwiązania w jednym ciągłym procesie: »loadBox« kompletuje, »coraVarion« przygotowuje, »coraLogistic« dostarcza.",
+       "seats": 20
+      },
+      {
+       "start": "10:45",
+       "end": "11:30",
+       "kind": "Workshop",
+       "tag": "all",
+       "title": "Czy to się opłaca?",
+       "text": "Opłacalność automatyzacji w przygotowaniu narzędzi – z przykładowymi obliczeniami.",
+       "seats": 15
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Live-Demo",
+       "tag": "all",
+       "title": "Otwarty pokaz: wybrane przez Państwa rozwiązanie",
+       "text": "To Państwo decydują, co pokażemy.",
+       "seats": 20
+      },
+      {
+       "start": "12:30",
+       "end": "14:00",
+       "kind": "Networking",
+       "title": "Kalifornijski grill i pożegnanie",
+       "text": "Zamykamy tydzień grillem – serdecznie zapraszamy."
+      },
+      {
+       "start": "14:00",
+       "end": "16:00",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "Indywidualne rozmowy z ekspertami",
+       "text": "Ostatnia okazja na indywidualną rozmowę.",
+       "seats": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "event_venue",
+   "id": "directions",
+   "bg": "black",
+   "title": "Dojazd",
+   "name": "ZOLLER Inc. Pacific",
+   "lines": [
+    "3882 Del Amo Blvd., Suite #603",
+    "Torrance, CA 90503, USA"
+   ],
+   "map": "https://www.google.com/maps/search/?api=1&query=3882+Del+Amo+Blvd+Suite+603+Torrance+CA+90503",
+   "notes": [
+    "W South Bay w Los Angeles, w pobliżu lotniska LAX",
+    "Bezpłatnie, wymagana rejestracja",
+    "Wykłady i pokazy w języku angielskim"
+   ],
+   "contact": {
+    "label": "Rejestracja i pytania",
+    "email": "sales@zoller-usa.com",
+    "phone": "+1 734 332 4851"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>Brak czasu w październiku?</h3> <p><a class=\"btn\" href=\"https://myzoller.com/us/en/expert/booking\" rel=\"noopener\" target=\"_blank\">Zarezerwuj online indywidualną rozmowę z ekspertem</a></p>",
+   "id": "experte",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "de_path": "/events/automation-week-torrance-2026",
+ "hand": true
+}

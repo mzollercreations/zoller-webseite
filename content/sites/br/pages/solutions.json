@@ -1,0 +1,312 @@
+{
+ "path": "/solutions",
+ "url": "/br/solutions",
+ "title": "Soluções",
+ "description": "Soluções - Porque as Soluções ZOLLER?",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/br/pagina-inicial"
+  },
+  {
+   "label": "Soluções",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/br/pagina-inicial"
+  },
+  {
+   "label": "Soluções",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/7/5/csm_solutions_header_0ba171533c.webp",
+     "video": null,
+     "title": "Forte sinergia, na qual todos os elementos se integram perfeitamente",
+     "kicker": "",
+     "text": "<p>As soluções da ZOLLER abrangem toda a cadeia de processos das ferramentas de corte na manufatura,<br/>desde a preparação, medição e ajuste de ferramentas, passando pelo gerenciamento completo, até a automação.</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c609",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "66-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2 class=\"headline-decor\"> Prontos para o presente e o futuro da manufatura moderna </h2>",
+      "body": "<p>Com as soluções ZOLLER, sua empresa reduz tempo, custos e o uso de recursos na produção de peças, na fabricação de ferramentas e nos processos de reafiação. Cada solução é intuitiva, de fácil utilização e gera ganhos imediatos de eficiência, garantindo rápido retorno sobre o investimento. Com a ZOLLER, sua operação está preparada para atender às demandas de hoje — e posicionada para os desafios do futuro.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c746",
+      "bg": "white",
+      "space": {
+       "before": "default",
+       "after": "none"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-2cols",
+   "id": "c1855",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "bento",
+   "header": "",
+   "intro": "",
+   "tiles": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/0/c/csm_header_presetting_805b97e0b6.webp",
+      "alt": ""
+     },
+     "text": "<h2>Pré-ajuste e Medição de ferramentas</h2> <p>Reduza os tempos de setup em 40% ou mais.</p> <p><a class=\"btn\" href=\"/br/solutions/ajuste-e-medicao\">Saiba mais</a><a href=\"/br/solutions/ajuste-e-medicao\"> </a></p>",
+     "full": true
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/1/0/csm_teaser_toolmanagement_7103509fb4.webp",
+      "alt": ""
+     },
+     "text": "<h2>Gerenciamento de Ferramentas</h2> <p>Aproveite ao máximo suas ferramentas com informações e dados, soluções completas para armazenamento de ferramentas, software para controle,transferência de dados precisa e livre de erros. </p> <p><a class=\"btn\" href=\"/br/solutions/gestao-de-ferramentas\">Saiba mais</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/c/7/csm_teaser_inspection_8db5d700b8.webp",
+      "alt": ""
+     },
+     "text": "<h2>Inspeção e Medição de ferramentas</h2> <p>Garanta relatórios de qualidade das ferramentas e<br/>crie gémeos digitais.</p> <p><a class=\"btn\" href=\"/br/solutions/comprovacao-e-medicao\">Saiba mais</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/a/3/csm_teaser_shrinking_f763ceca8f.webp",
+      "alt": ""
+     },
+     "text": "<h2>Fixação térmica de ferramentas</h2> <p>Fixação de ferramentas por “Shrink”<br/>em tempo recorde.</p> <p><a class=\"btn\" href=\"/br/solutions/montagem-termica-de-ferramentas\">Saiba mais</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/0/b/csm_teaser_tooling_b7ac4272bd.webp",
+      "alt": ""
+     },
+     "text": "<h2>Porta-ferramentas</h2> <p>Porta ferramentas com »idChip« oferecem a interface<br/>perfeita para a sua produção digital.</p> <p><a class=\"btn\" href=\"/br/solutions/porta-ferramentas\">Saiba mais</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/01_Pages/Solutions/Automation/zoller_automation_komp.mp4",
+      "alt": ""
+     },
+     "text": "<h2>Automação para o Chão de Fábrica</h2> <p>Da preparação, medição e inspeção de ferramentas à automação completa dos seus processos – a ZOLLER tem a solução. </p> <p><a class=\"btn\" href=\"/br/solutions/automacao\">Saiba mais</a></p>",
+     "full": true
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/a/8/csm_teaser_balancing_a6279efe6e.webp",
+      "alt": ""
+     },
+     "text": "<h2>Tecnologia para Balanceamento de Porta-Ferramentas</h2> <p>Proteja os fusos e assegure a qualidade<br/>com os melhores equipamentos de balanceamento de ferramentas do mercado. </p> <p><a class=\"btn\" href=\"/br/solutions/tecnologia-de-equilibragem\">Saiba mais</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/b/1/csm_teaser_solution_steinbearbeitung_e8c492c5c9.webp",
+      "alt": ""
+     },
+     "text": "<h2>Usinagem CNC de Pedra</h2> <p>Prepare ferramentas diamantadas com mais rapidez<br/>e produza contornos de forma ainda mais eficiente.</p> <p><a class=\"btn\" href=\"/br/solutions/processamento-de-pedra-cnc\">Saiba mais</a></p>",
+     "full": false
+    }
+   ],
+   "ftype": "zoller_image-grid",
+   "id": "c606",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "extra-small"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>Converse com um especialista</h3> <p><a class=\"btn\" href=\"https://myzoller.com/int/en/expert/booking/\" rel=\"noopener\" target=\"_blank\">Agende uma conversa agora</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/br/solutions",
+ "de_path": "/solutions"
+}

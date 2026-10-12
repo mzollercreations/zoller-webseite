@@ -1,0 +1,464 @@
+{
+ "path": "/vallalat/karrier/gyik",
+ "url": "/hu/vallalat/karrier/gyik",
+ "title": "Karrier – GYIK",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Vállalat /",
+   "href": "/hu/vallalat"
+  },
+  {
+   "label": "Karrier /",
+   "href": "/hu/vallalat/karrier"
+  },
+  {
+   "label": "GYIK",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Vállalat /",
+   "href": "/hu/vallalat"
+  },
+  {
+   "label": "Karrier /",
+   "href": "/hu/vallalat/karrier"
+  },
+  {
+   "label": "GYIK",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/karriere/faq",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/careers/faq",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/karriaer/vanliga-fraagor",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/karriere/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/carriere/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EC%B1%84%EC%9A%A9-%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Karrier",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/hu/vallalat/karrier",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Állásajánlatok",
+     "href": "/hu/vallalat/karrier/allasajanlatok",
+     "current": false
+    },
+    {
+     "label": "GYIK",
+     "href": "/hu/vallalat/karrier/gyik",
+     "current": false
+    },
+    {
+     "label": "Jelentkezés",
+     "href": "/hu/vallalat/karrier/jelentkezes",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c4065",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> GYIK </h1>",
+      "body": "<p class=\"large-text\">Gyakran feltett kérdések</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c4063",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Milyen dokumentumok tartoznak egy teljes pályázati anyaghoz?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Kérjük, küldje el nekünk pályázati anyagát digitális formában, és lehetőleg használja az álláshirdetéshez tartozó pályázati űrlapot.</p> <p>A teljes pályázati anyag legalább a következő dokumentumokat tartalmazza:</p><ul><li>Kísérőlevél</li><li>Teljes önéletrajz</li><li>Bizonyítványok és igazolások</li></ul>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c4060",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Honnan tudom, hogy a jelentkezésem sikeresen beérkezett?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Kérjük, használja az álláshirdetéshez tartozó jelentkezési űrlapot. Ha a küldés sikeres volt, megerősítő e-mailt kap a megadott e-mail-címére.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c4056",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Mennyi ideig tárolják az önéletrajzomat?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Az Ön adatai a jelentkezési folyamat lezárását követően legfeljebb 2 hónapig maradnak rendszerünkben tárolva, majd ezt követően törlésre kerülnek.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c4054",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Hogyan zajlik a jelentkezési folyamat a ZOLLER-nél?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Miután jelentkezése beérkezett rendszerünkbe, automatikus visszaigazolást kap e-mailben. Tapasztalataink szerint a feldolgozás két-három hétig tart. Értesítjük Önt arról, hogy meghívjuk-e interjúra, vagy másvalakit választunk-e a pozícióra.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c4052",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Jelentkezhetek-e önéletrajzzal a ZOLLER-hez?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Természetesen önéletrajzzal is jelentkezhet.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c4068",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Jelentkezhetek-e szakdolgozati témára a ZOLLER-nél?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Örömmel fogadjuk, ha gyakorlati orientációjú alap- vagy mesterképzési szakdolgozatát nálunk szeretné megírni. A konkrét üzleti területekre vonatkozó témajavaslatait egyszerűen <a class=\"link-arrow\" href=\"mailto:bewerbung@zoller.info\" title=\"An die Personalabteilung\">e-mailben</a> küldheti el nekünk. Ideális esetben szakdolgozatát egy gyakorlat elvégzésével is összekapcsolhatja a ZOLLER-nél.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c4072",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "A ZOLLER kínál-e duális képzést is?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Igen, a ZOLLER a következő szakokat kínálja a stuttgarti DHBW-n zajló duális képzés keretében:</p><ul><li>Adattudomány és mesterséges intelligencia</li><li>Informatika</li><li>Informatika – Információs technológia</li><li>Gépgyártás – tervezés és fejlesztés</li><li>Gazdasági mérnöki tudomány – Általános gazdasági mérnöki tudomány</li></ul><p>A duális képzés minden év téli szemeszterében kezdődik. További információkat a ZOLLER weboldalán a „Duales Studium” (Duális képzés) menüpont alatt<a class=\"link-arrow\" href=\"https://www.dhbw-stuttgart.de/\" rel=\"noopener\" target=\"_blank\">,</a> illetve a <a class=\"link-arrow\" href=\"https://www.dhbw-stuttgart.de/\" rel=\"noopener\" target=\"_blank\">stuttgarti DHWB</a> weboldalán talál.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c4074",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c4062",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4064",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/0/csm_teaser_profile_bf2693bd59.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "A ZOLLER-ről",
+     "href": "/hu/vallalat/profil",
+     "caption": "<figcaption> <h3>A ZOLLER-ről</h3> <p>A ZOLLER névhez szorosan kapcsolódik egy több mint 800 fős csapat, számos innováció, valamint egy családi vállalkozásra jellemző gyakorlatiasság.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/4/csm_teaser_media_f7299d9c84.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Média",
+     "href": "/hu/vallalat/media",
+     "caption": "<figcaption> <h3>Média</h3> <p>Itt megtalálhatja a sajtóközleményeket, termékbejelentéseket, kiállítási részvételeket, szaklapokban megjelent cikkeket, valamint a<br/> hírarchívumot.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/b/csm_teaser_reports_90bbbeda0a.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Jelentések és cikkek",
+     "href": "/hu/vallalat/jelentesek-es-toertenetek",
+     "caption": "<figcaption> <h3>Jelentések és cikkek</h3> <p>Mi történik a ZOLLER-nél, és mit mondanak ügyfeleink a ZOLLER Solutions használatáról? Itt találja a legfrissebb híreket.</p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c26310",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/hu/vallalat/karrier/gyik",
+ "de_path": "/unternehmen/karriere/faq"
+}

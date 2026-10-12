@@ -1,0 +1,450 @@
+{
+ "path": "/riesenia/nastavenie-a-meranie",
+ "url": "/sk/riesenia/nastavenie-a-meranie",
+ "title": "Nastavenie a meranie",
+ "description": "Nastavenie a meranie",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/sk/domovska-stranka"
+  },
+  {
+   "label": "Riešenia /",
+   "href": "/sk/riesenia"
+  },
+  {
+   "label": "Nastavenie a meranie",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/sk/domovska-stranka"
+  },
+  {
+   "label": "Riešenia /",
+   "href": "/sk/riesenia"
+  },
+  {
+   "label": "Nastavenie a meranie",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/einstellen-messen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/presetting-measuring",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/ajuste-y-medicion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/reglage-et-mesure",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/ajuste-e-medicao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/regolazione-e-misurazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/instaellning-och-maetning",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/einstellen-messen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/presetting-measuring",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/reglage-et-mesure",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/presetting-measuring",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/ajuste-y-medicion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/ajuste-e-medicao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/0/c/csm_header_presetting_8b840715e8.webp",
+     "video": null,
+     "title": "Nastavenie a",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c622",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>Kto meria nástroje súbežne s hlavným časom CNC stroja, vyrába efektívnejšie. </h3>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c614",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>Nastavovanie a meranie mimo CNC stroja zásadným spôsobom mení spôsob vašej výroby. Výrazne skrátite časy prípravy, znížite množstvo zmetkov, predĺžite životnosť nástrojov a znížite výrobné náklady. To je mnoho dobrých dôvodov pre použitie nastavovacích a meracích zariadení od spoločnosti ZOLLER. </strong></p> <p>Pre obrábanie sú presné meracie údaje o nástrojoch nevyhnutné na dosiahnutie spoľahlivých procesov a prvotriednych výsledkov. Nastavovacie a meracie zariadenia od spoločnosti ZOLLER poskytujú tieto údaje s presnosťou na mikrometre. Spoločnosť ZOLLER ide ešte o krok ďalej. Obsluha zariadení je taká jednoduchá, že každé meranie vedie vždy k presným meracím hodnotám, nezávisle od obsluhujúceho. </p> <p>Nastavovanie a meranie so spoločnosťou ZOLLER znamená, že zodpovednosť za výsledok prenášate z človeka na meracie zariadenia. Vzhľadom na nedostatok kvalifikovaných pracovníkov a vysoký tlak na náklady vo výrobe je najlepším rozhodnutím nechať nástroje merať zariadením spoločnosti ZOLLER. </p> <p><a class=\"btn\" href=\"/sk/produkty/nastavenie-a-meranie\">Zobraziť produkty</a> <a href=\"/sk/kalkulator-rentability\">Zistiť potenciál úspor</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c616",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c615",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Čas potrebný na prípravu sa skrátil o viac ako 40 % </h2>",
+   "body": "<p>Ak na nastavovacom a meracom zariadení ZOLLER zmeriate len päť nástrojov predtým, ako sa nástroje nasadia na stroj, skrátite čas prípravy o viac ako 40 %.</p> <p>Nastavovanie súbežne s hlavným časom s pomocou ZOLLER otvára cestu k vysokým úsporám. V závislosti od počtu výmen nástrojov môžu úspory nákladov na jednu zmenu a CNC stroj dosiahnuť 15 000 eur ročne. V závislosti od nastavovacieho a meracieho zariadenia a konfigurácie sa vaša investícia môže amortizovať už za niekoľko mesiacov. </p> <p><a class=\"btn\" href=\"/sk/riesenia/nastavenie-a-meranie\">Zistiť potenciál úspor teraz</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c621",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Viac údajov, vyššia kvalita obrobkov </h2>",
+   "body": "<p class=\"large-text\">Meracie zariadenie CNC stroja zvyčajne zaznamenáva len dĺžku nástroja. To nestačí na to, aby sa naplno využil vysoký potenciál presnosti stroja.</p> <p class=\"large-text\">So spoločnosťou ZOLLER získate podrobné geometrické údaje, vďaka ktorým môžu CNC stroje vyrábať ešte presnejšie. Najvyššia kvalita vašej výroby. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/d/csm_presetting_01_59fab0dfc1.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c620",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Vyššia produktivita </h2>",
+   "body": "<p class=\"large-text\">Zastavenie stroja je nákladné a zbytočné. Ak sa nástroje na stroj nasadzujú už vopred nastavené, môžete skôr začať s ďalšou zákazkou. Maximalizujte svoju produktivitu pomocou nastavovacieho a meracieho zariadenia od spoločnosti ZOLLER.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/5/csm_presetting_02_f4a2e05503.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c619",
+   "bg": "white",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Maximálne využitie životnosti </h2>",
+   "body": "<p class=\"large-text\">S nastavovacím a meracím zariadením od spoločnosti ZOLLER viete ešte pred začatím výrobného cyklu, či je nástroj stále v poriadku, alebo nie. Prostredníctvom nastavovania a merania pravidelne kontrolujete kvalitu rezných hrán. Predchádzate neproduktívnym výmenám nástrojov a plne využívate ich životnosť. Nastavovanie a meranie so zariadením ZOLLER zvyšuje rentabilitu vašej výroby. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/a/csm_presetting_03_f94d19dc0f.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c618",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "count",
+   "title": "Potenciál úspor na jeden CNC stroj za rok*:",
+   "value": "15 000 €",
+   "note": "* vypočítané na základe 20 výmen nástrojov s dĺžkou výmeny 3 minúty,",
+   "ftype": "zoller_count-banner",
+   "id": "c617",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Nastavovacie a meracie prístroje </h2>",
+   "items": [
+    {
+     "href": "/sk/produkty/nastavenie-a-meranie/vertikalne-zariadenia/smile",
+     "title": "»smile«",
+     "text": "<p>Robustné základné zariadenia s presnosťou na mikrometre pre štandardné nástroje</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/nastavenie-a-meranie/vertikalne-zariadenia/venturion",
+     "title": "»venturion«",
+     "text": "<p>Vynikajúce nastavenie a meranie nástrojov s množstvom možností</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/d/csm_venturion_preview_cdaca59ebb.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/nastavenie-a-meranie/vodorovne-zariadenia/hyperion",
+     "title": "»hyperion«",
+     "text": "<p>Horizontálny nastavovací a merací prístroj pre sústruženie</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/8/csm_hyperion_preview_37118ddf5b.webp",
+      "alt": "zoller hyperion",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c1621",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "large"
+   }
+  },
+  {
+   "type": "cta_strip",
+   "icon": {
+    "src": "/fileadmin/_processed_/0/0/csm_calculator_8806cc3f97.webp",
+    "alt": "",
+    "w": 50,
+    "h": 65
+   },
+   "text": "<p class=\"bold\">Zvýšenie produktivity vďaka nastavovacím a meracím zariadeniam ZOLLER</p> <p>Kalkulátor rentability spoločnosti ZOLLER vypočíta potenciál úspor vo vašej prevádzke.</p>",
+   "button": "<a class=\"btn\" href=\"/sk/kalkulator-rentability\">Zistiť potenciál úspor</a>",
+   "ftype": "zoller_icon-button",
+   "id": "c4275",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_zoller_system_teaser_a6e5d69871.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Začnite s riešením – vstúpte do systému.",
+     "href": "/sk/system",
+     "caption": "<figcaption> <h3>Začnite s riešením – vstúpte do systému.</h3> <p>Naši zákazníci ťažia z komplexných riešení, ktoré presadzujeme už desaťročia. Výsledok: vynikajúca efektívnosť. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Rozhovor s odborníkom",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Rozhovor s odborníkom</h3> <p>Individuálna diskusia o vašich cieľoch a našich nápadoch, ako ich dosiahnuť. Online poradenstvo spoločnosti ZOLLER priamo zo Smart Factory. Dohodnite si termín už teraz. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/sk/riesenia/nastavenie-a-meranie",
+ "de_path": "/solutions/einstellen-messen"
+}

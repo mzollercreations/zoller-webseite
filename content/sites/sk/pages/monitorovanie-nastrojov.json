@@ -1,0 +1,299 @@
+{
+ "path": "/monitorovanie-nastrojov",
+ "url": "/sk/monitorovanie-nastrojov",
+ "title": "Monitorovanie nástrojov",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/sk/domovska-stranka"
+  },
+  {
+   "label": "Monitorovanie nástrojov",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/sk/domovska-stranka"
+  },
+  {
+   "label": "Monitorovanie nástrojov",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeugueberwachung",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-monitoring",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/supervision-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/surveillance-des-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/monitorizacao-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/monitoraggio-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verktygsoevervakning",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeugueberwachung",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/surveillance-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E7%9B%A3%E8%A6%96",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/tool-monitoring",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/monitoreo-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/monitorizacao-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/0/1/csm_tool_monitoring_header_355bada07e.webp",
+     "video": null,
+     "title": "Monitorovanie nástrojov na zabezpečenie kvality",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7957",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\"><strong>Stav vášho náradia rozhoduje o kvalite obrobkov. Kontrola náradia preto už dlho patrí v rôznych formách medzi základy zabezpečenia kvality.</strong></p> <p class=\"extra-large-text\">Defektné alebo nedostatočne pripravené nástroje predstavujú problém z mnohých dôvodov. Môžu spôsobiť vznik celých sérií chybných výrobkov, pričom táto zmetkovosť často prebieha nepozorovane a postupne – a túto zmetkovosť určite chcete predísť.</p> <p class=\"extra-large-text\">Bez správneho monitorovania môže poškodený nástroj viesť aj k jeho zlomeniu alebo dokonca k poškodeniu strojov. To zase narušuje existujúce výrobné procesy, znižuje počet vyrobených dielov a skracuje životnosť vašich výrobných prostriedkov – to všetko sú dodatočné náklady, ktoré si efektívne fungujúci podnik nechce dovoliť.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7959",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Kontrola kvality a analýza opotrebenia </h2>",
+   "body": "<p>Preto by ste mali kontrolu kvality a analýzu opotrebenia systematicky začleniť do pracovných postupov vašej spoločnosti. Kontrola nástrojov a meranie ich kvality by malo byť súčasťou vašej každodennej práce.</p> <p>Dôležité je, aby boli výsledky merania jasne zdokumentované a priradené k jednotlivým nástrojom a ich miestu uloženia. Takto môžete zabezpečiť, že nástroj, ktorý je potrebné prebrúsiť, bude skutočne opäť pripravený pred jeho ďalším použitím. To zaručuje, že vaše stroje budú vždy pracovať s perfektne pripravenými nástrojmi.</p> <p>Kontrola a monitorovanie stavu nástrojov má mnoho výhod. Vaše vrtáky a obrábacie nástroje budú naďalej pracovať s plným výkonom a presnosťou, výrobné procesy vo vašej spoločnosti zostanú pod kontrolou a vy budete mať vždy prehľad o životnosti svojich nástrojov – a v prípade potreby môžete včas zabezpečiť ich doplnenie a výmenu.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/e/csm_csm_Werkzeug-3d-Optik-User-Hand-ZOLLER_3c28f0800c_254258e0fc.webp",
+     "alt": "",
+     "w": 1116,
+     "h": 1000
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7960",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Meranie a kontrola pomocou technológie spoločnosti ZOLLER </h2>",
+   "body": "<p>Meracie a kontrolné zariadenia ZOLLER zaručujú spoľahlivé a plynulé procesy v každej oblasti použitia. Pracujú presne, s vysokou opakovateľnosťou a nezávisle od obsluhy. Vďaka vhodnému riešeniu vám ponúkame ekonomické a plne automatické meranie všetkých parametrov nástrojov na účely monitorovania nástrojov. Vďaka tomu sa môžete na 100 % spoľahnúť, že vaša výroba pracuje s bezchybnými nástrojmi.</p> <p>Naše meracie a kontrolné zariadenia prenášajú údaje o požadovaných a skutočných hodnotách nástrojov elektronicky, v závislosti od konfigurácie aj bezdrôtovo. Vďaka vhodným rozhraniam je možné pripojiť takmer všetky systémy zapojené do procesu brúsenia. Zariadenia ZOLLER ponúkajú pripojenie k systémom ERP alebo CAM, k skladovaniu a k systémom výrobcov strojov, ako sú NUMROTO, Anca, MTS alebo rozhranie GDX 2.0.</p> <p><a class=\"btn\" href=\"/sk/produkty\">Zistite tu všetko o nastavovacích, kontrolných a meracích zariadeniach ZOLLER</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7961",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Systematická kontrola </h2>",
+   "body": "<p>Vďaka monitorovaniu nástrojov získate v okamihu merania v reálnom čase informácie o stave nástroja. Je geometria rezu správna, dochádza k otupeniu, hrozí zlomenie rezu? Meraním vašich presných nástrojov je možné zabrániť poškodeniu obrobkov a prerušeniu výrobných procesov alebo výrobných postupov.</p> <p>Samozrejme, rôzne aspekty správy a kontroly nástrojov je možné ďalej prepojiť. Spoločnosť ZOLLER na tento účel ponúka riešenia pre <strong>inteligentnú továreň</strong> (<strong>Smart</strong> <strong>Factory</strong>) a meracie techniky 4.0 prepojené prostredníctvom centrálnej databázy.</p> <p>U nás nájdete pre každý výrobný krok perfektné riešenie na kontrolu a meranie nástrojov – od vstupnej kontroly cez výrobu až po konečnú kontrolu. Samozrejme k tomu patria aj skladové systémy a automatizačné koncepty.</p> <p><a class=\"btn\" href=\"/sk/riesenia/kontrola-a-meranie\">Zistite viac o meracej technike 4.0</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7962",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Správa nástrojov: Vaše výhody",
+     "caption": "<figcaption> <h3>Správa nástrojov: Vaše výhody</h3> <p>Zistite, ako systém správy nástrojov od spoločnosti ZOLLER okamžite zvýši vašu produktivitu. Vďaka údajom o nástrojoch prebiehajú procesy rýchlejšie a bezpečnejšie – vrátane ochrany pred kolíziou pre vaše stroje. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Rozhovor s odborníkom",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Rozhovor s odborníkom</h3> <p>Individuálna diskusia o vašich cieľoch a našich nápadoch, ako ich dosiahnuť. Online poradenstvo spoločnosti ZOLLER priamo zo Smart Factory. Dohodnite si termín už teraz. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/sk/monitorovanie-nastrojov",
+ "de_path": "/werkzeugueberwachung"
+}

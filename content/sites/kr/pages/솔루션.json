@@ -1,0 +1,312 @@
+{
+ "path": "/솔루션",
+ "url": "/kr/%EC%86%94%EB%A3%A8%EC%85%98",
+ "title": "솔루션",
+ "description": "솔루션 - 왜 ZOLLER Solutions인가요?",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "솔루션",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "솔루션",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/7/5/csm_solutions_header_0ba171533c.webp",
+     "video": null,
+     "title": "모든 것이 완벽하게 조화를 이루어 최상의 시너지를 창출합니다",
+     "kicker": "",
+     "text": "<p>졸러(ZOLLER) 솔루션은 특정 용도에 특화되어 있으면서도 다양한 장비와의 호환성이 뛰어납니다. 바로<br/>이 점이 이 솔루션의 독보적인 성능을 만들어냅니다. </p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c609",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "66-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2 class=\"headline-decor\"> 현재와 미래, 두 가지 모두를 준비하다 </h2>",
+      "body": "<p class=\"extra-large-text\">졸러(ZOLLER) 솔루션은 부품 가공, 공구 제작, 연삭 공정 및 CNC 석재 가공 분야에서 시간과 비용, 자원 낭비를 최소화합니다.<br/>직관적인 사용성과 높은 공정 안정성을 바탕으로 생산 효율을 빠르게 향상시킬 수 있습니다.<br/>졸러(ZOLLER)는 오늘의 생산 경쟁력은 물론, 미래 제조 환경까지 함께 준비합니다.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c746",
+      "bg": "white",
+      "space": {
+       "before": "default",
+       "after": "none"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-2cols",
+   "id": "c1855",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "bento",
+   "header": "",
+   "intro": "",
+   "tiles": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/0/c/csm_header_presetting_805b97e0b6.webp",
+      "alt": ""
+     },
+     "text": "<h2>설정 및 측정</h2> <p>준비 시간을<br/>40% 이상 단축하세요. </p> <p><a class=\"btn\" href=\"/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95\">자세히 알아보기</a><a href=\"/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95\"> </a></p>",
+     "full": true
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/1/0/csm_teaser_toolmanagement_7103509fb4.webp",
+      "alt": ""
+     },
+     "text": "<h2>도구 관리</h2> <p>공구 창고, 소프트웨어, 오류 없는<br/>데이터 전송: 공구와 공구<br/>데이터를 더욱 효과적으로 활용하세요. </p> <p><a class=\"btn\" href=\"/kr/%EC%86%94%EB%A3%A8%EC%85%98/toolmanagement\">자세히 알아보기</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/c/7/csm_teaser_inspection_8db5d700b8.webp",
+      "alt": ""
+     },
+     "text": "<h2>검사 및 측정</h2> <p>품질 기록을 남기고 디지털<br/>트윈을 생성하세요.</p> <p><a class=\"btn\" href=\"/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95\">자세히 알아보기</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/a/3/csm_teaser_shrinking_f763ceca8f.webp",
+      "alt": ""
+     },
+     "text": "<h2>수축 기술</h2> <p>기록적인 시간 내에 공구의<br/>삽입 및 탈착.</p> <p><a class=\"btn\" href=\"/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%88%98%EC%B6%95-%EA%B8%B0%EC%88%A0\">자세히 알아보기</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/0/b/csm_teaser_tooling_b7ac4272bd.webp",
+      "alt": ""
+     },
+     "text": "<h2>공구 홀더</h2> <p>»idChip이« 탑재된 공구 홀더는 디지털 제조를 위한 완벽한<br/>인터페이스입니다.</p> <p><a class=\"btn\" href=\"/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94\">자세히 알아보기</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/01_Pages/Solutions/Automation/zoller_automation_komp.mp4",
+      "alt": ""
+     },
+     "text": "<h2>자동화</h2> <p>공구의 설정, 측정 및 검사부터 공구 공정 전반의 완전한<br/>자동화에 이르기까지 – ZOLLER가 해결책을 제시합니다. </p> <p><a class=\"btn\" href=\"/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%9E%90%EB%8F%99%ED%99%94\">자세히 알아보기</a></p>",
+     "full": true
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/a/8/csm_teaser_balancing_a6279efe6e.webp",
+      "alt": ""
+     },
+     "text": "<h2>밸런싱 기술</h2> <p>스핀들을 보호하고 품질을 보장하세요: 시중<br/>최고의 밸런싱 장비로. </p> <p><a class=\"btn\" href=\"/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EB%B0%B8%EB%9F%B0%EC%8B%B1-%EA%B8%B0%EC%88%A0\">자세히 알아보기</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/b/1/csm_teaser_solution_steinbearbeitung_e8c492c5c9.webp",
+      "alt": ""
+     },
+     "text": "<h2>CNC 석재 가공</h2> <p>다이아몬드 공구를 더 빠르게 준비하고<br/>, 윤곽 가공을 더욱 효율적으로 수행하세요.</p> <p><a class=\"btn\" href=\"/kr/%EC%86%94%EB%A3%A8%EC%85%98/cnc-%EC%84%9D%EC%9E%AC-%EA%B0%80%EA%B3%B5\">자세히 알아보기</a></p>",
+     "full": false
+    }
+   ],
+   "ftype": "zoller_image-grid",
+   "id": "c606",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "extra-small"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>1:1 전문가 상담</h3> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/expert/booking\" rel=\"noopener\" target=\"_blank\">지금 예약하기</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/kr/솔루션",
+ "de_path": "/solutions"
+}

@@ -1,0 +1,606 @@
+{
+ "path": "/solutions/tooling-solutions/faq",
+ "url": "/en_DE/solutions/tooling-solutions/faq",
+ "title": "Tooling Solutions - FAQ",
+ "description": "FAQ - Tooling Solutions - FAQ",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Home /",
+   "href": "/en_DE/home"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/en_DE/solutions"
+  },
+  {
+   "label": "Tooling Solutions",
+   "href": "/en_DE/solutions/tooling-solutions"
+  },
+  {
+   "label": "Home /",
+   "href": "/en_DE/home"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/en_DE/solutions"
+  },
+  {
+   "label": "Tooling Solutions",
+   "href": "/en_DE/solutions/tooling-solutions"
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/werkzeugaufnahmen/faq",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/tooling-solutions/faq",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/portaherramientas/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/fixation-doutil/faq",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/porta-ferramentas/perguntas-frequentes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/soluzioni-dutensileria/domande-frequenti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/verktygshaallare/vanliga-fraagor",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/werkzeugaufnahmen/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/tooling-solutions/faq",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/porte-outils/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B7%A5%E5%85%B7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/tooling-solutions/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/porta-herramientas/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/porta-ferramentas/perguntas-frequentes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Tooling Solutions",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/en_DE/solutions/tooling-solutions",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/en_DE/solutions/tooling-solutions/faq",
+     "current": false
+    },
+    {
+     "label": "Info Pool",
+     "href": "/en_DE/solutions/tooling-solutions/info-pool",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1414",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> FAQ </h1>",
+      "body": "<p>Frequently asked questions</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c1426",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "What requirements must my production fulfill in order to use the »idChip«?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>The first important requirement is a suitable scanner to be able to scan the DataMatrix code. You need the appropriate software to manage the tool data. ZOLLER offers you both with »zidCode 4.0« and the TMS Tool Management Solutions software.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1455",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Is it possible to index tools with the »idChip« at a later date?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Yes, this is possible at any time. Simply contact our sales department if you would like to equip your tools with the ZOLLER »idChip«.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1453",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "What are the advantages of the »idChip« compared to coding with adhesive labels?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>We recommend »idLabel« more for turning tools and fixtures because they are not rotating. The »idChip« is the better choice for rotating tools. It is attached to the holder, where it is protected but still easily recognizable. You can simply glue the »idChip« in place with 2-component adhesive. This can be obtained from us or from other suppliers.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1451",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "ZOLLER is known as a manufacturer of presetting and measuring devices. Does ZOLLER also manufacture the Tooling Solutions tool holders itself?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>ZOLLER cooperates closely with Schüssler as a partner for tool holders. Schüssler manufactures the tool holders, ZOLLER supplies the »idChip« and makes purchasing tool holders quick, easy and convenient via the new ZOLLER webshop.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1449",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "What is the service life of the shrink fit holder? How often can tools be shrunk and unshrunk in the holder?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>If ZOLLER Tooling Solutions' heating and cooling systems are processed correctly, they can be used for more than 10,000 shrink cycles without loss of accuracy for tool holders with a bore diameter of more than 6 mm. For diameters of 5 mm and below, the number of cycles is 5,000.</p> <p>The correct processing by heating and cooling is supported by the ZOLLER »actbyLight« technology to ensure the correct and safe processing of the shrink cycles.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c1447",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Why should we use balanced tool holders?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Balanced tool holders increase productivity. The positive results of using balanced tool holders are visible in many areas of the machining process. Longer tool and spindle life and a higher cutting volume are just some of the factors that can reduce production costs immensely.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1445",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Up to what length are ZOLLER Tooling Solutions available?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>The ZOLLER Tooling Solutions have a GPL holder length of 200 mm (overhang length A).</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1443",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Are balanced ER collet chucks available?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>With the ZOLLER Tooling Solutions, balancing collet chucks ER are also available. For the balancing process, the lock nut is mounted and a master pin is used to simulate the cutting tool.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1441",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "What is the material of the shrink holder made of?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>ZOLLER uses shrink-fit holders made of heat-resistant tool steel for the production of ZOLLER Tooling Solutions.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1439",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "What are the differences between shrink fit chucks, collet chucks and hydraulic tool clamping systems?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>No other clamping system can match the hold, concentricity and performance of a shrink fit interface. As shrink fit fixtures do not require collets, collet nuts or set screws, the nose diameters can be very slim so that even hard-to-reach areas can be machined.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1437",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "What shank tolerance is required so that the cutting tools can be used in shrink fit holders?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>The tolerance for the shank of the cutting tool should be h5 or h6.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1435",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Where can I buy ZOLLER Tooling Solutions tool holders?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Orders can be placed online via the ZOLLER <a class=\"link-arrow\" href=\"https://myzoller.com/de/de/shop/tooling/\" rel=\"noopener\" target=\"_blank\"><strong>MYZOLLER portal</strong></a> portal. Online orders can currently be placed in Germany and the USA. In other countries, it is possible to select the tool holder via the MYZOLLER portal and send the generated article list to the respective regional ZOLLER salesperson and request the offer.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1433",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Are the tool holders balanced after adding the ZOLLER »idChip« or other RFID chip?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>If the tool holders are ordered with ZOLLER »idChip« or other RFID chips, the tool holders are balanced with the chips.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1431",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "How long are the delivery times for all types of ZOLLER Tooling Solutions?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>It is possible to check stock availability for ZOLLER Tooling Solutions online at any time via the webshop.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1429",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Is it possible to receive the digital formats dxf, png and stp for the ZOLLER Tooling Solutions before I send an order for the corresponding tool holders?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>The digital twins are available in the ZOLLER Tooling Solution Webshop, where they can be downloaded at any time and used in the ZOLLER TMS Tool Management Solutions software or other CAD/CAM systems.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1457",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c1427",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c1425",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Now it's your turn – grab it! </h2>",
+   "body": "<p>The complete range of tool clamping systems is now available in our web store. Find your perfect tool holder easily, quickly and conveniently and use the digital twin available there immediately in your CAM and tool management system.</p> <p><a class=\"btn\" href=\"https://myzoller.com/us/en/shop/tooling\" rel=\"noopener\" target=\"_blank\">To the tooling store</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/d/csm_zum_myzoller_shop_704443f1bc.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1458",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/en_DE/solutions/tooling-solutions/faq",
+ "de_path": "/solutions/werkzeugaufnahmen/faq"
+}

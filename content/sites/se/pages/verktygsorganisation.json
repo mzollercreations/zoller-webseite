@@ -1,0 +1,435 @@
+{
+ "path": "/verktygsorganisation",
+ "url": "/se/verktygsorganisation",
+ "title": "Verktygsorganisation",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Verktygsorganisation",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Verktygsorganisation",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeugorganistation",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-organization",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/organizacion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/organisation-des-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/organizacao-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/organizzazione-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verktygsorganisation",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeugorganistation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/tool-organization",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/organisation-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%95%B4%E7%90%86",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EC%A0%95%EB%A6%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/tool-organization",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/organizacion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/organizacao-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/7/e/csm_toolorga_header_d09c850eda.webp",
+     "video": null,
+     "title": "En välorganiserad verktygshantering ger ökad effektivitet",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7972",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">En bättre verktygsorganisation ger inte bara ett bättre ytligt ordning i verksamheten – den minskar också konkret maskinstilleståndet och ökar därmed effektiviteten i er tillverkning. Hur går det till?</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7974",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Att organisera verktyg är mer än bara att städa </h2>",
+   "body": "<p>I verkligheten och i praktiken på en verkstad är det nästan omöjligt att helt undvika lite oreda – men en stor del av detta beror på om varje verktyg har en egen plats där det kan och ska läggas undan.</p> <p>Det är i grunden kärnan i all verktygsorganisation: att varje verktygsdel alltid går att hitta. Om du slipper leta efter verktygen sparar du inte bara besvär och frustration, utan också mycket arbetstid och nerver. Dina maskiner behöver inte vänta på nästa användning, verktygen ligger inte och skräpar – och du kan göra ditt arbete betydligt effektivare.</p> <p>På ZOLLER strävar vi efter en helhetsinriktad och omfattande syn på verktygsorganisation. Därför kombinerar vi vår <strong>moduluppbyggda programvara</strong> för verktygshantering med <strong>smarta lagringssystem</strong>, som tillsammans ser till att du alltid har koll på var ett visst verktyg befinner sig just nu – och i vilket skick det är, om det finns tillräckligt med reservdelar kvar, om påfyllning måste beställas och mycket mer.</p> <p>Och eftersom verktyget naturligtvis är avsett för en viss uppgift ingår även digital, felfri och trådlös <strong>överföring av verktygsdata</strong> till maskinen i en fullständig, helhetsinriktad verktygsorganisation. Så att du kan koncentrera dig på det väsentliga: effektiv och resultatinriktad tillverkning av dina komponenter.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7975",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Minimala driftstopp: Effektivt utnyttjande av tid och arbetskraft",
+    "Fullständig insyn i alla verktygs placering och skick, när som helst",
+    "Inga brister i leveranserna: Översikt över utbyte och efterbeställningar"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c7976",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Programvara för verktygshantering som uppfyller alla behov </h2>",
+   "body": "<p><strong>Effektiv verktygshantering handlar framför allt om datahantering.</strong> </p> <p>Det börjar med att registrera verktygsdata för dina enskilda komponenter, såsom skärmaterial och vikt, i inställnings- eller mätinstrumentet och mata in dem i systemet. Tillsammans med inställningsblad och ytterligare information samlas på så sätt allt du behöver veta om ett verktyg på en central plats och är tillgängligt för alla medarbetare när som helst.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/9/csm_digital_durchstarten_webTMS_16feff8d28.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7977",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-33-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Verktygshantering på ett enkelt sätt </h2>",
+      "body": "<p>Med vår programvara <strong>TMS Tool Management Solutions</strong> erbjuder vi allt du behöver för verktygshantering redan i BRONZE-paketet. Detta inkluderar framför allt följande funktioner:</p><ul><li>Import av verktygsdata från tillverkarnas kataloger eller från molnet – säkert, felfritt och snabbt</li><li>Verktygsdata kan hämtas från mobila enheter</li><li>Fullständig integration av din ZOLLER-mät- och inställningsenhet</li><li>Varje verktygsinställning kan sparas och hämtas omedelbart</li></ul><p><a class=\"btn\" href=\"/se/produkter/verktygshantering/tms-verktygshanteringsloesningar/programvarupaket/bronze-cad/cam-modul\">Läs allt om programvarupaketet BRONZE</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/d/1/csm_software_bronze_19edbebfe9.webp",
+        "alt": "",
+        "w": 680,
+        "h": 429
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7980",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Verktygsorganisationen slutar inte vid lagret </h2>",
+      "body": "<p><strong>Var exakt finns verktyget, och i vilket skick är det?</strong> Ni når nästa nivå inom verktygshanteringen när ni även digitaliserar och optimerar er lagerhantering, och på så sätt kan hålla koll på ert <strong>verktygsbestånd</strong> utifrån behov och kvalitet. Konkret innebär det att:</p><ul><li>Sökningstiderna minskar,</li><li>inställningstiderna förkortas och</li><li>verktygsinställningen sker nästan automatiskt.</li></ul><p>Vårt SILVER-paket innehåller alla dessa funktioner och gör det möjligt för dig att inte bara hålla koll på var enskilda verktyg finns och hur de används, utan också att effektivt och i god tid se till att det finns tillräckligt med delar och reservdelar. Det innebär full integration även av <strong>verktygsövervakning för kvalitetskontroll och slitanalys</strong>.</p> <p><a class=\"btn\" href=\"/se/produkter/verktygshantering/tms-verktygshanteringsloesningar/programvarupaket/silver-verksamhetsorganisation\">Läs allt om programvarupaketet SILVER</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/e/0/csm_software_silver_d66477a30d.webp",
+        "alt": "",
+        "w": 680,
+        "h": 429
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7981",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Verktygsorganisationen – en ny version </h2>",
+      "body": "<p>GOLD-standarden för verktygshantering integrerar verktygen fullständigt i alla processer inom ditt företag och gör det möjligt för dig att i realtid kontrollera hur effektivt och till vilka kostnader ett verktyg har använts. På så sätt får du <strong>full kostnadskontroll och transparens</strong> i hela verktygshanteringen genom hela processkedjan.</p> <p>Genom att systemet för verktygshantering dokumenterar hur enskilda verktyg har använts i olika uppdrag kan du ta fram statistik som ger dig en exakt bild av effektiviteten i ditt arbete. Allt detta möjliggörs av GOLD-paketet i vår programvara, och dessutom:</p><ul><li>Maximal effektivitet i din verktygsdatahantering</li><li>Systematisk hantering av tillverkningsorder och inställningsblad</li><li>Integrerad livslängdshantering</li><li>Valfri integration i beställningssystemet, inklusive leverantörshantering</li></ul><p><a class=\"btn\" href=\"/se/produkter/verktygshantering/tms-verktygshanteringsloesningar/programvarupaket/gold-butikschefsarbete\">Läs allt om programvarupaketet GOLD</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/e/a/csm_software_gold_79cf4e6793.webp",
+        "alt": "",
+        "w": 680,
+        "h": 429
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7982",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-33-33-33",
+   "id": "c7979",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Verktygshantering som underlättar ditt arbete </h2>",
+   "body": "<p><strong>En verktygshanteringslösning är bara så bra som dess förmåga att på sikt underlätta arbetet för dig och dina medarbetare.</strong> Vår programvara <strong>TMS Tool Management Solutions</strong> är utformad för <strong>att fungera</strong> fullständigt och smidigt <strong>tillsammans med befintliga databaser, maskiner, lagringssystem och mätinstrument</strong>. Så att den avlastar dig, ökar din effektivitet och underlättar arbetet i verkstaden.</p> <p>Tack vare den modulära uppbyggnaden av våra programvarupaket har du möjlighet att välja endast de funktioner som du verkligen behöver. Och du kan när som helst lägga till nya funktioner om du vill ta din verktygsorganisation till en högre nivå.</p> <p>Kontakta oss, vi ger dig gärna råd om alla detaljer och tar fram en skräddarsydd offert åt dig!</p> <p>Mer om webTMS</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/6/csm_webTMS_devices_9783f65f1d.webp",
+     "alt": "",
+     "w": 1484,
+     "h": 1066
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7983",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Verktyg, smart förvarade </h2>",
+   "body": "<p>Våra smarta förvaringsskåp är det perfekta komplementet till verktygshantering via programvara – eftersom de ger automatiserad och välorganiserad direktåtkomst till de verktyg som efterfrågas.</p> <p>Dessutom är de till stor hjälp vid hantering och organisering av allt du behöver i din verkstads vardag. I de olika modellerna av våra Smart Cabinets kan du systematiskt förvara de mest skiftande material – från verktyg och komponenter till förbrukningsmaterial, tillbehör eller mät- och provningsutrustning. Ska verktygen användas? I våra förvaringssystem hittar du omedelbart det du behöver.</p> <p>Från <a class=\"link-arrow\" href=\"/se/produkter/verktygshantering/verktygsmontering/toolstation\">arbetsbänken</a> med all komfort (och utrymme) för verktygsmontering, där alla komponenter finns inom räckhåll, till den flexibla <a class=\"link-arrow\" href=\"/se/produkter/verktygshantering/verktygstransport/toolcart\">verktygsvagnen</a> med plats för över 100 olika verktyg och den stora <a class=\"link-arrow\" href=\"/se/produkter/verktygshantering/verktygslager/maalvakt\">skåpet för kompletta verktyg</a> och adaptrar – var och en av förvaringsmöjligheterna säkerställer optimal förvaring och hantering av dina verktyg och material.</p> <p>I vår översikt hittar du alla Smart Cabinets och förvaringslösningar – det finns säkert en passande variant även för din verkstad!</p> <p>Allt om våra förvaringssystem</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/5/csm_toolmanagement_02_7e37951c35.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7984",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Verktygshantering: Fördelarna för er",
+     "href": "/se/loesningar/tool-management",
+     "caption": "<figcaption> <h3>Verktygshantering: Fördelarna för er</h3> <p>Upptäck hur ZOLLER:s verktygshantering omedelbart ökar din produktivitet. Med verktygsdata går processerna snabbare och säkrare – inklusive kollisionsskydd för dina maskiner. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1-samtal med en expert",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1-samtal med en expert</h3> <p>Ett personligt samtal om era mål och våra idéer för att uppnå dem. ZOLLER:s online-rådgivning direkt från Smart Factory. Boka en tid redan nu. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/se/verktygsorganisation",
+ "de_path": "/werkzeugorganistation"
+}

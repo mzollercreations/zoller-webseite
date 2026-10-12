@@ -51,7 +51,7 @@ python3 tools/fetch_images.py
 python3 tools/build.py
 ```
 
-## Länderseiten (Kanada, Mexiko, USA)
+## Länderseiten (22 Länder)
 
 Aus diesem Repository werden zusätzlich eigene Webseiten für einzelne Länder erzeugt – gleiches Design, gleiche Technik, aber Sprache, Kontakt, Adresse, Rechtstexte, Events und News des jeweiligen Landes. Jede Länderseite liegt in einem eigenen GitHub-Repository:
 
@@ -60,14 +60,35 @@ Aus diesem Repository werden zusätzlich eigene Webseiten für einzelne Länder 
 | Kanada | Englisch, Französisch (`/fr/`) | [zoller-canada](https://github.com/mzollercreations/zoller-canada) | https://mzollercreations.github.io/zoller-canada/ |
 | Mexiko | Spanisch | [zoller-mexico](https://github.com/mzollercreations/zoller-mexico) | https://mzollercreations.github.io/zoller-mexico/ |
 | USA | Englisch | [zoller-usa](https://github.com/mzollercreations/zoller-usa) | https://mzollercreations.github.io/zoller-usa/ |
+| Österreich | Deutsch | [zoller-austria](https://github.com/mzollercreations/zoller-austria) | https://mzollercreations.github.io/zoller-austria/ |
+| Spanien | Spanisch | [zoller-spain](https://github.com/mzollercreations/zoller-spain) | https://mzollercreations.github.io/zoller-spain/ |
+| Frankreich | Französisch | [zoller-france](https://github.com/mzollercreations/zoller-france) | https://mzollercreations.github.io/zoller-france/ |
+| Portugal | Portugiesisch | [zoller-portugal](https://github.com/mzollercreations/zoller-portugal) | https://mzollercreations.github.io/zoller-portugal/ |
+| Italien | Italienisch | [zoller-italy](https://github.com/mzollercreations/zoller-italy) | https://mzollercreations.github.io/zoller-italy/ |
+| Schweden | Schwedisch | [zoller-sweden](https://github.com/mzollercreations/zoller-sweden) | https://mzollercreations.github.io/zoller-sweden/ |
+| Polen | Polnisch | [zoller-poland](https://github.com/mzollercreations/zoller-poland) | https://mzollercreations.github.io/zoller-poland/ |
+| Slowenien | Slowenisch | [zoller-slovenia](https://github.com/mzollercreations/zoller-slovenia) | https://mzollercreations.github.io/zoller-slovenia/ |
+| Tschechien | Tschechisch | [zoller-czechia](https://github.com/mzollercreations/zoller-czechia) | https://mzollercreations.github.io/zoller-czechia/ |
+| Ungarn | Ungarisch | [zoller-hungary](https://github.com/mzollercreations/zoller-hungary) | https://mzollercreations.github.io/zoller-hungary/ |
+| Slowakei | Slowakisch | [zoller-slovakia](https://github.com/mzollercreations/zoller-slovakia) | https://mzollercreations.github.io/zoller-slovakia/ |
+| China | Chinesisch | [zoller-china](https://github.com/mzollercreations/zoller-china) | https://mzollercreations.github.io/zoller-china/ |
+| Japan | Japanisch | [zoller-japan](https://github.com/mzollercreations/zoller-japan) | https://mzollercreations.github.io/zoller-japan/ |
+| Südkorea | Koreanisch | [zoller-korea](https://github.com/mzollercreations/zoller-korea) | https://mzollercreations.github.io/zoller-korea/ |
+| Indien | Englisch | [zoller-india](https://github.com/mzollercreations/zoller-india) | https://mzollercreations.github.io/zoller-india/ |
+| Brasilien | Portugiesisch (Brasilien) | [zoller-brazil](https://github.com/mzollercreations/zoller-brazil) | https://mzollercreations.github.io/zoller-brazil/ |
+| Vereinigtes Königreich | Englisch | [zoller-uk](https://github.com/mzollercreations/zoller-uk) | https://mzollercreations.github.io/zoller-uk/ |
+| Russland | Russisch | [zoller-russia](https://github.com/mzollercreations/zoller-russia) | https://mzollercreations.github.io/zoller-russia/ |
+| Türkei | Türkisch | [zoller-turkey](https://github.com/mzollercreations/zoller-turkey) | https://mzollercreations.github.io/zoller-turkey/ |
 
-- **Inhalte**: die offiziellen Sprachfassungen von zoller.info (`/ca/`, `/ca-fr/`, `/mx/`) – keine eigene Übersetzung der Seiteninhalte. Jede Seite kennt über `hreflang` ihr deutsches Gegenstück; darüber springt der Länderwechsel auf dieselbe Seite im anderen Land, und 3D-Produktbühnen, Kontakt- und Datenschutz-Links werden zugeordnet.
+- **Inhalte**: die offiziellen Sprachfassungen von zoller.info (`/ca/`, `/ca-fr/`, `/mx/`, `/at/`, `/es/`, `/fr/`, `/pt/`, `/it/`, `/se/`, `/pl/`, `/si/`, `/cz/`, `/hu/`, `/sk/`, `/cn/`, `/jp/`, `/kr/`, `/in/`, `/br/`, `/uk/`) – Fehler der zoller.info-Übersetzungen werden in `content/sites/<land>/corrections.json` korrigiert. Produktnamen werden nie übersetzt, auch wenn zoller.info sie übersetzt hat (`tools/names.py`). Jede Seite kennt über `hreflang` ihr deutsches Gegenstück; darüber springt der Länderwechsel auf dieselbe Seite im anderen Land, und 3D-Produktbühnen, Kontakt- und Datenschutz-Links werden zugeordnet.
+- **Russland und Türkei**: zoller.info hat keine russische oder türkische Fassung. Beide Seiten sind Klone der internationalen englischen Fassung (`tools/clone_locale.py en_DE ru|tr`), alle Texte von Hand übersetzt in `content/sites/ru|tr/translations.json`; Texte in `value`-Feldern (Kennzahlen, Listen) stehen in `corrections.json`. Feste Texte: `tools/i18n_texts/ru.json`, `tr.json`. Produktnamen bleiben in jeder Sprache unübersetzt in »…« (türkische Endungen mit Apostroph: »titan«'ın).
+- **Startseite mit Standort**: USA (Ann Arbor), Japan (Osaka) und China (Shanghai) zeigen nach der Kamerafahrt ihren Hauptsitz mit Gebäudefoto (`content/sites/<land>/home.json`). Nur wo es ein echtes Foto des Standorts gibt.
 - **USA**: zoller.info hat keine eigene US-Fassung (`/us/` leitet auf zoller-usa.com um). Die USA-Seite nutzt deshalb die englischen Inhalte von Kanada (`"src": "ca"` in `content/sites.json`) mit eigener Flagge, Firma (ZOLLER Inc., Ann Arbor) und Formular-Adresse. Abweichende Seiten liegen im Overlay `content/sites/us/pages/` (z. B. Ansprechpartner mit den US-Standorten) und ersetzen die gleichnamige Seite von Kanada; Textersetzungen gingen in `content/sites/us/replace.json`. Alte Links auf zoller.info/us/… und zoller-usa.com zeigen auf die USA-Seite.
 - **Feste Texte** (Buttons, Menüs, Footer, Globus …): `tools/i18n.py`, Schlüssel ist der deutsche Text. Fehlende Übersetzungen meldet `build.py` am Ende.
 - **Länder, Sprachen, Adressen, Repositories**: `content/sites.json`. Ein weiteres Land = neuer Eintrag dort plus die Schritte unten.
-- **Länderwechsel mit Globus**: Knopf mit Weltkugel und Flagge des aktuellen Landes im Header (und im Footer) öffnet „Land und Sprache wählen“ – links der 3D-Globus (`assets/js/countryglobe.js`, lädt erst beim ersten Öffnen), rechts die Liste. Jede Länderseite steht mit Flagge auf ihrem Hauptsitz (Pleidelsheim, Mississauga, Querétaro, Ann Arbor), die übrigen ZOLLER-Länderseiten als weiße Punkte. Zeigen auf ein Land blendet die Route vom aktuellen Land ein; ein Klick fliegt als Lichtpunkt dorthin, zoomt auf den Hauptsitz, blendet „ZOLLER | LAND“ ein und öffnet dieselbe Seite im anderen Land, die aus dem Schwarz aufblendet. Ohne WebGL bleibt die Liste, bei reduzierter Bewegung entfällt der Flug. Lage, Blickpunkt und Seite der Beschriftung: `geo` in `content/sites.json`. Flaggen: `tools/flags.py` (auch für den 3D-Showroom). Neben dem Logo steht der Ländername; in Kanada wechselt „FR“/„EN“ direkt die Sprache. Gemeinsame Globus-Teile (Kugel, Landpunkte, Messring, Markierungen) liegen in `assets/js/globe-core.js` und werden auch vom Standorte-Globus genutzt.
-- **Events nach Land**: Alle Firmenevents weltweit stehen in `content/events.json` (Land, Ort, Kurztext, Beschreibung, Ablauf, offizielle Website – Texte in DE/EN/FR/ES). Die Eventseite jeder Länderseite zeigt zuerst nur die Events ihres Landes; „Weltweit“ zeigt alle, die Chips darunter ein anderes Land (`?events=all` öffnet direkt alle). Vergangene Events fallen beim Bauen und im Browser weg.
-- **Jedes Event in jeder Sprache**: „Mehr erfahren“ führt immer auf eine Eventseite in der Sprache der Länderseite – nie auf die deutsche Seite und nicht auf MYZOLLER (zeigt diese Events nur auf Deutsch). `build.py` erzeugt für jedes Event aus `events.json` eine eigene Seite (`/events/<id>`, `/evenements/<id>`, `/eventos/<id>`); Events mit handgebauter Seite (`page`, z. B. Automation Week Torrance, Automation Days Ann Arbor) brauchen diese Seite in jeder Sprachfassung (`content/pages`, `content/sites/ca|ca-fr|mx/pages` mit `de_path`). Fehlt eine Sprache, meldet `build.py` am Ende „ACHTUNG: … Events ohne Seite“. Neues Event: Eintrag mit allen vier Sprachen in `events.json`, alle Seiten neu bauen.
+- **Länderwechsel mit Globus**: Knopf mit Weltkugel und Flagge des aktuellen Landes im Header (und im Footer) öffnet „Land und Sprache wählen“ – links der 3D-Globus (`assets/js/countryglobe.js`, lädt erst beim ersten Öffnen), rechts die Liste. Jede Länderseite steht mit Flagge auf ihrem Hauptsitz (z. B. Pleidelsheim, Mississauga, Querétaro, Ann Arbor, Moskau, Bursa), die übrigen ZOLLER-Länderseiten als weiße Punkte. Zeigen auf ein Land blendet die Route vom aktuellen Land ein; ein Klick fliegt als Lichtpunkt dorthin, zoomt auf den Hauptsitz, blendet „ZOLLER | LAND“ ein und öffnet dieselbe Seite im anderen Land, die aus dem Schwarz aufblendet. Ohne WebGL bleibt die Liste, bei reduzierter Bewegung entfällt der Flug. Lage, Blickpunkt und Seite der Beschriftung: `geo` in `content/sites.json`. Flaggen: `tools/flags.py` (auch für den 3D-Showroom). Neben dem Logo steht der Ländername; in Kanada wechselt „FR“/„EN“ direkt die Sprache. Gemeinsame Globus-Teile (Kugel, Landpunkte, Messring, Markierungen) liegen in `assets/js/globe-core.js` und werden auch vom Standorte-Globus genutzt.
+- **Events nach Land**: Alle Firmenevents weltweit stehen in `content/events.json` (Land, Ort, Kurztext, Beschreibung, Ablauf, offizielle Website – Texte in allen Sprachen der Länderseiten). Die Eventseite jeder Länderseite zeigt zuerst nur die Events ihres Landes; „Weltweit“ zeigt alle, die Chips darunter ein anderes Land (`?events=all` öffnet direkt alle). Vergangene Events fallen beim Bauen und im Browser weg.
+- **Jedes Event in jeder Sprache**: „Mehr erfahren“ führt immer auf eine Eventseite in der Sprache der Länderseite – nie auf die deutsche Seite und nicht auf MYZOLLER (zeigt diese Events nur auf Deutsch). `build.py` erzeugt für jedes Event aus `events.json` eine eigene Seite (`/events/<id>`, `/evenements/<id>`, `/eventos/<id>`); Events mit handgebauter Seite (`page`, z. B. Automation Week Torrance, Automation Days Ann Arbor) brauchen diese Seite in jeder Sprachfassung (`content/pages`, `content/sites/ca|ca-fr|mx/pages` mit `de_path`). Fehlt eine Sprache, meldet `build.py` am Ende „ACHTUNG: … Events ohne Seite“. Neues Event: Eintrag mit allen Sprachen in `events.json`, alle Seiten neu bauen.
 - **USA**: Startseite mit dem nordamerikanischen Hauptsitz in Ann Arbor direkt nach der Kamerafahrt (`content/sites/us/home.json`, Bilder aus der Firmenchronik und der Reise-Seite der Technology Days) und eigene Eventseite „ZOLLER Automation Days 2026“ (`content/sites/us/pages/`).
 - **Header passt sich an**: Passen Menü und Werkzeuge nicht nebeneinander (lange Menütexte, z. B. Französisch), blendet `assets/js/main.js` stufenweise Zusätze aus (`fit-1` … `fit-5` in `main.css`: Meta-Links, EN/FR-Umschalter, kurzer 3D-Knopf, kleinere Menüschrift, zuletzt Burger-Menü).
 
@@ -88,18 +109,18 @@ python3 -m http.server 8767 --directory dist     # http://localhost:8767/zoller-
 tools/publish.sh mx
 ```
 
-Nach Änderungen an Design oder Skripten alle vier Seiten neu bauen: `python3 tools/build.py`, `tools/publish.sh ca`, `tools/publish.sh mx`, `tools/publish.sh us`.
+Nach Änderungen an Design oder Skripten alle Seiten neu bauen: `python3 tools/build.py` und `tools/publish.sh <land>` für jedes Land aus `content/sites.json` (ca, mx, us, at, es, fr, pt, it, se, pl, si, cz, hu, sk, cn, jp, kr, in, br, uk, ru, tr).
 
 ### Unabhängig von zoller.info
 
-Alle vier Seiten (Deutschland, Kanada, Mexiko, USA) funktionieren ohne zoller.info – die alte Seite kann abgeschaltet werden:
+Alle Seiten (Deutschland und alle Länderseiten) funktionieren ohne zoller.info – die alte Seite kann abgeschaltet werden:
 
 - **Dateien**: Bilder, PDFs, Videos und Icons liegen auf der jeweiligen Seite (`fileadmin/`). `build.py` übernimmt sie aus `docs/` oder lädt fehlende einmalig nach. Blätterkataloge werden durch das komplette PDF des Katalogs ersetzt (Zuordnung: `content/flipbooks.json`).
 - **Links**: Jeder Link zeigt auf die eigene Seite – Links in andere Sprachfassungen von zoller.info werden über das deutsche Gegenstück oder den Produktnamen auf die eigene Seite umgeleitet, USA-Links (zoller.info/us/…, zoller-usa.com) auf die eigene USA-Seite. Was es nirgends gibt (z. B. auf zoller.info schon gelöschte Stellenanzeigen), wird zu Text; `build.py` meldet solche Fälle am Ende.
 - **News**: Alte Abfrage-Links (`…/detail?tx_news_pi1[news]=…`) sind lesbaren Artikelpfaden zugeordnet (`content/queries.json`, `content/sites/<sprachpfad>/queries.json`). Gibt es einen Artikel auf zoller.info nur in einer anderen Sprache, übernimmt `fetch_missing.py` die offizielle Übersetzung (z. B. Kanada-Englisch aus der US- oder Indien-Fassung).
 - **Formulare** (Kontakt, Newsletter, Bewerbung, Ticketcodes …) öffnen eine fertig ausgefüllte E-Mail an die Landesgesellschaft (`assets/js/main.js`); E-Mail-Adresse aus `content/sites.json`.
 - **Übersetzungen**: Was auf zoller.info in der Landessprache fehlt, steht in `content/sites/<sprachpfad>/translations.json` (Text → Übersetzung, auch für Bildtexte und Tooltips) und wird beim Bauen ersetzt.
-- **3D-Showroom**: Jede Sprachfassung verlinkt den Showroom in ihrer Sprache (`zoller-produktumgebung-3d/en-ca/`, `/fr-ca/`, `/es-mx/`, `/en-us/`, erzeugt dort mit `tools/build_locale.py`). Auch dort wechselt ein Knopf mit Weltkugel und Flagge Land und Sprache.
+- **3D-Showroom**: Jede Sprachfassung verlinkt den Showroom in ihrer Sprache (`zoller-produktumgebung-3d/<sprache-land>/`, z. B. `/en-ca/`, `/ru-ru/`, `/tr-tr/`; alle erzeugt dort mit `tools/build_locale.py` aus `content/sites.json`, feste Texte in `tools/i18n.json`). Auch dort wechselt ein Knopf mit Weltkugel und Flagge Land und Sprache.
 
 ## HubSpot (Content Hub)
 

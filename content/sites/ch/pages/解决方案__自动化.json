@@ -1,0 +1,498 @@
+{
+ "path": "/解决方案/自动化",
+ "url": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E8%87%AA%E5%8A%A8%E5%8C%96",
+ "title": "自动化",
+ "description": "自动化",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "解决方案 /",
+   "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88"
+  },
+  {
+   "label": "自动化",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "解决方案 /",
+   "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88"
+  },
+  {
+   "label": "自动化",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/automation",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/automation",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/automatizacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/automatisation",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/automacao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/automazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/automatisering",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/automation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/automation",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/automatisation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E8%87%AA%E5%8B%95%E5%8C%96",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%9E%90%EB%8F%99%ED%99%94",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/automation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/automatizacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/automacao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/01_Pages/Solutions/Automation/zoller_automation_komp.mp4",
+     "title": "自动化",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c2805",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "subnav",
+   "title": "自动化",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "概览",
+     "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E8%87%AA%E5%8A%A8%E5%8C%96",
+     "current": false
+    },
+    {
+     "label": "刀具流通",
+     "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E8%87%AA%E5%8A%A8%E5%8C%96/%E7%89%A9%E6%B5%81",
+     "current": false
+    },
+    {
+     "label": "刀具准备",
+     "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%B7%A5%E5%85%B7%E5%87%86%E5%A4%87",
+     "current": false
+    },
+    {
+     "label": "刀具配置",
+     "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%B7%A5%E5%85%B7%E9%85%8D%E7%BD%AE",
+     "current": false
+    },
+    {
+     "label": "刀具检测",
+     "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%88%80%E5%85%B7%E6%A3%80%E6%B5%8B",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c2273",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>ZOLLER自动化解决方案，与众不同，更胜一筹。将刀具流程的效率推向极致。</h3>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2271",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>ZOLLER自动化解决方案，让所有刀具相关流程实现全面自动化。从预调和测量设备上的辅助机器人，到全新的»coraMeasure LG«龙门解决方案，再到包括机床上下料在内的仓储区域全自动化，ZOLLER为您提供一切可能。即刻开始，逐步构建您的智能工厂。 </strong></p> <p>自动化可提高经济效益。它减轻了专业人员在刀具装配或将刀具运送至数控机床时的负担。不仅降低了成本，确保了刀具的可用性，还提高了生产效率。 </p> <p>借助 ZOLLER 自动化解决方案，您可灵活地实现自动化。所有解决方案相互衔接，并涵盖包含所有 CNC 机床在内的整个生产层面。 </p> <p><a class=\"btn\" href=\"/ch/%E4%BA%A7%E5%93%81/%E8%87%AA%E5%8A%A8%E5%8C%96\">显示产品</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2270",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2272",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "quotes",
+   "header": "",
+   "slides": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/8/5/csm_toolBalancer_Alexander_Zoller2_7bc76f629f.webp",
+      "alt": ""
+     },
+     "text": "<p class=\"extra-large-text\">现在正是对制造过程中刀具供应进行现代化改造的最佳时机。ZOLLER的模块化自动化方案为每一家制造企业通往“智能工厂”铺平道路。 </p> <p><strong>亚历山大·卓勒，总经理</strong></p>",
+     "right": true,
+     "quote": true,
+     "dark": true
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/2/7/csm_toolBalancer_Christoph_Zoller2_490ea1f2a5.webp",
+      "alt": ""
+     },
+     "text": "<p class=\"extra-large-text\">ZOLLER 自动化解决方案是您理所当然的下一步台阶。借助创新技术，提升您的生产效率。</p> <p><strong>克里斯托夫·卓勒，总经理</strong></p>",
+     "right": false,
+     "quote": true,
+     "dark": true
+    }
+   ],
+   "ftype": "zoller_slider-full-width",
+   "id": "c2269",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "助力高效生产 ",
+    "实现最高设备生产率 ",
+    "确保全天候（24/7）稳定可靠的刀具供应"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c2268",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 凭借更高的经济效益赢得优势 </h2>",
+   "body": "<p><strong>许多生产线的效率正在下降，原因在于受过良好培训的员工不得不从事常规性工作。如果您利用ZOLLER自动化解决方案实现刀具装配、拣选和运输的自动化，就能减少这种耗时且成本高昂的工作。</strong></p> <p>请充分利用技术人员的可用时间。将专家的知识和经验运用到不可或缺的环节，从而提高其工作效率。您的生产部门的生产效率和利润都将随之提升。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/7/csm_kosteneffizienz_einzel_b86afc398c.webp",
+     "alt": "",
+     "w": 1097,
+     "h": 1097
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c2267",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 利用刀具数据实现自动化 </h2>",
+   "body": "<p>我们精心设计的刀具管理方案配备了丰富的接口和功能，使数据驱动的自动化变得格外简单。 借助 ZOLLER 数据库 z.One 中井井有条的刀具数据以及 ZOLLER-webTMS 软件，您可以在桌面端或移动端规划并管理生产中的自动化流程。</p> <p>了解更多</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/c/6/csm_software_automation_en_7ad0d9045a.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c2266",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> 自动化解决方案 </h2>",
+   "items": [
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%B7%A5%E5%85%B7%E7%89%A9%E6%B5%81/coralogistic",
+     "title": "»coraLogistic«",
+     "text": "<p>适用于工具仓库、工具准备区与数控机床之间的物料运输任务</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/0/csm_coraLogistics_preview_8cd4f5bccb.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%B7%A5%E5%85%B7%E5%87%86%E5%A4%87/corameasure-lg",
+     "title": "»coraMeasure LG«",
+     "text": "<p>ZOLLER »»venturion«« 的经济型刀具处理系统</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%B7%A5%E5%85%B7%E9%85%8D%E7%BD%AE/loadbox",
+     "title": "»loadBox«",
+     "text": "<p>根据订单拣选工具，并将其备妥供物流使用</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/5/3/csm_loadBox_preview_c2695dfc22.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%B7%A5%E5%85%B7%E5%87%86%E5%A4%87/robobox",
+     "title": "»roboBox«",
+     "text": "<p>最多可配备六个模块，用于装配、清洁、测量、热缩等常规操作</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/a/csm_roboBox_preview_f71dd04107.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%B7%A5%E5%85%B7%E7%89%A9%E6%B5%81/coramachineload",
+     "title": "»coraMachineLoad«",
+     "text": "<p>在物流区与机床刀库之间实现精准且准时的刀具处理</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/e/csm_coraMaschineLoad_preview_7ffc6574e3.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%B7%A5%E5%85%B7%E5%87%86%E5%A4%87/micbox",
+     "title": "»micBox«",
+     "text": "<p>负责可转位刀片的旋转、翻转和更换</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/6/a/csm_micbox_preview_ff03cd31af.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c2265",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_zoller_system_teaser_a6e5d69871.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "从解决方案开始——进入系统。",
+     "href": "/ch/%E8%AF%A5%E7%B3%BB%E7%BB%9F",
+     "caption": "<figcaption> <h3>从解决方案开始——进入系统。</h3> <p>我们的客户受益于我们数十年来一直致力于推进的整体解决方案。结果：效率卓越。 </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "一对一专家咨询",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>一对一专家咨询</h3> <p>针对您的目标以及我们为此提出的方案，进行一对一的交流。ZOLLER 直接从“智能工厂”为您提供的在线咨询服务。立即预约。 </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ch/解决方案/自动化",
+ "de_path": "/solutions/automation"
+}

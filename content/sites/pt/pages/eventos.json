@@ -1,0 +1,255 @@
+{
+ "path": "/eventos",
+ "url": "/pt/eventos",
+ "title": "Eventos",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pt/pagina-inicial"
+  },
+  {
+   "label": "Eventos",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pt/pagina-inicial"
+  },
+  {
+   "label": "Eventos",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/events",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/events",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/eventos",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/evenements",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/eventos",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/eventi",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/evenemang",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/events",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/events",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/evenements",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%96%89%EC%82%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/events",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/eventos",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/eventos",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/3/2/csm_zoller_live_header_514548cdf4.webp",
+     "video": null,
+     "title": "EVENTOS",
+     "kicker": "",
+     "text": "<p>Pontos de encontro do setor</p>",
+     "buttons": [],
+     "light": true
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c3101",
+   "bg": "white",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"large-text\">Visite os nossos eventos no local ou através da transmissão ao vivo. Aqui encontra todos os temas e datas.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8258",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "events",
+   "months": [
+    {
+     "label": "abril 2026",
+     "events": [
+      {
+       "month": "abr.",
+       "day": "22",
+       "weekday": "quarta-feira",
+       "img": {
+        "src": "/fileadmin/_processed_/e/5/csm_1631316445547_22bfaed451.webp",
+        "alt": "",
+        "w": 171,
+        "h": 171
+       },
+       "date": "22.04.2026 - 23.04.2026",
+       "place": "Rua do Caulino, 226, / 4445-259 Alfena– PORTO / PORTUGAL",
+       "title": "OPEN TECH MAQUINSER",
+       "text": "<p>O fabrico está a mudar. E desta vez, a mudança é profunda.</p> <p>Automação, integração de processos e sustentabilidade já não são tendências: são as chaves para produzir melhor, com mais eficiência e maior rendimento em cada peça.</p> <p>No nosso Open Tech, irá descobrir como o ecossistema digital liberta todo o potencial das suas máquinas, como a combinação de tecnologias permite atingir novos níveis de desempenho e porque a sustentabilidade é já o caminho inevitável para o futuro da indústria.</p> <p>Uma oportunidade para ver, compreender e aplicar aquilo que está realmente a marcar a diferença na fabricação avançada.</p> <p>Esperamos por si na Maquinser.</p> <p><strong>Vagas limitadas. Inscreva-se agora.</strong></p> <br/>",
+       "buttons": [
+        {
+         "label": "Saber mais",
+         "href": "https://maquinser.com/pt-pt/open-tech-maquinser-alfena/",
+         "share": false
+        },
+        {
+         "label": "Compartilhar evento",
+         "href": "mailto:?subject=Event%3A%20OPEN%20TECH%20MAQUINSER&body=OPEN%20TECH%20MAQUINSER%20%40%20Rua%20do%20Caulino%2C%20226%2C%20%2F%204445-259%20Alfena%E2%80%93%20PORTO%20%2F%20PORTUGAL%20-%20https%3A%2F%2Fwww.zoller.info%2Fpt%2Feventos",
+         "share": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>1:1 Conversa com especialistas</h3> <p><a class=\"btn\" href=\"https://myzoller.com/int/en/expert/booking/\" rel=\"noopener\" target=\"_blank\">Marque agora uma consulta</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/pt/eventos",
+ "de_path": "/events"
+}

@@ -1,0 +1,362 @@
+{
+ "path": "/uravnotezenje-brusnega-diska",
+ "url": "/si/uravnotezenje-brusnega-diska",
+ "title": "Uravnoteženje brusnega diska",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/si/domaca-stran"
+  },
+  {
+   "label": "Uravnoteženje brusnega diska",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/si/domaca-stran"
+  },
+  {
+   "label": "Uravnoteženje brusnega diska",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/schleifscheibe-auswuchten",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/balancing-a-grinding-wheel",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/equilibrar-el-disco-abrasivo",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/equilibrer-la-meule",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/equilibrar-o-rebolo",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/bilanciare-la-mola",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/balansera-slipskivan",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/schleifscheibe-auswuchten",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/balancing-the-grinding-wheel",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/equilibrage-dun-disque-abrasif",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E7%A0%94%E7%A3%A8%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%81%AE%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%97%B0%EB%A7%88-%EB%94%94%EC%8A%A4%ED%81%AC%EC%9D%98-%EA%B7%A0%ED%98%95-%EB%A7%9E%EC%B6%94%EA%B8%B0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/balancing-grinding-wheels",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/equilibrar-el-disco-abrasivo",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/equilibrar-o-rebolo",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/9/c/csm_grinding_wheel_header_82a94c5c43.webp",
+     "video": null,
+     "title": "Ali je treba uravnotežiti brusilni disk?",
+     "kicker": "",
+     "text": "<p>Z našim sistemom za uravnoteženje »toolBalancer« je to otroško enostavno</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8000",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Naš sistem uravnoteženja podaljšuje življenjsko dobo orodja </h2>",
+   "body": "<p class=\"extra-large-text\">Za sodobne stroje za obdelavo so natančno uravnotežena orodja izjemno pomembna. Neuravnoteženost brusnih plošč, orodnih sistemov in rotorjev povzroča obrabo ali celo poškodbe – redno uravnoteženje preprečuje zastoje in zmanjšuje vaše stroške.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c8001",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Učinkovito uravnoteženje z napravo ZOLLER »toolBalancer« </h2>",
+   "body": "<p>Dolgi časi uravnoteženja povzročajo zastoje in izgubo kakovosti. Z našim »toolBalancerjem« lahko ne le visoko natančno uravnotežite držala orodja, brusne plošče in rotorje – s svojim avtomatiziranim merilnim postopkom se postopek tudi znatno pospeši.</p> <p>Pri tem se lahko upoštevajo tako vaše trenutne zahteve kot tudi razvojne trende, ki jih trenutno še ne morete oceniti: zahvaljujoč modularni zasnovi se »toolBalancer« lahko popolnoma prilagodi vašim potrebam.</p> <p>Napravo je mogoče intuitivno in samoumevno upravljati prek zaslona na dotik, tipkovnice ali miške – tako, kot najbolj ustreza vašemu načinu dela. Tako se lahko osredotočite na učinkovito in kakovostno delo ter proizvodnjo. S tem merljivo zmanjšate delež izmetov, čase mirovanja strojev in proizvodne stroške!</p> <p><a class=\"btn\" href=\"/si/izdelki/tehnika-uravnotezenja/toolbalancer\">Več o »toolBalancerju«</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/a/csm_teaser_toolbalancer_e584d45648.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034,
+     "href": "/si/izdelki/tehnika-uravnotezenja/toolbalancer"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8002",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Večja zmogljivost obdelave",
+    "Daljša življenjska doba orodja",
+    "Boljša kakovost izdelkov"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c8003",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Kaj je uravnoteženje? </h2>",
+   "body": "<p>Z uravnoteženjem se zmanjšajo ali v idealnem primeru odpravijo nesorazmerja, ki jih ima vsak tog telo, ki se vrti okoli fiksne osi. Neravnovesja nastanejo zaradi neenakomerne porazdelitve mase v brusilnem disku; referenčna točka je pri tem vedno os vrtenja brusilnega vretena. Glavni cilj uravnoteženja je izravnati vse učinke centrifugalne sile na vrtečem se vretenu, da ležaj vretena ni izpostavljen dodatnim silam.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8007",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Kako nastanejo neuravnoteženosti v brusnih ploščah? </h2>",
+   "body": "<p>Neuravnoteženost brusnega diska se lahko pojavi že med proizvodnjo, na primer:</p><ul><li>rahla odstopanja od idealne geometrijske oblike ali popolnoma simetrične oblike zaradi proizvodnih napak,</li><li>druge proizvodne napake ali</li><li>neenakomerna gostota strukture brusnega diska (posledica: neuravnotežena porazdelitev teže).</li></ul><p>Vendar pa neuravnoteženosti nastanejo predvsem zaradi obrabe med procesom brušenja. Primeri tega so:</p><ul><li>neenakomerna obraba med brušenjem,</li><li>onesnaženje s stružnimi ostružki ali hladilnimi oziroma mazalnimi sredstvi ter</li><li>obremenitve in deformacije zaradi napetostnih sil, rezalnih sil in centrifugalnih sil.</li></ul><p>Dodatne težave lahko nastanejo zaradi neustreznega skladiščenja ali napačnega ravnanja s brusnimi ploščami.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/5/csm_schleifscheiben_314b691a95.webp",
+     "alt": "",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8004",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Zakaj je treba uravnotežiti brusne plošče? </h2>",
+   "body": "<p>Posledice neuravnoteženega brusnega diska so lahko raznolike: brusni vreten se v nekaterih primerih ne vrti tiho in enakomerno (tiho delovanje); neuravnoteženost pa povzroča neenakomerno obrabo, kar lahko ta učinek še okrepi. Poleg tega se lahko poveča obraba oziroma zmogljivost odstranjevanja brusnega diska.</p> <p>Na splošno velja: če orodje in držalo orodja kot celota ne zagotavljata visoke natančnosti krožnega gibanja, lahko zaradi neuravnoteženosti centrifugalna sila negativno vpliva na ležaj vretena in znatno skrajša njegovo življenjsko dobo. Tudi življenjska doba orodja se lahko znatno poslabša, če se vibracije, ki jih povzroča centrifugalna sila, prenašajo na stroj in orodje. Uravnotežena orodja tako prispevajo k nižjim stroškom orodja in povečajo produktivnost.</p> <p>Da bi dosegli višjo zmogljivost obdelave in daljšo življenjsko dobo orodja, je pomembno, da pred vsako spremembo hitrosti preverite uravnoteženost brusnega diska, saj vsaka kombinacija vretena, hitrosti in orodja prinaša specifično neuravnoteženost.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/b/csm_scan_1dacd77291.webp",
+     "alt": "",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8005",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Kateri sistemi za uravnoteženje obstajajo? </h2>",
+   "body": "<p><strong>V bistvu se v tehniki uravnoteženja razlikuje med tremi različnimi sistemi uravnoteženja.</strong></p><ul><li><p>Elektronsko uravnoteženje: pri tem se neuravnoteženost brusilnega diska uravnoteži neposredno na brusilnem vretenu; ustrezna tehnika je lahko vgrajena v brusilno vreteno ali pa se doseže z ročnim premikanjem uravnotežnih uteži.</p></li><li><p>Vrtilni stojki: Dve posamezni vrtilni stojki (vrtilni stojek se imenuje tudi uravnoteževalni stojek) sta opremljeni z dvema ozkima vrtilnima ploščama, ki sta nameščeni v krogličnih ležajih. Vrtilni stojki so običajno pritrjeni na tirnice ali pa so nameščeni na granitnih ploščah merilnih strojev.</p></li><li><p>Uravnotežna tehtnica: Uravnotežne tehtnice ugotavljajo statično neuravnoteženost brusnih plošč. Pri tem se dejansko meri le ena ravnina; brusna plošča velja za statično uravnoteženo, če je njen težišče v sredini, torej na osi vrtenja.</p></li></ul>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8006",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_teaser_balancing_small_e3b1b4fcf5.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Tehnika uravnoteženja: njene prednosti",
+     "href": "/si/resitve/tehnika-uravnotezenja",
+     "caption": "<figcaption> <h3>Tehnika uravnoteženja: njene prednosti</h3> <p>Uravnoteženje se pogosto podcenjuje. Vendar pa uravnoteženje prispeva k večji gospodarnosti, saj zmanjšuje obrabo orodja, ki povzroča višje stroške, in razbremeni vretena strojev. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Pogovor s strokovnjakom",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Pogovor s strokovnjakom</h3> <p>Osebna razprava o vaših ciljih in naših idejah za njihovo uresničevanje. Spletno svetovanje podjetja ZOLLER neposredno iz pametne tovarne. Dogovorite se za termin že danes. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3832",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/si/uravnotezenje-brusnega-diska",
+ "de_path": "/schleifscheibe-auswuchten"
+}

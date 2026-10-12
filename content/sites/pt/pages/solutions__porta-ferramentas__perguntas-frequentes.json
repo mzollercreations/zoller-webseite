@@ -1,0 +1,606 @@
+{
+ "path": "/solutions/porta-ferramentas/perguntas-frequentes",
+ "url": "/pt/solutions/porta-ferramentas/perguntas-frequentes",
+ "title": "Soluções de ferramentas – Perguntas frequentes",
+ "description": "Perguntas frequentes - Soluções de ferramentas – Perguntas frequentes",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pt/pagina-inicial"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/pt/solutions"
+  },
+  {
+   "label": "Porta-ferramentas",
+   "href": "/pt/solutions/porta-ferramentas"
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pt/pagina-inicial"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/pt/solutions"
+  },
+  {
+   "label": "Porta-ferramentas",
+   "href": "/pt/solutions/porta-ferramentas"
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/werkzeugaufnahmen/faq",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/tooling-solutions/faq",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/portaherramientas/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/fixation-doutil/faq",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/porta-ferramentas/perguntas-frequentes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/soluzioni-dutensileria/domande-frequenti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/verktygshaallare/vanliga-fraagor",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/werkzeugaufnahmen/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/tooling-solutions/faq",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/porte-outils/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B7%A5%E5%85%B7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/tooling-solutions/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/porta-herramientas/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/porta-ferramentas/perguntas-frequentes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Porta-ferramentas",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/pt/solutions/porta-ferramentas",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Perguntas frequentes",
+     "href": "/pt/solutions/porta-ferramentas/perguntas-frequentes",
+     "current": false
+    },
+    {
+     "label": "Painel informativo",
+     "href": "/pt/solutions/porta-ferramentas/painel-informativo",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1414",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Perguntas frequentes </h1>",
+      "body": "<p>Perguntas frequentes</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c1426",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Quais são os pré-requisitos que a minha produção deve cumprir para usar o »idChip«?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>O primeiro pré-requisito importante é uma digitalização adequada para poder digitalizar o código DataMatrix. Para a gestão dos dados da ferramenta, necessita de um software que corresponda às suas necessidades. A ZOLLER oferece-lhe ambos com »o zidCode 4.0« e o software TMS Tool Management Solutions.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1455",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "É possível indexar ferramentas posteriormente com o »idChip«?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Sim, isso é possível a qualquer momento. Basta contactar o nosso departamento de vendas se desejar equipar as suas ferramentas com o ZOLLER »idChip«.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1453",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Quais são as vantagens do »idChip« em relação à codificação com etiquetas adesivas?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Recomendamos »o idLabel« principalmente para ferramentas rotativas e dispositivos, pois estes não são utilizados em rotação. Para ferramentas rotativas, o »idChip« é a melhor escolha. Ele é fixado no suporte, onde fica protegido, mas ainda assim facilmente identificável. O »idChip« pode ser simplesmente colado com cola de dois componentes. Esta cola pode ser adquirida na nossa empresa ou em outros fornecedores.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1451",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "A ZOLLER é conhecida como fabricante de dispositivos de ajuste e medição. A ZOLLER também fabrica os suportes de ferramenta Tooling Solutions?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>No que diz respeito aos porta-ferramentas, a ZOLLER colabora estritamente com a Schüssler como parceira. A Schüssler fabrica os suportes de ferramenta, a ZOLLER fornece o »idChip« e torna a compra dos suportes de ferramenta simples, rápida e confortável através da nova loja online da ZOLLER.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1449",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Qual é a duração do suporte de encaixe por retração? Com que frequência as ferramentas podem ser retiradas e introduzidas novamente no suporte?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Quando processados de forma correta com aquecimento e arrefecimento da ZOLLER Tooling Solutions, estes podem ser utilizados para mais de 10 000 ciclos de contração sem perda de precisão para suportes de ferramenta com um diâmetro de furo superior a 6 mm. Para um diâmetro de 5 mm e inferior, são 5 000 ciclos.</p> <p>O processamento correto por aquecimento e arrefecimento é suportado pela tecnologia ZOLLER »actbyLight«, para garantia do processamento correto e seguro dos ciclos de contração.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c1447",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Por que a utilização de suportes de ferramenta balanceados é recomendada?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Os suportes de ferramenta balanceados aumentam a produtividade. Os resultados positivos da utilização de suportes de ferramenta balanceados são visíveis em muitas áreas do processo de maquinação. Uma maior vida útil da ferramenta e do spindle, bem como um maior volume de maquinações, são apenas alguns dos fatores que podem reduzir imensamente os custos de produção.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1445",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Até que comprimento as soluções de ferramentas ZOLLER estão disponíveis?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>As soluções de ferramentas ZOLLER têm um comprimento de suporte GPL de 200 mm (comprimento saliente A).</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1443",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Existem mandris de pinça ER balanceados disponíveis?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Com as soluções de ferramentas ZOLLER, também estão disponíveis mandris de pinça ER balanceáveis. Para o processo de balanceamento, a contra-porca é montada e utilizado um pino mestre para simular a ferramenta de corte.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1441",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "De que é feito o material do suporte retrátil?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A ZOLLER utiliza suportes retráteis em aço para ferramentas resistentes ao calor para a produção das ZOLLER Tooling Solutions.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1439",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Quais são as diferenças entre o protetor de retração, mandril de pinça e sistema de fixação hidráulico de ferramentas?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Nenhum outro sistema de fixação consegue igualar a retenção, a precisão de concentricidade e o desempenho de uma interface de contração. Como os encaixes de contração não requerem pinças, porcas de pinça ou parafusos de ajuste, os diâmetros dos narizes podem ser muito finos, permitindo o processamento de áreas de difícil acessibilidade.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1437",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Qual é a tolerância do eixo necessária para a utilização e aplicação das ferramentas de corte em mandris de contração?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A tolerância para o eixo ou haste da ferramenta de corte deve ter o valor h5 ou h6.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1435",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Onde podem ser adquiridos os suportes de ferramentas da ZOLLER Tooling Solutions?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Uma encomenda pode ser feita online através do <a class=\"link-arrow\" href=\"https://myzoller.com/de/de/shop/tooling/\" rel=\"noopener\" target=\"_blank\"><strong>portal</strong></a> <a class=\"link-arrow\" href=\"https://myzoller.com/de/de/shop/tooling/\" rel=\"noopener\" target=\"_blank\"><strong>MYZOLLER</strong></a> da ZOLLER. Atualmente, as encomendas online podem ser feitas na Alemanha e nos EUA. Noutros países, é possível realizar a escolha do suporte de ferramenta através do portal MYZOLLER, enviar a lista de artigos gerada aos respetivos vendedores regionais da ZOLLER e solicitar a oferta.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1433",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Os suportes de ferramenta são equilibrados após adicionar e acrescentar o ZOLLER »idChip« ou outros chips RFID?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Se as encomendas de suportes de ferramenta incluem ZOLLER »idChip« ou outros chips RFID, os suportes das ferramentas serão equilibrados com os chips.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1431",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Quais são os prazos de entrega para todos os tipos de soluções de ferramentas da ZOLLER?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Através da loja online, é possível verificar a qualquer momento a disponibilidade em stock das soluções de ferramentas da ZOLLER.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1429",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "É possível obter os formatos digitais dxf, png e stp para as ZOLLER Tooling Solutions antes de enviar uma encomenda para os suportes de ferramentas correspondentes?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Os gémeos digitais estão disponíveis na loja online ZOLLER Tooling Solution, onde podem ser descarregados a qualquer momento e utilizados no software ZOLLER TMS Tool Management Solutions ou noutros sistemas CAD/CAM.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1457",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c1427",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c1425",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Agora é a sua vez – aproveite! </h2>",
+   "body": "<p>Na nossa loja online, a gama completa de sistemas de fixação de ferramentas está agora disponível. Encontre o seu porta-ferramentas perfeito de forma simples, rápida e cómoda. Utilize imediatamente o gémeo digital disponível no seu sistema CAM e de gestão de ferramentas.</p> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">Para a loja de ferramentas</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/d/csm_zum_myzoller_shop_704443f1bc.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1458",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/pt/solutions/porta-ferramentas/perguntas-frequentes",
+ "de_path": "/solutions/werkzeugaufnahmen/faq"
+}

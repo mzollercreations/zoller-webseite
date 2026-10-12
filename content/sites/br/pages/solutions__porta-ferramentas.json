@@ -1,0 +1,572 @@
+{
+ "path": "/solutions/porta-ferramentas",
+ "url": "/br/solutions/porta-ferramentas",
+ "title": "Porta-ferramentas",
+ "description": "Porta-ferramentas",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/br/pagina-inicial"
+  },
+  {
+   "label": "Soluções /",
+   "href": "/br/solutions"
+  },
+  {
+   "label": "Porta-ferramentas",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/br/pagina-inicial"
+  },
+  {
+   "label": "Soluções /",
+   "href": "/br/solutions"
+  },
+  {
+   "label": "Porta-ferramentas",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/werkzeugaufnahmen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/tooling-solutions",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/portaherramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/fixation-doutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/porta-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/soluzioni-dutensileria",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/verktygshaallare",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/werkzeugaufnahmen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/tooling-solutions",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/porte-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B7%A5%E5%85%B7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/tooling-solutions",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/porta-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/porta-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Porta-ferramentas",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Perguntas frequentes",
+     "href": "/br/solutions/porta-ferramentas/perguntas-frequentes",
+     "current": false
+    },
+    {
+     "label": "Painel informativo",
+     "href": "/br/solutions/porta-ferramentas/painel-informativo",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1418",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "product_header",
+   "title": "Soluções de porta-ferramentas",
+   "text": "<p>Mandris porta-ferramentas com interface<br/>perfeita para a sua produção digital</p> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">Compre agora</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/d/c/csm_header_tooling_79126defc9.webp",
+    "alt": "",
+    "w": 1428,
+    "h": 896
+   },
+   "ftype": "zoller_product_header",
+   "id": "c1416",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Defendemos soluções inteligentes </h2>",
+   "body": "<p>Porta‑ferramentas com ZOLLER »idChip«. Mediante solicitação, podemos fornecer todos os porta‑ferramentas com chip integrado e código DataMatrix. Assim, é possível identificar claramente seus porta‑ferramentas a qualquer momento e ter total transparência das informações, como o número de ciclos de aquecimento, utilizações na máquina e muito mais. O acabamento das superfícies funcionais críticas do porta‑ferramenta — como os ombros de fixação usinados com precisão e os canais de acionamento — garante longa vida útil e máxima precisão no processo de usinagem. Sustentável e econômico: este é o futuro.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/7/csm_zoller_smarte_solutions_171a2dc46c.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1417",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Processos interligados ",
+    "Garantia de precisão ",
+    "Soluções completas de um único fornecedor"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c1419",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> Confiabilidade para máxima precisão </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/7/6/csm_ts_pin_modul_03_be3bbbf942.webp",
+    "alt": "",
+    "w": 1540,
+    "h": 630
+   },
+   "spots": [
+    {
+     "x": 23.533,
+     "y": 10.226,
+     "label": "Orifício do chip",
+     "text": "<h3>Orifício do chip</h3> <h4>Orifício para chip</h4> <p>Para a fixação de suportes de dados, como chips RFID ou ZOLLER »idChip,« nos porta-ferramentas ZOLLER Tooling. Padrão|padronizado para cones de haste oca HSK-A, cones de inclinação SK e cones de haste poligonal PSC.</p> <h4>ZOLLER »idChip«</h4> <p>Para a identificação inequívoca dos seus suportes de ferramenta e para uma vida útil máxima do produto. A seu pedido, fornecemos os suportes de ferramenta balanceados com chip fixo integrado diretamente na sua produção.</p> <h4>Tecnologia de 3 ranhuras</h4> <p>No furo do chip do porta-ferramentas|suporte de ferrmanta, o adesivo garante uma conexão segura e fixa.</p>"
+    },
+    {
+     "x": 48.478,
+     "y": 43.161,
+     "label": "Quatro roscas",
+     "text": "<h3>Quatro roscas</h3> <h4>Quatro roscas</h4> <p>Para o equilíbrio fino posteriormente|à posteriori de forros de retração padrão.</p>"
+    },
+    {
+     "x": 71.685,
+     "y": 51.793,
+     "label": "Ajuste de encolhimento longo",
+     "text": "<h3>Ajuste de encolhimento longo</h3> <h4>Ajuste de retração longo com raio de introdução</h4> <p>Garantia de forças de contração máximas, graças à voltagem da ferramenta em todo o comprimento da haste.</p>"
+    },
+    {
+     "x": 13.641,
+     "y": 52.722,
+     "label": "ombro de encaixe",
+     "text": "<h3>ombro de encaixe</h3> <h4>Ombro de fixação com acabamento rígido</h4> <p>Garantia de deslizamento ideal dos segmentos de fixação no ombro de fixação e uma ótima voltagem no fuso. O resultado é uma concentricidade no ombro de fixação de no máximo 10 μm (5 vezes mais exato do que a norma DIN).</p>"
+    },
+    {
+     "x": 82.12,
+     "y": 56.972,
+     "label": "Tolerâncias de concentricidade",
+     "text": "<h3>Tolerâncias de concentricidade</h3> <h4>As tolerâncias de concentricidade</h4> <p>As soluções de ferramentas garantem uma concentricidade &lt; 3 µm.</p>"
+    },
+    {
+     "x": 24.674,
+     "y": 82.47,
+     "label": "Equilibrado com precisão",
+     "text": "<h3>Equilibrado com precisão</h3> <h4>Equilibrado com precisão</h4> <p><strong>Todos os porta-ferramentas|suporte de ferrmanta ZOLLER Tooling são equilibrados com precisão</strong> – G2,5 a 25.000 min<sup>-1</sup> ou desequilíbrio residual máximo ≤ 1 gmm. Isso resulta num funcionamento suave do fuso durante o processamento, poupando os rolamentos. Beneficia de uma duração mais longa do fuso, uma superfície ideal da peça de trabalho e maior durabilidade das ferramentas.</p>"
+    },
+    {
+     "x": 8.533,
+     "y": 36.919,
+     "label": "Ranhuras da chaveta",
+     "text": "<h3>Ranhuras da chaveta</h3> <h4>Ranhuras da chaveta com acabamento rígido</h4> <p>Garantir alinhamento central 100% preciso das ranhuras, um encaixe perfeito no fuso e uma excelente transmissão de binário.</p>"
+    },
+    {
+     "x": 23.478,
+     "y": 36.521,
+     "label": "área de projeção",
+     "text": "<h3>área de projeção</h3> <h4>Superfície de expulsão com acabamento rígido</h4> <p>Garantia de segurança na liberação do porta-ferramentas|suporte de ferrmanta HSK durante a troca de ferramentas.</p>"
+    },
+    {
+     "x": 75.707,
+     "y": 75.697,
+     "label": "»coolTool«",
+     "text": "<h3>»coolTool«</h3> <h4>»coolTool«</h4> <p>Para um corte perfeito e refrigerado, um direcionamento ideal dos cavacos e para evitar a acumulação de cavacos na Lâmina da ferramenta. A disposição inclinada dos orifícios de refrigerante garante que o refrigerante chegue onde é necessário: na Lâmina da ferramenta. Desta forma, obtém resultados de corte ideais e aumenta o tempo útil das suas ferramentas.</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c1420",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Típico da ZOLLER – tudo de um único fornecedor </h2>",
+   "body": "<p>A ZOLLER vai sempre um passo além no desenvolvimento de novos produtos, criando soluções para o futuro. Há décadas que seguimos este princípio, e não apenas nas nossas máquinas de medição. Prepare-se para os requisitos digitais do amanhã e para a fábrica inteligente do futuro – com as nossas soluções de porta-ferramentas ZOLLER.</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/OKLwuZLfF2s?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Tooling Solutions – Werkzeughelden"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1421",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Soluções ZOLLER para uma produção eficiente </h2>",
+   "body": "<p>Aproveite as nossas soluções \"ZOLLER Tooling\" para um processo de produção efetivo. Oferecemos um portfólio completo de sistemas de porta‑ferramentas de alto desempenho e alta precisão, projetados para atender às mais exigentes tarefas de usinagem. As soluções de porta-ferramentas da ZOLLER possuem a interface ideal para a sua produção digital.</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/iaV2Il_Gqn8?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Tooling Solutions – die perfekte Schnittstelle für Ihre digitale Fertigung"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1422",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "66-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Mais de 2.000 itens de catálogo </h2>",
+      "body": "<p class=\"large-text\">A ZOLLER Tooling Solutions oferece uma linha completa de porta‑ferramentas para atender a todos os requisitos dos seus processos de usinagem. Todos os nossos porta‑ferramentas superam consistentemente os requisitos das normas DIN.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2063",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "none"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-2cols",
+   "id": "c2064",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/a/7/csm_ts_schrumpffutter_06c2dea98b.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Mandril térmico \"shrink\"",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:schrumpffutter",
+     "caption": "<figcaption> <h3>Mandril térmico \"shrink\"</h3> <p>Para tensionar ferramentas com encabadouro cilíndrico em metal duro ou HSS.</p> <br/> Saber mais </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/7/csm_ts_spannzangenfutter_eb7fca68dc.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Mandril porta pinça ER",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:spannzangenfutter",
+     "caption": "<figcaption> <h3>Mandril porta pinça ER</h3> <p>Para tensionar ferramentas com encabadouro cilíndrico em pinças ER.</p> <br/> Saber mais </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_ts_weldonaufnahmen_9c7a361d17.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Mandril porta barra Weldon",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:weldonaufnahmen",
+     "caption": "<figcaption> <h3>Mandril porta barra Weldon</h3> <p>Ideal para a utilização de ferramentas sem alimentação de líquido de refrigeração interna.</p> <br/> Saber mais </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_ts_whistle-notch-aufnahmen_b74918fa98.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Mandril Whistle-Notch",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:whistle-notch-aufnahmen",
+     "caption": "<figcaption> <h3>Mandril Whistle-Notch</h3> <p>Para tensionar ferramentas com encabadouro cilíndrico.</p> <br/> Saber mais </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_ts_fuer_einschraubfraeser_e7d8ee83f6.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Mandril porta fresa roscado",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:für-einschraubfräsen",
+     "caption": "<figcaption> <h3>Mandril porta fresa roscado</h3> <p>Para tensionar ferramentas com encabadouro cilíndrico.</p> <br/> Saber mais </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/2/csm_ts_messerkopfaufnahmen_b76fed0d9d.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Mandril porta cabeçote",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:messerkopfaufnahmen",
+     "caption": "<figcaption> <h3>Mandril porta cabeçote </h3> <p>Para suporte de fresas com ranhura transversal, com alimentação de líquido de refrigeração nas arestas de corte.</p> <br/> Saber mais </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/a/csm_ts_kombidorne_48f13a98c4.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Mandril porta fresa combinado",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:kombidorne",
+     "caption": "<figcaption> <h3>Mandril porta fresa combinado</h3> <p>Para suporte de fresas com ranhura longitudinal e transversal.</p> <br/> Saber mais </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/f/csm_ts_morsekegelaufnahme_6909dcbe8a.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Mandril para cone Morse",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:morsekegelaufnahmen",
+     "caption": "<figcaption> <h3>Mandril para cone Morse</h3> <p>Para suporte de ferramentas cónicas Morse com aba de expulsão, de acordo com a norma DIN 2288.</p> <br/> Saber mais </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/2/csm_ts_kurzbohrfutter_3c9582d0e0.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Mandril de aperto rápido",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:kurzbohrfutter",
+     "caption": "<figcaption> <h3>Mandril de aperto rápido</h3> <p>Para tensionar ferramentas com encabadouro cilíndrico.</p> <br/> Saber mais </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/5/1/csm_ts_hawk_eye_07abe1a0d5.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "HAWK EYE",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:hawk-eye",
+     "caption": "<figcaption> <h3>HAWK EYE</h3> <p>Mandril de pinça de precisão HAWK EYE® HPC</p> <br/> Saber mais </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/2/csm_ts_er_collet_a62fe34c96.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Pinças ER",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:er-spannzangen",
+     "caption": "<figcaption> <h3>Pinças ER</h3> <p>»Mandril de pinça« ER &amp; ER Mini</p> <br/> Saber mais </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/a/b/csm_Schrumpfverlaenerungen_category_0b63e58178.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Extensões para \"shrink\"",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:schrumpfverlängerungen",
+     "caption": "<figcaption> <h3>Extensões para \"shrink\"</h3> <p>Para suporte de ferramentas com encabadouro cilíndrico.</p> <br/> Saber mais </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/c/csm_ts_accessories_651f0aa893.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "acessórios",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:zubehör",
+     "caption": "<figcaption> <h3>acessórios</h3> <p>Arruelas de vedação, porcas de aperto</p> <br/> Saber mais </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c1912",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Agora é a sua vez – aproveite! </h2>",
+   "body": "<p class=\"large-text\">A linha completa de porta-ferramentas e elementos para fixação já está disponível em nossa loja virtual. Encontre o porta‑ferramenta ideal de forma simples, rápida e conveniente e utilize imediatamente o gêmeo digital disponibilizado no site em seu sistema CAM e de gerenciamento de ferramentas.</p> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">Para a loja de ferramentas</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/d/csm_zum_myzoller_shop_704443f1bc.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1423",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/br/solutions/porta-ferramentas",
+ "de_path": "/solutions/werkzeugaufnahmen"
+}

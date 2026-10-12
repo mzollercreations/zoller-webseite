@@ -1,0 +1,282 @@
+{
+ "path": "/przesylanie-danych-narzedziowych",
+ "url": "/pl/przesylanie-danych-narzedziowych",
+ "title": "Przesyłanie danych narzędziowych",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pl/strona-glowna"
+  },
+  {
+   "label": "Przesyłanie danych narzędziowych",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pl/strona-glowna"
+  },
+  {
+   "label": "Przesyłanie danych narzędziowych",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/uebermittlung-werkzeugdaten",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/transfer-of-tool-data",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/transmision-de-datos-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/transmission-des-donnees-doutils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/transmissao-de-dados-da-ferramenta",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/trasmissione-dei-dati-utensile",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/oeverfoering-av-verktygsdata",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/uebermittlung-werkzeugdaten",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/transmission-of-tool-data",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/transmission-des-donnees-doutils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%84%E3%83%BC%E3%83%AB%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E9%80%81%E4%BF%A1",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/transmission-of-tool-data",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/transmision-de-datos-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/transmissao-de-dados-da-ferramenta",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/e/a/csm_toolmanagement_intro_e7e8908938.webp",
+     "video": null,
+     "title": "Przesyłanie danych dotyczących narzędzi",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7948",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Zapewnienie bezpiecznego i zawsze szybkiego przesyłu danych </h2>",
+   "body": "<p><strong>Wymiana danych między poszczególnymi elementami procesu produkcyjnego ma zasadnicze znaczenie dla współczesnej produkcji przemysłowej. Rozwiązania programowe firmy ZOLLER gwarantują niezawodny i szybki transfer danych narzędziowych w każdej chwili – niezależnie od producenta i platformy.</strong></p> <p>Zarządzanie danymi narzędziowymi to złożone przedsięwzięcie. Płynna współpraca wszystkich systemów i komponentów ma kluczowe znaczenie dla „Przemysłu 4.0” – i wcale nie jest czymś oczywistym. Często bowiem wykorzystywane są systemy i maszyny różnych producentów, które z kolei działają w oparciu o różne technologie transmisji danych. W takiej sytuacji zarządzanie narzędziami, nawet przy wsparciu cyfrowym, szybko staje się wyzwaniem.</p> <p>Normy, takie jak na przykład struktura pasków cech charakterystycznych DIN 4000, służą umożliwieniu wymiany danych między różnymi komponentami; dzięki normie DIN mają Państwo możliwość zdefiniowania poszczególnych komponentów zgodnie z normą, a tym samym zapewnienia ich wymienności. Umożliwia to płynną wymianę informacji między różnymi systemami (na przykład w zakresie symulacji CAD/CAM lub NC).</p> <p>Jednolita i znormalizowana baza danych stanowi zatem podstawę automatycznego importu danych narzędziowych, który działa niezawodnie nawet ponad granicami poszczególnych producentów. Jest to ważne nie tylko dlatego, że dzięki temu podczas przesyłania nie powstają opóźnienia, które z kolei mogłyby spowodować przestój maszyn i przerwanie procesów produkcyjnych, uniemożliwiając wykonanie danej operacji zgodnie z planem.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7950",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Zapewnienie transferu danych niezależnie od producenta dzięki oprogramowaniu do zarządzania narzędziami </h2>",
+   "body": "<p>Obecnie istnieje wiele niezawodnych i szybkich sposobów przesyłania danych z urządzenia do wstępnego ustawiania do maszyny lub maszyn. Oprogramowanie do przyrządów pomiarowych firmy ZOLLER umożliwia już dziś bezpieczne przesyłanie danych narzędziowych niezależnie od producenta.</p> <p>Niezależnie od tego, czy odbywa się to za pośrednictwem chipa RFID, postprocesora (system DNC: Distributed Numerical Control), czy też nadrzędnych systemów sterowania produkcją: oferujemy odpowiednie rozwiązanie w zakresie transferu danych dla niemal każdego środowiska produkcyjnego. Kolejną, bardzo wydajną opcją jest również szyfrowanie danych rzeczywistych w kodzie Datamatrix, który jest skanowany za pomocą czytnika podłączonego do sterownika maszyny CNC.</p> <p>Co więcej: dane narzędziowe wiodących producentów są często dostępne w chmurze i można je pobrać za pomocą oprogramowania ZOLLER TMS Tool Management Solutions bez większego wysiłku, jednym kliknięciem myszki.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/f/csm_toolmanagement_01_ac672b9feb.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7951",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Dodatkowe funkcje rozwiązania TMS Tool Management Solutions </h2>",
+   "body": "<ul><li>Importowanie i eksportowanie narzędzi, pojedynczych komponentów i arkuszy ustawień, akcesoriów, danych maszyn oraz innych elementów pomiędzy poszczególnymi produktami firmy ZOLLER</li><li>Niezależny od platformy i producenta import i eksport danych narzędzi (w razie potrzeby za pomocą filtrów odczytu lub postprocesorów)</li><li>Mobilny dostęp do wszystkich danych narzędziowych i list narzędzi</li><li>Zarządzanie danymi narzędzi z wykorzystaniem grafiki, list sztuk i akcesoriów oraz paska cech</li><li>Skaner kodów do identyfikacji i wyświetlania danych rzeczywistych narzędzi</li></ul><h4><strong>Korzyści dla Państwa:</strong></h4><ul><li>Opcjonalna integracja z systemami zewnętrznymi</li><li>Pewność procesu dzięki zapobieganiu błędom</li><li>Prosta i szybka obsługa dzięki przejrzystym strukturom</li></ul><p>Dowiedz się tutaj wszystkiego o rozwiązaniach ZOLLER TMS Tool Management Solutions</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7952",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Zarządzanie narzędziami: korzyści dla Państwa",
+     "caption": "<figcaption> <h3>Zarządzanie narzędziami: korzyści dla Państwa</h3> <p>Dowiedz się, jak Zarządzanie narzędziami firmy ZOLLER natychmiast zwiększa Twoją wydajność. Dzięki danych narzędzia procesy przebiegają szybciej i bezpieczniej – w tym z zabezpieczeniem przed kolizjami dla Twoich maszyn. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Indywidualna rozmowa z ekspertem",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>Indywidualna rozmowa z ekspertem</h3> <p>Indywidualna rozmowa, w której wymieniają się Państwo na temat Państwa celów i naszych pomysłów, jak je osiągnąć. Doradztwo online firmy ZOLLER bezpośrednio z „Smart Factory”. Umówcie się Państwo na spotkanie już teraz. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/pl/przesylanie-danych-narzedziowych",
+ "de_path": "/uebermittlung-werkzeugdaten"
+}

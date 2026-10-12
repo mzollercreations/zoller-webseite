@@ -1,0 +1,436 @@
+{
+ "path": "/vyvazeni-naradi",
+ "url": "/cz/vyvazeni-naradi",
+ "title": "Vyvážení nářadí",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Vyvážení nářadí",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Vyvážení nářadí",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeug-auswuchten",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/balance-the-tool",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/equilibrar-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/equilibrer-loutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/equilibrar-a-ferramenta",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/bilanciamento-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/balansera-verktyg",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeug-auswuchten",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/equilibrage-dun-outil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EB%B0%B8%EB%9F%B0%EC%8B%B1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/balancing-tools",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/equilibrar-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/equilibrar-a-ferramenta",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/c/f/csm_balancing_header_d7e77910f1.webp",
+     "video": null,
+     "title": "Vyvažování nářadí snadno a rychle",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4378",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>Vyvažovací chyby ve vašem nástroji se rychle stanou problémem v několika ohledech: nástroj se otáčí nerovnoměrně, zatěžuje vřeteno a stroj, zhoršuje výkon při obrábění a v konečném důsledku ohrožuje bezpečnost celého procesu.</h4>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3932",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Jaké jsou důsledky nevyváženosti nástroje? </h2>",
+   "body": "<p>Nerovnoměrně běžící nástroje nelze dlouhodobě používat se stejnou přesností, jakou pro svou práci potřebujete. Vznikající vibrace nejenže snižují celkový obráběcí výkon, ale na obrobcích také vznikají vady, jako jsou například stopy po chvění, které je případně nutné dodatečně opravit. Nevyváženost nástroje tak vede ke zcela konkrétním ztrátám kvality a ohrožuje procesní bezpečnost vašich pracovních postupů.</p> <p>Kromě toho nevyváženost zkracuje také životnost vřetena a případně i stroje – náklady na to rychle převýší výdaje, které vznikají častějším vyvažováním nástrojů.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3933",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Co znamená nevyváženost? </h2>",
+   "body": "<p>Pojem „vyvážení“ popisuje u rotujících těles všeobecně rozšířený jev, kdy jejich hmotnost není rozložena po tělesu rotačně symetricky. Rozlišujeme přitom v zásadě tři druhy nevyváženosti:</p><ul><li>Statická nevyváženost: V tomto případě leží těžiště rotujícího tělesa mimo osu otáčení. To lze změřit již v klidu.</li><li>Momentová nevyváženost: Těžiště leží na ose otáčení, nevyváženost je měřitelná až při rotačním pohybu.</li><li>Dynamická nevyváženost: Pojem dynamické nevyváženosti spojuje obě ostatní formy nevyváženosti v libovolné kombinaci statické nevyváženosti a momentové nevyváženosti. To je u technických rotorů běžný jev.</li></ul><p>Každou konkrétní formu nevyváženosti lze vyrovnat příslušnými úpravami rotujícího tělesa.</p> <p>Během otáčení je nevyváženost tím výraznější, čím větší je nevyváženost (lineární růst) a čím rychlejší je rotační pohyb (kvadratický růst). Čím rychlejší je rotační pohyb, tím důležitější je vyvažování a tím důležitější je co nejvíce snížit zbytkovou nevyváženost. Vyvažování by proto mělo být systematicky začleněno do pracovního procesu.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3934",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Co způsobuje nevyváženost při provozu nástrojů? </h2>",
+   "body": "<p>V rotujících nástrojových systémech je nevyváženost známým a běžně se vyskytujícím jevem. Existuje několik možných příčin jejího vzniku, například:</p><ul><li>Nástroj složený z několika dílů nebyl správně smontován – například pokud držák nástroje a nástroj nejsou přesně v jedné ose a odchylují se od osy otáčení.</li><li>Rozložení hmotnosti nástroje bylo již při výrobě nesymetrické – v tomto případě je třeba dodržovat výrobní tolerance výrobce a případně je zkontrolovat.</li><li>Samotný rotor nebo upínací nástavec je kvůli své konstrukci nesymetrický (např. upínací šroub ve frézovacím adaptéru (upínací nástavec Weldon)).</li></ul><p>I u jemně vyvážených upínacích nástavců může kombinace nástavců s konkrétním nástrojem opět způsobit nevyváženost. Je velmi důležité tuto nevyváženost změřit a v případě potřeby korigovat.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3935",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Proč je vyvažování nástrojů tak důležité? </h2>",
+   "body": "<p>Při vysokorychlostním obrábění obrobků pomocí rotujících nástrojových systémů se každá sebemenší nepřesnost a každý nedostatek přesnosti může za určitých okolností projevit velmi rychle a velmi zřetelně. Nevyváženost nástroje může způsobit vibrace, ale s jistotou také nerovnoměrný chod.</p> <p>Obojí má negativní vliv na přesnost, s jakou nástroj pracuje, a vždy zvyšuje riziko vzniku artefaktů a poškození obrobku: zhoršuje se kvalita povrchu a může docházet k zmetkům. Jelikož jsou však vaše procesy silně závislé na správně obrobených konečných výsledcích, vyžadují nástroje, které nejsou přesně vyvážené, důkladnější kontroly kvality. Možná bude nutné i dodatečné opracování, v každém případě však není zaručena spolehlivost procesu.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3936",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Chybějící vyvážení stojí peníze </h2>",
+   "body": "<p>Důsledkem mohou být zpoždění ve výrobním procesu, která se zase přímo promítnou do vaší schopnosti včas dodat objednané množství v požadované kvalitě.</p> <p>K tomu se přidává skutečnost, že nástroje s nepravidelným chodem mohou zejména kvůli vibracím zkrátit životnost soustružnického vřetena – i to je nákladový faktor, který nelze podceňovat.</p> <p>Vyvážený nástroj je tedy dobrý pro obrobky i pro stroje.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3937",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Zásada: Často se to zvedá, málokdy se toho lituje! </h2>",
+   "body": "<p><strong>Proto platí pravidlo:</strong> Raději vyvažujte včas a častěji, než abyste nakonec museli nést náklady. Obecně by měl být nástroj znovu vyvážen již v případě, že se používá při změně otáček – i tato změna totiž může způsobit výrazné rozdíly v plynulosti chodu.</p> <p>Pravidelné vyvažování zvyšuje produktivitu a kvalitu vaší práce.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3938",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Vyvažování nářadí: Jak na to? </h2>",
+   "body": "<p>Obecně existují tři možnosti, jak vyvážit nebo odstranit nevyváženost:</p><ul><li>cílené přidání hmoty (např. pomocí přídavných závaží)</li><li>Odstranit hmotu (např. vrtáním nebo broušením)</li><li>Přesunout hmotu (např. pomocí vhodných otočných kroužků)</li></ul><p>Aby byl tento proces speciálně pro nástroje snazší a bylo možné jej provádět přesně, doporučuje se použití vyvažovacího stroje s vhodným softwarem. Zde se nejprve nástroj vloží do vyvažovacího vřetena a uvede se do rotace, aby se změřily vznikající odstředivé síly.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3939",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Automaticky vypočítaná kompenzace nevyváženosti </h2>",
+   "body": "<p>Na základě těchto naměřených údajů pak vyvažovací systém vypočítá vyrovnání nevyváženosti. U moderní vyvažovací stroje lze opatření okamžitě provést; jemné vyvažování se tak pokračuje, dokud již není měřitelná žádná zbytková nevyváženost nebo dokud nejsou všechny hodnoty v přijatelném tolerančním rozmezí.</p> <p>Tímto způsobem vyvažování netrvá nijak zvlášť dlouho a nerovnoměrně rozložená hmotnost může být rychle vyrovnána.</p> <p>Vysoce přesný a do značné míry automatický vyvažovací systém je užitečný také proto, že umožňuje při každé změně nástroje provést nové a zároveň rychlé vyvažování. Tím se zabrání poklesu kvality v důsledku změněných požadavků, otáček nebo materiálů, aniž by tím utrpěla rychlost práce.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3940",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h3> Efektivní vyvažování pomocí zařízení ZOLLER »toolBalancer« </h3>",
+      "body": "<p>Přesně vyvážené nástroje i pro práci při vysokých otáčkách: k tomu je systém ZOLLER »toolBalancer« ideálním řešením. Díky své modulární konstrukci jej lze nejen individuálně přizpůsobit vašim zcela specifickým požadavkům, ale nabízí také dostatek prostoru pro budoucí vývoj.</p> <p>Tento vysoce přesný vyvažovací systém je vhodný pro upínací nástavce, brusné kotouče a rotory a zaručuje vám měřitelně nižší podíl zmetků, prostoje strojů, výrobní náklady a dodací lhůty.</p> <h3><br/>Přehled výhod:</h3><ul><li><strong>Menší opotřebení</strong> a vyšší obráběcí výkon díky vysoce přesně vyváženým nástrojům</li><li><strong>Modulární konstrukce</strong> umožňuje individuální přizpůsobení</li><li><strong>Intuitivní ovládání</strong> systému zabraňuje zbytečným a nákladným chybám</li><li><strong>Pohodlné ovládání</strong> pomocí dotykové obrazovky, klávesnice a myši</li></ul><p><a class=\"btn\" href=\"/cz/produkty/vyvazovaci-technika/toolbalancer\">Zjistěte vše o možnostech systému ZOLLER »toolBalancer«</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3943",
+      "bg": "",
+      "space": {
+       "before": "small",
+       "after": "small"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/f/6/csm_header_toolBalancer_df19c3c897.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 896
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "image",
+      "id": "c3945",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3941",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_teaser_balancing_small_e3b1b4fcf5.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Technologie vyvažování: Vaše výhody",
+     "href": "/cz/reseni/vyvazovaci-technika",
+     "caption": "<figcaption> <h3>Technologie vyvažování: Vaše výhody</h3> <p>Vyvažování je podceňováno. Přitom vyvažování vede k vyšší hospodárnosti, protože snižuje opotřebení nástrojů, které zvyšuje náklady, a odlehčuje vřetena strojů. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Individuální konzultace s odborníkem",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>Individuální konzultace s odborníkem</h3> <p>Individuální rozhovor o vašich cílech a našich nápadech, jak jich dosáhnout. Online poradenství společnosti ZOLLER přímo ze Smart Factory. Domluvte si termín ještě dnes. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3832",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/cz/vyvazeni-naradi",
+ "de_path": "/werkzeug-auswuchten"
+}

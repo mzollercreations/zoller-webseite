@@ -142,7 +142,7 @@
     }
     res.sort((a, b) => b[0] - a[0]);
     if (hint) hint.textContent = res.length ? `${res.length} ${T('Treffer')}` : T('Keine Treffer – versuchen Sie einen anderen Begriff.');
-    const sec = { produkte: T('Produkte'), solutions: T('Solutions'), unternehmen: T('Unternehmen'), 'ihr-erfolg': T('Ihr Erfolg'), events: T('Events'), academy: T('Academy'), start: T('Start') };
+    const sec = { produkte: T('Bereich: Produkte') === 'Bereich: Produkte' ? T('Produkte') : T('Bereich: Produkte'), solutions: T('Solutions'), unternehmen: T('Unternehmen'), 'ihr-erfolg': T('Ihr Erfolg'), events: T('Events'), academy: T('Academy'), start: T('Start') };
     list.innerHTML = res.slice(0, 40).map(([, p]) =>
       `<li><a href="${ROOT}${p.u}"><small>${sec[p.s] || p.s.replace(/-/g, ' ')}</small>${escapeHtml(p.t)}<small>${escapeHtml(p.d.slice(0, 140))}</small></a></li>`).join('');
   };

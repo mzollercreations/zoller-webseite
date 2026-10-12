@@ -1,0 +1,572 @@
+{
+ "path": "/解决方案/刀具夹头",
+ "url": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E5%88%80%E5%85%B7%E5%A4%B9%E5%A4%B4",
+ "title": "刀具解决方案",
+ "description": "刀具解决方案",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "解决方案 /",
+   "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88"
+  },
+  {
+   "label": "刀具解决方案",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "解决方案 /",
+   "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88"
+  },
+  {
+   "label": "刀具解决方案",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/werkzeugaufnahmen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/tooling-solutions",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/portaherramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/fixation-doutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/porta-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/soluzioni-dutensileria",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/verktygshaallare",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/werkzeugaufnahmen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/tooling-solutions",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/porte-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B7%A5%E5%85%B7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/tooling-solutions",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/porta-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/porta-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "刀具解决方案",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "常见问题解答",
+     "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E5%88%80%E5%85%B7%E5%A4%B9%E5%A4%B4/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94",
+     "current": false
+    },
+    {
+     "label": "资料库",
+     "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E5%88%80%E5%85%B7%E5%A4%B9%E5%A4%B4/%E4%BF%A1%E6%81%AF%E5%BA%93",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1418",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "product_header",
+   "title": "刀具解决方案",
+   "text": "<p>刀柄：您数字化制造的理想接口</p> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">立即购买</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/d/c/csm_header_tooling_79126defc9.webp",
+    "alt": "",
+    "w": 1428,
+    "h": 896
+   },
+   "ftype": "zoller_product_header",
+   "id": "c1416",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 我们致力于提供智能解决方案 </h2>",
+   "body": "<p>刀具解决方案配备ZOLLER »idChip«。根据您的要求，我们可提供所有内置芯片和DataMatrix码的刀柄。您可随时对刀柄进行唯一识别，并轻松掌握所有信息：加热次数、在机使用次数以及更多数据。 刀柄关键功能部位（如硬车削加工的夹紧肩和驱动槽）的精密加工，确保了其在切削加工过程中具有长使用寿命和最高精度。可持续、经济高效：这就是未来。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/7/csm_zoller_smarte_solutions_171a2dc46c.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1417",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "互联流程",
+    "精度保障",
+    "一站式服务"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c1419",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> 可靠性，成就极致精度 </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/7/6/csm_ts_pin_modul_03_be3bbbf942.webp",
+    "alt": "",
+    "w": 1540,
+    "h": 630
+   },
+   "spots": [
+    {
+     "x": 23.533,
+     "y": 10.226,
+     "label": "芯片钻孔",
+     "text": "<h3>芯片钻孔</h3> <h4>芯片孔</h4> <p>用于将 RFID 芯片或 ZOLLER »idChip« 等数据载体安装在 ZOLLER Tooling 刀具夹头上。HSK-A 空心锥、SK 大锥度和 PSC 多边形锥为标准配置。</p> <h4>ZOLLER »idChip«</h4> <p>用于明确识别您的刀柄，并最大限度延长刀具使用寿命。根据您的要求，我们可将经过动平衡处理且内置集成芯片的刀柄直接送至您的生产车间。</p> <h4>3 槽技术</h4> <p>在刀柄的芯片孔中，通过粘合剂确保形成合力，从而实现安全牢固的连接。</p>"
+    },
+    {
+     "x": 48.478,
+     "y": 43.161,
+     "label": "四个螺纹",
+     "text": "<h3>四个螺纹</h3> <h4>四个螺纹</h4> <p>用于对标准热缩夹头进行后续精密动平衡。</p>"
+    },
+    {
+     "x": 71.685,
+     "y": 51.793,
+     "label": "长款热缩刀柄",
+     "text": "<h3>长款热缩刀柄</h3> <h4>长款热缩刀柄，带插入圆角</h4> <p>由于刀具沿刀柄全长施加压力，可确保实现最大的热缩力。</p>"
+    },
+    {
+     "x": 13.641,
+     "y": 52.722,
+     "label": "硬态精加工进给台肩",
+     "text": "<h3>硬态精加工进给台肩</h3> <h4>硬态精加工进给台肩</h4> <p>确保夹紧段在夹紧肩部实现最佳滑动，并确保主轴具有出色的张力。由此，夹紧肩的径向跳动最大为10微米（比DIN标准精度高5倍）。</p>"
+    },
+    {
+     "x": 82.12,
+     "y": 56.972,
+     "label": "同心度公差",
+     "text": "<h3>同心度公差</h3> <h4>同心度公差</h4> <p>确保径向跳动小于 3 µm。</p>"
+    },
+    {
+     "x": 24.674,
+     "y": 82.47,
+     "label": "精密动平衡",
+     "text": "<h3>精密动平衡</h3> <h4>精密动平衡</h4> <p><strong>所有 ZOLLER刀柄均经过精密动平衡处理 </strong>— 在 25,000 转/分钟<sup>下</sup><strong>达到</strong> G2.5 级，或最大残余不平衡量 ≤ 1 gmm，从而确保加工过程中主轴运行平稳，从而延长轴承使用寿命。 您将受益于更长的主轴使用寿命、更优异的工件表面质量以及更长的刀具使用寿命。</p>"
+    },
+    {
+     "x": 8.533,
+     "y": 36.919,
+     "label": "硬态精加工驱动槽",
+     "text": "<h3>硬态精加工驱动槽</h3> <h4>硬态精加工驱动槽</h4> <p>确保槽100%居中，在主轴上完美就位，并实现出色的扭矩传递。</p>"
+    },
+    {
+     "x": 23.478,
+     "y": 36.521,
+     "label": "硬态精加工顶出面",
+     "text": "<h3>硬态精加工顶出面</h3> <h4>硬态精加工顶出面</h4> <p>确保在更换刀具时，HSK刀柄能够安全松脱。</p>"
+    },
+    {
+     "x": 75.707,
+     "y": 75.697,
+     "label": "»coolTool«",
+     "text": "<h3>»coolTool«</h3> <h4>»coolTool«</h4> <p>确保刀具切削刃冷却效果完美，实现最佳的切屑导向，并防止切屑在刀具切削刃处堆积。 冷却液孔的倾斜布置确保冷却液能精准到达所需位置：刀具切削刃，从而实现最佳的切削效果，并延长刀具的使用寿命。</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c1420",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 典型的ZOLLER风格 — 一站式服务 </h2>",
+   "body": "<p>在开发新产品时，ZOLLER 始终力求更进一步，从而打造面向未来的解决方案。数十年来，我们不仅在测量机领域贯彻这一原则。借助我们的 ZOLLER 刀具解决方案，为明天的数字化需求做好准备，并为未来的智能工厂做好准备。</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/OKLwuZLfF2s?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Tooling Solutions – Werkzeughelden"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1421",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> ZOLLER 解决方案，助您实现高效生产 </h2>",
+   "body": "<p>利用我们的ZOLLER Tooling Solutions，提升您的生产效率。 我们为您提供一套功能强大且高精度的刀具夹持系统全系列产品，以满足您的加工需求。此外，ZOLLER 刀具解决方案还是您实现数字化制造的理想接口。</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/iaV2Il_Gqn8?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Tooling Solutions – die perfekte Schnittstelle für Ihre digitale Fertigung"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1422",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "66-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> 超过2000种刀柄 </h2>",
+      "body": "<p>ZOLLER Tooling Solutions 为您提供种类齐全的刀柄系列，可满足您切削加工过程中的各种需求。此外，我们所有的刀柄性能均优于 DIN 标准要求。</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2063",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "none"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-2cols",
+   "id": "c2064",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/a/7/csm_ts_schrumpffutter_06c2dea98b.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "热缩套筒",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:schrumpffutter",
+     "caption": "<figcaption> <h3>热缩套筒</h3> <p>用于夹持硬质合金或高速钢圆柱柄刀具。</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/7/csm_ts_spannzangenfutter_eb7fca68dc.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "钳口卡盘",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:spannzangenfutter",
+     "caption": "<figcaption> <h3>钳口卡盘</h3> <p>用于将带圆柱柄的刀具夹紧在ER夹紧钳中。</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_ts_weldonaufnahmen_9c7a361d17.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "焊接接头",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:weldonaufnahmen",
+     "caption": "<figcaption> <h3>焊接接头</h3> <p>非常适合用于无内冷却剂供应的刀具。</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_ts_whistle-notch-aufnahmen_b74918fa98.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "哨音切口记录",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:whistle-notch-aufnahmen",
+     "caption": "<figcaption> <h3> 哨音切口记录</h3> <p>用于夹紧带圆柱柄的刀具。</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_ts_fuer_einschraubfraeser_e7d8ee83f6.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "适用于螺纹铣刀",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:für-einschraubfräsen",
+     "caption": "<figcaption> <h3>适用于螺纹铣刀</h3> <p>用于夹紧带圆柱柄的刀具。</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/2/csm_ts_messerkopfaufnahmen_b76fed0d9d.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "刀头夹头",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:messerkopfaufnahmen",
+     "caption": "<figcaption> <h3>刀头夹头</h3> <p>适用于安装带横向槽的铣刀，刀刃处设有冷却剂供应通道。</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/a/csm_ts_kombidorne_48f13a98c4.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "组合针",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:kombidorne",
+     "caption": "<figcaption> <h3>组合针</h3> <p>适用于安装带纵向和横向槽的铣刀。</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/f/csm_ts_morsekegelaufnahme_6909dcbe8a.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "摩尔斯电码录音",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:morsekegelaufnahmen",
+     "caption": "<figcaption> <h3>摩尔斯电码录音</h3> <p>适用于安装符合 DIN 2288 标准的带顶出片摩尔斯锥度工具。</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/2/csm_ts_kurzbohrfutter_3c9582d0e0.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "短型钻夹头",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:kurzbohrfutter",
+     "caption": "<figcaption> <h3>短型钻夹头</h3> <p>用于夹紧带圆柱柄的刀具。</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/5/1/csm_ts_hawk_eye_07abe1a0d5.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "鹰眼",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:hawk-eye",
+     "caption": "<figcaption> <h3>鹰眼</h3> <p>HAWK EYE® HPC 精密 ER 夹头</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/2/csm_ts_er_collet_a62fe34c96.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "ER 夹紧钳",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:er-spannzangen",
+     "caption": "<figcaption> <h3>ER 夹紧钳</h3> <p>ER &amp; ER 迷你»夹头«</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/a/b/csm_Schrumpfverlaenerungen_category_0b63e58178.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "热缩延长管",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:schrumpfverlängerungen",
+     "caption": "<figcaption> <h3>热缩延长管</h3> <p>用于安装圆柱柄刀具。</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/c/csm_ts_accessories_651f0aa893.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "配件",
+     "href": "https://myzoller.com/de/de/shop/tooling#category:zubehör",
+     "caption": "<figcaption> <h3>配件</h3> <p>垫片、锁紧螺母</p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c1912",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 自由选购 </h2>",
+   "body": "<p>您现在可以在我们的网上商店中选购全系列刀具夹持系统。轻松、快速且便捷地找到最适合您的刀柄，并立即在您的CAM和刀具管理系统中使用该产品提供的数字孪生模型。</p> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">前往刀具商店</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/d/csm_zum_myzoller_shop_704443f1bc.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1423",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ch/解决方案/刀具夹头",
+ "de_path": "/solutions/werkzeugaufnahmen"
+}

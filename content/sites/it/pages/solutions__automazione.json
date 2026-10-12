@@ -1,0 +1,493 @@
+{
+ "path": "/solutions/automazione",
+ "url": "/it/solutions/automazione",
+ "title": "Automazione",
+ "description": "Automazione",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/it/home-page"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/it/solutions"
+  },
+  {
+   "label": "Automazione",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/it/home-page"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/it/solutions"
+  },
+  {
+   "label": "Automazione",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/automation",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/automation",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/automatizacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/automatisation",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/automacao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/automazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/automatisering",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/automation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/automation",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/automatisation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E8%87%AA%E5%8B%95%E5%8C%96",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%9E%90%EB%8F%99%ED%99%94",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/automation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/automatizacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/automacao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/01_Pages/Solutions/Automation/zoller_automation_komp.mp4",
+     "title": "Automazione",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c2805",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "subnav",
+   "title": "Automazione",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Logistica",
+     "href": "/it/solutions/automazione/logistica",
+     "current": false
+    },
+    {
+     "label": "Preparazione degli utensili",
+     "href": "/it/solutions/automazione/preparazione-degli-utensili",
+     "current": false
+    },
+    {
+     "label": "Fornitura degli utensili",
+     "href": "/it/solutions/automazione/fornitura-degli-utensili",
+     "current": false
+    },
+    {
+     "label": "Ispezione utensile",
+     "href": "/it/solutions/automazione/ispezione-utensile",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c2273",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>Le soluzioni di automazione ZOLLER fanno alcune cose in modo diverso e molte altre in modo migliore. Portano l'efficienza dei processi di lavorazione al massimo livello.</h3>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2271",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>Le soluzioni di automazione ZOLLER automatizzano tutti i processi relativi agli utensili. Dai robot di assistenza sui dispositivi di presetting e di macchina di misurazione alla nuova soluzione a portale »coraMeasure LG«, fino alla completa automazione dell'officina, compreso il caricamento delle macchine: con ZOLLER tutto è possibile. Realizza ora passo dopo passo la tua Smart Factory. </strong></p> <p>L'automazione aumenta l'efficienza economica. Alleggerisce il lavoro dei tecnici specializzati nel montaggio degli utensili o nel loro trasporto alla macchina CNC. Riduce i costi, mantiene gli utensili disponibili e aumenta la produttività. </p> <p>Con le soluzioni di automazione ZOLLER puoi automatizzare in modo flessibile la tua produzione, tutte le soluzioni ZOLLER sono interconnesse con tutte le macchine CNC. </p> <p><a class=\"btn\" href=\"/it/prodotti/automazione\">Visualizza i prodotti</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2270",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2272",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "quotes",
+   "header": "",
+   "slides": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/8/5/csm_toolBalancer_Alexander_Zoller2_7bc76f629f.webp",
+      "alt": ""
+     },
+     "text": "<p class=\"extra-large-text\">È giunto il momento di modernizzare la predisposizione degli utensili nei processi di produzione. Il concetto di automazione modulare ZOLLER apre la strada alla Smart Factory per ogni tipo di produzione. </p> <p><strong>Alexander Zoller, amministratore delegato</strong></p>",
+     "right": true,
+     "quote": true,
+     "dark": true
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/2/7/csm_toolBalancer_Christoph_Zoller2_490ea1f2a5.webp",
+      "alt": ""
+     },
+     "text": "<p class=\"extra-large-text\">Le soluzioni di automazione ZOLLER sono il passo logico successivo. Aumentate l'efficienza della vostra produzione con tecnologie innovative.</p> <p><strong>Christoph Zoller, amministratore delegato</strong></p>",
+     "right": false,
+     "quote": true,
+     "dark": true
+    }
+   ],
+   "ftype": "zoller_slider-full-width",
+   "id": "c2269",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Per una produzione efficace",
+    "Per la massima produttività delle macchine",
+    "Per una disponibilità degli utensili sicura per il processo 24 ore su 24, 7 giorni su 7"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c2268",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Vantaggio competitivo grazie a una maggiore efficienza economica </h2>",
+   "body": "<p><strong>La produttività di molti processi diminuisce perché dipendenti altamente qualificati devono eseguire compiti standard. Automatizzando il montaggio utensile, il prelievo e il trasporto degli utensili con le soluzioni di automazione ZOLLER, è possibile ridurre questo dispendioso investimento di tempo.</strong></p> <p>Utilizza il tempo a disposizione dei tuoi specialisti in modo ottimale. Impiega gli esperti in modo produttivo, mettendo a frutto le loro conoscenze ed esperienze dove sono indispensabili. La produttività e i profitti della tua produzione aumenteranno.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/a/csm_kosteneffizienz_einzel_it_f19388a80d.webp",
+     "alt": "",
+     "w": 1097,
+     "h": 1097
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c2267",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Automatizzare con i dati degli utensili </h2>",
+   "body": "<p>Il nostro sofisticato sistema di gestione degli utensili con numerose interfacce e funzioni rende l'automazione basata sui dati particolarmente semplice. Grazie ai dati utensile perfettamente organizzati nel database ZOLLER z.One e nel software ZOLLER webTMS, pianificare e gestire i processi automatizzati nella produzione da desktop o da mobile sarà a prova di click.</p> <p>Per saperne di più</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/c/6/csm_software_automation_en_7ad0d9045a.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c2266",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Soluzioni di automazione </h2>",
+   "items": [
+    {
+     "href": "/it/prodotti/automazione/logistica-degli-utensili/coralogistic",
+     "title": "»coraLogistic«",
+     "text": "<p>Per operazioni di trasporto tra magazzino utensili, preparazione utensili e macchina CNC</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/0/csm_coraLogistics_preview_8cd4f5bccb.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/it/prodotti/automazione/preparazione-degli-utensili/corameasure-lg",
+     "title": "»coraMeasure LG«",
+     "text": "<p>Gestione economica degli utensili per ZOLLER »venturion«</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/it/prodotti/automazione/fornitura-degli-utensili/loadbox",
+     "title": "»loadBox«",
+     "text": "<p>Prepara gli utensili in base agli ordini e li predisponi per la logistica.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/5/3/csm_loadBox_preview_c2695dfc22.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/it/prodotti/automazione/preparazione-degli-utensili/robobox",
+     "title": "»roboBox«",
+     "text": "<p>Fino a sei moduli per operazioni quali assemblaggio, pulizia, misurazione, calettamento e altro ancora</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/a/csm_roboBox_preview_f71dd04107.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/it/prodotti/automazione/logistica-degli-utensili/coramachineload",
+     "title": "»coraMachineLoad«",
+     "text": "<p>Gestione precisa e puntuale degli utensili tra logistica e magazzino macchine</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/e/csm_coraMaschineLoad_preview_7ffc6574e3.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/it/prodotti/automazione/preparazione-degli-utensili/micbox",
+     "title": "»micBox«",
+     "text": "<p>Si occupa di ruotare, ribaltare e sostituire le placchette di taglio reversibili</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/6/a/csm_micbox_preview_ff03cd31af.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c2265",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/c/csm_zoller_system_teaser_it_79b59fbf6d.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Avvia una soluzione – Entra in un sistema.",
+     "href": "/it/il-sistema",
+     "caption": "<figcaption> <h3>Avvia una soluzione – Entra in un sistema.</h3> <p>I nostri clienti beneficiano di approcci olistici che promuoviamo da decenni. Il risultato: efficienza eccellente. </p> <br/> Scopri di più </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Colloquio con esperti",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Colloquio con esperti</h3> <p>Uno scambio individuale sui vostri obiettivi e sulle nostre idee per raggiungerli. La consulenza online di ZOLLER direttamente dalla Smart Factory. Fissate subito un appuntamento. </p> <br/> Scopri di più </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/it/solutions/automazione",
+ "de_path": "/solutions/automation"
+}

@@ -1,0 +1,469 @@
+{
+ "path": "/termekek/eszkoezkezeles/szerszamraktar/keeper/konfiguracio",
+ "url": "/hu/termekek/eszkoezkezeles/szerszamraktar/keeper/konfiguracio",
+ "title": "»keeper« – Beállítások",
+ "description": "Konfiguráció - »keeper« – Beállítások",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Termékek /",
+   "href": "/hu/termekek"
+  },
+  {
+   "label": "Eszközkezelés /",
+   "href": "/hu/termekek/eszkoezkezeles"
+  },
+  {
+   "label": "Szerszámraktár /",
+   "href": "/hu/termekek/eszkoezkezeles/szerszamraktar"
+  },
+  {
+   "label": "»keeper« /",
+   "href": "/hu/termekek/eszkoezkezeles/szerszamraktar/keeper"
+  },
+  {
+   "label": "Konfiguráció",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Termékek /",
+   "href": "/hu/termekek"
+  },
+  {
+   "label": "Eszközkezelés /",
+   "href": "/hu/termekek/eszkoezkezeles"
+  },
+  {
+   "label": "Szerszámraktár /",
+   "href": "/hu/termekek/eszkoezkezeles/szerszamraktar"
+  },
+  {
+   "label": "»keeper« /",
+   "href": "/hu/termekek/eszkoezkezeles/szerszamraktar/keeper"
+  },
+  {
+   "label": "Konfiguráció",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/werkzeuglager/keeper/konfiguration",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management/tool-storage/keeper/configuration",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas/almacen-de-herramientas/portero/configuracion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils/magasin-doutils/keeper/configuration",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas/armazem-de-ferramentas/keeper/configuracao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management/magazzino-utensili/keeper/configurazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering/verktygslager/maalvakt/konfiguration",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement/werkzeuglager/keeper/konfiguration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/tool-storage/keeper/configuration",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils/magasin-doutillage/gardien/configuration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%80%89%E5%BA%AB/keeper/%E8%A8%AD%E5%AE%9A",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/keeper/%EA%B5%AC%EC%84%B1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management/tool-storage/keeper/configuration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas/almacen-de-herramientas/keeper/configuracion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas/armazem-de-ferramentas/keeper/configuracao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»keeper«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/hu/termekek/eszkoezkezeles/szerszamraktar/keeper",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Konfiguráció",
+     "href": "/hu/termekek/eszkoezkezeles/szerszamraktar/keeper/konfiguracio",
+     "current": false
+    },
+    {
+     "label": "Szoftver és integráció",
+     "href": "/hu/termekek/eszkoezkezeles/szerszamraktar/keeper/szoftver-es-integracio",
+     "current": false
+    },
+    {
+     "label": "GYIK",
+     "href": "/hu/termekek/eszkoezkezeles/szerszamraktar/keeper/gyik",
+     "current": false
+    },
+    {
+     "label": "Információs központ",
+     "href": "/hu/termekek/eszkoezkezeles/szerszamraktar/keeper/informacios-koezpont",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c3071",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Minden egy pillanat alatt </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3069",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p class=\"extra-large-text\">A Smart Cabinets esetében Ön dönt: válassza ki a kívánt termékeket, majd vegye fel a kapcsolatot a ZOLLER értékesítési csapatával – örömmel adunk tanácsot és összeállítjuk az Ön számára a kívánt modellt.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3068",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3070",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> A szekrény mérete </h2>",
+   "table": "<table> <tbody> <tr> <td> 3 kihúzható fiók, magasság x szélesség x mélység: 2000 x 1000 x 1050 mm, kihúzási mélység 810 mm </td> </tr> <tr> <td> 5 kihúzható fiók, magasság x szélesség x mélység: 2000 x 1000 x 1050 mm, kihúzási mélység 810 mm </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3067",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "extra-small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> hasznos teher </h2>",
+   "table": "<table> <tbody> <tr> <td> Max. 1000 kg teherbírás függőleges kihúzásonként </td> </tr> </tbody></table>",
+   "ftype": "table",
+   "id": "c3065",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Kivitelezés </h2>",
+   "table": "<table> <tbody> <tr> <td> Mechanikus kivitel, 3 vagy 5 kihúzható elemmel </td> </tr> <tr> <td> Elektronikus kivitel, 3 vagy 5 kihúzható elemmel </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3063",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> vezérlés </h2>",
+   "table": "<table> <tbody> <tr> <td> Oldalra szerelt panel-PC </td> </tr> <tr> <td> Különálló »„cockpit”« kezelőegység a »quickPick« vezérlőszoftverrel </td> </tr> <tr> <td> TMS Tool Management Solutions – munkaállomás </td> </tr> <tr> <td> ZOLLER beállító- és mérőműszerek – Smart Cabinets szoftvermodullal </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3064",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Osztályozás </h2>",
+   "table": "<table> <tbody> <tr> <td> Alapértelmezés szerint 6 szerszámtartó keret minden kihúzható részen </td> </tr> </tbody></table>",
+   "ftype": "table",
+   "id": "c3072",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Szerszámbetétek – SK változat </h2>",
+   "table": "<table> <tbody> <tr> <td> SK 30, S méret, szélesség 72 mm, max. 14 db keretenként </td> </tr> <tr> <td> SK 40, S méret, szélesség 72 mm, max. 14 db keretenként </td> </tr> <tr> <td> SK 50, L méret, szélesség 95 mm, max. 8 db keretenként </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3073",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Szerszámbetétek – HSK-változat </h2>",
+   "table": "<table> <tbody> <tr> <td> HSK 25, 32, S méret, szélesség 72 mm, max. 14 db keretenként </td> </tr> <tr> <td> HSK 40, S méret, szélesség 72 mm, max. 14 db keretenként </td> </tr> <tr> <td> HSK 50, S méret, szélesség 72 mm, max. 14 db keretenként </td> </tr> <tr> <td> HSK 63, S vagy L méret, szélesség 72 vagy 95 mm, max. 14 vagy 8 db keretenként; </td> </tr> <tr> <td> HSK 80, L méret, szélesség 95 mm, max. 8 db keretenként; </td> </tr> <tr> <td> HSK 100, L méret, szélesség 95 mm, max. 8 db keretenként </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3079",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Szerszámbetétek – VDI-változat </h2>",
+   "table": "<table> <tbody> <tr> <td> VDI 30, S méret, szélesség 72 mm, max. 14 db keretenként </td> </tr> <tr> <td> VDI 40, S méret, szélesség 72 mm, max. 14 db keretenként </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3076",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Szerszámbetétek – PSC változat </h2>",
+   "table": "<table> <tbody> <tr> <td> PSC 40, S méret, szélesség 72 mm, max. 14 db keretenként </td> </tr> <tr> <td> PSC 50, S méret, szélesség 72 mm, max. 14 db keretenként </td> </tr> <tr> <td> PSC 63, S méret, szélesség 72 mm, max. 14 db keretenként </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3074",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Szerszámbetétek – nyersdarab változat </h2>",
+   "table": "<table> <tbody> <tr> <td> B58, szélesség 58 mm, max. 8 db keretenként </td> </tr> <tr> <td> B75, szélesség 75 mm, max. 8 db keretenként </td> </tr> <tr> <td> B120, szélesség 120 mm, max. 8 db keretenként </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3077",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Szerszámbetétek – előtétfoglalat-kivitel </h2>",
+   "table": "<table> <tbody> <tr> <td> D 78 VSH 1. méret, szélesség 95 mm, max. 8 db keretenként </td> </tr> </tbody></table>",
+   "ftype": "table",
+   "id": "c3078",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Szerszámbetétek – Fa betétek </h2>",
+   "table": "<table> <tbody> <tr> <td> Fa betét/nyersdarab, szélesség 328 mm, max. 2 db keretenként </td> </tr> <tr> <td> D 42 14 furattal, szélesség 328 mm, max. 2 db keretenként </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3075",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Eszközkezelés: az Ön előnyei",
+     "caption": "<figcaption> <h3>Eszközkezelés: az Ön előnyei</h3> <p>Tudja meg, hogyan növeli a ZOLLER szerszámkezelési rendszere azonnal a termelékenységét! A szerszámadatoknak köszönhetően a folyamatok gyorsabban és biztonságosabban zajlanak – beleértve a gépei ütközésvédelmét is. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 szakértői beszélgetés",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 szakértői beszélgetés</h3> <p>Személyre szabott megbeszélés az Ön céljairól és az azok eléréséhez kapcsolódó ötleteinkről. A ZOLLER online tanácsadása közvetlenül a Smart Factory-ból. Foglaljon időpontot most! </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/hu/termekek/eszkoezkezeles/szerszamraktar/keeper/konfiguracio",
+ "de_path": "/produkte/toolmanagement/werkzeuglager/keeper/konfiguration"
+}

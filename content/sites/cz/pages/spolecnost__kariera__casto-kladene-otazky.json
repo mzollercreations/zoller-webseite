@@ -1,0 +1,464 @@
+{
+ "path": "/spolecnost/kariera/casto-kladene-otazky",
+ "url": "/cz/spolecnost/kariera/casto-kladene-otazky",
+ "title": "Kariéra – Často kladené otázky",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Společnost /",
+   "href": "/cz/spolecnost"
+  },
+  {
+   "label": "Kariéra /",
+   "href": "/cz/spolecnost/kariera"
+  },
+  {
+   "label": "Často kladené otázky",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Společnost /",
+   "href": "/cz/spolecnost"
+  },
+  {
+   "label": "Kariéra /",
+   "href": "/cz/spolecnost/kariera"
+  },
+  {
+   "label": "Často kladené otázky",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/karriere/faq",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/careers/faq",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/karriaer/vanliga-fraagor",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/karriere/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/carriere/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EC%B1%84%EC%9A%A9-%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Kariéra",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/cz/spolecnost/kariera",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Nabídky práce",
+     "href": "/cz/spolecnost/kariera/nabidky-prace",
+     "current": false
+    },
+    {
+     "label": "Často kladené otázky",
+     "href": "/cz/spolecnost/kariera/casto-kladene-otazky",
+     "current": false
+    },
+    {
+     "label": "Žádost",
+     "href": "/cz/spolecnost/kariera/zadost",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c4065",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Často kladené otázky </h1>",
+      "body": "<p class=\"large-text\">Často kladené otázky</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c4063",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Jaké dokumenty patří do kompletní žádosti o zaměstnání?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Zašlete nám prosím své podklady v elektronické podobě a nejlépe využijte příslušný formulář pro podání žádosti uvedený v nabídce volného místa.</p> <p>Kompletní podklady k žádosti o zaměstnání obsahují minimálně následující dokumenty:</p><ul><li>motivační dopis</li><li>Úplný životopis</li><li>Certifikáty a vysvědčení</li></ul>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c4060",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Jak poznám, že moje přihláška byla úspěšně doručena?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Využijte prosím přihlašovací formulář uvedený u dané pracovní nabídky. Pokud se odeslání podaří, obdržíte potvrzovací e-mail na vámi zadanou e-mailovou adresu.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c4056",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Jak dlouho budou moje podklady k žádosti o zaměstnání uloženy?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Vaše údaje zůstanou v našem systému uloženy po skončení výběrového řízení maximálně 2 měsíce a poté budou smazány.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c4054",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Jak probíhá přijímací řízení ve společnosti ZOLLER?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Jakmile vaše přihláška dorazí do našeho systému, obdržíte automatické potvrzení o přijetí e-mailem. Zpracování přihlášky trvá obvykle dva až tři týdny. Budeme vás informovat, zda vás pozveme na pohovor, nebo zda danou pozici obsadíme jiným uchazečem.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c4052",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Mohu se u společnosti ZOLLER ucházet o práci z vlastní iniciativy?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Samozřejmě se můžete ucházet o místo i z vlastní iniciativy.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c4068",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Mohu se ucházet o místo pro vypracování diplomové práce ve společnosti ZOLLER?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Budeme rádi, pokud u nás budete chtít napsat bakalářskou nebo magisterskou práci zaměřenou na praxi. Své návrhy témat pro konkrétní oblasti podniku nám můžete jednoduše zaslat <a class=\"link-arrow\" href=\"mailto:bewerbung@zoller.info\" title=\"An die Personalabteilung\">e-mailem</a>. Ideální by bylo, kdybyste svou závěrečnou práci spojili se stážemi ve společnosti ZOLLER.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c4072",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Nabízí společnost ZOLLER také duální studium?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Ano, společnost ZOLLER nabízí na DHBW ve Stuttgartu následující studijní obory v rámci duálního studia:</p><ul><li>Data Science a umělá inteligence</li><li>Informatika</li><li>Informatika – informační technologie</li><li>Strojírenství – konstrukce a vývoj</li><li>Průmyslové inženýrství – obecné průmyslové inženýrství</li></ul><p>Duální studium začíná každý rok v zimním semestru. Více informací najdete na webových stránkách společnosti ZOLLER v sekci Duální studium nebo na webových stránkách <a class=\"link-arrow\" href=\"https://www.dhbw-stuttgart.de/\" rel=\"noopener\" target=\"_blank\">DHWB ve Stuttgartu</a>.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c4074",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c4062",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4064",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/0/csm_teaser_profile_bf2693bd59.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "O společnosti ZOLLER",
+     "href": "/cz/spolecnost/profil",
+     "caption": "<figcaption> <h3>O společnosti ZOLLER</h3> <p>Se jménem ZOLLER je úzce spjat tým čítající více než 800 lidí, řada inovací a tradiční hodnoty rodinného podniku.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/4/csm_teaser_media_f7299d9c84.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Média",
+     "href": "/cz/spolecnost/media",
+     "caption": "<figcaption> <h3>Média</h3> <p>Zde najdete tiskové zprávy, oznámení o nových produktech, informace o účasti na veletrzích, články z odborných časopisů a<br/> archiv novinek.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/b/csm_teaser_reports_90bbbeda0a.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Zprávy a příběhy",
+     "href": "/cz/spolecnost/zpravy-a-pribehy",
+     "caption": "<figcaption> <h3>Zprávy a příběhy</h3> <p>Co se děje ve společnosti ZOLLER a jaké jsou ohlasy našich zákazníků na práci s řešením ZOLLER Solutions? Zde najdete nejnovější informace.</p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c26310",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/cz/spolecnost/kariera/casto-kladene-otazky",
+ "de_path": "/unternehmen/karriere/faq"
+}

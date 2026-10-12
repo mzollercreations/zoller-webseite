@@ -1,0 +1,528 @@
+{
+ "path": "/solutions/gestion-des-outils/materiel",
+ "url": "/fr/solutions/gestion-des-outils/materiel",
+ "title": "TMS Hardware",
+ "description": "TMS Hardware",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/fr/page-daccueil"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/fr/solutions"
+  },
+  {
+   "label": "Gestion des outils /",
+   "href": "/fr/solutions/gestion-des-outils"
+  },
+  {
+   "label": "TMS Hardware",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/fr/page-daccueil"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/fr/solutions"
+  },
+  {
+   "label": "Gestion des outils /",
+   "href": "/fr/solutions/gestion-des-outils"
+  },
+  {
+   "label": "TMS Hardware",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/toolmanagement/tms-hardware",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/tool-management/tms-hardware",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/gestion-de-herramientas/tms-hardware",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/gestion-des-outils/materiel",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/gestao-de-ferramentas/tms-hardware",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/tool-management/tms-hardware",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/solutions/toolmanagement/tms-hardware",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/toolmanagement/tms-hardware",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/tool-management/tms-hardware",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/gestion-des-outils/tms-hardware",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/solutions/toolmanagement/tms-hardware",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/solutions/toolmanagement/tms-hardware",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/toolmanagement/tms-hardware",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/gestion-de-herramientas/tms-hardware",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/gestao-de-ferramentas/tms-hardware",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/2/3/csm_header_toolmanagement_02_d65126df29.webp",
+     "video": null,
+     "title": "Armoires intelligentes",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c164336",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "subnav",
+   "title": "Gestion des outils",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/fr/solutions/gestion-des-outils",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "TMS Software",
+     "href": "/fr/solutions/gestion-des-outils/tms-software",
+     "current": false
+    },
+    {
+     "label": "TMS Hardware",
+     "href": "/fr/solutions/gestion-des-outils/materiel",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/fr/solutions/gestion-des-outils/faq",
+     "current": false
+    },
+    {
+     "label": "Pool d'informations",
+     "href": "/fr/solutions/gestion-des-outils/pool-dinformations",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c163338",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Solutions intelligentes de stockage et de gestion </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c163290",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p class=\"large-text\">Vous souhaitez travailler de manière plus productive et plus rentable grâce à un stockage d'outils efficace ? Alors les Smart Cabinets de ZOLLER sont exactement ce qu'il vous faut !</p> <p class=\"large-text\">Nous vous proposons la solution de stockage adaptée, que vous souhaitiez gérer des outils et leurs composants, des accessoires ou des équipements de test|moyens de contrôle. Grâce à la connexion logicielle, l'ensemble du stock peut être représenté virtuellement.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c163266",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c163314",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "quotes",
+   "header": "",
+   "slides": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/1/e/csm_josua_schade_9179cf0129.webp",
+      "alt": ""
+     },
+     "text": "<p class=\"extra-large-text\">Chez ZOLLER, nous adaptons le matériel et les logiciels aux besoins des utilisateurs. Nous proposons ainsi des solutions pratiques provenant d'un seul et même fournisseur.</p> <p><strong>Josua Schade, gestion des produits TMS-matériel</strong></p>",
+     "right": true,
+     "quote": true,
+     "dark": true
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/a/b/csm_sarah-michelle_wiacek_c4c06a6999.webp",
+      "alt": ""
+     },
+     "text": "<p class=\"extra-large-text\">L'équipe de montage ZOLLER à Pleidelsheim, en Allemagne, met tout en œuvre chaque jour pour garantir la qualité constante de vos Smart Cabinets. C'est tout simplement génial d'en faire partie !</p> <p><strong>Sarah-Michelle Wiacek, équipe Préparation du travail</strong></p>",
+     "right": true,
+     "quote": true,
+     "dark": true
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/0/9/csm_michael_haas_a5847acaff.webp",
+      "alt": ""
+     },
+     "text": "<p class=\"extra-large-text\">Grâce aux Smart Cabinets, nos clients ZOLLER augmentent non seulement leur efficacité, mais évitent également les erreurs dans le processus de fabrication en cours.</p> <p><strong>Michael Haas, service commercial ZOLLER Sud</strong></p>",
+     "right": true,
+     "quote": true,
+     "dark": true
+    }
+   ],
+   "ftype": "zoller_slider-full-width",
+   "id": "c163242",
+   "bg": "black",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Processus de stockage numérisés",
+    "Stockage des outils efficace et à moindre coût",
+    "Accès rapide et sécurisé aux outils et aux données"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c163218",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "products",
+   "header": "<h2> solutions matérielles </h2>",
+   "items": [
+    {
+     "href": "/fr/produits/gestion-des-outils/transfert-de-donnees/zidcode",
+     "title": "»zidCode«",
+     "text": "<p>Plus de sécurité et d'efficacité grâce à une gestion simple des données d'outils</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/c/csm_zidCode_preview_538b53ed83.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/fr/produits/gestion-des-outils/magasin-doutils/toolorganizer",
+     "title": "»toolOrganizer«",
+     "text": "<p>Pour outils de coupe et petites pièces</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_018ce796c6.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/fr/produits/gestion-des-outils/magasin-doutils/keeper",
+     "title": "»keeper«",
+     "text": "<p>Pour outils complets et porte-outils</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/a/csm_keeper_preview_1e87de3ba7.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/fr/produits/gestion-des-outils/magasin-doutils/autolock",
+     "title": "»autoLock«",
+     "text": "<p>Pour les équipements de test, les fournitures et les composants de grande taille</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/7/csm_autolock__preview_a71350a53a.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/fr/produits/gestion-des-outils/magasin-doutils/twister",
+     "title": "»twister«",
+     "text": "<p>Pour les composants d'outils et les accessoires</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/1/csm_twister__preview_edf94f7d12.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/fr/produits/gestion-des-outils/montage-doutil/toolstation",
+     "title": "»toolStation«",
+     "text": "<p>Pour un montage optimal des outils</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/f/csm_toolStation_preview_00b81d24f9.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/fr/produits/gestion-des-outils/montage-doutil/ztower",
+     "title": "»zTower«",
+     "text": "<p>Pour le montage universel d'outils</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/6/csm_zTower_preview_c0c8e3585e.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/fr/produits/gestion-des-outils/transport-des-outils/toolcart",
+     "title": "»toolCart«",
+     "text": "<p>Pour un transport confortable des outils</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_3be007bbac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c163194",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "newslist",
+   "header": "<h3> Témoignages d'utilisateurs </h3>",
+   "articles": [
+    {
+     "href": "/fr/votre-succes/detail/wirtschaftlich-in-serien-messen-mit-roboset-2",
+     "img": {
+      "src": "/fileadmin/_processed_/9/5/csm_mauth_teaserimg_5533c78968.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Rapport d'utilisateur",
+      "Automation"
+     ],
+     "title": "Mesurer en série de manière économique avec »roboSet 2«",
+     "teaser": "Une compétitivité accrue pour Mauth grâce au contrôle d'outil automatisé.",
+     "date": ""
+    },
+    {
+     "href": "/fr/votre-succes/detail/avec-smile-420-une-augmentation-du-chiffre-daffaires-de-1-million-de-dollars",
+     "img": {
+      "src": "/fileadmin/_processed_/a/c/csm_content_img_02_0c6cd77d5f.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Rapport d'utilisateur",
+      "Réglage et mesure"
+     ],
+     "title": "Avec »smile 420,« une augmentation du chiffre d'affaires de 1 million de dollars",
+     "teaser": "ProCam Services LLC : un banc de réglage et de mesure qui optimise les processus de travail et permet de gagner beaucoup de temps.",
+     "date": ""
+    },
+    {
+     "href": "/fr/votre-succes/detail/avec-lequipe-boxenstopp-pour-un-resultat-parfait",
+     "img": {
+      "src": "/fileadmin/_processed_/4/5/csm_Lauble_teaserimg_2fedde3a58.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Rapport d'utilisateur",
+      "Gestion des outils"
+     ],
+     "title": "Avec l'équipe Boxenstopp, pour un résultat parfait",
+     "teaser": "Lauble optimise la fabrication par tournage avec ZOLLER",
+     "date": ""
+    }
+   ],
+   "pages": [],
+   "ftype": "news_newsliststicky",
+   "id": "c163122",
+   "bg": "lightgray",
+   "space": {
+    "before": "medium",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p><a class=\"btn\" href=\"/fr/entreprise/rapports-et-recits?tx_news_pi1%5BoverwriteDemand%5D%5Btags%5D=43&amp;cHash=a66df74004d8f7d852aedf42cdc02852\">Afficher toutes les réussites</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c163098",
+   "bg": "lightgray",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/fr/solutions/gestion-des-outils/materiel",
+ "de_path": "/solutions/toolmanagement/tms-hardware"
+}

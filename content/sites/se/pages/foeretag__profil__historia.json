@@ -1,0 +1,814 @@
+{
+ "path": "/foeretag/profil/historia",
+ "url": "/se/foeretag/profil/historia",
+ "title": "Historia",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Företag /",
+   "href": "/se/foeretag"
+  },
+  {
+   "label": "Profil /",
+   "href": "/se/foeretag/profil"
+  },
+  {
+   "label": "Historia",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Företag /",
+   "href": "/se/foeretag"
+  },
+  {
+   "label": "Profil /",
+   "href": "/se/foeretag/profil"
+  },
+  {
+   "label": "Historia",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/profil/historie",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/profile/history",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/profil/historia",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/profil/historie",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/history",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/profil/historique",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/%E6%B2%BF%E9%9D%A9",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84/%EC%97%B0%ED%98%81",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/profile/history",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/perfil/historia",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/perfil/historia",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "timeline",
+   "heads": {
+    "772": {
+     "year": "1945",
+     "label": "Återkomst och nystart"
+    },
+    "773": {
+     "year": "1948",
+     "label": "Tillväxt och förändring"
+    },
+    "774": {
+     "year": "1958",
+     "label": "En världsnyhet"
+    },
+    "775": {
+     "year": "1968",
+     "label": "Snabbstart"
+    },
+    "776": {
+     "year": "1969",
+     "label": "I serieproduktion"
+    },
+    "777": {
+     "year": "1976",
+     "label": "Den första NC-styrda inställningsenheten"
+    },
+    "778": {
+     "year": "1977",
+     "label": "Före sin tid"
+    },
+    "779": {
+     "year": "1981",
+     "label": "Programvara för verktygsprocesser"
+    },
+    "780": {
+     "year": "1982",
+     "label": "ZOLLER flyttar till Freiberg am Nebelberg"
+    },
+    "781": {
+     "year": "1983",
+     "label": "ZOLLER sätter standarden"
+    },
+    "782": {
+     "year": "1985",
+     "label": "Power Brain ersätter Tool Brain"
+    },
+    "783": {
+     "year": "1988",
+     "label": "Prisbelönt design"
+    },
+    "784": {
+     "year": "1989",
+     "label": "Precision med µm-noggrannhet för alla användare"
+    },
+    "785": {
+     "year": "1991",
+     "label": "Fingrar istället för mus"
+    },
+    "786": {
+     "year": "1992",
+     "label": "Den första ZOLLER-maskinen för verktygskontroll"
+    },
+    "787": {
+     "year": "1993",
+     "label": "Det svåraste beslutet"
+    },
+    "788": {
+     "year": "1994",
+     "label": "KANBAN är på väg"
+    },
+    "789": {
+     "year": "1995",
+     "label": "smartCheck-eran inleds"
+    },
+    "790": {
+     "year": "1996",
+     "label": "Nya mjukvarulösningar"
+    },
+    "791": {
+     "year": "1997",
+     "label": "Go West"
+    },
+    "792": {
+     "year": "1998",
+     "label": "Nyheter inom mätning och provning"
+    },
+    "793": {
+     "year": "1999",
+     "label": "»lasso« fångar konturer"
+    },
+    "794": {
+     "year": "2000",
+     "label": "Den nya skillnaden: »smile«"
+    },
+    "795": {
+     "year": "2001",
+     "label": "Certifierat miljöledningssystem"
+    },
+    "796": {
+     "year": "2002",
+     "label": "Experten på fastighetsförsäljning: »redomatic«"
+    },
+    "797": {
+     "year": "2003",
+     "label": "Bättre överblick med »genius 3«"
+    },
+    "798": {
+     "year": "2004",
+     "label": "Pensioneringen blir inte av"
+    },
+    "799": {
+     "year": "2005",
+     "label": "En kort sammanfattning av utrustningen efter 60 år"
+    },
+    "800": {
+     "year": "2006",
+     "label": "»pilot 3.0«"
+    },
+    "801": {
+     "year": "2007",
+     "label": "»pilot elephant«: Mätning utan förkunskaper"
+    },
+    "802": {
+     "year": "2008",
+     "label": "Flytt till Pleidelsheim"
+    },
+    "803": {
+     "year": "2010",
+     "label": "ZOLLER i Japan"
+    },
+    "804": {
+     "year": "2011",
+     "label": "Verktygshantering med ZOLLER"
+    },
+    "805": {
+     "year": "2012",
+     "label": "»titan«"
+    },
+    "806": {
+     "year": "2013",
+     "label": "Utökning av sortimentet av mätmaskiner"
+    },
+    "807": {
+     "year": "2014",
+     "label": "Ökad effektivitet genom automatisering"
+    },
+    "808": {
+     "year": "2016",
+     "label": "Uppdatering för »smile« och »venturion«"
+    },
+    "809": {
+     "year": "2017",
+     "label": "Noggrann analys av verktygets yta"
+    },
+    "810": {
+     "year": "2018",
+     "label": "Huvudkontor i Ann Arbor,"
+    },
+    "811": {
+     "year": "2020",
+     "label": "Nybyggnad med Smart Factory och Academy"
+    },
+    "812": {
+     "year": "2021",
+     "label": "Verktygsautomatisering för tillverkning"
+    },
+    "813": {
+     "year": "2022",
+     "label": "Innovationer inom balansering och krympning"
+    },
+    "814": {
+     "year": "2023",
+     "label": "Portallösning för automatisering"
+    },
+    "815": {
+     "year": "2024",
+     "label": "Den nya mätmaskinen"
+    },
+    "816": {
+     "year": "2025",
+     "label": "Omfattande skötsel av »pom«-modellerna"
+    }
+   },
+   "items": [
+    {
+     "id": "772",
+     "html": "19<br/> 45 <h1>Återkomst och nystart</h1> <p>Alfred Zoller återvänder från Berlin till Ludwigsburg. Under nio år hade han varit utstationerad som mekanikermästare hos Hirth Flugmotoren. Den 1 september grundar Alfred Zoller sin mekaniska verkstad på Bogenstraße i Ludwigsburg. Andra världskriget hade tagit slut för knappt fyra månader sedan. Startförhållandena är därför svåra. Å ena sidan finns det mycket att reparera, å andra sidan är verktyg, material och maskiner en bristvara. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/8/csm_1945_01_0487a6b9c4.webp\" width=\"600\"/> <p>Alfred Zoller</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/0/csm_1945_02_240d6e6568.webp\" width=\"600\"/> <p>Bogenstraße i Ludwigsburg</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/d/csm_1945_03_bb9b277f52.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/6/csm_1945_04_f1fa6af766.webp\" width=\"600\"/> <h4>Reservoarpennor, tändare, brandslangar</h4> <p>Alfred Zoller reparerar motorer, brandsprutor, leksaker, reservoarpennor och allt annat som folk kommer till honom med. Dessutom reparerar han trasiga maskiner. De utgör grunden för att tillverka egna produkter.</p> <p>Särskilt framgångsrika är hans tändare av aluminium, som han tillverkar på sin svarv. Med tiden blir amerikanska soldater hans viktigaste kunder. De betalar för tändarna främst med cigaretter, jordnötssmör eller choklad.</p>",
+     "img": null
+    },
+    {
+     "id": "773",
+     "html": "19<br/> 48 <h3>Tillväxt och förändring</h3> <p>Alfred Zollers företag har etablerat sig framgångsrikt i Ludwigsburg. Det lilla företaget har vuxit under de senaste tre åren och antalet anställda har ökat. Det börjar bli trångt på Bogenstraße. Verkstaden byter plats och flyttar till Charlottenstraße. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/4/csm_1948_01_3e7d4e5914.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/3/csm_1948_02_cd124cd83d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/1/csm_1948_03_ddef5d6539.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/b/csm_1948_04_35d2f43c2e.webp\" width=\"600\"/> <h4>Verktygshållare och vidareutveckling</h4> <p>Ryktet om Zollers prestationer som mekaniker sprider sig. Företaget tillverkar verktygshållare för svarvar på licens, som säljs via flera återförsäljare. Det är de första verktygslösningarna i ZOLLERs historia. Därmed har Alfred Zoller fått fotfäste i branschen för svarvverktyg och svarvar. </p> <p>Ytterligare uppdrag kommer från maskintillverkare. Alfred Zoller ska tillverka plåtmaljer som kan användas för att ställa in svarvverktyg. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/4/csm_1948_01_3e7d4e5914.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "774",
+     "html": "19<br/> 58 <h3>En världsnyhet: Zollers inställningsverktyg för svarvverktyg</h3> <p>Kunderna kom med idén att en förinställningsenhet för svarvverktyg skulle förbättra tillverkningen avsevärt. Det uppfinningsrika företaget Zoller från Schwaben tog fasta på idén och utvecklade en pantograf för verktygsinställning. </p> <p>Egentligen är en pantograf ett ritverktyg. Men Zoller förstår sig på att använda mekanismen i kombination med ett mikroskop för verktygsinställning. Det var den första apparaten i världen med vilken en maskinoperatör kunde förinställa alla svarvverktyg externt utifrån en teknisk ritning. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/b/csm_1958_01_a451fe7896.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/0/csm_1958_02_ad7853d944.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/d/b/csm_1958_01_a451fe7896.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "775",
+     "html": "19<br/> 68 <h3>Snabbstart </h3> <p>Alfred Zollers son, Eberhard Zoller, börjar på företaget den 8 april. Den unge maskiningenjören arbetar hos Heidelberger Druck, en specialist på stora tryckpressar. Men hans fars hälsotillstånd kräver omedelbara åtgärder. ”Jag trivdes mycket bra hos Heidelberger Druck. Det var ett av de modernaste företagen i Tyskland. Men jag tvekade inte ett ögonblick att gå in i min fars företag”, minns Eberhard Zoller. Hans första uppdrag: att vidareutveckla inställnings- och mätinstrumentet. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/6/csm_1968_01_6f0f9a1511.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/6/csm_1968_02_8f0be66930.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/7/csm_1968_03_c3382b902c.webp\" width=\"600\"/> <h4>Namnbyte</h4> <p>Eftersom fokus alltmer förskjutits mot maskiner och verktygshållare byter företaget namn. På Hannovermässan presenterade man sig som ”ALFRED ZOLLER Maschinen- und Vorrichtungsbau”. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/6/csm_1968_01_6f0f9a1511.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "776",
+     "html": "19<br/> 69 <h3>I serieproduktion</h3> <p>Den inställningsapparat som Alfred Zoller uppfann och som Eberhard Zoller vidareutvecklade börjar tillverkas i serie. Företaget, som ursprungligen grundades som en mekanisk verkstad, blir en maskinbyggare. Fram till årets slut har över 30 apparater sålts. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/7/csm_1969_01_2d454117fb.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/7/csm_1969_01_2d454117fb.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "777",
+     "html": "19<br/> 76 <h3>Den första NC-styrda inställningsenheten</h3> <p>Verktygsinställningen sker fortfarande manuellt. Därför söker ZOLLER efter sätt att automatisera verktygets införing till inställningspositionen. Världens första NC-styrda inställningsenhet lanseras på marknaden: H 4000 från ZOLLER.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/e/csm_1976_03_cded673504.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/4/csm_1976_02_d7b5b5374d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/b/csm_1976_01_5e9cfdb9f4.webp\" width=\"600\"/> <h4>Besök av kungen</h4> <p>ZOLLER deltar i en verktygsmaskinmässa i Stockholm. Företaget från Ludwigsburg har uppenbarligen ett förstklassigt rykte som når ända upp i de högsta kretsarna. Kungen av exportpartnerlandet själv, Carl Gustaf av Sverige, besöker ZOLLERs mässmonter. Han vill veta vad det är som gör den schwabiska precisionstekniken så speciell.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/e/csm_1976_03_cded673504.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "778",
+     "html": "19<br/> 77 <h3>Före sin tid: Med Basic till det digitala inredningsbladet </h3> <p>Att programvaran kommer att få allt större betydelse för processerna är för Eberhard Zoller bara en tidsfråga. Det råder ingen tvekan om att ZOLLER bör utveckla lösningar för detta. Så ZOLLER-chefen lär sig på egen hand att programmera i Basic och presenterar det första digitala inställningsbladet på den internationella mässan i Hannover. Intresset är enormt redan från början. ZOLLER står plötsligt inför ett problem: man kan inte leverera. Chefen hade snarare tänkt sig programmet som en konceptskiss. Men fröet var sått. Eberhard Zoller anställer programmerare.</p>",
+     "img": null
+    },
+    {
+     "id": "779",
+     "html": "19<br/> 81 <h3>Programvara för verktygsprocesser</h3> <p>Eberhard Zoller vill kunna digitalisera ännu fler funktioner inom verktygshanteringen. 1981 lanserade ZOLLER sin första programvara för verktygshantering: Tool Brain.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/d/csm_1981_01_96ddb65e12.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/b/csm_1981_02_f5b5db0122.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/6/d/csm_1981_01_96ddb65e12.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "780",
+     "html": "19<br/> 82 <h3>ZOLLER flyttar till Freiberg am Nebelberg</h3> <p>Företaget står inför sin nästa flytt, eftersom lokalerna i Ludwigsburg inte längre räcker till för ZOLLERs tillväxt. I Freiberg a.N. bygger ZOLLER nya lokaler och skapar därmed optimala förutsättningar för att anpassa produktion, utveckling och administration för framtiden. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/e/csm_1982_01_55ec0d8af2.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_1982_02_8738e9d4cd.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/e/csm_1982_01_55ec0d8af2.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "781",
+     "html": "19<br/> 83 <h3>ZOLLER sätter standarden för inställningsverktyg</h3> <p>Den manuella inställningsenheten H 1000 med digital display och projektor (D150 mm) erövrar marknaden. Det är den mest använda inställningsenheten för CNC-styrda svarvar vid denna tid. Dessutom lanseras ZOLLER:s första vertikala modell på marknaden: V 1500. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/b/csm_1983_01_cda21bfcaf.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/b/csm_1983_01_cda21bfcaf.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "782",
+     "html": "19<br/> 85 <h3>Power Brain ersätter Tool Brain</h3> <p>ZOLLER har insett vikten av digital verktygshantering och fortsatt utvecklingen av programvaran Tool Brain. Den första utbyggnaden av programvaran lanserades 1985: Power Brain. Vägen mot de senare TMS Tool Management Solutions är redan utstakad. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/4/csm_1985_01_b58799cdf1.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/e/csm_1985_02_365ef2e25f.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/4/csm_1985_01_b58799cdf1.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "783",
+     "html": "19<br/> 88 <h3>Design, ergonomi och användarvänlighet som fått utmärkelser</h3> <p>Eberhard Zoller lägger särskild vikt vid ergonomi, enkel hantering och modulär uppbyggnad. För honom är detta avgörande egenskaper med mervärde som gör att ZOLLER kan särskilja sig på marknaden. Därför låter han V- och H-serierna utvecklas på nytt. De ska i ännu högre grad uppfylla de ovannämnda kriterierna. </p> <p>ZOLLER utrustar serierna med innovationer, såsom enhandsmanövrering och steglös finjustering. De gör användningen betydligt bekvämare. För första gången samarbetar företaget med en industridesigner. Ansträngningen lönar sig: Maskinerna vinner det internationella industridesignpriset HiF och utnämns till ”De bästa av de bästa”.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/2/csm_1988_01_fa494a9b49.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/3/csm_1988_02_3a8ac45faa.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/7/csm_1988_03_967f0da541.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/4/csm_1988_04_0d0d8359a6.webp\" width=\"600\"/> <h4>Internationaliseringen ökar försäljningen</h4> <p>De internationella försäljningsaktiviteterna ökar och den årliga försäljningen av inställnings- och mätinstrument stiger till 600 enheter. Filialer i Frankrike, Österrike och Schweiz tillkommer, liksom många återförsäljare. ZOLLER-Austria blir marknadsledande i Österrike redan tio år efter grundandet.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_1988_01_fa494a9b49.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "784",
+     "html": "19<br/> 89 <h3>Precision med µm-noggrannhet för alla användare</h3> <p>Ännu en teknisk milstolpe från ZOLLER: För första gången används en elektronisk PET-projektor på CNC-styrda inställningsmaskiner. Därmed är ZOLLER den första tillverkaren i världen som erbjuder ett system som möjliggör reproducerbara mätningar med mikrometernoggrannhet, oberoende av operatören.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/f/csm_1989_01_9d8f692b54.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/9/csm_1989_02_a7e3a3b9a2.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/f/csm_1989_01_9d8f692b54.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "785",
+     "html": "19<br/> 91 <h3>Fingrar istället för mus</h3> <p>ZOLLER gör sina maskiner ännu mer användarvänliga. Tack vare de nya elektroniken TS 20 och 40 introduceras för första gången pekskärmar, vilket gör musklick nästan överflödiga vid programvaruhanteringen. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/2/csm_1991_01_1336facf94.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/2/csm_1991_01_1336facf94.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "786",
+     "html": "19<br/> 92 <h3>Den första ZOLLER-maskinen för verktygskontroll </h3> <p>För att möta de höga kraven från verktygstillverkare och slipverkstäder utvecklar ZOLLER en specialiserad mätutrustning med särskild precision och ännu fler möjligheter. Den första enheten heter H321S och levereras till grannen i Schwaben, till Walter i Tübingen. Medföljer: Den nya programvaran GeoTool inklusive dataöverföring till CNC-slipmaskinen.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/c/csm_1992_01_256c6efd73.webp\" width=\"600\"/> <h4>Ekonomikrisen 1992/93 – Försäljningen rasar inom loppet av några månader </h4> <p>Entusiasmen dämpas dock. Medan FAMETA '92 pågår meddelar bilindustrin att man kommer att säga upp tiotusentals anställda. Konjunkturkrisen slår till, med djupgående konsekvenser för ZOLLER. ”Fram till september hade vi i genomsnitt order på cirka 50 inställnings- och mätinstrument per månad”, minns Eberhard Zoller. ”I december var det bara fyra kvar.” </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/c/csm_1992_01_256c6efd73.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "787",
+     "html": "19<br/> 93 <h3>Det svåraste beslutet</h3> <p>Under julhelgen 1992 tvingas Eberhard Zoller fatta ett av de svåraste besluten i hela sin yrkeskarriär. 1993 lägger ZOLLER ner sin egen komponenttillverkning. Eftersom produktionen läggs ut på entreprenad förlorar många medarbetare sina jobb. </p> <p>Eberhard Zoller: ”Det var tufft för människorna och tufft för mig. Vi hade en modern tillverkning med tvåskiftsdrift. Vi kunde fylla maskinerna med delar och låta dem köra obemannat även på natten. Nu var det slut med det.”</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/7/csm_1993_01_3b720306c3.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_1993_02_b47ef20774.webp\" width=\"600\"/> <h4>AWV – patenterad bildbehandlingsteknik</h4> <p>På mässan EMO i Hannover presenterar ZOLLER för första gången den egenutvecklade och patenterade bildbehandlingstekniken AWV. ZOLLER får stor internationell uppmärksamhet eftersom AWV visualiserar mätdata för ett verktyg på ett enastående sätt. AWV lägger grunden för industriell mätteknik via bildbehandling och optik.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/5/7/csm_1993_01_3b720306c3.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "788",
+     "html": "19<br/> 94 <h3>KANBAN är på väg</h3> <p>Den tredje generationen tar över hos ZOLLER. Eberhard Zollers äldste son, Christoph Zoller, blir en del av ZOLLER-teamet. Det första projektet: Han optimerar organisationen genom att införa KANBAN-systemet i reservdelslagret. Ett viktigt steg mot ökad effektivitet, som gör det möjligt för ZOLLER att leverera alla inställnings- och mätinstrument i sortimentet till en kund inom 14 dagar. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/f/csm_1994_01_19b5d93249.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/2/csm_1994_02_116316a436.webp\" width=\"600\"/> <h4>ZOLLER-programvara för Windows</h4> <p>På AMB-mässan i Stuttgart visar ZOLLER för första gången programvaran »Multivision« med operativsystemet Windows. Även den första mätaren för verktygs- och formtillverkning för mätning av elektroder presenteras officiellt: »V321combi«. </p> <p>Den nyutvecklade produktserien »hyperion«och den nya modellserien »bravo 1/2/3« lanseras på marknaden.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/f/csm_1994_01_19b5d93249.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "789",
+     "html": "19<br/> 95 <h3>smartCheck-eran inleds </h3> <p>En efterföljare till enheten H321S, avsedd för verktygstillverkare och slipverkstäder, är på väg. »smartCheck« lanseras, för närvarande fortfarande med en svängbar kamera med infallande ljus och programvaran »screenMachine«.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/2/csm_1995_01_2c911ae657.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/2/csm_1995_01_2c911ae657.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "790",
+     "html": "19<br/> 96 <h3>Nya mjukvarulösningar</h3> <p>Bara tre år efter den första presentationen lanserar ZOLLER den vidareutvecklade bildbehandlingsprogramvaran »AWV III« för sina kunder. En annan nyhet är enhetens styrprogramvara: »saturn«. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/d/csm_1996_01_9278eff800.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/f/csm_1996_02_928584a655.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/8/d/csm_1996_01_9278eff800.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "791",
+     "html": "19<br/> 97 <h3>Go West – ZOLLER öppnar filial i USA </h3> <p>Fram till 1997 lät ZOLLER externa representanter sköta den amerikanska marknaden. Med måttlig framgång. Efter ett besök på mässan IMTS 1992 i Chicago beslutade Christoph Zoller att grunda ett ZOLLER-kontor i USA. Platsen: Ann Arbor, Michigan, cirka 60 kilometer väster om den tidigare amerikanska bilmetropolen Detroit. ZOLLER Inc. utvecklas till en viktig verksamhetsplats och stödjer idag, förutom kunderna i USA, även kunder i Kanada och Mexiko.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/3/csm_1997_01_a08b653023.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/0/csm_1997_02_60f63602df.webp\" width=\"600\"/> <h4>Manuella mätningar blir ännu enklare</h4> <p>”E-Magix” är namnet på den nya bildbehandlingen för de manuella ZOLLER-enheterna. Därmed blir även dessa inställnings- och mätinstrument redo för användaroberoende mätningar med mikrometerprecision. ZOLLER-kunder med mindre budgetar kan därmed också dra nytta av den automatiska bildbehandlingen. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/3/csm_1997_01_a08b653023.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "792",
+     "html": "19<br/> 98 <h3>Nyheter inom mätning och provning</h3> <p>På den första specialmässan för tillverkare av precisionsverktyg i Augsburg presenterar Zoller sitt sortiment för mätning och kontroll av verktyg. Särskilt populära är modellerna »V420 premium«, »V420 profi« och framför allt »V420 magnum« med bildbehandlingsteknik.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/8/csm_1998_01_3d21d4534b.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/5/csm_1998_02_889c862a76.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/9/csm_1998_03_be2a6c4d07.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/8/csm_1998_01_3d21d4534b.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "793",
+     "html": "19<br/> 99 <h3>»lasso« fångar konturer</h3> <p>En programvara väcker entusiasm bland experterna: »lasso« gör det för första gången möjligt att helt automatiskt skanna spiralformade verktyg på en inställnings- och mätmaskin. Dessutom kan programvaran utvärdera former och konturer med µm-noggrannhet genom en jämförelse mellan teori och praktik med hjälp av ett toleransband baserat på en DXF-teorikontur. Så kallade ”granar” var mycket populära – särskilt inom flyg- och rymdindustrin. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/4/csm_1999_01_387ee1601f.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/0/csm_1999_02_efda5ebf67.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/4/csm_1999_01_387ee1601f.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "794",
+     "html": "20<br/> 00 <h3>Den nya skillnaden: »smile«</h3> <p>Med serien »smile« är ZOLLER:s genomlysningsprojektor för manuella inställnings- och mätinstrument definitivt ett minne blott. Medan konkurrenterna på mässan Intertool presenterar apparater med projektor som en nyhet – men bara från andra tillverkare – ligger ZOLLER, i sin roll som innovationsdrivande aktör, återigen miltals före marknaden. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/0/csm_2000_01_92bdc20f46.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/7/csm_2000_02_3a12cc2553.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/0/csm_2000_01_92bdc20f46.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "795",
+     "html": "20<br/> 01 <h3>Certifierat miljöledningssystem</h3> <p>ZOLLER tar miljöskydd på allvar. Därför låter företaget sig certifieras enligt DIN EN ISO 14001. Detta innebär att ett miljöledningssystem införs som är internationellt erkänt genom certifieringen.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/7/csm_2001_00_fcecf51b1d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/c/csm_2001_01_fbfed3b0ab.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/3/csm_2001_02_96ed611f19.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/2/csm_2001_03_a6c71d07ca.webp\" width=\"600\"/> <h4>Testgeniet: »genius«</h4> <p>ZOLLER utökar sitt sortiment av inställnings- och mätutrustning med mät- och testmaskinen »genius«. Enheten erbjuder bland annat 5 CNC-axlar och automatisk mätning med infallande ljus. På så sätt kan ZOLLER även leverera till de kunder som vill registrera många parametrar automatiskt på skäreggen och kontrollera verktygens kvalitet med hög precision: verktygstillverkare och slipverkstäder. </p> <p>På EMO i Hannover presenterar ZOLLER ytterligare nyutvecklade tekniska höjdpunkter: universalspindeln »ace«,uppspänning och mätning mellan spetsar med »phoenix«, inställnings- och mätapparaten »zenit« i arbetsplatsutförande för skärhuvuden samt den helautomatiska mätapparaten för vevaxelfräsar, »gemini«.</p> <h4>Den tredje generationen, del 2</h4> <p>Eberhard Zollers yngre son, Alexander Zoller, börjar i september som anställd i företaget. Innan dess genomförde han en dubbelutbildning vid yrkesakademin och hos ZOLLER.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/7/csm_2001_00_fcecf51b1d.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "796",
+     "html": "20<br/> 02 <h3>Experten på fastighetsförsäljning: »redomatic«</h3> <p>Det första uppdraget gäller en anordning som kan användas för att krympa och dra ut verktyg samt mäta och justera dem. Det som saknas är den rätta lösningen. Under en bilresa till en kund i Schweiz diskuterar Eberhard Zoller och utvecklaren Christian Pfau möjliga tekniska lösningar. Resan till grannlandet lönar sig. Efter hemkomsten står konstruktionen klar – åtminstone i deras huvuden. Vid sidan om säljer de två tre »genius« till Schweiz. </p> <p>»redomatic«, den nya inställnings- och mätapparaten med induktiv krympteknik, presenteras på AMB i Stuttgart. Det var bara början på krymptekniken made by ZOLLER. På IMTS i USA, som äger rum samtidigt, visar ZOLLER den helautomatiska versionen »roboToSet« och presenterar hur Schunk-TRIBOS polygonspänningsteknik kombineras med inställnings- och mätinstrumenten i V-serien.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/a/csm_2002_00_95db9b4435.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_2002_01_1d3c5d8d2f.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/a/csm_2002_00_95db9b4435.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "797",
+     "html": "20<br/> 03 <h3>Bättre överblick med »genius 3«</h3> <p>ZOLLER monterar en ny optik i mätmaskinen »genius 3« och presenterar enheten »genius Mikro«. Den horisontella enhetsserien »”hyperion” får en ny optikhållare med DME-kamera, svänganordning och snabbjustering av optiken, vilket ger ännu fler möjligheter vid verktygsinställning.«</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/d/csm_2003_00_913135cae6.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/8/csm_2003_01_2bdaa4001e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/1/csm_2003_02_de3551a3c4.webp\" width=\"600\"/> <h4>ZOLLER Iberica</h4> <p>ZOLLER Iberica grundas. Därmed etablerar sig ZOLLER på två nya marknader: i Portugal och Spanien. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/d/csm_2003_00_913135cae6.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "798",
+     "html": "20<br/> 04 <h3>Pensioneringen blir inte av</h3> <p>ZOLLER utökar ledningen med sönerna Alexander och Christoph Zoller. Planen är att Christoph Zoller ska återvända från USA för att ta ett större ansvar i Freiberg a.N. Eberhard Zoller drar sig till stor del tillbaka från den operativa verksamheten, eftersom den äldre chefen redan hade skaffat sig en hund inför pensioneringen. Hans plan: gå på promenader och ta hand om sin fyrbenta väns behov. Men det blir annorlunda.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/1/csm_2004_00_cb56fd1d1e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/b/csm_2004_01_51b4876229.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/5/csm_2004_02_cb9a1f217b.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/5/csm_2004_03_ad74b64e11.webp\" width=\"600\"/> <h4>På väg till Kina </h4> <p>Christoph Zoller ger sig av från USA mot Kina och Indien. Tillväxtmarknaderna behöver ju ett ZOLLER-kontor. Sagt, gjort. Han öppnar en filial i både Shanghai och Pune. Brodern Alexander flyttar till USA, tar över den amerikanska verksamheten och bygger vidare på filialen. Och Eberhard Zoller? Han fortsätter att gå till företaget – tillsammans med sin hund.</p> <h4>Mätning i alla skärlägen</h4> <p>Med Zoller »aralon«blir det för första gången möjligt att helt automatiskt mäta vevaxelfräsar med inre skär i alla skärlägen. Mätinstrumentet för skärhuvuden, »zenit«, kompletteras med en portal-bakdocka med pneumatisk spänning av nedsänkningsaxlar.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/f/1/csm_2004_00_cb56fd1d1e.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "799",
+     "html": "20<br/> 05 <h3>En kort sammanfattning av utrustningen efter 60 år</h3> <p>Hos ZOLLER präglar företagets grundare Alfred Zollers värderingar fortfarande företagets interna inställning: att snabbt reagera på förändringar, kontinuerligt arbeta med innovationer och alltid lyssna noga på vad kunderna vill ha. </p> <p>De internationella kunderna belönar detta arbetssätt med förtroende: sedan Alfred Zollers första apparat har ZOLLER fram till slutet av 2005 sålt ytterligare cirka 20 000 inställnings- och mätapparater.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/1/csm_2005_00_fdd8ab8f6d.webp\" width=\"600\"/> <h4>Helautomatisk verktygskontroll</h4> <p>Mätmaskinen »genius 3« vidareutvecklas ytterligare och matas för första gången helt automatiskt. Som »genius 3 sx« mäter den 75 olika typer av verktyg som är laddade i magasinet helt utan mänsklig inblandning. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/1/csm_2005_00_fdd8ab8f6d.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "800",
+     "html": "20<br/> 06 <h3>Programvara i toppklass: »pilot 3.0«</h3> <p>Enhetsprogramvaran »saturn« får en efterföljare med ny arkitektur och ett MMI-optimerat, modernt gränssnitt: »pilot 3.0«. </p> <p>Zoller sätter därmed den globala standarden för ett genomgående mjukvarukoncept för inställnings- och mätinstrument, mätmaskiner, bildbehandling och verktygshantering, inklusive datalagring och gränssnitt. »pilot 3« är det ultimata valet för bekväm användning och extremt snabb bildbehandling. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/7/csm_2006_00_d45da2d636.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/5/csm_2006_01_5b3b85a630.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/2/csm_2006_02_b88e48a4ae.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/9/csm_2006_03_b2dcfb6a42.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/7/csm_2006_00_d45da2d636.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "801",
+     "html": "20<br/> 07 <h3>»pilot elephant«: Mätning utan förkunskaper</h3> <p>Hos ZOLLER gäller: Mätning ska vara enkelt. Med hjälp av assistansprogramvaran »pilot elephant« visar företaget att alla som arbetar vid en ZOLLER-maskin kan mäta verktyg med mikrometerprecision – utan att behöva mata in data och utan förkunskaper i hanteringen. Det spelar ingen roll om det är en erfaren maskinoperatör eller en sommarjobbare som står vid inställnings- och mätmaskinen. Internt hos ZOLLER kallas denna funktion för ”Dampfhammer”. </p> <p>På EMO visar ZOLLER hur man kan göra den framgångsrika mätmaskinen »genius« ännu bättre. »genius« är nu utrustad med »pilot 3«, har en ytterligare axel och en ny mikrosensor. Det möjliggör ännu högre precision samt vinkelmätningar på ytor – även om materialet är transparent. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/1/csm_2007_00_d5ee02dddf.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/2/csm_2007_01_2e3104732a.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/1/csm_2007_00_d5ee02dddf.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "802",
+     "html": "20<br/> 08 <h3>Flytt till Pleidelsheim</h3> <p>Efter drygt 25 år har huvudkontoret i Freiberg a.N. blivit för litet. ZOLLER flyttar cirka 4 kilometer längre bort, till andra sidan Neckar, till Pleidelsheim.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/1/csm_2008_00_afd72ac2c5.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/0/csm_2008_01_bb00de4a3d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/f/csm_2008_02_08fa1ae800.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/f/csm_2008_03_678beb8dc2.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/1/csm_2008_00_afd72ac2c5.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "803",
+     "html": "20<br/> 10 <h3>ZOLLER i Japan</h3> <p>I storstaden Osaka öppnar ZOLLER sin filial i Japan. Det medelstora företaget från Pleidelsheim tar därmed steg för steg in på ytterligare en viktig marknad. Senare tillkommer ytterligare kontor i Nagano och Yokohama.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/f/csm_2010_00_93381b4b80.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/2/csm_2010_01_6ac9a7367e.webp\" width=\"600\"/> <h4>Mer utrymme uppåt för »venturion«</h4> <p>Inställnings- och mätinstrumenten i produktserien »venturion800« får mer utrymme i Z-riktningen. På begäran är nu mätlängder på 1 400 mm och 1 600 mm möjliga. Det första instrumentet levereras till ZF-Windpower i USA.</p> <h4>Den första virtuella mätaren</h4> <p>Nyheter även inom mjukvaruområdet: simuleringsprogramvaran »CAZ« (computer aided ZOLLER). Det rör sig om en virtuell mätmaskin med vilken mätförlopp kan simuleras redan under verktygskonstruktionen med hjälp av 3D-modellen. »caz« är integrerat i »pilot«, så att konstruktören kan överföra färdiga mätrutiner till en ZOLLER-maskin. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/f/csm_2010_00_93381b4b80.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "804",
+     "html": "20<br/> 11 <h3>Verktygshantering med ZOLLER</h3> <p>Den som använder programvara för verktygshantering i tillverkningen har tillgång till strukturerade verktygsdata. ZOLLER presenterar programvaran TMS Toolmanagement Solutions och slår därmed en bro mellan digital verktygshantering och mätdata från inställnings- och mätinstrument samt provningsmaskiner. Data och datahantering växer samman.</p> <h4>Snabb, processnära mätning</h4> <p>ZOLLER lanserar »pomSkpGo« på marknaden. Det ärden första mobila mätaren för mätning av skäreggsberedning. Därmed förenar ZOLLER flexibilitet och hög precision i en och samma enhet. Det är starten för enheter som är inriktade på processnära mätning. De står för snabba, precisa manuella mätningar vid varumottagningen eller för verktygskontroller bredvid slipmaskinen.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/0/csm_2011_00_3b26f621ab.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/d/csm_2011_01_32ad31d9b5.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/4/csm_2011_02_63b4fd55b9.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/3/csm_2011_03_692d824123.webp\" width=\"600\"/> <h4>Portföljen växer med specialapplikationer</h4> <p>Även nytt: Sex toppspecialister för speciella verktygstyper. För mätningar på valsfräsar kan kunderna i framtiden använda »hobCheck« och »pomZenit«. Den som vill mäta sågblad satsar på »sawCheck«, med »millCheck« kan planfräsarhuvuden mätas, med »pomZenit« vinkelfräsarhuvuden och med »hobCheck800«vändskivsförsedda rullfräsar. </p> <p>För kunder inom motortillverkning anpassar ZOLLER sin överlägsna mätteknik till mätning och riktning av vevaxelfräsar. Lösningarna heter »eQick200«och »eQuick 300«.</p> <p>Även behoven inom verktygs- och formtillverkning hamnar alltmer i fokus. ZOLLER realiserar »smile EDM« och utvecklar för detta en speciell modul med elektronisk mätgivare samt programvara med grafiskt användargränssnitt och ytterligare beräkningsmetoder.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/0/csm_2011_00_3b26f621ab.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "805",
+     "html": "20<br/> 12 <h3>Gränsen för vad som är tekniskt möjligt: »titan«</h3> <p>Mät- och provningsmaskinen »titan« utökar »genius«-serien. Denna maskin är en helautomatisk högpresterande lösning med upp till 7 CNC-axlar för mikrometerprecis inspektion av precisionsverktyg, inklusive bearbetning av skäreggar. »titan« är en mätjätte som väger upp till 1 400 kilo. En maskin som stoiskt utför sitt precisionsarbete mitt i produktionen.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/d/csm_2012_00_c6b0ad0be7.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/2/csm_2012_01_7dd3291b48.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/b/csm_2012_02_d7d56b35ec.webp\" width=\"600\"/> <h4>Experten på brotschar </h4> <p>Utöver de omfattande lösningarna för inställning och mätning av brotschar via bildbehandling utrustar ZOLLER enheten »reamCheck« med en elektronisk dubbelknapp.</p> <h4>ZOLLER i Storbritannien och Indonesien</h4> <p>I december grundar ZOLLER sin filial i Storbritannien. I det lugna Foston i grevskapet Derbyshire har ZOLLER-UK-teamet idag sitt säte. Det ligger nästan mitt i triangeln Birmingham – Sheffield – Manchester. Samma år öppnar ZOLLER ett kontor i Indonesien. </p> <p>Det globala antalet sålda inställnings- och mätinstrument stiger till över 30 000 vid årets slut. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/d/csm_2012_00_c6b0ad0be7.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "806",
+     "html": "20<br/> 13 <h3>Utökning av sortimentet av mätmaskiner</h3> <p>Mätmaskinen »threadCheck« kompletterar inspektionssortimentet med automatisk mätning och kontroll av gängverktyg. </p> <p>Den nya enheten »3dCheck« bygger på »genius«, men har ytterligare funktioner. Den följer den växande trenden mot digitala tvillingar av verktyg och digitalisering av arbetsstycken. Denna sexaxliga mätmaskin sköter inte bara den exakta verktygsinspektionen, utan skapar till exempel en 3D-digitalisering av ett verktyg. </p> <p>Mätmaskinen »edgeControl« är specialiserad på att upptäcka slitage och registrera även de minsta skadorna på skäreggen utan beröring. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/5/csm_2013_00_fd665e9f3e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/7/csm_2013_01_915ec1ed8a.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/2/csm_2013_02_5c895d3081.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/0/csm_2013_03_781bcf7142.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/a/csm_2013_04_13dd281fe0.webp\" width=\"600\"/> <h4>Ytterligare enheter för mätning nära processen</h4> <p>POM-serien utökas med tre nya modeller. För processnära mätning av standard- och mikroverktyg presenterar ZOLLER de nya universalinstrumenten »pomBasic« och »pomBasic micro« för sina kunder. Med »pomDiaCheck« lanseras en specialenhet för användning nära processen, som mäter diametern på rundslipade råämnen samt borr- och avrädningsverktyg med en noggrannhet på mindre än 1 µm.</p> <h4>CNC-teknik för »redomatic«</h4> <p>Den kombinerade enheten för längdnoggrann krympning, inställning och mätning av krympverktyg mäter nu helt automatiskt. Förutom att sätta in komponenterna och ta ut det färdiga kompletta verktyget har operatören en passiv roll.</p> <h4>Certifieringar</h4> <p>ZOLLER inför DIN EN ISO 17025 och låter sig omcertifieras inom kvalitetsledning enligt ISO 9001:2008, VDA 6.4:2005 samt enligt miljöledningssystemet ISO 140001:2004.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/3/5/csm_2013_00_fd665e9f3e.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "807",
+     "html": "20<br/> 14 <h3>Ökad effektivitet för verktygstillverkare genom automatisering</h3> <p>På mässan GrindTec i Augsburg visar ZOLLER hur verktygstillverkare och slipverk kan automatisera verktygskontrollen. »roboSet 1« sköter alla verktygshanteringsprocesser för den universella mätmaskinen »genius«. Hela verktygssatser kontrolleras helt automatiskt och resultaten dokumenteras. </p> <p>En annan nyhet är lösningar för helautomatisk mätning av speciella borrgeometrier och -typer somKENtip samt en programvara för mätning av slipskivor.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/4/csm_2014_00_ee8616f1bd.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/7/csm_2014_01_4b275c8266.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/4/csm_2014_02_8723403680.webp\" width=\"600\"/> <h4>Kontinuerlig, automatiserad dataöverföring</h4> <p>Att mata in verktygsdata manuellt hör till det förflutna. På EMO i Milano visar ZOLLER upp »zidCode« för första gången. Denna nya lösning från ZOLLER överför verktygsdata direkt, felfritt och styrningsanpassat till CNC-maskinen. Det räcker med att skanna koden på verktyget.</p> <p>För ZOLLER är zidCode en viktig innovation, eftersom tillverkningen därmed från och med nu sker digitalt genom hela CAM-to-Part-processen.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/4/csm_2014_00_ee8616f1bd.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "808",
+     "html": "20<br/> 16 <h3>Den stora uppdateringen för »smile« och »venturion«</h3> <p>De beprövade inställnings- och mätinstrumenten i serierna »smile« och »venturion« har fått en uppgradering. Ännu högre precision, ännu enklare hantering, ännu mer komfort. Det spelar nästan ingen roll längre om det är en fackman eller en utbildad operatör som trycker på knapparna på en »smile« eller »venturion«. </p> <p>Maximal support tillhandahålls av CNC-styrning, enhetsprogramvaran »pilot«, autofokus, den separata manöverenheten »cockpit«, assistansprogramvaran »elephant« och det nya enhandshandtaget »eQ«. ZOLLER bevisar att de mest användarvänliga precisionsinstrumenten kommer från Pleidelsheim.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/1/csm_2016_00_b30d8d238e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/3/csm_2016_01_94d97f1b9b.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/d/csm_2016_02_3b49344a7e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/9/csm_2016_03_23ec9d58b3.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/d/1/csm_2016_00_b30d8d238e.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "809",
+     "html": "20<br/> 17 <h3>Noggrann analys av verktygets yta</h3> <p>Den processnära inspektionsenheten »mµFocus« ger verktygstillverkare en detaljerad inblick i ytans grovhet vid skäreggarna – helt utan beröring. Med sitt högupplösta optiska system och den överlägsna bildbehandlingen från »pilot« skapar »mµFocus« färgkodade bilder. De gör även de minsta skador och repor synliga.</p> <h4>Hårdvara för verktygshantering utökar verktygshanteringen </h4> <p>Många ZOLLER-kunder använder redan TMS Tool Management Solutions, den modulära programvaran för verktygs- och verktygsdatahantering. Nu följer den passande hårdvaran: det stora verktygsskåpet »keeper«, skåpet för verktyg och smådelar, »toolOrganizer«, samt monteringsstationen »toolStation«. Alla kan kombineras direkt med ZOLLER-programvaran. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/f/csm_2017_00_887e40741c.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/8/csm_2017_01_8a326e2894.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/3/f/csm_2017_00_887e40741c.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "810",
+     "html": "20<br/> 18 <h3>Huvudkontor i Ann Arbor, ny byggnad i Japan</h3> <p>Efter mer än 20 års marknadsutveckling i USA flyttar ZOLLER Inc., ZOLLER:s amerikanska dotterbolag, in i det nybyggda huvudkontoret i Ann Arbor, Michigan. Alexander Zoller lägger därmed grunden för ZOLLER:s nya designinriktning inom byggbranschen. Den stora och välutrustade showroomen blir snabbt en knutpunkt för kundmöten, utbildningar, presentationer, interna evenemang och framgången i USA. </p> <p>Zoller stärker också sin närvaro i Japan. Företaget flyttar in i en egen byggnad.</p> <h4>Ny automatisering för modellerna i »genius«-familjen </h4> <p>Efter bara fem år kommer efterföljaren till »roboSet 1«. Med »roboSet 2« integrerar ZOLLER en rengörings- och märkningsstation i automatiseringslösningen för »genius«. Ännu fler väsentliga processsteg inom verktygsinspektion och -dokumentation kan därmed ske obemannat.</p> <h4>Automatisering för verktyg med spännhylsor</h4> <p>För automatisk mätning och inställning, bland annat för spännhylsor, utvecklar Zoller ytterligare en världsnyhet: »torqueMatic«. Inställnings- och mätinstrumentet kan automatiskt lossa spännmuttern och efter inställningen spänna fast den igen med vridmomentövervakning. </p> <p>Kompletterat med en skruvstation med vridmomentövervakning blir »venturion 450« till »den« nya »screwMatic«. Löst och åtdragning av hydrauliska spännchuckar av typen Schunk TENDO sker därmed automatiskt. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/7/csm_2018_00_3b05fd742d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/8/csm_2018_01_30fd37ca38.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/4/csm_2018_02_6b7b90acfb.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/2/csm_2018_03_f2be83cd14.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/f/csm_2018_04_06fda817d9.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/7/csm_2018_00_3b05fd742d.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "811",
+     "html": "20<br/> 20 <h3>Nybyggnad med Smart Factory och Academy</h3> <p>Med utbyggnaden av huvudkontoret i Pleidelsheim inleder ZOLLER ett nytt kapitel. Här uppförs ett kundcenter med avdelningar för utveckling, montering, leverans och administration. ZOLLER Academy får moderna och rymliga lokaler i de nya byggnaderna. Hjärtat är Smart Factory, där ZOLLER för första gången kan presentera sina uppkopplade lösningar för Industri 4.0.</p> <h4>Förstklassig programvara som blivit ännu bättre</h4> <p>Enhetsprogramvaran »pilot 3.0« med sin överlägsna bildbehandling anses vara en global standard. Ändå sätter ZOLLER upp målet att göra det beprövade ännu bättre. Med efterföljaren »pilot 4.0« kommer ett nytt gränssnitt som är anpassat efter smartphones och surfplattor. Det bekväma användarkonceptet från »pilot 3.0« behålls. Användaren har nu dock möjlighet att anpassa sin arbetsmiljö individuellt och öppna den på varje ZOLLER-enhet. »pilot 4.0« innebär maximal komfort, hög användarvänlighet och ännu enklare arbete.</p> <h4>Ny enhetsplattform och ny design </h4> <p>Alla ZOLLER-verktygsmätmaskiner i »genius«-serien placeras på en ny plattform och konstrueras från grunden. Förutom modern teknik, unik ergonomi och vibrationsdämpning lyser »genius«, »threadCheck«, »edgeControl«, »3dCheck« och »titan« i ny design.</p> <h4>Utökning för krympteknik och ännu mer komfort vid datahantering</h4> <p>Produktserien för krympning utökas med ytterligare en teknik i form av »redomatic mst«.</p> <p>Med »zidCode 4.0« lanseras ett tillägg till »zidCode« på marknaden. »zidCode 4.0« fungerar helt nätverksanslutet och dubbelriktat. Den kan hämta data från den centrala databasen z.One och överföra dem till CNC-maskinens styrsystem, men också skriva tillbaka uppdaterade data, såsom livslängd, till databasen.</p> <h4>Nybyggnad även i Kina</h4> <p>16 år efter att Christoph Zoller startade verksamheten i Kina inviger ZOLLER sin nya byggnad för den kinesiska filialen. En milstolpe på en lång men framgångsrik väg inom den internationella verksamheten. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/3/csm_2020_00_1463439bea.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/6/csm_2020_01_2b46d3f70f.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/5/csm_2020_02_4de4e4c5ee.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/6/csm_2020_03_02ba7d969e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/6/csm_2020_04_4a68438d24.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/f/csm_2020_05_332915d9da.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/a/csm_2020_06_6b235cbb9a.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/c/csm_2020_07_b0ebae7512.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/8/csm_2020_08_6b194eb4bd.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/4/csm_2020_09_6e0fd677cf.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/3/csm_2020_00_1463439bea.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "812",
+     "html": "20<br/> 21 <h3>Verktygsautomatisering för tillverkning</h3> <p>Systemleverantören ZOLLER visar upp nya utvecklingar som gör det möjligt för kunderna att automatisera verktygsprocesser och successivt omvandla sin tillverkning till en smart fabrik.</p> <p>»loadBox« automatiserar plockningen av verktyg, »roboBox« är den modulära automatiseringen för verktygsmontering, inställning och mätning, rengöring, på- och avdragning samt andra uppgifter. Den mångsidiga »cora«-serien täcker verktygshantering, cobot-assistans och logistik på verkstadsgolvet. </p> <p>ZOLLER drar nytta av den långsiktiga inriktningen på sina lösningar för inställning och mätning, kontroll och mätning, verktygshantering, programvara och dataöverföring. För automatiseringen samverkar allt.</p> <h4>Den nya generationen verktygshållare – med »idChip« </h4> <p>Det som började redan 1948 med hållare för svarvverktyg återupptas efter 73 år: »verktygshantering«. Med förstklassiga verktygshållare ”Made in Germany” och smarta tillbehör får kunder världen över nu även spännverktyg i välkänd ZOLLER-kvalitet. </p> <p>Den likaså nya »idChip« gör verktygshållarna omedelbart redo för verktygshantering med ZOLLER. Den kodade plastchipen är integrerad i verktygshållarna och gör dem entydigt identifierbara. Kostnaderna ligger dock långt under dem för RFID-transpondrar. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/9/csm_2021_00_b1855bd81f.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/c/csm_2021_02_4783ccf6d7.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/0/csm_2021_03_3269d32dbd.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/0/csm_2021_04_3db7f96f03.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/f/csm_2021_05_d78f69282a.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/4/csm_2021_06_9d5701d1b6.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/a/csm_2021_07_f8723cb7dc.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/9/csm_2021_00_b1855bd81f.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "813",
+     "html": "20<br/> 22 <h3>Innovationer inom balansering och krympning</h3> <p>ZOLLER har erbjudit lösningar för balansering och krympning i redan 20 år. Kraven har dock utvecklats. Dags för något nytt. </p> <p>Med »toolBalancer« och »powerShrink« har ZOLLER lyckats med två nya utvecklingar som tar precision, energieffektivitet, säkerhet och ergonomi till en hittills oöverträffad kvalitetsnivå. </p> <p>Aldrig tidigare har balansering av verktyg varit så enkelt och så exakt genomförbart. Aldrig tidigare har medarbetare i tillverkningen kunnat utföra krympnings- och avkrympningsprocesser så snabbt och effektivt. </p> <p>För båda lösningarna har ZOLLER gått helt nya tekniska vägar och bekräftar sin enastående innovationsförmåga. Fackpubliken på AMB i Stuttgart och på IMTS i Chicago förundras över precisionen, snabbheten, ergonomin och designen hos de nya enheterna. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/a/csm_2022_00_a9077eb7ea.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_2022_01_9d28b009d5.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_2022_02_248e734173.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/5/csm_2022_03_642b4ee4f4.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/a/csm_2022_00_a9077eb7ea.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "814",
+     "html": "20<br/> 23 <h3>»coraMeasure LG«: Portallösningen för automatisk inställning och mätning</h3> <p>Verktygsautomatisering med en kompakt portal, utan robotarm – det är den utmaning som Alexander Zoller ställer sina utvecklare inför. När ZOLLER presenterar resultatet för första gången i Tyskland på EMO 2023 är intresset omedelbart stort. »coraMeasure LG« är ytterligare ett innovativt tillvägagångssätt från ZOLLER för att snabbt lösa en aktuell utmaning: bristen på kvalificerad arbetskraft.</p> <h4>In i en ny bransch</h4> <p>Zollers mätteknik gör sitt intåg i stenbearbetningsindustrin. Den nya »ConDiaZ« gör mätning och dataoptimering för de speciella formverktygen i denna bransch till en barnlek. Det bästa med det hela: AI hjälper till!</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/1/csm_2023_00_5aebb5cd96.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/b/csm_2023_01_d984fc38e4.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/d/1/csm_2023_00_5aebb5cd96.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "815",
+     "html": "20<br/> 24 <h3>Den nya mätmaskinen</h3> <p>Välkommen, »threadCheck I cc«. Den nya mätmaskinen mäter bland annat gängverktyg för första gången i en helt inkapslad och vibrationsisolerad enhet. Ännu högre precision för att mäta de avgörande detaljerna. Den integrerade och CNC-styrda bakdockan kan laddas automatiskt.</p> <h4>Förvara verktyg säkert</h4> <p>Verktygsskåpet »toolOrganizer« får ytterligare ett tillval: »smartCompartments«. Dessa lås för fack, utvecklade av ZOLLER, utökar den redan höga funktionaliteten hos verktygshanteringshårdvaran.</p> <h4>För sten och trä</h4> <p>Med »smile gbo« och ny storbildsoptik gör ZOLLER det möjligt för sina kunder att snabbt mäta komplexa geometrier på sten- och träbearbetningsverktyg i ett enda steg. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/8/csm_2024_00_f953f5ad3d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/5/csm_2024_01_11e8ff9e06.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/6/csm_2024_02_1b4af3f1bd.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/f/csm_2024_03_45c77f1de1.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/8/csm_2024_00_f953f5ad3d.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "816",
+     "html": "20<br/> 25 <h3>Omfattande skötsel av »pom«-modellerna</h3> <p>ZOLLER genomför en grundläggande omarbetning av den framgångsrika serien av processorienterade mätinstrument »pomBasic«. Nya modeller tillkommer: »pomBasic Compact« och »pomBasic MTI«. </p> <p>Särskilt för området mikroverktyg upp till D=0,1 mm innebär detta ett enormt steg framåt. Tack vare speciell optik och mjukvarufunktioner blir mikroskopiskt små geometrier synliga och mätbara. Även deras helautomatiska mätning blir verklighet med »3dCheck micro«.</p> <h4>Fokus på slitageundersökningar</h4> <p>ZOLLER fördjupar sig i det komplexa ämnet slitage. Utvecklingen av »edgeControl« går snabbt framåt. ZOLLERs utvecklingsteam arbetar fram en programvara som är optimerad för slitageprovning.</p> <h4>Automatisering i komponentlagret</h4> <p>I början av januari, under 80-årsjubileumsåret, riktar ZOLLER ytterligare in sig mot framtiden. I monteringsanläggningen i Pleidelsheim tas det automatiserade lagret för smådelar i drift under den andra kalenderveckan. Systemet hanterar automatiskt mer än 18 000 delar och levererar det som behövs till monteringsavdelningen. ”Det här är en milstolpe för företaget. Även vid 80 års ålder håller vi fast vid att ständigt modernisera oss och följa med i förändringarna”, säger Eberhard Zoller.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/d/csm_2025_00_bf3fc026d8.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/f/csm_2025_01_f37aa89108.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/3/csm_2025_02_55890fb3a6.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/b/csm_2025_03_ab3d89c3cc.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/d/csm_2025_00_bf3fc026d8.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    }
+   ]
+  }
+ ],
+ "src_path": "/se/foeretag/profil/historia",
+ "de_path": "/unternehmen/profil/historie"
+}

@@ -1,0 +1,434 @@
+{
+ "path": "/organizacia-naradia",
+ "url": "/sk/organizacia-naradia",
+ "title": "Organizácia náradia",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/sk/domovska-stranka"
+  },
+  {
+   "label": "Organizácia náradia",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/sk/domovska-stranka"
+  },
+  {
+   "label": "Organizácia náradia",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeugorganistation",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-organization",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/organizacion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/organisation-des-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/organizacao-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/organizzazione-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verktygsorganisation",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeugorganistation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/tool-organization",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/organisation-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%95%B4%E7%90%86",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EC%A0%95%EB%A6%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/tool-organization",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/organizacion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/organizacao-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/7/e/csm_toolorga_header_d09c850eda.webp",
+     "video": null,
+     "title": "Organizácia nástrojov prináša efektívnosť",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7972",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">Lepšia organizácia náradia nezabezpečuje len zdanlivo lepší poriadok v prevádzke – konkrétne skracuje aj prestoje strojov a tým zvyšuje efektívnosť vašej výroby. Ako k tomu dochádza?</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7974",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Organizácia náradia je viac než len upratovanie </h2>",
+   "body": "<p>V skutočnosti a v praxi dielne sa nedá úplne vyhnúť určitému neporiadku – veľkú úlohu v tom však zohráva skutočnosť, či má každý nástroj pridelené vlastné miesto, kde ho možno a treba odložiť.</p> <p>To je v podstate jadrom každej organizácie náradia: aby bolo možné každý nástroj kedykoľvek nájsť. Ak sa môžete vyhnúť hľadaniu náradia, ušetríte si nielen nepríjemnosti a frustrácie, ale aj veľa pracovného času a nervov. Vaše stroje nemusia čakať na ďalšie použitie, náradie neleží zbytočne naokolo – a svoju prácu môžete vykonávať oveľa efektívnejšie.</p> <p>V spoločnosti ZOLLER sa snažíme o komplexný a komplexný prístup k organizácii nástrojov. Preto spájame náš <strong>modulárny softvér</strong> na správu nástrojov s <strong>inteligentnými skladovacími systémami</strong>, ktoré spoločne zabezpečujú, že máte vždy prehľad o tom, kde sa práve nachádza konkrétny nástroj – a v akom stave je, či je k dispozícii dostatok náhradných dielov, či je potrebné objednať doplnenie zásob a mnoho ďalšieho.</p> <p>A pretože náradie je samozrejme určené na konkrétnu úlohu, súčasťou komplexnej a holistickej organizácie náradia je aj digitálny, bezchybný a bezdrôtový <strong>prenos údajov o náradí</strong> do stroja. Aby ste sa mohli sústrediť na to podstatné: efektívnu a účinnú výrobu vašich komponentov.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7975",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Minimálne prestoje strojov: efektívne využitie času a pracovnej sily",
+    "Vždy úplná prehľadnosť o umiestnení a stave všetkých nástrojov",
+    "Žiadne výpadky v dodávkach: prehľad o náhradných dieloch a dodatočných objednávkach"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c7976",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Softvér na správu nástrojov pre všetky požiadavky </h2>",
+   "body": "<p><strong>Efektívne riadenie nástrojov je predovšetkým správa údajov.</strong> </p> <p>Začína to zaznamenaním údajov o nástrojoch jednotlivých komponentov, ako je rezací materiál a hmotnosť, do nastavovacieho alebo meracieho zariadenia a ich vložením do systému. Spolu s nastavovacími listami a ďalšími informáciami je tak všetko, čo potrebujete vedieť o nástroji, zhromaždené na jednom centrálnom mieste a kedykoľvek k dispozícii pre každého zamestnanca.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/9/csm_digital_durchstarten_webTMS_16feff8d28.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7977",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-33-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Správa náradia na dosah ruky </h2>",
+      "body": "<p>S našim softvérom <strong>TMS Tool Management Solutions</strong> vám už v rámci balíka BRONZE ponúkame všetko potrebné pre správu nástrojov. Patrí sem najmä tieto funkcie:</p><ul><li>Import údajov o nástrojoch z katalógov výrobcov alebo z cloudu – bezpečne, bezchybne a rýchlo</li><li>Dostupnosť údajov o nástrojoch z mobilných zariadení</li><li>Úplná integrácia vášho meracieho a nastavovacieho zariadenia ZOLLER</li><li>Každé nastavenie nástroja je možné uložiť a okamžite vyvolať</li></ul><p><a class=\"btn\" href=\"/sk/produkty/sprava-nastrojov/tms-riesenia-pre-spravu-nastrojov/softverove-baliky/bronze-cad/cam-modul\">Zistite všetko o softvérovom balíku BRONZE</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/d/1/csm_software_bronze_19edbebfe9.webp",
+        "alt": "",
+        "w": 680,
+        "h": 429
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7980",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Organizácia náradia nekončí v sklade </h2>",
+      "body": "<p><strong>Kde presne sa tento nástroj nachádza a v akom stave je?</strong> Na ďalšiu úroveň správy nástrojov sa dostanete, ak digitalizujete a optimalizujete aj správu skladu a týmto spôsobom budete mať prehľad o <strong>stave</strong> nástrojov s ohľadom na potreby a kvalitu. Konkrétne to znamená:</p><ul><li>skrátenie času hľadania,</li><li>skracujú sa časy prípravy a</li><li>nastavenie nástrojov prebieha takmer automaticky.</li></ul><p>Náš balík SILVER obsahuje všetky tieto funkcie a umožňuje vám nielen sledovať umiestnenie a využitie jednotlivých nástrojov, ale aj efektívne a včas zabezpečiť, aby bolo k dispozícii dostatočné množstvo dielov a náhradných dielov. To znamená plnú integráciu aj monitorovania <strong>nástrojov na účely kontroly kvality a analýzy opotrebenia</strong>.</p> <p><a class=\"btn\" href=\"/sk/produkty/sprava-nastrojov/tms-riesenia-pre-spravu-nastrojov/softverove-baliky/silver-organizacia-prevadzky\">Zistite všetko o softvérovom balíku SILVER</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/e/0/csm_software_silver_d66477a30d.webp",
+        "alt": "",
+        "w": 680,
+        "h": 429
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7981",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Organizácia nástrojov – nová verzia </h2>",
+      "body": "<p>Štandard GOLD pre organizáciu nástrojov ich plne integruje do všetkých procesov vašej spoločnosti a umožňuje vám v reálnom čase skontrolovať, ako efektívne a za aké náklady došlo k použitiu nástrojov. Týmto spôsobom získate v rámci celého procesného reťazca <strong>plnú kontrolu nad nákladmi a transparentnosť</strong> vo vašom nástroji.</p> <p>Vďaka tomu, že systém správy nástrojov dokumentuje, ako boli jednotlivé nástroje použité pri rôznych zákazkách, môžete si nechať vygenerovať štatistiky, ktoré vám poskytnú presný prehľad o efektivite vašej práce. To všetko vám umožňuje balík GOLD nášho softvéru a navyše:</p><ul><li>Maximálna efektívnosť správy údajov o nástrojoch</li><li>Systematická správa výrobných zákaziek a nastavovacích listov</li><li>Integrovaná správa životnosti</li><li>Voliteľná integrácia do systému objednávok vrátane správy dodávateľov</li></ul><p><a class=\"btn\" href=\"/sk/produkty/sprava-nastrojov/tms-riesenia-pre-spravu-nastrojov/softverove-baliky/gold-riadenie-predajne\">Zistite všetko o softvérovom balíku GOLD</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/e/a/csm_software_gold_79cf4e6793.webp",
+        "alt": "",
+        "w": 680,
+        "h": 429
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7982",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-33-33-33",
+   "id": "c7979",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Správa nástrojov, ktorá vám uľahčí prácu </h2>",
+   "body": "<p><strong>Každý systém organizácie náradia je len taký dobrý, ako vám a vašim zamestnancom dokáže dlhodobo uľahčiť prácu.</strong> Náš softvér <strong>TMS Tool Management Solutions</strong> je navrhnutý tak, aby úplne a bezproblémovo <strong>spolupracoval s existujúcimi databázami, strojmi, skladovými systémami a meracími prístrojmi</strong>. Aby vám uľahčil prácu, zvýšil vašu efektivitu a zjednodušil život v dielni.</p> <p>Vďaka modulárnej štruktúre našich softvérových balíkov máte možnosť vybrať si výhradne tie funkcie, ktoré skutočne potrebujete. A kedykoľvek môžete pridať nové funkcie, ak chcete posunúť organizáciu náradia na vyššiu úroveň.</p> <p>Obráťte sa na nás, radi vám poradíme so všetkými detailmi a pripravíme vám ponuku na mieru!</p> <p>Viac o webTMS</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/6/csm_webTMS_devices_9783f65f1d.webp",
+     "alt": "",
+     "w": 1484,
+     "h": 1066
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7983",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Nástroje, elegantne uložené </h2>",
+   "body": "<p>Naše inteligentné skladové skrine sú dokonalým doplnkom k softvérovému riadeniu náradia – umožňujú totiž automatizovaný a prehľadný priamy prístup k požadovanému náradiu.</p> <p>Okrem toho sú užitočné pri správe a organizácii všetkého, čo potrebujete v každodennom prevádzke vašej dielne. V rôznych modeloch našich inteligentných skríň môžete systematicky skladovať najrozmanitejšie materiály – od náradia a komponentov cez spotrebný materiál až po príslušenstvo alebo meracie a kontrolné prostriedky. Čaká vás použitie náradia? V našich skladovacích systémoch okamžite nájdete to, čo potrebujete.</p> <p>Od pracovného <a class=\"link-arrow\" href=\"/sk/produkty/sprava-nastrojov/montaz-naradia/toolstation\">stola</a> so všetkým komfortom (a priestorom) na montáž náradia, kde sú všetky komponenty po ruke, cez flexibilne použiteľný <a class=\"link-arrow\" href=\"/sk/produkty/sprava-nastrojov/preprava-naradia/toolcart\">vozík na náradie</a> s priestorom pre viac ako 100 rôznych nástrojov až po veľkú <a class=\"link-arrow\" href=\"/sk/produkty/sprava-nastrojov/sklad-naradia/keeper\">skriňu na kompletné náradie</a> a adaptéry – každá z možností skladovania zaisťuje optimálne skladovanie a správu vášho náradia a materiálov.</p> <p>V našom prehľade nájdete všetky inteligentné skrine a skladovacie riešenia – určite nájdete tú správnu variantu aj pre vašu dielňu!</p> <p>Všetko o našich skladovacích systémoch</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/5/csm_toolmanagement_02_7e37951c35.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7984",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Správa nástrojov: Vaše výhody",
+     "caption": "<figcaption> <h3>Správa nástrojov: Vaše výhody</h3> <p>Zistite, ako systém správy nástrojov od spoločnosti ZOLLER okamžite zvýši vašu produktivitu. Vďaka údajom o nástrojoch prebiehajú procesy rýchlejšie a bezpečnejšie – vrátane ochrany pred kolíziou pre vaše stroje. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Rozhovor s odborníkom",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Rozhovor s odborníkom</h3> <p>Individuálna diskusia o vašich cieľoch a našich nápadoch, ako ich dosiahnuť. Online poradenstvo spoločnosti ZOLLER priamo zo Smart Factory. Dohodnite si termín už teraz. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/sk/organizacia-naradia",
+ "de_path": "/werkzeugorganistation"
+}

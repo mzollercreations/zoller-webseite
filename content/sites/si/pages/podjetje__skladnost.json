@@ -1,0 +1,281 @@
+{
+ "path": "/podjetje/skladnost",
+ "url": "/si/podjetje/skladnost",
+ "title": "Skladnost",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/si/domaca-stran"
+  },
+  {
+   "label": "Podjetje /",
+   "href": "/si/podjetje"
+  },
+  {
+   "label": "Skladnost",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/si/domaca-stran"
+  },
+  {
+   "label": "Podjetje /",
+   "href": "/si/podjetje"
+  },
+  {
+   "label": "Skladnost",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/compliance",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/compliance-codes-of-conduct",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/cumplimiento-normativo",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/conformite",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/conformidade",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/conformita",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/efterlevnad",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/compliance",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/compliance-codes-of-conduct",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/conformite",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%82%B3%E3%83%B3%E3%83%97%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B9",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EA%B7%9C%EC%A0%95-%EC%A4%80%EC%88%98",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/compliance-codes-of-conduct",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/cumplimiento-normativo",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/conformidade",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Brez izjem od pravil </h1>",
+      "body": "<p class=\"large-text\">Etično in zakonito ravnanje je del naše poslovne kulture. To velja tako za stranke, poslovne partnerje in delničarje kot tudi za zaposlene med seboj. Vse, kar sodi v okvir tega ravnanja, je povzeto v naslednjem kodeksu ravnanja:</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c779",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4><strong>Kodeks ravnanja</strong></h4> <p>ZOLLER in naše hčerinske družbe zato etično neoporečno in zakonito ravnanje obravnavajo kot del naše poslovne kulture. To velja tako za odnose s strankami, poslovnimi partnerji in delničarji kot tudi za odnose med zaposlenimi. </p> <p><a class=\"btn\" href=\"/fileadmin/01_Pages/Company/Compliance/CoC_f%C3%BCr_MA_DE.pdf\" rel=\"noopener\" target=\"_blank\">Prenos kodeksa ravnanja</a></p> <h4><strong>Kodeks ravnanja za poslovne partnerje</strong></h4> <p>Naši poslovni partnerji bistveno prispevajo k našemu uspehu. Zato je skupno razumevanje etičnega in zakonitega ravnanja temelj naših poslovnih odnosov. Zahteve in načela naslednjega „Kodeksa ravnanja za poslovne partnerje“ so zato bistven del sodelovanja med podjetjem ZOLLER in našimi poslovnimi partnerji. </p> <p><a class=\"btn\" href=\"/fileadmin/01_Pages/Company/Compliance/CoC_f%C3%BCr_Gesch%C3%A4ftspartner_DE.pdf\" rel=\"noopener\" target=\"_blank\">Prenos kodeksa ravnanja za poslovne partnerje</a></p> <h4><strong>Sistem za prijavo nepravilnosti pri podjetju ZOLLER</strong></h4> <p>Za zaposlene v podjetju ZOLLER je bila vzpostavljena tako imenovana interna služba za prijavo, prek katere nam lahko zaupno in po želji tudi anonimno posredujete informacije o morebitnih kršitvah skladnosti. S svojo prijavo se obrnite na varuha človekovih pravic:</p> <p>Odvetnik dr. Jochen Bernhard<br/>Menold Bezler Odvetniki Davčni svetovalci Revizorji Partnerstvo mbB<br/>E-pošta: <a class=\"link-arrow\" href=\"mailto:ZOLLER@menoldbezler.de\">ZOLLER@menoldbezler.de</a><br/>Telefon: (0711) 860 40 611<br/>Poštni naslov: Stresemannstraße 79,<br/>70191 Stuttgart </p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c4169",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c755",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Ne delamo izjem pri pravilih </h2>",
+      "body": "<p class=\"large-text\">Etno in zakonito ravnanje je del naše korporativne kulture. To velja za stranke, poslovne partnerje, delničarje in zaposlene. </p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c26285",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4><strong>Kodeks ravnanja</strong></h4> <p>Kodeks ravnanja za podjetje ZOLLER in naše hčerinske družbe je na voljo tukaj:</p> <p><a class=\"btn\" href=\"/fileadmin/01_Pages/Company/Compliance/CoC_f%C3%BCr_MA_EN.pdf\" rel=\"noopener\" target=\"_blank\">Prenos kodeksa ravnanja</a></p> <h4><strong>Kodeks ravnanja za poslovne partnerje</strong></h4> <p>Naši poslovni partnerji pomembno prispevajo k našemu uspehu. Zato je skupno razumevanje etičnega in zakonitega ravnanja temelj naših poslovnih odnosov. Zahteve in načela naslednjega »Kodeksa ravnanja za poslovne partnerje« so bistveni del sodelovanja med podjetjem ZOLLER in našimi poslovnimi partnerji.</p> <p><a class=\"btn\" href=\"/fileadmin/01_Pages/Company/Compliance/CoC_f%C3%BCr_Gesch%C3%A4ftspartner_EN.pdf\" rel=\"noopener\" target=\"_blank\">Prenos Kodeksa ravnanja za poslovne partnerje</a></p> <h4><strong>Sistem za prijavo nepravilnosti pri podjetju ZOLLER</strong></h4> <p>Za zaposlene v podjetju ZOLLER je bila ustanovljena notranja služba za prijavo kršitev, prek katere nam lahko zaupno in, če želite, anonimno prijavite morebitne kršitve predpisov. S svojo prijavo se obrnite na varuha človekovih pravic:</p> <p>Odvetnik dr. Jochen Bernhard<br/>Menold Bezler Rechtsanwälte Steuerberater Wirtschaftsprüfer Partnerschaft mbB<br/>E-pošta: ZOLLER@menoldbezler.de<br/>Telefon: (0711) 860 40 611<br/>Poštni naslov: Stresemannstraße 79,<br/>70191 Stuttgart</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c26277",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c26253",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/si/podjetje/skladnost",
+ "de_path": "/unternehmen/compliance"
+}

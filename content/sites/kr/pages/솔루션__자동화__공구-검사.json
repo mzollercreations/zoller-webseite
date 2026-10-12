@@ -1,0 +1,283 @@
+{
+ "path": "/솔루션/자동화/공구-검사",
+ "url": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EA%B2%80%EC%82%AC",
+ "title": "공구 검사",
+ "description": "공구 검사",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "솔루션 /",
+   "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98"
+  },
+  {
+   "label": "자동화 /",
+   "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%9E%90%EB%8F%99%ED%99%94"
+  },
+  {
+   "label": "공구 검사",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "솔루션 /",
+   "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98"
+  },
+  {
+   "label": "자동화 /",
+   "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%9E%90%EB%8F%99%ED%99%94"
+  },
+  {
+   "label": "공구 검사",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/automation/werkzeuginspektion",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/automation/tool-inspection",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/automatizacion/inspeccion-de-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/automatisation/controle-doutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/automacao/ferramenta-de-inspecao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/automazione/ispezione-utensile",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/automatisering/verktygskontroll",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/automation/werkzeuginspektion",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/automation/tool-inspection",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/automatisation/inspection-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E7%82%B9%E6%A4%9C",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EA%B2%80%EC%82%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/automation/tool-inspection",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/automatizacion/inspeccion-de-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/automacao/ferramenta-de-inspecao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "자동화",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%9E%90%EB%8F%99%ED%99%94",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "물류",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%9E%90%EB%8F%99%ED%99%94/%EB%AC%BC%EB%A5%98",
+     "current": false
+    },
+    {
+     "label": "공구 준비",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A4%80%EB%B9%84",
+     "current": false
+    },
+    {
+     "label": "공구 제공",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A0%9C%EA%B3%B5",
+     "current": false
+    },
+    {
+     "label": "공구 검사",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EA%B2%80%EC%82%AC",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1893",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "products",
+   "header": "<h1> 공구 검사 </h1>",
+   "items": [
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EA%B2%80%EC%82%AC/roboset-2",
+     "title": "»roboSet 2«",
+     "text": "<p>»genius«, »3dCheck«, »threadCheck«, »titan« 및 »edgeControl«용 공구 핸들링</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_7361e448c0.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c3775",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 전문가 상담",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 전문가 상담</h3> <p>고객님의 목표와 이에 대한 당사의 아이디어를 바탕으로 한 맞춤형 상담. 스마트 팩토리에서 직접 제공되는 ZOLLER의 온라인 상담. 지금 바로 상담 일정을 예약하세요. </p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/e/csm_teaser-2Colume-Media_8e9165a74e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "미디어: ZOLLER 상세 정보",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%EB%AF%B8%EB%94%94%EC%96%B4",
+     "caption": "<figcaption> <h3>미디어: ZOLLER 상세 정보</h3> <p>여기에서는 보도자료, 제품 발표, 전시회 참가 정보, 전문 잡지의 보도 기사, 뉴스 아카이브 및 미디어 담당자 정보를 확인하실 수 있습니다. </p> <br/> 자세히 알아보기 </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c738",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/kr/솔루션/자동화/공구-검사",
+ "de_path": "/solutions/automation/werkzeuginspektion"
+}

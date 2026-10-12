@@ -1,0 +1,450 @@
+{
+ "path": "/solutions/ajuste-e-medicao",
+ "url": "/br/solutions/ajuste-e-medicao",
+ "title": "Pré-ajuste e medição",
+ "description": "Pré-ajuste e medição",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/br/pagina-inicial"
+  },
+  {
+   "label": "Soluções /",
+   "href": "/br/solutions"
+  },
+  {
+   "label": "Pré-ajuste e medição",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/br/pagina-inicial"
+  },
+  {
+   "label": "Soluções /",
+   "href": "/br/solutions"
+  },
+  {
+   "label": "Pré-ajuste e medição",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/einstellen-messen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/presetting-measuring",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/ajuste-y-medicion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/reglage-et-mesure",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/ajuste-e-medicao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/regolazione-e-misurazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/instaellning-och-maetning",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/einstellen-messen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/presetting-measuring",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/reglage-et-mesure",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/presetting-measuring",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/ajuste-y-medicion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/ajuste-e-medicao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/0/c/csm_header_presetting_8b840715e8.webp",
+     "video": null,
+     "title": "Pré-ajuste e Medição",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c622",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>A medição de ferramentas em paralelo ao tempo principal de operação da máquina CNC resulta em uma produção mais eficiente. </h3>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c614",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>O pré-ajuste e medição de ferramentas fora da máquina CNC transformam de forma significativa a maneira como você produz. Você reduz consideravelmente os tempos de setup, diminui o índice de refugos, aumenta a vida útil das ferramentas e reduz os custos de produção. Existem muitos e sólidos motivos para escolher as máquinas de pré-ajuste e medição da ZOLLER.</strong></p> <p>Para operações de usinagem, dados exatos de medição de ferramentas são essenciais para garantir processos confiáveis e resultados de alto nível. As máquinas de pré-ajuste e medição da ZOLLER fornecem esses dados com precisão micrométrica (µm). A ZOLLER vai ainda mais longe: os equipamentos são tão simples e intuitivos de operar que cada medição gera sempre valores exatos, independentemente do operador. </p> <p>O pré-ajuste e a medição com a ZOLLER transferem a responsabilidade do resultado do fator humano para os sistemas de medição. Diante da escassez de mão de obra qualificada e da elevada pressão por redução de custos na manufatura, contar com ferramentas medidas por um equipamento ZOLLER é a melhor decisão.</p> <p><a class=\"btn\" href=\"/br/produtos/ajuste-e-medicao\">Exibir mais produtos</a> <a href=\"/br/calculadora-de-rentabilidade\">Determinar o potencial de economia </a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c616",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c615",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Tempo de setup reduzido em mais de 40% </h2>",
+   "body": "<p>Ao medir apenas cinco ferramentas em um dispositivo de pré-ajuste e medição da ZOLLER antes das ferramentas serem colocadas na máquina CNC, o tempo de setup é reduzido em mais de 40%.</p> <p>A realização do setup externo com a ZOLLER abre um elevado potencial de economia. Dependendo do número de trocas de ferramentas, a redução de custos por turno e máquina CNC pode chegar a R$162.000,00 por ano. Dependendo do equipamento de pré-ajuste e da configuração, o seu investimento pode ser pago em poucos meses. </p> <p><a class=\"btn\" href=\"/br/solutions/ajuste-e-medicao\">Calcule agora o potencial de economia</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c621",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Mais dados, maior qualidade para as suas peças </h2>",
+   "body": "<p class=\"large-text\">A tecnologia de medição de uma máquina CNC normalmente registra apenas o comprimento da ferramenta. Isso não é suficiente para aproveitar todo o potencial de alta precisão de uma máquina.</p> <p>A ZOLLER fornece dados detalhados de geometria que permitem às máquinas CNC produzir com ainda mais precisão, garantindo a máxima qualidade em sua produção.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/d/csm_presetting_01_59fab0dfc1.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c620",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Melhor produtividade </h2>",
+   "body": "<p>O tempo de parada da máquina é caro e desnecessário. Quando as ferramentas são presetadas fora da máquina, o próximo trabalho pode ser iniciado mais rapidamente. Maximize sua produtividade agora com uma máquina de pré-ajuste e medição da ZOLLER.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/5/csm_presetting_02_f4a2e05503.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c619",
+   "bg": "white",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Maximize a vida útil das ferramentas </h2>",
+   "body": "<p>Com uma máquina de presetter da ZOLLER, é possível identificar, antes mesmo do início da produção, se a ferramenta está em perfeitas condições de uso. Através do equipamento, é possível facilmente verificar a qualidade da aresta de corte, evitando trocas de ferramentas desnecessárias, improdutivas e garantindo assim o aproveitamento máximo da vida útil.</p> <p>A medição com a ZOLLER aumenta significativamente a eficiência da sua produção.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/a/csm_presetting_03_f94d19dc0f.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c618",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "count",
+   "title": "Potencial de economia estimado por máquina CNC por ano*:",
+   "value": "R$32.400,00",
+   "note": "* calculado para 20 trocas de ferramentas com tempo de troca de 3 minutos cada,",
+   "ftype": "zoller_count-banner",
+   "id": "c617",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Máquinas de Pré-ajuste e medição </h2>",
+   "items": [
+    {
+     "href": "/br/produtos/ajuste-e-medicao/dispositivos-verticais/smile",
+     "title": "»smile«",
+     "text": "<p>Equipamento robusto e com precisão micrométrica para medição de ferramentas</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/ajuste-e-medicao/dispositivos-verticais/venturion",
+     "title": "»venturion«",
+     "text": "<p>Excelente ajuste e medição de ferramentas com diversas opções de conﬁguração</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/d/csm_venturion_preview_cdaca59ebb.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/ajuste-e-medicao/dispositivos-horizontais/hyperion",
+     "title": "»hyperion«",
+     "text": "<p>O dispositivo horizontal de ajuste e medição para ferramentas de torneamento</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/8/csm_hyperion_preview_37118ddf5b.webp",
+      "alt": "zoller hyperion",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c1621",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "large"
+   }
+  },
+  {
+   "type": "cta_strip",
+   "icon": {
+    "src": "/fileadmin/_processed_/0/0/csm_calculator_8806cc3f97.webp",
+    "alt": "",
+    "w": 50,
+    "h": 65
+   },
+   "text": "<p class=\"bold\">Aumento da produtividade com as maquinas de pré-ajuste e medição da ZOLLER</p> <p>A calculadora de rentabilidade da ZOLLER calcula o potencial de economia da sua operação.</p>",
+   "button": "<a class=\"btn\" href=\"/br/calculadora-de-rentabilidade\">Calcule agora o seu potencial de economia </a>",
+   "ftype": "zoller_icon-button",
+   "id": "c4275",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_zoller_system_teaser_a6e5d69871.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Comece com uma solução – Entre no sistema.",
+     "href": "/br/o-sistema",
+     "caption": "<figcaption> <h3>Comece com uma solução – Entre no sistema.</h3> <p>Nossos clientes contam com soluções integradas, construídas com décadas de experiência e inovação contínua. O resultado: excelência em eficiência.</p> <br/> Saber mais </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Conversa com especialistas",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Conversa com especialistas</h3> <p>Converse com nossos especialistas sobre seus objetivos e descubra as melhores soluções para alcançá-los. A consultoria online da ZOLLER, diretamente da Smart Factory, está ao seu alcance. Agende sua consulta agora mesmo. </p> <br/> Saber mais </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/br/solutions/ajuste-e-medicao",
+ "de_path": "/solutions/einstellen-messen"
+}

@@ -1,0 +1,544 @@
+{
+ "path": "/fresagem",
+ "url": "/br/fresagem",
+ "title": "Fresagem",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/br/pagina-inicial"
+  },
+  {
+   "label": "Fresagem",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/br/pagina-inicial"
+  },
+  {
+   "label": "Fresagem",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/fraesen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/milling",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/fresado",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/fraisage",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/fresagem",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/fresatura",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/fraesning",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/fraesen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/milling",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/fraisage",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%95%E3%83%A9%E3%82%A4%E3%82%B9%E5%8A%A0%E5%B7%A5",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EB%B0%80%EB%A7%81",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/milling",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/fresado",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/fresagem",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/7/a/csm_header_milling_9977afc8ee.webp",
+     "video": null,
+     "title": "Mais sucesso para as empresas de fresagem",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c2449",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> CAM-to-Part:<br/>com medições exatas em µm e dados sem erros </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c775",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>A gama de produtos ZOLLER oferece-lhe dispositivos de ajuste e medição precisos, hardware e software abrangentes para a gestão de ferramentas, bem como soluções para a transferência sem erros de dados da ferramenta. </strong></p> <p>Processos de fresagem económicos exigem precisão na ordem dos µm e alta eficiência em termos de tempo e custos. A precisão começa com a medição das diversas geometrias de uma ferramenta de usinagem. Para obter a melhor eficiência possível, as ferramentas devem estar rapidamente à mão e os dados da ferramenta devem estar disponíveis em cada passo. Com a ZOLLER, todos os processos de ferramentas relacionados com a fresagem são bem-sucedidos.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c774",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c776",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "count",
+   "title": "Potencial de poupança escalável por ano* através da configuração e medição de ferramentas",
+   "value": "15 000 €",
+   "note": "*calculado para 20 trocas de ferramentas com tempo de troca de 3 minutos cada, 200 dias úteis/ano e um turno por dia, hora de máquina a 75 € cada.",
+   "ftype": "zoller_count-banner",
+   "id": "c769",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Soluções ZOLLER para empresas de fresagem </h2>",
+   "items": [
+    {
+     "href": "/br/produtos/porta-ferramentas",
+     "title": "Porta-ferramentas",
+     "text": "<p>Suporte de ferramenta com »idChip« como interface perfeita para a sua produção digital.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/8/csm_ToolingSolutions_preview_7b8d14560e.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/ajuste-e-medicao/dispositivos-verticais/smile",
+     "title": "»smile«",
+     "text": "<p>Equipamento robusto e com precisão micrométrica para medição de ferramentas</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/ajuste-e-medicao/dispositivos-verticais/venturion",
+     "title": "»venturion«",
+     "text": "<p>Excelente ajuste e medição de ferramentas com diversas opções de conﬁguração</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/d/csm_venturion_preview_cdaca59ebb.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/ajuste-e-medicao/dispositivos-horizontais/hyperion",
+     "title": "»hyperion«",
+     "text": "<p>O dispositivo horizontal de ajuste e medição para ferramentas de torneamento</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/8/csm_hyperion_preview_37118ddf5b.webp",
+      "alt": "zoller hyperion",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/ajuste-e-medicao/solucoes-especiais/solucoes-especiais/phoenix",
+     "title": "»phoenix«",
+     "text": "<p>Media todos os parâmetros de forma completamente automática, segundo o princípio da calibração da garganta</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/8/d/csm_phoenix_preview_66edf5e474.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/gestao-de-ferramentas/armazem-de-ferramentas/toolorganizer",
+     "title": "»toolOrganizer«",
+     "text": "<p>Para ferramentas de corte e peças pequenas</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_018ce796c6.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/montagem-termica-de-ferramentas/powershrink",
+     "title": "»powerShrink«",
+     "text": "<p>O sistema de retração com eficiência energética ótima e segurança máxima</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_506ab0ccb9.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/montagem-termica-de-ferramentas/redomatic",
+     "title": "»redomatic«",
+     "text": "<p>Dispositivo de ajuste e medição com sistema integrado de encolhimento de ferramentas</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/f/b/csm_redomatic_preview_4157496177.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/tecnologia-de-equilibragem/toolbalancer",
+     "title": "»toolBalancer«",
+     "text": "<p>O sistema de balanceamento com tecnologia de ponta e design ergonómico</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/automacao/preparacao-de-ferramentas/corameasure-lg",
+     "title": "»coraMeasure LG«",
+     "text": "<p>Manuseamento económico de ferramentas para ZOLLER »venturion«</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/automacao/preparacao-de-ferramentas/robobox",
+     "title": "»roboBox«",
+     "text": "<p>Até seis módulos para rotinas como montagem, limpeza, medir, retrair e muito mais</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/a/csm_roboBox_preview_f71dd04107.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/automacao/preparacao-de-ferramentas/micbox",
+     "title": "»micBox«",
+     "text": "<p>Assume o rodar, a inversão e a troca de placas de corte reversíveis</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/6/a/csm_micbox_preview_ff03cd31af.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/comprovacao-e-medicao/maquinas-de-medicao-universais/smartcheck",
+     "title": "»smartCheck«",
+     "text": "<p>Os dispositivos de ajuste e medição com Luz incidente complementar e análise de imagem avançada</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_b44dfc4928.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/gestao-de-ferramentas/transferencia-de-dados/zidcode",
+     "title": "»zidCode«",
+     "text": "<p>Mais segurança e eficiência através do manuseamento fácil dos dados da ferramenta</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/c/csm_zidCode_preview_538b53ed83.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/gestao-de-ferramentas/armazem-de-ferramentas/keeper",
+     "title": "»keeper«",
+     "text": "<p>Para ferramentas completas e suportes de ferramenta</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/a/csm_keeper_preview_1e87de3ba7.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/gestao-de-ferramentas/armazem-de-ferramentas/autolock",
+     "title": "»autoLock«",
+     "text": "<p>Para instrumentos de verificação, materiais operacionais e componentes maiores</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/7/csm_autolock__preview_a71350a53a.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/gestao-de-ferramentas/armazem-de-ferramentas/twister",
+     "title": "»twister«",
+     "text": "<p>Para componentes de ferramentas e acessórios</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/1/csm_twister__preview_edf94f7d12.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/gestao-de-ferramentas/montagem-de-ferramenta/toolstation",
+     "title": "»toolStation«",
+     "text": "<p>Para uma montagem ideal da ferramenta</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/f/csm_toolStation_preview_00b81d24f9.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/gestao-de-ferramentas/montagem-de-ferramenta/ztower",
+     "title": "»zTower«",
+     "text": "<p>Para a montagem universal de ferramentas</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/6/csm_zTower_preview_c0c8e3585e.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/gestao-de-ferramentas/transporte-de-ferramentas/toolcart",
+     "title": "»toolCart«",
+     "text": "<p>Para o transporte confortável das ferramentas</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_3be007bbac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/ajuste-e-medicao/dispositivos-verticais/venturion/modelos/tribos",
+     "title": "»»tribos««",
+     "text": "<p>Montar o mandril poligonal</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/3/2/csm_tribos_preview_8c77bd06f1.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/ajuste-e-medicao/dispositivos-verticais/venturion/modelos/torquematico",
+     "title": "»torquemático«",
+     "text": "<p>Tensionamiento completamente automático</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/8/csm_torquematic_preview_76d4d49ac6.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_categorized_pages",
+   "id": "c4773",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Conversa com especialistas",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Conversa com especialistas</h3> <p>A troca individual sobre os seus objetivos e as nossas ideias para os alcançar. A consultoria online da ZOLLER diretamente da Smart Factory. Marque já a sua consulta. </p> <br/> Saber mais </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/e/csm_teaser-2Colume-Media_8e9165a74e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Mídia: ZOLLER em detalhes",
+     "href": "/br/empresa/midia",
+     "caption": "<figcaption> <h3>Mídia: ZOLLER em detalhes</h3> <p>Aqui encontra comunicados de imprensa, anúncios de produtos, participações em feiras, artigos de imprensa de revistas especializadas, o arquivo de notícias e os nossos contactos para os meios de comunicação social. </p> <br/> Saber mais </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c738",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/br/fresagem",
+ "de_path": "/fraesen"
+}

@@ -1,0 +1,438 @@
+{
+ "path": "/izdelki",
+ "url": "/si/izdelki",
+ "title": "Izdelki",
+ "description": "Izdelki - Pregled izdelkov",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/si/domaca-stran"
+  },
+  {
+   "label": "Izdelki",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/si/domaca-stran"
+  },
+  {
+   "label": "Izdelki",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/02_Products/_Overview/zoller_solutions_header_02.mp4",
+     "title": "Izberite svojo pot do uspeha",
+     "kicker": "",
+     "text": "<p>Večja učinkovitost z rešitvami ZOLLER</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4402",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Pregled izdelkov </h2>",
+   "body": "<p class=\"extra-large-text\"><strong>Rešitve ZOLLER so ključ do vaše prihodnosti – pomagamo vam doseči večji uspeh. Kajti tisti, ki proizvaja hitreje in učinkoviteje, deluje bolj gospodarno, kar mu omogoča vlaganje v prihodnost. Če je vaš cilj gospodarski napredek, je ZOLLER vaš partner.</strong></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4399",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "productlist",
+   "filters": {
+    "solutions": [
+     {
+      "value": "259",
+      "label": "Nastavitev in merjenje",
+      "selected": false
+     },
+     {
+      "value": "251",
+      "label": "Upravljanje orodij",
+      "selected": false
+     },
+     {
+      "value": "254",
+      "label": "Preverjanje in merjenje",
+      "selected": false
+     },
+     {
+      "value": "253",
+      "label": "Avtomatizacija",
+      "selected": false
+     },
+     {
+      "value": "250",
+      "label": "tehnika krčenja",
+      "selected": false
+     },
+     {
+      "value": "252",
+      "label": "Nosilci orodja",
+      "selected": false
+     },
+     {
+      "value": "249",
+      "label": "tehnika uravnoteženja",
+      "selected": false
+     }
+    ],
+    "tool": [
+     {
+      "value": "1051",
+      "label": "Orodje za vrtanje",
+      "selected": false
+     },
+     {
+      "value": "1171",
+      "label": "Rezilo za pokrovčke",
+      "selected": false
+     },
+     {
+      "value": "1123",
+      "label": "Obratovalna orodja",
+      "selected": false
+     },
+     {
+      "value": "1243",
+      "label": "Orodja za rezkanje in izrezovanje",
+      "selected": false
+     },
+     {
+      "value": "1135",
+      "label": "Rezkalna orodja",
+      "selected": false
+     },
+     {
+      "value": "1147",
+      "label": "Orodja za fino vrtanje",
+      "selected": false
+     },
+     {
+      "value": "1063",
+      "label": "Orodje za rezanje navojev",
+      "selected": false
+     },
+     {
+      "value": "1195",
+      "label": "Visokozmogljiva orodja",
+      "selected": false
+     },
+     {
+      "value": "1183",
+      "label": "Rezkalnik za kolesne gredi",
+      "selected": false
+     },
+     {
+      "value": "1219",
+      "label": "Precizna orodja",
+      "selected": false
+     },
+     {
+      "value": "1159",
+      "label": "Glave za merilne nože",
+      "selected": false
+     },
+     {
+      "value": "1111",
+      "label": "Merilne glave za ravno rezanje, kotno rezanje in končno obdelavo",
+      "selected": false
+     },
+     {
+      "value": "1075",
+      "label": "Rezila",
+      "selected": false
+     },
+     {
+      "value": "1267",
+      "label": "Brusilni diski",
+      "selected": false
+     },
+     {
+      "value": "1087",
+      "label": "Žage",
+      "selected": false
+     },
+     {
+      "value": "1231",
+      "label": "Orodja za obdelavo kamna",
+      "selected": false
+     },
+     {
+      "value": "1099",
+      "label": "Orodja za steblo",
+      "selected": false
+     },
+     {
+      "value": "1207",
+      "label": "Orodja za zobno obdelavo",
+      "selected": false
+     }
+    ]
+   },
+   "rows": [
+    {
+     "title": "",
+     "items": [
+      {
+       "href": "/si/izdelki/nastavitev-in-merjenje",
+       "title": "Nastavitev in merjenje",
+       "text": "Skrajšajte čas priprave za 40 % ali več.",
+       "img": {
+        "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/si/izdelki/upravljanje-orodij",
+       "title": "Upravljanje orodij",
+       "text": "Povezovanje procesov, zagotavljanje kakovosti in hitrejša proizvodnja.",
+       "img": {
+        "src": "/fileadmin/_processed_/3/3/csm_toolmanagement_preview_7889eaddc9.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/si/izdelki/preverjanje-in-merjenje",
+       "title": "Preverjanje in merjenje",
+       "text": "Dokumentirajte kakovost in ustvarite digitalne dvojnike.",
+       "img": {
+        "src": "/fileadmin/_processed_/0/d/csm_genius_1_5b500df8d2.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/si/izdelki/avtomatizacija",
+       "title": "Avtomatizacija",
+       "text": "Prilagodljiva, modularna avtomatizacija za rezalna orodja.",
+       "img": {
+        "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/si/izdelki/tehnika-krcenja",
+       "title": "tehnika krčenja",
+       "text": "Namestitev in odstranitev orodij v rekordnem času.",
+       "img": {
+        "src": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_506ab0ccb9.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/si/izdelki/nosilci-orodja",
+       "title": "Nosilci orodja",
+       "text": "Nosilec orodja z »idChipom« kot idealno vmesno povezavo za vašo digitalno proizvodnjo.",
+       "img": {
+        "src": "/fileadmin/_processed_/4/8/csm_ToolingSolutions_preview_7b8d14560e.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/si/izdelki/tehnika-uravnotezenja",
+       "title": "tehnika uravnoteženja",
+       "text": "Ščitite vretena, zagotovite kakovost: z najboljšimi napravami za uravnoteženje na trgu.",
+       "img": {
+        "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "src_path": "/si/izdelki",
+ "de_path": "/produkte"
+}

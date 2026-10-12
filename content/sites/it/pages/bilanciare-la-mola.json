@@ -1,0 +1,362 @@
+{
+ "path": "/bilanciare-la-mola",
+ "url": "/it/bilanciare-la-mola",
+ "title": "Bilanciare la mola",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/it/home-page"
+  },
+  {
+   "label": "Bilanciare la mola",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/it/home-page"
+  },
+  {
+   "label": "Bilanciare la mola",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/schleifscheibe-auswuchten",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/balancing-a-grinding-wheel",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/equilibrar-el-disco-abrasivo",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/equilibrer-la-meule",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/equilibrar-o-rebolo",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/bilanciare-la-mola",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/balansera-slipskivan",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/schleifscheibe-auswuchten",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/balancing-the-grinding-wheel",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/equilibrage-dun-disque-abrasif",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E7%A0%94%E7%A3%A8%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%81%AE%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%97%B0%EB%A7%88-%EB%94%94%EC%8A%A4%ED%81%AC%EC%9D%98-%EA%B7%A0%ED%98%95-%EB%A7%9E%EC%B6%94%EA%B8%B0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/balancing-grinding-wheels",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/equilibrar-el-disco-abrasivo",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/equilibrar-o-rebolo",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/9/c/csm_grinding_wheel_header_82a94c5c43.webp",
+     "video": null,
+     "title": "Bilanciare la mola?",
+     "kicker": "",
+     "text": "<p>Con il nostro sistema di bilanciamento »toolBalancer« è un gioco da ragazzi</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8000",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Il nostro sistema di bilanciamento aumenta la durata degli utensili </h2>",
+   "body": "<p class=\"extra-large-text\">Per le moderne macchine utensili, gli utensili finemente bilanciati sono estremamente importanti. Gli squilibri nelle molle, nei sistemi di utensili e nei rotori causano usura o addirittura danni: un bilanciamento regolarmente eseguito previene i tempi di fermo macchina e riduce i costi.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c8001",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Bilanciamento efficace con ZOLLER »toolBalancer« </h2>",
+   "body": "<p>I lunghi tempi di bilanciamento causano fermi macchina e perdita di qualità. Con il nostro »toolBalancer« non solo è possibile bilanciare con estrema precisione portautensili, mole abrasive e rotori, ma grazie al suo svolgimento misura automatizzato anche il processo risulta notevolmente accelerato.</p> <p>È possibile tenere conto sia dei vostri requisiti attuali che di quegli sviluppi che non siete ancora in grado di valutare: grazie alla sua struttura modulare, il »toolBalancer« può essere adattato in modo completamente personalizzato.</p> <p>Lo strumento può essere utilizzato in modo intuitivo e intuitivo tramite touchscreen, tastiera o mouse, a seconda di ciò che meglio si adatta al vostro modo di lavorare. In questo modo potrete concentrarvi sul lavoro e sulla produzione in modo efficace e di alta qualità. In questo modo ridurrete in modo misurabile i vostri tassi di scarto, i tempi di fermo macchina e i costi di produzione!</p> <p><a class=\"btn\" href=\"/it/prodotti/tecnologia-per-la-bilanciatura-utensili/toolbalancer\">Maggiori informazioni su »toolBalancer«</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/a/csm_teaser_toolbalancer_e584d45648.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034,
+     "href": "/it/prodotti/tecnologia-per-la-bilanciatura-utensili/toolbalancer"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8002",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Alta capacità di asportazione del truciolo",
+    "Maggiore durata degli utensili",
+    "Migliore qualità dei componenti"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c8003",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Che cos'è l'equilibratura? </h2>",
+   "body": "<p>L'equilibratura riduce o, idealmente, elimina gli squilibri presenti in tutti i corpi rigidi rotanti attorno a un asse fisso. Gli squilibri sono causati da una distribuzione irregolare della massa nella mola; il punto di riferimento è l'asse di rotazione del mandrino di rettifica. L'obiettivo principale dell'equilibratura è quello di compensare tutti gli effetti della forza centrifuga sul mandrino rotante, in modo che il cuscinetto del mandrino non sia sottoposto a forze ulteriormente aggiuntive.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8007",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Come si formano gli squilibri nelle molle? </h2>",
+   "body": "<p>Gli squilibri in una mola possono manifestarsi già durante la produzione, ad esempio:</p><ul><li>lievi deviazioni dalla forma geometrica ideale o da una forma perfettamente simmetrica dovuti a errori di produzione,</li><li>altri errori di fabbricazione o</li><li>densità irregolare della struttura della mola (conseguenza: distribuzione del peso non equilibrata).</li></ul><p>Tuttavia, gli squilibri sono causati principalmente dall'usura durante il processo di rettifica. Ne sono un esempio:</p><ul><li>abrasione irregolare nel processo di rettifica,</li><li>sporco da trucioli o refrigeranti o lubrificanti e</li><li>sollecitazioni e deformazioni dovute a forze di serraggio, forze di taglio e forze centrifughe.</li></ul><p>Ulteriori problemi possono derivare da uno stoccaggio inadeguato o da un trattamento errato delle molle abrasive.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/5/csm_schleifscheiben_314b691a95.webp",
+     "alt": "",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8004",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Perché bilanciare le molle? </h2>",
+   "body": "<p>Le conseguenze di una mola non bilanciata possono essere molteplici: il mandrino di levigatura potrebbe non ruotare in modo silenzioso e uniforme (silenzio di funzionamento); uno squilibrio provoca a sua volta un'abrasione irregolare, che può amplificare ulteriormente l'effetto. Inoltre, l'abrasione o la capacità di asportazione della mola potrebbero aumentare.</p> <p>In generale, l'effetto negativo della forza centrifuga sul cuscinetto del mandrino si verifica se l'utensile e il portautensile come unità non presentano un'elevata precisione di concentricità. La durata utile del cuscinetto del mandrino può essere ridotta notevolmente. Anche la durata dell'utensile può peggiorare in modo significativo se le vibrazioni generate dalla forza centrifuga si trasmettono alla macchina e all'utensile. Gli utensili bilanciati contribuiscono quindi a ridurre i costi degli utensili e ad aumentare la produttività.</p> <p>Per ottenere prestazioni di asportazione più elevate e una maggiore durata degli utensili, è importante controllare lo stato di equilibratura della mola prima di ogni variazione del numero di giri del mandrino, poiché ogni combinazione di numero di giri del mandrino e utensile comporta uno squilibrio specifico.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/b/csm_scan_1dacd77291.webp",
+     "alt": "",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8005",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Quali sistemi di bilanciamento esistono? </h2>",
+   "body": "<p><strong>Nella tecnica di equilibratura si distinguono essenzialmente tre diversi sistemi di equilibratura.</strong></p><ul><li><p>Equilibratura elettronica: in questo caso lo squilibrio della mola viene bilanciato direttamente sul mandrino di rettifica; la tecnologia corrispondente può essere integrata nel mandrino di rettifica oppure si ottiene spostando manualmente i contrappesi.</p></li><li><p>Supporti di rotolamento: due singoli supporti di rotolamento (il supporto di rotolamento è anche definito supporto di equilibratura) sono dotati ciascuno di due dischi di rotolamento stretti, montati su cuscinetti a sfera. I supporti di rotolamento sono solitamente fissati su binari o posizionati su lastre di granito di macchine di misura.</p></li><li><p>Bilancia di equilibratura: le bilance di equilibratura determinano lo squilibrio statico delle mole. Di fatto viene misurato solo un piano; la mola è considerata staticamente equilibrata quando il suo baricentro si trova al centro, cioè sull'asse di rotazione.</p></li></ul>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8006",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_teaser_balancing_small_e3b1b4fcf5.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Tecnologia di sbilanciamento: i vostri vantaggi",
+     "href": "/it/solutions/tecnologia-per-la-bilanciatura-utensili",
+     "caption": "<figcaption> <h3>Tecnologia di sbilanciamento: i vostri vantaggi</h3> <p>L'equilibratura è sottovalutata. Tuttavia, l'equilibratura porta a una maggiore redditività, poiché riduce l'usura utensile, che comporta costi elevati, e alleggerisce il carico sui mandrini delle macchine. </p> <br/> Scopri di più </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Colloquio con esperti",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Colloquio con esperti</h3> <p>Uno scambio individuale sui vostri obiettivi e sulle nostre idee per raggiungerli. La consulenza online di ZOLLER direttamente dalla Smart Factory. Fissate subito un appuntamento. </p> <br/> Scopri di più </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3832",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/it/bilanciare-la-mola",
+ "de_path": "/schleifscheibe-auswuchten"
+}

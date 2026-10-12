@@ -1,0 +1,544 @@
+{
+ "path": "/maras",
+ "url": "/hu/maras",
+ "title": "Marás",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Marás",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Marás",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/fraesen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/milling",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/fresado",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/fraisage",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/fresagem",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/fresatura",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/fraesning",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/fraesen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/milling",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/fraisage",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%95%E3%83%A9%E3%82%A4%E3%82%B9%E5%8A%A0%E5%B7%A5",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EB%B0%80%EB%A7%81",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/milling",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/fresado",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/fresagem",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/7/a/csm_header_milling_9977afc8ee.webp",
+     "video": null,
+     "title": "Nagyobb siker a maróüzemek számára",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c2449",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> CAM-to-Part: <br/>µm-pontosságú mérésekkel és hibátlan adatokkal </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c775",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>A ZOLLER termékpalettája precíz beállító és mérőeszközöket, a szerszámkezeléshez szükséges átfogó hardvert és szoftvert, valamint a szerszámadatok hibátlan átvitelét szolgáló megoldásokat kínál Önnek. </strong></p> <p>A gazdaságos marási folyamatok µm-es pontosságot és magas idő- és költséghatékonyságot igényelnek. A pontosság a marószerszám számos geometriájának mérésével kezdődik. A lehető legjobb hatékonyság érdekében a szerszámoknak gyorsan kéznél kell lenniük, és a szerszámadatoknak minden lépésnél friss állapotban elérhetőnek kell lenniük. A ZOLLER segítségével minden marással kapcsolatos szerszámfolyamat sikeresen megvalósítható.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c774",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c776",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "count",
+   "title": "A szerszámok beállításával és mérésével elérhető, évente realizálható megtakarítási potenciál*",
+   "value": "15 000 €",
+   "note": "*A számítás 20 szerszámcserére vonatkozik, egyenként 3 perces cserélési idővel, évi 200 munkanappal és napi egy műszakkal, a gépóradíj 75 €.",
+   "ftype": "zoller_count-banner",
+   "id": "c769",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> A ZOLLER megoldásai maróüzemek számára </h2>",
+   "items": [
+    {
+     "href": "/hu/termekek/szerszamtartok",
+     "title": "Szerszámtartók",
+     "text": "<p>»Az idChip«-pel ellátott szerszámtartó – a digitális gyártás tökéletes kapcsolódási pontja.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/8/csm_ToolingSolutions_preview_7b8d14560e.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/beallitas-es-meres/fueggoleges-keszuelekek/smile",
+     "title": "»smile«",
+     "text": "<p>A strapabíró, mikrométeres pontosságú belépő szintű eszközök standard szerszámokhoz</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/beallitas-es-meres/fueggoleges-keszuelekek/venturion",
+     "title": "»venturion«",
+     "text": "<p>Kiváló szerszámbeállítás és -mérés számos opcióval</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/d/csm_venturion_preview_cdaca59ebb.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/beallitas-es-meres/vizszintes-gepek/hyperion",
+     "title": "»hyperion«",
+     "text": "<p>Vízszintes beállító és mérőműszer forgácsoláshoz</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/8/csm_hyperion_preview_37118ddf5b.webp",
+      "alt": "zoller hyperion",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/beallitas-es-meres/egyedi-megoldasok/egyedi-megoldasok/phoenix",
+     "title": "»phoenix«",
+     "text": "<p>Minden paramétert teljesen automatikusan méri a torokmérő elve alapján</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/8/d/csm_phoenix_preview_66edf5e474.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/eszkoezkezeles/szerszamraktar/toolorganizer",
+     "title": "»toolOrganizer«",
+     "text": "<p>Vágószerszámokhoz és apró alkatrészekhez</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_018ce796c6.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/hore-zsugorodo-technika/powershrink",
+     "title": "»powerShrink«",
+     "text": "<p>Az optimális energiahatékonyságú és maximális biztonságot nyújtó zsugorító rendszer</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_506ab0ccb9.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/hore-zsugorodo-technika/redomatic",
+     "title": "»redomatic«",
+     "text": "<p>Univerzális beállító- és mérőműszer beépített szerszám-összehúzó rendszerrel</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/f/b/csm_redomatic_preview_4157496177.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/kiegyensulyozasi-technika/toolbalancer",
+     "title": "»toolBalancer«",
+     "text": "<p>A legmodernebb technológiával és ergonómikus kialakítással rendelkező kiegyensúlyozó rendszer</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/automatizalas/szerszamok-elokeszitese/corameasure-lg",
+     "title": "»coraMeasure LG«",
+     "text": "<p>Gazdaságos szerszámkezelés a ZOLLER venturionhoz</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/automatizalas/szerszamok-elokeszitese/robobox",
+     "title": "»roboBox«",
+     "text": "<p>Akár hat modul olyan rutinműveletekhez, mint a szerelés, tisztítás, mérés, zsugorítás és egyebek</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/a/csm_roboBox_preview_f71dd04107.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/automatizalas/szerszamok-elokeszitese/micbox",
+     "title": "»micBox«",
+     "text": "<p>A forgácsolóbetétek forgatását, megfordítását és cseréjét végzi</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/6/a/csm_micbox_preview_ff03cd31af.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/ellenorzes-es-meres/univerzalis-merogepek/smartcheck",
+     "title": "»smartCheck«",
+     "text": "<p>Beállító és mérőműszer kiegészítő felülről eső fényforrással és kiterjesztett képelemzéssel</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_b44dfc4928.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/eszkoezkezeles/adatatvitel/zidcode",
+     "title": "»zidCode«",
+     "text": "<p>Nagyobb biztonság és hatékonyság az egyszerű szerszámadatok kezelésének köszönhetően</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/c/csm_zidCode_preview_538b53ed83.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/eszkoezkezeles/szerszamraktar/keeper",
+     "title": "»keeper«",
+     "text": "<p>Komplett szerszámokhoz és szerszámtartókhoz</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/a/csm_keeper_preview_1e87de3ba7.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/eszkoezkezeles/szerszamraktar/autolock",
+     "title": "»autoLock«",
+     "text": "<p>Mérőeszközök, üzemanyagok és nagyobb alkatrészek esetében</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/7/csm_autolock__preview_a71350a53a.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/eszkoezkezeles/szerszamraktar/twister",
+     "title": "»twister«",
+     "text": "<p>Szerszámalkatrészekhez és kiegészítőkhöz</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/1/csm_twister__preview_edf94f7d12.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/eszkoezkezeles/szerszamok-oesszeszerelese/toolstation",
+     "title": "»toolStation«",
+     "text": "<p>Az optimális szerszám-összeszereléshez</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/f/csm_toolStation_preview_00b81d24f9.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/eszkoezkezeles/szerszamok-oesszeszerelese/ztower",
+     "title": "»zTower«",
+     "text": "<p>Univerzális szerszámrögzítéshez</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/6/csm_zTower_preview_c0c8e3585e.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/eszkoezkezeles/szerszamok-szallitasa/toolcart",
+     "title": "»toolCart«",
+     "text": "<p>A szerszámok kényelmes szállításához</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_3be007bbac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/beallitas-es-meres/fueggoleges-keszuelekek/venturion/modellek/tribos",
+     "title": "»tribos«",
+     "text": "<p>Poligonfogó felszerelése</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/3/2/csm_tribos_preview_8c77bd06f1.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/beallitas-es-meres/fueggoleges-keszuelekek/venturion/modellek/torquematic",
+     "title": "»torquematic«",
+     "text": "<p>Teljesen automatikus befogás</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/8/csm_torquematic_preview_76d4d49ac6.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_categorized_pages",
+   "id": "c4773",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 szakértői beszélgetés",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 szakértői beszélgetés</h3> <p>Személyre szabott megbeszélés az Ön céljairól és az azokhoz kapcsolódó ötleteinkről. A ZOLLER online tanácsadása közvetlenül a Smart Factory-ból. Foglaljon időpontot most! </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/e/csm_teaser-2Colume-Media_8e9165a74e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Média: A ZOLLER részletesen",
+     "href": "/hu/vallalat/media",
+     "caption": "<figcaption> <h3>Média: A ZOLLER részletesen</h3> <p>Itt megtalálhatja a sajtóközleményeket, a termékbejelentéseket, a kiállítási részvételeket, a szaklapokban megjelent cikkeket, a hírek archívumát, valamint a sajtókapcsolati munkatársainkat. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c738",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/hu/maras",
+ "de_path": "/fraesen"
+}

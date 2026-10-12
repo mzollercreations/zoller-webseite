@@ -1,0 +1,436 @@
+{
+ "path": "/szerszam-kiegyensulyozasa",
+ "url": "/hu/szerszam-kiegyensulyozasa",
+ "title": "Szerszám kiegyensúlyozása",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Szerszám kiegyensúlyozása",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Szerszám kiegyensúlyozása",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeug-auswuchten",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/balance-the-tool",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/equilibrar-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/equilibrer-loutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/equilibrar-a-ferramenta",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/bilanciamento-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/balansera-verktyg",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeug-auswuchten",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/equilibrage-dun-outil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EB%B0%B8%EB%9F%B0%EC%8B%B1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/balancing-tools",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/equilibrar-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/equilibrar-a-ferramenta",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/c/f/csm_balancing_header_d7e77910f1.webp",
+     "video": null,
+     "title": "A szerszámok kiegyensúlyozása egyszerűen",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4378",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>A szerszámokban fellépő kiegyensúlyozatlanságok hamar több szempontból is problémát jelentenek: a szerszámok nem egyenletesen forognak, megterhelik az orsót és a gépet, rontják a megmunkálási teljesítményt, és végső soron az egész gyártási folyamat biztonságát is veszélyeztetik.</h4>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3932",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Milyen következményekkel jár a szerszám kiegyensúlyozatlansága? </h2>",
+   "body": "<p>A bizonytalanul futó szerszámokat nem lehet tartósan olyan pontossággal használni, amire a munkájához szüksége van. A fellépő rezgések nemcsak az általános megmunkálási teljesítményt csökkentik, hanem a munkadarabokon olyan hibákat is okoznak, mint például a rezgésnyomok, amelyeket adott esetben utómunkálatokkal kell kijavítani. A szerszámok kiegyensúlyozatlansága így konkrét minőségromláshoz vezet, és veszélyezteti a folyamatok biztonságát.</p> <p>Ezen felül a kiegyensúlyozatlanságok a főtengely és esetleg a gép élettartamát is csökkentik – ennek költségei gyorsan meghaladják a szerszámok gyakrabban történő kiegyensúlyozásával járó ráfordításokat.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3933",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Mit jelent a kiegyensúlyozatlanság? </h2>",
+   "body": "<p>A „kiegyensúlyozatlanság” kifejezéssel a forgó testek esetében azt az általános jelenséget írják le, hogy tömegük nem forogásszimmetrikusan oszlik el a testen. Ennek során alapvetően háromféle kiegyensúlyozatlanságot különböztetünk meg:</p><ul><li>Statikus kiegyensúlyozatlanság: Ebben az esetben a forgó test súlypontja a forgástengelyen kívül helyezkedik el. Ez már álló helyzetben is mérhető.</li><li>Nyomaték-kiegyensúlyozatlanság: A súlypont a forgástengelyen helyezkedik el, a kiegyensúlyozatlanság csak forgás közben mérhető.</li><li>Dinamikus kiegyensúlyozatlanság: A dinamikus kiegyensúlyozatlanság fogalma egyesíti a másik két kiegyensúlyozatlansági formát, a statikus kiegyensúlyozatlanság és a nyomaték-kiegyensúlyozatlanság tetszőleges kombinációjában. Ez a technikai rotorok esetében a szokásos eset.</li></ul><p>A kiegyensúlyozatlanság minden egyes formája a forgó test megfelelő módosításával kiegyenlíthető.</p> <p>Forgás közben a kiegyensúlyozatlanság annál erősebben érezhető, minél nagyobb a kiegyensúlyozatlanság (lineáris növekedés) és minél gyorsabb a forgómozgás (négyzetes növekedés). Minél gyorsabb a forgómozgás, annál fontosabbá válik a kiegyensúlyozás, annál fontosabb, hogy a maradék kiegyensúlyozatlanságot a lehető legnagyobb mértékben csökkentsük. A kiegyensúlyozást ezért szisztematikusan be kell építeni a munkafolyamatba.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3934",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Mi okozza a kiegyensúlyozatlanságot a szerszámgyártás során? </h2>",
+   "body": "<p>A forgó szerszámrendszerekben a kiegyensúlyozatlanság egy jól ismert és gyakran előforduló jelenség. Kialakulásának számos lehetséges oka lehet, például:</p><ul><li>Egy több alkatrészből álló szerszámot nem szereltek össze helyesen – például ha a szerszámtartó és a szerszám nem áll pontosan egy vonalban, és eltér a forgástengelytől.</li><li>A szerszám tömegeloszlása már a gyártás során is aszimmetrikus volt – ebben az esetben figyelembe kell venni a gyártók gyártási tűréshatárait, és szükség esetén ellenőrizni kell azokat.</li><li>Maga a rotor vagy a szerszámfogató kialakításának köszönhetően aszimmetrikus (pl. rögzítőcsavar egy maróadapterben (Weldon-fogat)).</li></ul><p>Még a finoman kiegyensúlyozott szerszámfogadók esetében is előfordulhat, hogy a fogadók és a konkrét szerszám kombinációja miatt ismét kiegyensúlyozatlanság alakul ki. Ennek mérése és szükség esetén kijavítása rendkívül fontos.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3935",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Miért olyan fontos a szerszámok kiegyensúlyozása? </h2>",
+   "body": "<p>A forgó szerszámrendszerekkel végzett nagy sebességű munkadarab-megmunkálás során minden apró pontatlanság, minden precíziós hiba adott körülmények között nagyon gyorsan és nagyon egyértelműen észrevehetővé válik. A szerszám kiegyensúlyozatlansága rezgéseket okozhat, de minden bizonnyal zavaros futást eredményez.</p> <p>Mindkettő rontja a szerszám munkájának pontosságát, és mindig növeli a hibák és a munkadarab károsodásának kockázatát: romlik a felületi minőség, és selejt keletkezhet. Mivel azonban a folyamatai nagymértékben függnek a helyesen megmunkált végeredményektől, a nem finoman kiegyensúlyozott szerszámok miatt részletesebb minőség-ellenőrzésekre van szükség. Esetleg utómunkálatokra is szükség lehet, mindenesetre a folyamatbiztonság nem garantált.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3936",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> A kiegyensúlyozás elmulasztása pénzbe kerül </h2>",
+   "body": "<p>Ez a gyártási folyamat késedelméhez vezethet, ami viszont közvetlenül befolyásolja azt, hogy képesek legyenek-e a megrendelt mennyiséget a szükséges minőségben határidőre leszállítani.</p> <p>Ehhez hozzáadódik még az a tény, hogy a nem egyenletesen futó szerszámok – különösen a rezgések miatt – csökkenthetik az esztergaorsó élettartamát – ez is egy nem elhanyagolható költségtényező.</p> <p>A kiegyensúlyozott szerszám tehát jó a munkadarabok és a gépek számára is.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3937",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Általános szabály: aki sokat emelget, ritkán bánja meg! </h2>",
+   "body": "<p><strong>Ezért az alapelv a következő:</strong> jobb időben és gyakrabban kiegyensúlyozni, mint végül a költségeket viselni. Általánosságban elmondható, hogy egy szerszámot már akkor is újra kell kiegyensúlyozni, ha megváltozott fordulatszámon használják – hiszen ez a változás is jelentős eltéréseket okozhat a futás simaságában.</p> <p>A rendszeres kiegyensúlyozás növeli a termelékenységet és a munka minőségét.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3938",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> A szerszám kiegyensúlyozása: hogyan kell csinálni? </h2>",
+   "body": "<p>Általánosságban háromféle módszer létezik a kiegyensúlyozatlanság kijavítására vagy megszüntetésére:</p><ul><li>Célzottan tömeget hozzáadni (pl. kiegészítő súlyokkal)</li><li>Tömeg eltávolítása (pl. fúrással vagy csiszolással)</li><li>A tömeg áthelyezése (pl. megfelelő forgógyűrűkkel)</li></ul><p>A folyamat szerszámok esetében történő megkönnyítése és pontos végrehajtása érdekében ajánlott egy megfelelő szoftverrel ellátott kiegyensúlyozó gép használata. Itt először a szerszámot egy kiegyensúlyozó orsóba helyezik és forgásba hozzák, hogy megmérjék a fellépő centrifugális erőket.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3939",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Automatikusan kiszámított kiegyensúlyozás </h2>",
+   "body": "<p>Ezekből a mérési adatokból a kiegyensúlyozó rendszer kiszámítja a kiegyensúlyozandó eltérést. Egy fejlett kiegyensúlyozó gépen a szükséges intézkedéseket azonnal végrehajthatják; a finomkiegyensúlyozást addig folytatják, amíg már nem mérhető maradék eltérés, vagy amíg minden érték elfogadható tűréshatáron belül van.</p> <p>Így a kiegyensúlyozás nem is tart különösebben sokáig, az egyenetlenül elosztott tömeg gyorsan kiegyenlíthető.</p> <p>Egy nagy pontosságú és nagyrészt automatikus kiegyensúlyozó rendszer azért is hasznos, mert lehetőséget nyújt a szerszámok minden átálláskor történő újbóli és egyúttal gyors kiegyensúlyozására. Így megakadályozható, hogy a megváltozott követelmények, fordulatszámok vagy anyagok miatt minőségromlás következzen be, anélkül, hogy a munka sebessége csökkenne.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3940",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h3> Hatékony kiegyensúlyozás a ZOLLER »toolBalancer« segítségével </h3>",
+      "body": "<p>Finoman kiegyensúlyozott szerszámok nagy fordulatszámú munkavégzéshez is: ehhez a ZOLLER »toolBalancer« a tökéletes kiegyensúlyozó rendszer. Moduláris felépítésének köszönhetően nemcsak az Ön egyedi igényeihez igazítható, hanem bő teret biztosít a jövőbeli fejlesztéseknek is.</p> <p>A rendkívül pontos kiegyensúlyozó rendszer szerszámtartókhoz, csiszolókorongokhoz és rotorokhoz egyaránt alkalmas, és mérhetően alacsonyabb selejtarányt, gépleállási időt, gyártási költségeket és szállítási időket garantál.</p> <h3><br/>Az előnyök áttekintése:</h3><ul><li><strong>Kevesebb kopás</strong> és nagyobb megmunkálási teljesítmény a nagy pontosságú kiegyensúlyozott szerszámok révén</li><li>A<strong> moduláris felépítés</strong> egyedi testreszabást tesz lehetővé</li><li>A rendszer <strong>intuitív kezelése</strong> elkerüli a felesleges és drága hibákat</li><li><strong>Kényelmes használat</strong> érintőképernyővel, billentyűzettel és egérrel</li></ul><p><a class=\"btn\" href=\"/hu/termekek/kiegyensulyozasi-technika/toolbalancer\">Tudjon meg mindent a ZOLLER »toolBalancer« lehetőségeiről</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3943",
+      "bg": "",
+      "space": {
+       "before": "small",
+       "after": "small"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/f/6/csm_header_toolBalancer_df19c3c897.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 896
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "image",
+      "id": "c3945",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3941",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_teaser_balancing_small_e3b1b4fcf5.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Kiegyensúlyozási technika: előnyei",
+     "href": "/hu/megoldasok/kiegyensulyozasi-technika",
+     "caption": "<figcaption> <h3>Kiegyensúlyozási technika: előnyei</h3> <p>A kiegyensúlyozás fontosságát alábecsülik. Pedig a kiegyensúlyozás növeli a gazdaságosságot, mivel csökkenti a költségeket megnövelő szerszámkopást és tehermentesíti a géporsókat. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 szakértői beszélgetés",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 szakértői beszélgetés</h3> <p>Személyre szabott megbeszélés az Ön céljairól és az azok eléréséhez kapcsolódó ötleteinkről. A ZOLLER online tanácsadása közvetlenül a Smart Factory-ból. Foglaljon időpontot most! </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3832",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/hu/szerszam-kiegyensulyozasa",
+ "de_path": "/werkzeug-auswuchten"
+}

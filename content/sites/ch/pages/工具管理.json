@@ -1,0 +1,446 @@
+{
+ "path": "/工具管理",
+ "url": "/ch/%E5%B7%A5%E5%85%B7%E7%AE%A1%E7%90%86",
+ "title": "刀具管理",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "刀具管理",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "刀具管理",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/tool-management",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-management",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/gestion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/gestion-des-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/gestao-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/gestione-degli-strumenti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verktygshantering",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/tool-management",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/gestion-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/tool-management",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/gestion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/gestao-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/5/b/csm_toolmanagement_header_ab8ef9c82c.webp",
+     "video": null,
+     "title": "刀具管理 — 不仅是刀具整理",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8115",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">现代刀具管理涉及诸多方面 — 包括刀具数据的管理、刀具及刀具零部件的仓储、运输和订购，但最重要的是：实现更高效、更优质的工作流程。</p> <p class=\"extra-large-text\">借助一套优秀的刀具管理系统，您可以全面掌握并掌控刀具生命周期的各个阶段 — 并可自主决定希望以何种详细程度和复杂度来掌握全局。</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8116",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 刀具管理：仓储、规划、管控 </h2>",
+   "body": "<p>例如，刀具管理意味着对所有刀具及刀具组件进行集中记录和管理。这样，您不仅能全面掌握刀具和组件的状况，还能优化库存管理、规划和控制刀具的使用，并在恰到好处的时间（即“准时制”）订购新的刀具和组件。</p> <p>借助合适的软件，您将能够全面掌握刀具的使用方式和位置 — 覆盖整个工艺链。这也意味着：更好的成本控制、优化的工作流程以及更有效的刀具使用。</p> <p>刀具管理还意味着所有刀具数据均由中央统一管理，并在理想情况下通过合适的接口直接传输至您的 CAM 系统。这简化并缩短了装夹过程，使刀具的装调更加快速可靠。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/4/csm_tms_connected_3fe459a22a.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 900
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8117",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> 适合您的刀具管理软件 </h2>",
+      "body": "<p>ZOLLER 推出的模块化软件 TMS Tool Management Solutions 具备您对现代刀具管理软件所期待的所有功能和接口。</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c8119",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "管理有序",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>将所有单个组件、成套刀具和装夹单集中录入一个中央数据库中。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8122",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "无损接口",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>借助多种接口，您可以将 ZOLLER-TMS 与您的 CAM 系统对接 — 刀具数据的无误数字传输可为您节省时间、省去烦恼并降低成本。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8124",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "库存管理",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>每件物品各归其位 — 借助ZOLLER-TMS，您随时都能清楚掌握零部件和刀具的位置。同时，还能高效地掌握库存状况。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8126",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "刀具监测",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>将质量控制与磨损分析整合到一个平台，监控刀具的使用情况，并针对单个订单及成本生成统计数据。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8128",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "透明度与效率",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>将您的管理与采购流程相整合，确保始终能及时采购所需物资，并保持采购精度。识别生产过程中的问题，确保流程顺畅无阻。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8130",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c8120",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8118",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 刀具管理软件作为刀具管理的核心组成部分 </h2>",
+   "body": "<p>如今，如果没有相应的管理软件，现代刀具物流几乎已不可想象。借助合适的软件，您可以确保每个工序的刀具供应无忧，耗时的刀具查找工作也将成为历史。 因为您的刀具清单中会明确标注每个部件的位置 — 如果您愿意，还可以使用智能储物柜，确保所有物品都各归其位。</p> <h3>随时可用的刀具数据</h3> <p>但刀具管理远不止于刀具存储：系统始终提供相应的刀具数据或刀具预调，并能将其快速、无误地传输至您的刀具系统或预调设备，从而避免错误、减少废品并加速工作流程。</p> <p>无论是使用切削刀具，还是完全不同刀具类别中的设备： 您的物流环节肯定还有改进空间，存在优化机会 — 也许是在刀具发放、仓储系统或所使用的刀具数据库方面。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/9/csm_digital_durchstarten_webTMS_16feff8d28.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8131",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "刀具管理：为您带来的优势",
+     "caption": "<figcaption> <h3>刀具管理：为您带来的优势</h3> <p>了解ZOLLER的刀具管理解决方案如何立即提升您的生产效率。借助刀具数据，加工过程将更加快速、安全——其中还包括对您机床的防碰撞保护功能。 </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "一对一专家咨询",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>一对一专家咨询</h3> <p>针对您的目标以及我们为此提出的方案，进行一对一的交流。ZOLLER 直接从“智能工厂”为您提供的在线咨询服务。立即预约。 </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ch/工具管理",
+ "de_path": "/tool-management"
+}

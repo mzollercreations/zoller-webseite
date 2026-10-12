@@ -1,0 +1,814 @@
+{
+ "path": "/vallalat/profil/toertenete",
+ "url": "/hu/vallalat/profil/toertenete",
+ "title": "Története",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Vállalat /",
+   "href": "/hu/vallalat"
+  },
+  {
+   "label": "Profil /",
+   "href": "/hu/vallalat/profil"
+  },
+  {
+   "label": "Története",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Vállalat /",
+   "href": "/hu/vallalat"
+  },
+  {
+   "label": "Profil /",
+   "href": "/hu/vallalat/profil"
+  },
+  {
+   "label": "Története",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/profil/historie",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/profile/history",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/profil/historia",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/profil/historie",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/history",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/profil/historique",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/%E6%B2%BF%E9%9D%A9",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84/%EC%97%B0%ED%98%81",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/profile/history",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/perfil/historia",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/perfil/historia",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "timeline",
+   "heads": {
+    "772": {
+     "year": "1945",
+     "label": "Visszatérés és új kezdet"
+    },
+    "773": {
+     "year": "1948",
+     "label": "Növekedés és változás"
+    },
+    "774": {
+     "year": "1958",
+     "label": "A világújdonság"
+    },
+    "775": {
+     "year": "1968",
+     "label": "Gyors belépés"
+    },
+    "776": {
+     "year": "1969",
+     "label": "Sorozatgyártásban"
+    },
+    "777": {
+     "year": "1976",
+     "label": "Az első NC-vezérlésű beállító berendezés"
+    },
+    "778": {
+     "year": "1977",
+     "label": "A korát megelőző"
+    },
+    "779": {
+     "year": "1981",
+     "label": "Szerszámgyártási folyamatokhoz készült szoftver"
+    },
+    "780": {
+     "year": "1982",
+     "label": "A ZOLLER Freiberg an der Neisse-be költözik"
+    },
+    "781": {
+     "year": "1983",
+     "label": "A ZOLLER szabja a mércét"
+    },
+    "782": {
+     "year": "1985",
+     "label": "A Power Brain felváltja a Tool Brain-t"
+    },
+    "783": {
+     "year": "1988",
+     "label": "Díjnyertes formatervezés"
+    },
+    "784": {
+     "year": "1989",
+     "label": "µm-pontosság minden felhasználó számára"
+    },
+    "785": {
+     "year": "1991",
+     "label": "Ujj az egér helyett"
+    },
+    "786": {
+     "year": "1992",
+     "label": "Az első ZOLLER szerszámvizsgáló berendezés"
+    },
+    "787": {
+     "year": "1993",
+     "label": "A legnehezebb döntés"
+    },
+    "788": {
+     "year": "1994",
+     "label": "Jön a KANBAN"
+    },
+    "789": {
+     "year": "1995",
+     "label": "Megkezdődik a »smartCheck« korszaka"
+    },
+    "790": {
+     "year": "1996",
+     "label": "Új szoftvermegoldások"
+    },
+    "791": {
+     "year": "1997",
+     "label": "Indulj nyugatra"
+    },
+    "792": {
+     "year": "1998",
+     "label": "Újdonságok a mérés és ellenőrzés területén"
+    },
+    "793": {
+     "year": "1999",
+     "label": "»A Lasso« kontúrokat jelöl ki"
+    },
+    "794": {
+     "year": "2000",
+     "label": "Az új különbség: »smile«"
+    },
+    "795": {
+     "year": "2001",
+     "label": "Tanúsított környezetgazdálkodás"
+    },
+    "796": {
+     "year": "2002",
+     "label": "A zsugorítás szakértője: »redomatic«"
+    },
+    "797": {
+     "year": "2003",
+     "label": "Több áttekinthetőség »a genius 3«-mal"
+    },
+    "798": {
+     "year": "2004",
+     "label": "A nyugdíjazás elmarad"
+    },
+    "799": {
+     "year": "2005",
+     "label": "Rövid eszközösszegzés 60 év után"
+    },
+    "800": {
+     "year": "2006",
+     "label": "»pilot 3.0«"
+    },
+    "801": {
+     "year": "2007",
+     "label": "»pilot elephant«: Mérés előzetes ismeretek nélkül"
+    },
+    "802": {
+     "year": "2008",
+     "label": "Költözés Pleidelsheimbe"
+    },
+    "803": {
+     "year": "2010",
+     "label": "A ZOLLER Japánban"
+    },
+    "804": {
+     "year": "2011",
+     "label": "Szerszámkezelés a ZOLLER segítségével"
+    },
+    "805": {
+     "year": "2012",
+     "label": "»titán«"
+    },
+    "806": {
+     "year": "2013",
+     "label": "Új taggal bővül a mérőgépek családja"
+    },
+    "807": {
+     "year": "2014",
+     "label": "Nagyobb hatékonyság az automatizálásnak köszönhetően"
+    },
+    "808": {
+     "year": "2016",
+     "label": "Frissítés »a smile« és »a venturion« számára"
+    },
+    "809": {
+     "year": "2017",
+     "label": "A szerszám felületének pontos elemzése"
+    },
+    "810": {
+     "year": "2018",
+     "label": "Székhelye Ann Arborban,"
+    },
+    "811": {
+     "year": "2020",
+     "label": "Új épület „Smart Factory” és „Academy” létesítményekkel"
+    },
+    "812": {
+     "year": "2021",
+     "label": "Szerszámautomatizálás a gyártáshoz"
+    },
+    "813": {
+     "year": "2022",
+     "label": "Innovációk a kiegyensúlyozás és a zsugorítás területén"
+    },
+    "814": {
+     "year": "2023",
+     "label": "Portálmegoldás az automatizáláshoz"
+    },
+    "815": {
+     "year": "2024",
+     "label": "Az új mérőgép"
+    },
+    "816": {
+     "year": "2025",
+     "label": "A »pom«-modellek átfogó karbantartása"
+    }
+   },
+   "items": [
+    {
+     "id": "772",
+     "html": "19<br/> 45 <h1>Visszatérés és új kezdet</h1> <p>Alfred Zoller visszatér Berlinből Ludwigsburgba. Kilenc éven át volt kiküldetésben a Hirth repülőgép-motorok gyárában, mint gépészmester. Szeptember 1-jén Alfred Zoller megnyitja gépészeti műhelyét a ludwigsburgi Bogenstraße-n. A második világháború alig négy hónapja ért véget. A kezdeti körülmények ennek megfelelően nehézkesek. Egyrészt rengeteg javítanivaló van, másrészt szűkösek a szerszámok, az anyagok és a gépek. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/8/csm_1945_01_0487a6b9c4.webp\" width=\"600\"/> <p>Alfred Zoller</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/0/csm_1945_02_240d6e6568.webp\" width=\"600\"/> <p>Bogenstraße, Ludwigsburg</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/d/csm_1945_03_bb9b277f52.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/6/csm_1945_04_f1fa6af766.webp\" width=\"600\"/> <h4>Tollak, öngyújtók, tűzoltócsövek</h4> <p>Alfred Zoller motorokat, tűzoltócsöveket, gyermekjátékokat, töltőtollakat és mindenféle más dolgot javít, amit az emberek hozzá visznek. Ezen felül megjavítja a meghibásodott gépeket is. Ezek képezik az alapját saját termékeinek gyártásához.</p> <p>Különösen sikeresek az alumíniumból készült öngyújtói, amelyeket esztergáján gyárt. Az amerikai katonák idővel a legfontosabb vásárlóivá válnak. Az öngyújtókat főként cigarettával, mogyoróvajjal vagy csokoládéval fizetik.</p>",
+     "img": null
+    },
+    {
+     "id": "773",
+     "html": "19<br/> 48 <h3>Növekedés és változás</h3> <p>Alfred Zoller vállalkozása sikeresen megvetette a lábát Ludwigsburgban. A kis vállalkozás az elmúlt három évben növekedett, új munkatársak csatlakoztak hozzá. A Bogenstraße-n már szűkös a hely. A műhely új helyre költözik, a Charlottenstraße-re. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/4/csm_1948_01_3e7d4e5914.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/3/csm_1948_02_cd124cd83d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/1/csm_1948_03_ddef5d6539.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/b/csm_1948_04_35d2f43c2e.webp\" width=\"600\"/> <h4>Szerszámtartók és továbbfejlesztés</h4> <p>Zoller mechanikusként elért eredményei híre megy. A cég licenc alapján esztergagépekhez szerszámtartókat gyárt, amelyeket több kereskedőn keresztül értékesítenek. Ezek a ZOLLER történetének első szerszámmegoldásai. Ezzel Alfred Zoller belépett az esztergaszerszám- és esztergagép-iparba. </p> <p>További megrendelések érkeznek a gépgyártóktól. Alfred Zoller feladata, hogy lemezsablonokat gyártson, amelyekkel az esztergálószerszámok beállíthatók. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/4/csm_1948_01_3e7d4e5914.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "774",
+     "html": "19<br/> 58 <h3>Világújdonság: a Zoller esztergálószerszámokhoz készült beállító készüléke</h3> <p>Az ügyfelek felvetették, hogy egy esztergaszerszámok előbeállítására szolgáló eszköz jelentősen javítaná a gyártási folyamatot. A leleményes sváb Zoller felkarolta az ötletet, és kifejlesztett egy pantográfot a szerszámbeállításhoz. </p> <p>Valójában a pantográf egy rajzeszköz. Zoller azonban megértette, hogyan lehet a mechanizmust mikroszkóppal kombinálva a szerszámbeállításhoz felhasználni. Ez volt a világon az első olyan eszköz, amellyel a gépkezelő egy műszaki rajz alapján külsőleg beállíthatta az összes esztergaszerszámot. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/b/csm_1958_01_a451fe7896.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/0/csm_1958_02_ad7853d944.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/d/b/csm_1958_01_a451fe7896.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "775",
+     "html": "19<br/> 68 <h3>Gyors belépés </h3> <p>Alfred Zoller fia, Eberhard Zoller, április 8-án csatlakozik a céghez. A fiatal gépészmérnök a Heidelberger Drucknál dolgozik, amely nagy méretű nyomdagépek gyártására szakosodott. Apja egészségi állapota azonban azonnali cselekvést igényel. „Nagyon jól éreztem magam a Heidelberger Drucknál. Az volt az egyik legmodernebb vállalat Németországban. De egy pillanatig sem haboztam, hogy belépjek apám cégébe” – emlékszik vissza Eberhard Zoller. Első feladata: a beállító és mérőműszer továbbfejlesztése. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/6/csm_1968_01_6f0f9a1511.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/6/csm_1968_02_8f0be66930.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/7/csm_1968_03_c3382b902c.webp\" width=\"600\"/> <h4>Cégnévváltoztatás</h4> <p>Mivel a hangsúly egyre inkább a berendezések és szerszámtartók felé tolódott el, a vállalat megváltoztatta nevét. A hannoveri vásáron „ALFRED ZOLLER Maschinen- und Vorrichtungsbau” néven mutatkozott be. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/6/csm_1968_01_6f0f9a1511.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "776",
+     "html": "19<br/> 69 <h3>Sorozatgyártásban</h3> <p>Az Alfred Zoller által feltalált és Eberhard Zoller által továbbfejlesztett beállító készülék sorozatgyártásba kerül. Az egykor mechanikai műhelyként alapított vállalkozás gépgyártóvá válik. Az év végéig több mint 30 készüléket adnak el. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/7/csm_1969_01_2d454117fb.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/7/csm_1969_01_2d454117fb.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "777",
+     "html": "19<br/> 76 <h3>Az első NC-vezérlésű beállító berendezés</h3> <p>A szerszámbeállítás még mindig kézi munkát igényel. Ezért a ZOLLER olyan megoldásokat keres, amelyekkel a szerszám automatikusan eljuthat a beállítási pozícióba. Megjelenik a piacon a világ első NC-vezérlésű beállító berendezése: a ZOLLER H 4000.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/e/csm_1976_03_cded673504.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/4/csm_1976_02_d7b5b5374d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/b/csm_1976_01_5e9cfdb9f4.webp\" width=\"600\"/> <h4>A király látogatása</h4> <p>A ZOLLER részt vesz egy szerszámgép-kiállításon Stockholmban. A ludwigsburgi vállalatnak nyilvánvalóan kiváló hírneve előzi meg a legmagasabb körökben is. Az exportpartnerország királya, Carl Gustav svéd király személyesen látogat el a ZOLLER kiállítási standjához. Tudni szeretné, mi teszi a sváb precíziós technológiát olyan különlegessé.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/e/csm_1976_03_cded673504.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "778",
+     "html": "19<br/> 77 <h3>A kor előtt jár: a Basic segítségével a digitális berendezési tervhez </h3> <p>Eberhard Zoller számára csupán idő kérdése, hogy a szoftverek egyre nagyobb szerepet kapjanak a folyamatokban. Kétségtelen, hogy a ZOLLER-nek erre megoldásokat kell kidolgoznia. A ZOLLER vezérigazgatója tehát rövid időn belül autodidakta módon elsajátítja a Basic programozást, és a hannoveri nemzetközi kiállításon bemutatja az első digitális beállítási lapot. Az érdeklődés azonnal hatalmas. A ZOLLER-nek hirtelen problémája adódik: nem tudnak szállítani. A vezérigazgató a programot inkább koncepcióvázlatnak szánta. De a mag el volt vetve. Eberhard Zoller programozókat vesz fel.</p>",
+     "img": null
+    },
+    {
+     "id": "779",
+     "html": "19<br/> 81 <h3>Szerszámgyártási folyamatokhoz készült szoftver</h3> <p>Eberhard Zoller azt szeretné, ha a szerszámkezelés még több követelményét digitálisan le tudná képezni. 1981-ben a ZOLLER bemutatja első szerszámkezelő szoftverét: a Tool Brain-t.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/d/csm_1981_01_96ddb65e12.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/b/csm_1981_02_f5b5db0122.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/6/d/csm_1981_01_96ddb65e12.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "780",
+     "html": "19<br/> 82 <h3>A ZOLLER Freiberg an der Neisse-be költözik</h3> <p>A vállalat következő költözése előtt áll, mivel a ludwigsburgi telephelyek már nem felelnek meg a ZOLLER növekedésének. A ZOLLER új telephelyet épít Freiberg a.N.-ben, ezzel pedig optimális feltételeket teremt a gyártás, a fejlesztés és az adminisztráció jövőorientált kialakításához. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/e/csm_1982_01_55ec0d8af2.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_1982_02_8738e9d4cd.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/e/csm_1982_01_55ec0d8af2.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "781",
+     "html": "19<br/> 83 <h3>A ZOLLER szabványt teremt a beállító eszközök terén</h3> <p>A digitális kijelzővel és 150 mm-es vetítővel ellátott H 1000 kézi beállító eszköz hódítja meg a piacot. Ez a korabeli CNC-vezérlésű esztergagépeknél a leggyakrabban használt beállító eszköz. Emellett a ZOLLER első függőleges modellje is megjelenik a piacon: a V 1500. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/b/csm_1983_01_cda21bfcaf.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/b/csm_1983_01_cda21bfcaf.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "782",
+     "html": "19<br/> 85 <h3>A Power Brain felváltja a Tool Brain-t</h3> <p>A ZOLLER helyesen felismerte a digitális szerszámkezelés jelentőségét, és tovább folytatta a Tool Brain szoftver fejlesztését. A szoftver első bővítési szakasza 1985-ben jelent meg: a Power Brain. Ezzel megnyílt az út a későbbi TMS Tool Management Solutions felé. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/4/csm_1985_01_b58799cdf1.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/e/csm_1985_02_365ef2e25f.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/4/csm_1985_01_b58799cdf1.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "783",
+     "html": "19<br/> 88 <h3>Kiváló formatervezés, ergonómia és kezelhetőség</h3> <p>Eberhard Zoller különös hangsúlyt fektet az ergonómiára, az egyszerű kezelhetőségre és a moduláris felépítésre. Számára ezek olyan döntő fontosságú jellemzők, amelyek hozzáadott értéket jelentenek, és amelyek révén a ZOLLER kiemelkedhet a piacon. Ennek érdekében újratervezteti a V- és H-sorozatú gépeket. Célja, hogy azok még jobban megfeleljenek a fent említett kritériumoknak. </p> <p>A ZOLLER olyan innovációkkal látja el a sorozatokat, mint az egykezes kezelőfogantyú és a végtelen finombeállítás. Ezek jelentősen kényelmesebbé teszik a kezelést. A vállalat először működik együtt ipari formatervezővel. A befektetés megéri: a gépek elnyerik a HiF nemzetközi ipari formatervezési díjat, és „A legjobbak legjobbjai” címmel tüntetik ki őket.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/2/csm_1988_01_fa494a9b49.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/3/csm_1988_02_3a8ac45faa.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/7/csm_1988_03_967f0da541.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/4/csm_1988_04_0d0d8359a6.webp\" width=\"600\"/> <h4>A nemzetközi terjeszkedés növeli az értékesítést</h4> <p>A nemzetközi értékesítési tevékenységek növekednek, a beállító és mérőműszerek éves értékesítése 600 darabra emelkedik. Franciaországban, Ausztriában és Svájcban fióktelepek nyílnak, valamint számos képviselet jön létre. A ZOLLER-Austria már tíz évvel a megalapítása után piacvezetővé válik Ausztriában.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_1988_01_fa494a9b49.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "784",
+     "html": "19<br/> 89 <h3>µm-pontosság minden felhasználó számára</h3> <p>Újabb technológiai mérföldkő a ZOLLER részéről: először alkalmazzák elektronikus PET-projektort CNC-vezérlésű beállító berendezéseken. Ezzel a ZOLLER világszerte elsőként kínál olyan rendszert, amely a kezelőtől függetlenül, mikrométeres pontosságú, reprodukálható méréseket tesz lehetővé.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/f/csm_1989_01_9d8f692b54.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/9/csm_1989_02_a7e3a3b9a2.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/f/csm_1989_01_9d8f692b54.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "785",
+     "html": "19<br/> 91 <h3>Ujj az egér helyett</h3> <p>A ZOLLER még nagyobb kényelmet biztosít gépeiben. Az új TS 20 és 40 elektronikáknak köszönhetően először kerül bevezetésre az érintőképernyő, amely szinte feleslegessé teszi az egérkattintásokat a szoftver kezeléséhez. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/2/csm_1991_01_1336facf94.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/2/csm_1991_01_1336facf94.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "786",
+     "html": "19<br/> 92 <h3>Az első ZOLLER szerszámvizsgáló berendezés </h3> <p>A szerszámgyártók és csiszolóműhelyek magas követelményeinek kielégítésére a ZOLLER egy speciális mérőműszert fejlesztett ki, amely kiemelkedő pontossággal és még több lehetőséggel rendelkezik. Az első ilyen készülék az H321S nevet viseli, és a szváb szomszédságba, a tübingeni Walterhez kerül. A csomagban benne van az új GeoTool szoftver is, amely adatátvitelt biztosít a CNC-csiszológéphez.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/c/csm_1992_01_256c6efd73.webp\" width=\"600\"/> <h4>1992/93-as gazdasági válság – az értékesítés hónapok alatt összeomlik </h4> <p>A lelkesedésnek azonban vége szakad. A FAMETA '92 kiállítás ideje alatt az autóipar több tízezer alkalmazott elbocsátását jelenti be. A gazdasági válság hatása érezhetővé válik, ami mélyreható következményekkel jár a ZOLLER számára. „Szeptemberig havonta átlagosan körülbelül 50 beállító és mérőberendezésre kaptunk megrendelést” – emlékszik vissza Eberhard Zoller. „Decemberben már csak négy volt.” </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/c/csm_1992_01_256c6efd73.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "787",
+     "html": "19<br/> 93 <h3>A legnehezebb döntés</h3> <p>Eberhard Zollernek 1992 karácsonyi szünete alatt kellett meghoznia egész szakmai pályafutása egyik legnehezebb döntését. 1993-ban a ZOLLER bezárta saját alkatrészgyártó üzemét. Mivel a gyártást kiszervezték, sok munkatárs elvesztette állását. </p> <p>Eberhard Zoller: „Ez nehéz volt az embereknek és nekem is. Modern gyártásunk volt, két műszakban működött. A gépeket alkatrészekkel tudtuk feltölteni, és éjszaka is, személyzet nélkül, tovább tudtuk üzemeltetni őket. Ennek most vége lett.”</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/7/csm_1993_01_3b720306c3.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_1993_02_b47ef20774.webp\" width=\"600\"/> <h4>AWV – szabadalmaztatott képfeldolgozási technológia</h4> <p>A hannoveri EMO kiállításon a ZOLLER először mutatja be saját fejlesztésű, szabadalmaztatott AWV képfeldolgozási technológiáját. A ZOLLER nagy nemzetközi figyelmet kap, mert az AWV kiemelkedően jól jeleníti meg a szerszám mérési adatait. Az AWV lefekteti az alapjait a képfeldolgozáson és az optikán alapuló ipari méréstechnikának.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/5/7/csm_1993_01_3b720306c3.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "788",
+     "html": "19<br/> 94 <h3>Jön a KANBAN</h3> <p>A harmadik generáció csatlakozik a ZOLLER-hez. Eberhard Zoller legidősebb fia, Christoph Zoller, a ZOLLER csapatának tagja lesz. Az első projekt: a szervezet optimalizálása az alkatrészraktárban a KANBAN-rendszer bevezetésével. Ez egy fontos lépés a hatékonyság növelése felé, amelynek köszönhetően a ZOLLER 14 napon belül képes lesz a portfólióban szereplő bármely beállító és mérőműszert kiszállítani az ügyfeleknek. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/f/csm_1994_01_19b5d93249.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/2/csm_1994_02_116316a436.webp\" width=\"600\"/> <h4>ZOLLER szoftver Windows rendszeren</h4> <p>A stuttgarti AMB kiállításon a ZOLLER először mutatja be a »Multivision« szoftvert Windows operációs rendszerrel. Hivatalosan bemutatják az első, a szerszám- és formagyártásban az elektródák mérésére szolgáló mérőműszert is: »a V321combi-t«. </p> <p>Piacra kerül az újonnan kifejlesztett »hyperion« termékcsalád és az új »bravo 1/2/3« modellsorozat.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/f/csm_1994_01_19b5d93249.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "789",
+     "html": "19<br/> 95 <h3>Megkezdődik a »smartCheck« korszaka </h3> <p>A szerszámgyártók és csiszolóüzemek számára készült H321S készülék utódja hamarosan megjelenik. »A smartCheck« érkezik, egyelőre még forgatható felülről megvilágító kamerával és a »screenMachine« szoftverrel.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/2/csm_1995_01_2c911ae657.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/2/csm_1995_01_2c911ae657.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "790",
+     "html": "19<br/> 96 <h3>Új szoftvermegoldások</h3> <p>Alig 3 évvel az első bemutató után a ZOLLER bemutatja ügyfeleinek a továbbfejlesztett »AWV III« képfeldolgozó szoftvert. Újdonság a berendezések vezérlőszoftvere is: »a saturn«. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/d/csm_1996_01_9278eff800.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/f/csm_1996_02_928584a655.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/8/d/csm_1996_01_9278eff800.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "791",
+     "html": "19<br/> 97 <h3>Go West – A ZOLLER fióktelepet nyit az Egyesült Államokban </h3> <p>A ZOLLER 1997-ig külső képviselőkkel látta el az amerikai piacot. A siker mérsékelt volt. Az 1992-es chicagói IMTS kiállításon tett látogatás után Christoph Zoller úgy dönt, hogy ZOLLER-fiókot alapít az USA-ban. A telephely: Ann Arbor, Michigan, körülbelül 60 kilométerre nyugatra a korábbi amerikai autóipari metropolistól, Detroittól. A ZOLLER Inc. fontos telephellyé fejlődik, és ma már az USA-beli ügyfelek mellett kanadai és mexikói ügyfeleket is kiszolgál.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/3/csm_1997_01_a08b653023.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/0/csm_1997_02_60f63602df.webp\" width=\"600\"/> <h4>A kézi mérések még egyszerűbbé válnak</h4> <p>„E-Magix” a neve a ZOLLER kézi készülékeihez kifejlesztett új képfeldolgozó rendszernek. Ezzel ezek a beállító és mérőeszközök is készen állnak a kezelőtől független, mikrométeres pontosságú mérésre. A kisebb költségvetéssel rendelkező ZOLLER-ügyfelek így szintén részesülhetnek az automatikus mérést biztosító képfeldolgozás előnyeiből. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/3/csm_1997_01_a08b653023.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "792",
+     "html": "19<br/> 98 <h3>Újdonságok a mérés és ellenőrzés területén</h3> <p>Augsburgban, a precíziós szerszámgyártók számára rendezett első szakkiállításon a Zoller bemutatja szerszámok mérésére és ellenőrzésére szolgáló termékskáláját. Különösen kiemelkedőek a »V420 premium«, a »V420 profi« és elsősorban a képfeldolgozási technológiával ellátott »V420 magnum« modellek.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/8/csm_1998_01_3d21d4534b.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/5/csm_1998_02_889c862a76.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/9/csm_1998_03_be2a6c4d07.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/8/csm_1998_01_3d21d4534b.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "793",
+     "html": "19<br/> 99 <h3>»A Lasso« kontúrokat jelöl ki</h3> <p>Egy szoftver nagy lelkesedést vált ki a szakma körében: »a lasso« segítségével először vált lehetővé spirális szerszámok teljesen automatikus beolvasása egy beállító és mérőműszeren. Ezen felül a szoftver képes a formákat és kontúrokat is µm-es pontossággal értékelni egy DXF-formátumú tervkontúr alapján, a tűréssávot figyelembe vevő elvárás-tény összehasonlítás révén. Az úgynevezett „fenyőfák” nagy népszerűségnek örvendtek – különösen a repülőgépiparban és az űrhajózásban. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/4/csm_1999_01_387ee1601f.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/0/csm_1999_02_efda5ebf67.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/4/csm_1999_01_387ee1601f.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "794",
+     "html": "20<br/> 00 <h3>Az új különbség: »smile«</h3> <p>A ZOLLER »„smile”« sorozatával a kézi beállító- és mérőműszerekhez használt átvilágító projektor végleg a múlté. Míg a versenytársak az Intertool kiállításon projektorral ellátott készülékeket mutatnak be újdonságként, csupán más gyártótól származó termékeket, addig a ZOLLER, mint az innováció motorja, ismét mérföldekkel előzi meg a piacot. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/0/csm_2000_01_92bdc20f46.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/7/csm_2000_02_3a12cc2553.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/0/csm_2000_01_92bdc20f46.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "795",
+     "html": "20<br/> 01 <h3>Tanúsított környezetgazdálkodás</h3> <p>A ZOLLER komolyan veszi a környezetvédelmet. Ezért a vállalat a DIN EN ISO 14001 szabvány szerint tanúsíttatja magát. Ezzel életbe lép egy olyan vállalati környezetirányítási rendszer, amelyet a tanúsítás révén nemzetközi szinten is elismernek.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/7/csm_2001_00_fcecf51b1d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/c/csm_2001_01_fbfed3b0ab.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/3/csm_2001_02_96ed611f19.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/2/csm_2001_03_a6c71d07ca.webp\" width=\"600\"/> <h4>A mérési zseni: »genius«</h4> <p>A ZOLLER a beállító és mérőműszerek technológiáját a »genius« mérő- és vizsgálógéppel bővíti. A készülék többek között 5 CNC-tengelyt és automatikus felülről történő fénymérést kínál. Ezzel a ZOLLER azoknak az ügyfeleknek is tud szállítani, akik automatizáltan szeretnének számos paramétert rögzíteni a vágóélen, és a szerszámokat nagy pontossággal minőségi szempontból ellenőrizni: szerszámgyártóknak és csiszolóműhelyeknek. </p> <p>A hannoveri EMO kiállításon a ZOLLER további újonnan kifejlesztett technológiai újdonságokat mutat be: az »ace« univerzális orsót,»a« »phoenix« segítségével történő befogást és mérést a csúcsok között, a »zenit« beállító és mérőberendezést ülőhelyes kivitelben késfejekhez, valamint a »gemini« teljesen automatikus mérőberendezést főtengely-marókhoz.</p> <h4>A harmadik generáció, 2. rész</h4> <p>Eberhard Zoller fiatalabb fia, Alexander Zoller szeptemberben csatlakozik a vállalathoz. Ezt megelőzően duális képzésben vett részt a szakmai akadémián és a ZOLLER-nél.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/7/csm_2001_00_fcecf51b1d.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "796",
+     "html": "20<br/> 02 <h3>A zsugorítás szakértője: »redomatic«</h3> <p>Megérkezett az első megrendelés egy olyan eszközre, amellyel szerszámokat lehet fel- és lehúzni, valamint megmérni és beállítani. Ami hiányzik, az a megfelelő megoldás. Egy svájci ügyfélhez vezető autóút során Eberhard Zoller és a fejlesztő Christian Pfau megvitatják a lehetséges műszaki megoldásokat. A szomszédos országba tett kirándulás megéri a fáradtságot. Visszatérésük után a konstrukció már készen áll – legalábbis a fejükben. Mellékesen a két férfi három »genius készüléket« ad el Svájcba. </p> <p>»A redomatic«, az új, induktív zsugorítási technológiával működő beállító és mérőberendezést a stuttgarti AMB kiállításon mutatják be. Ez csak a kezdete volt a ZOLLER által kifejlesztett zsugorítási technológiának. Az egyidejűleg megrendezett IMTS kiállításon az USA-ban a ZOLLER bemutatja a »roboToSet« teljesen automatikus változatát, és bemutatja, hogyan kombinálható a Schunk-TRIBOS sokszögos befogási technika a V-sorozatú beállító és mérőműszerekkel.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/a/csm_2002_00_95db9b4435.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_2002_01_1d3c5d8d2f.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/a/csm_2002_00_95db9b4435.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "797",
+     "html": "20<br/> 03 <h3>Több áttekinthetőség »a genius 3«-mal</h3> <p>A ZOLLER új optikát épít be a »genius 3« mérőgépbe, és bemutatja a »genius Mikro« készüléket. A »„hyperion”« vízszintes készüléksorozat »új optikahordozót kap, amely DME-kamerával, forgószerkezettel és az optika gyorsbeállításával rendelkezik, így még több lehetőséget kínál a szerszámbeállításhoz.«</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/d/csm_2003_00_913135cae6.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/8/csm_2003_01_2bdaa4001e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/1/csm_2003_02_de3551a3c4.webp\" width=\"600\"/> <h4>ZOLLER Iberica</h4> <p>A ZOLLER Iberica megalapítása megtörténik. Ezzel a ZOLLER két új piacon is helyi jelenléttel rendelkezik: Portugáliában és Spanyolországban. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/d/csm_2003_00_913135cae6.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "798",
+     "html": "20<br/> 04 <h3>A nyugdíjazás elmarad</h3> <p>A ZOLLER Alexander és Christoph Zoller fiúkkal bővíti vezetőségét. A terv a következő: Christoph Zoller visszatér az Egyesült Államokból, hogy aktívabban részt vegyen a Freiberg a.N.-i tevékenységekben. Eberhard Zoller nagyrészt visszavonul az operatív üzletvitelből, hiszen a senior vezérigazgató már beszerezte magának a nyugdíjas éveire szánt kutyát. A terve: sétáltatni a kutyát, és inkább a négylábú üzleti ügyeivel foglalkozni. De a dolgok másképp alakulnak.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/1/csm_2004_00_cb56fd1d1e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/b/csm_2004_01_51b4876229.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/5/csm_2004_02_cb9a1f217b.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/5/csm_2004_03_ad74b64e11.webp\" width=\"600\"/> <h4>Indulás Kínába </h4> <p>Christoph Zoller az Egyesült Államokból Kínába és Indiába indul. A növekedő piacoknak végül is szükségük van egy ZOLLER-fióktelepre. Mondva, meg is tett. Sanghajban és Pune-ban egy-egy telephelyet nyit. Testvére, Alexander az Egyesült Államokba költözik, átveszi az amerikai üzletágat és tovább bővíti a fióktelepet. És Eberhard Zoller? Ő továbbra is bejár a cégbe – kutyája kíséretében.</p> <h4>Mérés minden vágási helyzetben</h4> <p>A Zoller »aralon« segítségével először válik lehetővé a belső vágóélekkel rendelkező főtengelymarók teljesen automatikus mérését minden vágási helyzetben. A vágófejek mérésére szolgáló »zenit« mérőműszert egy pneumatikus feszítésű, merülőtengelyes portálos hátsó orsóval egészítik ki.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/f/1/csm_2004_00_cb56fd1d1e.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "799",
+     "html": "20<br/> 05 <h3>Rövid eszközösszegzés 60 év után</h3> <p>A ZOLLER-nél a cég alapítójának, Alfred Zollernek az értékei még mindig meghatározóak a vállalat belső szemléletében: gyors reagálás a változásokra, folyamatos innováció, valamint az ügyfelek igényeinek figyelmes meghallgatása. </p> <p>A nemzetközi ügyfelek bizalommal jutalmazzák ezt a munkamódszert: Alfred Zoller első készüléke óta a ZOLLER 2005 végéig mintegy 20 000 további beállító és mérőműszert értékesített.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/1/csm_2005_00_fdd8ab8f6d.webp\" width=\"600\"/> <h4>Teljesen automatikus szerszámellenőrzés</h4> <p>A »genius 3« mérőgépet továbbfejlesztették, és most először teljesen automatikusan töltik be. »A« »genius 3 sx« néven 75, a tárba betöltött különböző típusú szerszámot mér fel teljesen személyzet nélkül. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/1/csm_2005_00_fdd8ab8f6d.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "800",
+     "html": "20<br/> 06 <h3>Csúcsminőségű készülékszoftver: »pilot 3.0«</h3> <p>A »saturn« készülékszoftver utódja új architektúrával és MMI-optimalizált, modern felülettel érkezik: »a pilot 3.0«. </p> <p>A Zoller ezzel világszerte új mércét állít fel a beállító és mérőeszközök, mérőgépek, képfeldolgozás és szerszámkezelés – beleértve az adatkezelést és az interfészeket is – számára kidolgozott átfogó szoftverkoncepció terén. »A pilot 3« a kényelmes kezelés és a rendkívül gyors képfeldolgozás csúcsa. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/7/csm_2006_00_d45da2d636.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/5/csm_2006_01_5b3b85a630.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/2/csm_2006_02_b88e48a4ae.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/9/csm_2006_03_b2dcfb6a42.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/7/csm_2006_00_d45da2d636.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "801",
+     "html": "20<br/> 07 <h3>»pilot elephant«: Mérés előzetes ismeretek nélkül</h3> <p>A ZOLLER-nél az a mottó: a mérésnek egyszerűnek kell lennie. A »pilot elephant« segédszoftverrel a vállalat bebizonyítja, hogy bárki, aki egy ZOLLER-készülék előtt áll, µm-es pontossággal képes megmérni a szerszámokat – adatbeviteli program és kezelési ismeretek nélkül. Nem számít, hogy egy tapasztalt megmunkáló vagy egy nyári munkás áll a beállító és mérőberendezésnél. A ZOLLER-nél ezt a funkciót „gőzkalapácsnak” nevezik. </p> <p>A ZOLLER az EMO kiállításon bemutatja, hogyan lehet a sikeres »genius« mérőgépet még jobbá tenni. »A genius« mostantól »pilot 3«-mal van felszerelve, egy további tengellyel és egy új mikroszensorral rendelkezik. Ez még nagyobb pontosságot és szögméréseket tesz lehetővé felületeken – még akkor is, ha az anyag átlátszó. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/1/csm_2007_00_d5ee02dddf.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/2/csm_2007_01_2e3104732a.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/1/csm_2007_00_d5ee02dddf.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "802",
+     "html": "20<br/> 08 <h3>Költözés Pleidelsheimbe</h3> <p>Több mint 25 év után a Freiberg a.N.-ben található vállalati székhely már túl kicsi lett. A ZOLLER körülbelül 4 kilométerrel arrébb, a Neckar folyó másik partjára, Pleidelsheimbe költözik.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/1/csm_2008_00_afd72ac2c5.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/0/csm_2008_01_bb00de4a3d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/f/csm_2008_02_08fa1ae800.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/f/csm_2008_03_678beb8dc2.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/1/csm_2008_00_afd72ac2c5.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "803",
+     "html": "20<br/> 10 <h3>A ZOLLER Japánban</h3> <p>A többmilliós lakosságú Oszakában nyitja meg a ZOLLER japán képviseletét. A pleidelsheimi középvállalkozás ezzel lépésről lépésre hódítja meg egy újabb jelentős piacot. Később további irodák nyílnak Nagano-ban és Jokohamában.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/f/csm_2010_00_93381b4b80.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/2/csm_2010_01_6ac9a7367e.webp\" width=\"600\"/> <h4>Több fejlődési lehetőség »a venturion« számára</h4> <p>A »venturion800« termékcsalád beállító és mérőműszerei több helyet kapnak Z irányban. Kérésre most már 1400 mm-es és 1600 mm-es mérési hosszúságok is elérhetők. Az első készüléket a ZF-Windpowernek szállítják az USA-ba.</p> <h4>Az első virtuális mérőberendezés</h4> <p>Újdonságok a szoftver területén is: a »CAZ« (computer aided ZOLLER) szimulációs szoftver. Ez egy virtuális mérőberendezés, amellyel már a szerszámtervezés során, a 3D-modell alapján szimulálhatók a mérési folyamatok. »A CAZ« integrálva van a »pilot«ba, így a tervező a kész mérési rutinokat átviheti egy ZOLLER-berendezésre. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/f/csm_2010_00_93381b4b80.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "804",
+     "html": "20<br/> 11 <h3>Szerszámkezelés a ZOLLER segítségével</h3> <p>Aki a gyártás során szerszámkezelő szoftvert használ, strukturált szerszámadatokkal rendelkezik. A ZOLLER bemutatja a TMS Toolmanagement Solutions szoftvert, amely hidat képez a digitális szerszámkezelés, valamint a beállító és mérőeszközökből, illetve a vizsgálati gépekből származó mérési adatok között. Az adatok és az adatkezelés egyre szorosabban összefonódik.</p> <h4>Gyors, folyamatközeli mérés</h4> <p>A ZOLLER piacra dobja »a pomSkpGo-t«. Ez az első mobil mérőeszköz a vágóélek előkészítésének mérésére. Ezzel a ZOLLER egyesíti a rugalmasságot és a nagy pontosságot egy eszközben. Ez a kezdete azoknak az eszközöknek, amelyek a folyamatközeli mérésre vannak kihegyezve. Gyors, pontos kézi méréseket tesznek lehetővé az áruátvételkor vagy a szerszámellenőrzéshez a csiszológép mellett.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/0/csm_2011_00_3b26f621ab.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/d/csm_2011_01_32ad31d9b5.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/4/csm_2011_02_63b4fd55b9.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/3/csm_2011_03_692d824123.webp\" width=\"600\"/> <h4>A portfólió speciális alkalmazásokkal bővül</h4> <p>Szintén újdonság: hat vezető szakértő speciális szerszámtípusokhoz. A hengerfúrók méréséhez a jövőben az ügyfelek »a« »hobCheck« és »a pomZenit megoldásokat« vehetik igénybe. Aki fűrészlapokat szeretne mérni, »a sawCheck«-re támaszkodhat, »a millCheck« segítségével síkmarófejek, »a« »pomZenit« segítségével sarokmarófejek, »a« »hobCheck800« segítségével pedig cserélhető lapokkal felszerelt hengerfúrók mérhetők. </p> <p>A motorgyártó ügyfelek számára a ZOLLER kiemelkedő mérőtechnikáját a főtengelymarók méréséhez és igazításához igazítja. A megoldások neve »eQick200«és »eQuick 300«.</p> <p>A szerszám- és formagyártás igényei is egyre nagyobb figyelmet kapnak. A ZOLLER megvalósítja »a smile EDM-et«, és ehhez egy speciális modulot fejleszt ki elektronikus mérőérzékelővel, valamint grafikus felhasználói felülettel és kiegészítő számítási módszerekkel rendelkező szoftvert.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/0/csm_2011_00_3b26f621ab.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "805",
+     "html": "20<br/> 12 <h3>A technológiai lehetőségek határa: »titán«</h3> <p>A »titan« mérő- és ellenőrzőgép kiegészíti a »genius« sorozatot. Ez a gép egy teljesen automatikus, csúcskategóriás megoldás, akár 7 CNC-tengellyel, amely mikrométeres pontossággal képes ellenőrizni a precíziós szerszámokat, beleértve a vágóélek előkészítését is. »A titan« egy mérési óriás, súlya akár 1 400 kilogramm is lehet. Egy olyan, amely a gyártás közepén sztoikusan végzi precíziós munkáját.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/d/csm_2012_00_c6b0ad0be7.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/2/csm_2012_01_7dd3291b48.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/b/csm_2012_02_d7d56b35ec.webp\" width=\"600\"/> <h4>A dörzsárak szakértője </h4> <p>A képfeldolgozáson alapuló, dörzsárak beállítására és mérésére szolgáló átfogó megoldások mellett a ZOLLER a »reamCheck« készüléket elektronikus kettős tapintóval is felszereli.</p> <h4>A ZOLLER Nagy-Britanniában és Indonéziában</h4> <p>Decemberben a ZOLLER megalapítja brit leányvállalatát. A ZOLLER UK csapata ma a Derbyshire megyében található, csendes Foston városában székel. Ez szinte pontosan a Birmingham – Sheffield – Manchester háromszög közepén fekszik. Ugyanebben az évben a ZOLLER irodát nyit Indonéziában. </p> <p>Az eladott beállító és mérőeszközök világszintű darabszáma az év végére 30 000 fölé emelkedik. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/d/csm_2012_00_c6b0ad0be7.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "806",
+     "html": "20<br/> 13 <h3>Új taggal bővül a mérőgépek családja</h3> <p>A »threadCheck« mérőgép automatikus menetes szerszámok mérésével és ellenőrzésével egészíti ki a vizsgálati portfóliót. </p> <p>Az új »3dCheck« készülék a »genius«on alapul, de további funkciókkal is rendelkezik. Ez a szerszámok digitális ikertestvéreinek és a munkadarabok digitalizálásának növekvő trendjét követi. Ez a hattengelyes mérőgép nemcsak a szerszámok precíz ellenőrzését végzi el, hanem például egy szerszámról 3D-s digitalizálást is készít. </p> <p>Az »edgeControl« mérőgép a kopásnyomok felismerésére specializálódott, és érintés nélkül képes érzékelni a vágóél legkisebb repedéseit is. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/5/csm_2013_00_fd665e9f3e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/7/csm_2013_01_915ec1ed8a.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/2/csm_2013_02_5c895d3081.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/0/csm_2013_03_781bcf7142.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/a/csm_2013_04_13dd281fe0.webp\" width=\"600\"/> <h4>További eszközök a gyártási folyamatokhoz igazodó méréshez</h4> <p>A POM sorozat három új taggal bővül. A standard és mikro szerszámok folyamatközeli méréséhez a ZOLLER bemutatja ügyfeleinek az új »pomBasic« és »pomBasic micro« univerzális készülékeket. A »pomDiaCheck« egy folyamatközeli alkalmazásra szánt speciális készülék, amely 1 µm-nél kisebb pontossággal méri a körköszörült nyersdarabok, valamint a fúró- és dörzsáru szerszámok átmérőjét.</p> <h4>CNC-technika »a redomatic« számára</h4> <p>A zsugorítószerszámok hosszúságának pontos zsugorítására, beállítására és mérésére szolgáló kombinált készülék mostantól teljesen automatikusan mér. A komponensek behelyezése és a kész, komplett szerszám kivétele kivételével a kezelő csupán nézőként vesz részt a folyamatban.</p> <h4>Tanúsítások</h4> <p>A ZOLLER bevezeti a DIN EN ISO 17025 szabványt, és minőségirányítási rendszerét az ISO 9001:2008, a VDA 6.4:2005, valamint az ISO 140001:2004 környezetirányítási rendszer szerint újracertifikáltatja.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/3/5/csm_2013_00_fd665e9f3e.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "807",
+     "html": "20<br/> 14 <h3>Nagyobb hatékonyság a szerszámgyártók számára az automatizálás révén</h3> <p>Az augsburgi GrindTec kiállításon a ZOLLER bemutatja, hogyan automatizálhatják a szerszámgyártók és a csiszolóüzemek a szerszámellenőrzést. »A roboSet 1« átveszi az összes szerszámkezelési folyamatot a »genius« univerzális mérőgép számára. A teljes szerszámadagokat teljesen automatikusan ellenőrzik, és az eredményeket dokumentálják. </p> <p>Újdonság még: megoldások speciális fúrógeometriák és -típusok, példáula KENtip teljesen automatikus méréséhez, valamint egy szoftver csiszolókorongok méréséhez.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/4/csm_2014_00_ee8616f1bd.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/7/csm_2014_01_4b275c8266.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/4/csm_2014_02_8723403680.webp\" width=\"600\"/> <h4>Folyamatos, automatizált adatátvitel</h4> <p>A szerszámadatok kézi bevitelének ideje lejárt. A milánói EMO kiállításon a ZOLLER először mutatja be »a zidCode-ot«. Ez az új ZOLLER-megoldás közvetlenül, hibamentesen és a vezérlésnek megfelelően továbbítja a szerszámadatokat a CNC-gépbe. Elég csak beolvasni a szerszámon található kódot.</p> <p>A ZOLLER számára a zidCode fontos innováció, mivel ezzel a gyártás az egész CAM-to-Part folyamatban azonnal digitálisan zajlik.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/4/csm_2014_00_ee8616f1bd.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "808",
+     "html": "20<br/> 16 <h3>A »smile« és »a venturion« nagy frissítése</h3> <p>A »smile« és »venturion« sorozatok bevált beállító és mérőműszereit újragondolták. Még nagyobb pontosság, még egyszerűbb kezelés, még nagyobb kényelem. Szinte már nem is számít, hogy szakember vagy képzett munkatárs nyomja-e meg a gombokat egy »smile« vagy »venturion« készüléken. </p> <p>A CNC-vezérlés, a »pilot« készülékszoftver, az autofókusz, a különálló »cockpit« kezelőegység, az »elephant« asszisztens szoftver és az új »eQ« egykezes fogantyú maximális támogatást nyújtanak. A ZOLLER bebizonyítja, hogy a legfelhasználóbarátabb precíziós készülékek Pleidelsheimből származnak.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/1/csm_2016_00_b30d8d238e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/3/csm_2016_01_94d97f1b9b.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/d/csm_2016_02_3b49344a7e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/9/csm_2016_03_23ec9d58b3.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/d/1/csm_2016_00_b30d8d238e.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "809",
+     "html": "20<br/> 17 <h3>A szerszám felületének pontos elemzése</h3> <p>A gyártási folyamathoz szorosan kapcsolódó »mµFocus« ellenőrző készülék lehetővé teszi a szerszámgyártók számára, hogy érintés nélkül, részletesen megvizsgálják a vágóél felületének érdességét. A »mµFocus« nagy felbontású optikai rendszerének és a »pilot« kiváló képfeldolgozási technológiájának köszönhetően színkódolt képeket készít, amelyek a legkisebb horpadásokat és karcolásokat is láthatóvá teszik.</p> <h4>A szerszámkezelő hardver kiegészíti a szerszámkezelést </h4> <p>Számos ZOLLER-ügyfél már használja a TMS Tool Management Solutions-t, a szerszám- és szerszámadatok kezelésére szolgáló moduláris szoftvert. Most következik a hozzá illő hardver: a nagy szerszámtároló »szekrény«, a szerszámok és apró alkatrészek tárolására szolgáló szekrény, »a toolOrganizer«, valamint a »toolStation« szerelőállomás. Mindegyik közvetlenül kombinálható a ZOLLER szoftverrel. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/f/csm_2017_00_887e40741c.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/8/csm_2017_01_8a326e2894.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/3/f/csm_2017_00_887e40741c.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "810",
+     "html": "20<br/> 18 <h3>Székhely Ann Arborban, új épület Japánban</h3> <p>Több mint 20 évnyi amerikai piacra lépés után a ZOLLER Inc., a ZOLLER amerikai leányvállalata, beköltözik az újonnan épült központjába Ann Arborban, Michigan államban. Alexander Zoller ezzel lefekteti az alapjait a ZOLLER új építőipari arculatának. A nagy és teljes körűen felszerelt bemutatóterem hamarosan az ügyfélmegbeszélések, képzések, prezentációk, házon belüli rendezvények és az amerikai sikerek központjává válik. </p> <p>Japánban is erősíti jelenlétét a Zoller. A vállalat saját épületbe költözik.</p> <h4>Új automatizálás a »genius« család modelljeihez </h4> <p>Alig öt év elteltével megjelenik a »roboSet 1« utódja. »A roboSet 2«-vel a ZOLLER tisztító- és jelölőállomást integrál a »genius« automatizálási megoldásába. Így a szerszámellenőrzés és -dokumentálás további alapvető folyamatlépései is személyzet nélkül zajlanak.</p> <h4>Automatizálás szorítóbocsos szerszámokhoz</h4> <p>A Zoller egy újabb világújdonságot fejlesztett ki az automatikus méréshez és beállításhoz, többek között a befogóhüvelyekhez: »a torqueMatic-ot«. A beállító és mérőműszer automatikusan képes meglazítani a befogóanyát, majd a beállítás után nyomatékellenőrzéssel újra meghúzni. </p> <p>Egy nyomatékellenőrzéssel ellátott csavarozóállomással kiegészítve »a venturion 450« az új »screwMatic«-ká válik. A Schunk TENDO típusú hidraulikus tágulási befogók meglazítása és meghúzása így automatizáltan zajlik. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/7/csm_2018_00_3b05fd742d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/8/csm_2018_01_30fd37ca38.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/4/csm_2018_02_6b7b90acfb.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/2/csm_2018_03_f2be83cd14.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/f/csm_2018_04_06fda817d9.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/7/csm_2018_00_3b05fd742d.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "811",
+     "html": "20<br/> 20 <h3>Új épület „Smart Factory” és „Academy” létesítményekkel</h3> <p>A pleidelsheimi vállalati székhely bővítésével a ZOLLER új fejezetet nyit. Létrejön egy ügyfélközpont, amely fejlesztési, szerelési, szállítási és adminisztrációs tevékenységeket fog össze. A ZOLLER Akadémia modern és tágas helyiségeket kap az új épületekben. A komplexum középpontjában a Smart Factory áll, ahol a ZOLLER először mutathatja be az Ipar 4.0-hoz kapcsolódó hálózatba kapcsolt megoldásait.</p> <h4>Az első osztályú szoftver még jobbá vált</h4> <p>A »pilot 3.0« készülékszoftver kiemelkedő képfeldolgozási képességeivel világszerte mércének számít. A ZOLLER azonban azt a célt tűzte ki maga elé, hogy a bevált megoldásokat még jobbá tegye. Az utódmodell, »a pilot 4.0« egy új, okostelefonokra és táblagépekre orientált felülettel érkezik. A »pilot 3.0« kényelmes kezelési koncepciója megmarad. A felhasználó azonban most már lehetőséget kap arra, hogy személyre szabja munkakörnyezetét, és azt minden ZOLLER-készüléken elérje. »A pilot 4.0« maximális kényelmet, nagyfokú felhasználóbarátságot és még egyszerűbb munkavégzést jelent.</p> <h4>Új eszközplatform és új dizájn </h4> <p>A »genius« sorozat összes ZOLLER szerszámmérőgépe új platformra kerül és alapjaitól újratervezésre kerül. A legmodernebb technika, az egyedülálló ergonómia és a rezgéscsillapítás mellett »a genius«, »a threadCheck«, »az edgeControl«, »a 3dCheck« és »a titan« új dizájnnal büszkélkedhet.</p> <h4>Bővítés a zsugorítási technika terén és még nagyobb kényelem az adatkezelés során</h4> <p>A zsugorításra szolgáló termékcsalád a »redomatic mst«-vel egy újabb technológiával bővül.</p> <p>A »zidCode 4.0« a »zidCode« kiegészítéseként kerül piacra. »A zidCode 4.0« teljesen hálózatba kapcsolt és kétirányú. Adatokat tud lekérni a z.One központi adatbázisból és továbbítani a CNC-gép vezérlőjébe, de frissített adatokat, például az élettartamokat is vissza tud írni az adatbázisba.</p> <h4>Új épület Kínában is</h4> <p>16 évvel azután, hogy Christoph Zoller elindította a kínai üzleti tevékenységet, a ZOLLER megnyitja új épületét a kínai leányvállalat számára. Ez egy mérföldkő a nemzetközi üzleti tevékenység hosszú, de sikeres útján. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/3/csm_2020_00_1463439bea.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/6/csm_2020_01_2b46d3f70f.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/5/csm_2020_02_4de4e4c5ee.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/6/csm_2020_03_02ba7d969e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/6/csm_2020_04_4a68438d24.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/f/csm_2020_05_332915d9da.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/a/csm_2020_06_6b235cbb9a.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/c/csm_2020_07_b0ebae7512.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/8/csm_2020_08_6b194eb4bd.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/4/csm_2020_09_6e0fd677cf.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/3/csm_2020_00_1463439bea.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "812",
+     "html": "20<br/> 21 <h3>Szerszámautomatizálás a gyártáshoz</h3> <p>A ZOLLER rendszergyártó olyan új fejlesztéseket mutat be, amelyek segítségével az ügyfelek automatizálhatják a szerszámgyártási folyamatokat, és gyártásukat fokozatosan átalakíthatják intelligens gyárrá.</p> <p>»A loadBox« automatizálja a szerszámok összeállítását, »a roboBox« pedig a szerszámok szereléséhez, beállításához és méréséhez, tisztításához, be- és kicsavarásához, valamint egyéb feladatokhoz szükséges moduláris automatizálási megoldás. A sokoldalú »cora« sorozat a szerszámkezelést, a kobot-asszisztenciát és a gyártási logisztikát fedi le. </p> <p>A ZOLLER profitál a beállítás és mérés, ellenőrzés és mérés, szerszámkezelés, szoftver és adatátvitel terén kínált megoldásainak hosszú távú orientációjából. Az automatizálás terén minden összefügg.</p> <h4>Az új generációs szerszámtartók – »idChip«-pel </h4> <p>Ami már 1948-ban kezdődött az esztergaszerszám-tartókkal, azt 73 év után újra felvesszük: »a szerszámkezelés«. Első osztályú, „Made in Germany” szerszámtartókkal és okos kiegészítőkkel a világszerte működő ügyfelek mostantól a jól ismert ZOLLER-minőségű befogóeszközöket is megkapják. </p> <p>Az szintén új »idChip« segítségével a szerszámtartók azonnal készen állnak a ZOLLER szerszámkezelésére. A kódolt műanyag chip a szerszámtartókba van integrálva, és egyértelműen azonosíthatóvá teszi azokat. A költségek azonban jóval alacsonyabbak, mint az RFID-transzpondereké. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/9/csm_2021_00_b1855bd81f.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/c/csm_2021_02_4783ccf6d7.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/0/csm_2021_03_3269d32dbd.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/0/csm_2021_04_3db7f96f03.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/f/csm_2021_05_d78f69282a.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/4/csm_2021_06_9d5701d1b6.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/a/csm_2021_07_f8723cb7dc.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/9/csm_2021_00_b1855bd81f.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "813",
+     "html": "20<br/> 22 <h3>Innovációk a kiegyensúlyozás és a zsugorítás területén</h3> <p>A ZOLLER már 20 éve kínál kiegyensúlyozási és zsugorítási megoldásokat. A követelmények azonban továbbfejlődtek. Ideje valami újnak. </p> <p>»A toolBalancer« és »a powerShrink« segítségével a ZOLLER két új fejlesztést valósított meg, amelyekkel a pontosság, az energiahatékonyság, a biztonság és az ergonómia eddig nem látott minőségi szintet ér el. </p> <p>Még soha nem volt ilyen egyszerű és ilyen pontos a szerszámok kiegyensúlyozása. Még soha nem tudták a gyártóüzemek munkatársai ilyen gyorsan és hatékonyan végrehajtani a zsugorítási és kiterjesztési folyamatokat. </p> <p>Mindkét megoldás esetében a ZOLLER technológiailag teljesen új utakat járt be, alátámasztva kiemelkedő innovációs képességeit. A szakmai közönség az AMB kiállításon Stuttgartban és az IMTS kiállításon Chicagóban egyaránt csodálkozik az új készülékek pontosságán, gyorsaságán, ergonómiáján és kialakításán. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/a/csm_2022_00_a9077eb7ea.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_2022_01_9d28b009d5.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_2022_02_248e734173.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/5/csm_2022_03_642b4ee4f4.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/a/csm_2022_00_a9077eb7ea.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "814",
+     "html": "20<br/> 23 <h3>»coraMeasure LG«: A portálmegoldás az automatizált beállításhoz és méréshez</h3> <p>Szerszámautomatizálás kompakt portállal, robotkar nélkül – ezt a feladatot tűzte ki Alexander Zoller fejlesztői elé. Amikor a ZOLLER az EMO 2023 kiállításon először mutatta be az eredményt Németországban, az érdeklődés azonnal nagy volt. »A coraMeasure LG« a ZOLLER újabb innovatív megoldása egy aktuális kihívás gyors megoldására: a szakképzett munkaerőhiányra.</p> <h4>Belépés egy új iparágba</h4> <p>A Zoller méréstechnika betör a kőmegmunkáló iparba. Az új »ConDiaZ« gyerekjátékká teszi a mérést és az adatoptimalizálást az iparág speciális formázó szerszámai számára. A lényeg: az AI is segít!</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/1/csm_2023_00_5aebb5cd96.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/b/csm_2023_01_d984fc38e4.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/d/1/csm_2023_00_5aebb5cd96.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "815",
+     "html": "20<br/> 24 <h3>Az új mérőgép</h3> <p>Üdvözöljük a »threadCheck I cc«-nél. Az új mérőgép többek között a menetes szerszámokat is méri, először egy teljesen zárt és rezgésmentes egységben. Még nagyobb pontosság a mérési eljárás során a döntő finomságok megkülönböztetéséhez. A beépített, CNC-vezérlésű hátsó orsó automatikusan felszerelhető.</p> <h4>Szerszámok biztonságos tárolása</h4> <p>A »toolOrganizer« szerszámtároló újabb opcióval bővül: »a smartCompartments-szel«. Ezek a ZOLLER által kifejlesztett rekeszzárak tovább bővítik a szerszámkezelő hardver már amúgy is magas funkcionalitását.</p> <h4>Kő és fa</h4> <p>A »smile gbo« és az új nagyképernyős optika segítségével a ZOLLER lehetővé teszi ügyfelei számára, hogy komplex geometriákat mérjenek kő- és famegmunkáló szerszámokon egy lépésben. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/8/csm_2024_00_f953f5ad3d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/5/csm_2024_01_11e8ff9e06.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/6/csm_2024_02_1b4af3f1bd.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/f/csm_2024_03_45c77f1de1.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/8/csm_2024_00_f953f5ad3d.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "816",
+     "html": "20<br/> 25 <h3>A »pom«-modellek átfogó karbantartása</h3> <p>A ZOLLER alapjaiban újratervezi a »pomBasic« folyamatorientált ellenőrző készülékek sikeres sorozatát. Új modellekkel bővül a kínálat: »a pomBasic Compact« és »a pomBasic MTI«. </p> <p>Ez különösen a D=0,1 mm-ig terjedő mikroszerszámok területén jelent hatalmas előrelépést. Speciális optikai és szoftverfunkciók segítségével mikroszkopikusan kicsi geometriák is láthatóvá és mérhetővé válnak. »A« »3dCheck micro« segítségével ezek teljesen automatikus mérése is megvalósul.</p> <h4>Fókusz a kopásvizsgálatokon</h4> <p>A ZOLLER fokozza a kopás komplex témájának feldolgozását. Az »edgeControl« fejlesztése gyorsan halad. A ZOLLER fejlesztőcsapata a kopásvizsgálatra optimalizált szoftvert dolgoz ki.</p> <h4>Automatizálás az alkatrészraktárban</h4> <p>Január elején, a 80. jubileumi évben a ZOLLER továbbra is a jövő felé orientálódik. A pleidelsheimi szerelőüzemben a második naptári héten üzembe helyezik az automatizált apróalkatrész-raktárat. A rendszer több mint 18 000 alkatrészt kezel automatikusan, és a szerelőüzemnek adja ki, amire szükség van. „Ez egy mérföldkő a vállalat számára. 80 éves korunkban is ragaszkodunk ahhoz, hogy folyamatosan modernizálódjunk és lépést tartsunk a változásokkal” – mondja Eberhard Zoller.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/d/csm_2025_00_bf3fc026d8.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/f/csm_2025_01_f37aa89108.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/3/csm_2025_02_55890fb3a6.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/b/csm_2025_03_ab3d89c3cc.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/d/csm_2025_00_bf3fc026d8.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    }
+   ]
+  }
+ ],
+ "src_path": "/hu/vallalat/profil/toertenete",
+ "de_path": "/unternehmen/profil/historie"
+}

@@ -1,0 +1,437 @@
+{
+ "path": "/obory-podnikani-1",
+ "url": "/cz/obory-podnikani-1",
+ "title": "Obory podnikání",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Obory podnikání",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Obory podnikání",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/geschaeftsfelder",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/business-areas-1",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/areas-de-negocio-1",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/domaines-dactivite-1",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/areas-de-negocio-1",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/settori-di-attivita-1",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verksamhetsomraaden-1",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/geschaeftsfelder-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/secteurs-dactivite-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BA%8B%E6%A5%AD%E5%88%86%E9%87%8E-1",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%82%AC%EC%97%85-%EB%B6%84%EC%95%BC-1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/business-areas-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/areas-de-negocio-1",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/areas-de-negocio-1",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/c/4/csm_smartfactory_header_4a3f7f359c.webp",
+     "video": null,
+     "title": "Přehled společnosti ZOLLER: Naše odborné znalosti",
+     "kicker": "",
+     "text": "<p>Podporujeme vaši práci</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8150",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">Díky našim produktům, strojům a softwaru vám pomáháme zrychlit vaše procesy a snížit množství zmetků.</p> <p class=\"extra-large-text\">Vyvíjíme řešení přesně na míru vašim výzvám. Zde se dozvíte více o možnostech, které vám náš software a naše zařízení nabízejí.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8151",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Nastavení a měření </h3> <h2> Úspora nákladů a zvýšení bezpečnosti díky přednastavení nástrojů </h2>",
+   "body": "<p>Aby bylo možné díly vyrábět s vysokou přesností, potřebují moderní CNC obráběcí stroje přesné údaje o geometrii nástroje. Pomocí zařízení pro přednastavení nástrojů zjistíte údaje o nástroji mimo stroj a ušetříte tak spoustu času při přípravě. Po nasazení nástroje okamžitě načtete údaje o nástroji ze zařízení pro přednastavení nástrojů. Přenos dat do stroje probíhá elektronicky, a je tedy zcela bezchybný, protože jsou vyloučeny překlepy a chyby při přenosu.</p> <p><a class=\"btn\" href=\"/cz/nastavovaci-pristroj\">Zjistěte více o nastavovacích a měřicích přístrojích pro přednastavení nástrojů</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/3/5/csm_smile_header_c846e8a6b4.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8153",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Správa nástrojů </h3> <h2> Dobré důvody pro měřitelně úspornější výrobu </h2>",
+   "body": "<ul><li>Zkrácení časů přípravy: Správný nástroj je vždy ve správný čas na správném místě. Výstup dat přizpůsobený řídicímu systému zabraňuje chybám při zadávání údajů na stroji a z toho vyplývajícím nákladům.</li><li>Najít místo hledat: Vždy víte, které nástroje jsou k dispozici pro které stroje a kde se<br/>nacházejí.</li><li>Lepší organizace: Plánované procesy s kalkulovatelnými časy na kus a efektivní kontrolou zajišťují efektivní řízení procesů a tím i krátké reakční doby. Samostatné výrobní jednotky lze integrovat a organizovat.</li><li>Zamezení prostojů strojů: Všechny nástroje jsou vždy k dispozici, 24 hodin denně. Správné nástroje na strojích zabraňují kolizím a zamezují poškození nástrojů.</li><li>Záruka kvality: Vysoká dostupnost systému a transparentní, stabilní výrobní procesy zaručují nejvyšší kvalitu.</li><li>Úspora skladovacích nákladů: Vidíte, které nástroje se používají a jak často, a objednáváte pouze to, co je skutečně potřeba.</li><li>Využití potenciálu nástrojů: Optimální řezné rychlosti a posuvy zvyšují životnost.</li><li>Zvýšení produktivity: Optimalizovaný oběh nástrojů zajišťuje krátké průběžné časy a plné vytížení strojů, produktivita stoupá a výrobní náklady klesají.</li></ul><p><a class=\"btn\" href=\"/cz/sprava-nastroju\">Ekonomická správa nástrojů</a><br/><a class=\"btn\" href=\"/cz/organizace-nastroju\">Efektivní správa skladu a správa výrobních dat</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/8/csm_keeper_header_fc94668ac2.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8165",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Přenos dat </h3> <h2> Bezpečný a rychlý přenos dat </h2>",
+   "body": "<p>Výměna dat mezi jednotlivými výrobními prvky je pro současnou průmyslovou výrobu nezbytná. Softwarová řešení společnosti ZOLLER zaručují spolehlivý a rychlý přenos dat o nástrojích kdykoli – zcela nezávisle na výrobci a platformě.</p> <p><a class=\"btn\" href=\"/cz/prenos-dat-o-nastrojich\">Přenos dat o nástrojích</a><br/><a class=\"btn\" href=\"/cz/monitorovani-nastroju\">Dokonalá správa nástrojů a organizace výroby</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/8/5/csm_zidCode_kombi_header_8e15ec79e7.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8164",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Kontrola a měření </h3> <h2> Měřicí stroje zajišťují přesnou výrobu </h2>",
+   "body": "<p>Aby nástroje plnily přesně to, k čemu byly navrženy a zkonstruovány, musí být samy vyrobeny s vysokou přesností. Pomocí našich univerzálních měřicích strojů lze nástroje měřit s přesností na mikrometr a ověřit, zda splňují požadované specifikace.</p> <p><a class=\"btn\" href=\"/cz/merici-stroje\">Vyšší přesnost díky měřicím strojům</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_genius_header_fd8701f3c0.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8161",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Automatizace </h3> <h2> Automatizované řešení pro měření nástrojů </h2>",
+   "body": "<p>Ať už jde o broušení nástrojů nebo o přípravu, dodávku a nastavení nástrojů – automatizace každodenních úkonů bude odpovědí na tuto výzvu. Pro každý úkol dodává společnost ZOLLER správné řešení pro automatizovanou manipulaci s nástroji. V závislosti na požadavcích může řešení spočívat v uzavřeném systému s přídavnými moduly, komplexním automatizačním konceptu nebo kolaborativní robotické podpoře v nástrojárně.</p> <p><a class=\"btn\" href=\"/cz/reseni/automatizace\">Vše o modulární automatizaci pro obráběcí nástroje</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/c/7/csm_corameasureLG_header_89e9e61ae5.webp",
+     "alt": "",
+     "w": 1428,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8162",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Technologie smršťování </h3> <h2> Krátké přípravy díky použití smršťovacího zařízení </h2>",
+   "body": "<p>U mnoha vrtacích a frézovacích nástrojů je smršťování nástrojů nejrychlejší a zároveň nejpřesnější metodou upínání nástrojů. S pomocí vhodné smršťovací stanice lze potřebné pracovní kroky snadno provést; smršťovací stroj je dokáže do značné míry automatizovat a zároveň díky odpovídajícím měřením zaručit spolehlivost procesu.</p> <p><a class=\"btn\" href=\"/cz/zmenseni-nastroje\">Jaké výhody přináší upínání nástrojů smršťováním</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/9/csm_header_powershrink_fda54c16eb.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 896
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8163",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> vyvažovací technika </h3> <h2> Vyvažování brusných kotoučů a nástrojů? Důležité a snadné! </h2>",
+   "body": "<p>Pro moderní obráběcí stroje jsou precizně vyvážené nástroje nesmírně důležité. Nevyváženost brusných kotoučů, nástrojů a nástrojových systémů způsobuje opotřebení nebo dokonce poškození vřetena a motorů – a v neposlední řadě také zmetky při obrábění obrobků. Pravidelné vyvažování zabraňuje prostojům, zajišťuje kvalitu a celkově snižuje vaše náklady.</p> <p><a class=\"btn\" href=\"/cz/vyvazeni-naradi\">Náš vyvažovací systém prodlužuje životnost nástrojů.</a> <a class=\"btn\" href=\"/cz/vyvazeni-brusneho-kotouce\">Vyvážené brusné kotouče</a><br/><a class=\"btn\" href=\"/cz/vyvazeni-brusneho-kotouce\">zajišťují hladší chod a vyšší obráběcí výkon.</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_header_toolBalancer_df19c3c897.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 896
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8160",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Optimalizujte životnost vašich nástrojů </h2>",
+      "body": "<p>Čím delší je životnost obráběcího nástroje, tím nižší jsou náklady na tento nástroj a tím efektivněji může pracovat. Pokud znáte nejdůležitější faktory, které ovlivňují životnost, je snazší je také optimalizovat.</p> <p><a class=\"btn\" href=\"/cz/zivotnost-nastroje\">Jak můžete kontrolovat a optimalizovat životnost svého nástroje</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "center",
+      "ftype": "textmedia",
+      "id": "c8166",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Optimalizace přípravného času –<br/>jak a proč? </h2>",
+      "body": "<p>V dnešní době téměř žádný stroj ani zařízení nevyrábí pouze jeden produkt – zpravidla se podle potřeby přestavují na výrobu různých produktů. Tím vznikají časy na přípravu, během nichž stroj obvykle nic nevyrábí.</p> <p><a class=\"btn\" href=\"/cz/optimalizace-pripravneho-casu\">Proč optimalizovat časy přípravy?</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c8168",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8167",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>Individuální odborná konzultace</h3> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/expert/booking\" rel=\"noopener\" target=\"_blank\">Domluvte si schůzku hned teď</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/cz/obory-podnikani-1",
+ "de_path": "/geschaeftsfelder"
+}

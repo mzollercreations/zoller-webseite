@@ -1,0 +1,1020 @@
+{
+ "path": "/entreprise/profil/partenaires",
+ "url": "/fr/entreprise/profil/partenaires",
+ "title": "Partenaires",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/fr/page-daccueil"
+  },
+  {
+   "label": "Entreprise /",
+   "href": "/fr/entreprise"
+  },
+  {
+   "label": "Profil /",
+   "href": "/fr/entreprise/profil"
+  },
+  {
+   "label": "Partenaires",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/fr/page-daccueil"
+  },
+  {
+   "label": "Entreprise /",
+   "href": "/fr/entreprise"
+  },
+  {
+   "label": "Profil /",
+   "href": "/fr/entreprise/profil"
+  },
+  {
+   "label": "Partenaires",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/profil/partner",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/profile/partner",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/perfil/socios",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/profil/partenaires",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/perfil/parceiros",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/profilo/partner",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/profil/partner",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/profil/partner",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/profile/partners",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/profil/partenaires",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84/%ED%8C%8C%ED%8A%B8%EB%84%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/profile/partner",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/perfil/socios",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/perfil/parceiros",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Coopérer intelligemment </h1>",
+      "body": "<p>ZOLLER coopère avec des partenaires afin de répondre de manière optimale aux exigences des clients.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2853",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "ANCA",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>ANCA est leader sur le marché des ponceuses CNC et des systèmes CNC de haute qualité. L'entreprise n'a cessé de se développer grâce à sa stratégie basée sur l'innovation et la technologie, ainsi qu'à sa détermination à fabriquer des machines qui satisfont nos clients et dépassent leurs attentes.</p> <p>ZOLLER propose une interface pour les affûteuses d'outils ANCA.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/1/6/csm_logo_anca_0308eafd4f.webp",
+            "alt": "",
+            "w": 388,
+            "h": 92,
+            "href": "https://www.anca.com"
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2883",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "A+B Solutions GmbH",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Avec plus de 35 ans d'expérience, A+B Solutions offre un savoir-faire complet dans la conception et l'intégration de solutions pour la saisie et la commande de la production. En tant que partenaire de solutions de fournisseurs leaders tels que Siemens PLM Software, A+B Solutions propose à ses clients des solutions complètes : du conseil à l'intégration de systèmes et au service, en passant par la planification et la conception.</p> <p>Les solutions d'A+B Solutions offrent des interfaces vers diverses applications et créent une structure de données cohérente et uniforme qui sert de pivot central pour toutes les données de développement, de commande et de production. A+B Solutions est le partenaire de développement de ZOLLER pour la connexion de nos systèmes à Siemens NX et Teamcenter.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/0/0/csm_logo_a_b_8d5dbcb371.webp",
+            "alt": "",
+            "w": 193,
+            "h": 125,
+            "href": "http://www.aplusb-solutions.com/"
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2884",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Balluff",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Avec plus de 50 ans d'expérience dans le domaine des capteurs, Balluff GmbH est aujourd'hui l'un des fabricants les plus capables et leaders mondiaux dans le domaine de la technologie des capteurs pour l'automatisation industrielle. Une technologie sophistiquée et une électronique de pointe, contrôlées de manière approfondie dans son propre laboratoire certifié, des solutions spécifiques aux applications des clients, ainsi qu'un conseil personnalisé et un service de première classe sont les caractéristiques exceptionnelles de l'entreprise dont le siège social se trouve à Neuhausen a.d.F., près de Stuttgart. 2 050 employés en Allemagne et à l'étranger s'engagent pour cela.</p> <p>Balluff et ZOLLER coopèrent dans la zone de la transmission des données d'outils par le codage et l'identification des outils.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/c/d/csm_logo_balluff_2ac5adb7b9.webp",
+            "alt": "",
+            "w": 388,
+            "h": 54,
+            "href": "http://www.balluff.com"
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2913",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Camaix GmbH",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>La société Camaix fournit des services dans les domaines de la construction de moules, de la construction mécanique et de la construction automobile. Ces dernières années, elle s'est particulièrement intéressée à la technologie aérospatiale et à l'usinage complexe à 5 et 6 axes, pour lesquels elle a développé des solutions spéciales.</p> <p>L'interface Mastercam simple et intuitive pour la gestion des outils ZOLLER permet d'utiliser les géométries actuelles des outils assemblés dans Mastercam et d'utiliser les données pour une simulation et un contrôle des collisions.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/f/2/csm_logo_camaix_b573ef8fd2.webp",
+            "alt": "",
+            "w": 271,
+            "h": 109
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2912",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Camtek GmbH",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>La société Camtek GmbH, située à Weinstadt près de Stuttgart, a été fondée en 1993 en tant que distributeur exclusif du système DAO/FAO PEPS. En étroite collaboration avec des fabricants renommés de machines et de commandes, des post-processeurs de haute qualité sont développés et les deux systèmes sont continuellement améliorés.</p> <p>ZOLLER vous offre une interface confortable et simple à utiliser pour le système DAO/FAO PEPS.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/2/e/csm_logo_camtek_6110635aba.webp",
+            "alt": "",
+            "w": 283,
+            "h": 59
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2914",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Delcam",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Delcam compte parmi les principaux développeurs et fournisseurs mondiaux de logiciels DAO/FAO modernes et de logiciels de mesure 3D indépendants des appareils pour l'industrie manufacturière. Aujourd'hui, Delcam est le plus grand développeur de logiciels DAO/FAO au Royaume-Uni et possède des succursales en Amérique du Nord, en Europe et en Asie. Les produits Delcam sont utilisés par plus de 50 000 entreprises dans plus de 80 pays. Parmi les produits Delcam figure notamment PowerMILL, le logiciel de FAO leader mondial. L'interface<br/><br/>PowerMILL avec les solutions TMS Tool Management Solutions vous permet d'avoir un accès facile à la vaste base de données ZOLLER.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/0/7/csm_logo_delcam_4072b1d63b.webp",
+            "alt": "delcam logo",
+            "w": 388,
+            "h": 123
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2915",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "DP Technology",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>DP Technology est l'un des principaux fabricants et fournisseurs de logiciels de fabrication assistée par ordinateur (FAO) pour un large éventail d'industries manufacturières. ESPRIT, le produit phare de DP Technology, est un système de programmation CN extrêmement puissant et de haute qualité pour le fraisage, le perçage, le tournage, l'électroérosion à fil et également pour les machines multifonctions telles que les centres de fraisage-tournage.</p> <p>L'interface ESPRIT CAM, simple et intuitive, permet d'utiliser facilement des données d'outils avec les solutions TMS Tool Management Solutions de ZOLLER.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/0/7/csm_logo_esprit_0628a45021.webp",
+            "alt": "",
+            "w": 324,
+            "h": 114
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2916",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Gibbs virtuel",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Virtual Gibbs est un logiciel de FAO puissant et flexible qui simplifie considérablement la programmation CNC. Son interface conviviale augmente la productivité et le rend idéal pour les programmeurs CNC, les mécaniciens d'usinage et les ingénieurs. Avec la prise en charge du fraisage 2D à 5 axes, du tournage, du MTM et de l'électroérosion à fil, Virtual Gibbs permet une programmation rapide et fiable. Virtual Gibbs est la solution FAO leader pour la programmation de centres d'usinage multicanaux complexes. Grâce à l'interface ZOLLER dans Virtual Gibbs, vos outils sont créés de manière centralisée et unique, ce qui garantit efficacité et cohérence.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/b/4/csm_logo_virtual_gibbs_bed09f00c2.webp",
+            "alt": "",
+            "w": 421,
+            "h": 94
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2917",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Hermle",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Les centres d'usinage Hermle servent à modifier des outils, des moules et des pièces de série. Grâce à leur qualité et à leur grande précision, ils sont utilisés dans d'innombrables domaines de fabrication, en particulier dans des secteurs exigeants tels que la technologie médicale, l'industrie optique, l'aéronautique et l'industrie automobile, la fabrication d'outils et de moules et chez leurs fournisseurs. Les bancs de<br/><br/>réglage et de mesure ZOLLER disposent en option d'une interface avec les centres d'usinage Hermle.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/0/e/csm_logo_Hermle_4efcfb7fff.webp",
+            "alt": "",
+            "w": 253,
+            "h": 115
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2918",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Ingersoll",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Ingersoll développe et produit des outils standard et spéciaux équipés de plaquettes pour l'usinage. Ces outils sont utilisés dans le monde entier, notamment dans la construction automobile et mécanique. Outre sa gamme standard, Ingersoll développe et conçoit des solutions sophistiquées répondant aux exigences de ses clients. En collaboration<br/><br/>avec Ingersoll, ZOLLER a notamment développé un nouveau concept pour le contrôle et la mesure en atelier des fraises-mères et des fraises à profiler équipées de plaquettes amovibles.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/5/d/csm_logo_ingersoll_52703a0545.webp",
+            "alt": "",
+            "w": 355,
+            "h": 86
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2919",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "GROUPE KOMET CERATIZIT",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Avec ses concepts d'outils innovants et ses solutions globales pour l'usinage d'alésages, le groupe <i>KOMET</i> CERATIZIT est leader mondial en matière de technologie. Les clients de KOMET apprécient en particulier ses services tournés vers l'avenir, son assistance technique unique, ses séminaires spécialisés axés sur la pratique et ses outils haut de gamme pour le perçage, l'alésage et le filetage.</p> <p>ZOLLER propose la solution pour régler et mesurer les outils du groupe <i>KOMET</i> CERATIZIT.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/f/f/csm_logo_KOMET_CERATIZIT_a820d40e25.webp",
+            "alt": "",
+            "w": 317,
+            "h": 81
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2920",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "KROMI",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>KROMI Logistik AG propose aux entreprises manufacturières nationales et internationales une externalisation complète de l'approvisionnement en outils de précision. Le centre de gravité est situé sur les outils de coupe techniques pour le travail des métaux et des plastiques.<br/><br/>Le pack TMS Tool Management Solutions SILVER comprend l'interface avec KROMI.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/6/0/csm_logo_kromi_86af58d78f.webp",
+            "alt": "",
+            "w": 354,
+            "h": 141
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2921",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "MAKINO",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>MAKINO est reconnu comme l'un des principaux fournisseurs de technologies et de services dans l'industrie des machines-outils. La gamme de produits comprend des centres d'usinage pour la fabrication de pièces ainsi que pour la construction d'outils et de moules, avec un large éventail d'applications dans les zones de l'aéronautique et de l'aérospatiale, de l'industrie automobile, des machines agricoles et de construction, de la construction mécanique générale et de la microtechnologie.</p> <p>Les bancs de réglage et de mesure ZOLLER disposent en option d'une interface avec les centres d'usinage MAKINO.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/1/4/csm_logo_makino_691cf9493b.webp",
+            "alt": "",
+            "w": 368,
+            "h": 127
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2922",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Moldtech GmbH",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Sur la base de la gamme de produits DAO/FAO TopSolid, MOLDTECH propose des solutions pour l'industrie de l'usinage. Grâce à ses services liés à la gamme de produits TopSolid, Moldtech aide les utilisateurs à réaliser plus rapidement et de manière plus efficace des tâches complexes dans les domaines de la conception et de la fabrication.</p> <p>L'interface TopSolid'Cam simple et intuitive pour la gestion des outils ZOLLER vous permet de programmer dans TopSolid'Cam avec les géométries actuelles des outils assemblés et d'utiliser les données pour une simulation et un contrôle des collisions.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/b/c/csm_logo_moldtech_5c18924e61.webp",
+            "alt": "",
+            "w": 443,
+            "h": 92
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2923",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "MTS SA",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>La société MTS AG développe et commercialise dans le monde entier des logiciels pour les ponceuses CNC. Le produit « tool-kit PROFESSIONAL » est connu dans le monde entier comme le logiciel destiné aux professionnels pour la production et l'affûtage de pièces usinées simples à complexes. Les bancs de<br/><br/>réglage et de mesure ZOLLER offrent une interface avec les ponceuses d'outils équipées de la solution logicielle de MTS.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/5/7/csm_logo_mts_baec1b20bf.webp",
+            "alt": "",
+            "w": 149,
+            "h": 81
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2924",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "NUM",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>NUM fabrique des commandes numériques par ordinateur et des solutions logicielles adaptées. Dans le domaine de l'affûtage d'outils, NUM est leader du marché avec son logiciel NUMROTOplus. Les bancs de<br/><br/>réglage et de mesure ZOLLER offrent une interface avec les affûteuses d'outils équipées de la solution logicielle NUMROTOplus.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/b/b/csm_logo_num_000273b7d7.webp",
+            "alt": "",
+            "w": 302,
+            "h": 89
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2925",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Okuma",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Okuma est l'un des principaux fournisseurs de machines-outils innovantes et propose une gamme de produits large et impressionnante. Celle-ci comprend des machines rotatives CNC haute précision et robustes, des machines multifonctions et des centres d'usinage équipés de l'excellente commande OSP.</p> <p>Les bancs de réglage et de mesure ZOLLER offrent en option une interface avec les machines-outils Okuma.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/2/d/csm_logo_okuma_b30dbed8b5.webp",
+            "alt": "",
+            "w": 372,
+            "h": 89
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2926",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Esprit ouvert",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>OPEN MIND Technologies AG développe et commercialise des solutions CAM/DAO innovantes qui génèrent des programmes de fraisage et de tournage CN optimaux pour les machines-outils à partir de modèles numériques. Les fabricants issus des secteurs les plus différents à travers le monde choisissent les produits OPEN MIND, car ils leur permettent de fabriquer de manière rentable et efficace. Ils peuvent ainsi créer des modèles, des prototypes, des outils, des moules, des pièces usinées, des composants intégrés et bien plus encore, le tout dans une qualité impressionnante.</p> <p>L'interface hyperMILL® avec les solutions TMS Tool Management Solutions vous permet d'accéder facilement à la vaste base de données ZOLLER.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/c/1/csm_logo_openmind_51569ef80f.webp",
+            "alt": "",
+            "w": 415,
+            "h": 75
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2927",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "OPUS",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Depuis plus de 30 ans, OPUS <sup>®</sup> fournit des solutions orientées tâches pour la FAO, la MDE et la CND. Plus de 4 000 installations dans près de 1 000 entreprises parlent d'elles-mêmes. OPUS® est adapté exactement aux exigences de la production et perfectionné en collaboration avec les utilisateurs.<br/><br/>L'interface OPUS simple et intuitive avec les solutions TMS Tool Management Solutions de ZOLLER permet une utilisation facile des données entre la base de données ZOLLER et le système OPUS CAM.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/b/7/csm_logo_opus_087bc57d09.webp",
+            "alt": "",
+            "w": 158,
+            "h": 78
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2928",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Saacke",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Saacke, une entreprise familiale innovante forte d'une tradition centenaire, est un précurseur mondial dans le domaine des affûteuses d'outils et des outils de taillage et de profilage. Les bancs de<br/><br/>réglage et de mesure ZOLLER offrent en option une interface avec les affûteuses d'outils Saacke.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/1/5/csm_logo_saacke_0310abbe36.webp",
+            "alt": "",
+            "w": 129,
+            "h": 114
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2929",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Siemens Industry Software GmbH",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Siemens PLM Software, une unité commerciale de la division Siemens Digital Factory, est l'un des principaux fournisseurs mondiaux de logiciels, de systèmes et de services pour la gestion du cycle de vie des produits (PLM) et la gestion des opérations de fabrication (MOM), avec plus de 15 millions d'utilisateurs concédés sous licence et plus de 140 000 clients dans le monde entier.</p> <p>En tant que partenaire Siemens Software &amp; Technology, ZOLLER propose des interfaces avec Siemens Teamcenter pour la transmission des données théoriques et réelles de l'appareil de réglage, de mesure et de contrôle ZOLLER vers la machine-outil et vers la suite logicielle intégrée Siemens NX pour le développement et la fabrication de produits, afin de garantir un échange de données sécurisé avec les solutions de gestion d'outils TMS Tool Management Solutions via la base de données d'outils ZOLLER z.One.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/7/1/csm_logo_siemens_7bc6805809.webp",
+            "alt": "",
+            "w": 235,
+            "h": 114
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2930",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "SOFLEX",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>SOFLEX a introduit les premiers systèmes de fabrication flexibles en Allemagne et, en tant que spin-off de l'université de Stuttgart, est présent depuis le début dans ce secteur industriel passionnant et stimulant. Depuis 1984, les systèmes de contrôle, y compris le contrôle des cellules et de la production, constituent son cœur de métier. SOFLEX bénéficie d'impulsions précieuses grâce à un réseau diversifié d'universités et d'écoles supérieures.<br/><br/>Le banc de réglage et de mesure ZOLLER comprend une interface avec SOFLEX, de sorte que les commandes de planification sont transférées à l'appareil ZOLLER. De plus, l'appareil de réglage et de mesure demande automatiquement la liste des outils nécessaires via l'interface ZOLLER-SOFLEX-PCS. Une fois le réglage effectué sur le banc de réglage et de mesure ZOLLER, les données mesurées sont directement transmises au système SOFLEX-PCS, qui transfère ensuite les données d'outils à la machine lors du chargement de l'outil.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/1/3/csm_logo_soflex_01b48cd0dc.webp",
+            "alt": "",
+            "w": 246,
+            "h": 72
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2931",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "SolidCAM GmbH",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>SolidCAM compte parmi les principaux fournisseurs internationaux de systèmes DAO/FAO intégrés pour une programmation FAO efficace dans les secteurs de la fabrication mécanique, de l'électronique, du médical, des biens de consommation, de la conception de machines, de l'automobile et de l'aéronautique, ainsi que dans la fabrication de moules et d'outils. Avec ses produits SolidCAM et InventorCAM, SolidCAM offre une intégration transparente dans Solidworks et Autodesk Inventor. Le logiciel, doté de la technologie révolutionnaire et brevetée iMachining et de SolidCAM MillTurn plus, prend en charge toute la gamme des applications CNC, y compris les centres de tournage-fraisage complexes et les tours à poupée mobile.<br/>Plus de 75 employés répartis sur huit sites et trois centres technologiques garantissent une assistance utilisateur compétente et un service technique de premier ordre sur site dans toute l'Allemagne.<br/><br/>L'interface SolidCAM simple et intuitive pour la gestion des outils ZOLLER permet un accès pratique à la vaste base de données d'outils ZOLLER via les solutions de gestion d'outils TMS Tool Management Solutions. Les outils complets pour le fraisage, le tournage et le tournage-fraisage peuvent être utilisés comme données d'outils 3D directement dans SolidCAM pour la simulation et le contrôle de collision.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/d/8/csm_logo_solidcam_9711414196.webp",
+            "alt": "",
+            "w": 317,
+            "h": 70
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2932",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Takisawa Machine Tool Co. Ltd",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Depuis la création du fabricant de machines-outils en 1922, TAKISAWA séduit par son esprit pionnier et sa passion. Fort d'une expérience considérable et d'une tradition presque centenaire, TAKISAWA propose aujourd'hui une multitude de produits innovants et technologiques.</p> <p>ZOLLER prépare une interface pour le transfert des données d'outils vers TAKISAWA.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/a/6/csm_logo_takisawa_ee8c24d2ee.webp",
+            "alt": "",
+            "w": 381,
+            "h": 41
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2935",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Tebis AG",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Tebis AG est l'un des leaders mondiaux du marché et de la technologie dans le domaine de la DAO/FAO et des MES. Grâce au logiciel Tebis, les clients construisent, planifient et fabriquent des modèles, des outils de formage et des composants de haute qualité de manière efficace, sûre et avec la plus grande qualité. Des équipes composées de spécialistes expérimentés en conseil et en mise en œuvre développent des stratégies pour des processus DAO/FAO efficaces et sécurisés, les mettent en œuvre chez le client et garantissent ainsi un avantage technologique et concurrentiel durable. L'entreprise, dont le siège se trouve à Martinsried près de Munich, possède 9 succursales Tebis dans le monde entier et des représentations commerciales dans 8 autres pays. Depuis plus de 30 ans, l'automatisation est la formule gagnante de Tebis. Tebis se considère comme un pionnier dans le sens de l'industrie 4.0 pour ses clients.</p> <p>L'interface Tebis simple et intuitive avec les solutions TMS Tool Management Solutions de ZOLLER permet un transfert facile des données d'outils et des fiches programme, y compris les composants individuels et les outils complets, entre la base de données d'outils ZOLLER z.One et le système de FAO Tebis.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/d/e/csm_logo_tebis_2cbb64c1c1.webp",
+            "alt": "",
+            "w": 323,
+            "h": 114
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2933",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Vollmer",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Avec ses 14 sites, le groupe Vollmer connaît un succès mondial en tant que spécialiste de l'usinage d'outils dans la production et les services grâce à une gamme complète de machines. La gamme de produits de ce leader technologique comprend des machines de rectification, d'érosion et d'usinage ultramodernes pour les outils rotatifs, les scies circulaires et les scies à ruban destinés à l'industrie du bois et du métal.</p> <p>Bancs de réglage et de mesure ZOLLER – parfaitement connectés grâce à une interface avec les ponceuses Vollmer.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/0/2/csm_logo_vollmer_174ffc994c.webp",
+            "alt": "",
+            "w": 439,
+            "h": 116
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2934",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "À propos de DSC Software AG",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>VOTRE PARTENAIRE POUR UN PLM INTÉGRÉ</p> <p>Chez DSC Software AG, nous travaillons avec passion pour rapprocher les personnes, les processus et les systèmes. Nous avons à cœur de protéger vos données produit.</p> <p>Laissez-vous gagner par notre fascination pour l'intégration. Innovants, humains et partenaires, nous vous accompagnons dans la mise en œuvre concrète de votre stratégie de numérisation : avec SAP comme base de données numérique centrale pour vos processus commerciaux, complétée par des solutions sur mesure basées sur les meilleures pratiques.</p> <p>Avec nous comme partenaire SAP Platinum, vous disposez d'un compagnon de route expérimenté et disposant d'un excellent réseau. L'équipe DSC cumule plus de 1 000 ans d'expertise PLM et n'a qu'un seul objectif : concevoir la meilleure solution possible pour vos défis individuels. Pour que vous puissiez transformer encore plus rapidement vos idées géniales en produits intelligents et rester tourné vers l'avenir.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/1/a/csm_logo_dsc_software_40e1276b00.webp",
+            "alt": "",
+            "w": 246,
+            "h": 92
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2936",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c2854",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2852",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/fr/entreprise/profil/partenaires",
+ "de_path": "/unternehmen/profil/partner"
+}

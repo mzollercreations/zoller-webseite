@@ -1,0 +1,290 @@
+{
+ "path": "/merogepek",
+ "url": "/hu/merogepek",
+ "title": "Mérőgépek",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Mérőgépek",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Mérőgépek",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/messmaschinen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/measuring-machines",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/maquinas-de-medicion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/machines-de-mesure",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/maquinas-de-medicao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/macchine-di-misura",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/maetmaskiner",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/messmaschinen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/machines-de-mesure",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E6%B8%AC%E5%AE%9A%E6%A9%9F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%B8%A1%EC%A0%95%EA%B8%B0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/measuring-machines",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/maquinas-de-medicion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/maquinas-de-medicao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/6/7/csm_messung_header_416ff4c8b2.webp",
+     "video": null,
+     "title": "Nagyobb pontosság",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8018",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> A mérő- és ellenőrző műszerek ugyanolyan fontosak, mint a hozzájuk tartozó szoftver </h2>",
+   "body": "<p class=\"extra-large-text\">Ahhoz, hogy a szerszámok pontosan azt tegyék, amire tervezték és gyártották őket, maguknak is precízen kell készülniük. Univerzális mérőgépeinkkel a szerszámok mikrométeres pontossággal mérhetők, és ellenőrizhető, hogy megfelelnek-e a követelményeknek.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c8019",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Mérés a koordináta-mérőrendszerben </h2>",
+   "body": "<p>A mérőgépek a mért tapintási pontokat egy-egy meghatározott mozgási tengely mentén egy adott hosszmérő rendszerhez rendelik. A mérőszoftver ezt követően feldolgozza ezeket az információkat, és a teljes koordináta-mérőrendszerben meghatározott pontokhoz rendeli őket.</p> <p>Az így meghatározott koordinátákból a KMG szoftvere kiszámítja a nem közvetlenül mért méretek értékeit – például hosszúságokat, szögeket, két mérési pont közötti távolságokat stb.</p> <p>A koordináta-mérőrendszerben (angolul „Coordinate Measuring System”) meghatározott mérési pontokat (tényleges értékeket) végül összehasonlítják az előírásokból, például a szerszám terveiből származó értékekkel (célértékek). Ha ezek nem egyeznek meg egymással, vagyis ha mérési eltérések vannak – akár gyártási hibák, akár kopás miatt –, akkor ezt követően megfelelően lehet reagálni.</p> <h4>Mik azok a <strong>3D-mérőgépek</strong>?</h4> <p>„3D-mérőgépeknek” általában azokat a mérőgépeket nevezik, amelyek viszonylag rövid idő alatt – ideális esetben valós időben – képesek megmérni egy mérendő tárgy háromdimenziós kiterjedését. Kompakt lineáris vagy mátrix-array kamerák alkalmazásával ezek a mérőgépek részben akár hordozhatóak, vagy legalábbis hordozhatóak is lehetnek. A hordozható KMG-k azonban általában valamivel pontatlanabbak, mint a hagyományos mérőgépek.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/d/csm_inspection-and-measuring_02_68ae6129c7.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8020",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Koordináta-mérési technika </h2>",
+   "body": "<p>Számos mérőműszer az úgynevezett koordináta-mérési technológiával működik. A mérőműszer (teljes nevén „koordináta-mérőgép”, KMG) egy megfelelő érzékelő segítségével rögzíti azokat a pontos koordinátákat, amelyeken a munkadarab felületének bizonyos pontjai helyezkednek el.</p> <p>A koordinátarendszer a legtöbb esetben párhuzamosan van kialakítva a koordináta-mérőrendszerek ortogonális mozgási tengelyeivel.</p> <h4><strong>Érintésmentes tapintás</strong></h4> <p>A kamerák, lézeres triangulációs érzékelők és egyéb módszerek segítségével működik viszont az érintésmentes tapintás, amelynél például optikai vagy elektromos érzékelőket alkalmaznak. A mérési folyamat tehát itt úgy zajlik, hogy a mérőérzékelő egyáltalán nem érintkezik a munkadarabbal. Bizonyos körülmények között ez jelentősen felgyorsíthatja a mérési folyamatot.</p> <h4><strong>Tapintásos mérés</strong></h4> <p>A munkadarabok tapintó (mechanikus) méréséhez mérőérzékelőket vagy tapintócsapokat használnak; ekkor általában megkülönböztetik a kapcsoló rendszereket (amelyek csak a nyugalmi állapot és az érintés között tudnak különbséget tenni) és a mérő rendszereket (amelyek szűk tartományban képesek eltéréseket mérni).</p> <h4><strong>Többérzékelős</strong></h4> <p>A multiszenzoros koordináta-mérőgépek különböző tapintási módszereket kombinálnak, hogy ne csak különösen pontos eredményeket érjenek el, hanem minden igényhez a legmegfelelőbb mérési módszert is biztosítsák.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/6/csm_optik_8e5c836a3b.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8024",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/d/csm_teaser_inspection_small_3a55e21ba2.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Ellenőrzés és mérés: az Ön előnyei",
+     "href": "/hu/megoldasok/ellenorzes-es-meres",
+     "caption": "<figcaption> <h3>Ellenőrzés és mérés: az Ön előnyei</h3> <p>Tudja meg, milyen lehetőségeket kínál a ZOLLER a szerszámvizsgálatok terén! A gyártási folyamathoz szorosan kapcsolódó ellenőrzésektől kezdve a csúcstechnológiás elemzéseken át egészen az SKP-ig, az érdességmérésig és a digitális ikrek létrehozásáig.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 szakértői beszélgetés",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 szakértői beszélgetés</h3> <p>Személyre szabott megbeszélés az Ön céljairól és az azok eléréséhez kapcsolódó ötleteinkről. A ZOLLER online tanácsadása közvetlenül a Smart Factory-ból. Foglaljon időpontot most! </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3843",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/hu/merogepek",
+ "de_path": "/messmaschinen"
+}

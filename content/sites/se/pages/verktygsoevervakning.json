@@ -1,0 +1,300 @@
+{
+ "path": "/verktygsoevervakning",
+ "url": "/se/verktygsoevervakning",
+ "title": "Verktygsövervakning",
+ "description": "Genom att regelbundet kontrollera och övervaka era verktyg säkerställer ni smidiga tillverkningsprocesser och produkter av hög kvalitet.",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Verktygsövervakning",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Verktygsövervakning",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeugueberwachung",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-monitoring",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/supervision-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/surveillance-des-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/monitorizacao-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/monitoraggio-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verktygsoevervakning",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeugueberwachung",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/surveillance-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E7%9B%A3%E8%A6%96",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/tool-monitoring",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/monitoreo-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/monitorizacao-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/0/1/csm_tool_monitoring_header_355bada07e.webp",
+     "video": null,
+     "title": "Verktygsövervakning för kvalitetssäkring",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7957",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\"><strong>Verktygets skick avgör kvaliteten på de färdiga produkterna. Verktygskontroll i olika former har därför länge varit en grundläggande del av kvalitetssäkringen.</strong></p> <p class=\"extra-large-text\">Defekta eller ofullständigt förberedda verktyg är ett problem av många skäl. Hela satser med felaktiga produkter kan uppstå till följd av detta, och detta spill uppstår ofta obemärkt och smygande – ett spill som du säkert vill undvika.</p> <p class=\"extra-large-text\">Utan rätt övervakning kan ett defekt verktyg också leda till verktygsbrott eller till och med orsaka skador på maskinerna. Detta avbryter i sin tur befintliga produktionsprocesser, minskar antalet tillverkade komponenter och förkortar livslängden på dina produktionsmedel – allt detta är extra kostnader som ett effektivt företag inte vill ha.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7959",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Kvalitetskontroll och slitanalys </h2>",
+   "body": "<p>Därför bör ni systematiskt integrera kvalitetskontroll och slitanalys i företagets arbetsflöden. Att kontrollera verktygen och mäta deras kvalitet bör vara en del av ert dagliga arbete.</p> <p>Det är viktigt att mätresultaten dokumenteras tydligt och kopplas till de enskilda verktygen och deras förvaringsplats. På så sätt kan du säkerställa att ett verktyg som behöver slipas verkligen återanvänds innan nästa användningstillfälle. Detta garanterar att dina maskiner alltid arbetar med perfekt förberedda verktyg.</p> <p>Att kontrollera och övervaka verktygens skick har många fördelar. Dina borrar och skärverktyg fortsätter att arbeta med full kraft och precision, produktionsprocesserna i ditt företag förblir kontrollerade och du har alltid koll på verktygens livslängd – och kan vid behov se till att påfyllning och ersättning anskaffas i god tid.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/e/csm_csm_Werkzeug-3d-Optik-User-Hand-ZOLLER_3c28f0800c_254258e0fc.webp",
+     "alt": "",
+     "w": 1116,
+     "h": 1000
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7960",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Mätning och kontroll med teknik från ZOLLER </h2>",
+   "body": "<p>Med ZOLLER:s mät- och kontrollutrustning garanteras säkra och smidiga arbetsflöden inom alla användningsområden. De arbetar precist, med hög repeterbarhet och oberoende av operatören. Med rätt lösning erbjuder vi dig en ekonomisk och helautomatisk mätning av alla verktygsparametrar för verktygsövervakning. Så att du kan lita till 100 % på att din tillverkning sker med felfria verktyg.</p> <p>Våra mät- och testutrustningar överför verktygens teoretiska och faktiska data elektroniskt, beroende på konfiguration även trådlöst. Genom lämpliga gränssnitt är det möjligt att ansluta till nästan alla system som är involverade i slipprocessen. ZOLLER-enheter erbjuder anslutningar till ERP- eller CAM-system, till lagerhållning och till system från maskintillverkare som NUMROTO, Anca, MTS eller GDX 2.0-gränssnittet.</p> <p><a class=\"btn\" href=\"/se/produkter\">Här kan du läsa allt om ZOLLERs inställnings-, test- och mätutrustning</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7961",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Systematisk kontroll </h2>",
+   "body": "<p>Genom verktygsövervakning får du i realtid återkoppling om verktygets skick redan vid mätningen. Är skärgeometrin korrekt, förekommer slitage, finns risk för skärbrott? Genom mätningar på dina precisionsverktyg kan du undvika att arbetsstycken skadas och att tillverknings- eller produktionsprocesser avbryts.</p> <p>Naturligtvis kan de olika aspekterna av verktygshantering och verktygskontroll även kopplas samman ytterligare. ZOLLER erbjuder för detta ändamål nätverksanslutna lösningar för <strong>Smart Factory</strong>, mätteknik 4.0, via en central databas.</p> <p>Hos oss hittar du den perfekta lösningen för kontroll och mätning av verktyg för varje tillverkningssteg – från inkommande kontroll via tillverkning till slutkontroll. Lagringssystem och automatiseringskoncept ingår självklart också.</p> <p><a class=\"btn\" href=\"/se/loesningar/kontrollera-maeta\">Läs mer om mätteknik 4.0</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7962",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Verktygshantering: Fördelarna för er",
+     "href": "/se/loesningar/tool-management",
+     "caption": "<figcaption> <h3>Verktygshantering: Fördelarna för er</h3> <p>Upptäck hur ZOLLER:s verktygshantering omedelbart ökar din produktivitet. Med verktygsdata går processerna snabbare och säkrare – inklusive kollisionsskydd för dina maskiner. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1-samtal med en expert",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1-samtal med en expert</h3> <p>Ett personligt samtal om era mål och våra idéer för att uppnå dem. ZOLLER:s online-rådgivning direkt från Smart Factory. Boka en tid redan nu. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/se/verktygsoevervakning",
+ "de_path": "/werkzeugueberwachung"
+}

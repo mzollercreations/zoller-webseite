@@ -1,0 +1,471 @@
+{
+ "path": "/a-rendszer",
+ "url": "/hu/a-rendszer",
+ "title": "A rendszer",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "A rendszer",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "A rendszer",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/das-system",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/the-system",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/el-sistema",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/le-systeme",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/o-sistema",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/il-sistema",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/systemet",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/das-system",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/the-system",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/le-systeme",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%8B%9C%EC%8A%A4%ED%85%9C",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/the-system",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/el-sistema",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/o-sistema",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/01_Pages/The_System/ZOLLER_WELT_1920x1080.mp4",
+     "title": "ZOLLER – az egyetlen, amely rendszeresen működik",
+     "kicker": "",
+     "text": "<p>Ügyfeleink azoknak a komplex megoldásoknak<br/>a előnyeit élvezik,<br/>amelyeket évtizedek óta fejlesztünk.<br/>Az eredmény: kiemelkedő hatékonyság. </p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c604",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "66-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2 class=\"headline-decor\"> Kezdje a megoldással – lépjen be a rendszerbe. </h2>",
+      "body": "<p class=\"extra-large-text\">A hosszú távú versenyképesség megőrzésének legbiztosabb módja egy átfogó rendszer mellett való döntés.</p> <p class=\"extra-large-text\">A ZOLLER az egyetlen gyártó világszerte, amely ilyen rendszert tud Önnek kínálni. A rendszer a megmunkáló szerszámokat helyezi középpontba, és adatok alapján összekapcsolja a hozzájuk kapcsolódó folyamatokat. Az eredmény: a legmagasabb szintű gazdaságosság, minőség és pontosság az Ön megmunkáló gyártásában.</p> <p class=\"extra-large-text\">Ott kezd, ahol éppen tart. Ott áll meg, ahol igényei teljesülnek. És mindig biztos lehet abban, hogy megteheti a következő lépést. </p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c556",
+      "bg": "yellow",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-2cols",
+   "id": "c1854",
+   "bg": "yellow",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "hotspots",
+   "header": "",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/2/4/csm_zoller_system_en_7439d4eabe.webp",
+    "alt": "zoller system",
+    "w": 1540,
+    "h": 1193
+   },
+   "spots": [
+    {
+     "x": 71.714,
+     "y": 20.307,
+     "label": "Eszközkezelés",
+     "text": "<h3>Eszközkezelés</h3> <p>Szerszámtárolók, szerelőállomások, szoftverek és interfészek: a ZOLLER rendet teremt a szerszámtárban és javítja a szerszámadatok átláthatóságát. </p> <p>Előnyök <a class=\"btn\" href=\"/produkte/toolmanagement\">Termékek megtekintése</a></p>"
+    },
+    {
+     "x": 87.074,
+     "y": 38.032,
+     "label": "Hőre zsugorodó technika",
+     "text": "<h3>Hőre zsugorodó technika</h3> <p>A szerszámok be- és kicsavarásához szükséges leginnovatívabb megoldások: kiváló felhasználói kezelhetőség, alacsonyabb energiaigény és rekordot döntő rövid feldolgozási idők. </p> <p><a class=\"btn\" href=\"/hu/megoldasok/hore-zsugorodo-technika\">Előnyök</a> <a class=\"btn\" href=\"/produkte/schrumpftechnik\">Termékek megtekintése</a></p>"
+    },
+    {
+     "x": 89.237,
+     "y": 54.501,
+     "label": "kiegyensúlyozási technika",
+     "text": "<h3>kiegyensúlyozási technika</h3> <p>Hosszabb szerszámélettartam, jobb felületi minőség: a piacon elérhető legjobb kiegyensúlyozó berendezésekkel. </p> <p><a class=\"btn\" href=\"/hu/megoldasok/kiegyensulyozasi-technika\">Előnyök</a> <a class=\"btn\" href=\"/produkte/wuchttechnik\">Termékek megtekintése</a></p>"
+    },
+    {
+     "x": 38.021,
+     "y": 59.037,
+     "label": "Szerszámtartók ZOLLER »idChip«-pel",
+     "text": "<h3>Szerszámtartók ZOLLER »idChip«-pel</h3> <p>»idChip« – a tökéletes kapcsolódási pont a szerszámok és a digitális gyártás között.</p> <p><a class=\"btn\" href=\"/hu/megoldasok/szerszamtartok\">Előnyei</a> <a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">Közvetlenül a szerszámboltba</a></p>"
+    },
+    {
+     "x": 42.347,
+     "y": 77.53,
+     "label": "Ellenőrzés és mérés",
+     "text": "<h3>Ellenőrzés és mérés</h3> <p>Dokumentálja a minőséget, és hozzon létre digitális ikertestvéreket.</p> <p><a class=\"btn\" href=\"/hu/megoldasok/ellenorzes-es-meres\">Előnyök</a> <a class=\"btn\" href=\"/produkte/pruefen-messen\">Termékek megtekintése</a></p>"
+    },
+    {
+     "x": 64.954,
+     "y": 84.787,
+     "label": "Szerszámok élezése",
+     "text": "<h3>Szerszámok élezése</h3> <p>A szerszámgyártók és csiszolóüzemek számára a mérési adatok és az adatkezelés elengedhetetlen a magas gazdaságosság és a dokumentált minőség eléréséhez. A ZOLLER minden szükséges eszközt biztosít ehhez.</p> <p><a class=\"btn\" href=\"/hu/szerszamok-elezese\">További információk</a></p>"
+    },
+    {
+     "x": 75.23,
+     "y": 84.368,
+     "label": "Marás",
+     "text": "<h3>Marás</h3> <p>A marási folyamatok nagyobb gazdaságossága mikrométeres pontosságú szerszámadatok és a CAM-to-Part digitalizálás révén.</p> <p><a class=\"btn\" href=\"/hu/maras\">További információk</a></p>"
+    },
+    {
+     "x": 85.398,
+     "y": 84.299,
+     "label": "Forgatás",
+     "text": "<h3>Forgatás</h3> <p>A forgácsoló szerszámok pontos beállítása és mérése, valamint a magas adat rendelkezésre állás: növelje most a forgácsolási alkalmazások termelékenységét. </p> <p><a class=\"btn\" href=\"/hu/forgatas\">További információk</a></p>"
+    },
+    {
+     "x": 85.019,
+     "y": 70.551,
+     "label": "»zidCode«",
+     "text": "<h3>»zidCode«</h3> <p>Nagyobb biztonság és hatékonyság az automatizált, hibamentes szerszámadatok kezelésének köszönhetően.</p> <p><a class=\"btn\" href=\"/hu/termekek/eszkoezkezeles/adatatvitel/zidcode\">További információk »a zidCode«-ról</a></p>"
+    },
+    {
+     "x": 68.415,
+     "y": 68.737,
+     "label": "Beállítás és mérés",
+     "text": "<h3>Beállítás és mérés</h3> <p>Így 40 %-kal vagy annál is többel csökkentheti a beállítási időt, és meghosszabbíthatja szerszámai élettartamát. </p> <p><a class=\"btn\" href=\"/hu/megoldasok/beallitas-es-meres\">Előnyök</a> <a class=\"btn\" href=\"/produkte/einstellen-messen\">Termékek megtekintése</a></p>"
+    },
+    {
+     "x": 50.676,
+     "y": 21.144,
+     "label": "Folyamatorientált mérés",
+     "text": "<h3> Folyamatorientált mérés</h3> <p>A szerszámok gyors és pontos ellenőrzése az áruátvételkor, vagy a csiszolási minőség közvetlenül a gép mellett történő ellenőrzése – a ZOLLER folyamatorientált megoldásai.</p> <p><a class=\"btn\" href=\"/hu/megoldasok/ellenorzes-es-meres\">Előnyök</a> <a class=\"btn\" href=\"/hu/termekek/ellenorzes-es-meres/folyamatorientalt-meres/pombasic\">További információk a »pomBasic«ról</a></p>"
+    },
+    {
+     "x": 57.004,
+     "y": 31.333,
+     "label": "Szerszámok előkészítése",
+     "text": "<h3>Szerszámok előkészítése</h3> <p>Automatizálja a szerszámok beállítását és mérését, beleértve a szerszámkezelést is. A ZOLLER segítségével a szokásos folyamatláncok is önállóan futnak. </p> <p><a class=\"btn\" href=\"/hu/megoldasok/automatizalas\">Előnyök</a> <a class=\"btn\" href=\"/produkte/automation/werkzeugvorbereitung\">Termékek megtekintése</a></p>"
+    },
+    {
+     "x": 38.453,
+     "y": 47.732,
+     "label": "Szerszámok biztosítása",
+     "text": "<h3>Szerszámok biztosítása</h3> <p>A ZOLLER segítségével automatikusan előkészítheti az összes szerszámot a következő gyártási megrendelésekhez. </p> <p><a class=\"btn\" href=\"/hu/megoldasok/automatizalas\">Előnyök</a> <a class=\"btn\" href=\"/produkte/automation/werkzeugbereitstellung\">Termékek megtekintése</a></p>"
+    },
+    {
+     "x": 56.03,
+     "y": 60.642,
+     "label": "Szerszámellenőrzés",
+     "text": "<h3>Szerszámellenőrzés</h3> <p>Így automatizálhatja a szerszámellenőrzést a »genius« sorozatú mérőgépekkel. Opcionálisan lézeres jelöléssel és teljes dokumentációval.</p> <p><a class=\"btn\" href=\"/hu/megoldasok/automatizalas\">Előnyök</a> <a class=\"btn\" href=\"/produkte/automation/werkzeuginspektion\">Termékek megtekintése</a></p>"
+    },
+    {
+     "x": 69.443,
+     "y": 45.429,
+     "label": "Szerszámlogisztika",
+     "text": "<h3>Szerszámlogisztika</h3> <p>A szerszámok automatikusan eljutnak a szerszám-előkészítő részlegről a CNC-géphez – vagy akár a szerszámtárba. És vissza is. </p> <p><a class=\"btn\" href=\"/hu/megoldasok/automatizalas\">Előnyök</a> <a class=\"btn\" href=\"/produkte/automation/werkzeuglogistik\">Termékek megtekintése</a></p>"
+    },
+    {
+     "x": 76.041,
+     "y": 33.357,
+     "label": "»toolCart«",
+     "text": "<h3>»toolCart«</h3> <p>A szerszámok kényelmes szállításához</p> <p><a class=\"btn\" href=\"/hu/termekek/eszkoezkezeles/szerszamok-szallitasa/toolcart\">További információk a »toolCart«-ról</a></p>"
+    },
+    {
+     "x": 27.258,
+     "y": 39.358,
+     "label": "CAD-tervezés",
+     "text": "<h3>CAD-tervezés</h3> <p>A ZOLLER szerszámkezelő rendszere a folyamat kezdetétől a végéig biztosítja a szerszámadatokat. Interfészeink a CAD/CAM-rendszerekből, az ERP-rendszerekből és a szerszámkatalógusokból átveszik a szerszámadatokat, és azokat a ZOLLER TMS Tool Management Solutions szoftverébe továbbítják.</p> <p>Előnyei</p>"
+    },
+    {
+     "x": 38.94,
+     "y": 30.356,
+     "label": "CAM-gyártás",
+     "text": "<h3>CAM-gyártás</h3> <p>A ZOLLER eszközkezelési rendszere biztosítja, hogy adatai a z.One adatbázisban a CAM-től a munkadarabig végig elérhetők legyenek. Ez megkönnyíti a gyártástervezést, lerövidíti az átállási időket és csökkenti a hiányzó alkatrészek számát – a CAM-mel és CAD-del történő folyamatindítástól egészen a CNC-csiszoló- vagy megmunkáló gépek vezérléséig.</p> <p>További információk az interfészekről</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c4007",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> A modern gyártás értékrendszere </h1>",
+   "body": "<p class=\"extra-large-text\">A ZOLLER rendszerorientált megközelítése négy alapelvre épül: innováció, minőség, pontosság és szolgáltatás. Ezeket az elveket követjük – minden egyes terméknél, amelyet fejlesztünk, gyártunk és szállítunk. Ügyfeleink elégedettek. Mert értékeink garantálják a kiváló teljesítményt. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/8/csm_value_system_4adb77b8bc.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c607",
+   "bg": "black",
+   "space": {
+    "before": "extra-small",
+    "after": "none"
+   }
+  },
+  {
+   "type": "values",
+   "header": "",
+   "tiles": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_value_innovation_30b03ea669.webp",
+      "alt": "",
+      "w": 739,
+      "h": 774
+     },
+     "text": "<p>A ZOLLER-nél az innováció iránti elkötelezettség a fejlődés legfontosabb összetevője. 80 éve alakítjuk a jövőt. </p>"
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/1/f/csm_value_quality_596c87a5e7.webp",
+      "alt": "",
+      "w": 739,
+      "h": 774
+     },
+     "text": "<p>A ZOLLER-nél minden berendezést szakértők szerelnek össze kézzel. És a nevükkel kezeskednek az eredményért: megbízhatóság „made in Germany”. </p>"
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/3/8/csm_value_precition_86c1763b85.webp",
+      "alt": "",
+      "w": 739,
+      "h": 774
+     },
+     "text": "<p>A ZOLLER-nél a legkiválóbb mérőtechnikát alkalmazzuk. Csúcskategóriás készülékeink 1 µm alatti felbontással képesek felbontani a struktúrákat, és pontos adatokat szolgáltatnak. </p>"
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/9/6/csm_value_service_c143139351.webp",
+      "alt": "",
+      "w": 739,
+      "h": 774
+     },
+     "text": "<p>A ZOLLER-nél a megbízhatóság a legfontosabb. 62 országban elérhetők vagyunk világszerte. Argentínától Vietnámig állunk az Önök rendelkezésére! </p>"
+    }
+   ],
+   "ftype": "zoller_column-image-text",
+   "id": "c605",
+   "bg": "black",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Ismerje meg élőben a ZOLLER-rendszert </h2>",
+   "body": "<p>A pleidelsheimi ZOLLER Smart Factory-ban bemutatjuk a ZOLLER-rendszert az összes megoldással, egészen a teljes gyártóterületi automatizálásig. Győződjön meg saját szemével a zökkenőmentes CAM-to-Part-folyamatok magas hatékonyságáról és a folyamatosan elérhető szerszámadatok előnyeiről. </p> <p>Tudjon meg most többet arról, hogyan foglalhat időpontot egy látogatásra vagy egy egyéni szakértői konzultációra.</p> <p><a class=\"btn\" href=\"/hu/vallalat/kapcsolat/intelligens-gyar\">A Smart Factory-hoz</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/9/csm_smartfactory_teaser_4b2372736c.webp",
+     "alt": "",
+     "w": 1400,
+     "h": 1400
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c59554",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> A ZOLLER-rendszer alapját képező négy szám </h2>",
+   "body": "<p>A ZOLLER-rendszer mögött egy folyamatosan működő fejlesztési folyamat áll. Ezt a négy szám jól szemlélteti: 80 | 60 | 14 | 7. Ezek világosan megmutatják, miért a ZOLLER a legjobb partner a szerszámokkal kapcsolatos folyamatok terén. Tudjon meg többet a szórólapból.</p> <p><a class=\"btn\" href=\"/fileadmin/03_Media_Press/Downloads/System/Flyer_ZOL_Vier_Zahlen_DE.pdf\" rel=\"noopener\" target=\"_blank\">Szórólap letöltése</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/0/csm_teaser_vier_zahlen_fe067fe955.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c62147",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/hu/a-rendszer",
+ "de_path": "/das-system"
+}

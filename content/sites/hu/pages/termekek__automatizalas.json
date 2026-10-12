@@ -1,0 +1,404 @@
+{
+ "path": "/termekek/automatizalas",
+ "url": "/hu/termekek/automatizalas",
+ "title": "Automatizálás",
+ "description": "Automatizálás - Rugalmas, moduláris automatizálás metálmegmunkáló szerszámokhoz.",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Termékek /",
+   "href": "/hu/termekek"
+  },
+  {
+   "label": "Automatizálás",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Termékek /",
+   "href": "/hu/termekek"
+  },
+  {
+   "label": "Automatizálás",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/automation",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/automation",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/automatizacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/automatisation",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/automacao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/automazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/automatisering",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/automation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/automation",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/automatisation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/automation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/automatizacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/automacao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [],
+   "ftype": "zoller_hero-slider",
+   "id": "c4402",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Termékáttekintés </h1>",
+   "body": "<p class=\"extra-large-text\"><strong>A ZOLLER Solutions az Ön jövőjét jelenti – mi segítünk Önnek a siker elérésében. Hiszen aki gyorsabban és hatékonyabban gyárt, az gazdaságosabban dolgozik, és így befektethet a jövőbe. Ha a gazdasági fejlődés a célja, akkor a ZOLLER az Ön partnere.</strong></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4399",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "productlist",
+   "filters": {
+    "solutions": [
+     {
+      "value": "259",
+      "label": "Beállítás és mérés",
+      "selected": false
+     },
+     {
+      "value": "251",
+      "label": "Eszközkezelés",
+      "selected": false
+     },
+     {
+      "value": "254",
+      "label": "Ellenőrzés és mérés",
+      "selected": false
+     },
+     {
+      "value": "253",
+      "label": "Automatizálás",
+      "selected": true
+     },
+     {
+      "value": "250",
+      "label": "Hőre zsugorodó technika",
+      "selected": false
+     },
+     {
+      "value": "252",
+      "label": "Szerszámtartók",
+      "selected": false
+     },
+     {
+      "value": "249",
+      "label": "kiegyensúlyozási technika",
+      "selected": false
+     }
+    ],
+    "applications": [
+     {
+      "value": "384",
+      "label": "Szerszámlogisztika",
+      "selected": false
+     },
+     {
+      "value": "385",
+      "label": "Szerszámok előkészítése",
+      "selected": false
+     },
+     {
+      "value": "386",
+      "label": "Szerszámok biztosítása",
+      "selected": false
+     },
+     {
+      "value": "389",
+      "label": "Szerszámellenőrzés",
+      "selected": false
+     },
+     {
+      "value": "14153",
+      "label": "Lézeres jelölés",
+      "selected": false
+     }
+    ]
+   },
+   "rows": [
+    {
+     "title": "Szerszámlogisztika",
+     "items": [
+      {
+       "href": "/hu/termekek/automatizalas/szerszamlogisztika/coralogistic",
+       "title": "»coraLogistic«",
+       "text": "Szállítási feladatokhoz a szerszámraktár, a szerszámelőkészítés és a CNC-gép között",
+       "img": {
+        "src": "/fileadmin/_processed_/c/0/csm_coraLogistics_preview_8cd4f5bccb.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/hu/termekek/automatizalas/szerszamlogisztika/coramachineload",
+       "title": "»coraMachineLoad«",
+       "text": "Pontos és pontos szerszámkezelés a logisztika és a gépi raktár között",
+       "img": {
+        "src": "/fileadmin/_processed_/e/e/csm_coraMaschineLoad_preview_7ffc6574e3.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "Szerszámok előkészítése",
+     "items": [
+      {
+       "href": "/hu/termekek/automatizalas/szerszamok-elokeszitese/corameasure-lg",
+       "title": "»coraMeasure LG«",
+       "text": "Gazdaságos szerszámkezelés a ZOLLER venturionhoz",
+       "img": {
+        "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/hu/termekek/automatizalas/szerszamok-elokeszitese/robobox",
+       "title": "»roboBox«",
+       "text": "Akár hat modul olyan rutinműveletekhez, mint a szerelés, tisztítás, mérés, zsugorítás és egyebek",
+       "img": {
+        "src": "/fileadmin/_processed_/7/a/csm_roboBox_preview_f71dd04107.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/hu/termekek/automatizalas/szerszamok-elokeszitese/micbox",
+       "title": "»micBox«",
+       "text": "A forgácsolóbetétek forgatását, megfordítását és cseréjét végzi",
+       "img": {
+        "src": "/fileadmin/_processed_/6/a/csm_micbox_preview_ff03cd31af.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "Szerszámok biztosítása",
+     "items": [
+      {
+       "href": "/hu/termekek/automatizalas/szerszamok-biztositasa/loadbox",
+       "title": "»loadBox«",
+       "text": "A megrendeléseknek megfelelően összeállítja a szerszámokat, és átadja azokat a logisztikai részlegnek",
+       "img": {
+        "src": "/fileadmin/_processed_/5/3/csm_loadBox_preview_c2695dfc22.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "Szerszámellenőrzés",
+     "items": [
+      {
+       "href": "/hu/termekek/automatizalas/szerszamellenorzes/roboset-2",
+       "title": "»roboSet 2«",
+       "text": "Szerszámkezelés a »genius«, »3dCheck«, »threadCheck«, »titan« és »edgeControl« szoftverekhez",
+       "img": {
+        "src": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_7361e448c0.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "Lézeres jelölés",
+     "items": [
+      {
+       "href": "/hu/termekek/automatizalas/lezeres-jeloeles/robomark",
+       "title": "»roboMark«",
+       "text": "Szerszámai gyors és pontos feliratozása",
+       "img": {
+        "src": "/fileadmin/_processed_/9/c/csm_roboMark_preview_286da7e103.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "src_path": "/hu/termekek/automatizalas",
+ "de_path": "/produkte/automation"
+}

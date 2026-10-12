@@ -1,0 +1,508 @@
+{
+ "path": "/제품/도구-관리",
+ "url": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC",
+ "title": "공구 관리",
+ "description": "공구 관리 - 프로세스를 연계하고, 품질을 보장하며, 생산 속도를 높입니다.",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "제품 /",
+   "href": "/kr/%EC%A0%9C%ED%92%88"
+  },
+  {
+   "label": "공구 관리",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "제품 /",
+   "href": "/kr/%EC%A0%9C%ED%92%88"
+  },
+  {
+   "label": "공구 관리",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [],
+   "ftype": "zoller_hero-slider",
+   "id": "c4402",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> 제품 개요 </h1>",
+   "body": "<p>ZOLLER Solutions는 고객의 미래를 위한 솔루션입니다. 더 큰 성공을 실현할 수 있도록 지원합니다. 더 빠르고 효율적으로 생산할수록 경제성은 높아지고, 미래를 위한 투자가 가능해집니다. 경제적 성장을 목표로 한다면, ZOLLER가 함께하겠습니다.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4399",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "productlist",
+   "filters": {
+    "solutions": [
+     {
+      "value": "259",
+      "label": "프리세팅 및 측정",
+      "selected": false
+     },
+     {
+      "value": "251",
+      "label": "공구 관리",
+      "selected": true
+     },
+     {
+      "value": "254",
+      "label": "검사 및 측정",
+      "selected": false
+     },
+     {
+      "value": "253",
+      "label": "자동화",
+      "selected": false
+     },
+     {
+      "value": "250",
+      "label": "열박음 기술",
+      "selected": false
+     },
+     {
+      "value": "252",
+      "label": "공구 홀더",
+      "selected": false
+     },
+     {
+      "value": "249",
+      "label": "밸런싱 기술",
+      "selected": false
+     }
+    ],
+    "applications": [
+     {
+      "value": "13361",
+      "label": "Software",
+      "selected": false
+     },
+     {
+      "value": "430",
+      "label": "공구 재고 관리",
+      "selected": false
+     },
+     {
+      "value": "431",
+      "label": "공구 조립",
+      "selected": false
+     },
+     {
+      "value": "432",
+      "label": "공구 운반",
+      "selected": false
+     },
+     {
+      "value": "343",
+      "label": "데이터 전송",
+      "selected": false
+     }
+    ]
+   },
+   "rows": [
+    {
+     "title": "Software",
+     "items": [
+      {
+       "href": "/kr/software/tms-core",
+       "title": "»TMS Core«",
+       "text": "디지털 공구 관리를 위한 이상적인 출발점",
+       "img": {
+        "src": "/fileadmin/_processed_/7/b/csm_TMSCore_product_44555a00d3.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": true,
+       "kind": "product"
+      },
+      {
+       "href": "/kr/software/add-on-zstock",
+       "title": "Add-on »z.Stock«",
+       "text": "공구 창고의 명확한 투명성을 보장합니다",
+       "img": {
+        "src": "/fileadmin/_processed_/6/a/csm_zStock_product_080c00d832.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/kr/software/add-on-zcam-integration",
+       "title": "Add-on »z.CAM Integration«",
+       "text": "시스템에 고성능 인터페이스를 추가하고 공구 데이터를 워크플로우에 직접 통합합니다",
+       "img": {
+        "src": "/fileadmin/_processed_/9/6/csm_zCAM_Integration_product_3d7c6707ab.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/kr/software/add-on-zresources",
+       "title": "Add-on »z.Resources«",
+       "text": "모든 추가 자원을 관리합니다",
+       "img": {
+        "src": "/fileadmin/_processed_/b/9/csm_zResources_product_9093d037df.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/kr/software/add-on-zshopfloor",
+       "title": "Add-on »z.Shopfloor«",
+       "text": "생산 현장에서 바로 이루어지는 원활하고 효율적인 공구 순환",
+       "img": {
+        "src": "/fileadmin/_processed_/2/e/csm_zShopfloor_product_50074e8009.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/kr/software/add-on-zconnectivity",
+       "title": "Add-on »z.Connectivity«",
+       "text": "공구 측정, 공구 관리 및 기계 간의 원활한 디지털 연계",
+       "img": {
+        "src": "/fileadmin/_processed_/d/a/csm_zConnectivity_product_0840457196.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/kr/software/add-on-zintegration",
+       "title": "Add-on »z.Integration«",
+       "text": "확장된 제조 환경을 위한 제조사 독립형 공구 관리 솔루션",
+       "img": {
+        "src": "/fileadmin/_processed_/a/7/csm_zIntegration_product_8352d357ce.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 852
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "공구 재고 관리",
+     "items": [
+      {
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/twister",
+       "title": "»twister«",
+       "text": "공구 구성품 및 액세서리",
+       "img": {
+        "src": "/fileadmin/_processed_/0/1/csm_twister__preview_edf94f7d12.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/autolock",
+       "title": "»autoLock«",
+       "text": "측정기, 소모품 및 대형 구성품용",
+       "img": {
+        "src": "/fileadmin/_processed_/2/7/csm_autolock__preview_a71350a53a.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/toolorganizer",
+       "title": "»toolOrganizer«",
+       "text": "절삭 공구 및 소형 부품용",
+       "img": {
+        "src": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_018ce796c6.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/keeper",
+       "title": "»keeper«",
+       "text": "완성 공구 및 공구 홀더용",
+       "img": {
+        "src": "/fileadmin/_processed_/b/a/csm_keeper_preview_1e87de3ba7.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/zstorage",
+       "title": "»z.Storage«",
+       "text": "자판기 원리에 따라 귀하의 상품을 지급해 드립니다",
+       "img": {
+        "src": "/fileadmin/_processed_/f/5/csm_zStorage_preview_48ded3c1b4.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "공구 조립",
+     "items": [
+      {
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%A1%B0%EB%A6%BD/ztower",
+       "title": "»zTower«",
+       "text": "범용 공구 장착용",
+       "img": {
+        "src": "/fileadmin/_processed_/2/6/csm_zTower_preview_c0c8e3585e.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%A1%B0%EB%A6%BD/toolstation",
+       "title": "»toolStation«",
+       "text": "공구를 최적으로 장착하기 위해",
+       "img": {
+        "src": "/fileadmin/_processed_/a/f/csm_toolStation_preview_00b81d24f9.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "공구 운반",
+     "items": [
+      {
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%9A%B4%EB%B0%98/toolcart",
+       "title": "»toolCart«",
+       "text": "편리한 공구 운반을 위해",
+       "img": {
+        "src": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_3be007bbac.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "데이터 전송",
+     "items": [
+      {
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1/zidcode",
+       "title": "»zidCode«",
+       "text": "간편한 공구 데이터 관리를 통한 보안 및 효율성 향상",
+       "img": {
+        "src": "/fileadmin/_processed_/e/c/csm_zidCode_preview_538b53ed83.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "src_path": "/kr/제품/도구-관리",
+ "de_path": "/produkte/toolmanagement"
+}

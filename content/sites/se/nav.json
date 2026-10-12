@@ -1,0 +1,817 @@
+{
+ "meta": [
+  {
+   "label": "Service",
+   "href": "/se/foeretag/kontakt/kontaktperson"
+  },
+  {
+   "label": "Media",
+   "href": "/se/foeretag/media"
+  },
+  {
+   "label": "Karriär",
+   "href": "/se/foeretag/karriaer"
+  }
+ ],
+ "main": [
+  {
+   "label": "Systemet",
+   "href": "/se/systemet"
+  },
+  {
+   "label": "Din framgång",
+   "href": "/se/din-framgaang"
+  },
+  {
+   "label": "Lösningar",
+   "href": "/se/loesningar",
+   "children": [
+    {
+     "label": "Varför ZOLLER Solutions?",
+     "href": "/se/loesningar"
+    },
+    {
+     "label": "Inställning och mätning",
+     "href": "/se/loesningar/instaellning-och-maetning"
+    },
+    {
+     "label": "Tool Management",
+     "href": "/se/loesningar/tool-management",
+     "children": [
+      {
+       "label": "Översikt",
+       "href": "/se/loesningar/tool-management"
+      },
+      {
+       "label": "TMS Software",
+       "href": "/se/solutions/toolmanagement/tms-software"
+      },
+      {
+       "label": "TMS Hardware",
+       "href": "/se/solutions/toolmanagement/tms-hardware"
+      }
+     ]
+    },
+    {
+     "label": "Kontrollera & mäta",
+     "href": "/se/loesningar/kontrollera-maeta"
+    },
+    {
+     "label": "Automatisering",
+     "href": "/se/loesningar/automatisering",
+     "children": [
+      {
+       "label": "Översikt",
+       "href": "/se/loesningar/automatisering"
+      },
+      {
+       "label": "Logistik",
+       "href": "/se/loesningar/automatisering/logistik"
+      },
+      {
+       "label": "Förberedelse av verktyg",
+       "href": "/se/loesningar/automatisering/foerberedelse-av-verktyg"
+      },
+      {
+       "label": "Verktygsförsörjning",
+       "href": "/se/loesningar/automatisering/verktygsfoersoerjning"
+      },
+      {
+       "label": "Verktygskontroll",
+       "href": "/se/loesningar/automatisering/verktygskontroll"
+      }
+     ]
+    },
+    {
+     "label": "Krympteknik",
+     "href": "/se/loesningar/krympteknik"
+    },
+    {
+     "label": "Verktygshållare",
+     "href": "/se/loesningar/verktygshaallare"
+    },
+    {
+     "label": "Balanseringsteknik",
+     "href": "/se/loesningar/balanseringsteknik"
+    },
+    {
+     "label": "CNC-bearbetning av sten",
+     "href": "/se/loesningar/cnc-bearbetning-av-sten"
+    }
+   ]
+  },
+  {
+   "label": "Produkter",
+   "href": "/se/produkter",
+   "children": [
+    {
+     "label": "Produktöversikt",
+     "href": "/se/produkter"
+    },
+    {
+     "label": "Inställning och mätning",
+     "href": "/se/produkter/instaellning-och-maetning",
+     "children": [
+      {
+       "label": "Vertikala maskiner",
+       "href": "/se/produkter/instaellning-och-maetning/vertikala-maskiner",
+       "children": [
+        {
+         "label": "»smile«",
+         "href": "/se/produkter/instaellning-och-maetning/vertikala-maskiner/smile",
+         "claim": "Din introduktion till professionell inställning och mätning",
+         "desc": "De robusta, mikrometerprecisa instegsmodellerna för standardverktyg",
+         "img": "/fileadmin/_processed_/4/3/csm_smile_preview_6232033e55.webp"
+        },
+        {
+         "label": "»venturion«",
+         "href": "/se/produkter/instaellning-och-maetning/vertikala-maskiner/venturion",
+         "claim": "Den modulära premiumklassen för de högsta kraven",
+         "desc": "Utmärkt verktygsinställning och -mätning med många alternativ",
+         "img": "/fileadmin/_processed_/7/d/csm_venturion_preview_7611e56f51.webp"
+        }
+       ]
+      },
+      {
+       "label": "Horisontella maskiner",
+       "href": "/se/produkter/instaellning-och-maetning/horisontella-maskiner",
+       "children": [
+        {
+         "label": "»Hyperion«",
+         "href": "/se/produkter/instaellning-och-maetning/horisontella-maskiner/hyperion",
+         "claim": "Allroundverktyget med fokus på svarvverktyg",
+         "desc": "Den horisontella inställnings- och mätapparaten för svarvning",
+         "img": "/fileadmin/_processed_/1/8/csm_hyperion_preview_3b4c91eaf7.webp"
+        }
+       ]
+      },
+      {
+       "label": "Automatiseringslösningar",
+       "href": "/se/produkter/instaellning-och-maetning/automatiseringsloesningar",
+       "children": [
+        {
+         "label": "»coraMeasure LG«",
+         "href": "/se/produkter/automatisering/foerberedelse-av-verktyg/corameasure-lg",
+         "claim": "Automatisk verktygsmätning",
+         "desc": "Kostnadseffektiv verktygshantering för ZOLLER »venturion«",
+         "img": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_b31336460f.webp"
+        },
+        {
+         "label": "»roboBox«",
+         "href": "/se/produkter/automatisering/foerberedelse-av-verktyg/robobox",
+         "claim": "Modulär automatisering för verktygsverkstaden",
+         "desc": "Upp till sex moduler för rutiner som montering, rengöring, mätning, krympning och mycket mer",
+         "img": "/fileadmin/_processed_/7/a/csm_roboBox_preview_ae1a1aba4b.webp"
+        }
+       ]
+      },
+      {
+       "label": "CNC-bearbetning av sten",
+       "href": "/se/produkter/instaellning-och-maetning/cnc-bearbetning-av-sten",
+       "children": [
+        {
+         "label": "»smile | GBO«",
+         "href": "/se/produkter/instaellning-och-maetning/cnc-bearbetning-av-sten/smile-gbo",
+         "claim": "Mäta sten- och träverktyg",
+         "desc": "Möjliggör en särskilt precis höjdmätning tack vare storbildsoptiken",
+         "img": "/fileadmin/_processed_/f/4/csm_smileGBO_preview_63b44ef4c9.webp"
+        },
+        {
+         "label": "»conDress«",
+         "href": "/se/produkter/kontrollera-maeta/cnc-bearbetning-av-sten/condress",
+         "claim": "Rengöring av diamantbelagda slipytor",
+         "desc": "Rengöring och återställande av skärförmågan hos verktyg för stenbearbetning",
+         "img": "/fileadmin/_processed_/8/5/csm_conDress_preview_7966236664.webp"
+        }
+       ]
+      },
+      {
+       "label": "Specialanpassade lösningar",
+       "href": "/se/produkter/instaellning-och-maetning/specialanpassade-loesningar",
+       "children": [
+        {
+         "label": "Specialanpassade lösningar",
+         "href": "/se/produkter/instaellning-och-maetning/specialanpassade-loesningar/specialanpassade-loesningar",
+         "claim": "Lösningar för just dina behov"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Verktygshantering",
+     "href": "/se/produkter/verktygshantering",
+     "children": [
+      {
+       "label": "Software",
+       "href": "/se/software",
+       "children": [
+        {
+         "label": "»TMS Core«",
+         "href": "/se/software/tms-core",
+         "claim": "Modulsystem",
+         "desc": "Den perfekta utgångspunkten för digital verktygsorganisation",
+         "img": "/fileadmin/_processed_/7/b/csm_TMSCore_product_664765c1fd.webp"
+        },
+        {
+         "label": "Add-on »z.Stock«",
+         "href": "/se/software/add-on-zstock",
+         "claim": "Exakta lagerkvantiteter",
+         "desc": "Säkerställer tydlig översikt i verktygslagret",
+         "img": "/fileadmin/_processed_/6/a/csm_zStock_product_5160ca87bf.webp"
+        },
+        {
+         "label": "Add-on »z.CAM Integration«",
+         "href": "/se/software/add-on-zcam-integration",
+         "claim": "Effektiv arbetsflöde",
+         "desc": "Utökar systemet med kraftfulla gränssnitt och integrerar verktygsdata direkt i arbetsflödet",
+         "img": "/fileadmin/_processed_/9/6/csm_zCAM_Integration_product_5dd5c4a531.webp"
+        },
+        {
+         "label": "Add-on »z.Resources«",
+         "href": "/se/software/add-on-zresources",
+         "claim": "Centrala resurser",
+         "desc": "Hanterar alla ytterligare resurser",
+         "img": "/fileadmin/_processed_/b/9/csm_zResources_product_2eef7f49be.webp"
+        },
+        {
+         "label": "Add-on »z.Shopfloor«",
+         "href": "/se/software/add-on-zshopfloor",
+         "claim": "Digital transparens",
+         "desc": "Ett enhetligt och effektivt verktygsflöde direkt på verkstadsgolvet",
+         "img": "/fileadmin/_processed_/2/e/csm_zShopfloor_product_ccbeaa7b22.webp"
+        },
+        {
+         "label": "Add-on »z.Connectivity«",
+         "href": "/se/software/add-on-zconnectivity",
+         "claim": "Säker dataöverföring",
+         "desc": "En sammanhängande, digital koppling mellan verktygsmätning, verktygshantering och maskinen",
+         "img": "/fileadmin/_processed_/d/a/csm_zConnectivity_product_8dec59a214.webp"
+        },
+        {
+         "label": "Add-on »z.Integration«",
+         "href": "/se/software/add-on-zintegration",
+         "claim": "Smart uppkoppling",
+         "desc": "Tillverkaroberoende lösning för verktygshantering för växande tillverkningsmiljöer",
+         "img": "/fileadmin/_processed_/a/7/csm_zIntegration_product_5d9cbc0f19.webp"
+        }
+       ]
+      },
+      {
+       "label": "Verktygslager",
+       "href": "/se/produkter/verktygshantering/verktygslager",
+       "children": [
+        {
+         "label": "»twister«",
+         "href": "/se/produkter/verktygshantering/verktygslager/twister",
+         "claim": "Förvaringsskåp",
+         "desc": "För verktygskomponenter och tillbehör",
+         "img": "/fileadmin/_processed_/0/1/csm_twister__preview_9c9c9e9f21.webp"
+        },
+        {
+         "label": "»autoLock«",
+         "href": "/se/produkter/verktygshantering/verktygslager/autolock",
+         "claim": "Förvaringsskåp",
+         "desc": "För mätutrustning, driftsmaterial och större komponenter",
+         "img": "/fileadmin/_processed_/2/7/csm_autolock__preview_89166f3498.webp"
+        },
+        {
+         "label": "»toolOrganizer«",
+         "href": "/se/produkter/verktygshantering/verktygslager/toolorganizer",
+         "claim": "Verktygsskåp",
+         "desc": "För skärverktyg och smådelar",
+         "img": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_bbf66a1054.webp"
+        },
+        {
+         "label": "»målvakt«",
+         "href": "/se/produkter/verktygshantering/verktygslager/maalvakt",
+         "claim": "Verktygsskåp",
+         "desc": "För kompletta verktyg och verktygshållare",
+         "img": "/fileadmin/_processed_/b/a/csm_keeper_preview_f25bf71aa1.webp"
+        },
+        {
+         "label": "»z.Storage«",
+         "href": "/se/produkter/verktygshantering/verktygslager/zstorage",
+         "claim": "Hantering av verktygslager",
+         "desc": "Dina varor delas ut enligt principen för en automat",
+         "img": "/fileadmin/_processed_/f/5/csm_zStorage_preview_f2484908b6.webp"
+        }
+       ]
+      },
+      {
+       "label": "Verktygsmontering",
+       "href": "/se/produkter/verktygshantering/verktygsmontering",
+       "children": [
+        {
+         "label": "»zTower«",
+         "href": "/se/produkter/verktygshantering/verktygsmontering/ztower",
+         "claim": "Monteringsstation",
+         "desc": "För universell verktygsmontering",
+         "img": "/fileadmin/_processed_/2/6/csm_zTower_preview_03c8143f73.webp"
+        },
+        {
+         "label": "»toolStation«",
+         "href": "/se/produkter/verktygshantering/verktygsmontering/toolstation",
+         "claim": "Arbetsbänk",
+         "desc": "För optimal verktygsmontering",
+         "img": "/fileadmin/_processed_/a/f/csm_toolStation_preview_284869f711.webp"
+        }
+       ]
+      },
+      {
+       "label": "Verktygstransport",
+       "href": "/se/produkter/verktygshantering/verktygstransport",
+       "children": [
+        {
+         "label": "»toolCart«",
+         "href": "/se/produkter/verktygshantering/verktygstransport/toolcart",
+         "claim": "Verktygsvagn",
+         "desc": "För bekväm transport av verktyg",
+         "img": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_f133269ad8.webp"
+        }
+       ]
+      },
+      {
+       "label": "Dataöverföring",
+       "href": "/se/produkter/verktygshantering/dataoeverfoering",
+       "children": [
+        {
+         "label": "»zidCode«",
+         "href": "/se/produkter/verktygshantering/dataoeverfoering/zidcode",
+         "claim": "Överför verktygsdata utan fel",
+         "desc": "Ökad säkerhet och effektivitet tack vare enkel hantering av verktygsdata",
+         "img": "/fileadmin/_processed_/e/c/csm_zidCode_preview_21aa224ca2.webp"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Kontrollera & mäta",
+     "href": "/se/produkter/kontrollera-maeta",
+     "children": [
+      {
+       "label": "Universella mätmaskiner",
+       "href": "/se/produkter/kontrollera-maeta/universella-maetmaskiner",
+       "children": [
+        {
+         "label": "»geni«",
+         "href": "/se/produkter/kontrollera-maeta/universella-maetmaskiner/geni",
+         "claim": "Beröringsfri mätning och kontroll av skärverktyg",
+         "desc": "Mäter över 100 parametrar med extrem precision och har bevisat sin tillförlitlighet i över 1 000 installationer världen över",
+         "img": "/fileadmin/_processed_/0/d/csm_genius_1_d819caed90.webp"
+        },
+        {
+         "label": "»titan«",
+         "href": "/se/produkter/kontrollera-maeta/universella-maetmaskiner/titan",
+         "claim": "Test- och mätmaskinen i högklassig utförande",
+         "desc": "För experter som vill veta allt – inklusive preparering av skäreggar",
+         "img": "/fileadmin/_processed_/3/b/csm_titan__preview_7e0a3aa7f3.webp"
+        },
+        {
+         "label": "»smartCheck«",
+         "href": "/se/produkter/kontrollera-maeta/universella-maetmaskiner/smartcheck",
+         "claim": "Inställning, mätning och kontroll i en och samma enhet",
+         "desc": "Inställnings- och mätinstrument med extra infallande ljus och utökad bildanalys",
+         "img": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_ca2a5afc34.webp"
+        }
+       ]
+      },
+      {
+       "label": "Processorienterad mätning",
+       "href": "/se/produkter/kontrollera-maeta/processorienterad-maetning",
+       "children": [
+        {
+         "label": "»pomBasic«",
+         "href": "/se/produkter/kontrollera-maeta/processorienterad-maetning/pombasic",
+         "claim": "För noggrann manuell kontroll i tillverkningen",
+         "desc": "Kontrollera över 70 parametrar på verktyget i realtid",
+         "img": "/fileadmin/_processed_/5/f/csm_pombasic__preview_2a4f915bf9.webp"
+        },
+        {
+         "label": "»mμFocus«",
+         "href": "/se/produkter/kontrollera-maeta/processorienterad-maetning/mmfocus",
+         "claim": "2-i-1-enheten för SKP och ytråhet",
+         "desc": "Analyserar topografier och skapar 3D-bilder av verktygsskär",
+         "img": "/fileadmin/_processed_/c/0/csm_myFocus__preview_4b3d285137.webp"
+        }
+       ]
+      },
+      {
+       "label": "Automatiseringslösningar",
+       "href": "/se/produkter/kontrollera-maeta/automatiseringsloesningar",
+       "children": [
+        {
+         "label": "»roboSet 2«",
+         "href": "/se/produkter/automatisering/verktygskontroll/roboset-2",
+         "claim": "Verktygskontroll och dokumentation dygnet runt",
+         "desc": "Verktygshantering för »genius«, »3dCheck«, »threadCheck«, »titan« och »edgeControl«",
+         "img": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_354a6e7ab1.webp"
+        }
+       ]
+      },
+      {
+       "label": "CNC-bearbetning av sten",
+       "href": "/se/produkter/kontrollera-maeta/cnc-bearbetning-av-sten",
+       "children": [
+        {
+         "label": "»conDiaZ«",
+         "href": "/se/produkter/kontrollera-maeta/cnc-bearbetning-av-sten/condiaz",
+         "claim": "Exakt konturmätning på några sekunder",
+         "desc": "Inspektionsutrustning speciellt avsedd för mätning och kontroll av diamantbelagda verktyg för stenbearbetning",
+         "img": "/fileadmin/_processed_/b/1/csm_conDiaz_preview_8d8faa8ebf.webp"
+        },
+        {
+         "label": "»conDress«",
+         "href": "/se/produkter/kontrollera-maeta/cnc-bearbetning-av-sten/condress",
+         "claim": "Rengöring av diamantbelagda slipytor",
+         "desc": "Rengöring och återställande av skärförmågan hos verktyg för stenbearbetning",
+         "img": "/fileadmin/_processed_/8/5/csm_conDress_preview_7966236664.webp"
+        }
+       ]
+      },
+      {
+       "label": "Specialanpassade lösningar",
+       "href": "/se/produkter/kontrollera-maeta/specialanpassade-loesningar",
+       "children": [
+        {
+         "label": "Specialanpassade lösningar",
+         "href": "/se/produkter/kontrollera-maeta/specialanpassade-loesningar/specialanpassade-loesningar",
+         "claim": "Lösningar för just dina behov"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Automatisering",
+     "href": "/se/produkter/automatisering",
+     "children": [
+      {
+       "label": "Verktygslogistik",
+       "href": "/se/produkter/automatisering/verktygslogistik",
+       "children": [
+        {
+         "label": "»coraLogistic«",
+         "href": "/se/produkter/automatisering/verktygslogistik/coralogistic",
+         "claim": "Den automatiserade logistiken på produktionsgolvet",
+         "desc": "För transport mellan verktygslager, verktygsförberedelse och CNC-maskin",
+         "img": "/fileadmin/_processed_/c/0/csm_coraLogistics_preview_4e713a1c9b.webp"
+        },
+        {
+         "label": "»coraMachineLoad«",
+         "href": "/se/produkter/automatisering/verktygslogistik/coramachineload",
+         "claim": "Laster och lossar CNC-maskiner helt automatiskt",
+         "desc": "Precis och punktlig verktygshantering mellan logistikavdelningen och maskinmagasinet",
+         "img": "/fileadmin/_processed_/e/e/csm_coraMaschineLoad_preview_f78fc031d8.webp"
+        }
+       ]
+      },
+      {
+       "label": "Förberedelse av verktyg",
+       "href": "/se/produkter/automatisering/foerberedelse-av-verktyg",
+       "children": [
+        {
+         "label": "»coraMeasure LG«",
+         "href": "/se/produkter/automatisering/foerberedelse-av-verktyg/corameasure-lg",
+         "claim": "Automatisk verktygsmätning",
+         "desc": "Kostnadseffektiv verktygshantering för ZOLLER »venturion«",
+         "img": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_b31336460f.webp"
+        },
+        {
+         "label": "»roboBox«",
+         "href": "/se/produkter/automatisering/foerberedelse-av-verktyg/robobox",
+         "claim": "Modulär automatisering för verktygsverkstaden",
+         "desc": "Upp till sex moduler för rutiner som montering, rengöring, mätning, krympning och mycket mer",
+         "img": "/fileadmin/_processed_/7/a/csm_roboBox_preview_ae1a1aba4b.webp"
+        },
+        {
+         "label": "»micBox«",
+         "href": "/se/produkter/automatisering/foerberedelse-av-verktyg/micbox",
+         "claim": "Effektiv hantering av vändbara skär",
+         "desc": "Sköter vändning, vridning och byte av vändskivor",
+         "img": "/fileadmin/_processed_/6/a/csm_micbox_preview_e6568b3640.webp"
+        }
+       ]
+      },
+      {
+       "label": "Verktygsförsörjning",
+       "href": "/se/produkter/automatisering/verktygsfoersoerjning",
+       "children": [
+        {
+         "label": "»loadBox«",
+         "href": "/se/produkter/automatisering/verktygsfoersoerjning/loadbox",
+         "claim": "Den smarta verktygscentralen",
+         "desc": "Plockar verktyg enligt beställning och förbereder dem för logistikhantering",
+         "img": "/fileadmin/_processed_/5/3/csm_loadBox_preview_d9538dbfe3.webp"
+        }
+       ]
+      },
+      {
+       "label": "Verktygskontroll",
+       "href": "/se/produkter/automatisering/verktygskontroll",
+       "children": [
+        {
+         "label": "»roboSet 2«",
+         "href": "/se/produkter/automatisering/verktygskontroll/roboset-2",
+         "claim": "Verktygskontroll och dokumentation dygnet runt",
+         "desc": "Verktygshantering för »genius«, »3dCheck«, »threadCheck«, »titan« och »edgeControl«",
+         "img": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_354a6e7ab1.webp"
+        }
+       ]
+      },
+      {
+       "label": "Lasermärkning",
+       "href": "/se/produkter/automatisering/lasermaerkning",
+       "children": [
+        {
+         "label": "»roboMark«",
+         "href": "/se/produkter/automatisering/lasermaerkning/robomark",
+         "claim": "Lasermärkningsanläggning",
+         "desc": "Snabb och exakt märkning av dina verktyg",
+         "img": "/fileadmin/_processed_/9/c/csm_roboMark_preview_ecf02129c4.webp"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Krympteknik",
+     "href": "/se/produkter/krympteknik",
+     "children": [
+      {
+       "label": "»powerShrink«",
+       "href": "/se/produkter/krympteknik/powershrink",
+       "claim": "Verktyg krymper",
+       "desc": "Krympningssystemet med optimal energieffektivitet och maximal säkerhet",
+       "img": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_8e31408c1d.webp"
+      },
+      {
+       "label": "»redomatic«",
+       "href": "/se/produkter/krympteknik/redomatic",
+       "claim": "Krympning och mätning",
+       "desc": "Universell inställnings- och mätapparat med inbyggt verktygskrympningssystem",
+       "img": "/fileadmin/_processed_/f/b/csm_redomatic_preview_afc51b7ecf.webp"
+      }
+     ]
+    },
+    {
+     "label": "Verktygshållare",
+     "href": "/se/produkter/verktygshaallare",
+     "children": [
+      {
+       "label": "Verktygsverkstad",
+       "href": "https://myzoller.com/de/de/shop/tooling",
+       "claim": "Över 2 500 verktygshållare",
+       "desc": "Kan som tillval utrustas med »idChip« för ökad processäkerhet tack vare aktuella verktygsdata. Kompatibel med ZOLLER TMS Tool Management Solutions.",
+       "img": "/fileadmin/_processed_/3/f/csm_ToolingSolutions4_preview_6c25bb2bd5.webp"
+      }
+     ]
+    },
+    {
+     "label": "Balanseringsteknik",
+     "href": "/se/produkter/balanseringsteknik",
+     "children": [
+      {
+       "label": "»toolBalancer«",
+       "href": "/se/produkter/balanseringsteknik/toolbalancer",
+       "claim": "Balansera verktyg",
+       "desc": "Balanseringssystemet med den senaste tekniken och ergonomisk design",
+       "img": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_c222571512.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Akademin",
+   "href": "/se/akademin"
+  },
+  {
+   "label": "Evenemang",
+   "href": "/se/evenemang"
+  },
+  {
+   "label": "Företag",
+   "href": "/se/foeretag",
+   "children": [
+    {
+     "label": "Visa översikt",
+     "href": "/se/foeretag"
+    },
+    {
+     "label": "Profil",
+     "href": "/se/foeretag/profil",
+     "children": [
+      {
+       "label": "Om ZOLLER",
+       "href": "/se/foeretag/profil"
+      },
+      {
+       "label": "Referenser",
+       "href": "/se/foeretag/profil/referenser"
+      },
+      {
+       "label": "Partner",
+       "href": "/se/foeretag/profil/partner"
+      },
+      {
+       "label": "Historia",
+       "href": "/se/foeretag/profil/historia"
+      }
+     ]
+    },
+    {
+     "label": "Kontakt",
+     "href": "/se/foeretag/kontakt",
+     "children": [
+      {
+       "label": "Kontaktformulär",
+       "href": "/se/foeretag/kontakt"
+      },
+      {
+       "label": "Platser",
+       "href": "/se/foeretag/kontakt/platser"
+      },
+      {
+       "label": "Smart Factory",
+       "href": "/se/foeretag/kontakt/smart-factory"
+      },
+      {
+       "label": "Kontaktperson",
+       "href": "/se/foeretag/kontakt/kontaktperson"
+      },
+      {
+       "label": "1:1-samtal med en expert",
+       "href": "https://myzoller.com/de/de/expert/booking"
+      },
+      {
+       "label": "Utbildning och kurser",
+       "href": "/se/foeretag/kontakt/utbildning-och-kurser"
+      },
+      {
+       "label": "Nyhetsbrev",
+       "href": "/se/foeretag/kontakt/nyhetsbrev"
+      }
+     ]
+    },
+    {
+     "label": "Karriär",
+     "href": "/se/foeretag/karriaer",
+     "children": [
+      {
+       "label": "Arbeta hos ZOLLER",
+       "href": "/se/foeretag/karriaer"
+      },
+      {
+       "label": "Lediga tjänster",
+       "href": "/se/foeretag/karriaer/lediga-tjaenster"
+      },
+      {
+       "label": "Vanliga frågor",
+       "href": "/se/foeretag/karriaer/vanliga-fraagor"
+      },
+      {
+       "label": "Ansökan",
+       "href": "/se/foeretag/karriaer/ansoekan"
+      }
+     ]
+    },
+    {
+     "label": "Rapporter och berättelser",
+     "href": "/se/foeretag/rapporter-och-beraettelser"
+    },
+    {
+     "label": "Media",
+     "href": "/se/foeretag/media"
+    },
+    {
+     "label": "Hållbarhet",
+     "href": "/se/foeretag/haallbarhet"
+    },
+    {
+     "label": "Kvalitetsledning",
+     "href": "/se/foeretag/kvalitetsledning"
+    },
+    {
+     "label": "Efterlevnad",
+     "href": "/se/foeretag/efterlevnad"
+    }
+   ]
+  }
+ ],
+ "footer_links": [
+  {
+   "label": "Go up",
+   "href": "#body"
+  },
+  {
+   "label": "Systemet",
+   "href": "/se/systemet"
+  },
+  {
+   "label": "Din framgång",
+   "href": "/se/din-framgaang"
+  },
+  {
+   "label": "Lösningar",
+   "href": "/se/loesningar"
+  },
+  {
+   "label": "Produkter",
+   "href": "/se/produkter"
+  },
+  {
+   "label": "Akademin",
+   "href": "/se/akademin"
+  },
+  {
+   "label": "Evenemang",
+   "href": "/se/evenemang"
+  },
+  {
+   "label": "Företag",
+   "href": "/se/foeretag"
+  },
+  {
+   "label": "Service",
+   "href": "/se/foeretag/kontakt/kontaktperson"
+  },
+  {
+   "label": "Media",
+   "href": "/se/foeretag/media"
+  },
+  {
+   "label": "Karriär",
+   "href": "/se/foeretag/karriaer"
+  },
+  {
+   "label": "Lönsamhetskalkylator",
+   "href": "/se/loensamhetskalkylator"
+  },
+  {
+   "label": "Kontaktperson",
+   "href": "/se/foeretag/kontakt/kontaktperson"
+  },
+  {
+   "label": "Skicka e-post",
+   "href": "mailto:info@zoller-se.com"
+  },
+  {
+   "label": "ZOLLER Service",
+   "href": "/se/foeretag/kontakt/kontaktperson"
+  },
+  {
+   "label": "Programuppdateringar",
+   "href": "/se/programuppdateringar"
+  },
+  {
+   "label": "Online-support",
+   "href": "/se/online-support"
+  },
+  {
+   "label": "Verksamhetsområden",
+   "href": "/se/verksamhetsomraaden-1"
+  },
+  {
+   "label": "Anmälan till nyhetsbrev",
+   "href": "/se/foeretag/kontakt/nyhetsbrev"
+  },
+  {
+   "label": "Allmänna inköpsvillkor",
+   "href": "/se/allmaenna-inkoepsvillkor"
+  },
+  {
+   "label": "Finansieringsalternativ",
+   "href": "https://www.goleasing.com/zoller/"
+  },
+  {
+   "label": "LinkedIn",
+   "href": "https://www.linkedin.com/company/zollersolutions"
+  },
+  {
+   "label": "YouTube",
+   "href": "https://www.youtube.com/user/zollertv"
+  },
+  {
+   "label": "Kontakt",
+   "href": "/se/foeretag/kontakt"
+  },
+  {
+   "label": "Dataskydd",
+   "href": "/se/dataskydd"
+  },
+  {
+   "label": "Ansvarsfriskrivning",
+   "href": "/se/ansvarsfriskrivning"
+  },
+  {
+   "label": "Impressum",
+   "href": "/se/impressum"
+  },
+  {
+   "label": "Cookie settings",
+   "href": "#"
+  }
+ ]
+}

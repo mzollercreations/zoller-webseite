@@ -1,0 +1,489 @@
+{
+ "path": "/brusenie-naradia",
+ "url": "/sk/brusenie-naradia",
+ "title": "Brúsenie náradia",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/sk/domovska-stranka"
+  },
+  {
+   "label": "Brúsenie náradia",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/sk/domovska-stranka"
+  },
+  {
+   "label": "Brúsenie náradia",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeuge-schleifen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/sharpening-tools",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/rectificado-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/affuter-les-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/afiar-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/affilatura-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/slipa-verktyg",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeuge-schleifen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/grinding-tools",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/affutage-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E7%A0%94%E3%81%8E",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EC%97%B0%EB%A7%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/grinding-tools",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/afilar-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/afiar-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/7/e/csm_header_grinding_21f044b386.webp",
+     "video": null,
+     "title": "Väčší úspech pre výrobcov nástrojov a brúsne dielne",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c2447",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Rozhrania, namerané hodnoty, brúsne kotúče, údaje o nástrojoch kompatibilné s CNC </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c728",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>Pre výrobcov nástrojov a brúsne prevádzky sú meracie údaje a správa údajov mimoriadne dôležité na dosiahnutie vysokej ekonomickej efektívnosti a zdokumentovanej kvality. Spoločnosť ZOLLER vám ponúka všetko, čo na to potrebujete. </strong></p> <p>So spoločnosťou ZOLLER máte k dispozícii rozhrania pre CAD programy a CNC riadenia, hardvér a softvér pre správu brúsnych kotúčov, meracie a kontrolné zariadenia s presnosťou na mikrometre, ktoré je možné použiť priamo v procese, ako aj bezpečné technológie pre bezchybný prenos údajov o brúsnych kotúčoch a geometrii na CNC brúsky.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c727",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c729",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "count",
+   "title": "Znižuje personálne náklady* až o",
+   "value": "83 %",
+   "note": "*Vzhľadom na kontroly pri trojzmennej prevádzke s jedným zamestnancom na zmenu.",
+   "ftype": "zoller_count-banner",
+   "id": "c722",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Riešenia ZOLLER pre váš proces brúsenia </h2>",
+   "items": [
+    {
+     "href": "/sk/produkty/kontrola-a-meranie/univerzalne-meracie-stroje/genius",
+     "title": "»genius«",
+     "text": "<p>Merá viac ako 100 parametrov s mimoriadnou presnosťou a osvedčil sa už vo viac ako 1000 prípadoch po celom svete</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/d/csm_genius_1_5b500df8d2.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/kontrola-a-meranie/univerzalne-meracie-stroje/titan",
+     "title": "»titan«",
+     "text": "<p>Pre odborníkov, ktorí chcú vedieť všetko – vrátane prípravy rezných hrán</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/3/b/csm_titan__preview_9813f51631.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/sprava-nastrojov/sklad-naradia/toolorganizer",
+     "title": "»toolOrganizer«",
+     "text": "<p>Pre rezné nástroje a drobné súčiastky</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_018ce796c6.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/vyvazovacia-technika/toolbalancer",
+     "title": "»toolBalancer«",
+     "text": "<p>Vyvažovací systém s najmodernejšou technológiou a ergonomickým dizajnom</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/kontrola-a-meranie/meranie-orientovane-na-procesy/mmfocus",
+     "title": "»mμFocus«",
+     "text": "<p>Analyzuje topografie a vytvára 3D zobrazenia rezných hrán nástrojov</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/0/csm_myFocus__preview_b0f99094b2.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/kontrola-a-meranie/meranie-orientovane-na-procesy/pombasic",
+     "title": "»pomBasic«",
+     "text": "<p>Kontrola viac ako 70 parametrov na nástroji priamo počas procesu</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/5/f/csm_pombasic__preview_65ddb1db86.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/automatizacia/kontrola-naradia/roboset-2",
+     "title": "»roboSet 2«",
+     "text": "<p>Manipulácia s nástrojmi pre »genius«, »3dCheck«, »threadCheck«, »titan« a »edgeControl«</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_7361e448c0.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/kontrola-a-meranie/specialne-riesenia/specialne-riesenia/threadcheckcc",
+     "title": "»﻿﻿﻿﻿threadCheck ❘ cc﻿﻿﻿﻿«",
+     "text": "<p>Špičkový model so šiestimi osami CNC a otočným nosičom optiky s viacerými senzormi</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/6/8/csm_threadCheckCC__preview_ffdf543c62.webp",
+      "alt": "",
+      "w": 1563,
+      "h": 1291
+     }
+    },
+    {
+     "href": "/sk/produkty/kontrola-a-meranie/specialne-riesenia/specialne-riesenia/hobcheck",
+     "title": "»hobCheck«",
+     "text": "<p>Viac ako 200 nameraných hodnôt z kamery na priechodné a dopadajúce svetlo, ako aj z meracieho snímača</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/a/csm_hobCheck__preview_63b423e059.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/kontrola-a-meranie/univerzalne-meracie-stroje/smartcheck",
+     "title": "»smartCheck«",
+     "text": "<p>Nastavovacie a meracie zariadenie s doplnkovým dopadajúcim svetlom a rozšírenou analýzou obrazu</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_b44dfc4928.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/sprava-nastrojov/prenos-udajov/zidcode",
+     "title": "»zidCode«",
+     "text": "<p>Väčšia bezpečnosť a efektívnosť vďaka jednoduchému spravovaniu údajov o nástrojoch</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/c/csm_zidCode_preview_538b53ed83.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/sprava-nastrojov/sklad-naradia/keeper",
+     "title": "»keeper«",
+     "text": "<p>Pre kompletné nástroje a držiaky nástrojov</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/a/csm_keeper_preview_1e87de3ba7.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/sprava-nastrojov/sklad-naradia/autolock",
+     "title": "»autoLock«",
+     "text": "<p>Pre kontrolné prostriedky, prevádzkové materiály a väčšie komponenty</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/7/csm_autolock__preview_a71350a53a.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/sprava-nastrojov/sklad-naradia/twister",
+     "title": "»twister«",
+     "text": "<p>Pre súčiastky nástrojov a príslušenstvo</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/1/csm_twister__preview_edf94f7d12.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/sprava-nastrojov/montaz-naradia/toolstation",
+     "title": "»toolStation«",
+     "text": "<p>Pre optimálnu montáž nástrojov</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/f/csm_toolStation_preview_00b81d24f9.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/sprava-nastrojov/montaz-naradia/ztower",
+     "title": "»zTower«",
+     "text": "<p>Na univerzálnu montáž náradia</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/6/csm_zTower_preview_c0c8e3585e.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/sprava-nastrojov/preprava-naradia/toolcart",
+     "title": "»toolCart«",
+     "text": "<p>Pre pohodlný transport náradia</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_3be007bbac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_categorized_pages",
+   "id": "c4775",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Rozhovor s odborníkom",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Rozhovor s odborníkom</h3> <p>Individuálna diskusia o vašich cieľoch a našich nápadoch, ako ich dosiahnuť. Online poradenstvo spoločnosti ZOLLER priamo zo Smart Factory. Dohodnite si termín už teraz. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/e/csm_teaser-2Colume-Media_8e9165a74e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Médiá: ZOLLER v detailoch",
+     "href": "/sk/spolocnost/media",
+     "caption": "<figcaption> <h3>Médiá: ZOLLER v detailoch</h3> <p>Tu nájdete tlačové správy, oznámenia o nových produktoch, účasť na veľtrhoch, články z odborných časopisov, archív noviniek a našich kontaktných partnerov pre médiá. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c738",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/sk/brusenie-naradia",
+ "de_path": "/werkzeuge-schleifen"
+}

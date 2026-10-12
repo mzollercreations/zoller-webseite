@@ -1,0 +1,572 @@
+{
+ "path": "/resitve/nosilci-orodja",
+ "url": "/si/resitve/nosilci-orodja",
+ "title": "Nosilci orodja",
+ "description": "Nosilci orodja",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/si/domaca-stran"
+  },
+  {
+   "label": "Rešitve /",
+   "href": "/si/resitve"
+  },
+  {
+   "label": "Nosilci orodja",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/si/domaca-stran"
+  },
+  {
+   "label": "Rešitve /",
+   "href": "/si/resitve"
+  },
+  {
+   "label": "Nosilci orodja",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/werkzeugaufnahmen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/tooling-solutions",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/portaherramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/fixation-doutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/porta-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/soluzioni-dutensileria",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/verktygshaallare",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/werkzeugaufnahmen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/tooling-solutions",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/porte-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B7%A5%E5%85%B7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/tooling-solutions",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/porta-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/porta-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Nosilci orodja",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Pogosta vprašanja",
+     "href": "/si/resitve/nosilci-orodja/pogosta-vprasanja",
+     "current": false
+    },
+    {
+     "label": "Zbirka informacij",
+     "href": "/si/resitve/nosilci-orodja/zbirka-informacij",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1418",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "product_header",
+   "title": "Rešitve za orodja",
+   "text": "<p>Nosilec orodja kot idealna povezava<br/>za vašo digitalno proizvodnjo</p> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">Kupite zdaj</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/d/c/csm_header_tooling_79126defc9.webp",
+    "alt": "",
+    "w": 1428,
+    "h": 896
+   },
+   "ftype": "zoller_product_header",
+   "id": "c1416",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Zavzemamo se za pametne rešitve </h2>",
+   "body": "<p>Nosilci orodja z ZOLLER »idChip«. Na vašo željo dobavljamo vse nosilce orodja z vgrajenim čipom in kodo DataMatrix. Svoje nosilce orodja lahko kadarkoli nedvoumno identificirate in veste prav vse: število postopkov segrevanja, uporabe na stroju in še veliko več. Obdelava pomembnih funkcionalnih površin na držalu orodja, kot so trdo struženi pritrdilni rameni in utori za vodila, zagotavlja dolgo življenjsko dobo in najvišjo natančnost v procesu obdelave. Trajnostno, ekonomično: to je prihodnost.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/7/csm_zoller_smarte_solutions_171a2dc46c.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1417",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Povezani procesi",
+    "Zagotovljena natančnost",
+    "Vse iz ene roke"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c1419",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> Zanesljivost za največjo natančnost </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/7/6/csm_ts_pin_modul_03_be3bbbf942.webp",
+    "alt": "",
+    "w": 1540,
+    "h": 630
+   },
+   "spots": [
+    {
+     "x": 23.533,
+     "y": 10.226,
+     "label": "izvrtina za čip",
+     "text": "<h3>izvrtina za čip</h3> <h4>Izvrtina za čip</h4> <p>Za namestitev nosilcev podatkov, kot so RFID-čipi ali ZOLLER »idChip,« na držala orodja ZOLLER Tooling. Standardno pri stožcih z votlim držalom HSK-A, strmih stožcih SK in poligonalnih stožcih PSC.</p> <h4>ZOLLER »idChip«</h4> <p>Za nedvoumno identifikacijo vaših držal orodja in za maksimalno življenjsko dobo izdelka. Na vašo željo vam držala orodja dobavimo uravnotežena s trdno vgrajenim čipom tudi neposredno v vašo proizvodnjo.</p> <h4>Tehnologija 3-žlebov</h4> <p>V izvrtini za čip na držalu orodja lepilo zagotavlja oblikovno zaporo za varno in trdno povezavo.</p>"
+    },
+    {
+     "x": 48.478,
+     "y": 43.161,
+     "label": "Štirje navoji",
+     "text": "<h3>Štirje navoji</h3> <h4>Štirje navoji</h4> <p>Za naknadno natančno uravnoteženje standardnih skrčljivih vpenjal.</p>"
+    },
+    {
+     "x": 71.685,
+     "y": 51.793,
+     "label": "Dolga krčljiva oblika",
+     "text": "<h3>Dolga krčljiva oblika</h3> <h4>Dolga krčljiva vgradnja z vstavnim polmerom</h4> <p>Zagotavlja maksimalne sile krčenja zaradi napetosti orodja po celotni dolžini greda.</p>"
+    },
+    {
+     "x": 13.641,
+     "y": 52.722,
+     "label": "vlečno ramo",
+     "text": "<h3>vlečno ramo</h3> <h4>Trdo obdelano vstavno ramo</h4> <p>Zagotavlja optimalno drsenje napenjalnih segmentov po napenjalnem ramenskem delu in odlično napetost v vretenu. Rezultat tega je osrednji izstopek na napenjalnem ramenskem delu največ 10 μm (5-krat natančnejši od DIN).</p>"
+    },
+    {
+     "x": 82.12,
+     "y": 56.972,
+     "label": "Tolerance pri krožni natančnosti",
+     "text": "<h3>Tolerance pri krožni natančnosti</h3> <h4>Tolerance pri krožnem gibanju</h4> <p>Rešitve za orodja zagotavljajo rotacijsko natančnost &lt; 3 µm.</p>"
+    },
+    {
+     "x": 24.674,
+     "y": 82.47,
+     "label": "Natančno uravnoteženo",
+     "text": "<h3>Natančno uravnoteženo</h3> <h4>Fino uravnoteženo</h4> <p><strong>Vsi nosilci orodja ZOLLER Tooling so natančno uravnoteženi</strong> – G2,5 pri 25.000 min<sup>-1</sup> ali maks. preostala neuravnoteženost ≤ 1 gmm. Posledica tega je mirno delovanje vretena med obdelavo, ki ščiti ležaje. Koristite od daljše življenjske dobe vretena, optimalne površine obdelovanca in daljše življenjske dobe orodja.</p>"
+    },
+    {
+     "x": 8.533,
+     "y": 36.919,
+     "label": "utori za pogonske elemente",
+     "text": "<h3>utori za pogonske elemente</h3> <h4>Urejen z utori za vodila</h4> <p>Zagotavljajo 100-odstotno osrednjo lego utorov, popoln vgrad v vreteno ter odličen prenos navora.</p>"
+    },
+    {
+     "x": 23.478,
+     "y": 36.521,
+     "label": "izpustna površina",
+     "text": "<h3>izpustna površina</h3> <h4>Površina za izmet, obdelana s trdo obdelavo</h4> <p>Zagotavlja varno sprostitev HSK-nosilca orodja pri menjavi orodja.</p>"
+    },
+    {
+     "x": 75.707,
+     "y": 75.697,
+     "label": "»coolTool«",
+     "text": "<h3>»coolTool«</h3> <h4>»coolTool«</h4> <p>Za popolnoma ohlajeno rezilo orodja, optimalno usmerjanje odrezkov in preprečevanje kopičenja odrezkov na rezilu orodja. Poševna namestitev lukenj za hladilno tekočino zagotavlja, da hladilna tekočina pride tja, kjer je potrebna: na rezilo orodja. S tem dosežete optimalne rezultate obdelave in podaljšate življenjsko dobo vaših orodij.</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c1420",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Tipično za ZOLLER – vse iz ene roke </h2>",
+   "body": "<p>Podjetje ZOLLER pri razvoju novih izdelkov vedno gre korak dlje in s tem ustvarja rešitve za prihodnost. Tega načela se že desetletja držimo ne le pri naših merilnih strojih. Pripravite se na digitalne zahteve prihodnosti in se pripravite na pametno tovarno prihodnosti – z našimi rešitvami ZOLLER Tooling Solutions.</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/IRXINmkUTkk?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Tooling Solutions – Tooling Heroes"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1421",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Rešitve ZOLLER za učinkovito proizvodnjo </h2>",
+   "body": "<p>Izkoristite naše rešitve ZOLLER Tooling Solutions za učinkovit proizvodni proces. Ponujamo vam celoten program zmogljivih in visoko natančnih sistemov za vpenjanje orodja za vaše obdelovalne naloge. Rešitve ZOLLER Tooling Solutions poleg tega predstavljajo idealno povezavo za vašo digitalno proizvodnjo.</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/xmsnaIc1TvI?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Tooling Solutions – The Perfect Interface for Your Digital Manufacturing"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1422",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "66-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Več kot 2000 posnetkov </h2>",
+      "body": "<p>ZOLLER Tooling Solutions vam ponuja celovito ponudbo držal za orodja, ki ustrezajo vsem zahtevam vašega procesa obdelave. Vsa naša držala stalno presegajo zahteve standarda DIN.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2063",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "none"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-2cols",
+   "id": "c2064",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/a/7/csm_ts_schrumpffutter_06c2dea98b.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Shrink fit chuck",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:shrink-fit-holder",
+     "caption": "<figcaption> <h3>Shrink fit chuck</h3> <p>For clamping tools with cylindrical shank made of carbide or HSS.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/7/csm_ts_spannzangenfutter_eb7fca68dc.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Collet chuck",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:collet-chuck",
+     "caption": "<figcaption> <h3>Collet chuck</h3> <p>For clamping tools with cylindrical shank in ER collets.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_ts_weldonaufnahmen_9c7a361d17.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Weldon mounts",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:endmill-holder-weldon",
+     "caption": "<figcaption> <h3>Weldon mounts</h3> <p>Ideally suited for the use of tools without internal coolant supply.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_ts_whistle-notch-aufnahmen_b74918fa98.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Whistle-Notch recordings",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:endmill-holder-whistle-notch",
+     "caption": "<figcaption> <h3> Whistle-Notch recordings</h3> <p>For clamping tools with cylindrical shank.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_ts_fuer_einschraubfraeser_e7d8ee83f6.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "For screw-in milling",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:thread-shank-adapter",
+     "caption": "<figcaption> <h3>For screw-in milling</h3> <p>For clamping tools with cylindrical shank.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/2/csm_ts_messerkopfaufnahmen_b76fed0d9d.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Cutter head holders",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:shell-mill-holder",
+     "caption": "<figcaption> <h3>Cutter head holders</h3> <p>For holding milling cutters with cross groove, with coolant supply to the cutting edges.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/a/csm_ts_kombidorne_48f13a98c4.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Combination mandrels",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:combi-shell-mill-holder",
+     "caption": "<figcaption> <h3>Combination mandrels</h3> <p>For holding milling cutters with longitudinal and transverse grooves.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/f/csm_ts_morsekegelaufnahme_6909dcbe8a.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Morse code recordings",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:morse-taper-adapter",
+     "caption": "<figcaption> <h3>Morse code recordings</h3> <p>For holding Morse taper tools with drive-out tabs to DIN 2288.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/2/csm_ts_kurzbohrfutter_3c9582d0e0.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Short drill chuck",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:drill-chuck",
+     "caption": "<figcaption> <h3>Short drill chuck</h3> <p>For clamping tools with cylindrical shank.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/5/1/csm_ts_hawk_eye_07abe1a0d5.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "HAWK EYE",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:hawk-eye",
+     "caption": "<figcaption> <h3>HAWK EYE</h3> <p>HAWK EYE® HPC precision ER collet chuck</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/2/csm_ts_er_collet_a62fe34c96.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "ER Collets",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:er-collet",
+     "caption": "<figcaption> <h3>ER Collets</h3> <p>ER &amp; ER «Mini» Collet chuck</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/a/b/csm_Schrumpfverlaenerungen_category_0b63e58178.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Shrink extensions",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:shrink-fit-extension",
+     "caption": "<figcaption> <h3>Shrink extensions</h3> <p>For holding tools with cylindrical shank.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/c/csm_ts_accessories_651f0aa893.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Accessories",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:accessories",
+     "caption": "<figcaption> <h3>Accessories</h3> <p>Sealing washers, clamping nuts</p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c1912",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Zdaj ste na vrsti – izberite si! </h2>",
+   "body": "<p>V naši spletni trgovini je zdaj na voljo celoten izbor sistemov za vpenjanje orodja. Enostavno, hitro in udobno poiščite svoj idealni nosilec orodja ter takoj uporabite digitalni dvojnik, ki je tam na voljo, v svojem sistemu CAM in sistemu za upravljanje orodja.</p> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">V trgovino z orodji</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/d/csm_zum_myzoller_shop_704443f1bc.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1423",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/si/resitve/nosilci-orodja",
+ "de_path": "/solutions/werkzeugaufnahmen"
+}

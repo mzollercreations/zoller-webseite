@@ -1,0 +1,509 @@
+{
+ "path": "/software/add-on-zresources",
+ "url": "/ja/software/add-on-zresources",
+ "title": "Add-on »z.Resources«",
+ "description": "Add-on »z.Resources« - すべての追加設備を管理する - 中枢機能",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ja/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8"
+  },
+  {
+   "label": "製品 /",
+   "href": "/ja/%E8%A3%BD%E5%93%81"
+  },
+  {
+   "label": "ツール管理 /",
+   "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86"
+  },
+  {
+   "label": "Software /",
+   "href": "/ja/software"
+  },
+  {
+   "label": "Add-on »z.Resources«",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ja/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8"
+  },
+  {
+   "label": "製品 /",
+   "href": "/ja/%E8%A3%BD%E5%93%81"
+  },
+  {
+   "label": "ツール管理 /",
+   "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86"
+  },
+  {
+   "label": "Software /",
+   "href": "/ja/software"
+  },
+  {
+   "label": "Add-on »z.Resources«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/software/add-on-zresources",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/software/add-on-zresources",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/software/add-on-zresources",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/software/add-on-zresources",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/software/add-on-zresources",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/software/add-on-zresources",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/software/add-on-zresources",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/software/add-on-zresources",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/software/add-on-zresources",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/software/add-on-zresources",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/software/add-on-zresources",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/software/add-on-zresources",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/software/add-on-zresources",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/software/add-on-zresources",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/software/add-on-zresources",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Software",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ja/software",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "»TMS Core«",
+     "href": "/ja/software/tms-core",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Stock«",
+     "href": "/ja/software/add-on-zstock",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.CAM Integration«",
+     "href": "/ja/software/add-on-zcam-integration",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Resources«",
+     "href": "/ja/software/add-on-zresources",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Shopfloor«",
+     "href": "/ja/software/add-on-zshopfloor",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Connectivity«",
+     "href": "/ja/software/add-on-zconnectivity",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Integration«",
+     "href": "/ja/software/add-on-zintegration",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c164326",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> 中枢機能 </h3> <h1> Add-on »z.Resources« </h1>",
+   "body": "<p>ZOLLER TMSは、<strong>アドオン</strong>「<strong>»z.Resources«</strong>」により、すべての追加設備を管理します。関連するすべての設備は部品に直接紐付けられ、セットアップシートに自動的に表示されます。これには、検査機器、治具に加え、オプションとしてNCプログラム管理機能も含まれます。 オプションのNCプログラム管理機能により、部品および機械ごとにNCプログラムを一元的に保存・バージョン管理できるため、いつでも最新の正しいプログラムを利用可能です。</p> <p><a class=\"btn\" href=\"/ja/%E4%BC%81%E6%A5%AD/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B\">今すぐお問い合わせ</a> <a href=\"https://myzoller.com/de/de/expert/booking/\" rel=\"noopener\" target=\"_blank\">専門家との1対1の相談</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/9/csm_zResources_product_64dda2209d.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 852
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c164375",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "すべての作業用資材を一元管理するシステム ",
+    "各使用履歴の完全なトレーサビリティ ",
+    "すべての作業用資材をセットアップシートに直接集約"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c164380",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "table",
+   "header": "<h2> Add-on »z.Resources« </h2>",
+   "table": "<table> <tbody> <tr> <td> </td> <td class=\"text-center\"> Webブラウザ </td> <td class=\"text-center\"> デスクトップ </td> </tr> <tr> <td> 装置 </td> <td class=\"text-center\"> ● </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> 検査機器 </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> 部品 </td> <td class=\"text-center\"> ● </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> NCインタプリタ </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ⦿ </td> </tr> <tr> <td> NCプログラム管理 </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ⦿ </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c164385",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p>● 基本 ⦿ オプション <strong>―</strong> 提供なし </p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c164424",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/e/csm_TMS_Vorrichtungsverwaltung_24168c9a26.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>校正間隔が記録された装置管理</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/d/c/csm_TMS_Pruefmittelverwaltung_32e31ed320.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>設定シートの測定機器管理および校正間隔の監視</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/c/csm_TMS_Teileverwaltung_c64f2f5374.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>セットアップシート、工具、製造時間を用いた部品およびアセンブリの管理</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_TMS_NC-Programmverwaltung_6190c9d218.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>バージョン管理機能を含むNCプログラム管理、および機械との双方向データ転送</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164390",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Add-on »z.Resources« </h3> <h2> 継続性 </h2>",
+   "body": "<p class=\"large-text\">このアドオンにより、セットアップ時に必要なリソースがすべて即座に利用可能になります。検索や確認作業、遅延は一切発生しません。</p> <p class=\"large-text\">不適切な機材、古いプログラム、あるいはリソースの不足といった事態を未然に防ぎます。</p> <p class=\"large-text\">このアドオンにより、リソースの使用状況はすべて漏れなく記録され、追跡可能になります。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/d/csm_zResources_benefit_EN_61a8b573b5.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c164395",
+   "bg": "image",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/0/csm_zResources_Feature_01_a0a8c19750.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "title": "直接アクセス",
+     "caption": "<figcaption> <h3>直接アクセス</h3> <p>実行中のプロセスからの直接アクセス</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/6/csm_zResources_Feature_02_637de1b463.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "title": "一元的に組織化されている",
+     "caption": "<figcaption> <h3>一元的に組織化されている</h3> <p>治具、検査機器、および装置を一元管理</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164400",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> アドオン「»z.Resources」«用のZOLLER製オプションハードウェア一覧 </h2>",
+   "items": [
+    {
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%80%89%E5%BA%AB/toolorganizer",
+     "title": "»toolOrganizer«",
+     "text": "<p>切削工具および小部品用</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_018ce796c6.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%80%89%E5%BA%AB/autolock",
+     "title": "»autoLock«",
+     "text": "<p>試験機器、消耗品、および大型部品について</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/7/csm_autolock__preview_a71350a53a.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "",
+     "title": "»highTower«",
+     "text": "<p>»highTowerは、«体系的な工具保管と効率的なプロセスを実現します</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/0/csm_Teaser_hightower_preview_177dbd110e.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "",
+     "title": "»idLabel«",
+     "text": "<p>»idLabel«で、関連するすべての工具データを一目で確認</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/6/csm_Teaser_idlabel_preview_ab0ad5993e.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c164404",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "large"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/9/csm_TMS_teaser_46de18cb11.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "工具管理ソフト：そのメリット",
+     "href": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/toolmanagement",
+     "caption": "<figcaption> <h3>工具管理ソフト：そのメリット</h3> <p>ZOLLERの工具管理ソフトが、どのように生産性を即座に向上させるかをご覧ください。工具データを活用することで、プロセスがより迅速かつ安全に進行します。これには、お使いの機械のための衝突防止機能も含まれています。 </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164343",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ja/software/add-on-zresources",
+ "de_path": "/produkte/toolmanagement/software/add-on-zresources"
+}

@@ -1,0 +1,434 @@
+{
+ "path": "/organizacija-orodja",
+ "url": "/si/organizacija-orodja",
+ "title": "Organizacija orodja",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/si/domaca-stran"
+  },
+  {
+   "label": "Organizacija orodja",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/si/domaca-stran"
+  },
+  {
+   "label": "Organizacija orodja",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeugorganistation",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-organization",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/organizacion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/organisation-des-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/organizacao-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/organizzazione-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verktygsorganisation",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeugorganistation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/tool-organization",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/organisation-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%95%B4%E7%90%86",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EC%A0%95%EB%A6%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/tool-organization",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/organizacion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/organizacao-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/7/e/csm_toolorga_header_d09c850eda.webp",
+     "video": null,
+     "title": "Učinkovita organizacija orodja",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7972",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">Boljša organizacija orodja ne zagotavlja le vidnega reda v podjetju – konkretno tudi skrajša izpad strojev in s tem poveča učinkovitost vaše proizvodnje. Kako to dosežete?</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7974",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Organizacija orodja je več kot le pospravljanje </h2>",
+   "body": "<p>V resničnem življenju in praksi delavnice je nekaj nereda skoraj neizogibno – vendar pa je pri tem v veliki meri odločilno, ali je vsakemu orodju dodeljen lasten prostor, kamor ga je mogoče in treba odložiti.</p> <p>To je v bistvu bistvo vsake organizacije orodja: da je vsak del orodja vedno mogoče najti. Če se lahko izognete iskanju orodja, si prihranite ne le jezo in frustracije, temveč tudi veliko delovnega časa in živcev. Vaši stroji ne morajo čakati na naslednjo uporabo, orodje ne leži neuporabno okoli – in svoje delo lahko opravljate bistveno učinkoviteje.</p> <p>Pri ZOLLER si prizadevamo za celosten, obsežen pristop k organizaciji orodja. Zato našo <strong>modularno zasnovano programsko opremo</strong> za upravljanje orodja povezujemo s <strong>pametnimi skladiščnimi sistemi</strong>, ki skupaj poskrbijo, da imate vedno pregled nad tem, kje se določeno orodje trenutno nahaja – in v kakšnem stanju je, ali je na voljo še dovolj nadomestnih delov, ali je treba naročiti zaloge in še veliko več.</p> <p>In ker je orodje seveda namenjeno določeni nalogi, sodi v celovito, holistično organizacijo orodja tudi digitalni, brezhibni in brezžični <strong>prenos podatkov o orodju</strong> na stroj. Da se lahko osredotočite na bistveno: učinkovito in uspešno proizvodnjo vaših komponent.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7975",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Manj izpadov strojev: učinkovita izraba časa in delovne sile",
+    "Vedno popoln pregled nad lokacijo in stanjem vseh orodij",
+    "Brez prekinitev v oskrbi: nadzor nad zamenjavami in ponovnimi naročili"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c7976",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Programska oprema za upravljanje orodij za vse potrebe </h2>",
+   "body": "<p><strong>Učinkovito upravljanje orodij je predvsem upravljanje podatkov.</strong> </p> <p>Začne se z vnosom podatkov o orodjih za posamezne komponente, kot sta rezalni material in teža, v nastavljiv ali merilni aparat ter njihovo shranjevanjem v sistem. Skupaj z nastavitvenimi listi in drugimi informacijami je tako vse, kar morate vedeti o orodju, zbrano na enem mestu in kadarkoli na voljo vsem zaposlenim.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/9/csm_digital_durchstarten_webTMS_16feff8d28.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7977",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-33-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Enostavno upravljanje orodja </h2>",
+      "body": "<p>Z našo programsko opremo <strong>TMS Tool Management Solutions</strong> vam že v okviru paketa BRONZE ponujamo vse, kar potrebujete za upravljanje orodij. To vključuje zlasti naslednje funkcije:</p><ul><li>Uvoz podatkov o orodjih iz katalogov proizvajalcev ali iz oblaka – varno, brez napak in hitro</li><li>Dostop do podatkov o orodjih z mobilnih naprav</li><li>Popolna integracija vašega merilnega in nastavljivnega naprave ZOLLER</li><li>Vsako nastavitev orodja je mogoče shraniti in takoj priklicati</li></ul><p><a class=\"btn\" href=\"/si/izdelki/upravljanje-orodij/tms-resitve-za-upravljanje-orodij/programski-paketi/bronze-cad/cam-modul\">Izvedite vse o programskem paketu BRONZE</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/d/1/csm_software_bronze_19edbebfe9.webp",
+        "alt": "",
+        "w": 680,
+        "h": 429
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7980",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Organizacija orodja se v skladišču ne konča </h2>",
+      "body": "<p><strong>Kje točno se nahaja to orodje in v kakšnem stanju je?</strong> Naslednjo stopnjo upravljanja z orodjem boste dosegli, če boste digitalno organizirali in optimizirali tudi upravljanje skladišča ter tako imeli pregled nad <strong>zalogami</strong> orodja, usmerjen v potrebe in kakovost. Konkretno to pomeni:</p><ul><li>skrajšajo se časi iskanja,</li><li>skrajšajo se časi priprave in</li><li>nastavitev orodja poteka skoraj samodejno.</li></ul><p>Naš paket SILVER vsebuje vse te funkcionalnosti in vam omogoča, da ne le spremljate lokacijo in uporabo posameznih orodij, ampak tudi učinkovito in pravočasno poskrbite, da je na voljo dovolj delov in nadomestnih delov. To pomeni popolno integracijo tudi nadzora <strong>orodij za nadzor kakovosti in analizo obrabe</strong>.</p> <p><a class=\"btn\" href=\"/si/izdelki/upravljanje-orodij/tms-resitve-za-upravljanje-orodij/programski-paketi/silver-organizacija-poslovanja\">Izvedite vse o programskem paketu SILVER</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/e/0/csm_software_silver_d66477a30d.webp",
+        "alt": "",
+        "w": 680,
+        "h": 429
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7981",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Organizacija orodja: nova različica </h2>",
+      "body": "<p>Standard GOLD za organizacijo orodij ta v celoti vključi v vse poslovne procese vašega podjetja in vam omogoča, da v realnem času preverite, kako učinkovita je bila uporaba orodja in kakšni so bili s tem povezani stroški. Na ta način pridobite <strong>popoln nadzor nad stroški in preglednost</strong> v vašem sistemu upravljanja z orodji skozi celotno procesno verigo.</p> <p>Ker sistem za upravljanje orodij dokumentira, kako so bila posamezna orodja uporabljena pri različnih naročilih, lahko pridobite statistične podatke, ki vam omogočajo natančen vpogled v učinkovitost vašega dela. Vse to vam omogoča GOLD-paket naše programske opreme, poleg tega pa še:</p><ul><li>Največjo učinkovitost upravljanja podatkov o orodjih</li><li>Sistematično upravljanje proizvodnih naročil in nastavnih listov</li><li>Integrirano upravljanje življenjske dobe</li><li>Izbirno vključevanje v sistem naročanja, vključno z upravljanjem dobaviteljev</li></ul><p><a class=\"btn\" href=\"/si/izdelki/upravljanje-orodij/tms-resitve-za-upravljanje-orodij/programski-paketi/gold-upravljanje-trgovine\">Izvedite vse o programskem paketu GOLD</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/e/a/csm_software_gold_79cf4e6793.webp",
+        "alt": "",
+        "w": 680,
+        "h": 429
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7982",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-33-33-33",
+   "id": "c7979",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Upravljanje orodja, ki vam olajša delo </h2>",
+   "body": "<p><strong>Vsaka organizacija orodja je dobra le toliko, kolikor vam in vašim zaposlenim dolgoročno olajša delo.</strong> Naša programska oprema <strong>TMS Tool Management Solutions</strong> je zasnovana tako, da popolnoma in brez težav <strong>sodeluje z obstoječimi bazami podatkov, stroji, skladiščnimi sistemi in merilnimi napravami</strong>. Da vam olajša delo, poveča vašo učinkovitost in poenostavi življenje v delavnici.</p> <p>Zaradi modularne zgradbe naših programskih paketov imate možnost, da se odločite izključno za tiste funkcionalnosti, ki jih resnično potrebujete. In kadarkoli lahko dodate nove funkcije, če želite svojo organizacijo orodja dvigniti na višjo raven.</p> <p>Obrnite se na nas, z veseljem vam bomo svetovali glede vseh podrobnosti in pripravili ponudbo po meri!</p> <p>Več o webTMS</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/6/csm_webTMS_devices_9783f65f1d.webp",
+     "alt": "",
+     "w": 1484,
+     "h": 1066
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7983",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Orodje, pametno pospravljeno </h2>",
+   "body": "<p>Naše pametne omare za skladiščenje so odlična dopolnitev k upravljanju orodja prek programske opreme – saj omogočajo avtomatiziran in pregleden neposreden dostop do zahtevanega orodja.</p> <p>Poleg tega so v pomoč pri upravljanju in organizaciji vsega, kar potrebujete za vsakdanje delo v delavnici. V različnih modelih naših pametnih omar lahko sistematično shranjujete najrazličnejše materiale – od orodja in komponent prek potrošnega materiala do dodatkov ali merilnih in preskusnih sredstev. Se bliža uporaba orodja? V naših sistemih za shranjevanje boste takoj našli, kar potrebujete.</p> <p>Od <a class=\"link-arrow\" href=\"/si/izdelki/upravljanje-orodij/montaza-orodja/toolstation\">delovne</a> mize z vsem udobjem (in prostorom) za montažo orodja, na kateri so vsi sestavni deli pri roki, prek prilagodljivega vozička za <a class=\"link-arrow\" href=\"/si/izdelki/upravljanje-orodij/prevoz-orodja/toolcart\">orodje</a> s prostorom za več kot 100 različnih orodij do velike <a class=\"link-arrow\" href=\"/si/izdelki/upravljanje-orodij/skladisce-orodja/keeper\">omare za kompletna orodja</a> in adapterje – vsaka od možnosti shranjevanja zagotavlja optimalno shranjevanje in upravljanje vaših orodij in materialov.</p> <p>V našem pregledu boste našli vse Smart Cabinets in rešitve za skladiščenje – zagotovo boste našli tudi primerno različico za svojo delavnico!</p> <p>Vse o naših sistemih za shranjevanje</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/5/csm_toolmanagement_02_7e37951c35.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7984",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Upravljanje orodij: vaše prednosti",
+     "caption": "<figcaption> <h3>Upravljanje orodij: vaše prednosti</h3> <p>Preberite, kako lahko sistem za upravljanje orodij podjetja ZOLLER takoj poveča vašo produktivnost. S podatki o orodjih potekajo procesi hitreje in varneje – vključno z zaščito pred trki za vaše stroje. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Pogovor s strokovnjakom",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Pogovor s strokovnjakom</h3> <p>Osebni pogovor o vaših ciljih in naših idejah za njihovo uresničitev. Spletno svetovanje podjetja ZOLLER neposredno iz pametne tovarne. Dogovorite se za termin že danes. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/si/organizacija-orodja",
+ "de_path": "/werkzeugorganistation"
+}

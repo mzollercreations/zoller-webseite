@@ -1,0 +1,426 @@
+{
+ "path": "/vallalat/karrier",
+ "url": "/hu/vallalat/karrier",
+ "title": "Karrier",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Vállalat /",
+   "href": "/hu/vallalat"
+  },
+  {
+   "label": "Karrier",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Vállalat /",
+   "href": "/hu/vallalat"
+  },
+  {
+   "label": "Karrier",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/karriere",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/carrera-profesional",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/carriere",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/carreira",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/carriera",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/karriaer",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/karriere",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/career",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/carriere",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EC%B1%84%EC%9A%A9-%EC%A0%95%EB%B3%B4",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/career",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/carrera-profesional",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/carreira",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/2/8/csm_carreer_header_0aa181ca44.webp",
+     "video": null,
+     "title": "Karrier a ZOLLER-nél",
+     "kicker": "",
+     "text": "<p>Világszerte vezető szerepet tölt be, családias légkör – a karriered kezdete a ZOLLER-nél.</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4050",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "subnav",
+   "title": "Karrier",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Állásajánlatok",
+     "href": "/hu/vallalat/karrier/allasajanlatok",
+     "current": false
+    },
+    {
+     "label": "GYIK",
+     "href": "/hu/vallalat/karrier/gyik",
+     "current": false
+    },
+    {
+     "label": "Jelentkezés",
+     "href": "/hu/vallalat/karrier/jelentkezes",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c4066",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Szakértőket keresünk! </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c4048",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>Munka a családi vállalkozásban:</h4> <p>A ZOLLER egy családi vállalkozás, amely innovatív beállító és mérőeszközöket, valamint a megmunkáló szerszámok méréséhez, ellenőrzéséhez és kezeléséhez szükséges szoftvereket és a hozzájuk tartozó automatizálási megoldásokat fejleszt és gyárt. Technológiai innovációval, magas színvonalú minőségtudattal és aktív szolgáltatási szemlélettel biztosítottuk helyünket a világ élvonalában. Sikerünket a stuttgarti Pleidelsheimben található központi székhelyünkön dolgozó mintegy 400 ZOLLER-alkalmazottnak, valamint a világszerte 85 helyszínen működő fióktelepek és képviseletek több mint 400 munkatársának köszönhetjük.</p> <h4>Izgalmas feladatkörök:</h4> <p>Kihívásokkal teli és változatos feladatokat, rövid döntési utakat, valamint a munkába való bekapcsolódás és a továbbfejlődés lehetőségeit kínáljuk. Akár képzésben részt vevőként, akár tapasztalt munkatársként – csatlakozzon a ZOLLER csapatához.</p> <h4>Nemzetközi környezet:</h4> <p>A ZOLLER-nél az ügyfélközelség nem csupán ígéret, hanem valóság: 62 országban vagyunk jelen helyi értékesítési és szervizhálózattal.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c4049",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4047",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Képzés a ZOLLER-nél </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c26164",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<ul><li>Alkalmazásfejlesztő informatikus</li><li>Rendszerintegrációs informatikus</li><li>Ipari kereskedelmi szakember</li><li>Mechatronikus</li><li>Műszaki terméktervező – gép- és berendezésgyártás</li></ul><p><a href=\"/fileadmin/01_Pages/Company/Career/DE/ZOLLER_BR_Karriere_BRKARRIERE_00_DE.pdf\" rel=\"noopener\" target=\"_blank\"><img alt=\"\" height=\"263\" loading=\"lazy\" src=\"/fileadmin/01_Pages/Company/Career/DE/ZOLLER_Ausbildung.jpg\" title=\"\" width=\"150\"/></a></p> <p><a class=\"link-arrow\" href=\"/fileadmin/01_Pages/Company/Career/DE/ZOLLER_BR_Karriere_BRKARRIERE_00_DE.pdf\" rel=\"noopener\" target=\"_blank\">Képzési brosúra (PDF)</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c26172",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c26156",
+   "bg": "lightgray",
+   "space": {
+    "before": "extra-small",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Kettős képzés a ZOLLER-nél </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c26188",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<ul><li>Adattudomány és mesterséges intelligencia</li><li>Informatika</li><li>Informatika – Információs technológia</li><li>Gépgyártás – tervezés és fejlesztés</li><li>Gazdasági mérnöki tudomány – Általános gazdasági mérnöki tudomány</li></ul>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c26196",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c26180",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/0/csm_teaser_profile_bf2693bd59.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "A ZOLLER-ről",
+     "href": "/hu/vallalat/profil",
+     "caption": "<figcaption> <h3>A ZOLLER-ről</h3> <p>A ZOLLER névhez szorosan kapcsolódik egy több mint 800 fős csapat, számos innováció, valamint egy családi vállalkozásra jellemző gyakorlatiasság.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/4/csm_teaser_media_f7299d9c84.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Média",
+     "href": "/hu/vallalat/media",
+     "caption": "<figcaption> <h3>Média</h3> <p>Itt megtalálhatja a sajtóközleményeket, termékbejelentéseket, kiállítási részvételeket, szaklapokban megjelent cikkeket, valamint a<br/> hírarchívumot.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/b/csm_teaser_reports_90bbbeda0a.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Jelentések és cikkek",
+     "href": "/hu/vallalat/jelentesek-es-toertenetek",
+     "caption": "<figcaption> <h3>Jelentések és cikkek</h3> <p>Mi történik a ZOLLER-nél, és mit mondanak ügyfeleink a ZOLLER Solutions használatáról? Itt találja a legfrissebb híreket.</p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c26310",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/hu/vallalat/karrier",
+ "de_path": "/unternehmen/karriere"
+}

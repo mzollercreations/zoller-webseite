@@ -1,0 +1,544 @@
+{
+ "path": "/밀링",
+ "url": "/kr/%EB%B0%80%EB%A7%81",
+ "title": "밀링",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "밀링",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "밀링",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/fraesen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/milling",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/fresado",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/fraisage",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/fresagem",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/fresatura",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/fraesning",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/fraesen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/milling",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/fraisage",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%95%E3%83%A9%E3%82%A4%E3%82%B9%E5%8A%A0%E5%B7%A5",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EB%B0%80%EB%A7%81",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/milling",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/fresado",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/fresagem",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/7/a/csm_header_milling_9977afc8ee.webp",
+     "video": null,
+     "title": "밀링 업체의 성공 증대",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c2449",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> CAM-to-Part: 마이크로미터 <br/>단위의 정밀한 측정과 오류 없는 데이터 </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c775",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>ZOLLER의 제품 포트폴리오는 정밀한 조정 및 측정 장비, 공구 관리를 위한 포괄적인 하드웨어 및 소프트웨어, 그리고 공구 데이터를 오류 없이 전송할 수 있는 솔루션을 제공합니다. </strong></p> <p>경제적인 밀링 공정은 마이크로미터 단위의 정밀도와 시간 및 비용 면에서의 높은 효율성을 요구합니다. 정밀성은 절삭 공구의 다양한 형상을 측정하는 단계에서 시작됩니다. 최상의 효율성을 달성하려면 공구를 신속하게 사용할 수 있어야 하며, 모든 단계에서 최신 공구 데이터를 즉시 확인할 수 있어야 합니다. ZOLLER와 함께라면 밀링과 관련된 모든 공구 공정을 성공적으로 수행할 수 있습니다.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c774",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c776",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "count",
+   "title": "공구 조정 및 측정을 통해 실현 가능한 연간 비용 절감 효과*",
+   "value": "15000유로",
+   "note": "*연간 200일 근무, 하루 1교대 근무 조건에서, 툴 교체 횟수 20회(각 3분 소요), 기계 가동 시간당 75유로를 기준으로 산출되었습니다.",
+   "ftype": "zoller_count-banner",
+   "id": "c769",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> 절삭 가공 업체를 위한 ZOLLER 솔루션 </h2>",
+   "items": [
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94",
+     "title": "공구 홀더",
+     "text": "<p>»idChip이« 탑재된 공구 홀더는 디지털 제조를 위한 완벽한 인터페이스입니다.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/8/csm_ToolingSolutions_preview_7b8d14560e.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EC%88%98%EC%A7%81%ED%98%95-%EC%9E%A5%EB%B9%84/smile",
+     "title": "»smile«",
+     "text": "<p>표준 공구를 위한 견고한 μm급 정밀 기본형 장비</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EC%88%98%EC%A7%81%ED%98%95-%EC%9E%A5%EB%B9%84/venturion",
+     "title": "»venturion«",
+     "text": "<p>다양한 옵션으로 완성하는 탁월한 공구 설정 및 측정</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/d/csm_venturion_preview_cdaca59ebb.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EC%88%98%ED%8F%89%ED%98%95-%EC%9E%A5%EB%B9%84/hyperion",
+     "title": "»hyperion«",
+     "text": "<p>선삭 생산 현장을 위한 수평형 공구 프리세터</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/8/csm_hyperion_preview_37118ddf5b.webp",
+      "alt": "zoller hyperion",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EB%A7%9E%EC%B6%A4%ED%98%95-%EC%86%94%EB%A3%A8%EC%85%98/%EB%A7%9E%EC%B6%A4%ED%98%95-%EC%86%94%EB%A3%A8%EC%85%98/phoenix",
+     "title": "»phoenix«",
+     "text": "<p>인두 게이지 원리에 따라 모든 매개변수를 완전 자동으로 측정합니다</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/8/d/csm_phoenix_preview_66edf5e474.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/toolorganizer",
+     "title": "»toolOrganizer«",
+     "text": "<p>절삭 공구 및 소형 부품용</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_018ce796c6.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EC%88%98%EC%B6%95-%EA%B8%B0%EC%88%A0/powershrink",
+     "title": "»powerShrink«",
+     "text": "<p>최적의 에너지 효율과 최고의 안전성을 갖춘 수축 시스템</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_506ab0ccb9.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EC%88%98%EC%B6%95-%EA%B8%B0%EC%88%A0/redomatic",
+     "title": "»redomatic«",
+     "text": "<p>통합 공구 수축 시스템이 내장된 범용 조정 및 측정기</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/f/b/csm_redomatic_preview_4157496177.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%B0%B8%EB%9F%B0%EC%8B%B1-%EA%B8%B0%EC%88%A0/toolbalancer",
+     "title": "»toolBalancer«",
+     "text": "<p>최첨단 기술과 인체공학적 디자인을 갖춘 밸런싱 시스템</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A4%80%EB%B9%84/corameasure-lg",
+     "title": "»coraMeasure LG«",
+     "text": "<p>ZOLLER »venturion«을 위한 경제적인 공구 취급 시스템</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A4%80%EB%B9%84/robobox",
+     "title": "»roboBox«",
+     "text": "<p>조립, 세척, 측정, 수축 등 다양한 공정을 위한 최대 6개의 모듈</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/a/csm_roboBox_preview_f71dd04107.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A4%80%EB%B9%84/micbox",
+     "title": "»micBox«",
+     "text": "<p>인서트의 회전, 뒤집기 및 교체 작업을 수행합니다</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/6/a/csm_micbox_preview_ff03cd31af.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EB%B2%94%EC%9A%A9-%EC%B8%A1%EC%A0%95%EA%B8%B0/smartcheck",
+     "title": "»smartCheck«",
+     "text": "<p>추가 투과광 기능과 향상된 이미지 분석 기능을 갖춘 설정 및 측정 기기</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_b44dfc4928.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1/zidcode",
+     "title": "»zidCode«",
+     "text": "<p>간편한 공구 데이터 관리를 통한 보안 및 효율성 향상</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/c/csm_zidCode_preview_538b53ed83.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/keeper",
+     "title": "»keeper«",
+     "text": "<p>완성 공구 및 공구 홀더용</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/a/csm_keeper_preview_1e87de3ba7.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/autolock",
+     "title": "»autoLock«",
+     "text": "<p>측정기, 소모품 및 대형 구성품용</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/7/csm_autolock__preview_a71350a53a.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/twister",
+     "title": "»twister«",
+     "text": "<p>공구 구성품 및 액세서리</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/1/csm_twister__preview_edf94f7d12.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%A1%B0%EB%A6%BD/toolstation",
+     "title": "»toolStation«",
+     "text": "<p>공구를 최적으로 장착하기 위해</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/f/csm_toolStation_preview_00b81d24f9.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%A1%B0%EB%A6%BD/ztower",
+     "title": "»zTower«",
+     "text": "<p>범용 공구 장착용</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/6/csm_zTower_preview_c0c8e3585e.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%9A%B4%EB%B0%98/toolcart",
+     "title": "»toolCart«",
+     "text": "<p>편리한 공구 운반을 위해</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_3be007bbac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EC%88%98%EC%A7%81%ED%98%95-%EC%9E%A5%EB%B9%84/venturion/%EB%AA%A8%EB%8D%B8/%ED%8A%B8%EB%A6%AC%EB%B3%B4%EC%8A%A4",
+     "title": "»tribos«",
+     "text": "<p>다각형 척 장착하기</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/3/2/csm_tribos_preview_8c77bd06f1.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EC%88%98%EC%A7%81%ED%98%95-%EC%9E%A5%EB%B9%84/venturion/%EB%AA%A8%EB%8D%B8/%ED%86%A0%ED%81%AC%EB%A7%A4%ED%8B%B1",
+     "title": "»torquematic«",
+     "text": "<p>완전 자동 클램핑</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/8/csm_torquematic_preview_76d4d49ac6.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_categorized_pages",
+   "id": "c4773",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 전문가 상담",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 전문가 상담</h3> <p>고객님의 목표와 이에 대한 당사의 아이디어를 바탕으로 한 맞춤형 상담. 스마트 팩토리에서 직접 제공되는 ZOLLER의 온라인 상담. 지금 바로 상담 일정을 예약하세요. </p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/e/csm_teaser-2Colume-Media_8e9165a74e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "미디어: ZOLLER 상세 정보",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%EB%AF%B8%EB%94%94%EC%96%B4",
+     "caption": "<figcaption> <h3>미디어: ZOLLER 상세 정보</h3> <p>여기에서는 보도자료, 제품 발표, 전시회 참가 정보, 전문 잡지의 보도 기사, 뉴스 아카이브 및 미디어 담당자 정보를 확인하실 수 있습니다. </p> <br/> 자세히 알아보기 </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c738",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/kr/밀링",
+ "de_path": "/fraesen"
+}

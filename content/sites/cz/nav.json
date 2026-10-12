@@ -1,0 +1,740 @@
+{
+ "meta": [
+  {
+   "label": "Servis",
+   "href": "/cz/spolecnost/kontakt/kontaktni-osoba"
+  },
+  {
+   "label": "Média",
+   "href": "/cz/spolecnost/media"
+  },
+  {
+   "label": "Kariéra",
+   "href": "/cz/spolecnost/kariera"
+  }
+ ],
+ "main": [
+  {
+   "label": "Systém",
+   "href": "/cz/system"
+  },
+  {
+   "label": "Váš úspěch",
+   "href": "/cz/vas-uspech"
+  },
+  {
+   "label": "Řešení",
+   "href": "/cz/reseni",
+   "children": [
+    {
+     "label": "Proč ZOLLER Solutions?",
+     "href": "/cz/reseni"
+    },
+    {
+     "label": "Měření a seřizování",
+     "href": "/cz/reseni/mereni-a-serizovani"
+    },
+    {
+     "label": "Měření a kontrola",
+     "href": "/cz/reseni/kontrola-a-mereni"
+    },
+    {
+     "label": "Automatizace",
+     "href": "/cz/reseni/automatizace",
+     "children": [
+      {
+       "label": "Přehled",
+       "href": "/cz/reseni/automatizace"
+      },
+      {
+       "label": "Transport nástrojů",
+       "href": "/cz/reseni/automatizace/logistika"
+      },
+      {
+       "label": "Příprava nástrojů",
+       "href": "/cz/reseni/automatizace/priprava-nastroju"
+      },
+      {
+       "label": "Zajištění nástrojů",
+       "href": "/cz/reseni/automatizace/zajisteni-nastroju"
+      },
+      {
+       "label": "Kontrola nástrojů",
+       "href": "/cz/reseni/automatizace/kontrola-nastroju"
+      }
+     ]
+    },
+    {
+     "label": "Tepelné upínání nástrojů",
+     "href": "/cz/reseni/technologie-smrstovani"
+    },
+    {
+     "label": "Nástrojové upínací držáky",
+     "href": "/cz/reseni/drzaky-nastroju"
+    },
+    {
+     "label": "Vyvažování nástrojů",
+     "href": "/cz/reseni/vyvazovaci-technika"
+    },
+    {
+     "label": "CNC obrábění kamene",
+     "href": "/cz/reseni/cnc-obrabeni-kamene"
+    }
+   ]
+  },
+  {
+   "label": "Produkty",
+   "href": "/cz/produkty",
+   "children": [
+    {
+     "label": "Přehled produktů",
+     "href": "/cz/produkty"
+    },
+    {
+     "label": "Měření a seřizování",
+     "href": "/cz/produkty/nastaveni-a-mereni",
+     "children": [
+      {
+       "label": "Vertikální přístroje",
+       "href": "/cz/produkty/nastaveni-a-mereni/vertikalni-zarizeni",
+       "children": [
+        {
+         "label": "»smile«",
+         "href": "/cz/produkty/nastaveni-a-mereni/vertikalni-zarizeni/smile",
+         "claim": "Váš vstup do světa profesionálního měření a seřizování",
+         "desc": "Robustní základní přístroje s mikronovou přesností především pro standardní nástroje",
+         "img": "/fileadmin/_processed_/4/3/csm_smile_preview_6232033e55.webp"
+        },
+        {
+         "label": "»venturion«",
+         "href": "/cz/produkty/nastaveni-a-mereni/vertikalni-zarizeni/venturion",
+         "claim": "Modulární řada prémiové třídy pro nejvyšší nároky",
+         "desc": "Vynikající měření a seřizování nástrojů s nesčetnými možnostmi",
+         "img": "/fileadmin/_processed_/7/d/csm_venturion_preview_7611e56f51.webp"
+        }
+       ]
+      },
+      {
+       "label": "Horizontální přístroje",
+       "href": "/cz/produkty/nastaveni-a-mereni/horizontalni-zarizeni",
+       "children": [
+        {
+         "label": "»hyperion«",
+         "href": "/cz/produkty/nastaveni-a-mereni/horizontalni-zarizeni/hyperion",
+         "claim": "Všestranný nástroj se zaměřením na soustružnické nástroje",
+         "desc": "Horizontální nastavovací a měřicí přístroj pro obrábění",
+         "img": "/fileadmin/_processed_/1/8/csm_hyperion_preview_3b4c91eaf7.webp"
+        }
+       ]
+      },
+      {
+       "label": "Řešení automatizace",
+       "href": "/cz/produkty/nastaveni-a-mereni/automatizacni-reseni",
+       "children": [
+        {
+         "label": "»coraMeasure LG«",
+         "href": "/cz/produkty/automatizace/priprava-nastroju/corameasure-lg",
+         "claim": "Automatické měření nástrojů",
+         "desc": "Ekonomická manipulace s nástroji pro ZOLLER »venturion«",
+         "img": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_b31336460f.webp"
+        },
+        {
+         "label": "»roboBox«",
+         "href": "/cz/produkty/automatizace/priprava-nastroju/robobox",
+         "claim": "Modulární automatizace pro nástrojárnu",
+         "desc": "Až šest modulů pro běžné úkony, jako je montáž, čištění, měření, smršťování a další",
+         "img": "/fileadmin/_processed_/7/a/csm_roboBox_preview_ae1a1aba4b.webp"
+        }
+       ]
+      },
+      {
+       "label": "CNC obrábění kamene",
+       "href": "/cz/produkty/nastaveni-a-mereni/cnc-obrabeni-kamene",
+       "children": [
+        {
+         "label": "»smile | GBO«",
+         "href": "/cz/produkty/nastaveni-a-mereni/cnc-obrabeni-kamene/smile-gbo",
+         "claim": "Měření kamenných a dřevěných nástrojů",
+         "desc": "Díky optice s velkým zorným polem umožňuje mimořádně přesné měření výšky",
+         "img": "/fileadmin/_processed_/f/4/csm_smileGBO_preview_63b44ef4c9.webp"
+        },
+        {
+         "label": "»conDress«",
+         "href": "/cz/produkty/kontrola-a-mereni/cnc-obrabeni-kamene/condress",
+         "claim": "Čištění brusných ploch s diamantovým povlakem",
+         "desc": "Čištění a obnovení řezné schopnosti nástrojů na opracování kamene",
+         "img": "/fileadmin/_processed_/8/5/csm_conDress_preview_7966236664.webp"
+        }
+       ]
+      },
+      {
+       "label": "Speciální řešení",
+       "href": "/cz/produkty/nastaveni-a-mereni/specialni-reseni",
+       "children": [
+        {
+         "label": "Speciální řešení",
+         "href": "/cz/produkty/nastaveni-a-mereni/specialni-reseni/specialni-reseni",
+         "claim": "Řešení pro vaše individuální potřeby"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Správa nástrojů",
+     "href": "/cz/produkty/sprava-nastroju",
+     "children": [
+      {
+       "label": "Software",
+       "href": "/cz/software"
+      },
+      {
+       "label": "Sklad nářadí",
+       "href": "/cz/produkty/sprava-nastroju/sklad-naradi",
+       "children": [
+        {
+         "label": "»twister«",
+         "href": "/cz/produkty/sprava-nastroju/sklad-naradi/twister",
+         "claim": "Skříň na uložení",
+         "desc": "Pro součásti nástrojů a příslušenství",
+         "img": "/fileadmin/_processed_/0/1/csm_twister__preview_9c9c9e9f21.webp"
+        },
+        {
+         "label": "»autoLock«",
+         "href": "/cz/produkty/sprava-nastroju/sklad-naradi/autolock",
+         "claim": "Skříň na uložení",
+         "desc": "Pro zkušební přístroje, provozní materiály a větší součásti",
+         "img": "/fileadmin/_processed_/2/7/csm_autolock__preview_89166f3498.webp"
+        },
+        {
+         "label": "»toolOrganizer«",
+         "href": "/cz/produkty/sprava-nastroju/sklad-naradi/toolorganizer",
+         "claim": "Skříň na nářadí",
+         "desc": "Pro řezné nástroje a drobné součástky",
+         "img": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_bbf66a1054.webp"
+        },
+        {
+         "label": "»keeper«",
+         "href": "/cz/produkty/sprava-nastroju/sklad-naradi/keeper",
+         "claim": "Skříň na nářadí",
+         "desc": "Pro kompletní nástroje a držáky nástrojů",
+         "img": "/fileadmin/_processed_/b/a/csm_keeper_preview_f25bf71aa1.webp"
+        },
+        {
+         "label": "»z.Storage«",
+         "href": "/cz/produkty/sprava-nastroju/sklad-naradi/zstorage",
+         "claim": "Manipulace se skladovaným nářadím",
+         "desc": "Vaše zboží bude vydáno na principu výdejního automatu",
+         "img": "/fileadmin/_processed_/f/5/csm_zStorage_preview_f2484908b6.webp"
+        }
+       ]
+      },
+      {
+       "label": "Montáž nástrojů",
+       "href": "/cz/produkty/sprava-nastroju/montaz-nastroju",
+       "children": [
+        {
+         "label": "»zTower«",
+         "href": "/cz/produkty/sprava-nastroju/montaz-nastroju/ztower",
+         "claim": "montážní stanice",
+         "desc": "Pro univerzální upevnění nástrojů",
+         "img": "/fileadmin/_processed_/2/6/csm_zTower_preview_03c8143f73.webp"
+        },
+        {
+         "label": "»toolStation«",
+         "href": "/cz/produkty/sprava-nastroju/montaz-nastroju/toolstation",
+         "claim": "Pracovní stůl",
+         "desc": "Pro optimální montáž nástrojů",
+         "img": "/fileadmin/_processed_/a/f/csm_toolStation_preview_284869f711.webp"
+        }
+       ]
+      },
+      {
+       "label": "Přeprava nástrojů",
+       "href": "/cz/produkty/sprava-nastroju/preprava-nastroju",
+       "children": [
+        {
+         "label": "»toolCart«",
+         "href": "/cz/produkty/sprava-nastroju/preprava-nastroju/toolcart",
+         "claim": "Vozík na nářadí",
+         "desc": "Pro pohodlnou přepravu nářadí",
+         "img": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_f133269ad8.webp"
+        }
+       ]
+      },
+      {
+       "label": "Přenos dat",
+       "href": "/cz/produkty/sprava-nastroju/prenos-dat",
+       "children": [
+        {
+         "label": "»zidCode«",
+         "href": "/cz/produkty/sprava-nastroju/prenos-dat/zidcode",
+         "claim": "Bezchybný přenos údajů o nástrojích",
+         "desc": "Větší bezpečnost a efektivita díky snadné správě nástrojových dat",
+         "img": "/fileadmin/_processed_/e/c/csm_zidCode_preview_21aa224ca2.webp"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Měření a kontrola",
+     "href": "/cz/produkty/kontrola-a-mereni",
+     "children": [
+      {
+       "label": "Univerzální měřicí stroje",
+       "href": "/cz/produkty/kontrola-a-mereni/univerzalni-merici-stroje",
+       "children": [
+        {
+         "label": "»genius«",
+         "href": "/cz/produkty/kontrola-a-mereni/univerzalni-merici-stroje/genius",
+         "claim": "Bezkontaktní měření a kontrola obráběcích nástrojů",
+         "desc": "Měří s nejvyšší přesností více než 100 parametrů a osvědčilo se již více než 1000krát po celém světě",
+         "img": "/fileadmin/_processed_/0/d/csm_genius_1_d819caed90.webp"
+        },
+        {
+         "label": "»titan«",
+         "href": "/cz/produkty/kontrola-a-mereni/univerzalni-merici-stroje/titan",
+         "claim": "Zkušební a měřicí stroj v špičkovém provedení",
+         "desc": "Pro odborníky, kteří chtějí vědět všechno – včetně přípravy řezacích hran",
+         "img": "/fileadmin/_processed_/3/b/csm_titan__preview_7e0a3aa7f3.webp"
+        },
+        {
+         "label": "»smartCheck«",
+         "href": "/cz/produkty/kontrola-a-mereni/univerzalni-merici-stroje/smartcheck",
+         "claim": "Nastavení, měření a kontrola v jednom přístroji",
+         "desc": "Nastavovací a měřicí přístroj s přídavným dopadajícím světlem a rozšířenou analýzou obrazu",
+         "img": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_ca2a5afc34.webp"
+        }
+       ]
+      },
+      {
+       "label": "Měření orientované na procesy",
+       "href": "/cz/produkty/kontrola-a-mereni/mereni-orientovane-na-procesy",
+       "children": [
+        {
+         "label": "»pomBasic«",
+         "href": "/cz/produkty/kontrola-a-mereni/mereni-orientovane-na-procesy/pombasic",
+         "claim": "Pro přesnou ruční kontrolu ve výrobě",
+         "desc": "Kontrolovat více než 70 parametrů na nástroji přímo v průběhu procesu",
+         "img": "/fileadmin/_processed_/5/f/csm_pombasic__preview_2a4f915bf9.webp"
+        },
+        {
+         "label": "»mμFocus«",
+         "href": "/cz/produkty/kontrola-a-mereni/mereni-orientovane-na-procesy/mmfocus",
+         "claim": "Zařízení 2 v 1 pro měření SKP a drsnosti povrchu",
+         "desc": "Analyzuje topografii a vytváří 3D zobrazení břitev nástrojů",
+         "img": "/fileadmin/_processed_/c/0/csm_myFocus__preview_4b3d285137.webp"
+        }
+       ]
+      },
+      {
+       "label": "Automatizační řešení",
+       "href": "/cz/produkty/kontrola-a-mereni/automatizacni-reseni",
+       "children": [
+        {
+         "label": "»roboSet 2«",
+         "href": "/cz/produkty/automatizace/kontrola-nastroju/roboset-2",
+         "claim": "Kontrola a dokumentace nástrojů 24 hodin denně, 7 dní v týdnu",
+         "desc": "Manipulace s nástroji pro »genius«, »3dCheck«, »threadCheck«, »titan« a »edgeControl«",
+         "img": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_354a6e7ab1.webp"
+        }
+       ]
+      },
+      {
+       "label": "CNC obrábění kamene",
+       "href": "/cz/produkty/kontrola-a-mereni/cnc-obrabeni-kamene",
+       "children": [
+        {
+         "label": "»conDiaZ«",
+         "href": "/cz/produkty/kontrola-a-mereni/cnc-obrabeni-kamene/condiaz",
+         "claim": "Přesné měření obrysů během několika sekund",
+         "desc": "Kontrolní přístroj určený speciálně k měření a kontrole diamantem potažených nástrojů na opracování kamene",
+         "img": "/fileadmin/_processed_/b/1/csm_conDiaz_preview_8d8faa8ebf.webp"
+        },
+        {
+         "label": "»conDress«",
+         "href": "/cz/produkty/kontrola-a-mereni/cnc-obrabeni-kamene/condress",
+         "claim": "Čištění brusných ploch s diamantovým povlakem",
+         "desc": "Čištění a obnovení řezné schopnosti nástrojů na opracování kamene",
+         "img": "/fileadmin/_processed_/8/5/csm_conDress_preview_7966236664.webp"
+        }
+       ]
+      },
+      {
+       "label": "Speciální řešení",
+       "href": "/cz/produkty/kontrola-a-mereni/specialni-reseni",
+       "children": [
+        {
+         "label": "Speciální řešení",
+         "href": "/cz/produkty/kontrola-a-mereni/specialni-reseni/specialni-reseni",
+         "claim": "Řešení pro vaše individuální potřeby"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Automatizace",
+     "href": "/cz/produkty/automatizace",
+     "children": [
+      {
+       "label": "Logistika nástrojů",
+       "href": "/cz/produkty/automatizace/logistika-nastroju",
+       "children": [
+        {
+         "label": "»coraLogistic«",
+         "href": "/cz/produkty/automatizace/logistika-nastroju/coralogistic",
+         "claim": "Automatizovaná logistika ve výrobě",
+         "desc": "Pro přepravu mezi skladem nástrojů, přípravou nástrojů a CNC strojem",
+         "img": "/fileadmin/_processed_/c/0/csm_coraLogistics_preview_4e713a1c9b.webp"
+        },
+        {
+         "label": "»coraMachineLoad«",
+         "href": "/cz/produkty/automatizace/logistika-nastroju/coramachineload",
+         "claim": "Plně automaticky nakládá a vykládá CNC stroje",
+         "desc": "Přesná a včasná manipulace s nástroji mezi logistikou a zásobníkem strojů",
+         "img": "/fileadmin/_processed_/e/e/csm_coraMaschineLoad_preview_f78fc031d8.webp"
+        }
+       ]
+      },
+      {
+       "label": "Příprava nástrojů",
+       "href": "/cz/produkty/automatizace/priprava-nastroju",
+       "children": [
+        {
+         "label": "»coraMeasure LG«",
+         "href": "/cz/produkty/automatizace/priprava-nastroju/corameasure-lg",
+         "claim": "Automatické měření nástrojů",
+         "desc": "Ekonomická manipulace s nástroji pro ZOLLER »venturion«",
+         "img": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_b31336460f.webp"
+        },
+        {
+         "label": "»roboBox«",
+         "href": "/cz/produkty/automatizace/priprava-nastroju/robobox",
+         "claim": "Modulární automatizace pro nástrojárnu",
+         "desc": "Až šest modulů pro běžné úkony, jako je montáž, čištění, měření, smršťování a další",
+         "img": "/fileadmin/_processed_/7/a/csm_roboBox_preview_ae1a1aba4b.webp"
+        },
+        {
+         "label": "»micBox«",
+         "href": "/cz/produkty/automatizace/priprava-nastroju/micbox",
+         "claim": "Efektivní manipulace s vyměnitelnými břitovými destičkami",
+         "desc": "Zajišťuje otáčení, obracení a výměnu otočných břitových destiček",
+         "img": "/fileadmin/_processed_/6/a/csm_micbox_preview_e6568b3640.webp"
+        }
+       ]
+      },
+      {
+       "label": "Zajištění nástrojů",
+       "href": "/cz/produkty/automatizace/zajisteni-nastroju",
+       "children": [
+        {
+         "label": "»loadBox«",
+         "href": "/cz/produkty/automatizace/zajisteni-nastroju/loadbox",
+         "claim": "Inteligentní centrum nástrojů",
+         "desc": "Vybírá nářadí podle objednávek a připravuje je pro logistiku",
+         "img": "/fileadmin/_processed_/5/3/csm_loadBox_preview_d9538dbfe3.webp"
+        }
+       ]
+      },
+      {
+       "label": "Kontrola nástrojů",
+       "href": "/cz/produkty/automatizace/kontrola-nastroju",
+       "children": [
+        {
+         "label": "»roboSet 2«",
+         "href": "/cz/produkty/automatizace/kontrola-nastroju/roboset-2",
+         "claim": "Kontrola a dokumentace nástrojů 24 hodin denně, 7 dní v týdnu",
+         "desc": "Manipulace s nástroji pro »genius«, »3dCheck«, »threadCheck«, »titan« a »edgeControl«",
+         "img": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_354a6e7ab1.webp"
+        }
+       ]
+      },
+      {
+       "label": "Laserové značení",
+       "href": "/cz/produkty/automatizace/laserove-znaceni",
+       "children": [
+        {
+         "label": "»roboMark«",
+         "href": "/cz/produkty/automatizace/laserove-znaceni/robomark",
+         "claim": "Zařízení pro laserové značení",
+         "desc": "Rychlé a přesné značení vašich nástrojů",
+         "img": "/fileadmin/_processed_/9/c/csm_roboMark_preview_ecf02129c4.webp"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Tepelné upínání nástrojů",
+     "href": "/cz/produkty/tepelne-upinani-nastroju",
+     "children": [
+      {
+       "label": "»powerShrink«",
+       "href": "/cz/produkty/tepelne-upinani-nastroju/powershrink",
+       "claim": "Tepelné upínání nástrojů",
+       "desc": "Systém tepelného upínání s optimální energetickou účinností a maximální bezpečností",
+       "img": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_8e31408c1d.webp"
+      },
+      {
+       "label": "»redomatic«",
+       "href": "/cz/produkty/tepelne-upinani-nastroju/redomatic",
+       "claim": "Tepelné upínání a měření",
+       "desc": "Univerzální měřicí a seřizovací přístroj s integrovaným systémem tepelného upínání nástrojů",
+       "img": "/fileadmin/_processed_/f/b/csm_redomatic_preview_afc51b7ecf.webp"
+      }
+     ]
+    },
+    {
+     "label": "Nástrojové upínací držáky",
+     "href": "/cz/produkty/drzaky-nastroju",
+     "children": [
+      {
+       "label": "Tooling Shop",
+       "href": "https://myzoller.com/de/de/shop/tooling",
+       "claim": "Více než 2500 upínacích systémů",
+       "desc": "Volitelně s »idChipem« pro větší spolehlivost procesu díky aktuálním údajům o nástrojích. Kompatibilní s řešením pro správu nástrojů ZOLLER TMS.",
+       "img": "/fileadmin/_processed_/3/f/csm_ToolingSolutions4_preview_6c25bb2bd5.webp"
+      }
+     ]
+    },
+    {
+     "label": "Vyvažování nástrojů",
+     "href": "/cz/produkty/vyvazovaci-technika",
+     "children": [
+      {
+       "label": "»toolBalancer«",
+       "href": "/cz/produkty/vyvazovaci-technika/toolbalancer",
+       "claim": "Vyvažování nářadí",
+       "desc": "Vyvažovací systém s nejmodernější technologií a ergonomickým designem",
+       "img": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_c222571512.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Akademie",
+   "href": "/cz/akademie"
+  },
+  {
+   "label": "Akce",
+   "href": "/cz/akce"
+  },
+  {
+   "label": "Společnost",
+   "href": "/cz/spolecnost",
+   "children": [
+    {
+     "label": "Zobrazit přehled",
+     "href": "/cz/spolecnost"
+    },
+    {
+     "label": "Profil",
+     "href": "/cz/spolecnost/profil",
+     "children": [
+      {
+       "label": "O společnosti ZOLLER",
+       "href": "/cz/spolecnost/profil"
+      },
+      {
+       "label": "Reference",
+       "href": "/cz/spolecnost/profil/reference"
+      },
+      {
+       "label": "Partner",
+       "href": "/cz/spolecnost/profil/partner"
+      },
+      {
+       "label": "Historie",
+       "href": "/cz/spolecnost/profil/historie"
+      }
+     ]
+    },
+    {
+     "label": "Kontakt",
+     "href": "/cz/spolecnost/kontakt",
+     "children": [
+      {
+       "label": "Kontaktní formulář",
+       "href": "/cz/spolecnost/kontakt"
+      },
+      {
+       "label": "Pobočky",
+       "href": "/cz/spolecnost/kontakt/pobocky"
+      },
+      {
+       "label": "Chytrá továrna",
+       "href": "/cz/spolecnost/kontakt/chytra-tovarna"
+      },
+      {
+       "label": "Kontaktní osoba",
+       "href": "/cz/spolecnost/kontakt/kontaktni-osoba"
+      },
+      {
+       "label": "Individuální konzultace s odborníkem",
+       "href": "https://myzoller.com/de/de/expert/booking"
+      },
+      {
+       "label": "Školení a kurzy",
+       "href": "/cz/spolecnost/kontakt/skoleni-a-kurzy"
+      },
+      {
+       "label": "Zpravodaj",
+       "href": "/cz/spolecnost/kontakt/zpravodaj"
+      }
+     ]
+    },
+    {
+     "label": "Kariéra",
+     "href": "/cz/spolecnost/kariera",
+     "children": [
+      {
+       "label": "Práce ve společnosti ZOLLER",
+       "href": "/cz/spolecnost/kariera"
+      },
+      {
+       "label": "Nabídky práce",
+       "href": "/cz/spolecnost/kariera/nabidky-prace"
+      },
+      {
+       "label": "Často kladené otázky",
+       "href": "/cz/spolecnost/kariera/casto-kladene-otazky"
+      },
+      {
+       "label": "Žádost",
+       "href": "/cz/spolecnost/kariera/zadost"
+      }
+     ]
+    },
+    {
+     "label": "Zprávy a příběhy",
+     "href": "/cz/spolecnost/zpravy-a-pribehy"
+    },
+    {
+     "label": "Média",
+     "href": "/cz/spolecnost/media"
+    },
+    {
+     "label": "Udržitelnost",
+     "href": "/cz/spolecnost/udrzitelnost"
+    },
+    {
+     "label": "Řízení kvality",
+     "href": "/cz/spolecnost/rizeni-kvality"
+    },
+    {
+     "label": "Dodržování předpisů",
+     "href": "/cz/spolecnost/dodrzovani-predpisu"
+    }
+   ]
+  }
+ ],
+ "footer_links": [
+  {
+   "label": "Go up",
+   "href": "#body"
+  },
+  {
+   "label": "Systém",
+   "href": "/cz/system"
+  },
+  {
+   "label": "Váš úspěch",
+   "href": "/cz/vas-uspech"
+  },
+  {
+   "label": "Řešení",
+   "href": "/cz/reseni"
+  },
+  {
+   "label": "Produkty",
+   "href": "/cz/produkty"
+  },
+  {
+   "label": "Akademie",
+   "href": "/cz/akademie"
+  },
+  {
+   "label": "Akce",
+   "href": "/cz/akce"
+  },
+  {
+   "label": "Společnost",
+   "href": "/cz/spolecnost"
+  },
+  {
+   "label": "Servis",
+   "href": "/cz/spolecnost/kontakt/kontaktni-osoba"
+  },
+  {
+   "label": "Média",
+   "href": "/cz/spolecnost/media"
+  },
+  {
+   "label": "Kariéra",
+   "href": "/cz/spolecnost/kariera"
+  },
+  {
+   "label": "Kalkulačka úspory",
+   "href": "/cz/kalkulator-rentability"
+  },
+  {
+   "label": "Kontaktní osoba",
+   "href": "/cz/spolecnost/kontakt/kontaktni-osoba"
+  },
+  {
+   "label": "Odeslat e-mail",
+   "href": "mailto:info@zoller.info"
+  },
+  {
+   "label": "Servis ZOLLER",
+   "href": "/cz/spolecnost/kontakt/kontaktni-osoba"
+  },
+  {
+   "label": "Software updates",
+   "href": "/cz/aktualizace-softwaru"
+  },
+  {
+   "label": "Online podpora",
+   "href": "/cz/online-podpora"
+  },
+  {
+   "label": "Obory podnikání",
+   "href": "/cz/obory-podnikani-1"
+  },
+  {
+   "label": "Přihlášení k odběru newsletteru",
+   "href": "/cz/spolecnost/kontakt/zpravodaj"
+  },
+  {
+   "label": "LinkedIn",
+   "href": "https://www.linkedin.com/company/zollersolutions"
+  },
+  {
+   "label": "YouTube",
+   "href": "https://www.youtube.com/user/zollertv"
+  },
+  {
+   "label": "Kontakt",
+   "href": "/cz/spolecnost/kontakt"
+  },
+  {
+   "label": "Ochrana osobních údajů",
+   "href": "/cz/ochrana-osobnich-udaju"
+  },
+  {
+   "label": "Prohlášení o vyloučení odpovědnosti",
+   "href": "/cz/prohlaseni-o-vylouceni-odpovednosti"
+  },
+  {
+   "label": "Právní informace",
+   "href": "/cz/pravni-informace-1"
+  },
+  {
+   "label": "Cookie settings",
+   "href": "#"
+  }
+ ]
+}

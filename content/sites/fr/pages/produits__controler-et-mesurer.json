@@ -1,0 +1,412 @@
+{
+ "path": "/produits/controler-et-mesurer",
+ "url": "/fr/produits/controler-et-mesurer",
+ "title": "Contrôler et mesurer",
+ "description": "Contrôler et mesurer - Documentez la qualité et créez des jumeaux numériques.",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/fr/produits"
+  },
+  {
+   "label": "Contrôler et mesurer",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/fr/page-daccueil"
+  },
+  {
+   "label": "Produits /",
+   "href": "/fr/produits"
+  },
+  {
+   "label": "Contrôler et mesurer",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/pruefen-messen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/inspection-measuring",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/comprobacion-y-medicion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/controler-et-mesurer",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/comprovacao-e-medicao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/controllo-e-misurazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/kontrollera-maeta",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/pruefen-messen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/inspection-measuring",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/controle-et-mesure",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/inspection-measuring",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/comprobacion-y-medicion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/comprovacao-e-medicao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [],
+   "ftype": "zoller_hero-slider",
+   "id": "c4402",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Aperçu des produits </h1>",
+   "body": "<p class=\"extra-large-text\"><strong>Les solutions ZOLLER sont synonymes d'avenir : nous vous aidons à réussir. En effet, une fabrication plus rapide et plus efficace permet de travailler de manière plus rentable afin de pouvoir investir dans l'avenir. Si votre objectif est le progrès économique, ZOLLER est votre partenaire idéal.</strong></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4399",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "productlist",
+   "filters": {
+    "solutions": [
+     {
+      "value": "259",
+      "label": "Réglage et mesure",
+      "selected": false
+     },
+     {
+      "value": "251",
+      "label": "Gestion des outils",
+      "selected": false
+     },
+     {
+      "value": "254",
+      "label": "Contrôler et mesurer",
+      "selected": true
+     },
+     {
+      "value": "253",
+      "label": "Automatisation",
+      "selected": false
+     },
+     {
+      "value": "250",
+      "label": "Technologie de frettage",
+      "selected": false
+     },
+     {
+      "value": "252",
+      "label": "Porte outils",
+      "selected": false
+     },
+     {
+      "value": "249",
+      "label": "Technologie d'équilibrage",
+      "selected": false
+     }
+    ],
+    "applications": [
+     {
+      "value": "258",
+      "label": "Machine de mesure universelle",
+      "selected": false
+     },
+     {
+      "value": "257",
+      "label": "Mesure orientée processus",
+      "selected": false
+     },
+     {
+      "value": "419",
+      "label": "Solutions d'automatisation",
+      "selected": false
+     },
+     {
+      "value": "3924",
+      "label": "Usinage de la pierre par commande numérique",
+      "selected": false
+     },
+     {
+      "value": "420",
+      "label": "Solutions spécialisées",
+      "selected": false
+     }
+    ]
+   },
+   "rows": [
+    {
+     "title": "Machine de mesure universelle",
+     "items": [
+      {
+       "href": "/fr/produits/controler-et-mesurer/machine-de-mesure-universelle/genius",
+       "title": "»genius«",
+       "text": "Il saisit plus de 100 paramètres avec une précision extrême et a fait ses preuves plus de 1 000 fois dans le monde entier.",
+       "img": {
+        "src": "/fileadmin/_processed_/0/d/csm_genius_1_5b500df8d2.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/fr/produits/controler-et-mesurer/machine-de-mesure-universelle/titan",
+       "title": "»titan«",
+       "text": "Pour les experts qui veulent tout savoir, y compris sur la préparation des arêtes de coupe",
+       "img": {
+        "src": "/fileadmin/_processed_/3/b/csm_titan__preview_9813f51631.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/fr/produits/controler-et-mesurer/machine-de-mesure-universelle/smartcheck",
+       "title": "»smartCheck«",
+       "text": "Les bancs de réglage et de mesure avec Lumière réfléchie supplémentaire et analyse d'image étendue",
+       "img": {
+        "src": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_b44dfc4928.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "Mesure orientée processus",
+     "items": [
+      {
+       "href": "/fr/produits/controler-et-mesurer/mesure-orientee-processus/pombasic",
+       "title": "»pomBasic«",
+       "text": "Contrôle de plus de 70 paramètres sur l'outil pendant le processus",
+       "img": {
+        "src": "/fileadmin/_processed_/5/f/csm_pombasic__preview_65ddb1db86.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/fr/produits/controler-et-mesurer/mesure-orientee-processus/mmfocus",
+       "title": "»mμFocus«",
+       "text": "Analyse les topographies et crée des illustrations 3D des arêtes d'outil",
+       "img": {
+        "src": "/fileadmin/_processed_/c/0/csm_myFocus__preview_b0f99094b2.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "Solutions d'automatisation",
+     "items": [
+      {
+       "href": "/fr/produits/automatisation/controle-doutil/roboset-2",
+       "title": "»roboSet 2«",
+       "text": "Pour »genius«, »3dCheck«, »threadCheck«, »titan« et »edgeControl«",
+       "img": {
+        "src": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_7361e448c0.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "Usinage de la pierre par commande numérique",
+     "items": [
+      {
+       "href": "/fr/produits/controler-et-mesurer/usinage-de-la-pierre-par-commande-numerique/condiaz",
+       "title": "»conDiaZ«",
+       "text": "Appareil d'inspection spécialement conçu pour mesurer et contrôler les outils de travail de la pierre à revêtement diamanté",
+       "img": {
+        "src": "/fileadmin/_processed_/b/1/csm_conDiaz_preview_66ae2d253b.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/fr/produits/controler-et-mesurer/usinage-de-la-pierre-par-commande-numerique/condress",
+       "title": "»conDress«",
+       "text": "Nettoyage et restauration du tranchant des outils pour le travail de la pierre",
+       "img": {
+        "src": "/fileadmin/_processed_/8/5/csm_conDress_preview_e519dedb34.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "Solutions spécialisées",
+     "items": [
+      {
+       "href": "/fr/produits/controler-et-mesurer/solutions-specialisees/solutions-specialisees",
+       "title": "solutions spécialisées",
+       "text": "Vous trouverez ici une sélection de solutions spécialisées adaptées à vos exigences.",
+       "img": null,
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "src_path": "/fr/produits/controler-et-mesurer",
+ "de_path": "/produkte/pruefen-messen"
+}

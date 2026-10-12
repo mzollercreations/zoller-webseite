@@ -1,0 +1,410 @@
+{
+ "path": "/ソリューション/バランス調整技術",
+ "url": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4%E6%8A%80%E8%A1%93",
+ "title": "バランス調整技術",
+ "description": "バランス調整技術",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ja/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8"
+  },
+  {
+   "label": "ソリューション /",
+   "href": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3"
+  },
+  {
+   "label": "バランス調整技術",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ja/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8"
+  },
+  {
+   "label": "ソリューション /",
+   "href": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3"
+  },
+  {
+   "label": "バランス調整技術",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/wuchttechnik",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/balancing-technology",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/tecnologia-de-equilibrado",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/technique-dimpact",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/tecnologia-de-equilibragem",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/tecnologia-per-la-bilanciatura-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/balanseringsteknik",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/wuchttechnik",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/balancing-technology",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/technique-dequilibrage",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4%E6%8A%80%E8%A1%93",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EB%B0%B8%EB%9F%B0%EC%8B%B1-%EA%B8%B0%EC%88%A0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/balancing-technology",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/tecnologia-de-equilibrado",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/tecnologia-de-equilibragem",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/4/a/csm_header_balancing_029a95df55.webp",
+     "video": null,
+     "title": "バランス調整技術",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c703",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>ホイールバランス調整用の工具は、標準装備であるべきです。バランス調整を行うことで、あらゆる回転数においてリスクをより適切に管理できます。</h3>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c705",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>多くの精密研削業者や切削加工業者は、バランス調整を極めて高い回転数での作業と結びつけて考えがちです。しかし実際には、回転する工具にはすべて不均衡が生じる可能性があります。その悪影響は即座に現れることもあれば、しばらく経ってから高額なコストや機械の停止を引き起こすこともあります。 </strong></p> <p>バランス調整は、コスト増の原因となる工具の摩耗を低減するため、経済性の向上につながります。また、高額な機械の故障を未然に防ぎ、時間を浪費する品質クレームを減らします。 <br/>ZOLLERの»toolBalancer«シリーズは、世界でも類を見ない独自のバランス調整技術を採用しています。新開発の装置は多くの革新的な機能を備えており、精度、安全性、人間工学、操作性をこれまでにないレベルへと引き上げます。</p> <p>製造リスクを最小限に抑えましょう。市場で最も先進的なバランス調整技術を持つZOLLERと共に。 </p> <p><a class=\"btn\" href=\"/ja/%E8%A3%BD%E5%93%81/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4%E6%8A%80%E8%A1%93/toolbalancer\">製品を見る</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c706",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c704",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 高いセンサー信号による高精度な測定 </h2>",
+   "body": "<p>すべての»toolBalancer«に共通する特徴は、その測定方式にあります。ZOLLERは、中心オフセット、2点接触、および押さえ具を備えた特殊なバランスアダプターを採用しています。</p> <p>この測定手法により、センサー信号が増幅され、測定精度が向上します。その結果、極めて正確なバランス測定結果が得られます。 </p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c707",
+   "bg": "black",
+   "space": {
+    "before": "extra-large",
+    "after": "extra-large"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> 平穏を取り戻す </h2>",
+   "body": "<p class=\"large-text\">バランス調整済みの工具を使用することで、回転の滑らかさを最大限に高めます。これにより、CNC工作機械の駆動部にかかる遠心力を低減し、不要なメンテナンス作業を回避するとともに、スピンドルの損傷を防ぐことができます。</p> <p class=\"large-text\">0.4 gmm未満のバランス精度を実現するZOLLERのバランス技術は、機械の生産性をさらに高めます。»toolBalancerは«、スピンドルやベアリングに過大な負荷をかけ、コンポーネントの寿命を縮める可能性のある、わずかな不均衡も検出します。 </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/8/csm_balancing_01_4186f932b3.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c708",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> 稼働時の安定性が向上 </h2>",
+   "body": "<p class=\"large-text\">ZOLLERの精密技術を用いた定期的なバランス調整により、工具の寿命を高い水準で安定的に維持できます。これにより、長期的な経済性の向上と、投資の早期回収というメリットを享受できます。 </p> <p class=\"large-text\">回転工具の真円度がわずかに崩れるだけでも、切削刃に余分な力が加わります。その結果、工具寿命が短縮され、工具コストが増加し、工具交換の頻度が上昇します。 </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_balancing_02_aaf3ff5460.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c709",
+   "bg": "white",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> 最高品質の表面 </h2>",
+   "body": "<p class=\"large-text\">工具や砥石のバランス不良による品質低下のリスクを排除しましょう。ZOLLERのバランス調整技術により、最も要求の厳しい業界をも納得させる表面仕上げが容易になります。</p> <p class=\"large-text\">工具の回転が不均一だと、表面品質の低下を招く恐れがあります。多くの場合、切削条件や工具そのものが原因だと考えられがちです。しかし、不均衡の可能性が検討されるまでに、機械の稼働時間、材料、そして工具の寿命が相当量無駄にされてしまいます。 </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/8/csm_balancing_03_8d69d2b1ea.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c710",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "count",
+   "title": "重い物でも高精度にバランス調整",
+   "value": "30kg",
+   "note": "»toolBalancer«シリーズの全モデルにおける最大工具重量",
+   "ftype": "zoller_count-banner",
+   "id": "c711",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> バランス調整技術 </h2>",
+   "items": [
+    {
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4%E6%8A%80%E8%A1%93/toolbalancer",
+     "title": "»toolBalancer«",
+     "text": "<p>最先端の技術と人間工学に基づいたデザインを採用したバランス調整システム</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c1640",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_zoller_system_teaser_a6e5d69871.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "「解決策から始める――システムを導入する。」",
+     "href": "/ja/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0",
+     "caption": "<figcaption> <h3>「解決策から始める――システムを導入する。」</h3> <p>当社のお客様は、当社が数十年にわたり推進してきた包括的なソリューションの恩恵を受けています。その結果、卓越した効率性を実現しています。 </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1対1の専門家との面談",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1対1の専門家との面談</h3> <p>お客様の目標と、それに対する当社の提案について、個別に話し合う機会です。スマートファクトリーから直接お届けする、ZOLLERのオンラインコンサルティング。今すぐご予約ください。 </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ja/ソリューション/バランス調整技術",
+ "de_path": "/solutions/wuchttechnik"
+}

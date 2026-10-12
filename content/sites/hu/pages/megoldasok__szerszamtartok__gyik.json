@@ -1,0 +1,606 @@
+{
+ "path": "/megoldasok/szerszamtartok/gyik",
+ "url": "/hu/megoldasok/szerszamtartok/gyik",
+ "title": "Szerszámmegoldások – GYIK",
+ "description": "GYIK - Szerszámmegoldások – GYIK",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Megoldások /",
+   "href": "/hu/megoldasok"
+  },
+  {
+   "label": "Szerszámtartók",
+   "href": "/hu/megoldasok/szerszamtartok"
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Megoldások /",
+   "href": "/hu/megoldasok"
+  },
+  {
+   "label": "Szerszámtartók",
+   "href": "/hu/megoldasok/szerszamtartok"
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/werkzeugaufnahmen/faq",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/tooling-solutions/faq",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/portaherramientas/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/fixation-doutil/faq",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/porta-ferramentas/perguntas-frequentes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/soluzioni-dutensileria/domande-frequenti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/verktygshaallare/vanliga-fraagor",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/werkzeugaufnahmen/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/tooling-solutions/faq",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/porte-outils/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B7%A5%E5%85%B7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/tooling-solutions/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/porta-herramientas/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/porta-ferramentas/perguntas-frequentes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Szerszámtartók",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/hu/megoldasok/szerszamtartok",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "GYIK",
+     "href": "/hu/megoldasok/szerszamtartok/gyik",
+     "current": false
+    },
+    {
+     "label": "Információs központ",
+     "href": "/hu/megoldasok/szerszamtartok/informacios-koezpont",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1414",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> GYIK </h1>",
+      "body": "<p>Gyakran feltett kérdések</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c1426",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Milyen feltételeknek kell megfelelnie a gyártási folyamatomnak az »idChip« használatához?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Az első fontos feltétel egy megfelelő szkenner, amellyel beolvasható a DataMatrix-kód. A szerszámadatok kezeléséhez megfelelő szoftverre van szükség. Mindkettőt a ZOLLER biztosítja Önnek »a« »zidCode 4.0« és a TMS Tool Management Solutions szoftver segítségével.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1455",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Lehetséges-e a szerszámokat utólag is »idChip«-pel ellátni?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Igen, ez bármikor lehetséges. Kérjük, forduljon értékesítési osztályunkhoz, ha szerszámait ZOLLER »idChip«-pel szeretné felszerelni.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1453",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Milyen előnyei vannak az »idChipnek« a ragasztós címkékkel történő kódoláshoz képest?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>»Az idLabel-t« inkább forgószerszámokhoz és rögzítőberendezésekhez ajánljuk, mivel ezek nem forognak használat közben. Forgó szerszámok esetében az »idChip« a jobb választás. Ezt a tartóba rögzítik, ahol védve van, de mégis jól látható. Az »idChip-et« egyszerűen kétkomponensű ragasztóval lehet beilleszteni. Ezt nálunk vagy más forgalmazóknál is beszerezheti.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1451",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "A ZOLLER beállító- és mérőműszerek gyártójaként ismert. A ZOLLER maga is gyártja a Tooling Solutions szerszámtartókat?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A szerszámtartók terén a ZOLLER szorosan együttműködik a Schüsslerrel, mint partnerével. A Schüssler gyártja a szerszámtartókat, a ZOLLER pedig biztosítja az »idChip-et«, és az új ZOLLER webáruházon keresztül egyszerűvé, gyorssá és kényelmessé teszi a szerszámtartók vásárlását.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1449",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Mennyi az öntapadó tartó élettartama? Hányszor lehet a szerszámokat a tartóba öntapadóval rögzíteni, majd onnan eltávolítani?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A ZOLLER Tooling Solutions termékeinek megfelelő hőkezelése és lehűtése esetén ezek több mint 10 000 zsugorítási cikluson keresztül használhatók pontosságvesztés nélkül olyan szerszámtartókhoz, amelyek furatátmérője meghaladja a 6 mm-t. 5 mm-es vagy annál kisebb átmérő esetén ez az érték 5 000 ciklus.</p> <p>A helyes feldolgozást a ZOLLER »actbyLight« technológia támogatja a hőkezelés és hűtés során, hogy biztosítsa a zsugorítási ciklusok helyes és biztonságos lebonyolítását.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c1447",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Miért érdemes kiegyensúlyozott szerszámtartókat használni?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A kiegyensúlyozott szerszámtartók növelik a termelékenységet. A kiegyensúlyozott szerszámtartók használatának pozitív eredményei a megmunkálási folyamat számos területén megmutatkoznak. A szerszámok és az orsó hosszabb élettartama, valamint a nagyobb megmunkálási teljesítmény csak néhány azok közül a tényezők közül, amelyek jelentősen csökkenthetik a gyártási költségeket.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1445",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Milyen hosszúságig kaphatók a ZOLLER Tooling Solutions termékek?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A ZOLLER Tooling Solutions szerszámok GPL-tartóhossza 200 mm (A túlnyúlási hossz).</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1443",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Kaphatók-e kiegyensúlyozott ER-szorítóhüvelyek?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A ZOLLER Tooling Solutions termékcsaládban kiegyensúlyozható ER-típusú befogóhüvelyek is kaphatók. A kiegyensúlyozási művelethez fel kell szerelni a rögzítőanyát, és a vágószerszám szimulálásához egy referencia-csapot kell használni.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1441",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Miből készül a zsugorcső anyaga?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A ZOLLER a ZOLLER Tooling Solutions gyártásához hőálló szerszámacélból készült szorítóhüvelyeket használ.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1439",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Melyek a különbségek a zsugorcsapágy, a befogócsapágy és a hidraulikus szerszámbefogó rendszer között?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Egyetlen más befogórendszer sem képes felvenni a versenyt a zsugorcsatlakozás tartósságával, körkörös pontosságával és teljesítményével. Mivel a zsugorcsatlakozásokhoz nincs szükség befogóhüvelyekre, befogóanyákra vagy beállítócsavarokra, az orr átmérője nagyon keskeny lehet, így a nehezen elérhető területek is megmunkálhatók.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1437",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Milyen szár-tűrés szükséges ahhoz, hogy a vágószerszámokat zsugorító befogásokban lehessen használni?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A vágószerszám szárának tűrését h5 vagy h6 értékre kell beállítani.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1435",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Hol lehet megvásárolni a ZOLLER Tooling Solutions szerszámtartókat?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A megrendelés online, a ZOLLER <a class=\"link-arrow\" href=\"https://myzoller.com/de/de/shop/tooling/\" rel=\"noopener\" target=\"_blank\"><strong>MY</strong></a>ZOLLER <a class=\"link-arrow\" href=\"https://myzoller.com/de/de/shop/tooling/\" rel=\"noopener\" target=\"_blank\"><strong>portálon</strong></a> keresztül intézhető. Az online megrendelések jelenleg Németországban és az Egyesült Államokban adhatók le. Más országokban lehetőség van a szerszámtartó kiválasztására a MYZOLLER portálon, majd a generált cikklista elküldésére a megfelelő regionális ZOLLER értékesítőknek, és az ajánlat kérésére.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1433",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "A szerszámtartókat kiegyensúlyozzák-e a ZOLLER »idChip« vagy más RFID-chip behelyezése után?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Ha a szerszámtartókat ZOLLER »idChip«-pel vagy más RFID-chipekkel rendelik meg, a szerszámtartókat a chipekkel együtt kiegyensúlyozzák.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1431",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Mennyi az átfutási idő a ZOLLER Tooling Solutions valamennyi termékénél?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A webáruházon keresztül bármikor online ellenőrizhető a ZOLLER Tooling Solutions termékek raktárkészlete.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1429",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Lehetséges-e megkapni a dxf, png és stp digitális formátumokat a ZOLLER Tooling Solutions termékekhez, mielőtt leadnám a megrendelést a megfelelő szerszámtartókra?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>A digitális iker modellek elérhetők a ZOLLER Tooling Solution webáruházban, ahol bármikor letölthetők, és felhasználhatók a ZOLLER TMS Tool Management Solutions szoftverben vagy más CAD/CAM-rendszerekben.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1457",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c1427",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c1425",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Most Önön a sor – ne habozzon, ragadja meg az alkalmat! </h2>",
+   "body": "<p>Webáruházunkban mostantól a szerszámbefogó rendszerek teljes választéka elérhető. Találja meg egyszerűen, gyorsan és kényelmesen az Önnek legmegfelelőbb szerszámbefogót, és azonnal használja a rendelkezésre álló digitális ikertestét CAM- és szerszámkezelő rendszerében.</p> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">A szerszámboltba</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/d/csm_zum_myzoller_shop_704443f1bc.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1458",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/hu/megoldasok/szerszamtartok/gyik",
+ "de_path": "/solutions/werkzeugaufnahmen/faq"
+}

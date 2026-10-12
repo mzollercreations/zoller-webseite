@@ -1,0 +1,496 @@
+{
+ "path": "/esemenyek/automation-week-torrance-2026",
+ "url": "/esemenyek/automation-week-torrance-2026",
+ "title": "ZOLLER Automation Week Torrance 2026",
+ "description": "2026. október 12–16. a ZOLLER Inc. Pacificnál, Torrance-ben (Kalifornia): »coraLogistic«, »coraVarion« és »loadBox« élő bemutatók, előadások és egyéni szakértői konzultációk.",
+ "og_image": "/assets/video/automation-week-poster.jpg",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "event_hero",
+   "id": "event",
+   "kicker": "Esemény · ZOLLER Inc. Pacific",
+   "title": "ZOLLER Automation Week",
+   "subtitle": "Öt nap automatizálás élőben – »coraLogistic«, »coraVarion« és »loadBox« működés közben.",
+   "dates": "2026. október 12–16.",
+   "place": "Torrance, Kalifornia",
+   "hours": "Naponta 9:00–17:00 (PT)",
+   "images": [
+    {
+     "src": "/assets/showroom/img/hd/coralogistic.webp",
+     "alt": "»coraLogistic«"
+    },
+    {
+     "src": "/assets/showroom/img/hd/loadbox.webp",
+     "alt": "»loadBox«"
+    },
+    {
+     "src": "/assets/showroom/img/hd/micbox.webp",
+     "alt": "»micBox«"
+    }
+   ],
+   "buttons": [
+    {
+     "label": "Válasszon időpontot",
+     "href": "#program"
+    },
+    {
+     "label": "Meghívóvideó megtekintése",
+     "href": "#video",
+     "ghost": true
+    }
+   ]
+  },
+  {
+   "type": "event_facts",
+   "id": "facts",
+   "bg": "yellow",
+   "items": [
+    {
+     "value": "5",
+     "label": "Nap",
+     "text": "Hétfőtől péntekig, minden nap saját fókusszal"
+    },
+    {
+     "value": "3",
+     "label": "Megoldás élőben",
+     "text": "»coraLogistic«, »coraVarion« és »loadBox« működés közben"
+    },
+    {
+     "value": "25+",
+     "label": "Programpont",
+     "text": "Élő bemutatók, előadások, workshopok és egyéni szakértői konzultációk"
+    },
+    {
+     "value": "0 $",
+     "label": "Belépő",
+     "text": "Ingyenes – a helyek száma bemutatónként korlátozott"
+    }
+   ]
+  },
+  {
+   "type": "event_video",
+   "id": "video",
+   "bg": "black",
+   "kicker": "Meghívó",
+   "title": "Meghívó Torrance-be",
+   "text": "<p>Mi vár Önre Torrance-ben – és miért éri meg ellátogatni.</p>",
+   "src": "/assets/video/zoller-automation-week-torrance.mp4",
+   "poster": "/assets/video/automation-week-poster.jpg"
+  },
+  {
+   "type": "event_products",
+   "id": "solutions",
+   "bg": "lightgray",
+   "title": "Három megoldás. Egy automatizált szerszámkörforgás.",
+   "text": "<p>A szerszámraktártól az előkészítésen át a CNC-gépig: nézze meg, hogyan működik együtt a ZOLLER automatizálás – és mit jelent ez az Ön gyártása számára.</p>",
+   "items": [
+    {
+     "name": "»coraLogistic«",
+     "claim": "Automatizált üzemi logisztika",
+     "img": "/assets/showroom/img/hd/coralogistic.webp",
+     "href": "/produkte/automation/werkzeuglogistik/coralogistic",
+     "tag": "coralogistic",
+     "benefits": [
+      "A szerszámok maguktól utaznak: az autonóm »coraExpress« robot szállítja őket a raktár, az előkészítés és a gép között",
+      "A »smartPallet« rendszer biztonságosan tartja a szerszámokat – kézi vagy automatizált szállításhoz",
+      "Szállítási megbízások néhány kattintással a webTMS megbízáskezelésében",
+      "Kevesebb járkálás és keresgélés – a szerszám időben a géphez ér"
+     ]
+    },
+    {
+     "name": "»coraVarion«",
+     "claim": "Váltólapkák automatizált szerelése, ellenőrzése és mérése",
+     "img": "/assets/showroom/img/hd/micbox.webp",
+     "href": "/produkte/automation/werkzeugvorbereitung/micbox",
+     "tag": "coravarion",
+     "benefits": [
+      "A »micBox«-szal a váltólapkák forgatása, fordítása és cseréje teljesen automatikus",
+      "Szerelés, ellenőrzés és mérés egyetlen folyamatos folyamatban",
+      "Egyenletes minőség minden szerszám teljes dokumentációjával",
+      "Kezelő nélkül működik – szakemberei értékteremtő feladatokra koncentrálhatnak"
+     ]
+    },
+    {
+     "name": "»loadBox«",
+     "claim": "Az intelligens szerszámközpont",
+     "img": "/assets/showroom/img/hd/loadbox.webp",
+     "href": "/produkte/automation/werkzeugbereitstellung/loadbox",
+     "tag": "loadbox",
+     "benefits": [
+      "Megbízás szerint komissiózza a szerszámokat, és a logisztika rendelkezésére bocsátja őket",
+      "Egy 6 tengelyes FANUC robot megbízhatóan mozgatja a szerszámokat a be- és kiadás és a raktár között",
+      "Kompakt szerszámtárolás a Kardex Shuttle liftrendszerben",
+      "Szerveralapú vezérlés – kezelés monitorról, táblagépről vagy okostelefonról"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "agenda",
+   "id": "program",
+   "bg": "white",
+   "title": "Program",
+   "text": "<p>Válassza ki a napot és a bemutatót. Egy kattintással helyet foglalhat, vagy felveheti a programpontot a naptárába. Minden időpont csendes-óceáni idő (PT) szerint értendő; az előadások és bemutatók angol nyelvűek.</p>",
+   "email": "sales@zoller-usa.com",
+   "event": "ZOLLER Automation Week Torrance 2026",
+   "location": "ZOLLER Inc. Pacific, 3882 Del Amo Blvd., Suite #603, Torrance, CA 90503, USA",
+   "tz": "America/Los_Angeles",
+   "tzoffset": "-07:00",
+   "days": [
+    {
+     "date": "2026-10-12",
+     "label": "Nyitónap",
+     "focus": "Mind a három megoldás áttekintése",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "Regisztráció és reggeli",
+       "text": "Érkezzen meg, igyon egy kávét, és ismerkedjen meg a ZOLLER csapatával."
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "all",
+       "title": "Keynote: az automatizált szerszámkörforgás",
+       "text": "Hogyan kapcsolódik össze a szerszám-előkészítés, a szerszámbiztosítás és a logisztika az intelligens gyárban."
+      },
+      {
+       "start": "10:30",
+       "end": "11:15",
+       "kind": "Live-Demo",
+       "tag": "coralogistic",
+       "title": "»coraLogistic« élőben",
+       "text": "A »coraExpress« felveszi a szerszámokat, és a »smartPallet«-en a géphez szállítja őket.",
+       "seats": 12
+      },
+      {
+       "start": "11:30",
+       "end": "12:15",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "»coraVarion« élőben",
+       "text": "Váltólapkák automatikus cseréje, ellenőrzése és mérése.",
+       "seats": 12
+      },
+      {
+       "start": "12:15",
+       "end": "13:15",
+       "kind": "Networking",
+       "title": "Ebéd és networking"
+      },
+      {
+       "start": "13:15",
+       "end": "14:00",
+       "kind": "Live-Demo",
+       "tag": "loadbox",
+       "title": "»loadBox« élőben",
+       "text": "Megbízás szerinti szerszámkomissiózás robottal és liftrendszerrel.",
+       "seats": 12
+      },
+      {
+       "start": "14:15",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "Egyéni szakértői konzultációk",
+       "text": "45 perc automatizálási szakértőinkkel – az Ön gyártásáról, szerszámairól és céljairól.",
+       "seats": 3
+      },
+      {
+       "start": "16:30",
+       "end": "17:30",
+       "kind": "Networking",
+       "title": "Fogadás",
+       "text": "Közös hangolódás a hét kezdetére."
+      }
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "label": "Logisztikai nap",
+     "focus": "Fókuszban: »coraLogistic«",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "Regisztráció és reggeli"
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "coralogistic",
+       "title": "Üzemi logisztika felesleges utak nélkül",
+       "text": "Hol vész el idő a szerszámlogisztikában – és hogyan nyerhető vissza."
+      },
+      {
+       "start": "10:30",
+       "end": "11:30",
+       "kind": "Live-Demo",
+       "tag": "coralogistic",
+       "title": "»coraLogistic« részletesen",
+       "text": "Egy teljes szállítási megbízás: a raktártól a bemérésen át a CNC-gépig.",
+       "seats": 12
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Workshop",
+       "tag": "coralogistic",
+       "title": "A gyakorlatban: webTMS megbízáskezelés",
+       "text": "Hozzon létre saját szállítási megbízásokat: válasszon kocsit, célgépet, és indulhat.",
+       "seats": 8
+      },
+      {
+       "start": "12:30",
+       "end": "13:30",
+       "kind": "Networking",
+       "title": "Ebéd és networking"
+      },
+      {
+       "start": "13:30",
+       "end": "14:15",
+       "kind": "Live-Demo",
+       "tag": "loadbox",
+       "title": "»loadBox« és »coraLogistic« együtt",
+       "text": "A komissiózott szerszámok közvetlenül az automatizált szállításba kerülnek.",
+       "seats": 12
+      },
+      {
+       "start": "14:30",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "Egyéni szakértői konzultációk",
+       "text": "Az Ön logisztikai kérdései, a mi szakértőink.",
+       "seats": 3
+      }
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "label": "Szerszám-előkészítési nap",
+     "focus": "Fókuszban: »coraVarion«",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "Regisztráció és reggeli"
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "coravarion",
+       "title": "Váltólapkák automatikus cseréje",
+       "text": "Miért alkalmas annyira a váltólapkák kezelése az automatizálásra."
+      },
+      {
+       "start": "10:30",
+       "end": "11:30",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "»coraVarion« részletesen",
+       "text": "Szerelés, ellenőrzés és mérés egy menetben – élőben a cellánál.",
+       "seats": 12
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "»micBox« közelről",
+       "text": "Forgatás, fordítás, csere: a lapkacsere automatizálása közelről.",
+       "seats": 12
+      },
+      {
+       "start": "12:30",
+       "end": "13:30",
+       "kind": "Networking",
+       "title": "Ebéd és networking"
+      },
+      {
+       "start": "13:30",
+       "end": "14:15",
+       "kind": "Live-Demo",
+       "tag": "coralogistic",
+       "title": "»coraLogistic« élőben",
+       "text": "A szerszámszállítás áttekintése.",
+       "seats": 12
+      },
+      {
+       "start": "14:30",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "Egyéni szakértői konzultációk",
+       "text": "Hozza magával szerszámait és kérdéseit.",
+       "seats": 3
+      }
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "label": "Szerszámbiztosítási nap",
+     "focus": "Fókuszban: »loadBox«",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "Regisztráció és reggeli"
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "loadbox",
+       "title": "Az intelligens gyár szerszámközpontja",
+       "text": "Megbízás szerinti komissiózás keresgélés és összeszedés helyett."
+      },
+      {
+       "start": "10:30",
+       "end": "11:30",
+       "kind": "Live-Demo",
+       "tag": "loadbox",
+       "title": "»loadBox« részletesen",
+       "text": "Robot alapmodul, liftrendszer és be-/kiadó modul együttműködésben.",
+       "seats": 12
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Workshop",
+       "tag": "loadbox",
+       "title": "Vezérlés táblagépről és okostelefonról",
+       "text": "Próbálja ki saját maga a szerveralapú vezérlőszoftvert.",
+       "seats": 8
+      },
+      {
+       "start": "12:30",
+       "end": "13:30",
+       "kind": "Networking",
+       "title": "Ebéd és networking"
+      },
+      {
+       "start": "13:30",
+       "end": "14:15",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "»coraVarion« élőben",
+       "text": "Váltólapkák automatikus cseréje, ellenőrzése és mérése.",
+       "seats": 12
+      },
+      {
+       "start": "14:30",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "Egyéni szakértői konzultációk",
+       "text": "Számoljuk ki együtt automatizálási projektje megtérülését.",
+       "seats": 3
+      }
+     ]
+    },
+    {
+     "date": "2026-10-16",
+     "label": "Nyílt nap",
+     "focus": "A teljes szerszámkörforgás",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "Regisztráció és reggeli"
+      },
+      {
+       "start": "09:30",
+       "end": "10:30",
+       "kind": "Live-Demo",
+       "tag": "all",
+       "title": "A raktártól az orsóig",
+       "text": "Mind a három megoldás egyetlen folyamatban: a »loadBox« komissiózik, a »coraVarion« előkészít, a »coraLogistic« szállít.",
+       "seats": 20
+      },
+      {
+       "start": "10:45",
+       "end": "11:30",
+       "kind": "Workshop",
+       "tag": "all",
+       "title": "Megéri ez nekem?",
+       "text": "Az automatizálás gazdaságossága a szerszám-előkészítésben – számítási példákkal.",
+       "seats": 15
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Live-Demo",
+       "tag": "all",
+       "title": "Nyitott bemutató: az Ön által választott megoldás",
+       "text": "Ön dönti el, mit mutatunk.",
+       "seats": 20
+      },
+      {
+       "start": "12:30",
+       "end": "14:00",
+       "kind": "Networking",
+       "title": "Kaliforniai grillparti és búcsú",
+       "text": "A hetet grillpartival zárjuk – és Önt is szeretettel várjuk."
+      },
+      {
+       "start": "14:00",
+       "end": "16:00",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "Egyéni szakértői konzultációk",
+       "text": "Utolsó lehetőség személyes konzultációra.",
+       "seats": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "event_venue",
+   "id": "directions",
+   "bg": "black",
+   "title": "Így talál meg minket",
+   "name": "ZOLLER Inc. Pacific",
+   "lines": [
+    "3882 Del Amo Blvd., Suite #603",
+    "Torrance, CA 90503, USA"
+   ],
+   "map": "https://www.google.com/maps/search/?api=1&query=3882+Del+Amo+Blvd+Suite+603+Torrance+CA+90503",
+   "notes": [
+    "Los Angeles South Bay negyedében, a LAX repülőtér közelében",
+    "Ingyenes, regisztráció szükséges",
+    "Előadások és bemutatók angol nyelven"
+   ],
+   "contact": {
+    "label": "Regisztráció és kérdések",
+    "email": "sales@zoller-usa.com",
+    "phone": "+1 734 332 4851"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>Októberben nincs ideje?</h3> <p><a class=\"btn\" href=\"https://myzoller.com/us/en/expert/booking\" rel=\"noopener\" target=\"_blank\">Foglaljon online egyéni szakértői konzultációt</a></p>",
+   "id": "experte",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "de_path": "/events/automation-week-torrance-2026",
+ "hand": true
+}

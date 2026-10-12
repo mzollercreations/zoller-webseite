@@ -1,0 +1,411 @@
+{
+ "path": "/기업",
+ "url": "/kr/%EA%B8%B0%EC%97%85",
+ "title": "기업",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "기업",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "기업",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/2/8/csm_mehr_einblick_auf_zoller_bb6ef13034.webp",
+     "video": null,
+     "title": "졸러에 대해 더 알아보기",
+     "kicker": "",
+     "text": "<p>여러분은 이미 저희 시스템과 솔루션, 제품을 잘 알고 계실 것입니다.<br/>여기에서 ZOLLER에 대한 더 자세한 정보를 확인해 보세요. </p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c623",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/0/csm_teaser_profile_3d1ab9d40a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "회사 소개",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84",
+     "caption": "<figcaption> <h3>회사 소개</h3> <p>ZOLLER는 800명 이상의 숙련된 임직원, 혁신적인 제조 기술, 그리고 3대째 이어져 온 가족기업으로서의 친근하고 실용적인 기업 문화로 잘 알려져 있습니다.</p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/a/csm_teaser_historie_3784d374de.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "회사 연혁",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84/%EC%97%B0%ED%98%81",
+     "caption": "<figcaption> <h3>회사 연혁</h3> <p>ZOLLER는 1945년 작은 기계 공방으로 시작되었습니다.<br/> 창립자 Alfred Zoller는 자신의 기술과 역량을 바탕으로 오늘날까지도 끊임없이 발전하고 있는 글로벌 기업의 기반을 마련했습니다.</p> <br/> 자세히 알아보기 </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c624",
+   "bg": "white",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_smart_factory_8c0b98e653.webp",
+    "alt": ""
+   },
+   "text": "<h3>스마트 팩토리</h3> <p>ZOLLER 제품, 공구 데이터, 인터페이스 및 CNC 공작기계 간의 공정 중심적이고 실무에 밀착된 상호 작용을 직접 경험해 보십시오.</p> <p><a class=\"btn\" href=\"/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98/%EC%8A%A4%EB%A7%88%ED%8A%B8-%ED%8C%A9%ED%86%A0%EB%A6%AC\">자세히 알아보기</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c790",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/6/csm_teaser_qa_20e3c6ded3.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "품질 관리",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%ED%92%88%EC%A7%88-%EA%B4%80%EB%A6%AC",
+     "caption": "<figcaption> <h3>품질 관리</h3> <p>내부 관리 활동과 독립적인 감사를 통해 고객에게 항상 최고 품질의 솔루션을 제공할 수 있도록 보장합니다.</p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/8/csm_teaser_compilance_5800459827.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "컴플라이언스",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%EA%B7%9C%EC%A0%95-%EC%A4%80%EC%88%98",
+     "caption": "<figcaption> <h3>컴플라이언스</h3> <p>법률과 윤리 기준은 당사의 모든 비즈니스 활동에서 반드시 준수해야 하는 기본 원칙입니다.</p> <br/> 자세히 알아보기 </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c670",
+   "bg": "white",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/b/csm_teaser_reports_90bbbeda0a.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "소식 & 스토리",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%EB%B3%B4%EA%B3%A0%EC%84%9C-%EB%B0%8F-%EA%B8%B0%EC%82%AC",
+     "caption": "<figcaption> <h3>소식 &amp; 스토리</h3> <p>ZOLLER의 새로운 소식은 무엇일까요? 고객들은 ZOLLER의 솔루션을 어떻게 활용하고 있을까요?<br/> 최신 소식을 여기에서 확인하세요.</p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/6/csm_teaser_sustainability_85910c6212.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "지속 가능성",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%EC%A7%80%EC%86%8D-%EA%B0%80%EB%8A%A5%EC%84%B1",
+     "caption": "<figcaption> <h3>지속 가능성</h3> <p>ZOLLER는 폐기물 감소, 에너지 소비 절감 및 효율성 향상을 통해 고객이 지속 가능성 목표를 보다 쉽게 달성할 수 있도록 지원합니다.</p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/e/csm_teaser_parter_23d662c967.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "ZOLLER 파트너",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84/%ED%8C%8C%ED%8A%B8%EB%84%88",
+     "caption": "<figcaption> <h3>ZOLLER 파트너</h3> <p>ZOLLER는 파트너사와의 긴밀한 협력을 통해 고객에게 최적의 솔루션을 제공합니다.</p> <br/> 자세히 알아보기 </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c627",
+   "bg": "white",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/f/6/csm_teaser_map_c7d5eb53c3.webp",
+    "alt": ""
+   },
+   "text": "<h3>전 세계 어디서나 여러분을 위해</h3> <p><a class=\"btn\" href=\"/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98/%EC%9C%84%EC%B9%98\">위치 찾기</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c789",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/4/csm_teaser_media_f7299d9c84.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "미디어",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%EB%AF%B8%EB%94%94%EC%96%B4",
+     "caption": "<figcaption> <h3>미디어</h3> <p>보도자료, 신제품 발표, 전시회 참가 소식, 전문 매체의 보도 내용 및 뉴스 아카이브를 확인하실 수 있습니다.</p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/e/csm_teaser_career_c36b4715da.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "ZOLLER 채용",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%EC%B1%84%EC%9A%A9-%EC%A0%95%EB%B3%B4",
+     "caption": "<figcaption> <h3>ZOLLER 채용</h3> <p>제조업의 미래를 함께 만들어가고 싶으신가요?<br/> ZOLLER의 채용 공고를 여기에서 확인하세요.</p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/d/4/csm_teaser_newsletter_36e5e58bec.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "뉴스레터",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98/%EB%89%B4%EC%8A%A4%EB%A0%88%ED%84%B0",
+     "caption": "<figcaption> <h3>뉴스레터</h3> <p>ZOLLER 뉴스레터「Insights into progress」에서는 주요 산업 이슈와 제품 정보, 그리고 다양한 성공 사례를 소개합니다.</p> <br/> 자세히 알아보기 </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c671",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/b/csm_teaser_academy_a9d8f4dd92.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "ZOLLER 아카데미",
+     "href": "/kr/%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8",
+     "caption": "<figcaption> <h3>ZOLLER 아카데미</h3> <p>ZOLLER 아카데미에서 ZOLLER 솔루션과 장비의 기능을 최대한 활용하는 방법을 배워보세요.<br/> 아카데미 소개, 교육 주제 및 교육 일정에 대한 자세한 정보를 확인하실 수 있습니다.</p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/f/csm_teaser_references_1f5b635648.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "고객사 사례",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84/%EC%B0%B8%EA%B3%A0-%EC%9E%90%EB%A3%8C",
+     "caption": "<figcaption> <h3>고객사 사례</h3> <p>ZOLLER는 오랜 기간 동안 전 세계 고객들과 지속적인 파트너십을 구축해 왔습니다. 소규모 가공업체부터 각 산업 분야를 선도하는 글로벌 OEM 기업에 이르기까지 다양한 고객들과 함께하고 있습니다.</p> <br/> 자세히 알아보기 </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c672",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/kr/기업",
+ "de_path": "/unternehmen"
+}

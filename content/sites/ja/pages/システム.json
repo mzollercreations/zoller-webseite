@@ -1,0 +1,471 @@
+{
+ "path": "/システム",
+ "url": "/ja/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0",
+ "title": "システム",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ja/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8"
+  },
+  {
+   "label": "システム",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ja/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8"
+  },
+  {
+   "label": "システム",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/das-system",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/the-system",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/el-sistema",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/le-systeme",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/o-sistema",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/il-sistema",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/systemet",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/das-system",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/the-system",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/le-systeme",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%8B%9C%EC%8A%A4%ED%85%9C",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/the-system",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/el-sistema",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/o-sistema",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/01_Pages/The_System/ZOLLER_WELT_1920x1080.mp4",
+     "title": "ZOLLER – 他に類を見ない独自システム",
+     "kicker": "",
+     "text": "<p>数十年にわたり磨き上げてきた</p> <p>トータルソリューション。</p> <p>だからこそ、お客様の現場で</p> <p>揺るぎない効率を生み出します。</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c604",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "66-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2 class=\"headline-decor\"> ソリューションからスタートし – システムへ。 </h2>",
+      "body": "<p class=\"extra-large-text\">競争力を長く維持できる企業には、共通点があります。それは、点ではなく面で支えるトータルシステムを選んでいることです。</p> <p class=\"extra-large-text\">ZOLLERは、切削工具の管理・段取りにおいて、トータルでシステムをご提供できる世界唯一のメーカーです。このシステムは切削工具を中心に据え、データを用いて関連するプロセスを連携させます。その結果、お客様の切削加工において、最高の経済性、品質、精度を実現します。</p> <p class=\"extra-large-text\">現在の状況からスタートし、第一段階のニーズが満たされた時点でゴールとします。そして、いつでも次の段階へ進むことができるというステップアップを狙えます。</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c556",
+      "bg": "yellow",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-2cols",
+   "id": "c1854",
+   "bg": "yellow",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "hotspots",
+   "header": "",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/2/4/csm_zoller_system_en_7439d4eabe.webp",
+    "alt": "",
+    "w": 1540,
+    "h": 1193
+   },
+   "spots": [
+    {
+     "x": 71.714,
+     "y": 20.307,
+     "label": "ツール管理",
+     "text": "<h3>ツール管理</h3> <p>工具キャビネット、組立ステーション、ソフトウェア、インターフェース：ZOLLERは工具室の整理整頓を実現し、工具データの可視性を向上させます。 </p> <p>メリット <a class=\"btn\" href=\"/produkte/toolmanagement\">製品を見る</a></p>"
+    },
+    {
+     "x": 87.074,
+     "y": 38.032,
+     "label": "収縮技術",
+     "text": "<h3>収縮技術</h3> <p>工具の装着・取り外しにおける最も革新的なソリューション：優れたユーザーガイダンス、低消費電力、そして記録的な短さと言える処理時間。 </p> <p><a class=\"btn\" href=\"/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%8F%8E%E7%B8%AE%E6%8A%80%E8%A1%93\">メリット</a> <a class=\"btn\" href=\"/produkte/schrumpftechnik\">製品を見る</a></p>"
+    },
+    {
+     "x": 89.237,
+     "y": 54.501,
+     "label": "バランス調整技術",
+     "text": "<h3>バランス調整技術</h3> <p>工具の寿命を延ばし、表面品質を向上：市場最高峰のバランス調整機で。 </p> <p><a class=\"btn\" href=\"/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4%E6%8A%80%E8%A1%93\">メリット</a> <a class=\"btn\" href=\"/produkte/wuchttechnik\">製品を見る</a></p>"
+    },
+    {
+     "x": 38.021,
+     "y": 59.037,
+     "label": "ZOLLER »idChip«搭載の工具ホルダー",
+     "text": "<h3>ZOLLER »idChip«搭載の工具ホルダー</h3> <p>»idChip« – 工具とデジタル製造をつなぐ最適なインターフェース。</p> <p><a class=\"btn\" href=\"/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B7%A5%E5%85%B7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC\">メリット</a> <a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">ツールショップへ直接アクセス</a></p>"
+    },
+    {
+     "x": 42.347,
+     "y": 77.53,
+     "label": "検査・測定",
+     "text": "<h3>検査・測定</h3> <p>品質を記録し、デジタルツインを作成しましょう。</p> <p><a class=\"btn\" href=\"/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A\">メリット</a> <a class=\"btn\" href=\"/produkte/pruefen-messen\">製品を見る</a></p>"
+    },
+    {
+     "x": 64.954,
+     "y": 84.787,
+     "label": "工具の研ぎ",
+     "text": "<h3>工具の研ぎ</h3> <p>工具メーカーや研削業者にとって、高い経済性と品質の証明を実現するには、測定データとデータ管理が不可欠です。ZOLLERは、そのために必要なあらゆるソリューションをご用意しています。</p> <p><a class=\"btn\" href=\"/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E7%A0%94%E3%81%8E\">詳細はこちら</a></p>"
+    },
+    {
+     "x": 75.23,
+     "y": 84.368,
+     "label": "フライス加工",
+     "text": "<h3>フライス加工</h3> <p>µm単位の精度を持つ工具データとCAMから部品までのデジタル化により、フライス加工プロセスの経済性を向上。</p> <p><a class=\"btn\" href=\"/ja/%E3%83%95%E3%83%A9%E3%82%A4%E3%82%B9%E5%8A%A0%E5%B7%A5\">詳細はこちら</a></p>"
+    },
+    {
+     "x": 85.398,
+     "y": 84.299,
+     "label": "回転",
+     "text": "<h3>回転</h3> <p>旋削工具の精密な調整と測定、そして高いデータ可用性：旋削加工の生産性を今すぐ向上させましょう。 </p> <p><a class=\"btn\" href=\"/ja/%E5%9B%9E%E8%BB%A2\">詳細はこちら</a></p>"
+    },
+    {
+     "x": 85.019,
+     "y": 70.551,
+     "label": "»zidCode«",
+     "text": "<h3>»zidCode«</h3> <p>自動化された、エラーのない工具データ管理により、安全性と効率性を向上させます。</p> <p><a class=\"btn\" href=\"/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E3%83%87%E3%83%BC%E3%82%BF%E8%BB%A2%E9%80%81/zidcode\">»zidCode«の詳細</a></p>"
+    },
+    {
+     "x": 68.415,
+     "y": 68.737,
+     "label": "設定と測定",
+     "text": "<h3>設定と測定</h3> <p>これにより、セットアップ時間を40％以上短縮し、工具の耐用年数を延ばすことができます。 </p> <p><a class=\"btn\" href=\"/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A\">メリット</a> <a class=\"btn\" href=\"/produkte/einstellen-messen\">製品を見る</a></p>"
+    },
+    {
+     "x": 50.676,
+     "y": 21.144,
+     "label": "プロセス重視の測定",
+     "text": "<h3> プロセス重視の測定</h3> <p>入荷時の工具を迅速かつ正確にチェックしたり、機械のすぐそばで研削品質を確認したり――ZOLLERのプロセス指向ソリューション。</p> <p><a class=\"btn\" href=\"/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A\">メリット</a> <a class=\"btn\" href=\"/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A/%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E9%87%8D%E8%A6%96%E3%81%AE%E6%B8%AC%E5%AE%9A/pombasic\">»pomBasic«の詳細</a></p>"
+    },
+    {
+     "x": 57.004,
+     "y": 31.333,
+     "label": "工具の準備",
+     "text": "<h3>工具の準備</h3> <p>工具のセットアップや測定、および工具のハンドリングを自動化します。一般的なプロセスチェーンも、ZOLLER を使用すれば自律的に実行されます。 </p> <p><a class=\"btn\" href=\"/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E8%87%AA%E5%8B%95%E5%8C%96\">メリット</a> <a class=\"btn\" href=\"/produkte/automation/werkzeugvorbereitung\">製品を見る</a></p>"
+    },
+    {
+     "x": 38.453,
+     "y": 47.732,
+     "label": "工具の提供",
+     "text": "<h3>工具の提供</h3> <p>ZOLLERなら、次回の製造注文に必要なすべての工具を自動的に準備できます。 </p> <p><a class=\"btn\" href=\"/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E8%87%AA%E5%8B%95%E5%8C%96\">メリット</a> <a class=\"btn\" href=\"/produkte/automation/werkzeugbereitstellung\">製品を見る</a></p>"
+    },
+    {
+     "x": 56.03,
+     "y": 60.642,
+     "label": "工具の点検",
+     "text": "<h3>工具の点検</h3> <p>»genius«シリーズの測定機を使用して、金型検査を自動化する方法。オプションでレーザーマーキングと完全なドキュメント作成機能も利用可能です。</p> <p><a class=\"btn\" href=\"/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E8%87%AA%E5%8B%95%E5%8C%96\">メリット</a> <a class=\"btn\" href=\"/produkte/automation/werkzeuginspektion\">製品を見る</a></p>"
+    },
+    {
+     "x": 69.443,
+     "y": 45.429,
+     "label": "工具物流",
+     "text": "<h3>工具物流</h3> <p>工具は、工具準備工程からCNC工作機械へ、あるいは工具マガジンへと自動的に搬送されます。そして、再び戻ってきます。 </p> <p><a class=\"btn\" href=\"/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E8%87%AA%E5%8B%95%E5%8C%96\">メリット</a> <a class=\"btn\" href=\"/produkte/automation/werkzeuglogistik\">製品を見る</a></p>"
+    },
+    {
+     "x": 76.041,
+     "y": 33.357,
+     "label": "»toolCart«",
+     "text": "<h3>»toolCart«</h3> <p>工具を快適に運ぶために</p> <p><a class=\"btn\" href=\"/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%90%AC%E9%80%81/toolcart\">»toolCart«の詳細</a></p>"
+    },
+    {
+     "x": 27.258,
+     "y": 39.358,
+     "label": "CAD設計",
+     "text": "<h3>CAD設計</h3> <p>ZOLLERのツール管理システムは、工程の開始から終了まで、工具データを提供します。当社のインターフェースは、CAD/CAMシステム、ERPシステム、および工具カタログから工具データを取得し、ZOLLERのソフトウェア「TMS Tool Management Solutions」に取り込みます。</p> <p>メリット</p>"
+    },
+    {
+     "x": 38.94,
+     "y": 30.356,
+     "label": "CAM加工",
+     "text": "<h3>CAM加工</h3> <p>ZOLLERのツール管理ソリューションにより、z.Oneデータベースを通じて、CAMから加工部品に至るまで、データが一貫して利用可能になります。これにより、CAMやCADによる工程開始から、CNC研削盤や加工機の制御に至るまで、生産計画が容易になり、セットアップ時間が短縮され、欠品が減少します。</p> <p>インターフェースの詳細</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c4007",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> いま、製造業が大切にすべきもの </h1>",
+   "body": "<p class=\"extra-large-text\">ZOLLERの一貫したものづくりは、「革新・品質・精度・サービス」という4つの基本理念に支えられています。開発から製造、納入に至るすべての工程で、この理念を一貫して貫く——だからこそ、多くのお客様から確かなご評価をいただいています。 </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/8/csm_value_system_4adb77b8bc.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c607",
+   "bg": "black",
+   "space": {
+    "before": "extra-small",
+    "after": "none"
+   }
+  },
+  {
+   "type": "values",
+   "header": "",
+   "tiles": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_value_innovation_30b03ea669.webp",
+      "alt": "",
+      "w": 739,
+      "h": 774
+     },
+     "text": "<p>「変わり続けること」——それが、ZOLLERが80年間貫いてきた進歩の哲学です。私たちは過去に学び、今を磨き、そして未来を創り続けてきました。</p>"
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/1/f/csm_value_quality_596c87a5e7.webp",
+      "alt": "",
+      "w": 739,
+      "h": 774
+     },
+     "text": "<p>ZOLLERの一台一台には、組み立てた技術者の名前が記されています。それは、品質に対する個人としての責任表明であり、80年続くドイツのものづくりの流儀です。「Made in Germany」とは、こうした一人ひとりの誇りの集積に他なりません。 </p>"
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/3/8/csm_value_precition_86c1763b85.webp",
+      "alt": "",
+      "w": 739,
+      "h": 774
+     },
+     "text": "<p>「測れないものは、改善できない」——ZOLLERは、この原則のもと最高水準の測定技術を磨き続けています。1µm未満の世界まで解像する最先端装置が、お客様の現場に確かな判断材料をもたらします。 </p>"
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/9/6/csm_value_service_c143139351.webp",
+      "alt": "",
+      "w": 739,
+      "h": 774
+     },
+     "text": "<p>信頼は、約束ではなく実績によって築かれる——ZOLLERは、世界62カ国のお客様の現場で、その信頼を一台ずつ積み上げてきました。ブラジルでもベトナムでも、日本でも、お客様のそばに私たちがいます。</p>"
+    }
+   ],
+   "ftype": "zoller_column-image-text",
+   "id": "c605",
+   "bg": "black",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> ZOLLERシステムを実際に体験する </h2>",
+   "body": "<p>プレイデルスハイムにあるZOLLERスマートファクトリーでは、完全なショップフロア工具段取り自動化システムに至るまでのあらゆるソリューションを備えたZOLLERシステムをご紹介しています。CAMから部品完成までのシームレスなプロセスがもたらす高い効率性と、一貫して利用可能な工具データがもたらすメリットを、ぜひご自身の目で確かめてください。 </p> <p>ご来場の予約や、専門家との1対1の相談の予約方法については、今すぐ詳細をご確認ください。</p> <p><a class=\"btn\" href=\"/ja/%E4%BC%81%E6%A5%AD/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC\">スマートファクトリーへ</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/9/csm_smartfactory_teaser_4b2372736c.webp",
+     "alt": "",
+     "w": 1400,
+     "h": 1400
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c59554",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> ZOLLERシステムの基礎となる4つの数値 </h2>",
+   "body": "<p>ZOLLERのシステムを支えているのは、継続的に行われている開発プロセスです。その成果は、次の4つの数字「80 | 60 | 14 | 7」に如実に表れています。これらは、工具に関連するプロセスにおいて、ZOLLERがなぜ最適なパートナーであるかを明確に示しています。詳細はパンフレットをご覧ください。</p> <p><a class=\"btn\" href=\"/fileadmin/03_Media_Press/Downloads/System/Flyer_ZOL_Vier_Zahlen_DE.pdf\" rel=\"noopener\" target=\"_blank\">パンフレットをダウンロード</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/0/csm_teaser_vier_zahlen_fe067fe955.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c62147",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ja/システム",
+ "de_path": "/das-system"
+}

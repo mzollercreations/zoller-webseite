@@ -1,0 +1,385 @@
+{
+ "path": "/szerszam-zsugoritasa",
+ "url": "/hu/szerszam-zsugoritasa",
+ "title": "Szerszám zsugorítása",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Szerszám zsugorítása",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Szerszám zsugorítása",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeug-schrumpfen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-shrinkage",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/contraer-herramienta",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/fretter-loutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/retrair-ferramenta",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/calettare-lutensile",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/krympning-av-verktyg",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeug-schrumpfen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/retrecissement-de-loutil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E5%8F%8E%E7%B8%AE",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EC%88%98%EC%B6%95",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/shrink-tool",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/contraer-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/retrair-ferramenta",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/1/b/csm_shrinking_header_4f2b52f126.webp",
+     "video": null,
+     "title": "Gyors szerszámcsere zsugorító készülékkel",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4381",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4><strong>Egy jó zsugorító készülékkel a szerszámcsere különböző befogóhüvelyekkel gyorsan, egyszerűen és megbízhatóan elvégezhető. Hogy ez hogyan működik, és milyen előnyökkel jár, azt itt részletesebben ismertetjük.</strong></h4>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4035",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>Mi történik a szerszám zsugorításakor?</h4> <p>A szerszám zsugorítása nem azt jelenti, hogy a szerszám mérete csökken. Ehelyett a szerszámfogadó, amelybe például egy fúró- vagy marószerszámot helyeznek be, rövid ideig, célzottan és egyenletesen úgy melegítik fel, hogy kitáguljon.</p> <p>Ezáltal a szerszámfogadóban elegendő hely keletkezik a szerszám behelyezéséhez. Lehűléskor a fogadó anyaga minden oldalról egyenletesen összehúzódik. Így a szerszám nagy merevséggel, maximális szorítóerővel és központosan van befogva.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4388",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>Mire szolgálnak a speciális zsugorító befogók?</h4> <p>A zsugorításhoz többnyire speciális szerszámtartókat, az úgynevezett zsugorító befogókat használnak. Ezeket úgy tervezték, hogy az ismételt felmelegedés és lehűlés ellenére is megőrizzék alakjukat. Például nem tartalmaznak mozgó alkatrészeket, így megőrzik kiegyensúlyozottságukat; emellett fontos, hogy a zsugorító befogó körkörös futáspontossága is nagyon magas legyen, mert ellenkező esetben még a nagyon pontosan központosított szerszám sem segít.</p> <p>A hagyományos befogóhüvelyekkel szemben a zsugorító befogóhüvelyeknek az a kis hátrányuk van, hogy minden szárátmérőhöz külön befogóhüvelyre van szükség, amelynek átmérője illeszkedik az adott szárátmérőhöz. Ezzel szemben azonban lényegesen nagyobb a körkörös futáspontosságuk, ami a kiváló minőségű megmunkált munkadarabok esetében nagy jelentőséggel bír.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4387",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>Mi az a zsugorító berendezés, és hogyan működik?</h4> <p>A zsugorító gép indukciós árammal (azaz mágneses mező segítségével) rövid idő alatt egyenletesen felmelegíti a zsugorító hüvelyt, a szerszámfogadót. A megfelelő segédeszközök és mérőberendezések segítségével nemcsak biztosítható, hogy az új szerszám pontosan központosítva legyen, hanem megfelelő hosszúsági pontosságot is biztosíthat, amelyet a zsugorító hüvely ellenőrzött lehűlése előtt megmérhet és szükség esetén korrigálhat. A megfelelő érzékelők megakadályozzák a zsugorító hüvely vagy a szerszám túlmelegedését is.</p> <p>Az automatizált zsugorítási technika így például gondoskodik arról, hogy a kiugró hossz és az összes többi, a munkadarabok megmunkálásához fontos paraméter automatikusan mérhető és helyesen beállítható legyen – és a szerszám mégis a legrövidebb időn belül újra rendelkezésre álljon. Ez rövid átállási időket és összességében alacsonyabb költségeket biztosít.</p> <p>A jó zsugorító berendezések emellett saját hűtőegységgel is rendelkeznek, amelyben a zsugorító befogó egyenletesen hűl le. Ehhez például érintéses hűtést alkalmaznak, egyes berendezések vízhűtéssel is működnek. A megfelelően biztosított hűtésnek köszönhetően elhárul az égési sérülések veszélye is, amelyek természetesen előfordulhatnának a felmelegedett szerszámbefogó véletlen megérintése esetén.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4382",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Beállítás, zsugorítás és mérés – a teljesen automatikus kombinált megoldás </h2>",
+   "body": "<p>A ZOLLER »redomatic« segítségével a szerszámok zsugorítása egyszerűen és teljesen automatikusan zajlik. A szerszámok beállítására, zsugorítására és mérésére szolgáló sokoldalú gépünk – amely minden műveletet egy közös folyamat keretében automatikusan elvégzi – 4 tengelyes CNC-vezérléssel, autofókusszal, szerszámtárral, indukciós tekerccsel, hátsó orsóval és hűtőrendszerrel rendelkezik.</p> <h4><br/>Biztonságos, gazdaságos és precíz</h4> <p>A szabadalmaztatott »asza« hosszúságütköző-automatikával különösen lehetőséget kínál a szerszámok egyszerű, gyors és pontos, legalább +/- 10 µm pontosságú zsugorítására a kívánt hosszúságra.</p> <p>A ZOLLER »redomatic« a szerszámfogók melegítése során csak a feltétlenül szükséges energiát adja le, ezzel kímélve a fogókat; az általunk tervezett zsugorítóvezető rendszer és a szabadalmaztatott füstelszívó nagyobb biztonságot nyújt munkatársainak.</p> <p><a class=\"btn\" href=\"/hu/megoldasok/hore-zsugorodo-technika\">Itt mindent megtudhat sikeres zsugorítási megoldásunkról</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4040",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Milyen előnyei vannak a zsugorításnak és a kiterjesztésnek? </h2>",
+   "body": "<p>A szerszámok zsugorításának és kiterjesztésének számos előnye van:</p><ul><li>A szerszám központosítása már a zsugorítás előtt lehetséges, ami megakadályozza a szögeltetést és biztosítja a nagy körkörös pontosságot.</li><li>A szerszámot a zsugorítótokmányban nagy szorítóerők tartják egyenletesen.</li><li>A speciális befogók kiváló kiegyensúlyozottságot biztosítanak, és számos zsugorítási folyamat után sem deformálódnak.</li><li>Egy kiváló minőségű zsugorító készülék és egy megfelelő zsugorító befogó használatával a fűtési folyamat és a lehűlés kevesebb mint egy percet vesz igénybe.</li><li>Magas fordulatszámok és nagy kiugró hosszúságú szerszámok esetén egyetlen más befogási eljárás sem teszi lehetővé a szerszámok ilyen precíz használatát.</li></ul>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4039",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>Minden egy helyen</h3> <p>A ZOLLER »powerShrink« zsugorítóállomásunkkal minden, ami a gyors zsugorításhoz szükséges, egy helyen megtalálható. Moduláris felépítésének köszönhetően a munkaállomást könnyedén az Ön igényeihez és követelményeihez igazíthatja.</p> <p>Az állomás univerzálisan használható minden 3–32 mm átmérőjű HSS- és keményfém szerszámhoz, és rendkívül hosszú szerszámokhoz is alkalmas.</p> <p><a class=\"btn\" href=\"/hu/termekek/hore-zsugorodo-technika/powershrink\">Tudjon meg többet a ZOLLER »powerShrink« zsugorítóállomásról</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textpic",
+      "id": "c4037",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/6/9/csm_header_powershrink_fda54c16eb.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 896
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "image",
+      "id": "c4038",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4036",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/e/csm_teaser_shrinking_small_43834d179e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Hőzsugorítási technika: előnyei",
+     "href": "/hu/megoldasok/hore-zsugorodo-technika",
+     "caption": "<figcaption> <h3>Hőzsugorítási technika: előnyei</h3> <p>Olvassa el, hogyan értük el az energiahatékonyság, a folyamatsebesség és az ergonómia terén elért jelentős javulást. Használja ki a tökéletességet a gyártási folyamataiban! </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 szakértői beszélgetés",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 szakértői beszélgetés</h3> <p>Személyre szabott megbeszélés az Ön céljairól és az azok eléréséhez kapcsolódó ötleteinkről. A ZOLLER online tanácsadása közvetlenül a Smart Factory-ból. Foglaljon időpontot most! </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3834",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/hu/szerszam-zsugoritasa",
+ "de_path": "/werkzeug-schrumpfen"
+}

@@ -1,0 +1,748 @@
+{
+ "meta": [
+  {
+   "label": "Serwis",
+   "href": "/pl/przedsiebiorstwa/kontakt/osoba-kontaktowa"
+  },
+  {
+   "label": "Media",
+   "href": "/pl/przedsiebiorstwa/media"
+  },
+  {
+   "label": "Kariera",
+   "href": "/pl/przedsiebiorstwa/kariera"
+  }
+ ],
+ "main": [
+  {
+   "label": "System",
+   "href": "/pl/system"
+  },
+  {
+   "label": "Państwa sukces",
+   "href": "/pl/panstwa-sukces"
+  },
+  {
+   "label": "Rozwiązania",
+   "href": "/pl/rozwiazania",
+   "children": [
+    {
+     "label": "Dlaczego ZOLLER Solutions?",
+     "href": "/pl/rozwiazania"
+    },
+    {
+     "label": "Ustawianie i pomiary",
+     "href": "/pl/rozwiazania/ustawianie-i-pomiary"
+    },
+    {
+     "label": "Kontrola i pomiary",
+     "href": "/pl/rozwiazania/kontrola-i-pomiary"
+    },
+    {
+     "label": "Automatyzacja",
+     "href": "/pl/rozwiazania/automatyzacja",
+     "children": [
+      {
+       "label": "Przegląd",
+       "href": "/pl/rozwiazania/automatyzacja"
+      },
+      {
+       "label": "Logistyka",
+       "href": "/pl/rozwiazania/automatyzacja/logistyka"
+      },
+      {
+       "label": "Przygotowanie narzędzi",
+       "href": "/pl/rozwiazania/automatyzacja/przygotowanie-narzedzi"
+      },
+      {
+       "label": "Dostarczanie narzędzi",
+       "href": "/pl/rozwiazania/automatyzacja/dostarczanie-narzedzi"
+      },
+      {
+       "label": "Kontrola narzędzi",
+       "href": "/pl/rozwiazania/automatyzacja/kontrola-narzedzi"
+      }
+     ]
+    },
+    {
+     "label": "Technika obkurczania",
+     "href": "/pl/rozwiazania/technika-obkurczania"
+    },
+    {
+     "label": "Uchwyty narzędziowe",
+     "href": "/pl/rozwiazania/uchwyty-narzedziowe"
+    },
+    {
+     "label": "Technika wyważania",
+     "href": "/pl/rozwiazania/technika-wywazania"
+    },
+    {
+     "label": "Obróbka kamienia metodą CNC",
+     "href": "/pl/rozwiazania/obrobka-kamienia-metoda-cnc"
+    }
+   ]
+  },
+  {
+   "label": "Produkty",
+   "href": "/pl/produkty",
+   "children": [
+    {
+     "label": "Przegląd produktów",
+     "href": "/pl/produkty"
+    },
+    {
+     "label": "Ustawianie i pomiary",
+     "href": "/pl/produkty/ustawianie-i-pomiary",
+     "children": [
+      {
+       "label": "Urządzenia pionowe",
+       "href": "/pl/produkty/ustawianie-i-pomiary/urzadzenia-pionowe",
+       "children": [
+        {
+         "label": "»smile«",
+         "href": "/pl/produkty/ustawianie-i-pomiary/urzadzenia-pionowe/smile",
+         "claim": "Wprowadzenie do profesjonalnego ustawiania i pomiarów",
+         "desc": "Solidne urządzenia klasy podstawowej, zapewniające dokładność rzędu mikrometrów, przeznaczone do standardowych narzędzi",
+         "img": "/fileadmin/_processed_/4/3/csm_smile_preview_6232033e55.webp"
+        },
+        {
+         "label": "»venturion«",
+         "href": "/pl/produkty/ustawianie-i-pomiary/urzadzenia-pionowe/venturion",
+         "claim": "Modułowa klasa premium spełniająca najwyższe wymagania",
+         "desc": "Doskonała regulacja i pomiar narzędzi z wieloma opcjami",
+         "img": "/fileadmin/_processed_/7/d/csm_venturion_preview_7611e56f51.webp"
+        }
+       ]
+      },
+      {
+       "label": "Urządzenia poziome",
+       "href": "/pl/produkty/ustawianie-i-pomiary/urzadzenia-poziome",
+       "children": [
+        {
+         "label": "»hyperion«",
+         "href": "/pl/produkty/ustawianie-i-pomiary/urzadzenia-poziome/hyperion",
+         "claim": "Wszechstronne narzędzie specjalizujące się w narzędziach do toczenia",
+         "desc": "Poziomy przyrząd do regulacji i pomiaru w obróbce skrawaniem",
+         "img": "/fileadmin/_processed_/1/8/csm_hyperion_preview_3b4c91eaf7.webp"
+        }
+       ]
+      },
+      {
+       "label": "Rozwiązania w zakresie automatyki",
+       "href": "/pl/produkty/ustawianie-i-pomiary/rozwiazania-w-zakresie-automatyki",
+       "children": [
+        {
+         "label": "»coraMeasure LG«",
+         "href": "/pl/produkty/automatyzacja/przygotowanie-narzedzi/corameasure-lg",
+         "claim": "Automatyczny pomiar narzędzi",
+         "desc": "Ekonomiczna obsługa narzędzi w systemie ZOLLER »venturion«",
+         "img": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_b31336460f.webp"
+        },
+        {
+         "label": "»roboBox«",
+         "href": "/pl/produkty/automatyzacja/przygotowanie-narzedzi/robobox",
+         "claim": "Modułowa automatyka dla warsztatu narzędziowego",
+         "desc": "Do sześciu modułów do wykonywania czynności takich jak montaż, czyszczenie, pomiary, obkurczanie i inne",
+         "img": "/fileadmin/_processed_/7/a/csm_roboBox_preview_ae1a1aba4b.webp"
+        }
+       ]
+      },
+      {
+       "label": "Obróbka kamienia metodą CNC",
+       "href": "/pl/produkty/ustawianie-i-pomiary/obrobka-kamienia-metoda-cnc",
+       "children": [
+        {
+         "label": "»smile | GBO«",
+         "href": "/pl/produkty/ustawianie-i-pomiary/obrobka-kamienia-metoda-cnc/smile-gbo",
+         "claim": "Pomiar narzędzi kamiennych i drewnianych",
+         "desc": "Dzięki optyce szerokokątnej umożliwia wyjątkowo precyzyjny pomiar wysokości",
+         "img": "/fileadmin/_processed_/f/4/csm_smileGBO_preview_63b44ef4c9.webp"
+        },
+        {
+         "label": "»conDress«",
+         "href": "/pl/produkty/kontrola-i-pomiary/obrobka-kamienia-metoda-cnc/condress",
+         "claim": "Czyszczenie powierzchni szlifierskich z osadzeniem diamentowym",
+         "desc": "Czyszczenie i przywracanie zdolności skrawania narzędzi do obróbki kamienia",
+         "img": "/fileadmin/_processed_/8/5/csm_conDress_preview_7966236664.webp"
+        }
+       ]
+      },
+      {
+       "label": "Rozwiązania specjalne",
+       "href": "/pl/produkty/ustawianie-i-pomiary/rozwiazania-specjalne",
+       "children": [
+        {
+         "label": "Rozwiązania specjalne",
+         "href": "/pl/produkty/ustawianie-i-pomiary/rozwiazania-specjalne/rozwiazania-specjalne",
+         "claim": "Rozwiązania dostosowane do Państwa indywidualnych potrzeb"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Zarządzanie narzędziami",
+     "href": "/pl/produkty/zarzadzanie-narzedziami",
+     "children": [
+      {
+       "label": "Software",
+       "href": "/pl/software"
+      },
+      {
+       "label": "Magazyn narzędzi",
+       "href": "/pl/produkty/zarzadzanie-narzedziami/magazyn-narzedzi",
+       "children": [
+        {
+         "label": "»twister«",
+         "href": "/pl/produkty/zarzadzanie-narzedziami/magazyn-narzedzi/twister",
+         "claim": "Szafka magazynowa",
+         "desc": "Do elementów narzędziowych i akcesoriów",
+         "img": "/fileadmin/_processed_/0/1/csm_twister__preview_9c9c9e9f21.webp"
+        },
+        {
+         "label": "»autoLock«",
+         "href": "/pl/produkty/zarzadzanie-narzedziami/magazyn-narzedzi/autolock",
+         "claim": "Szafka magazynowa",
+         "desc": "W przypadku przyrządów kontrolnych, materiałów eksploatacyjnych i większych podzespołów",
+         "img": "/fileadmin/_processed_/2/7/csm_autolock__preview_89166f3498.webp"
+        },
+        {
+         "label": "»toolOrganizer«",
+         "href": "/pl/produkty/zarzadzanie-narzedziami/magazyn-narzedzi/toolorganizer",
+         "claim": "Szafka na narzędzia",
+         "desc": "Do narzędzi tnących i drobnych elementów",
+         "img": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_bbf66a1054.webp"
+        },
+        {
+         "label": "»bramkarz«",
+         "href": "/pl/produkty/zarzadzanie-narzedziami/magazyn-narzedzi/bramkarz",
+         "claim": "Szafka na narzędzia",
+         "desc": "Do kompletnych narzędzi i uchwytów narzędziowych",
+         "img": "/fileadmin/_processed_/b/a/csm_keeper_preview_f25bf71aa1.webp"
+        },
+        {
+         "label": "»z.Storage«",
+         "href": "/pl/produkty/zarzadzanie-narzedziami/magazyn-narzedzi/zstorage",
+         "claim": "Magazynowanie narzędzi – obsługa",
+         "desc": "Jej artykuły są wydawane na zasadzie automatu wydającego",
+         "img": "/fileadmin/_processed_/f/5/csm_zStorage_preview_f2484908b6.webp"
+        }
+       ]
+      },
+      {
+       "label": "Montaż narzędzi",
+       "href": "/pl/produkty/zarzadzanie-narzedziami/montaz-narzedzi",
+       "children": [
+        {
+         "label": "»zTower«",
+         "href": "/pl/produkty/zarzadzanie-narzedziami/montaz-narzedzi/ztower",
+         "claim": "Wyspa montażowa",
+         "desc": "Do uniwersalnego montażu narzędzi",
+         "img": "/fileadmin/_processed_/2/6/csm_zTower_preview_03c8143f73.webp"
+        },
+        {
+         "label": "»toolStation«",
+         "href": "/pl/produkty/zarzadzanie-narzedziami/montaz-narzedzi/toolstation",
+         "claim": "Stół warsztatowy",
+         "desc": "W celu optymalnego montażu narzędzi",
+         "img": "/fileadmin/_processed_/a/f/csm_toolStation_preview_284869f711.webp"
+        }
+       ]
+      },
+      {
+       "label": "Transport narzędzi",
+       "href": "/pl/produkty/zarzadzanie-narzedziami/transport-narzedzi",
+       "children": [
+        {
+         "label": "»toolCart«",
+         "href": "/pl/produkty/zarzadzanie-narzedziami/transport-narzedzi/toolcart",
+         "claim": "Wózek narzędziowy",
+         "desc": "Do wygodnego transportu narzędzi",
+         "img": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_f133269ad8.webp"
+        }
+       ]
+      },
+      {
+       "label": "Przesyłanie danych",
+       "href": "/pl/produkty/zarzadzanie-narzedziami/przesylanie-danych",
+       "children": [
+        {
+         "label": "»zidCode«",
+         "href": "/pl/produkty/zarzadzanie-narzedziami/przesylanie-danych/zidcode",
+         "claim": "Bezbłędne przesyłanie danych narzędzi",
+         "desc": "Większe bezpieczeństwo i wydajność dzięki łatwej obsłudze danych narzędziowych",
+         "img": "/fileadmin/_processed_/e/c/csm_zidCode_preview_21aa224ca2.webp"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Kontrola i pomiary",
+     "href": "/pl/produkty/kontrola-i-pomiary",
+     "children": [
+      {
+       "label": "Uniwersalne maszyny pomiarowe",
+       "href": "/pl/produkty/kontrola-i-pomiary/uniwersalne-maszyny-pomiarowe",
+       "children": [
+        {
+         "label": "»genius«",
+         "href": "/pl/produkty/kontrola-i-pomiary/uniwersalne-maszyny-pomiarowe/geniusz",
+         "claim": "Bezkontaktowy pomiar i kontrola narzędzi skrawających",
+         "desc": "Mierzy ponad 100 parametrów z najwyższą precyzją i sprawdził się już ponad 1000 razy na całym świecie",
+         "img": "/fileadmin/_processed_/0/d/csm_genius_1_d819caed90.webp"
+        },
+        {
+         "label": "»tytan«",
+         "href": "/pl/produkty/kontrola-i-pomiary/uniwersalne-maszyny-pomiarowe/tytan",
+         "claim": "Maszyna kontrolno-pomiarowa w wersji z najwyższej półki",
+         "desc": "Dla ekspertów, którzy chcą wiedzieć wszystko – łącznie z przygotowaniem krawędzi tnących",
+         "img": "/fileadmin/_processed_/3/b/csm_titan__preview_7e0a3aa7f3.webp"
+        },
+        {
+         "label": "»smartCheck«",
+         "href": "/pl/produkty/kontrola-i-pomiary/uniwersalne-maszyny-pomiarowe/smartcheck",
+         "claim": "Ustawianie, pomiar i kontrola w jednym urządzeniu",
+         "desc": "Urządzenie do regulacji i pomiaru z dodatkowym oświetleniem padającym i rozszerzoną analizą obrazu",
+         "img": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_ca2a5afc34.webp"
+        }
+       ]
+      },
+      {
+       "label": "Pomiar zorientowany na proces",
+       "href": "/pl/produkty/kontrola-i-pomiary/pomiar-zorientowany-na-proces",
+       "children": [
+        {
+         "label": "»pomBasic«",
+         "href": "/pl/produkty/kontrola-i-pomiary/pomiar-zorientowany-na-proces/pombasic",
+         "claim": "Do precyzyjnej kontroli ręcznej na linii produkcyjnej",
+         "desc": "Sprawdzanie ponad 70 parametrów narzędzia w trakcie procesu",
+         "img": "/fileadmin/_processed_/5/f/csm_pombasic__preview_2a4f915bf9.webp"
+        },
+        {
+         "label": "»mμFocus«",
+         "href": "/pl/produkty/kontrola-i-pomiary/pomiar-zorientowany-na-proces/mmfocus",
+         "claim": "Urządzenie 2 w 1 do pomiaru SKP i chropowatości powierzchni",
+         "desc": "Analizuje topografię i tworzy trójwymiarowe obrazy krawędzi tnących narzędzi",
+         "img": "/fileadmin/_processed_/c/0/csm_myFocus__preview_4b3d285137.webp"
+        }
+       ]
+      },
+      {
+       "label": "Rozwiązania w zakresie automatyki",
+       "href": "/pl/produkty/kontrola-i-pomiary/rozwiazania-w-zakresie-automatyki",
+       "children": [
+        {
+         "label": "»roboSet 2«",
+         "href": "/pl/produkty/automatyzacja/kontrola-narzedzi/roboset-2",
+         "claim": "Kontrola i dokumentacja narzędzi 24/7",
+         "desc": "Obsługa narzędzi dla »genius«, »3dCheck«, »threadCheck«, »titan« i »edgeControl«",
+         "img": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_354a6e7ab1.webp"
+        }
+       ]
+      },
+      {
+       "label": "Obróbka kamienia metodą CNC",
+       "href": "/pl/produkty/kontrola-i-pomiary/obrobka-kamienia-metoda-cnc",
+       "children": [
+        {
+         "label": "»conDiaZ«",
+         "href": "/pl/produkty/kontrola-i-pomiary/obrobka-kamienia-metoda-cnc/condiaz",
+         "claim": "Precyzyjny pomiar konturu w ciągu kilku sekund",
+         "desc": "Urządzenie kontrolne przeznaczone specjalnie do pomiaru i kontroli narzędzi do obróbki kamienia pokrytych powłoką diamentową",
+         "img": "/fileadmin/_processed_/b/1/csm_conDiaz_preview_8d8faa8ebf.webp"
+        },
+        {
+         "label": "»conDress«",
+         "href": "/pl/produkty/kontrola-i-pomiary/obrobka-kamienia-metoda-cnc/condress",
+         "claim": "Czyszczenie powierzchni szlifierskich z osadzeniem diamentowym",
+         "desc": "Czyszczenie i przywracanie zdolności skrawania narzędzi do obróbki kamienia",
+         "img": "/fileadmin/_processed_/8/5/csm_conDress_preview_7966236664.webp"
+        }
+       ]
+      },
+      {
+       "label": "Rozwiązania specjalne",
+       "href": "/pl/produkty/kontrola-i-pomiary/rozwiazania-specjalne",
+       "children": [
+        {
+         "label": "Rozwiązania specjalne",
+         "href": "/pl/produkty/kontrola-i-pomiary/rozwiazania-specjalne/rozwiazania-specjalne",
+         "claim": "Rozwiązania dostosowane do Państwa indywidualnych potrzeb"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Automatyzacja",
+     "href": "/pl/produkty/automatyzacja",
+     "children": [
+      {
+       "label": "Logistyka narzędzi",
+       "href": "/pl/produkty/automatyzacja/logistyka-narzedzi",
+       "children": [
+        {
+         "label": "»coraLogistic«",
+         "href": "/pl/produkty/automatyzacja/logistyka-narzedzi/coralogistic",
+         "claim": "Zautomatyzowana logistyka na hali produkcyjnej",
+         "desc": "Do zadań transportowych między magazynem narzędzi, stanowiskiem przygotowania narzędzi a maszyną CNC",
+         "img": "/fileadmin/_processed_/c/0/csm_coraLogistics_preview_4e713a1c9b.webp"
+        },
+        {
+         "label": "»coraMachineLoad«",
+         "href": "/pl/produkty/automatyzacja/logistyka-narzedzi/coramachineload",
+         "claim": "W pełni automatycznie załadowuje i rozładowuje maszyny CNC",
+         "desc": "Precyzyjna i terminowa obsługa narzędzi między działem logistyki a magazynem narzędzi maszynowych",
+         "img": "/fileadmin/_processed_/e/e/csm_coraMaschineLoad_preview_f78fc031d8.webp"
+        }
+       ]
+      },
+      {
+       "label": "Przygotowanie narzędzi",
+       "href": "/pl/produkty/automatyzacja/przygotowanie-narzedzi",
+       "children": [
+        {
+         "label": "»coraMeasure LG«",
+         "href": "/pl/produkty/automatyzacja/przygotowanie-narzedzi/corameasure-lg",
+         "claim": "Automatyczny pomiar narzędzi",
+         "desc": "Ekonomiczna obsługa narzędzi w systemie ZOLLER »venturion«",
+         "img": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_b31336460f.webp"
+        },
+        {
+         "label": "»roboBox«",
+         "href": "/pl/produkty/automatyzacja/przygotowanie-narzedzi/robobox",
+         "claim": "Modułowa automatyka dla warsztatu narzędziowego",
+         "desc": "Do sześciu modułów do wykonywania czynności takich jak montaż, czyszczenie, pomiary, obkurczanie i inne",
+         "img": "/fileadmin/_processed_/7/a/csm_roboBox_preview_ae1a1aba4b.webp"
+        },
+        {
+         "label": "»micBox«",
+         "href": "/pl/produkty/automatyzacja/przygotowanie-narzedzi/micbox",
+         "claim": "Efektywna obsługa płytek obrotowych",
+         "desc": "Zajmuje się obracaniem, odwracaniem i wymianą płytek obrotowych",
+         "img": "/fileadmin/_processed_/6/a/csm_micbox_preview_e6568b3640.webp"
+        }
+       ]
+      },
+      {
+       "label": "Dostarczanie narzędzi",
+       "href": "/pl/produkty/automatyzacja/dostarczanie-narzedzi",
+       "children": [
+        {
+         "label": "»loadBox«",
+         "href": "/pl/produkty/automatyzacja/dostarczanie-narzedzi/loadbox",
+         "claim": "Inteligentna centrala narzędziowa",
+         "desc": "Kompletuje narzędzia zgodnie z zamówieniem i przygotowuje je do wysyłki",
+         "img": "/fileadmin/_processed_/5/3/csm_loadBox_preview_d9538dbfe3.webp"
+        }
+       ]
+      },
+      {
+       "label": "Kontrola narzędzi",
+       "href": "/pl/produkty/automatyzacja/kontrola-narzedzi",
+       "children": [
+        {
+         "label": "»roboSet 2«",
+         "href": "/pl/produkty/automatyzacja/kontrola-narzedzi/roboset-2",
+         "claim": "Kontrola i dokumentacja narzędzi 24/7",
+         "desc": "Obsługa narzędzi dla »genius«, »3dCheck«, »threadCheck«, »titan« i »edgeControl«",
+         "img": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_354a6e7ab1.webp"
+        }
+       ]
+      },
+      {
+       "label": "znakowanie laserowe",
+       "href": "/pl/produkty/automatyzacja/znakowanie-laserowe",
+       "children": [
+        {
+         "label": "»roboMark«",
+         "href": "/pl/produkty/automatyzacja/znakowanie-laserowe/robomark",
+         "claim": "Urządzenie do znakowania laserowego",
+         "desc": "Szybki i precyzyjny opis narzędzi",
+         "img": "/fileadmin/_processed_/9/c/csm_roboMark_preview_ecf02129c4.webp"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Technika termokurczliwego mocowania narzędzi",
+     "href": "/pl/produkty/technika-obkurczania",
+     "children": [
+      {
+       "label": "»powerShrink«",
+       "href": "/pl/produkty/technika-obkurczania/powershrink",
+       "claim": "Zmniejszenie rozmiarów narzędzi",
+       "desc": "System termokurczliwy o optymalnej efektywności energetycznej i maksymalnym bezpieczeństwie",
+       "img": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_8e31408c1d.webp"
+      },
+      {
+       "label": "»redomatic«",
+       "href": "/pl/produkty/technika-obkurczania/redomatic",
+       "claim": "Kurczenie się i pomiary",
+       "desc": "Uniwersalny przyrząd do regulacji i pomiarów z wbudowanym systemem termokurczliwym do narzędzi",
+       "img": "/fileadmin/_processed_/f/b/csm_redomatic_preview_afc51b7ecf.webp"
+      }
+     ]
+    },
+    {
+     "label": "Uchwyty narzędziowe",
+     "href": "/pl/produkty/uchwyty-narzedziowe",
+     "children": [
+      {
+       "label": "Zakład narzędziowy",
+       "href": "https://myzoller.com/de/de/shop/tooling",
+       "claim": "Ponad 2500 uchwytów narzędziowych",
+       "desc": "Opcjonalnie z »idChipem«, zapewniającym większe bezpieczeństwo procesu dzięki aktualnym danym narzędziowym. Kompatybilny z systemem zarządzania narzędziami ZOLLER TMS.",
+       "img": "/fileadmin/_processed_/3/f/csm_ToolingSolutions4_preview_6c25bb2bd5.webp"
+      }
+     ]
+    },
+    {
+     "label": "Technika wyważania",
+     "href": "/pl/produkty/technika-wywazania",
+     "children": [
+      {
+       "label": "»toolBalancer«",
+       "href": "/pl/produkty/technika-wywazania/toolbalancer",
+       "claim": "Wyważanie narzędzi",
+       "desc": "System wyważania wykorzystujący najnowocześniejszą technologię i charakteryzujący się ergonomiczną konstrukcją",
+       "img": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_c222571512.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Akademia",
+   "href": "/pl/akademia"
+  },
+  {
+   "label": "Wydarzenia",
+   "href": "/pl/wydarzenia"
+  },
+  {
+   "label": "Przedsiębiorstwa",
+   "href": "/pl/przedsiebiorstwa",
+   "children": [
+    {
+     "label": "Więcej informacji o firmie ZOLLER",
+     "href": "/pl/przedsiebiorstwa"
+    },
+    {
+     "label": "Profil",
+     "href": "/pl/przedsiebiorstwa/profil",
+     "children": [
+      {
+       "label": "O firmie ZOLLER",
+       "href": "/pl/przedsiebiorstwa/profil"
+      },
+      {
+       "label": "Referencje",
+       "href": "/pl/przedsiebiorstwa/profil/referencje"
+      },
+      {
+       "label": "Partnerzy",
+       "href": "/pl/przedsiebiorstwa/profil/partnerzy"
+      },
+      {
+       "label": "Historia",
+       "href": "/pl/przedsiebiorstwa/profil/historia"
+      }
+     ]
+    },
+    {
+     "label": "Kontakt",
+     "href": "/pl/przedsiebiorstwa/kontakt",
+     "children": [
+      {
+       "label": "Formularz kontaktowy",
+       "href": "/pl/przedsiebiorstwa/kontakt"
+      },
+      {
+       "label": "Lokalizacje",
+       "href": "/pl/przedsiebiorstwa/kontakt/lokalizacje"
+      },
+      {
+       "label": "Inteligentna fabryka",
+       "href": "/pl/przedsiebiorstwa/kontakt/inteligentna-fabryka"
+      },
+      {
+       "label": "Osoba kontaktowa",
+       "href": "/pl/przedsiebiorstwa/kontakt/osoba-kontaktowa"
+      },
+      {
+       "label": "Indywidualna rozmowa z ekspertem",
+       "href": "https://myzoller.com/de/de/expert/booking"
+      },
+      {
+       "label": "Szkolenia i kursy",
+       "href": "/pl/przedsiebiorstwa/kontakt/szkolenia-i-kursy"
+      },
+      {
+       "label": "Biuletyn",
+       "href": "/pl/przedsiebiorstwa/kontakt/biuletyn"
+      }
+     ]
+    },
+    {
+     "label": "Kariera",
+     "href": "/pl/przedsiebiorstwa/kariera",
+     "children": [
+      {
+       "label": "Praca w firmie ZOLLER",
+       "href": "/pl/przedsiebiorstwa/kariera"
+      },
+      {
+       "label": "Oferty pracy",
+       "href": "/pl/przedsiebiorstwa/kariera/oferty-pracy"
+      },
+      {
+       "label": "Najczęściej zadawane pytania",
+       "href": "/pl/przedsiebiorstwa/kariera/najczesciej-zadawane-pytania"
+      },
+      {
+       "label": "Podanie o pracę",
+       "href": "/pl/przedsiebiorstwa/kariera/podanie-o-prace"
+      }
+     ]
+    },
+    {
+     "label": "Raporty i artykuły",
+     "href": "/pl/przedsiebiorstwa/raporty-i-artykuly"
+    },
+    {
+     "label": "Media",
+     "href": "/pl/przedsiebiorstwa/media"
+    },
+    {
+     "label": "Zrównoważony rozwój",
+     "href": "/pl/przedsiebiorstwa/zrownowazony-rozwoj"
+    },
+    {
+     "label": "Zarządzanie jakością",
+     "href": "/pl/przedsiebiorstwa/zarzadzanie-jakoscia"
+    },
+    {
+     "label": "Zgodność z przepisami",
+     "href": "/pl/przedsiebiorstwa/zgodnosc-z-przepisami"
+    }
+   ]
+  }
+ ],
+ "footer_links": [
+  {
+   "label": "Go up",
+   "href": "#body"
+  },
+  {
+   "label": "System",
+   "href": "/pl/system"
+  },
+  {
+   "label": "Państwa sukces",
+   "href": "/pl/panstwa-sukces"
+  },
+  {
+   "label": "Rozwiązania",
+   "href": "/pl/rozwiazania"
+  },
+  {
+   "label": "Produkty",
+   "href": "/pl/produkty"
+  },
+  {
+   "label": "Akademia",
+   "href": "/pl/akademia"
+  },
+  {
+   "label": "Wydarzenia",
+   "href": "/pl/wydarzenia"
+  },
+  {
+   "label": "Przedsiębiorstwa",
+   "href": "/pl/przedsiebiorstwa"
+  },
+  {
+   "label": "Serwis",
+   "href": "/pl/przedsiebiorstwa/kontakt/osoba-kontaktowa"
+  },
+  {
+   "label": "Media",
+   "href": "/pl/przedsiebiorstwa/media"
+  },
+  {
+   "label": "Kariera",
+   "href": "/pl/przedsiebiorstwa/kariera"
+  },
+  {
+   "label": "Kalkulator rentowności",
+   "href": "/pl/kalkulator-rentownosci"
+  },
+  {
+   "label": "Osoba kontaktowa",
+   "href": "/pl/przedsiebiorstwa/kontakt/osoba-kontaktowa"
+  },
+  {
+   "label": "Wyślij e-mail",
+   "href": "mailto:info@zoller.info"
+  },
+  {
+   "label": "Serwis ZOLLER",
+   "href": "/pl/przedsiebiorstwa/kontakt/osoba-kontaktowa"
+  },
+  {
+   "label": "Aktualizacje oprogramowania",
+   "href": "/pl/aktualizacje-oprogramowania"
+  },
+  {
+   "label": "Pomoc techniczna online",
+   "href": "/pl/pomoc-techniczna-online"
+  },
+  {
+   "label": "Obszary działalności",
+   "href": "/pl/obszary-dzialalnosci-1"
+  },
+  {
+   "label": "Zapisanie się do newslettera",
+   "href": "/pl/przedsiebiorstwa/kontakt/biuletyn"
+  },
+  {
+   "label": "Ogólne warunki zakupu",
+   "href": "/pl/ogolne-warunki-zakupu"
+  },
+  {
+   "label": "Opcje finansowania",
+   "href": "https://www.goleasing.com/zoller/"
+  },
+  {
+   "label": "LinkedIn",
+   "href": "https://www.linkedin.com/company/zollersolutions"
+  },
+  {
+   "label": "YouTube",
+   "href": "https://www.youtube.com/user/zollertv"
+  },
+  {
+   "label": "Kontakt",
+   "href": "/pl/przedsiebiorstwa/kontakt"
+  },
+  {
+   "label": "Ochrona danych osobowych",
+   "href": "/pl/ochrona-danych-osobowych"
+  },
+  {
+   "label": "Wyłączenie odpowiedzialności",
+   "href": "/pl/wylaczenie-odpowiedzialnosci"
+  },
+  {
+   "label": "Informacje prawne",
+   "href": "/pl/informacje-prawne-1"
+  },
+  {
+   "label": "Cookie settings",
+   "href": "#"
+  }
+ ]
+}

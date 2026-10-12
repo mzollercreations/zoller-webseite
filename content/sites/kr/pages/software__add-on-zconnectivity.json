@@ -1,0 +1,509 @@
+{
+ "path": "/software/add-on-zconnectivity",
+ "url": "/kr/software/add-on-zconnectivity",
+ "title": "Add-on »z.Connectivity«",
+ "description": "Add-on »z.Connectivity« - 공구 측정, 공구 관리 및 기계 간의 원활한 디지털 연계 - 안전한 데이터 전송",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "제품 /",
+   "href": "/kr/%EC%A0%9C%ED%92%88"
+  },
+  {
+   "label": "공구 관리 /",
+   "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC"
+  },
+  {
+   "label": "Software /",
+   "href": "/kr/software"
+  },
+  {
+   "label": "Add-on »z.Connectivity«",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "제품 /",
+   "href": "/kr/%EC%A0%9C%ED%92%88"
+  },
+  {
+   "label": "공구 관리 /",
+   "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC"
+  },
+  {
+   "label": "Software /",
+   "href": "/kr/software"
+  },
+  {
+   "label": "Add-on »z.Connectivity«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/software/add-on-zconnectivity",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/software/add-on-zconnectivity",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/software/add-on-zconnectivity",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/software/add-on-zconnectivity",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/software/add-on-zconnectivity",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/software/add-on-zconnectivity",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/software/add-on-zconnectivity",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/software/add-on-zconnectivity",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/software/add-on-zconnectivity",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/software/add-on-zconnectivity",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/software/add-on-zconnectivity",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/software/add-on-zconnectivity",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/software/add-on-zconnectivity",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/software/add-on-zconnectivity",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/software/add-on-zconnectivity",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Software",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/kr/software",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "»TMS Core«",
+     "href": "/kr/software/tms-core",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Stock«",
+     "href": "/kr/software/add-on-zstock",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.CAM Integration«",
+     "href": "/kr/software/add-on-zcam-integration",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Resources«",
+     "href": "/kr/software/add-on-zresources",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Shopfloor«",
+     "href": "/kr/software/add-on-zshopfloor",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Connectivity«",
+     "href": "/kr/software/add-on-zconnectivity",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Integration«",
+     "href": "/kr/software/add-on-zintegration",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c164328",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> 안전한 데이터 전송 </h3> <h1> Add-on »z.Connectivity« </h1>",
+   "body": "<p><strong>»z.Connectivity« 애드온이</strong> 탑재된 ZOLLER TMS는 »zidCode 4.0을« 통해 공구 측정, 공구 관리 및 기계 간에 원활한 디지털 연결을 구축합니다. 공구 데이터는 명확하게 할당되며, 항상 최신 상태로 유지되고 오류 없이 CNC 제어 장치로 전송됩니다. 앱과 인터페이스를 통해 데이터가 디지털 방식으로 관리되며, »z.Stats« 및 »flash와« 같은 기능은 기계에서 창고에 이르기까지 투명성을 보장합니다. 이를 통해 수동 입력을 방지하고, 공정을 안정화하며, 생산을 지속 가능하게 보장합니다.</p> <p><a class=\"btn\" href=\"/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98\">지금 문의하기</a> <a href=\"https://myzoller.com/de/de/expert/booking/\" rel=\"noopener\" target=\"_blank\">1:1 전문가 상담</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/a/csm_zConnectivity_product_09db9e0e66.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 852
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c164377",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "항상 최신 상태의 공구 데이터를 통한 실시간 데이터 가용성 ",
+    "명확한 공구 식별을 통해 혼동을 방지합니다 ",
+    "지속적으로 오류 없는 입력을 위한 자동화된 데이터 전송"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c164382",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "table",
+   "header": "<h2> Add-on »z.Connectivity« </h2>",
+   "table": "<table> <tbody> <tr> <td> </td> <td class=\"text-center\"> 웹 브라우저 </td> <td class=\"text-center\"> 데스크톱 </td> </tr> <tr> <td> zidCode* </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ― </td> </tr> <tr> <td> zidCode 소프트웨어* </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> »zidCode 4.«0* </td> <td class=\"text-center\"> ● </td> <td class=\"text-center\"> ― </td> </tr> <tr> <td> »z.«Stats* </td> <td class=\"text-center\"> ● </td> <td class=\"text-center\"> ― </td> </tr> <tr> <td> 수명 관리 (RFID 기술/z».«DMI 기술) </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> 수명 모니터링 »flash« (»z.DMI« 기술) </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> 포스트 프로세서 </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> 매거진 조회 </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> 데이터 입력/데이터 출력/포맷 생성기가 포함된 DNC </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c164387",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p>* 추가 하드웨어가 있어야만 사용 가능 ● 기본 <strong>―</strong> 사용 불가</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c164426",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/5/csm_TMS_standzeitverwaltung_cdee616e9d.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>통계 기능이 통합된 사용 수명 관리</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/8/csm_TMS_Standzeit%C3%BCberwachung_0f6717423f.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>절삭 공구의 수명 모니터링 및 관리·정리 기능을 갖춘 »‘flash’«</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/9/csm_TMS_RFID-basierte_Werkzeugidentifikation_5da07d7b72.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>기계와 직접 연동되는 RFID 기반 공구 식별 – 예: 선도적인 시스템 솔루션의 경우</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/0/4/csm_TMS_zDMI_62622bed1c.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>»z.DMI« 기술은 공구 데이터를 기계 제어 장치로 직접 자동으로 전송합니다. 예를 들어, 주요 CNC 제어 시스템의 경우와 같이</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164392",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> »z.Connectivity« 애드온 </h3> <h2> 데이터 흐름 </h2>",
+   "body": "<p class=\"large-text\">이 애드온을 통해 기계에서 창고에 이르기까지 공구의 전체 수명 주기에 대한 완벽한 투명성이 확보됩니다.</p> <p class=\"large-text\">이 애드온을 통해 디지털 전환을 신속하게 시작할 수 있습니다.</p> <p class=\"large-text\">이 애드온을 통해 기존 기계와 시스템 간 호환성을 유지하며 원활하게 통합할 수 있습니다.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/9/csm_zConnectivity_benefit_22c54e07e2.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c164397",
+   "bg": "image",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/6/csm_zConnectivity_Feature_01_031112d173.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "title": "»zidCode«",
+     "caption": "<figcaption> <h3>»zidCode«</h3> <p>공구 데이터를 안전하고 빠르게 전송하기</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/a/0/csm_zConnectivity_Feature_02_eb506f8645.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "title": "설정 시트 프로세스",
+     "caption": "<figcaption> <h3>설정 시트 프로세스</h3> <p>원활한 데이터 흐름을 위한 최적화된 설정 시트 프로세스</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164402",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> »z.Connectivity« 애드온용 ZOLLER 옵션 하드웨어 개요 </h2>",
+   "items": [
+    {
+     "href": "",
+     "title": "»zidCode«",
+     "text": "<p>간편한 공구 데이터 관리를 통한 안전성 및 효율성 향상</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/8/csm_Teaser_zidcode_preview_472b8e8590.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "",
+     "title": "»zidCode 4.0«",
+     "text": "<p>»zidCode 4.0을« 통해 스캔한 공구 데이터를 공정 중에 바로 활용할 수 있게 합니다</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/d/csm_Teaser_zidcode40_preview_b71747bf93.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "",
+     "title": "»idChip«",
+     "text": "<p>»idChip« 기술은 디지털 공구 식별을 가능하게 하여 효율성과 안전성을 높여줍니다.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/f/csm_Teaser_idchip_preview_4ae28eb174.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "",
+     "title": "RFID",
+     "text": "<p>RFID를 통해 공구 데이터를 기계에 빠르고, 비접촉 방식으로, 안정적으로 전송</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/5/4/csm_Teaser_rfid_preview_268906513c.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c164406",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "large"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/9/csm_TMS_teaser_46de18cb11.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "공구 관리: 귀사가 누릴 수 있는 이점",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/toolmanagement",
+     "caption": "<figcaption> <h3>공구 관리: 귀사가 누릴 수 있는 이점</h3> <p>ZOLLER의 공구 관리 솔루션이 어떻게 생산성을 즉시 향상시키는지 확인해 보세요. 공구 데이터를 활용하면 공정이 더 빠르고 안전하게 진행되며, 여기에는 기계의 충돌 방지 기능도 포함됩니다. </p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now. </p> <br/> 자세히 알아보기 </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164343",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/kr/software/add-on-zconnectivity",
+ "de_path": "/produkte/toolmanagement/software/add-on-zconnectivity"
+}

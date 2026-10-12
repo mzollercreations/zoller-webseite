@@ -1,0 +1,544 @@
+{
+ "path": "/フライス加工",
+ "url": "/ja/%E3%83%95%E3%83%A9%E3%82%A4%E3%82%B9%E5%8A%A0%E5%B7%A5",
+ "title": "フライス加工",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ja/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8"
+  },
+  {
+   "label": "フライス加工",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ja/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8"
+  },
+  {
+   "label": "フライス加工",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/fraesen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/milling",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/fresado",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/fraisage",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/fresagem",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/fresatura",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/fraesning",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/fraesen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/milling",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/fraisage",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%95%E3%83%A9%E3%82%A4%E3%82%B9%E5%8A%A0%E5%B7%A5",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EB%B0%80%EB%A7%81",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/milling",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/fresado",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/fresagem",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/7/a/csm_header_milling_9977afc8ee.webp",
+     "video": null,
+     "title": "フライス加工業者のさらなる成功",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c2449",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> CAM-to-Part：µm単位<br/>の精度で測定し、誤りのないデータを実現 </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c775",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>ZOLLERの製品ラインナップには、高精度な調整・測定機器、工具管理のための充実したハードウェアおよびソフトウェア、そして工具データを確実に転送するためのソリューションが揃っています。 </strong></p> <p>経済的なフライス加工プロセスには、マイクロメートル単位の精度と、時間およびコスト面での高い効率性が求められます。その精度は、切削工具の多様な形状を測定することから始まります。最高の効率を実現するためには、工具をすぐに使用できるように準備し、各工程で最新の工具データを即座に参照できる必要があります。ZOLLERなら、フライス加工に関わるあらゆる工具プロセスを成功に導きます。</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c774",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c776",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "count",
+   "title": "工具の調整と測定による、年間あたりの拡張可能なコスト削減効果*",
+   "value": "15,000ユーロ",
+   "note": "*1回あたり3分の工具交換を20回、年間200営業日、1日1シフト、機械稼働時間1時間あたり75ユーロで算出。",
+   "ftype": "zoller_count-banner",
+   "id": "c769",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> フライス加工業者向けのZOLLERソリューション </h2>",
+   "items": [
+    {
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E5%B7%A5%E5%85%B7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC",
+     "title": "ツールホルダ",
+     "text": "<p>»idChip«内蔵で、工具一本一本がデジタル工場とつながります。</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/8/csm_ToolingSolutions_preview_7b8d14560e.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A/%E7%B8%A6%E5%9E%8B%E6%A9%9F%E5%99%A8/%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB",
+     "title": "»smile«",
+     "text": "<p>精度を妥協しないエントリーモデル。 標準工具の段取りを、ミクロン単位で確実に。耐久性も、ZOLLERの基準で。</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A/%E7%B8%A6%E5%9E%8B%E6%A9%9F%E5%99%A8/%E3%83%99%E3%83%B3%E3%83%81%E3%83%A5%E3%83%AA%E3%82%AA%E3%83%B3",
+     "title": "»venturion«",
+     "text": "<p>測定精度・段取り効率・拡張性。三拍子そろった主力モデル。</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/d/csm_venturion_preview_cdaca59ebb.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A/%E6%A8%AA%E5%9E%8B%E6%A9%9F%E5%99%A8/%E3%83%8F%E3%82%A4%E3%83%9A%E3%83%AA%E3%82%AA%E3%83%B3",
+     "title": "»hyperion«",
+     "text": "<p>旋盤工具向け横型ツールプリセッター</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/8/csm_hyperion_preview_37118ddf5b.webp",
+      "alt": "zoller hyperion",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A/%E7%89%B9%E6%B3%A8%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E7%89%B9%E6%B3%A8%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/phoenix",
+     "title": "»phoenix«",
+     "text": "<p>スロートゲージの原理に基づき、すべてのパラメータを全自動で測定します</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/8/d/csm_phoenix_preview_66edf5e474.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%80%89%E5%BA%AB/toolorganizer",
+     "title": "»toolOrganizer«",
+     "text": "<p>切削工具および小部品用</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_018ce796c6.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E5%8F%8E%E7%B8%AE%E6%8A%80%E8%A1%93/powershrink",
+     "title": "»powerShrink«",
+     "text": "<p>最適なエネルギー効率と最高の安全性を実現した収縮システム</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_506ab0ccb9.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E5%8F%8E%E7%B8%AE%E6%8A%80%E8%A1%93/redomatic",
+     "title": "»redomatic«",
+     "text": "<p>工具収縮システムを内蔵した汎用調整・測定装置</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/f/b/csm_redomatic_preview_4157496177.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4%E6%8A%80%E8%A1%93/toolbalancer",
+     "title": "»toolBalancer«",
+     "text": "<p>最先端の技術と人間工学に基づいたデザインを採用したバランス調整システム</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%BA%96%E5%82%99/corameasure-lg",
+     "title": "»coraMeasure LG«",
+     "text": "<p>ZOLLER »venturion«向け経済的な工具ハンドリング</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%BA%96%E5%82%99/robobox",
+     "title": "»roboBox«",
+     "text": "<p>組み立て、洗浄、測定、熱収縮などの作業用に、最大6つのモジュールを搭載可能</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/a/csm_roboBox_preview_f71dd04107.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%BA%96%E5%82%99/micbox",
+     "title": "»micBox«",
+     "text": "<p>インサートの回転、反転、交換を行います</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/6/a/csm_micbox_preview_ff03cd31af.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A/%E6%B1%8E%E7%94%A8%E6%B8%AC%E5%AE%9A%E6%A9%9F/smartcheck",
+     "title": "»smartCheck«",
+     "text": "<p>補助照明機能と高度な画像解析機能を備えた調整・測定装置</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_b44dfc4928.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E3%83%87%E3%83%BC%E3%82%BF%E8%BB%A2%E9%80%81/zidcode",
+     "title": "»zidCode«",
+     "text": "<p>ツールデータの簡単な管理により、安全性と効率性を向上</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/c/csm_zidCode_preview_538b53ed83.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%80%89%E5%BA%AB/keeper",
+     "title": "»keeper«",
+     "text": "<p>完成工具および工具ホルダー用</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/a/csm_keeper_preview_1e87de3ba7.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%80%89%E5%BA%AB/autolock",
+     "title": "»autoLock«",
+     "text": "<p>試験機器、消耗品、および大型部品について</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/7/csm_autolock__preview_a71350a53a.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%80%89%E5%BA%AB/twister",
+     "title": "»twister«",
+     "text": "<p>工具部品および付属品</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/1/csm_twister__preview_edf94f7d12.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E3%81%AE%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91/toolstation",
+     "title": "»toolStation«",
+     "text": "<p>工具の最適な取り付けのために</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/f/csm_toolStation_preview_00b81d24f9.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E3%81%AE%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91/ztower",
+     "title": "»zTower«",
+     "text": "<p>あらゆる工具の取り付けに</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/6/csm_zTower_preview_c0c8e3585e.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%90%AC%E9%80%81/toolcart",
+     "title": "»toolCart«",
+     "text": "<p>工具を快適に運搬するために</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_3be007bbac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A/%E7%B8%A6%E5%9E%8B%E6%A9%9F%E5%99%A8/%E3%83%99%E3%83%B3%E3%83%81%E3%83%A5%E3%83%AA%E3%82%AA%E3%83%B3/%E3%83%A2%E3%83%87%E3%83%AB/%E3%83%88%E3%83%AA%E3%83%9C%E3%82%B9",
+     "title": "»トリボス«",
+     "text": "<p>多角形チャックを取り付ける</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/3/2/csm_tribos_preview_8c77bd06f1.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A/%E7%B8%A6%E5%9E%8B%E6%A9%9F%E5%99%A8/%E3%83%99%E3%83%B3%E3%83%81%E3%83%A5%E3%83%AA%E3%82%AA%E3%83%B3/%E3%83%A2%E3%83%87%E3%83%AB/%E3%83%88%E3%83%AB%E3%82%AF%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF",
+     "title": "»トルクマティック«",
+     "text": "<p>全自動クランプ</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/8/csm_torquematic_preview_76d4d49ac6.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_categorized_pages",
+   "id": "c4773",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1対1の専門家との面談",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1対1の専門家との面談</h3> <p>お客様の目標と、それに対する当社の提案について、個別に話し合う機会です。スマートファクトリーから直接お届けする、ZOLLERのオンラインコンサルティング。今すぐご予約ください。 </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/e/csm_teaser-2Colume-Media_8e9165a74e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "メディア：ZOLLERの詳細",
+     "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2",
+     "caption": "<figcaption> <h3>メディア：ZOLLERの詳細</h3> <p>ここでは、プレスリリース、製品発表、展示会への出展情報、専門誌の報道記事、ニュースアーカイブ、およびメディア担当者の連絡先をご覧いただけます。 </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c738",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ja/フライス加工",
+ "de_path": "/fraesen"
+}

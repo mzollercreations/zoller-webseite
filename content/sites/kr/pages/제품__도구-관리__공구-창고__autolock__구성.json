@@ -1,0 +1,398 @@
+{
+ "path": "/제품/도구-관리/공구-창고/autolock/구성",
+ "url": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/autolock/%EA%B5%AC%EC%84%B1",
+ "title": "»autoLock« – 구성",
+ "description": "구성 - »autoLock« – 구성",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "제품 /",
+   "href": "/kr/%EC%A0%9C%ED%92%88"
+  },
+  {
+   "label": "공구 관리 /",
+   "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC"
+  },
+  {
+   "label": "공구 재고 관리 /",
+   "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0"
+  },
+  {
+   "label": "»autoLock« /",
+   "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/autolock"
+  },
+  {
+   "label": "구성",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "제품 /",
+   "href": "/kr/%EC%A0%9C%ED%92%88"
+  },
+  {
+   "label": "공구 관리 /",
+   "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC"
+  },
+  {
+   "label": "공구 재고 관리 /",
+   "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0"
+  },
+  {
+   "label": "»autoLock« /",
+   "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/autolock"
+  },
+  {
+   "label": "구성",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/werkzeuglager/autolock/konfiguration",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management/tool-storage/autolock/configuration",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas/almacen-de-herramientas/bloqueo-automatico/configuracion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils/magasin-doutils/autolock/configuration",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas/armazem-de-ferramentas/autolock/configuracao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management/magazzino-utensili/autolock/configurazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering/verktygslager/autolock/konfiguration",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement/werkzeuglager/autolock/konfiguration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/tool-storage/autolock/configuration",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils/magasin-doutillage/autolock/configuration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%80%89%E5%BA%AB/autolock/%E8%A8%AD%E5%AE%9A",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/autolock/%EA%B5%AC%EC%84%B1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management/tool-storage/autolock/configuration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas/almacen-de-herramientas/autolock/configuracion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas/armazem-de-ferramentas/autolock/configuracao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»autoLock«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/autolock",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "구성",
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/autolock/%EA%B5%AC%EC%84%B1",
+     "current": false
+    },
+    {
+     "label": "소프트웨어 및 시스템 연동",
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/autolock/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EB%B0%8F-%ED%86%B5%ED%95%A9",
+     "current": false
+    },
+    {
+     "label": "자주 묻는 질문",
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/autolock/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8",
+     "current": false
+    },
+    {
+     "label": "자료실",
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/autolock/%EC%A0%95%EB%B3%B4-%EB%AA%A8%EC%9D%8C",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c2736",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> 한눈에 보기 </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2734",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p class=\"extra-large-text\">스마트 캐비닛은 고객이 원하는 방식으로 구성할 수 있습니다. 먼저 원하는 사양을 선택한 후 ZOLLER 영업팀에 문의해 주세요. 고객의 요구에 맞춰 상담을 제공하고, 원하는 모델로 구성해 드립니다.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2733",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2735",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> 캐비닛 크기 </h2>",
+   "table": "<table> <tbody> <tr> <td> 높이 x 너비 x 깊이: 2000 x 1000 x 1050 mm </td> </tr> </tbody></table>",
+   "ftype": "table",
+   "id": "c2732",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "extra-small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> 적재 하중(서랍 기준) </h2>",
+   "table": "<table> <tbody> <tr> <td> 서랍당 최대 적재 하중 80 kg </td> </tr> </tbody></table>",
+   "ftype": "table",
+   "id": "c2731",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> 적재 하중(층 기준) </h2>",
+   "table": "<table> <tbody> <tr> <td> 층당 최대 80kg </td> </tr> </tbody></table>",
+   "ftype": "table",
+   "id": "c2730",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> 사양 </h2>",
+   "table": "<table> <tbody> <tr> <td> 기계식 구성 </td> </tr> <tr> <td> 전자식 구성 </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c2729",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> 제어 방식 </h2>",
+   "table": "<table> <tbody> <tr> <td> 측면 장착형 패널 PC </td> </tr> <tr> <td> »quickPick« 제어 소프트웨어가 적용된 별도 »cockpit« 조작 장치 </td> </tr> <tr> <td> TMS 공구 관리 솔루션용 워크스테이션 </td> </tr> <tr> <td> 스마트 캐비닛 소프트웨어 모듈이 적용된 ZOLLER 프리세터 및 측정 장비 </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c2728",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> 구성 </h2>",
+   "table": "<table> <tbody> <tr> <td> 서랍 4~9개 </td> </tr> </tbody></table>",
+   "ftype": "table",
+   "id": "c2727",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "공구 관리: 귀사가 누릴 수 있는 이점",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/toolmanagement",
+     "caption": "<figcaption> <h3>공구 관리: 귀사가 누릴 수 있는 이점</h3> <p>ZOLLER의 공구 관리 솔루션이 어떻게 생산성을 즉시 향상시키는지 확인해 보세요. 공구 데이터를 활용하면 공정이 더 빠르고 안전하게 진행되며, 여기에는 기계의 충돌 방지 기능도 포함됩니다. </p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 전문가 상담",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 전문가 상담</h3> <p>고객님의 목표와 이에 대한 당사의 아이디어를 바탕으로 한 맞춤형 상담. 스마트 팩토리에서 직접 제공되는 ZOLLER의 온라인 상담. 지금 바로 상담 일정을 예약하세요. </p> <br/> 자세히 알아보기 </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/kr/제품/도구-관리/공구-창고/autolock/구성",
+ "de_path": "/produkte/toolmanagement/werkzeuglager/autolock/konfiguration"
+}

@@ -1,0 +1,290 @@
+{
+ "path": "/foerinstaellningsenhet",
+ "url": "/se/foerinstaellningsenhet",
+ "title": "Förinställningsenhet",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Förinställningsenhet",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Förinställningsenhet",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/voreinstellgeraet",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/preset-device",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/dispositivo-de-preajuste",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/appareil-de-prereglage",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/dispositivo-de-pre-ajuste",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/dispositivo-di-preimpostazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foerinstaellningsenhet",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/voreinstellgeraet",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/appareil-de-prereglage",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%97%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88%E8%A3%85%E7%BD%AE",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%82%AC%EC%A0%84-%EC%84%A4%EC%A0%95-%EC%9E%A5%EC%B9%98",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/preset-device",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/dispositivo-de-preajuste",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/dispositivo-de-pre-ajuste",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/b/1/csm_voreinstellen_venturion_header_222cabbd3d.webp",
+     "video": null,
+     "title": "Förinställningsenheter ökar produktiviteten, kvaliteten och processäkerheten",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8104",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">Kort omställningstid, hög drifttid: Det är de två viktigaste faktorerna för att öka produktiviteten hos era verktygsmaskiner. En verktygsförinställningsenhet fastställer alla viktiga data i förväg och överför dem felfritt till maskinen.</p> <p class=\"extra-large-text\">För att kunna arbeta precist behöver CNC-verktygsmaskiner exakta verktygsgeometridata. Om dessa verktygsdata redan har fastställts i förväg och utanför CNC-maskinen kan de läsas in utan tidsfördröjning när verktyget sätts in.</p> <p class=\"extra-large-text\">Den elektroniska dataöverföringen från förinställningsenheten till verktygsmaskinen förhindrar inte bara skrivfel och andra överföringsproblem, den är också klar på nolltid. På så sätt reduceras inte bara omställningstiden till ett minimum, utan inställningstiden för det nya verktyget är i praktiken noll – och du maximerar därmed verktygens livslängd.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8105",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Förinställningsenhet – fördelarna </h2>",
+   "body": "<ul><li>Inställning och omställningstid sker separat: Verktygen kan förberedas redan medan CNC-maskinen fortfarande är igång – detta kan till och med ske på olika platser om det underlättar eller påskyndar arbetsprocesserna.</li><li>Ingen inställningstid: Genom elektronisk överföring av de förberedda verktygsdata får maskinstyrningen rätt information utan fördröjning och felfritt</li><li>Ökad processäkerhet: Inga fler fel vid manuell inställning tack vare helt elektronisk dataöverföring direkt från förinställningsenheten till CNC-maskinen.</li><li>Kvalitet redan från första delen: Dina maskiner, som förses med perfekta data, producerar toppresultat redan från första arbetsstycket och inget spill. Med exakt uppmätta verktyg förekommer dessutom inga krascher och avbrott.</li><li>Längre verktygslivslängd: Genom minimerade omställnings- och inställningstider kan maskinen arbeta mer effektivt och produktivt. Med regelbunden kontroll av skärkvaliteten i förinställningsenheten hålls alltid högsta kvalitet.</li></ul>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/f/csm_voreinstellen_demonstration_84e2c4fdc8.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8108",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Arbeta bättre, effektivare och mer produktivt med ZOLLER:s förinställningsverktyg </h2>",
+   "body": "<p><strong>ZOLLER:s verktygsinställningsapparater är anpassade för alla användningsområden.</strong></p> <p>Våra mätinstrument arbetar med modulära system, vilket gör att lämpliga lösningar kan sammanställas för alla krav. De kan konfigureras med lämpliga mätmetoder för olika parametrar och verktyg – oavsett om det gäller helautomatisk eller manuell mätning. Resultatet blir i alla fall en precisionsmätning.</p> <p>Det intuitiva användargränssnittet är extremt enkelt, säkert och bekvämt att använda. Enheterna erbjuder bland annat automatisk verktygsskärningsigenkänning, ett handtag för enkel justering av sliden och ett membran tangentbord för kraftdriven spindelspänning och spindellåsning.</p> <p>Direkt elektronisk överföring av verktygsdata, som gör inmatningsfel till ett minne blott, är självklart möjlig med alla enheter. ZOLLER-förinställningsenheter erbjuder olika varianter för säker dataöverföring till maskinen – oavsett om det gäller små och medelstora företag eller stora företag, oavsett om det gäller Heller, Index eller andra maskintillverkare.</p> <p>Dessutom finns enkla alternativ för import och export av verktygsdata samt ytterligare funktioner.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/1/csm_voreinstellen_fertigung_782ce05bd8.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8109",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/2/csm_teaser_presetting_small_4ff7902d1b.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Inställning och mätning: Fördelarna för dig",
+     "href": "/se/loesningar/instaellning-och-maetning",
+     "caption": "<figcaption> <h3>Inställning och mätning: Fördelarna för dig</h3> <p>Ta reda på varför inställnings- och mätinstrument minskar tids- och kostnadsåtgången. Effekterna är skalbara och kan leda till stora besparingar. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1-samtal med en expert",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1-samtal med en expert</h3> <p>Ett personligt samtal om era mål och våra idéer för att uppnå dem. ZOLLER:s online-rådgivning direkt från Smart Factory. Boka en tid redan nu.</p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3837",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/se/foerinstaellningsenhet",
+ "de_path": "/voreinstellgeraet"
+}

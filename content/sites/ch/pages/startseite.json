@@ -1,0 +1,475 @@
+{
+ "path": "/startseite",
+ "url": "/ch/%E9%A6%96%E9%A1%B5",
+ "title": "从解决方案开始——进入系统。",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/startseite",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/home",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/pagina-de-inicio",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/page-daccueil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/pagina-inicial",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/home-page",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/startsida",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/startseite",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/home-page",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/page-daccueil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%99%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/homepage",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/pagina-de-inicio",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/pagina-inicial",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/01_Pages/Startingpage/zollerinfo_header_animation_780.mp4",
+     "title": "整体系统，彰显价值",
+     "kicker": "",
+     "text": "<p>借助技术领导者ZOLLER解决方案，提升您的刀具加工流程效率。 </p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c2274",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 适用于各类生产的尖端技术 </h2>",
+   "body": "<p class=\"extra-large-text\"><br/>ZOLLER 在刀具加工流程中能显著提升效率。因此，每一笔投资都能迅速收回成本。即使仅在单台数控机床上，ZOLLER 的解决方案也能有效减少工时、降低成本并缩短设备停机时间。</p> <p class=\"extra-large-text\"><br/>在 ZOLLER，卓越品质是我们的承诺。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/2/csm_az_cz_30f31cdd7e.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c539",
+   "bg": "yellow",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "kpis",
+   "title": "ZOLLER助力客户取得成功",
+   "subtitle": "利润更高、订单更多、耗时更少、制造成本更低 — ZOLLER 致力于在全球范围内提升客户的效率。",
+   "items": [
+    {
+     "label": "快速装配",
+     "value": "30%",
+     "text": "<p>凭借ZOLLER »hyperion«, SycoTec将设置时间缩短了这一比例。在这台卧式预调和测量设备上，对车削刀具和多刀位刀柄进行测量。SycoTec利用这些设备生产高速微型电机。 </p> <p><a class=\"btn\" href=\"/ch/%E6%82%A8%E7%9A%84%E6%88%90%E5%8A%9F/%E8%AF%A6%E6%83%85?tx_news_pi1%5Bnews%5D=116&amp;cHash=421d313fd09bbdfb23f6ea4d752d4ee7\">成功案例</a></p>"
+    },
+    {
+     "label": "降低人力成本",
+     "value": "83%",
+     "text": "<p>在三班制生产中，若采用 »roboSet 2« 自动化解决方案，刀具检测所需的人力成本可降低至此程度。 </p> <p><a class=\"btn\" href=\"/ch/%E4%BA%A7%E5%93%81/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%88%80%E5%85%B7%E6%A3%80%E6%B5%8B/roboset-2\">了解更多关于 »»roboSet 2« 的信息«</a></p>"
+    },
+    {
+     "label": "快速收回成本",
+     "value": "9个月",
+     "text": "<p>这是»smile«预调和测量设备平均收回成本所需的时间。计算依据：单班制生产，使用一台数控机床。若使用两台机床，所需时间将减半。 </p> <p><a class=\"btn\" href=\"/ch/%E4%BA%A7%E5%93%81/%E9%A2%84%E8%B0%83%E5%92%8C%E6%B5%8B%E9%87%8F/%E7%AB%8B%E5%BC%8F%E8%AE%BE%E5%A4%87/smile\">了解更多关于»smile«</a></p>"
+    },
+    {
+     "label": "销售额大幅增长",
+     "value": "100万美元",
+     "text": "<p>位于美国密歇根州的家族企业ProCam在购入»smile 420«后的两年内，营业额增长了100万美元。得益于设置时间的缩短和设备停机时间的减少，ProCam得以承接更多订单。</p> <p><a class=\"btn\" href=\"/ch/%E6%82%A8%E7%9A%84%E6%88%90%E5%8A%9F/%E8%AF%A6%E6%83%85?tx_news_pi1%5Bnews%5D=37&amp;cHash=992d0db4f33082f4543da88c75286a33\">成功案例</a></p>"
+    }
+   ],
+   "ftype": "zoller_content-scroller",
+   "id": "c537",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_strip",
+   "icon": {
+    "src": "/fileadmin/_processed_/0/0/csm_calculator_8806cc3f97.webp",
+    "alt": "",
+    "w": 50,
+    "h": 65
+   },
+   "text": "<p class=\"bold\">借助 ZOLLER 预调和测量设备提升生产效率</p> <p>ZOLLER 经济效益计算器可为您计算企业的潜在节省潜力。</p>",
+   "button": "<a class=\"btn\" href=\"/ch/%E7%BB%8F%E6%B5%8E%E6%95%88%E7%9B%8A%E8%AE%A1%E7%AE%97%E5%99%A8\">立即计算节省潜力</a>",
+   "ftype": "zoller_icon-button",
+   "id": "c4326",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 在铣削、车削和磨削过程中提升生产效率 </h2>",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/2/csm_teaser_milling_6f80026943.webp",
+     "alt": "",
+     "w": 633,
+     "h": 377,
+     "title": "铣削",
+     "href": "/ch/%E9%93%A3%E5%89%8A",
+     "caption": "<figcaption> <h3>铣削</h3> <p>精准的预调和测量、市场上最先进的动平衡技术、精确的套管和脱管操作，以及所有接口和数据，共同确保从CAM到零件的端到端流程顺畅无阻。 </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/1/5/csm_teaser_turning_a68c271858.webp",
+     "alt": "",
+     "w": 633,
+     "h": 377,
+     "title": "旋转",
+     "href": "/ch/%E6%97%8B%E8%BD%AC",
+     "caption": "<figcaption> <h3>旋转</h3> <p>专用于车削刀具的测量技术、刀具管理、数据处理以及利用非生产时间进行高效准备：ZOLLER 助您在车削加工中取得更大成功。</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/f/csm_teaser_grinding_7de917acd6.webp",
+     "alt": "",
+     "w": 633,
+     "h": 377,
+     "title": "打磨",
+     "href": "/ch/%E7%A3%A8%E5%89%8A%E5%B7%A5%E5%85%B7",
+     "caption": "<figcaption> <h3>打磨</h3> <p>与CAD设计系统的接口、适用于CNC磨床的控制数据、模拟测量流程，以及贴近生产过程的检测与文档记录。</p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c540",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> “自动化是企业在国际市场上保持竞争力的必要条件。” </h3>",
+   "body": "<p class=\"large-text\">迈克尔·莫特，奥伯恩多夫莫特工具磨削技术公司总经理</p> <p><a class=\"btn\" href=\"/ch/%E6%82%A8%E7%9A%84%E6%88%90%E5%8A%9F/%E8%AF%A6%E6%83%85?tx_news_pi1%5Bnews%5D=109&amp;cHash=edd71d398b779dcca094c57186138635\"> 查看用户案例</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/3/csm_teaser_roboSet2_8f949c1d6b.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034,
+     "href": "/ch/%E6%82%A8%E7%9A%84%E6%88%90%E5%8A%9F/%E8%AF%A6%E6%83%85?tx_news_pi1%5Bnews%5D=109&cHash=edd71d398b779dcca094c57186138635"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c4109",
+   "bg": "white",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> “借助ZOLLER的软件系统实现数字化转型，对显著提高生产经济效益起到了关键作用。” </h2>",
+   "body": "<p class=\"large-text\">弗兰克·舍费尔（Frank Schaefer）工程师，杜尔门LIDU Maschinenbau Lienenbrügger GmbH公司管理层成员</p> <p><a class=\"btn\" href=\"/ch/%E6%82%A8%E7%9A%84%E6%88%90%E5%8A%9F/%E8%AF%A6%E6%83%85?tx_news_pi1%5Bnews%5D=112&amp;cHash=5bd9e00bf990db26ead5dc36b56cb9be\">查看用户案例</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/1/csm_teaser_zoller_002_647c6fcfb2.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034,
+     "href": "/ch/%E6%82%A8%E7%9A%84%E6%88%90%E5%8A%9F/%E8%AF%A6%E6%83%85?tx_news_pi1%5Bnews%5D=112&cHash=5bd9e00bf990db26ead5dc36b56cb9be"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c536",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 亲身体验ZOLLER系统 </h2>",
+   "body": "<p>在位于普莱德尔斯海姆的ZOLLER智能工厂，我们将展示ZOLLER系统及其所有解决方案，涵盖直至完整的车间自动化。请亲身体验无缝CAM到零件流程的高效率，以及刀具数据全程可用所带来的优势。 </p> <p>立即了解如何预约参观或进行一对一专业咨询。</p> <p><a class=\"btn\" href=\"/ch/%E4%BC%81%E4%B8%9A/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC/%E6%99%BA%E8%83%BD%E5%B7%A5%E5%8E%82\">前往智能工厂</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/9/csm_smartfactory_teaser_4b2372736c.webp",
+     "alt": "",
+     "w": 1400,
+     "h": 1400
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c59554",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> <a href=\"/ch/%E9%A6%96%E9%A1%B5\">高效热缩系统</a> </h2>",
+   "body": "<p class=\"large-text\">»powerShrink« 可快速对刀柄进行热缩处理，同时能极大地节约能源。热缩刀柄经过温和加热和冷却 — 为您的热缩工艺带来高效率。 </p> <p><a class=\"btn\" href=\"/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%83%AD%E7%BC%A9%E6%8A%80%E6%9C%AF/powershrink\">了解有关 »powerShrink« 的更多信息</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/3/c/csm_teaser_powershrink_ff1b555a0d.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034,
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%83%AD%E7%BC%A9%E6%8A%80%E6%9C%AF/powershrink"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c752",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "newslist",
+   "header": "<h3> 最新消息 </h3>",
+   "articles": [
+    {
+     "href": "/ch/%E6%82%A8%E7%9A%84%E6%88%90%E5%8A%9F/%E8%AF%A6%E6%83%85/%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E9%92%A8%E4%BB%B7%E6%9A%B4%E6%B6%A8",
+     "img": {
+      "src": "/fileadmin/_processed_/c/1/csm_wolfram_teaserimg_16c264143f.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "新闻稿",
+      "刀具管理"
+     ],
+     "title": "如何应对钨价暴涨",
+     "teaser": "针对整体硬质合金刀具价格的极度上涨，有两种应对策略：提高刀具使用效率，以及在再磨削过程中确保最高精度。",
+     "date": ""
+    },
+    {
+     "href": "/ch/%E6%82%A8%E7%9A%84%E6%88%90%E5%8A%9F/%E8%AF%A6%E6%83%85/ausschliesslich-strom-aus-nachhaltigen-quellen",
+     "img": {
+      "src": "/typo3temp/assets/_processed_/6/6/csm_dummy-preview-image_fcd6db6a31.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "企业",
+      "可持续发展"
+     ],
+     "title": "仅使用来自可持续能源的电力",
+     "teaser": "我们的生产完全依赖可再生能源发电。通过自建的光伏发电系统，我们为此做出了贡献。",
+     "date": ""
+    },
+    {
+     "href": "/ch/%E6%82%A8%E7%9A%84%E6%88%90%E5%8A%9F/%E8%AF%A6%E6%83%85/500-quadratmeter-insektenflugplatz",
+     "img": {
+      "src": "/typo3temp/assets/_processed_/6/6/csm_dummy-preview-image_fcd6db6a31.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "企业",
+      "可持续发展"
+     ],
+     "title": "500平方米的昆虫机场",
+     "teaser": "ZOLLER公司内一片生机盎然的舒适之地",
+     "date": ""
+    }
+   ],
+   "pages": [],
+   "ftype": "news_newsliststicky",
+   "id": "c749",
+   "bg": "lightgray",
+   "space": {
+    "before": "medium",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>一对一专业咨询</h3> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/expert/booking\" rel=\"noopener\" target=\"_blank\">立即预约</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/ch/首页",
+ "de_path": "/startseite"
+}

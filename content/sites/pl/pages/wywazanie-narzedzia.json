@@ -1,0 +1,436 @@
+{
+ "path": "/wywazanie-narzedzia",
+ "url": "/pl/wywazanie-narzedzia",
+ "title": "Wyważanie narzędzia",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pl/strona-glowna"
+  },
+  {
+   "label": "Wyważanie narzędzia",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pl/strona-glowna"
+  },
+  {
+   "label": "Wyważanie narzędzia",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeug-auswuchten",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/balance-the-tool",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/equilibrar-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/equilibrer-loutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/equilibrar-a-ferramenta",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/bilanciamento-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/balansera-verktyg",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeug-auswuchten",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/equilibrage-dun-outil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EB%B0%B8%EB%9F%B0%EC%8B%B1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/balancing-tools",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/equilibrar-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/equilibrar-a-ferramenta",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/c/f/csm_balancing_header_d7e77910f1.webp",
+     "video": null,
+     "title": "Łatwe wyważanie narzędzi",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4378",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>Niewyważenie narzędzi szybko staje się problemem pod wieloma względami: powoduje nierównomierną pracę, obciąża wrzeciono i maszynę, negatywnie wpływa na wydajność obróbki, a w końcu na ogólne bezpieczeństwo procesu.</h4>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3932",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Jakie są skutki niewyważenia narzędzia? </h2>",
+   "body": "<p>Niestabilnie pracujące narzędzia nie pozwalają na długotrwałe utrzymanie tej samej precyzji, jakiej potrzebujesz do wykonywania swoich zadań. Występujące drgania nie tylko zmniejszają ogólną wydajność obróbki skrawaniem, ale powodują również powstawanie na obrabianych elementach defektów, takich jak np. ślady drgań, które w razie potrzeby wymagają dodatkowej obróbki. Niewyważenie narzędzia prowadzi zatem do konkretnych strat jakościowych i zagraża bezpieczeństwu procesów produkcyjnych.</p> <p>Ponadto niewyważenie skraca również żywotność wrzeciona, a być może także samej maszyny – związane z tym koszty szybko przewyższają nakłady wynikające z częstszego wyważania narzędzi.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3933",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Co oznacza „niewyważenie”? </h2>",
+   "body": "<p>Termin „niewyważenie” opisuje powszechne zjawisko występujące w przypadku ciał obracających się, polegające na tym, że ich masa nie jest rozłożona symetrycznie względem osi obrotu. Rozróżnia się zasadniczo trzy rodzaje niewyważenia:</p><ul><li>Wyważenie statyczne: w tym przypadku środek ciężkości ciała obrotowego znajduje się poza osią obrotu. Można to zmierzyć już w stanie spoczynku.</li><li>Wycentrowanie momentowe: Środek ciężkości leży na osi obrotu, a wycentrowanie staje się mierzalne dopiero podczas ruchu obrotowego.</li><li>Niewyważenie dynamiczne: pojęcie niewyważenia dynamicznego łączy w sobie dwie pozostałe formy niewyważenia, w dowolnej kombinacji niewyważenia statycznego i momentowego. Jest to typowa sytuacja w przypadku wirników technicznych.</li></ul><p>Każdą konkretną formę niewyważenia można skompensować poprzez odpowiednie dostosowania samego elementu obrotowego.</p> <p>Podczas obrotu niewyważenie jest tym bardziej odczuwalne, im większe jest jego wartość (wzrost liniowy) i im szybszy jest ruch obrotowy (wzrost kwadratowy). Im szybszy jest ruch obrotowy, tym ważniejsze staje się wyważanie i tym ważniejsze jest maksymalne zredukowanie niewyważenia resztkowego. Wyważanie powinno zatem zostać systematycznie włączone do procesu produkcyjnego.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3934",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Co powoduje powstawanie niewyważenia podczas pracy narzędzia? </h2>",
+   "body": "<p>W systemach narzędzi obrotowych niewyważenia są znanym i regularnie występującym zjawiskiem. Istnieją różne możliwe przyczyny ich powstawania, na przykład:</p><ul><li>Nieprawidłowy montaż narzędzia składającego się z kilku części – na przykład gdy uchwyt narzędziowy i narzędzie nie są dokładnie wyrównane i odchylają się od osi obrotu.</li><li>Rozkład masy narzędzia był już podczas produkcji niesymetryczny – w tym przypadku należy uwzględnić tolerancje produkcyjne podane przez producenta i w razie potrzeby je sprawdzić.</li><li>Sam wirnik lub uchwyt narzędziowy ma konstrukcję asymetryczną (np. śruba mocująca w adapterze frezarskim (uchwyt Weldon)).</li></ul><p>Nawet w przypadku precyzyjnie wyważonych uchwytów narzędziowych połączenie uchwytów z konkretnym narzędziem może ponownie spowodować powstanie niewyważenia. Bardzo ważne jest jego zmierzenie i, w razie potrzeby, skorygowanie.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3935",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Dlaczego wyważanie narzędzi jest tak ważne? </h2>",
+   "body": "<p>Podczas obróbki elementów z dużą prędkością przy użyciu obrotowych systemów narzędziowych każda najmniejsza niedokładność, każdy brak precyzji może w pewnych okolicznościach bardzo szybko i wyraźnie dać o sobie znać. Niewyważenie narzędzia może powodować drgania, a na pewno – nierównomierną pracę.</p> <p>Oba te czynniki negatywnie wpływają na dokładność pracy narzędzia i zawsze zwiększają ryzyko powstawania artefaktów oraz uszkodzeń obrabianego elementu: pogarsza się jakość powierzchni, co może prowadzić do powstania braku. Ponieważ jednak Państwa procesy w dużym stopniu zależą od uzyskania prawidłowo obrobionych wyników końcowych, narzędzia, które nie zostały precyzyjnie wyważone, wymagają bardziej szczegółowych kontroli jakości. Być może konieczna będzie również obróbka uzupełniająca, a w każdym razie nie można zagwarantować bezpieczeństwa procesu.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3936",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Brak wyważenia kosztuje pieniądze </h2>",
+   "body": "<p>Może to skutkować opóźnieniami w procesie produkcyjnym, co z kolei ma bezpośredni wpływ na Państwa zdolność do terminowej dostawy zamówionej ilości w wymaganej jakości.</p> <p>Do tego dochodzi fakt, że narzędzia pracujące nierównomiernie mogą, zwłaszcza poprzez drgania, skracać żywotność wrzeciona tokarskiego – jest to również czynnik kosztowy, którego nie należy lekceważyć.</p> <p>Wyważone narzędzie jest zatem korzystne zarówno dla obrabianych elementów, jak i dla maszyn.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3937",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Zasada praktyczna: Często się to robi, rzadko się tego żałuje! </h2>",
+   "body": "<p><strong>Dlatego obowiązuje zasada:</strong> lepiej wyważać na czas i częściej, niż ponosić koszty w końcu. Ogólnie <strong>rzecz</strong> biorąc, narzędzie należy ponownie wyważyć już wtedy, gdy jest używane przy zmienionej prędkości obrotowej – ponieważ nawet ta zmiana może powodować znaczne różnice w płynności pracy.</p> <p>Regularne wyważanie zwiększa wydajność i jakość pracy.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3938",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Wyważanie narzędzi: jak to zrobić? </h2>",
+   "body": "<p>Ogólnie rzecz biorąc, istnieją trzy sposoby na skorygowanie lub wyeliminowanie niewyważenia:</p><ul><li>celowe dodanie masy (np. poprzez zastosowanie dodatkowych obciążników)</li><li>Usunięcie masy (np. poprzez wiercenie lub szlifowanie)</li><li>Przesunięcie masy (np. za pomocą odpowiednich pierścieni obrotowych)</li></ul><p>Aby ułatwić ten proces, zwłaszcza w przypadku narzędzi, i zapewnić jego precyzyjne przeprowadzenie, zaleca się stosowanie wyważarki wyposażonej w odpowiednie oprogramowanie. Najpierw narzędzie umieszcza się w wrzecionie wyważającym i wprawia w ruch obrotowy w celu pomiaru występujących sił odśrodkowych.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3939",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Automatycznie obliczona kompensacja niewyważenia </h2>",
+   "body": "<p>Na podstawie tych danych pomiarowych system wyważania oblicza następnie kompensację niewyważenia. W przypadku zaawansowanej wyważarki działania te można natychmiast wdrożyć; wyważanie precyzyjne jest kontynuowane do momentu, aż nie będzie już można zmierzyć żadnego niewyważenia resztkowego lub wszystkie wartości znajdą się w dopuszczalnym zakresie tolerancji.</p> <p>W ten sposób wyważanie nie trwa nawet szczególnie długo, a nierównomiernie rozłożona masa może zostać szybko skompensowana.</p> <p>Wysoce precyzyjny i w dużej mierze zautomatyzowany system wyważania jest również przydatny, ponieważ umożliwia ponowne i jednocześnie szybkie wyważanie narzędzi przy każdej zmianie konfiguracji. Zapobiega to spadkowi jakości spowodowanemu zmianami wymagań, prędkości obrotowych lub materiałów, nie wpływając negatywnie na tempo pracy.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3940",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h3> Wydajne wyważanie za pomocą urządzenia ZOLLER »toolBalancer« </h3>",
+      "body": "<p>Precyzyjnie wyważone narzędzia, nawet do pracy przy wysokich prędkościach obrotowych: w tym zakresie system wyważania ZOLLER »toolBalancer« jest idealnym rozwiązaniem. Dzięki modułowej konstrukcji można go nie tylko indywidualnie dostosować do Państwa konkretnych wymagań, ale zapewnia on również szerokie możliwości rozwoju w przyszłości.</p> <p>Ten wysoce precyzyjny system wyważania nadaje się do uchwytów narzędziowych, tarcz szlifierskich i wirników oraz gwarantuje wymiernie niższy wskaźnik braków, skrócenie przestojów maszyn, obniżenie kosztów produkcji oraz skrócenie czasu dostaw.</p> <h3><br/>Przegląd zalet:</h3><ul><li><strong>Mniejsze zużycie</strong> i większa wydajność obróbki dzięki precyzyjnie wyważonym narzędziom</li><li><strong>Modułowa konstrukcja</strong> umożliwia indywidualne dostosowanie</li><li><strong>Intuicyjna obsługa</strong> systemu pozwala uniknąć niepotrzebnych i kosztownych błędów</li><li><strong>Wygodna obsługa</strong> za pomocą ekranu dotykowego, klawiatury i myszy</li></ul><p><a class=\"btn\" href=\"/pl/produkty/technika-wywazania/toolbalancer\">Dowiedz się wszystkiego o możliwościach urządzenia ZOLLER »toolBalancer«</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3943",
+      "bg": "",
+      "space": {
+       "before": "small",
+       "after": "small"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/f/6/csm_header_toolBalancer_df19c3c897.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 896
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "image",
+      "id": "c3945",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3941",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_teaser_balancing_small_e3b1b4fcf5.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Technika wyważania narzędzi: korzyści dla Państwa",
+     "href": "/pl/rozwiazania/technika-wywazania",
+     "caption": "<figcaption> <h3>Technika wyważania narzędzi: korzyści dla Państwa</h3> <p>Znaczenie wyważania jest niedoceniane. Tymczasem wyważanie przyczynia się do większej opłacalności, ponieważ prowadzi do redukcji zużycia narzędzi powodującego wzrost kosztów i odciąża wrzeciona maszyn. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Indywidualna rozmowa z ekspertem",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>Indywidualna rozmowa z ekspertem</h3> <p>Indywidualna rozmowa, w której wymieniają się Państwo na temat Państwa celów i naszych pomysłów, jak je osiągnąć. Doradztwo online firmy ZOLLER bezpośrednio z „Smart Factory”. Umówcie się Państwo na spotkanie już teraz. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3832",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/pl/wywazanie-narzedzia",
+ "de_path": "/werkzeug-auswuchten"
+}

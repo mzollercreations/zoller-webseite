@@ -1,0 +1,814 @@
+{
+ "path": "/przedsiebiorstwa/profil/historia",
+ "url": "/pl/przedsiebiorstwa/profil/historia",
+ "title": "Historia",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pl/strona-glowna"
+  },
+  {
+   "label": "Przedsiębiorstwa /",
+   "href": "/pl/przedsiebiorstwa"
+  },
+  {
+   "label": "Profil /",
+   "href": "/pl/przedsiebiorstwa/profil"
+  },
+  {
+   "label": "Historia",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pl/strona-glowna"
+  },
+  {
+   "label": "Przedsiębiorstwa /",
+   "href": "/pl/przedsiebiorstwa"
+  },
+  {
+   "label": "Profil /",
+   "href": "/pl/przedsiebiorstwa/profil"
+  },
+  {
+   "label": "Historia",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/profil/historie",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/profile/history",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/profil/historia",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/profil/historie",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/history",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/profil/historique",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/%E6%B2%BF%E9%9D%A9",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84/%EC%97%B0%ED%98%81",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/profile/history",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/perfil/historia",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/perfil/historia",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "timeline",
+   "heads": {
+    "772": {
+     "year": "1945",
+     "label": "Powrót i nowy początek"
+    },
+    "773": {
+     "year": "1948",
+     "label": "Wzrost i zmiana"
+    },
+    "774": {
+     "year": "1958",
+     "label": "Światowa nowość"
+    },
+    "775": {
+     "year": "1968",
+     "label": "Szybki start"
+    },
+    "776": {
+     "year": "1969",
+     "label": "W serii"
+    },
+    "777": {
+     "year": "1976",
+     "label": "Pierwsze urządzenie regulacyjne sterowane numerycznie"
+    },
+    "778": {
+     "year": "1977",
+     "label": "Wyprzedzając swoje czasy"
+    },
+    "779": {
+     "year": "1981",
+     "label": "Oprogramowanie do procesów obróbki skrawaniem"
+    },
+    "780": {
+     "year": "1982",
+     "label": "Firma ZOLLER przenosi się do Freibergu nad Neussem."
+    },
+    "781": {
+     "year": "1983",
+     "label": "ZOLLER wyznacza standardy"
+    },
+    "782": {
+     "year": "1985",
+     "label": "Power Brain zastępuje Tool Brain"
+    },
+    "783": {
+     "year": "1988",
+     "label": "Wyróżniony projekt"
+    },
+    "784": {
+     "year": "1989",
+     "label": "Precyzja rzędu mikrometrów dla każdego operatora"
+    },
+    "785": {
+     "year": "1991",
+     "label": "Palec zamiast myszki"
+    },
+    "786": {
+     "year": "1992",
+     "label": "Pierwsze urządzenie firmy ZOLLER do kontroli narzędzi"
+    },
+    "787": {
+     "year": "1993",
+     "label": "Najtrudniejsza decyzja"
+    },
+    "788": {
+     "year": "1994",
+     "label": "Nadchodzi KANBAN"
+    },
+    "789": {
+     "year": "1995",
+     "label": "Rozpoczyna się era »smartCheck«"
+    },
+    "790": {
+     "year": "1996",
+     "label": "Nowe rozwiązania programowe"
+    },
+    "791": {
+     "year": "1997",
+     "label": "Na zachód"
+    },
+    "792": {
+     "year": "1998",
+     "label": "Nowości w dziedzinie pomiarów i kontroli"
+    },
+    "793": {
+     "year": "1999",
+     "label": "»lasso« wyłapuje kontury"
+    },
+    "794": {
+     "year": "2000",
+     "label": "Nowa różnica: »smile«"
+    },
+    "795": {
+     "year": "2001",
+     "label": "Certyfikowany system zarządzania środowiskowego"
+    },
+    "796": {
+     "year": "2002",
+     "label": "Ekspert od obniżania cen: »redomatic«"
+    },
+    "797": {
+     "year": "2003",
+     "label": "Lepszy przegląd dzięki »genius 3«"
+    },
+    "798": {
+     "year": "2004",
+     "label": "Nie będzie emerytury"
+    },
+    "799": {
+     "year": "2005",
+     "label": "Krótkie podsumowanie dotyczące urządzeń po 60 latach"
+    },
+    "800": {
+     "year": "2006",
+     "label": "»pilot 3.0«"
+    },
+    "801": {
+     "year": "2007",
+     "label": "»pilot elephant«: Pomiary bez wcześniejszej wiedzy"
+    },
+    "802": {
+     "year": "2008",
+     "label": "Przeprowadzka do Pleidelsheim"
+    },
+    "803": {
+     "year": "2010",
+     "label": "ZOLLER w Japonii"
+    },
+    "804": {
+     "year": "2011",
+     "label": "Zarządzanie narzędziami z firmą ZOLLER"
+    },
+    "805": {
+     "year": "2012",
+     "label": "»tytan«"
+    },
+    "806": {
+     "year": "2013",
+     "label": "Rozbudowa parku maszyn pomiarowych"
+    },
+    "807": {
+     "year": "2014",
+     "label": "Większa wydajność dzięki automatyzacji"
+    },
+    "808": {
+     "year": "2016",
+     "label": "Aktualizacja dla »programów smile« i »venturion«"
+    },
+    "809": {
+     "year": "2017",
+     "label": "Dokładna analiza powierzchni narzędzia"
+    },
+    "810": {
+     "year": "2018",
+     "label": "Siedziba główna w Ann Arbor,"
+    },
+    "811": {
+     "year": "2020",
+     "label": "Nowy budynek z „Smart Factory” i Akademią"
+    },
+    "812": {
+     "year": "2021",
+     "label": "Automatyzacja narzędziowa w produkcji"
+    },
+    "813": {
+     "year": "2022",
+     "label": "Innowacje w zakresie wyważania i obkurczania"
+    },
+    "814": {
+     "year": "2023",
+     "label": "Rozwiązanie portalowe dla automatyki"
+    },
+    "815": {
+     "year": "2024",
+     "label": "Nowa maszyna pomiarowa"
+    },
+    "816": {
+     "year": "2025",
+     "label": "Kompleksowa pielęgnacja modeli »pom«"
+    }
+   },
+   "items": [
+    {
+     "id": "772",
+     "html": "19<br/> 45 <h1>Powrót i nowy początek</h1> <p>Alfred Zoller wraca z Berlina do Ludwigsburga. Przez dziewięć lat pełnił funkcję mistrza mechanika w firmie Hirth Flugmotoren. 1 września Alfred Zoller zakłada swój warsztat mechaniczny przy ulicy Bogenstraße w Ludwigsburgu. Druga wojna światowa zakończyła się niecałe cztery miesiące wcześniej. Warunki na początku działalności są zatem odpowiednio trudne. Z jednej strony jest wiele do naprawienia, z drugiej zaś brakuje narzędzi, materiałów i maszyn. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/8/csm_1945_01_0487a6b9c4.webp\" width=\"600\"/> <p>Alfred Zoller</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/0/csm_1945_02_240d6e6568.webp\" width=\"600\"/> <p>Ulica Bogenstraße w Ludwigsburgu</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/d/csm_1945_03_bb9b277f52.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/6/csm_1945_04_f1fa6af766.webp\" width=\"600\"/> <h4>Pióra wieczne, zapalniczki, pompy strażackie</h4> <p>Alfred Zoller naprawia silniki, węże strażackie, zabawki dla dzieci, pióra wieczne i wszystko, co ludzie mu przynoszą. Ponadto naprawia zepsute maszyny. Stanowią one podstawę do samodzielnego wytwarzania produktów.</p> <p>Szczególnym powodzeniem cieszą się jego aluminiowe zapalniczki, które wytwarza na swojej tokarce. Z czasem najważniejszymi klientami stają się amerykańscy żołnierze. Płacą za zapalniczki głównie papierosami, masłem orzechowym lub czekoladą.</p>",
+     "img": null
+    },
+    {
+     "id": "773",
+     "html": "19<br/> 48 <h3>Wzrost i zmiana</h3> <p>Firma Alfreda Zollera z powodzeniem działa w Ludwigsburgu. Ta niewielka firma rozrosła się w ciągu ostatnich trzech lat, zatrudniając nowych pracowników. W Bogenstraße robi się za ciasno. Warsztat zmienia lokalizację i przenosi się na Charlottenstraße. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/4/csm_1948_01_3e7d4e5914.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/3/csm_1948_02_cd124cd83d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/1/csm_1948_03_ddef5d6539.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/b/csm_1948_04_35d2f43c2e.webp\" width=\"600\"/> <h4>Uchwyty narzędziowe i dalszy rozwój</h4> <p>Wieści o osiągnięciach Zollera jako mechanika szybko się rozchodzą. Firma produkuje na licencji uchwyty narzędziowe do tokarek, które są sprzedawane za pośrednictwem kilku dystrybutorów. Są to pierwsze rozwiązania w zakresie oprzyrządowania w historii firmy ZOLLER. W ten sposób Alfred Zoller wkracza na rynek narzędzi tokarskich i tokarek. </p> <p>Kolejne zlecenia napływają od producentów maszyn. Alfred Zoller ma wyprodukować szablony blaszane, za pomocą których można regulować narzędzia tokarskie. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/4/csm_1948_01_3e7d4e5914.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "774",
+     "html": "19<br/> 58 <h3>Światowa nowość: urządzenie do regulacji narzędzi tokarskich firmy Zoller</h3> <p>Klienci sugerują, że urządzenie do wstępnej regulacji narzędzi tokarskich znacznie usprawniłoby produkcję. Pomysłowy Zoller ze Szwabii podchwytuje ten pomysł i opracowuje pantograf do regulacji narzędzi. </p> <p>Właściwie pantograf jest przyrządem kreślarskim. Jednak firma Zoller potrafiła wykorzystać ten mechanizm w połączeniu z mikroskopem do regulacji narzędzi. Było to pierwsze na świecie urządzenie, dzięki któremu operator maszyny mógł na podstawie rysunku technicznego dokonać zewnętrznej regulacji wszystkich narzędzi tokarskich. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/b/csm_1958_01_a451fe7896.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/0/csm_1958_02_ad7853d944.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/d/b/csm_1958_01_a451fe7896.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "775",
+     "html": "19<br/> 68 <h3>Szybki start </h3> <p>Syn Alfreda Zollera, Eberhard Zoller, dołącza do firmy 8 kwietnia. Ten młody inżynier mechanik pracuje w Heidelberger Druck, firmie specjalizującej się w dużych maszynach drukarskich. Jednak stan zdrowia jego ojca wymaga natychmiastowego działania. „W firmie Heidelberger Druck czułem się bardzo dobrze. Było to jedno z najnowocześniejszych przedsiębiorstw w Niemczech. Nie wahałem się jednak ani chwili, aby dołączyć do firmy mojego ojca” – wspomina Eberhard Zoller. Jego pierwsze zadanie: dalszy rozwój urządzenia regulacyjno-pomiarowego. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/6/csm_1968_01_6f0f9a1511.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/6/csm_1968_02_8f0be66930.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/7/csm_1968_03_c3382b902c.webp\" width=\"600\"/> <h4>Zmiana nazwy</h4> <p>W związku z dalszym przesunięciem punktu ciężkości w kierunku urządzeń i uchwytów narzędziowych firma zmienia nazwę. Na targach w Hanowerze zaprezentowała się jako „ALFRED ZOLLER Maschinen- und Vorrichtungsbau”. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/6/csm_1968_01_6f0f9a1511.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "776",
+     "html": "19<br/> 69 <h3>W serii</h3> <p>Urządzenie regulacyjne, wynalezione przez Alfreda Zollera i udoskonalone przez Eberharda Zollera, trafia do produkcji seryjnej. Firma, która początkowo działała jako warsztat mechaniczny, staje się producentem maszyn. Do końca roku sprzedano ponad 30 urządzeń. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/7/csm_1969_01_2d454117fb.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/7/csm_1969_01_2d454117fb.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "777",
+     "html": "19<br/> 76 <h3>Pierwsze urządzenie regulacyjne sterowane numerycznie</h3> <p>Regulacja narzędzi nadal odbywa się ręcznie. Dlatego firma ZOLLER poszukuje sposobów na zautomatyzowanie procesu ustawiania narzędzia w pozycji regulacyjnej. Na rynek trafia pierwsze na świecie urządzenie do regulacji sterowane numerycznie: model H 4000 firmy ZOLLER.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/e/csm_1976_03_cded673504.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/4/csm_1976_02_d7b5b5374d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/b/csm_1976_01_5e9cfdb9f4.webp\" width=\"600\"/> <h4>Wizyta króla</h4> <p>Firma ZOLLER bierze udział w targach obrabiarek w Sztokholmie. Wydaje się, że firma z Ludwigsburga cieszy się doskonałą reputacją nawet w najwyższych kręgach. Sam król kraju partnerskiego w zakresie eksportu, Carl Gustav ze Szwecji, złożył wizytę na stoisku firmy ZOLLER. Chce dowiedzieć się, co sprawia, że szwabska technika precyzyjna jest tak wyjątkowa.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/e/csm_1976_03_cded673504.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "778",
+     "html": "19<br/> 77 <h3>Wyprzedzając czasy: z Basicem do cyfrowego arkusza aranżacyjnego </h3> <p>Dla Eberharda Zollera fakt, że oprogramowanie zyska na znaczeniu w procesach produkcyjnych, jest jedynie kwestią czasu. Nie ulega wątpliwości, że firma ZOLLER powinna opracować odpowiednie rozwiązania. Szef firmy ZOLLER bez wahania zaczyna więc samodzielnie uczyć się programowania w języku Basic i na Międzynarodowych Targach w Hanowerze prezentuje pierwszy cyfrowy arkusz ustawień. Zainteresowanie od razu okazało się ogromne. Firma ZOLLER stanęła przed nagłym problemem: nie była w stanie zrealizować zamówień. Szef traktował ten program raczej jako szkic koncepcyjny. Jednak ziarno zostało zasiane. Eberhard Zoller zatrudnił programistów.</p>",
+     "img": null
+    },
+    {
+     "id": "779",
+     "html": "19<br/> 81 <h3>Oprogramowanie do procesów obróbki skrawaniem</h3> <p>Eberhard Zoller chce umożliwić cyfrowe odwzorowanie jeszcze większej liczby wymagań związanych z zarządzaniem narzędziami. W 1981 roku firma ZOLLER przedstawia swoje pierwsze oprogramowanie do zarządzania narzędziami: Tool Brain.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/d/csm_1981_01_96ddb65e12.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/b/csm_1981_02_f5b5db0122.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/6/d/csm_1981_01_96ddb65e12.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "780",
+     "html": "19<br/> 82 <h3>Firma ZOLLER przenosi się do Freibergu nad Neussem.</h3> <p>Zbliża się kolejna przeprowadzka firmy, ponieważ powierzchnie w Ludwigsburgu nie są już w stanie sprostać tempu rozwoju firmy ZOLLER. W Freibergu nad Nehrą firma ZOLLER buduje nowy obiekt, tworząc w ten sposób optymalne warunki do ukierunkowania produkcji, rozwoju i administracji na przyszłość. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/e/csm_1982_01_55ec0d8af2.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_1982_02_8738e9d4cd.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/e/csm_1982_01_55ec0d8af2.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "781",
+     "html": "19<br/> 83 <h3>Firma ZOLLER wyznacza standardy w dziedzinie urządzeń do regulacji</h3> <p>Ręczny regulator H 1000 z wyświetlaczem cyfrowym i projektorem D150 mm podbija rynek. Jest to najczęściej stosowany regulator do tokarek sterowanych numerycznie w tamtym okresie. Ponadto na rynek trafia pierwszy model pionowy firmy ZOLLER: V 1500. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/b/csm_1983_01_cda21bfcaf.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/b/csm_1983_01_cda21bfcaf.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "782",
+     "html": "19<br/> 85 <h3>Power Brain zastępuje Tool Brain</h3> <p>Firma ZOLLER właściwie oceniła znaczenie cyfrowego zarządzania narzędziami i kontynuowała prace nad rozwojem oprogramowania Tool Brain. Pierwszy etap rozbudowy oprogramowania nastąpił w 1985 roku: Power Brain. Wytyczono tym samym drogę do późniejszych rozwiązań TMS Tool Management Solutions. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/4/csm_1985_01_b58799cdf1.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/e/csm_1985_02_365ef2e25f.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/4/csm_1985_01_b58799cdf1.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "783",
+     "html": "19<br/> 88 <h3>Wyróżnione za wzornictwo, ergonomię i obsługę</h3> <p>Eberhard Zoller przywiązuje szczególną wagę do ergonomii, łatwości obsługi i modułowej konstrukcji. Jego zdaniem są to kluczowe cechy zapewniające dodatkowe korzyści, dzięki którym firma ZOLLER może wyróżnić się na rynku. W tym celu zleca opracowanie nowych serii urządzeń V i H. Mają one jeszcze lepiej spełniać wyżej wymienione kryteria. </p> <p>Firma ZOLLER wyposaża te serie w innowacyjne rozwiązania, takie jak uchwyt do obsługi jedną ręką oraz bezstopniowa regulacja precyzyjna. Dzięki nim obsługa staje się znacznie wygodniejsza. Po raz pierwszy firma nawiązuje współpracę z projektantem przemysłowym. Wysiłek ten opłaca się: urządzenia zdobywają Międzynarodową Nagrodę za Projekt Przemysłowy HiF i otrzymują wyróżnienie „Najlepsi z najlepszych”.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/2/csm_1988_01_fa494a9b49.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/3/csm_1988_02_3a8ac45faa.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/7/csm_1988_03_967f0da541.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/4/csm_1988_04_0d0d8359a6.webp\" width=\"600\"/> <h4>Internacjonalizacja zwiększa sprzedaż</h4> <p>Międzynarodowa działalność sprzedażowa nabiera tempa, a roczna sprzedaż urządzeń regulacyjnych i pomiarowych wzrasta do 600 sztuk. Powstają oddziały we Francji, Austrii i Szwajcarii, a także liczne przedstawicielstwa. Już dziesięć lat po założeniu firma ZOLLER-Austria staje się liderem rynku w Austrii.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_1988_01_fa494a9b49.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "784",
+     "html": "19<br/> 89 <h3>Precyzja rzędu mikrometrów dla każdego operatora</h3> <p>Kolejny przełom technologiczny firmy ZOLLER: po raz pierwszy w urządzeniach regulacyjnych sterowanych numerycznie (CNC) zastosowano elektroniczny projektor PET. Dzięki temu firma ZOLLER jako pierwszy producent na świecie oferuje system, który pozwala na powtarzalne pomiary z dokładnością do mikrometrów, niezależnie od operatora.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/f/csm_1989_01_9d8f692b54.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/9/csm_1989_02_a7e3a3b9a2.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/f/csm_1989_01_9d8f692b54.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "785",
+     "html": "19<br/> 91 <h3>Palec zamiast myszki</h3> <p>Firma ZOLLER zapewnia jeszcze większy komfort obsługi swoich urządzeń. Dzięki nowym układom elektronicznym TS 20 i 40 po raz pierwszy wprowadzono ekran dotykowy, dzięki czemu kliknięcia myszą podczas obsługi oprogramowania stają się niemal zbędne. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/2/csm_1991_01_1336facf94.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/2/csm_1991_01_1336facf94.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "786",
+     "html": "19<br/> 92 <h3>Pierwsze urządzenie firmy ZOLLER do kontroli narzędzi </h3> <p>Aby sprostać wysokim wymaganiom producentów narzędzi i zakładów szlifierskich, firma ZOLLER opracowała specjalistyczny przyrząd pomiarowy o wyjątkowej precyzji i jeszcze większych możliwościach. Pierwsze urządzenie nosi nazwę H321S i zostanie dostarczone do sąsiedniego miasta w Szwabii – do firmy Walter w Tybindze. W zestawie znajduje się nowe oprogramowanie GeoTool wraz z funkcją przesyłania danych do szlifierki CNC.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/c/csm_1992_01_256c6efd73.webp\" width=\"600\"/> <h4>Kryzys gospodarczy w latach 1992/93 – sprzedaż gwałtownie spada w ciągu kilku miesięcy </h4> <p>Entuzjazm ten zostaje jednak ostudzony. Podczas trwania targów FAMETA ’92 przemysł motoryzacyjny ogłasza zwolnienie dziesiątek tysięcy pracowników. Kryzys gospodarczy daje o sobie znać, wywierając głęboki wpływ na firmę ZOLLER. „Do września mieliśmy średnio około 50 zamówień miesięcznie na urządzenia do ustawiania i pomiaru” – wspomina Eberhard Zoller. „W grudniu było ich już tylko cztery”. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/c/csm_1992_01_256c6efd73.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "787",
+     "html": "19<br/> 93 <h3>Najtrudniejsza decyzja</h3> <p>W przerwie świątecznej w 1992 roku Eberhard Zoller musiał podjąć jedną z najtrudniejszych decyzji w całej swojej karierze zawodowej. W 1993 roku firma ZOLLER zamknęła własny zakład produkcji części. Ponieważ produkcję zlecono podmiotom zewnętrznym, wielu pracowników straciło pracę. </p> <p>Eberhard Zoller: „Było to trudne dla ludzi i trudne dla mnie. Mieliśmy nowoczesny zakład produkcyjny pracujący na dwie zmiany. Mogliśmy zaopatrzyć maszyny w części i pozwolić im pracować bezobsługowo nawet w nocy. Teraz to się skończyło”.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/7/csm_1993_01_3b720306c3.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_1993_02_b47ef20774.webp\" width=\"600\"/> <h4>AWV – opatentowana technologia przetwarzania obrazu</h4> <p>Na targach EMO w Hanowerze firma ZOLLER po raz pierwszy zaprezentowała opracowaną przez siebie i opatentowaną technologię przetwarzania obrazu AWV. Firma ZOLLER cieszy się dużym międzynarodowym zainteresowaniem, ponieważ technologia AWV zapewnia wyjątkowo dobrą wizualizację danych pomiarowych narzędzia. Technologia AWV stanowi fundament przemysłowej techniki pomiarowej opartej na przetwarzaniu obrazu i optyce.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/5/7/csm_1993_01_3b720306c3.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "788",
+     "html": "19<br/> 94 <h3>Nadchodzi KANBAN</h3> <p>W firmie ZOLLER rozpoczyna działalność trzecie pokolenie. Najstarszy syn Eberharda Zollera, Christoph Zoller, dołącza do zespołu ZOLLER. Jego pierwszy projekt: optymalizacja organizacji poprzez wdrożenie systemu KANBAN w magazynie części. To ważny krok w kierunku zwiększenia wydajności, który pozwala firmie ZOLLER dostarczyć klientowi w ciągu 14 dni dowolne urządzenie do ustawiania i pomiaru z oferty. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/f/csm_1994_01_19b5d93249.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/2/csm_1994_02_116316a436.webp\" width=\"600\"/> <h4>Oprogramowanie ZOLLER w systemie Windows</h4> <p>Podczas targów AMB w Stuttgarcie firma ZOLLER po raz pierwszy zaprezentuje oprogramowanie »Multivision« działające w systemie operacyjnym Windows. Oficjalnie zaprezentowany zostanie również pierwszy przyrząd pomiarowy przeznaczony dla branży produkcji narzędzi i form, służący do pomiaru elektrod: »V321combi«. </p> <p>Na rynek trafia nowo opracowana seria produktów »hyperion«oraz nowa seria modeli »bravo 1/2/3«.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/f/csm_1994_01_19b5d93249.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "789",
+     "html": "19<br/> 95 <h3>Rozpoczyna się era »smartCheck« </h3> <p>Urządzenie H321S, przeznaczone dla producentów narzędzi i zakładów szlifierskich, doczeka się następcy. Na rynek wkracza »smartCheck«, na razie jeszcze z obrotową kamerą z oświetleniem padającym i oprogramowaniem »screenMachine«.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/2/csm_1995_01_2c911ae657.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/2/csm_1995_01_2c911ae657.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "790",
+     "html": "19<br/> 96 <h3>Nowe rozwiązania programowe</h3> <p>Zaledwie 3 lata po pierwszej prezentacji firma ZOLLER przedstawia swoim klientom ulepszone oprogramowanie do obróbki obrazu »AWV III«. Nowością jest również oprogramowanie sterujące urządzeniami: »saturn«. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/d/csm_1996_01_9278eff800.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/f/csm_1996_02_928584a655.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/8/d/csm_1996_01_9278eff800.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "791",
+     "html": "19<br/> 97 <h3>Go West – firma ZOLLER otwiera oddział w USA </h3> <p>Do 1997 roku firma ZOLLER powierzała obsługę rynku amerykańskiego zewnętrznym przedstawicielom. Z umiarkowanym sukcesem. Po wizycie na targach IMTS w 1992 roku w Chicago Christoph Zoller postanawia założyć oddział firmy ZOLLER w Stanach Zjednoczonych. Lokalizacja: Ann Arbor w stanie Michigan, około 60 kilometrów na zachód od dawnej motoryzacyjnej metropolii USA – Detroit. Firma ZOLLER Inc. stała się ważnym ośrodkiem działalności i obecnie obsługuje nie tylko klientów w Stanach Zjednoczonych, ale także w Kanadzie i Meksyku.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/3/csm_1997_01_a08b653023.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/0/csm_1997_02_60f63602df.webp\" width=\"600\"/> <h4>Pomiary ręczne stają się jeszcze prostsze</h4> <p>„E-Magix” to nazwa nowego oprogramowania do przetwarzania obrazu przeznaczonego dla ręcznych urządzeń firmy ZOLLER. Dzięki temu również te urządzenia do regulacji i pomiarów są gotowe do wykonywania pomiarów niezależnych od operatora i dokładnych do mikrometrów. Klienci firmy ZOLLER dysponujący mniejszym budżetem mogą zatem również skorzystać z zalet automatycznego systemu przetwarzania obrazu. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/3/csm_1997_01_a08b653023.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "792",
+     "html": "19<br/> 98 <h3>Nowości w dziedzinie pomiarów i kontroli</h3> <p>Na pierwszych specjalistycznych targach dla producentów narzędzi precyzyjnych w Augsburgu firma Zoller zaprezentowała swoją ofertę w zakresie pomiarów i kontroli narzędzi. Szczególne uznanie zyskały modele »V420 premium«, »V420 profi«, a przede wszystkim »V420 magnum« z technologią przetwarzania obrazu.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/8/csm_1998_01_3d21d4534b.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/5/csm_1998_02_889c862a76.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/9/csm_1998_03_be2a6c4d07.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/8/csm_1998_01_3d21d4534b.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "793",
+     "html": "19<br/> 99 <h3>»lasso« wyłapuje kontury</h3> <p>Oprogramowanie wzbudza entuzjazm wśród specjalistów: »lasso« po raz pierwszy umożliwia w pełni automatyczne skanowanie narzędzi spiralnych na urządzeniu do regulacji i pomiaru. Ponadto oprogramowanie to może również analizować kształty i kontury z dokładnością do mikrometrów poprzez porównanie wartości zadanych z rzeczywistymi z uwzględnieniem pasma tolerancji na podstawie konturu zadany w formacie DXF. Tak zwane „jodły” cieszyły się dużą popularnością – zwłaszcza w lotnictwie i kosmonautyce. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/4/csm_1999_01_387ee1601f.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/0/csm_1999_02_efda5ebf67.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/4/csm_1999_01_387ee1601f.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "794",
+     "html": "20<br/> 00 <h3>Nowa różnica: »smile«</h3> <p>Wraz z serią »„smile”« firma ZOLLER ostatecznie pożegnała się z projektorem światła przechodzącego stosowanym w ręcznych urządzeniach do regulacji i pomiarów. Podczas gdy konkurenci na targach Intertool prezentują urządzenia z projektorem jako nowość, choć pochodzą one po prostu od innych producentów, firma ZOLLER – jako motor innowacji – po raz kolejny wyprzedza rynek o mile. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/0/csm_2000_01_92bdc20f46.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/7/csm_2000_02_3a12cc2553.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/0/csm_2000_01_92bdc20f46.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "795",
+     "html": "20<br/> 01 <h3>Certyfikowany system zarządzania środowiskowego</h3> <p>Firma ZOLLER poważnie traktuje ochronę środowiska. Dlatego też firma uzyskała certyfikat zgodności z normą DIN EN ISO 14001. Dzięki temu wdrożono system zarządzania środowiskowego, który dzięki certyfikacji cieszy się międzynarodowym uznaniem.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/7/csm_2001_00_fcecf51b1d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/c/csm_2001_01_fbfed3b0ab.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/3/csm_2001_02_96ed611f19.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/2/csm_2001_03_a6c71d07ca.webp\" width=\"600\"/> <h4>Geniusz pomiarów: »genius«</h4> <p>Firma ZOLLER rozszerza swoją ofertę urządzeń regulacyjnych i pomiarowych o maszynę pomiarowo-kontrolną »genius«. Urządzenie oferuje między innymi 5 osi CNC oraz automatyczny pomiar światła padającego. Dzięki temu firma ZOLLER może obsługiwać również tych klientów, którzy chcą w sposób zautomatyzowany rejestrować wiele parametrów krawędzi tnącej oraz przeprowadzać wysoce precyzyjne kontrole jakości narzędzi: producentów narzędzi i zakłady szlifierskie. </p> <p>Na targach EMO w Hanowerze firma ZOLLER zaprezentuje jeszcze więcej nowo opracowanych rozwiązań technologicznych: uniwersalne wrzeciono »ace«,mocowanie i pomiar między końcówkami za pomocą »phoenix«, urządzenie do ustawiania i pomiaru »zenit« w wersji do montażu na stanowisku pracy przeznaczonej dla głowic tnących, a także w pełni zautomatyzowane urządzenie pomiarowe do frezów do wałów korbowych – »gemini«.</p> <h4>Trzecie pokolenie, część 2</h4> <p>Młodszy syn Eberharda Zollera, Alexander Zoller, we wrześniu dołącza do firmy jako pracownik. Wcześniej ukończył studia dualne w akademii zawodowej oraz w firmie ZOLLER.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/7/csm_2001_00_fcecf51b1d.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "796",
+     "html": "20<br/> 02 <h3>Ekspert od obniżania cen: »redomatic«</h3> <p>Otrzymano pierwsze zlecenie na urządzenie, za pomocą którego można zakładać i zdejmować narzędzia metodą termokurczliwą, a także je mierzyć i regulować. Brakuje jedynie odpowiedniego rozwiązania. Podczas podróży samochodem do klienta w Szwajcarii Eberhard Zoller i konstruktor Christian Pfau omawiają potencjalne rozwiązania techniczne. Wycieczka do sąsiedniego kraju opłaca się. Po powrocie projekt jest gotowy – przynajmniej w ich głowach. Przy okazji obaj sprzedają trzy »urządzenia „genius”« do Szwajcarii. </p> <p>»redomatic«, nowe urządzenie do regulacji i pomiaru z indukcyjną technologią obkurczania, zostaje zaprezentowane na targach AMB w Stuttgarcie. To był dopiero początek technologii obkurczania „made by ZOLLER”. Na odbywających się równolegle targach IMTS w USA firma ZOLLER prezentuje w pełni zautomatyzowaną wersję »roboToSet« oraz pokazuje, jak technika mocowania wielokątnego Schunk-TRIBOS łączy się z urządzeniami do regulacji i pomiaru serii V.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/a/csm_2002_00_95db9b4435.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_2002_01_1d3c5d8d2f.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/a/csm_2002_00_95db9b4435.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "797",
+     "html": "20<br/> 03 <h3>Lepszy przegląd dzięki »genius 3«</h3> <p>Firma ZOLLER montuje nowy układ optyczny w maszynie pomiarowej »genius 3« oraz przedstawia urządzenie »genius Mikro«. Seria urządzeń poziomych »„hyperion” zostaje wyposażona w nowy uchwyt optyczny z kamerą DME, mechanizmem obrotowym oraz funkcją szybkiej regulacji optyki, co zapewnia jeszcze większe możliwości w zakresie ustawiania narzędzi.«</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/d/csm_2003_00_913135cae6.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/8/csm_2003_01_2bdaa4001e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/1/csm_2003_02_de3551a3c4.webp\" width=\"600\"/> <h4>ZOLLER Iberica</h4> <p>Zakończono proces zakładania spółki ZOLLER Iberica. Dzięki temu firma ZOLLER jest obecna na dwóch nowych rynkach: w Portugalii i w Hiszpanii. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/d/csm_2003_00_913135cae6.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "798",
+     "html": "20<br/> 04 <h3>Nie będzie emerytury</h3> <p>Firma ZOLLER rozszerza skład zarządu o synów Alexandra i Christopha Zollerów. Plan jest taki: Christoph Zoller wraca ze Stanów Zjednoczonych, aby bardziej zaangażować się w działalność w Freibergu nad Neunau. Eberhard Zoller w znacznym stopniu wycofuje się z działalności operacyjnej, ponieważ starszy szef kupił już sobie psa na emeryturę. Jego plan: wyprowadzanie psa na spacer i zajmowanie się raczej sprawami swojego czworonoga. Jednak sprawy potoczyły się inaczej.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/1/csm_2004_00_cb56fd1d1e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/b/csm_2004_01_51b4876229.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/5/csm_2004_02_cb9a1f217b.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/5/csm_2004_03_ad74b64e11.webp\" width=\"600\"/> <h4>W drogę do Chin </h4> <p>Christoph Zoller wyrusza ze Stanów Zjednoczonych w kierunku Chin i Indii. W końcu rynki wschodzące potrzebują oddziału firmy ZOLLER. Powiedziane, zrobione. W Szanghaju i Pune otwiera po jednym oddziale. Jego brat Alexander przenosi się do USA, przejmuje tamtejszy biznes i dalej rozwija oddział. A Eberhard Zoller? Nadal chodzi do firmy – w towarzystwie swojego psa.</p> <h4>Pomiar w każdej pozycji ostrza</h4> <p>Dzięki Zoller »aralon« po raz pierwszy możliwe staje się w pełni automatyczne mierzenie frezów do wałów korbowych z ostrzami wewnętrznymi we wszystkich pozycjach ostrza. Urządzenie pomiarowe do głowic tnących, »zenit«, zostaje uzupełnione o portalową konik z pneumatycznym mocowaniem wałów zanurzeniowych.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/f/1/csm_2004_00_cb56fd1d1e.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "799",
+     "html": "20<br/> 05 <h3>Krótkie podsumowanie dotyczące urządzeń po 60 latach</h3> <p>W firmie ZOLLER wartości wyznawane przez jej założyciela, Alfreda Zollera, nadal kształtują wewnętrzną kulturę przedsiębiorstwa: szybkie reagowanie na zmiany, nieustanne dążenie do innowacji oraz zawsze uważne wsłuchiwanie się w potrzeby klientów. </p> <p>Międzynarodowi klienci wynagradzają ten sposób działania zaufaniem: od czasu wprowadzenia na rynek pierwszego urządzenia Alfreda Zollera firma ZOLLER sprzedała do końca 2005 roku około 20 000 kolejnych urządzeń regulacyjnych i pomiarowych.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/1/csm_2005_00_fdd8ab8f6d.webp\" width=\"600\"/> <h4>W pełni zautomatyzowana kontrola narzędzi</h4> <p>Maszyna pomiarowa »genius 3« została ponownie udoskonalona i po raz pierwszy wyposażona w system w pełni zautomatyzowanego załadunku. Jako »genius 3 sx« dokonuje ona pomiarów 75 różnych rodzajów narzędzi załadowanych do magazynka całkowicie bez udziału operatora. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/1/csm_2005_00_fdd8ab8f6d.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "800",
+     "html": "20<br/> 06 <h3>Oprogramowanie urządzenia na najwyższym poziomie: »pilot 3.0«</h3> <p>Oprogramowanie urządzenia »saturn« zyskuje następcę o nowej architekturze i nowoczesnym interfejsie użytkownika zoptymalizowanym pod kątem MMI: »pilot 3.0«. </p> <p>W ten sposób firma Zoller wyznacza światowe standardy w zakresie spójnej koncepcji oprogramowania dla urządzeń regulacyjnych i pomiarowych, maszyn pomiarowych, przetwarzania obrazu oraz zarządzania narzędziami, w tym przechowywania danych i interfejsów. »pilot 3« to kwintesencja wygodnej obsługi i niezwykle szybkiego przetwarzania obrazu. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/7/csm_2006_00_d45da2d636.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/5/csm_2006_01_5b3b85a630.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/2/csm_2006_02_b88e48a4ae.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/9/csm_2006_03_b2dcfb6a42.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/7/csm_2006_00_d45da2d636.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "801",
+     "html": "20<br/> 07 <h3>»pilot elephant«: Pomiary bez wcześniejszej wiedzy</h3> <p>W firmie ZOLLER obowiązuje zasada: pomiary muszą być proste. Dzięki oprogramowaniu wspomagającemu »pilot elephant« firma pokazuje, że każdy, kto stoi przy urządzeniu ZOLLER, może mierzyć narzędzia z dokładnością do µm – bez wprowadzania danych i bez wiedzy na temat obsługi. Nie ma znaczenia, czy przy urządzeniu do ustawiania i pomiarów pracuje doświadczony operator obrabiarki, czy osoba wykonująca pracę wakacyjną. W firmie ZOLLER funkcja ta nazywana jest „młotem parowym”. </p> <p>Na targach EMO firma ZOLLER pokazuje, jak można jeszcze bardziej ulepszyć cieszącą się powodzeniem maszynę pomiarową »genius«. »Model genius« jest od teraz wyposażony w »oprogramowanie pilot 3«, posiada dodatkową oś oraz nowy mikrosensor. Zapewnia to jeszcze większą precyzję, a także umożliwia pomiary kątowe na powierzchniach – nawet jeśli materiał jest przezroczysty. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/1/csm_2007_00_d5ee02dddf.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/2/csm_2007_01_2e3104732a.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/1/csm_2007_00_d5ee02dddf.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "802",
+     "html": "20<br/> 08 <h3>Przeprowadzka do Pleidelsheim</h3> <p>Po ponad 25 latach siedziba firmy we Freibergu nad Nehrą stała się zbyt mała. Firma ZOLLER przenosi się około 4 kilometrów dalej, na drugą stronę rzeki Neckar, do Pleidelsheim.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/1/csm_2008_00_afd72ac2c5.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/0/csm_2008_01_bb00de4a3d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/f/csm_2008_02_08fa1ae800.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/f/csm_2008_03_678beb8dc2.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/1/csm_2008_00_afd72ac2c5.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "803",
+     "html": "20<br/> 10 <h3>ZOLLER w Japonii</h3> <p>W liczącym miliony mieszkańców Osace firma ZOLLER otwiera swój oddział w Japonii. Ta średniej wielkości firma z Pleidelsheim stopniowo zdobywa kolejny ważny rynek. Później dołączą do niej kolejne biura w Nagano i Jokohamie.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/f/csm_2010_00_93381b4b80.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/2/csm_2010_01_6ac9a7367e.webp\" width=\"600\"/> <h4>Więcej przestrzeni w pionie dla »serii venturion«</h4> <p>Urządzenia regulacyjne i pomiarowe z serii »venturion800« zyskują więcej miejsca w osi Z. Na życzenie klienta dostępne są teraz długości pomiarowe wynoszące 1 400 mm i 1 600 mm. Pierwsze urządzenie zostanie dostarczone do firmy ZF-Windpower w USA.</p> <h4>Pierwsze wirtualne urządzenie pomiarowe</h4> <p>Nowości również w dziedzinie oprogramowania: oprogramowanie symulacyjne »CAZ« (computer aided ZOLLER). Jest to wirtualny przyrząd pomiarowy, za pomocą którego już na etapie projektowania narzędzia można symulować przebieg pomiarów na podstawie modelu 3D. »Oprogramowanie CAZ« jest zintegrowane z »pilotem«, dzięki czemu konstruktor może przenieść gotowe procedury pomiarowe na urządzenie ZOLLER. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/f/csm_2010_00_93381b4b80.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "804",
+     "html": "20<br/> 11 <h3>Zarządzanie narzędziami z firmą ZOLLER</h3> <p>Każdy, kto w produkcji korzysta z oprogramowania do zarządzania narzędziami, dysponuje uporządkowanymi danymi dotyczącymi narzędzi. Firma ZOLLER przedstawia oprogramowanie TMS Toolmanagement Solutions, tworząc w ten sposób pomost między cyfrowym zarządzaniem narzędziami a danymi pomiarowymi pochodzącymi z urządzeń do ustawiania i pomiaru oraz maszyn kontrolnych. Dane i zarządzanie danymi coraz bardziej się ze sobą łączą.</p> <h4>Szybki pomiar dostosowany do procesu</h4> <p>Firma ZOLLER wprowadza na rynek »pomSkpGo«. Jest to pierwsze mobilne urządzenie pomiarowe służące do pomiaru przygotowania krawędzi skrawających. W ten sposób firma ZOLLER łączy w jednym urządzeniu elastyczność i wysoką precyzję. To początek serii urządzeń przeznaczonych do pomiarów w trakcie procesu. Urządzenia te umożliwiają szybkie i precyzyjne pomiary ręczne przy odbiorze towaru lub kontrolę narzędzi tuż obok szlifierki.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/0/csm_2011_00_3b26f621ab.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/d/csm_2011_01_32ad31d9b5.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/4/csm_2011_02_63b4fd55b9.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/3/csm_2011_03_692d824123.webp\" width=\"600\"/> <h4>Portfolio rozszerza się o zastosowania specjalistyczne</h4> <p>Kolejna nowość: sześciu czołowych specjalistów od nietypowych rodzajów narzędzi. Do pomiarów frezów walcowych klienci będą mogli w przyszłości korzystać z »hobCheck« i »pomZenit«. Kto chce mierzyć brzeszczoty, powinien postawić na »sawCheck«; za pomocą »millCheck« można mierzyć głowice noży płaskich, za pomocą »pomZenit –« głowice noży kątowych, a za pomocą »hobCheck800 –« frezy walcowe wyposażone w płytki wymienne. </p> <p>Dla klientów z branży produkcji silników firma ZOLLER dostosowuje swoją doskonałą technikę pomiarową do pomiaru i wyrównywania frezów do wałów korbowych. Rozwiązania te noszą nazwy »eQick200«i »eQuick 300«.</p> <p>Coraz większą uwagę poświęca się również potrzebom w branży produkcji narzędzi i form. Firma ZOLLER wprowadza na rynek »system smile EDM« i opracowuje do niego specjalny moduł wyposażony w elektroniczny czujnik pomiarowy oraz oprogramowanie z graficznym interfejsem użytkownika i dodatkowymi metodami obliczeniowymi.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/0/csm_2011_00_3b26f621ab.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "805",
+     "html": "20<br/> 12 <h3>Miara tego, co jest technicznie możliwe: »tytan«</h3> <p>Maszyna pomiarowo-kontrolna »„titan”« rozszerza serię »„genius«”. Jest to w pełni zautomatyzowane, zaawansowane rozwiązanie wyposażone w maksymalnie 7 osi CNC, przeznaczone do kontroli narzędzi precyzyjnych z dokładnością do mikrometrów, w tym do przygotowywania krawędzi tnących. »„titan”« to gigant pomiarowy o masie sięgającej 1 400 kilogramów. Urządzenie, które stoicko wykonuje swoją precyzyjną pracę w samym sercu linii produkcyjnej.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/d/csm_2012_00_c6b0ad0be7.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/2/csm_2012_01_7dd3291b48.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/b/csm_2012_02_d7d56b35ec.webp\" width=\"600\"/> <h4>Ekspert w dziedzinie rozwiertaków </h4> <p>Oprócz szerokiej gamy rozwiązań do regulacji i pomiaru rozwiertaków za pomocą przetwarzania obrazu firma ZOLLER wyposaża urządzenie »reamCheck« w elektroniczny podwójny czujnik.</p> <h4>ZOLLER w Wielkiej Brytanii i Indonezji</h4> <p>W grudniu firma ZOLLER otwiera swój oddział w Wielkiej Brytanii. Zespół ZOLLER UK ma obecnie swoją siedzibę w spokojnej miejscowości Foston w hrabstwie Derbyshire. Znajduje się ona niemal w samym środku trójkąta Birmingham – Sheffield – Manchester. W tym samym roku firma ZOLLER otwiera biuro w Indonezji. </p> <p>Do końca roku liczba sprzedanych na całym świecie urządzeń do ustawiania i pomiaru wzrosła do ponad 30 000 sztuk. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/d/csm_2012_00_c6b0ad0be7.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "806",
+     "html": "20<br/> 13 <h3>Rozbudowa parku maszyn pomiarowych</h3> <p>Maszyna pomiarowa »threadCheck« uzupełnia ofertę urządzeń kontrolnych, umożliwiając automatyczny pomiar i kontrolę narzędzi gwintujących. </p> <p>Nowe urządzenie »3dCheck« opiera się na »platformie genius«, ale oferuje dodatkowe funkcje. Odpowiada ono na rosnący trend tworzenia cyfrowych bliźniaków narzędzi oraz cyfryzacji elementów obrabianych. Ta sześcioosiowa maszyna pomiarowa nie tylko zapewnia precyzyjną kontrolę narzędzi, ale także tworzy na przykład cyfrowy model 3D na podstawie narzędzia. </p> <p>Maszyna pomiarowa »edgeControl« specjalizuje się w wykrywaniu śladów zużycia i bezkontaktowym rejestrowaniu nawet najmniejszych wykruszeń na krawędzi tnącej. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/5/csm_2013_00_fd665e9f3e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/7/csm_2013_01_915ec1ed8a.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/2/csm_2013_02_5c895d3081.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/0/csm_2013_03_781bcf7142.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/a/csm_2013_04_13dd281fe0.webp\" width=\"600\"/> <h4>Kolejne urządzenia do pomiarów w trakcie procesu</h4> <p>Seria POM zostaje poszerzona o trzy nowe modele. Do pomiarów w trakcie procesu standardowych i mikro-narzędzi firma ZOLLER przedstawia swoim klientom nowe urządzenia uniwersalne »pomBasic« i »pomBasic micro«. Wraz z »pomDiaCheck« na rynek wchodzi specjalistyczne urządzenie do zastosowań w trakcie procesu, które mierzy średnicę szlifowanych na okrągło półfabrykatów oraz narzędzi do wiercenia i rozwiercania z dokładnością poniżej 1 µm.</p> <h4>Technologia CNC dla »redomatic«</h4> <p>To połączone urządzenie do precyzyjnego termicznego obkurczania, regulacji i pomiaru narzędzi termokurczliwych działa teraz w trybie w pełni automatycznym. Poza umieszczeniem komponentów i wyjęciem gotowego, kompletnego narzędzia operator pełni jedynie rolę obserwatora.</p> <h4>Certyfikaty</h4> <p>Firma ZOLLER wdraża normę DIN EN ISO 17025 oraz uzyskuje ponowną certyfikację w zakresie zarządzania jakością zgodnie z normami ISO 9001:2008, VDA 6.4:2005 oraz systemu zarządzania środowiskowego ISO 140001:2004.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/3/5/csm_2013_00_fd665e9f3e.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "807",
+     "html": "20<br/> 14 <h3>Większa wydajność dla producentów narzędzi dzięki automatyzacji</h3> <p>Na targach GrindTec w Augsburgu firma ZOLLER pokazuje, w jaki sposób producenci narzędzi i zakłady szlifierskie mogą zautomatyzować kontrolę narzędzi. »Urządzenie roboSet 1« przejmuje wszystkie procesy związane z obsługą narzędzi w uniwersalnej maszynie pomiarowej »genius«. Całe partie narzędzi są sprawdzane w sposób w pełni zautomatyzowany, a wyniki są dokumentowane. </p> <p>Kolejna nowość: rozwiązania do w pełni zautomatyzowanego pomiaru specjalnych geometrii i typów wierteł, takich jakKENtip, a także oprogramowanie do pomiaru tarcz szlifierskich.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/4/csm_2014_00_ee8616f1bd.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/7/csm_2014_01_4b275c8266.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/4/csm_2014_02_8723403680.webp\" width=\"600\"/> <h4>Ciągły, zautomatyzowany transfer danych</h4> <p>Ręczne wprowadzanie danych narzędziowych należy już do przeszłości. Na targach EMO w Mediolanie firma ZOLLER po raz pierwszy zaprezentuje »zidCode«. To nowe rozwiązanie firmy ZOLLER przekazuje dane narzędziowe bezpośrednio, bezbłędnie i zgodnie z wymaganiami sterownika do maszyny CNC. Wystarczy zeskanować kod na narzędziu.</p> <p>Dla firmy ZOLLER zidCode stanowi ważną innowację, ponieważ dzięki niemu produkcja przebiega od teraz w całości cyfrowo w ramach całego procesu „CAM-to-Part”.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/4/csm_2014_00_ee8616f1bd.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "808",
+     "html": "20<br/> 16 <h3>Duża aktualizacja dla »programów smile« i »venturion«</h3> <p>Sprawdzone urządzenia do regulacji i pomiarów z serii »smile« i »venturion« zyskują nową odsłonę. Jeszcze większa precyzja, jeszcze prostsza obsługa, jeszcze większy komfort. Nie ma już prawie żadnego znaczenia, czy przyciski na urządzeniu »smile« lub »venturion« naciska wykwalifikowany specjalista, czy osoba z podstawowym przeszkoleniem. </p> <p>Maksymalne wsparcie zapewniają sterowanie CNC, oprogramowanie urządzenia »pilot«, autofokus, oddzielny panel sterowania »cockpit«, oprogramowanie wspomagające »elephant« oraz nowy uchwyt do obsługi jedną ręką »eQ«. Firma ZOLLER udowadnia, że najbardziej przyjazne dla użytkownika urządzenia precyzyjne pochodzą z Pleidelsheim.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/1/csm_2016_00_b30d8d238e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/3/csm_2016_01_94d97f1b9b.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/d/csm_2016_02_3b49344a7e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/9/csm_2016_03_23ec9d58b3.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/d/1/csm_2016_00_b30d8d238e.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "809",
+     "html": "20<br/> 17 <h3>Dokładna analiza powierzchni narzędzia</h3> <p>Urządzenie kontrolne »mµFocus,« wykorzystywane bezpośrednio w procesie produkcyjnym, pozwala producentom narzędzi na szczegółową analizę chropowatości powierzchni krawędzi tnącej – i to bezkontaktowo. Dzięki systemowi optycznemu o wysokiej rozdzielczości oraz doskonałemu oprogramowaniu do przetwarzania obrazu firmy »pilot«, »mµFocus« generuje obrazy oznaczone kodami kolorystycznymi. Umożliwiają one wykrycie nawet najmniejszych wyszczerbień i rys.</p> <h4>Sprzęt do zarządzania narzędziami rozszerza możliwości zarządzania narzędziami </h4> <p>Wielu klientów firmy ZOLLER korzysta już z TMS Tool Management Solutions, modułowego oprogramowania do zarządzania narzędziami i danymi narzędziowymi. Teraz pojawia się odpowiedni sprzęt: duża szafka na narzędzia »keeper«, szafka na narzędzia i drobne elementy »toolOrganizer«, a także stanowisko montażowe »toolStation«. Wszystkie te elementy można bezpośrednio połączyć z oprogramowaniem firmy ZOLLER. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/f/csm_2017_00_887e40741c.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/8/csm_2017_01_8a326e2894.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/3/f/csm_2017_00_887e40741c.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "810",
+     "html": "20<br/> 18 <h3>Siedziba główna w Ann Arbor, nowy budynek w Japonii</h3> <p>Po ponad 20 latach ekspansji rynkowej w Stanach Zjednoczonych firma ZOLLER Inc., amerykańska spółka ZOLLER, przenosi się do nowo wybudowanej siedziby głównej w Ann Arbor w stanie Michigan. Alexander Zoller kładzie tym samym podwaliny pod nową koncepcję projektową ZOLLER w branży budowlanej. Duży i bogato wyposażony salon wystawowy szybko staje się centralnym punktem spotkań z klientami, szkoleń, prezentacji, wydarzeń firmowych oraz kluczem do sukcesu w Stanach Zjednoczonych. </p> <p>Również w Japonii firma Zoller umacnia swoją pozycję. Firma wprowadza się do własnego budynku.</p> <h4>Nowa automatyzacja dla modeli z rodziny »genius« </h4> <p>Już po pięciu latach pojawia się następca »roboSet 1«. Wraz z »roboSet 2« firma ZOLLER integruje stację czyszczenia i znakowania z rozwiązaniem automatyzacyjnym dla »serii genius«. Dzięki temu jeszcze więcej kluczowych etapów procesu kontroli i dokumentacji narzędzi może przebiegać bez udziału człowieka.</p> <h4>Automatyzacja dla narzędzi z uchwytami zaciskowymi</h4> <p>W celu automatycznego pomiaru i regulacji, między innymi dla uchwytów zaciskowych, firma Zoller opracowuje kolejną światową nowość: »torqueMatic«. To urządzenie do regulacji i pomiaru może automatycznie poluzować nakrętkę zaciskową, a po regulacji z monitorowaniem momentu obrotowego ponownie ją dokręcić. </p> <p>W połączeniu ze stacją wkręcającą z kontrolą momentu obrotowego »urządzenie venturion 450« staje się nowym »screwMatic«. Odkręcanie i dokręcanie hydro-rozszerzalnych uchwytów typu Schunk TENDO przebiega w ten sposób w sposób zautomatyzowany. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/7/csm_2018_00_3b05fd742d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/8/csm_2018_01_30fd37ca38.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/4/csm_2018_02_6b7b90acfb.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/2/csm_2018_03_f2be83cd14.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/f/csm_2018_04_06fda817d9.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/7/csm_2018_00_3b05fd742d.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "811",
+     "html": "20<br/> 20 <h3>Nowy budynek z „Smart Factory” i Akademią</h3> <p>Wraz z rozbudową siedziby głównej w Pleidelsheim firma ZOLLER otwiera nowy rozdział. Powstaje centrum obsługi klienta, w którym będą zlokalizowane działy rozwoju, montażu, wysyłki i administracji. W nowych budynkach Akademia ZOLLER zyska nowoczesne i przestronne pomieszczenia. Sercem obiektu jest Smart Factory, w której firma ZOLLER po raz pierwszy może zaprezentować swoje połączone w sieć rozwiązania dla Przemysłu 4.0.</p> <h4>Najwyższej klasy oprogramowanie stało się jeszcze lepsze</h4> <p>Oprogramowanie urządzenia »pilot 3.0«, charakteryzujące się doskonałym przetwarzaniem obrazu, jest uznawane na całym świecie za punkt odniesienia. Niemniej jednak firma ZOLLER stawia sobie za cel ulepszanie sprawdzonych rozwiązań. Wraz z następcą, »pilot 4.0«, pojawia się nowy interfejs użytkownika wzorowany na smartfonach i tabletach. Zachowano wygodną koncepcję obsługi znaną z »pilot 3.0«. Użytkownik ma teraz jednak możliwość indywidualnego dostosowania swojego środowiska pracy i wywołania go na każdym urządzeniu firmy ZOLLER. »pilot 4.0« oznacza maksymalny komfort, wysoką łatwość obsługi i jeszcze prostszą pracę.</p> <h4>Nowa platforma urządzeń i nowy wygląd </h4> <p>Wszystkie maszyny do pomiaru narzędzi firmy ZOLLER z serii »genius« zostaną przeniesione na nową platformę i zaprojektowane od podstaw. Oprócz najnowocześniejszej technologii, wyjątkowej ergonomii i izolacji drgań, »modele genius«, »threadCheck«, »edgeControl«, »3dCheck« i »titan« prezentują się w nowym wyglądzie.</p> <h4>Rozszerzenie o technologię obkurczania i jeszcze większy komfort obsługi danych</h4> <p>Linia produktów do obkurczania została wzbogacona o kolejną technologię – »redomatic mst«.</p> <p>Wraz z »zidCode 4.0« na rynek trafia uzupełnienie do »zidCode«. »zidCode 4.0« działa w trybie w pełni sieciowym i dwukierunkowym. Może pobierać dane z centralnej bazy danych z.One i przesyłać je do sterownika maszyny CNC, a także zapisywać zaktualizowane dane, takie jak czasy pracy, z powrotem do bazy danych.</p> <h4>Nowa siedziba również w Chinach</h4> <p>16 lat po tym, jak Christoph Zoller rozpoczął działalność w Chinach, firma ZOLLER otwiera nowy budynek dla chińskiego oddziału. To kamień milowy na długiej, ale pełnej sukcesów drodze w międzynarodowym biznesie. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/3/csm_2020_00_1463439bea.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/6/csm_2020_01_2b46d3f70f.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/5/csm_2020_02_4de4e4c5ee.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/6/csm_2020_03_02ba7d969e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/6/csm_2020_04_4a68438d24.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/f/csm_2020_05_332915d9da.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/a/csm_2020_06_6b235cbb9a.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/c/csm_2020_07_b0ebae7512.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/8/csm_2020_08_6b194eb4bd.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/4/csm_2020_09_6e0fd677cf.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/3/csm_2020_00_1463439bea.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "812",
+     "html": "20<br/> 21 <h3>Automatyzacja narzędziowa w produkcji</h3> <p>Dostawca systemów ZOLLER prezentuje najnowsze rozwiązania, dzięki którym klienci mogą zautomatyzować procesy związane z narzędziami i stopniowo przekształcać swoją produkcję w inteligentną fabrykę.</p> <p>»loadBox« automatyzuje kompletację narzędzi, »natomiast roboBox« to modułowy system automatyzacji przeznaczony do montażu narzędzi, regulacji i pomiarów, czyszczenia, zakładania i zdejmowania tulei termokurczliwych oraz innych zadań. Wszechstronna seria »cora« obejmuje obsługę narzędzi, asystę kobotów oraz logistykę na hali produkcyjnej. </p> <p>Firma ZOLLER czerpie korzyści z długoterminowej perspektywy swoich rozwiązań w zakresie regulacji i pomiarów, kontroli i pomiarów, zarządzania narzędziami, oprogramowania oraz transferu danych. W automatyzacji wszystko ze sobą współgra.</p> <h4>Nowa generacja uchwytów narzędziowych – z »idChip« </h4> <p>To, co rozpoczęło się już w 1948 roku od uchwytów do narzędzi tokarskich, po 73 latach powraca: »Tooling«. Dzięki najwyższej klasy uchwytom narzędziowym „Made in Germany” oraz przemyślanym akcesoriom klienci na całym świecie otrzymują teraz również elementy mocujące w znanej jakości ZOLLER. </p> <p>Również nowy »idChip« sprawia, że uchwyty narzędziowe są od razu gotowe do zarządzania narzędziami z firmą ZOLLER. Zakodowany chip z tworzywa sztucznego jest zintegrowany z uchwytami narzędziowymi i umożliwia ich jednoznaczną identyfikację. Koszty są jednak znacznie niższe niż w przypadku transponderów RFID. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/9/csm_2021_00_b1855bd81f.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/c/csm_2021_02_4783ccf6d7.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/0/csm_2021_03_3269d32dbd.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/0/csm_2021_04_3db7f96f03.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/f/csm_2021_05_d78f69282a.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/4/csm_2021_06_9d5701d1b6.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/a/csm_2021_07_f8723cb7dc.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/9/csm_2021_00_b1855bd81f.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "813",
+     "html": "20<br/> 22 <h3>Innowacje w zakresie wyważania i obkurczania</h3> <p>Firma ZOLLER już od 20 lat oferuje rozwiązania w zakresie wyważania i obkurczania. Wymagania jednak ewoluowały. Czas na coś nowego. </p> <p>Dzięki »toolBalancer« i »powerShrink« firma ZOLLER wprowadza dwa nowe rozwiązania, dzięki którym precyzja, efektywność energetyczna, bezpieczeństwo i ergonomia osiągają dotychczas nieosiągalny poziom jakości. </p> <p>Jeszcze nigdy wyważanie narzędzi nie było tak proste i tak precyzyjne. Jeszcze nigdy pracownicy zakładów produkcyjnych nie byli w stanie przeprowadzać procesów termokurczliwych tak szybko i wydajnie. </p> <p>W przypadku obu rozwiązań firma ZOLLER wkroczyła na zupełnie nowe ścieżki technologiczne, potwierdzając swoją wyjątkową zdolność do innowacji. Specjaliści obecni na targach AMB w Stuttgarcie oraz IMTS w Chicago są pod wrażeniem precyzji, szybkości, ergonomii i wzornictwa nowych urządzeń. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/a/csm_2022_00_a9077eb7ea.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_2022_01_9d28b009d5.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_2022_02_248e734173.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/5/csm_2022_03_642b4ee4f4.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/a/csm_2022_00_a9077eb7ea.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "814",
+     "html": "20<br/> 23 <h3>»coraMeasure LG«: Rozwiązanie portalowe do automatycznej regulacji i pomiarów</h3> <p>Automatyzacja obróbki z wykorzystaniem kompaktowego portalu, bez ramienia robota – takie wytyczne stawia Alexander Zoller przed swoimi inżynierami. Kiedy firma ZOLLER po raz pierwszy zaprezentowała ten produkt w Niemczech podczas targów EMO 2023, od razu wzbudził on ogromne zainteresowanie. »coraMeasure LG« to kolejne innowacyjne rozwiązanie firmy ZOLLER, mające na celu szybkie sprostanie aktualnemu wyzwaniu: niedoborowi wykwalifikowanych pracowników.</p> <h4>Wejście w nową branżę</h4> <p>Technika pomiarowa firmy Zoller wkracza do branży obróbki kamienia. Nowe urządzenie »ConDiaZ« sprawia, że pomiary i optymalizacja danych dla specjalistycznych narzędzi formujących stosowanych w tej branży stają się dziecinnie proste. Najważniejsze w tym wszystkim: pomaga w tym sztuczna inteligencja!</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/1/csm_2023_00_5aebb5cd96.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/b/csm_2023_01_d984fc38e4.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/d/1/csm_2023_00_5aebb5cd96.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "815",
+     "html": "20<br/> 24 <h3>Nowa maszyna pomiarowa</h3> <p>Witamy, »threadCheck I cc«. Nowa maszyna pomiarowa mierzy między innymi narzędzia gwintujące – po raz pierwszy w całkowicie osłoniętej i odizolowanej od drgań jednostce. Jeszcze większa precyzja pozwalająca na rozróżnienie kluczowych szczegółów w pomiarach. Zintegrowana konik sterowany za pomocą CNC może być zaopatrywany automatycznie.</p> <h4>Bezpieczne przechowywanie narzędzi</h4> <p>Szafka na narzędzia »toolOrganizer« zyskuje kolejną opcję: »smartCompartments«. Te opracowane przez firmę ZOLLER zamki do przegródek rozszerzają i tak już wysoką funkcjonalność sprzętu do zarządzania narzędziami.</p> <h4>Do kamienia i drewna</h4> <p>Dzięki systemowi »smile gbo« i nowej optyce z dużym polem widzenia firma ZOLLER umożliwia swoim klientom szybki pomiar złożonych geometrii narzędzi do obróbki kamienia i drewna w jednym kroku. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/8/csm_2024_00_f953f5ad3d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/5/csm_2024_01_11e8ff9e06.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/6/csm_2024_02_1b4af3f1bd.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/f/csm_2024_03_45c77f1de1.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/8/csm_2024_00_f953f5ad3d.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "816",
+     "html": "20<br/> 25 <h3>Kompleksowa pielęgnacja modeli »pom«</h3> <p>Firma ZOLLER gruntownie unowocześnia swoją popularną serię urządzeń kontrolnych »pomBasic,« zaprojektowanych z myślą o konkretnych procesach. Do oferty dołączają nowe modele: »pomBasic Compact« i »pomBasic MTI«. </p> <p>Oznacza to ogromny krok naprzód, szczególnie w dziedzinie mikro narzędzi o średnicy do D=0,1 mm. Dzięki specjalnej optyce i funkcjom oprogramowania mikroskopijne geometrie stają się widoczne i mierzalne. Również ich w pełni zautomatyzowany pomiar staje się rzeczywistością dzięki »3dCheck micro«.</p> <h4>Nacisk na badania zużycia</h4> <p>Firma ZOLLER intensyfikuje prace nad złożonym zagadnieniem zużycia. Prace nad rozwojem »edgeControl« postępują szybko. Zespół programistów firmy ZOLLER opracowuje oprogramowanie zoptymalizowane pod kątem badań zużycia.</p> <h4>Automatyzacja w magazynie części</h4> <p>Na początku stycznia, w roku 80. jubileuszu, firma ZOLLER nadal kieruje się ku przyszłości. W zakładzie montażowym w Pleidelsheim w drugim tygodniu kalendarzowym uruchomiono zautomatyzowany magazyn drobnych części. System automatycznie zarządza ponad 18 000 części i dostarcza na linię montażową to, co jest potrzebne. „To kamień milowy dla naszej firmy. Nawet mając 80 lat, nadal trzymamy się zasady ciągłej modernizacji i dostosowywania się do zmian” – mówi Eberhard Zoller.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/d/csm_2025_00_bf3fc026d8.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/f/csm_2025_01_f37aa89108.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/3/csm_2025_02_55890fb3a6.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/b/csm_2025_03_ab3d89c3cc.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/d/csm_2025_00_bf3fc026d8.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    }
+   ]
+  }
+ ],
+ "src_path": "/pl/przedsiebiorstwa/profil/historia",
+ "de_path": "/unternehmen/profil/historie"
+}

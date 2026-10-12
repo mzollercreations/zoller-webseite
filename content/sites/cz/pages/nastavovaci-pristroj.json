@@ -1,0 +1,290 @@
+{
+ "path": "/nastavovaci-pristroj",
+ "url": "/cz/nastavovaci-pristroj",
+ "title": "Nastavovací přístroj",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Nastavovací přístroj",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Nastavovací přístroj",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/voreinstellgeraet",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/preset-device",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/dispositivo-de-preajuste",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/appareil-de-prereglage",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/dispositivo-de-pre-ajuste",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/dispositivo-di-preimpostazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foerinstaellningsenhet",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/voreinstellgeraet",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/appareil-de-prereglage",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%97%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88%E8%A3%85%E7%BD%AE",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%82%AC%EC%A0%84-%EC%84%A4%EC%A0%95-%EC%9E%A5%EC%B9%98",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/preset-device",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/dispositivo-de-preajuste",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/dispositivo-de-pre-ajuste",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/b/1/csm_voreinstellen_venturion_header_222cabbd3d.webp",
+     "video": null,
+     "title": "Přednastavovací zařízení zvyšují produktivitu, kvalitu a spolehlivost procesů",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8104",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">Krátká doba přípravy, dlouhá doba provozu stroje: to jsou dva nejdůležitější faktory pro zvýšení produktivity vašich obráběcích strojů. Zařízení pro přednastavení nástrojů předem zjistí všechny důležité údaje a bezchybně je přenese do stroje.</p> <p class=\"extra-large-text\">Aby mohly CNC obráběcí stroje pracovat s přesností, potřebují přesné údaje o geometrii nástroje. Pokud jsou tyto údaje o nástroji zjištěny předem a mimo CNC stroj, lze je při nasazení nástroje načíst bez časové prodlevy.</p> <p class=\"extra-large-text\">Elektronický přenos dat z přednastavovacího zařízení do obráběcího stroje nejenže zabraňuje překlepům a dalším problémům s přenosem, ale je také dokončen v nejkratším možném čase. Tím se nejen zkracuje doba přípravy na minimum, ale doba nastavení nového nástroje je de facto nulová – a tímto způsobem maximalizujete životnost nástrojů.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8105",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Nastavovací přístroj – výhody </h2>",
+   "body": "<ul><li>Nastavení a příprava se oddělí: Nástroje lze připravovat již během provozu CNC obráběcího stroje – k tomu může dokonce docházet v oddělených prostorách, pokud to usnadní nebo urychlí pracovní procesy.</li><li>Žádná doba nastavení: Díky elektronickému přenosu připravených dat o nástrojích obdrží řízení stroje správné informace bez zpoždění a bez chyb</li><li>Zvýšená bezpečnost procesu: Žádné chyby při ručním nastavení díky plně elektronickému přenosu dat přímo z přednastavovacího zařízení do CNC stroje.</li><li>Kvalita od prvního kusu: Vaše stroje, které jsou perfektně zásobovány daty, produkují od prvního obrobku špičkové výsledky a žádný zmetek. S přesně změřenými nástroji navíc nedochází ke kolizím a přerušením.</li><li>Delší životnost nástrojů: Díky minimalizovaným časům na přípravu a seřizování může stroj pracovat efektivněji a produktivněji. Díky pravidelné kontrole kvality břitu v přednastavovacím zařízení je kvalita vždy špičková</li></ul>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/f/csm_voreinstellen_demonstration_84e2c4fdc8.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8108",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> S přednastavovacími přístroji ZOLLER pracujte lépe, efektivněji a produktivněji </h2>",
+   "body": "<p><strong>Nastavovací přístroje ZOLLER jsou připraveny pro všechny druhy použití.</strong></p> <p>Naše měřicí přístroje pracují s modulárními systémy, takže lze sestavit vhodná řešení pro všechny požadavky. Lze je konfigurovat s vhodnými měřicími metodami pro různé parametry a nástroje – ať už se jedná o plně automatické nebo ruční měření. Výsledkem je v každém případě přesné měření.</p> <p>Intuitivní uživatelské rozhraní je extrémně jednoduché, bezpečné a pohodlné na ovládání. Přístroje nabízejí mimo jiné automatickou detekci břitu nástroje, jednoruční ovládací rukojeť pro snadné nastavení saní a membránovou klávesnici pro silové upnutí vřetena a aretaci vřetena.</p> <p>Přímý elektronický přenos dat o nástrojích, díky kterému jsou chyby při zadávání minulostí, je samozřejmě možný u všech přístrojů. Přístroje pro přednastavení ZOLLER nabízejí různé varianty pro bezpečný přenos dat do stroje – ať už pro malé a střední podniky nebo velké společnosti, ať už pro Heller, Index nebo další výrobce strojů.</p> <p>K tomu přibývají jednoduché možnosti importu a exportu dat o nástrojích a další funkce.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/1/csm_voreinstellen_fertigung_782ce05bd8.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8109",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/2/csm_teaser_presetting_small_4ff7902d1b.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Měření a seřizování: Vaše výhody",
+     "href": "/cz/reseni/mereni-a-serizovani",
+     "caption": "<figcaption> <h3>Měření a seřizování: Vaše výhody</h3> <p>Zjistěte, proč měřicí a seřizovací přístroje snižují časovou a finanční náročnost. Tyto výhody lze jednoduše spočítat a mohou přinést značné úspory. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Individuální odborná konzultace",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>Individuální odborná konzultace</h3> <p>Individuální rozhovor o Vašich cílech a našich nápadech, jak jich dosáhnout. Online poradenství společnosti ZOLLER přímo ze Smart Factory. Domluvte si termín ještě dnes.</p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3837",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/cz/nastavovaci-pristroj",
+ "de_path": "/voreinstellgeraet"
+}

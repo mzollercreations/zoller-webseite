@@ -1,0 +1,631 @@
+{
+ "path": "/제품/도구-관리/공구-운반/toolcart/구성",
+ "url": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%9A%B4%EB%B0%98/toolcart/%EA%B5%AC%EC%84%B1",
+ "title": "»toolCart« – 설정",
+ "description": "구성 - »toolCart« – 설정",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "제품 /",
+   "href": "/kr/%EC%A0%9C%ED%92%88"
+  },
+  {
+   "label": "공구 관리 /",
+   "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC"
+  },
+  {
+   "label": "공구 운반 /",
+   "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%9A%B4%EB%B0%98"
+  },
+  {
+   "label": "»toolCart« /",
+   "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%9A%B4%EB%B0%98/toolcart"
+  },
+  {
+   "label": "구성",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "제품 /",
+   "href": "/kr/%EC%A0%9C%ED%92%88"
+  },
+  {
+   "label": "공구 관리 /",
+   "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC"
+  },
+  {
+   "label": "공구 운반 /",
+   "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%9A%B4%EB%B0%98"
+  },
+  {
+   "label": "»toolCart« /",
+   "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%9A%B4%EB%B0%98/toolcart"
+  },
+  {
+   "label": "구성",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/smart-cabinets/toolcart/konfiguration",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management/tool-transportation/toolcart/configuration",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas/transporte-de-herramientas/toolcart/configuracion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils/transport-des-outils/toolcart/configuration",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas/transporte-de-ferramentas/toolcart/configuracao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management/trasporto-degli-utensili/toolcart/configurazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering/verktygstransport/toolcart/konfiguration",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement/werkzeugtransport/toolcart/konfiguration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/tool-transportation/toolcart/configuration",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils/transport-doutils/toolcart/configuration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%90%AC%E9%80%81/toolcart/%E8%A8%AD%E5%AE%9A",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%9A%B4%EB%B0%98/toolcart/%EA%B5%AC%EC%84%B1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management/tool-transportation/toolcart/configuration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas/transporte-de-herramientas/toolcart/configuracion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas/transporte-de-ferramentas/toolcart/configuracao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»toolCart«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%9A%B4%EB%B0%98/toolcart",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "구성",
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%9A%B4%EB%B0%98/toolcart/%EA%B5%AC%EC%84%B1",
+     "current": false
+    },
+    {
+     "label": "소프트웨어 및 통합",
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%9A%B4%EB%B0%98/toolcart/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EB%B0%8F-%ED%86%B5%ED%95%A9",
+     "current": false
+    },
+    {
+     "label": "자주 묻는 질문",
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%9A%B4%EB%B0%98/toolcart/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8",
+     "current": false
+    },
+    {
+     "label": "정보 모음",
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%9A%B4%EB%B0%98/toolcart/%EC%A0%95%EB%B3%B4-%EB%AA%A8%EC%9D%8C",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c3000",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> 한눈에 보기 </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2998",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p class=\"extra-large-text\">스마트 캐비닛은 고객님께서 직접 결정하십니다: 원하시는 사양을 미리 선정하신 후 ZOLLER 영업팀에 문의해 주십시오. 기꺼이 상담해 드리며 고객님이 원하시는 모델을 구성해 드리겠습니다.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2997",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2999",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> »toolCart« </h2>",
+      "body": "",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/2/2/csm_toolCart_ed395ae28d.webp",
+        "alt": "",
+        "w": 680,
+        "h": 379
+       }
+      ],
+      "videos": [],
+      "pos": "below",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3002",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "none"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 크기 </h2>",
+      "table": "<table> <tbody> <tr> <td> 높이 x 너비 x 깊이: 985 x 660 x 1050 mm </td> </tr> </tbody></table>",
+      "ftype": "table",
+      "id": "c2996",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 적재량 </h2>",
+      "table": "<table> <tbody> <tr> <td> 최대 450kg </td> </tr> </tbody></table>",
+      "ftype": "table",
+      "id": "c2994",
+      "bg": "",
+      "space": {
+       "before": "small",
+       "after": "small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 공구 인서트 – SK 버전 </h2>",
+      "table": "<table> <tbody> <tr> <td> SK 30, 사이즈 S, 폭 72 mm, 프레임당 최대 13개 </td> </tr> <tr> <td> SK 40, 사이즈 S, 폭 72 mm, 프레임당 최대 13개 </td> </tr> <tr> <td> SK 50, 사이즈 L, 폭 95 mm, 프레임당 최대 7개 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3037",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 공구 인서트 – HSK 규격 </h2>",
+      "table": "<table> <tbody> <tr> <td> HSK 25, 32, 사이즈 S, 폭 72 mm, 프레임당 최대 13개 </td> </tr> <tr> <td> HSK 40, 사이즈 S, 폭 72 mm, 프레임당 최대 13개 </td> </tr> <tr> <td> HSK 50, 사이즈 S, 폭 72 mm, 프레임당 최대 13개 </td> </tr> <tr> <td> HSK 63, 사이즈 S 또는 L, 폭 72 또는 95 mm, 프레임당 최대 13개 또는 7개 </td> </tr> <tr> <td> HSK 80, 사이즈 L, 폭 95 mm, 프레임당 최대 7개 </td> </tr> <tr> <td> HSK 100, 사이즈 L, 폭 95 mm, 프레임당 최대 7개 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3038",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 공구 인서트 – VDI 버전 </h2>",
+      "table": "<table> <tbody> <tr> <td> VDI 30, S 사이즈, 폭 72 mm, 프레임당 최대 13개 </td> </tr> <tr> <td> VDI 40, S 사이즈, 폭 72 mm, 프레임당 최대 13개 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3039",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 공구 인서트 – PSC 버전 </h2>",
+      "table": "<table> <tbody> <tr> <td> PSC 40, 사이즈 S, 폭 72 mm, 프레임당 최대 13개 </td> </tr> <tr> <td> PSC 50, 사이즈 S, 폭 72 mm, 프레임당 최대 13개 </td> </tr> <tr> <td> PSC 63, 사이즈 S, 폭 72 mm, 프레임당 최대 13개 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3040",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 공구 인서트 – 블랭크 버전 </h2>",
+      "table": "<table> <tbody> <tr> <td> B58, 폭 58mm, 프레임당 최대 7개 </td> </tr> <tr> <td> B75, 폭 75mm, 프레임당 최대 7개 </td> </tr> <tr> <td> B120, 폭 120mm, 프레임당 최대 7개 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3041",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 공구 인서트 – 어댑터형 </h2>",
+      "table": "<table> <tbody> <tr> <td> D 78 VSH 1호, 폭 95mm, 프레임당 최대 7개 </td> </tr> </tbody></table>",
+      "ftype": "table",
+      "id": "c3042",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 공구 인서트 – 목재용 인서트 </h2>",
+      "table": "<table> <tbody> <tr> <td> 목재 인서트/블랭크, 폭 328 mm, 프레임당 최대 2개 </td> </tr> <tr> <td> D 42 14 구멍, 폭 328 mm, 프레임당 최대 2개 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3043",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 부속품 </h2>",
+      "table": "<table> <tbody> <tr> <td> 추가 공구 교체 프레임 </td> </tr> <tr> <td> 끌어낼 수 있는 서랍 </td> </tr> <tr> <td> 하단 수납 선반 </td> </tr> <tr> <td> 측면 수납 선반 </td> </tr> <tr> <td> 선택 가능한 수납함 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3044",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> »toolCart 750« </h2>",
+      "body": "",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/8/8/csm_toolCart750_030ae7fb7a.webp",
+        "alt": "",
+        "w": 680,
+        "h": 379
+       }
+      ],
+      "videos": [],
+      "pos": "below",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3004",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "none"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 크기 </h2>",
+      "table": "<table> <tbody> <tr> <td> 높이 x 너비 x 깊이: 910 x 560 x 880 mm </td> </tr> </tbody></table>",
+      "ftype": "table",
+      "id": "c3003",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 적재량 </h2>",
+      "table": "<table> <tbody> <tr> <td> 최대 450kg </td> </tr> </tbody></table>",
+      "ftype": "table",
+      "id": "c3036",
+      "bg": "",
+      "space": {
+       "before": "small",
+       "after": "small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 공구 인서트 – SK 버전 </h2>",
+      "table": "<table> <tbody> <tr> <td> SK 30, 사이즈 S, 폭 72 mm, 프레임당 최대 12개 </td> </tr> <tr> <td> SK 40, 사이즈 S, 폭 72 mm, 프레임당 최대 12개 </td> </tr> <tr> <td> SK 50, 사이즈 L, 폭 95 mm, 프레임당 최대 7개 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3045",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 공구 인서트 – HSK 규격 </h2>",
+      "table": "<table> <tbody> <tr> <td> HSK 25, 32, 사이즈 S, 폭 72 mm, 프레임당 최대 12개 </td> </tr> <tr> <td> HSK 40, 사이즈 S, 폭 72 mm, 프레임당 최대 12개 </td> </tr> <tr> <td> HSK 50, 사이즈 S, 폭 72 mm, 프레임당 최대 12개 </td> </tr> <tr> <td> HSK 63, 사이즈 S 또는 L, 폭 72 또는 95 mm, 프레임당 최대 12개 또는 7개 </td> </tr> <tr> <td> HSK 80, 사이즈 L, 폭 95 mm, 프레임당 최대 7개 </td> </tr> <tr> <td> HSK 100, 사이즈 L, 폭 95 mm, 프레임당 최대 7개 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3046",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 공구 인서트 – VDI 버전 </h2>",
+      "table": "<table> <tbody> <tr> <td> VDI 30, S 사이즈, 폭 72 mm, 프레임당 최대 12개 </td> </tr> <tr> <td> VDI 40, S 사이즈, 폭 72 mm, 프레임당 최대 12개 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3047",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 공구 인서트 – PSC 버전 </h2>",
+      "table": "<table> <tbody> <tr> <td> PSC 40, 사이즈 S, 폭 72 mm, 프레임당 최대 12개 </td> </tr> <tr> <td> PSC 50, 사이즈 S, 폭 72 mm, 프레임당 최대 12개 </td> </tr> <tr> <td> PSC 63, 사이즈 S, 폭 72 mm, 프레임당 최대 12개 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3048",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 공구 인서트 – 블랭크 버전 </h2>",
+      "table": "<table> <tbody> <tr> <td> B58, 폭 58mm, 프레임당 최대 7개 </td> </tr> <tr> <td> B75, 폭 75mm, 프레임당 최대 7개 </td> </tr> <tr> <td> B120, 폭 120mm, 프레임당 최대 7개 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3049",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 공구 인서트 – 어댑터형 </h2>",
+      "table": "<table> <tbody> <tr> <td> D 78 VSH 1호, 폭 95mm, 프레임당 최대 7개 </td> </tr> </tbody></table>",
+      "ftype": "table",
+      "id": "c3050",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 공구 인서트 – 목재용 인서트 </h2>",
+      "table": "<table> <tbody> <tr> <td> 목재 인서트/블랭크, 폭 328 mm, 프레임당 최대 2개 </td> </tr> <tr> <td> D 42 14 구멍, 폭 328 mm, 프레임당 최대 2개 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3051",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 부속품 </h2>",
+      "table": "<table> <tbody> <tr> <td> 추가 공구 교체 프레임 </td> </tr> <tr> <td> 선택 가능한 인서트 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3052",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3001",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "공구 관리: 귀사가 누릴 수 있는 이점",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/toolmanagement",
+     "caption": "<figcaption> <h3>공구 관리: 귀사가 누릴 수 있는 이점</h3> <p>ZOLLER의 공구 관리 솔루션이 어떻게 생산성을 즉시 향상시키는지 확인해 보세요. 공구 데이터를 활용하면 공정이 더 빠르고 안전하게 진행되며, 여기에는 기계의 충돌 방지 기능도 포함됩니다. </p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 전문가 상담",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 전문가 상담</h3> <p>고객님의 목표와 이에 대한 당사의 아이디어를 바탕으로 한 맞춤형 상담. 스마트 팩토리에서 직접 제공되는 ZOLLER의 온라인 상담. 지금 바로 상담 일정을 예약하세요. </p> <br/> 자세히 알아보기 </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/kr/제품/도구-관리/공구-운반/toolcart/구성",
+ "de_path": "/produkte/toolmanagement/smart-cabinets/toolcart/konfiguration"
+}

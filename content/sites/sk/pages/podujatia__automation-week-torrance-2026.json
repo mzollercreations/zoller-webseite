@@ -1,0 +1,496 @@
+{
+ "path": "/podujatia/automation-week-torrance-2026",
+ "url": "/podujatia/automation-week-torrance-2026",
+ "title": "ZOLLER Automation Week Torrance 2026",
+ "description": "12. – 16. októbra 2026 v ZOLLER Inc. Pacific v Torrance v Kalifornii: živé ukážky »coraLogistic«, »coraVarion« a »loadBox«, prednášky a individuálne konzultácie s odborníkmi.",
+ "og_image": "/assets/video/automation-week-poster.jpg",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "event_hero",
+   "id": "event",
+   "kicker": "Podujatie · ZOLLER Inc. Pacific",
+   "title": "ZOLLER Automation Week",
+   "subtitle": "Päť dní automatizácie naživo – »coraLogistic«, »coraVarion« a »loadBox« v prevádzke.",
+   "dates": "12. – 16. októbra 2026",
+   "place": "Torrance, Kalifornia",
+   "hours": "Denne 9:00 – 17:00 (PT)",
+   "images": [
+    {
+     "src": "/assets/showroom/img/hd/coralogistic.webp",
+     "alt": "»coraLogistic«"
+    },
+    {
+     "src": "/assets/showroom/img/hd/loadbox.webp",
+     "alt": "»loadBox«"
+    },
+    {
+     "src": "/assets/showroom/img/hd/micbox.webp",
+     "alt": "»micBox«"
+    }
+   ],
+   "buttons": [
+    {
+     "label": "Vyberte termín",
+     "href": "#program"
+    },
+    {
+     "label": "Prehrať video s pozvánkou",
+     "href": "#video",
+     "ghost": true
+    }
+   ]
+  },
+  {
+   "type": "event_facts",
+   "id": "facts",
+   "bg": "yellow",
+   "items": [
+    {
+     "value": "5",
+     "label": "Dní",
+     "text": "Od pondelka do piatka, každý deň s vlastným zameraním"
+    },
+    {
+     "value": "3",
+     "label": "Riešenia naživo",
+     "text": "»coraLogistic«, »coraVarion« a »loadBox« v prevádzke"
+    },
+    {
+     "value": "25+",
+     "label": "Termínov",
+     "text": "Živé ukážky, prednášky, workshopy a individuálne konzultácie s odborníkmi"
+    },
+    {
+     "value": "0 $",
+     "label": "Vstupné",
+     "text": "Zadarmo – počet miest na každú ukážku je obmedzený"
+    }
+   ]
+  },
+  {
+   "type": "event_video",
+   "id": "video",
+   "bg": "black",
+   "kicker": "Pozvánka",
+   "title": "Vaša pozvánka do Torrance",
+   "text": "<p>Čo vás v Torrance čaká – a prečo sa návšteva oplatí.</p>",
+   "src": "/assets/video/zoller-automation-week-torrance.mp4",
+   "poster": "/assets/video/automation-week-poster.jpg"
+  },
+  {
+   "type": "event_products",
+   "id": "solutions",
+   "bg": "lightgray",
+   "title": "Tri riešenia. Jeden automatizovaný obeh nástrojov.",
+   "text": "<p>Od skladu nástrojov cez prípravu až po CNC stroj: pozrite sa, ako automatizácia ZOLLER funguje ruka v ruke – a čo to znamená pre vašu výrobu.</p>",
+   "items": [
+    {
+     "name": "»coraLogistic«",
+     "claim": "Automatizovaná logistika vo výrobe",
+     "img": "/assets/showroom/img/hd/coralogistic.webp",
+     "href": "/produkte/automation/werkzeuglogistik/coralogistic",
+     "tag": "coralogistic",
+     "benefits": [
+      "Nástroje cestujú samy: autonómny robot »coraExpress« ich prepravuje medzi skladom, prípravou a strojom",
+      "Systém »smartPallet« bezpečne drží nástroje – na ručnú aj automatizovanú prepravu",
+      "Prepravné zákazky vytvoríte niekoľkými kliknutiami v správe zákaziek webTMS",
+      "Menej chodenia a hľadania – nástroj príde k stroju včas"
+     ]
+    },
+    {
+     "name": "»coraVarion«",
+     "claim": "Automatizovaná montáž, kontrola a meranie vymeniteľných rezných doštičiek",
+     "img": "/assets/showroom/img/hd/micbox.webp",
+     "href": "/produkte/automation/werkzeugvorbereitung/micbox",
+     "tag": "coravarion",
+     "benefits": [
+      "S »micBox«: doštičky sa úplne automaticky otáčajú, prevracajú a vymieňajú",
+      "Montáž, kontrola a meranie v jednom nepretržitom procese",
+      "Stála kvalita s úplnou dokumentáciou každého nástroja",
+      "Beží bez obsluhy – vaši odborníci sa môžu venovať činnostiam s pridanou hodnotou"
+     ]
+    },
+    {
+     "name": "»loadBox«",
+     "claim": "Inteligentné centrum nástrojov",
+     "img": "/assets/showroom/img/hd/loadbox.webp",
+     "href": "/produkte/automation/werkzeugbereitstellung/loadbox",
+     "tag": "loadbox",
+     "benefits": [
+      "Vychystáva nástroje podľa zákaziek a pripravuje ich pre logistiku",
+      "Šesťosový robot FANUC spoľahlivo manipuluje s nástrojmi medzi vstupom/výstupom a skladom",
+      "Kompaktné skladovanie nástrojov vo výťahovom systéme Kardex Shuttle",
+      "Serverové riadenie – ovládanie z monitora, tabletu alebo smartfónu"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "agenda",
+   "id": "program",
+   "bg": "white",
+   "title": "Program",
+   "text": "<p>Vyberte si deň a ukážku. Jedným kliknutím si môžete rezervovať miesto alebo pridať termín do kalendára. Všetky časy sú v tichomorskom čase (PT); prednášky a ukážky v angličtine.</p>",
+   "email": "sales@zoller-usa.com",
+   "event": "ZOLLER Automation Week Torrance 2026",
+   "location": "ZOLLER Inc. Pacific, 3882 Del Amo Blvd., Suite #603, Torrance, CA 90503, USA",
+   "tz": "America/Los_Angeles",
+   "tzoffset": "-07:00",
+   "days": [
+    {
+     "date": "2026-10-12",
+     "label": "Otvárací deň",
+     "focus": "Všetky tri riešenia v skratke",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "Registrácia a raňajky",
+       "text": "Príďte, dajte si kávu a zoznámte sa s tímom ZOLLER."
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "all",
+       "title": "Keynote: automatizovaný obeh nástrojov",
+       "text": "Ako sa príprava, zabezpečenie a logistika nástrojov prepájajú v inteligentnej továrni."
+      },
+      {
+       "start": "10:30",
+       "end": "11:15",
+       "kind": "Live-Demo",
+       "tag": "coralogistic",
+       "title": "»coraLogistic« naživo",
+       "text": "»coraExpress« vyzdvihne nástroje a dovezie ich na »smartPallet« k stroju.",
+       "seats": 12
+      },
+      {
+       "start": "11:30",
+       "end": "12:15",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "»coraVarion« naživo",
+       "text": "Automatická výmena, kontrola a meranie rezných doštičiek.",
+       "seats": 12
+      },
+      {
+       "start": "12:15",
+       "end": "13:15",
+       "kind": "Networking",
+       "title": "Obed a networking"
+      },
+      {
+       "start": "13:15",
+       "end": "14:00",
+       "kind": "Live-Demo",
+       "tag": "loadbox",
+       "title": "»loadBox« naživo",
+       "text": "Vychystávanie nástrojov podľa zákaziek s robotom a výťahovým systémom.",
+       "seats": 12
+      },
+      {
+       "start": "14:15",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "Individuálne konzultácie s odborníkmi",
+       "text": "45 minút s našimi odborníkmi na automatizáciu – o vašej výrobe, vašich nástrojoch a vašich cieľoch.",
+       "seats": 3
+      },
+      {
+       "start": "16:30",
+       "end": "17:30",
+       "kind": "Networking",
+       "title": "Uvítacie stretnutie",
+       "text": "Spoločný začiatok týždňa."
+      }
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "label": "Deň logistiky",
+     "focus": "Zameranie: »coraLogistic«",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "Registrácia a raňajky"
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "coralogistic",
+       "title": "Logistika bez zbytočných ciest",
+       "text": "Kde sa v logistike nástrojov stráca čas – a ako ho získať späť."
+      },
+      {
+       "start": "10:30",
+       "end": "11:30",
+       "kind": "Live-Demo",
+       "tag": "coralogistic",
+       "title": "»coraLogistic« do hĺbky",
+       "text": "Kompletná prepravná zákazka: od skladu cez nastavenie až po CNC stroj.",
+       "seats": 12
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Workshop",
+       "tag": "coralogistic",
+       "title": "V praxi: správa zákaziek webTMS",
+       "text": "Vytvorte si prepravné zákazky sami: vyberte vozík, cieľový stroj a spustite.",
+       "seats": 8
+      },
+      {
+       "start": "12:30",
+       "end": "13:30",
+       "kind": "Networking",
+       "title": "Obed a networking"
+      },
+      {
+       "start": "13:30",
+       "end": "14:15",
+       "kind": "Live-Demo",
+       "tag": "loadbox",
+       "title": "»loadBox« a »coraLogistic« spoločne",
+       "text": "Vychystané nástroje idú rovno do automatizovanej prepravy.",
+       "seats": 12
+      },
+      {
+       "start": "14:30",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "Individuálne konzultácie s odborníkmi",
+       "text": "Vaše otázky k logistike, naši odborníci.",
+       "seats": 3
+      }
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "label": "Deň prípravy nástrojov",
+     "focus": "Zameranie: »coraVarion«",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "Registrácia a raňajky"
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "coravarion",
+       "title": "Automatická výmena rezných doštičiek",
+       "text": "Prečo sa manipulácia s reznými doštičkami tak dobre hodí na automatizáciu."
+      },
+      {
+       "start": "10:30",
+       "end": "11:30",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "»coraVarion« do hĺbky",
+       "text": "Montáž, kontrola a meranie v jednom slede – naživo pri bunke.",
+       "seats": 12
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "»micBox« zblízka",
+       "text": "Otáčanie, prevracanie, výmena: automatizácia výmeny doštičiek zblízka.",
+       "seats": 12
+      },
+      {
+       "start": "12:30",
+       "end": "13:30",
+       "kind": "Networking",
+       "title": "Obed a networking"
+      },
+      {
+       "start": "13:30",
+       "end": "14:15",
+       "kind": "Live-Demo",
+       "tag": "coralogistic",
+       "title": "»coraLogistic« naživo",
+       "text": "Preprava nástrojov v skratke.",
+       "seats": 12
+      },
+      {
+       "start": "14:30",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "Individuálne konzultácie s odborníkmi",
+       "text": "Prineste svoje nástroje a svoje otázky.",
+       "seats": 3
+      }
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "label": "Deň zabezpečenia nástrojov",
+     "focus": "Zameranie: »loadBox«",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "Registrácia a raňajky"
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "loadbox",
+       "title": "Nástrojové centrum inteligentnej továrne",
+       "text": "Vychystávanie nástrojov podľa zákaziek namiesto hľadania a zbierania."
+      },
+      {
+       "start": "10:30",
+       "end": "11:30",
+       "kind": "Live-Demo",
+       "tag": "loadbox",
+       "title": "»loadBox« do hĺbky",
+       "text": "Základný modul robota, výťahový systém a vstupno-výstupný modul vo vzájomnej súhre.",
+       "seats": 12
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Workshop",
+       "tag": "loadbox",
+       "title": "Ovládanie z tabletu a smartfónu",
+       "text": "Vyskúšajte si serverový riadiaci softvér.",
+       "seats": 8
+      },
+      {
+       "start": "12:30",
+       "end": "13:30",
+       "kind": "Networking",
+       "title": "Obed a networking"
+      },
+      {
+       "start": "13:30",
+       "end": "14:15",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "»coraVarion« naživo",
+       "text": "Automatická výmena, kontrola a meranie rezných doštičiek.",
+       "seats": 12
+      },
+      {
+       "start": "14:30",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "Individuálne konzultácie s odborníkmi",
+       "text": "Spočítajme spolu váš projekt automatizácie.",
+       "seats": 3
+      }
+     ]
+    },
+    {
+     "date": "2026-10-16",
+     "label": "Deň otvorených dverí",
+     "focus": "Kompletný obeh nástrojov",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "Registrácia a raňajky"
+      },
+      {
+       "start": "09:30",
+       "end": "10:30",
+       "kind": "Live-Demo",
+       "tag": "all",
+       "title": "Zo skladu do vretena",
+       "text": "Všetky tri riešenia v jednom nepretržitom procese: »loadBox« vychystáva, »coraVarion« pripravuje, »coraLogistic« doručuje.",
+       "seats": 20
+      },
+      {
+       "start": "10:45",
+       "end": "11:30",
+       "kind": "Workshop",
+       "tag": "all",
+       "title": "Oplatí sa mi to?",
+       "text": "Hospodárnosť automatizácie pri príprave nástrojov – s príkladmi výpočtov.",
+       "seats": 15
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Live-Demo",
+       "tag": "all",
+       "title": "Otvorená ukážka: riešenie podľa vášho výberu",
+       "text": "Vy rozhodnete, čo ukážeme.",
+       "seats": 20
+      },
+      {
+       "start": "12:30",
+       "end": "14:00",
+       "kind": "Networking",
+       "title": "Kalifornské grilovanie a rozlúčka",
+       "text": "Týždeň zakončíme grilovaním – a vy ste pozvaní."
+      },
+      {
+       "start": "14:00",
+       "end": "16:00",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "Individuálne konzultácie s odborníkmi",
+       "text": "Posledná príležitosť na osobnú konzultáciu.",
+       "seats": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "event_venue",
+   "id": "directions",
+   "bg": "black",
+   "title": "Ako nás nájdete",
+   "name": "ZOLLER Inc. Pacific",
+   "lines": [
+    "3882 Del Amo Blvd., Suite #603",
+    "Torrance, CA 90503, USA"
+   ],
+   "map": "https://www.google.com/maps/search/?api=1&query=3882+Del+Amo+Blvd+Suite+603+Torrance+CA+90503",
+   "notes": [
+    "V South Bay v Los Angeles, neďaleko letiska LAX",
+    "Zadarmo, nutná registrácia",
+    "Prednášky a ukážky v angličtine"
+   ],
+   "contact": {
+    "label": "Registrácia a otázky",
+    "email": "sales@zoller-usa.com",
+    "phone": "+1 734 332 4851"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>V októbri nemáte čas?</h3> <p><a class=\"btn\" href=\"https://myzoller.com/us/en/expert/booking\" rel=\"noopener\" target=\"_blank\">Rezervujte si online individuálnu konzultáciu s odborníkom</a></p>",
+   "id": "experte",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "de_path": "/events/automation-week-torrance-2026",
+ "hand": true
+}

@@ -1,0 +1,536 @@
+{
+ "path": "/optymalizacja-czasu-przygotowania",
+ "url": "/pl/optymalizacja-czasu-przygotowania",
+ "title": "Optymalizacja czasu przygotowania",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pl/strona-glowna"
+  },
+  {
+   "label": "Optymalizacja czasu przygotowania",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pl/strona-glowna"
+  },
+  {
+   "label": "Optymalizacja czasu przygotowania",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/ruestzeitoptimierung",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/setup-time-optimization",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/optimizacion-del-tiempo-de-preparacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/optimisation-du-temps-de-preparation",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/otimizacao-do-tempo-de-preparacao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/ottimizzazione-dei-tempi-di-attrezzaggio",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/optimering-av-foerberedelsetiden",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/ruestzeitoptimierung",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/setup-time-optimization",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/optimisation-des-temps-de-preparation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E6%BA%96%E5%82%99%E6%99%82%E9%96%93%E3%81%AE%E6%9C%80%E9%81%A9%E5%8C%96",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A4%80%EB%B9%84-%EC%8B%9C%EA%B0%84-%EC%B5%9C%EC%A0%81%ED%99%94",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/setup-time-optimization",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/optimizacion-del-tiempo-de-preparacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/otimizacao-do-tempo-de-preparacao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/2/3/csm_ruesten_header_8622b0d406.webp",
+     "video": null,
+     "title": "Dlaczego warto zoptymalizować czas przygotowania?",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8076",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">Obecnie prawie żadna maszyna ani instalacja nie wytwarza wyłącznie jednego produktu – zazwyczaj dostosowuje się je do potrzeb, produkując różne wyroby. Powoduje to powstanie czasów przezbrojenia, podczas których maszyna zazwyczaj nie produkuje nic.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8048",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Co oznacza termin „Rüstzeit”? </h2>",
+   "body": "<p>Czas przezbrojenia to okres, w którym maszyna lub instalacja jest przestawiana z produkcji jednego produktu na inny. Jeśli na przykład produkuje się wyroby jednostkowe, czas przezbrojenia definiuje się jako: czas od ostatniej sztuki starej partii do pierwszej sztuki nowej partii.</p> <p>Czas przezbrojenia nie jest więc w ścisłym sensie „marnotrawstwem”, jednak ponieważ wiąże się on przynajmniej częściowo z przestojami maszyn, dłuższe czasy przezbrojenia w naturalny sposób obniżają wydajność i efektywność Państwa zakładów produkcyjnych.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/4/csm_tms_connected_3fe459a22a.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 900
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8049",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Jak zoptymalizować czas przygotowania? </h2>",
+      "body": "<p>Optymalizacja czasu przygotowania oznacza przede wszystkim: skrócenie czasu przygotowania! Aby osiągnąć ten cel, można zastosować różne podejścia.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c8051",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Analiza operacji przygotowawczych",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Każdemu procesowi usprawniającemu mającemu na celu skrócenie czasu przezbrajania bezwzględnie poprzedza analiza operacji przezbrajania: Jakie etapy są konieczne? Jakie są obecnie wykonywane i ile czasu trzeba na nie poświęcić? W jakiej kolejności są one realizowane i czy można ją zmienić? Które etapy są naprawdę niezbędne, a które można zoptymalizować?</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8054",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Optymalizacja wielkości partii",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Częścią dogłębnej analizy jest również pytanie: czy możliwe jest rzadsze przestawianie linii produkcyjnych, a więc zmniejszenie liczby zmian asortymentu? Rzadsze operacje przestawiania są oczywiście mniej czasochłonne, a tym samym pozwalają zaoszczędzić pieniądze. Jednocześnie oszczędności wynikające z tego rozwiązania należy dokładnie zrównoważyć z dążeniem do utrzymania zapasów magazynowych na jak najniższym poziomie, czyli uniknięcia nadprodukcji towarów. Oczywiście przy tym wszystkim stopień wykorzystania linii produkcyjnych powinien pozostać jak najwyższy.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8056",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Konfiguracja zewnętrzna",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>W ramach czasu przezbrojenia rozróżnia się przezbrojenie zewnętrzne (czynności, które można wykonać nawet podczas pracy linii produkcyjnej) oraz przezbrojenie wewnętrzne (wymagające zatrzymania linii). W tym przypadku leży oczywiście w Państwa interesie, aby przygotowanie wewnętrzne, które powoduje spadek wydajności, było jak najkrótsze.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8058",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Cyfryzacja i automatyzacja",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>W przypadku nowoczesnych maszyn kluczowym działaniem jest gruntowna cyfryzacja i automatyzacja procesów przygotowania maszyn. Urządzenia do wstępnej regulacji narzędzi mogą na przykład z wyprzedzeniem określić dane narzędzi niezbędne do pracy obrabiarki CNC, czyli zmierzyć narzędzia i bezpośrednio wprowadzić odpowiednie ustawienia. W ten sposób znacznie skraca się wewnętrzny czas przezbrajania, a ponadto elektroniczna transmisja danych zapobiega błędom podczas przesyłania.</p> <p>Ponieważ pomiar zewnętrzny może odbywać się na urządzeniu do ustawiania i pomiaru, podczas gdy sama maszyna nadal realizuje inne zlecenie, oszczędza się dodatkowy czas: gdy tylko maszyna jest gotowa, narzędzia można od razu zastosować. Nie ma potrzeby niepotrzebnego przedłużania przestoju maszyny w celu przeprowadzenia pomiaru laserowego.</p> <p><a class=\"btn\" href=\"/pl/produkty/ustawianie-i-pomiary\"><strong>Pomiar narzędzi i bezpośrednie wprowadzanie odpowiednich ustawień</strong></a></p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8060",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Szkolenie",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>W przypadku wszystkich czynności związanych z przygotowaniem produkcji – niezależnie od tego, czy są one wykonywane ręcznie czy elektronicznie, na zewnątrz czy wewnątrz firmy – nic nie zastąpi dobrze wyszkolonych pracowników zajmujących się przygotowaniem produkcji. Jeśli pracownicy są dobrze przeszkoleni podczas warsztatów dotyczących przygotowania produkcji oraz na maszynach szkoleniowych, popełnia się mniej błędów, a trudności są wykrywane na wczesnym etapie, zanim dojdzie do spadku wydajności.</p> <p><a class=\"btn\" href=\"/pl/przedsiebiorstwa/kontakt/szkolenia-i-kursy\">Szkolenia firmy ZOLLER</a></p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8062",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c8052",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8050",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Jakie korzyści płyną z optymalizacji czasu przygotowania? </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c8064",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Wyższa wydajność i produktywność",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Im krótsze są czasy przygotowania, tym mniejszy jest ich udział w czasie pracy pracowników, a tym samym maszyny mają więcej czasu na to, do czego faktycznie są przeznaczone: do produkcji. Dzięki temu znacznie wzrasta ogólna wydajność Państwa procesów.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8075",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Redukcja kosztów",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Krótszy czas przezbrajania pozwala również obniżyć koszty – nie tylko dzięki większej wydajności, ale także dzięki optymalizacji wszystkich powiązanych ze sobą procesów.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8073",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Standaryzacja",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Dokładna analiza czasów przezbrojenia oraz niezbędnych w ich ramach etapów pracy pozwala na standaryzację procesów wykraczającą poza ramy pojedynczej maszyny. To z kolei można przełożyć na bardziej przejrzyste wytyczne i materiały szkoleniowe dla pracowników. Daje to pracownikom dodatkową orientację i poczucie bezpieczeństwa – a także ułatwia dostosowanie się do urządzeń, z którymi pracownicy nie są jeszcze tak dobrze zaznajomieni.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8071",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c8065",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8063",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_zoller_system_teaser_a6e5d69871.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Uruchom rozwiązanie – wkrocz do systemu.",
+     "href": "/pl/system",
+     "caption": "<figcaption> <h3>Uruchom rozwiązanie – wkrocz do systemu.</h3> <p>Nasi klienci czerpią korzyści z kompleksowych rozwiązań, które rozwijamy od dziesięcioleci. Efekt: doskonała wydajność. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Indywidualna rozmowa z ekspertem",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>Indywidualna rozmowa z ekspertem</h3> <p>Indywidualna rozmowa, w której wymieniają się Państwo na temat Państwa celów i naszych pomysłów, jak je osiągnąć. Doradztwo online firmy ZOLLER bezpośrednio z „Smart Factory”. Umówcie się Państwo na spotkanie już teraz. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/pl/optymalizacja-czasu-przygotowania",
+ "de_path": "/ruestzeitoptimierung"
+}

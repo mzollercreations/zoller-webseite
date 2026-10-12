@@ -1,0 +1,544 @@
+{
+ "path": "/frezovanie",
+ "url": "/sk/frezovanie",
+ "title": "Frézovanie",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/sk/domovska-stranka"
+  },
+  {
+   "label": "Frézovanie",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/sk/domovska-stranka"
+  },
+  {
+   "label": "Frézovanie",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/fraesen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/milling",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/fresado",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/fraisage",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/fresagem",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/fresatura",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/fraesning",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/fraesen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/milling",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/fraisage",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%95%E3%83%A9%E3%82%A4%E3%82%B9%E5%8A%A0%E5%B7%A5",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EB%B0%80%EB%A7%81",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/milling",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/fresado",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/fresagem",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/7/a/csm_header_milling_9977afc8ee.webp",
+     "video": null,
+     "title": "Väčší úspech pre frézovacie podniky",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c2449",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> CAM-to-Part: <br/>S meraniami s presnosťou na mikrometre a bezchybnými údajmi </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c775",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>Portfólio spoločnosti ZOLLER vám ponúka presné nastavovacie a meracie zariadenia, rozsiahly hardvér a softvér pre správu nástrojov, ako aj riešenia pre bezchybný prenos údajov o nástrojoch. </strong></p> <p>Ekonomické frézovacie procesy vyžadujú presnosť v mikrometroch a vysokú efektívnosť z hľadiska času a nákladov. Presnosť začína meraním mnohých geometrií obrábacieho nástroja. Pre dosiahnutie čo najvyššej efektívnosti musia byť nástroje rýchlo po ruke a údaje o nástrojoch musia byť k dispozícii v aktuálnej podobe pri každom kroku. So spoločnosťou ZOLLER sa podarí všetky procesy súvisiace s frézovaním.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c774",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c776",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "count",
+   "title": "Škálovateľný potenciál úspor za rok* vďaka nastaveniu a meraniu nástrojov",
+   "value": "15 000 €",
+   "note": "*vypočítané na základe 20 výmen nástrojov s dĺžkou výmeny 3 minúty, 200 pracovných dní ročne a jednej zmeny denne, pričom cena za hodinu prevádzky stroja je 75 €.",
+   "ftype": "zoller_count-banner",
+   "id": "c769",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Riešenia spoločnosti ZOLLER pre frézovacie prevádzky </h2>",
+   "items": [
+    {
+     "href": "/sk/produkty/drziaky-nastrojov",
+     "title": "Držiaky nástrojov",
+     "text": "<p>Držiak nástrojov s »čipom idChip« ako ideálne rozhranie pre vašu digitálnu výrobu.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/8/csm_ToolingSolutions_preview_7b8d14560e.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/nastavenie-a-meranie/vertikalne-zariadenia/smile",
+     "title": "»smile«",
+     "text": "<p>Robustné základné zariadenia s presnosťou na mikrometre pre štandardné nástroje</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/nastavenie-a-meranie/vertikalne-zariadenia/venturion",
+     "title": "»venturion«",
+     "text": "<p>Vynikajúce nastavenie a meranie nástrojov s množstvom možností</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/d/csm_venturion_preview_cdaca59ebb.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/nastavenie-a-meranie/vodorovne-zariadenia/hyperion",
+     "title": "»hyperion«",
+     "text": "<p>Horizontálny nastavovací a merací prístroj pre sústruženie</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/8/csm_hyperion_preview_37118ddf5b.webp",
+      "alt": "zoller hyperion",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/nastavenie-a-meranie/specialne-riesenia/specialne-riesenia/phoenix",
+     "title": "»phoenix«",
+     "text": "<p>Merá všetky parametre plne automaticky na princípe meradla hĺbky hrdla</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/8/d/csm_phoenix_preview_66edf5e474.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/sprava-nastrojov/sklad-naradia/toolorganizer",
+     "title": "»toolOrganizer«",
+     "text": "<p>Pre rezné nástroje a drobné súčiastky</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_018ce796c6.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/technika-zmrstovania/powershrink",
+     "title": "»powerShrink«",
+     "text": "<p>Systém zmršťovania s optimálnou energetickou účinnosťou a maximálnou bezpečnosťou</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_506ab0ccb9.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/technika-zmrstovania/redomatic",
+     "title": "»redomatic«",
+     "text": "<p>Univerzálny nastavovací a merací prístroj s integrovaným systémom upínania nástrojov</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/f/b/csm_redomatic_preview_4157496177.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/vyvazovacia-technika/toolbalancer",
+     "title": "»toolBalancer«",
+     "text": "<p>Vyvažovací systém s najmodernejšou technológiou a ergonomickým dizajnom</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/automatizacia/priprava-nastrojov/corameasure-lg",
+     "title": "»coraMeasure LG«",
+     "text": "<p>Ekonomická manipulácia s nástrojmi pre ZOLLER »venturion«</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/automatizacia/priprava-nastrojov/robobox",
+     "title": "»roboBox«",
+     "text": "<p>Až šesť modulov pre bežné úkony, ako je montáž, čistenie, meranie, zmršťovanie a ďalšie</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/a/csm_roboBox_preview_f71dd04107.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/automatizacia/priprava-nastrojov/micbox",
+     "title": "»micBox«",
+     "text": "<p>Zabezpečuje otáčanie, obracanie a výmenu vymeniteľných doštičiek</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/6/a/csm_micbox_preview_ff03cd31af.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/kontrola-a-meranie/univerzalne-meracie-stroje/smartcheck",
+     "title": "»smartCheck«",
+     "text": "<p>Nastavovacie a meracie zariadenie s doplnkovým dopadajúcim svetlom a rozšírenou analýzou obrazu</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_b44dfc4928.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/sprava-nastrojov/prenos-udajov/zidcode",
+     "title": "»zidCode«",
+     "text": "<p>Väčšia bezpečnosť a efektívnosť vďaka jednoduchému spravovaniu údajov o nástrojoch</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/c/csm_zidCode_preview_538b53ed83.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/sprava-nastrojov/sklad-naradia/keeper",
+     "title": "»keeper«",
+     "text": "<p>Pre kompletné nástroje a držiaky nástrojov</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/a/csm_keeper_preview_1e87de3ba7.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/sprava-nastrojov/sklad-naradia/autolock",
+     "title": "»autoLock«",
+     "text": "<p>Pre kontrolné prostriedky, prevádzkové materiály a väčšie komponenty</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/7/csm_autolock__preview_a71350a53a.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/sprava-nastrojov/sklad-naradia/twister",
+     "title": "»twister«",
+     "text": "<p>Pre súčiastky nástrojov a príslušenstvo</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/1/csm_twister__preview_edf94f7d12.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/sprava-nastrojov/montaz-naradia/toolstation",
+     "title": "»toolStation«",
+     "text": "<p>Pre optimálnu montáž nástrojov</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/f/csm_toolStation_preview_00b81d24f9.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/sprava-nastrojov/montaz-naradia/ztower",
+     "title": "»zTower«",
+     "text": "<p>Na univerzálnu montáž náradia</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/6/csm_zTower_preview_c0c8e3585e.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/sprava-nastrojov/preprava-naradia/toolcart",
+     "title": "»toolCart«",
+     "text": "<p>Pre pohodlný transport náradia</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_3be007bbac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/nastavenie-a-meranie/vertikalne-zariadenia/venturion/modely/tribos",
+     "title": "»tribos«",
+     "text": "<p>Montáž polygónového upínacieho skľučidla</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/3/2/csm_tribos_preview_8c77bd06f1.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/sk/produkty/nastavenie-a-meranie/vertikalne-zariadenia/venturion/modely/torquematic",
+     "title": "»torquematic«",
+     "text": "<p>Plne automatické upínanie</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/8/csm_torquematic_preview_76d4d49ac6.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_categorized_pages",
+   "id": "c4773",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Rozhovor s odborníkom",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Rozhovor s odborníkom</h3> <p>Individuálna diskusia o vašich cieľoch a našich nápadoch, ako ich dosiahnuť. Online poradenstvo spoločnosti ZOLLER priamo zo Smart Factory. Dohodnite si termín už teraz. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/e/csm_teaser-2Colume-Media_8e9165a74e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Médiá: ZOLLER v detailoch",
+     "href": "/sk/spolocnost/media",
+     "caption": "<figcaption> <h3>Médiá: ZOLLER v detailoch</h3> <p>Tu nájdete tlačové správy, oznámenia o nových produktoch, účasť na veľtrhoch, články z odborných časopisov, archív noviniek a našich kontaktných partnerov pre médiá. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c738",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/sk/frezovanie",
+ "de_path": "/fraesen"
+}

@@ -1,0 +1,426 @@
+{
+ "path": "/기업/채용-정보",
+ "url": "/kr/%EA%B8%B0%EC%97%85/%EC%B1%84%EC%9A%A9-%EC%A0%95%EB%B3%B4",
+ "title": "채용 정보",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "기업 /",
+   "href": "/kr/%EA%B8%B0%EC%97%85"
+  },
+  {
+   "label": "채용 정보",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "기업 /",
+   "href": "/kr/%EA%B8%B0%EC%97%85"
+  },
+  {
+   "label": "채용 정보",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/karriere",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/carrera-profesional",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/carriere",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/carreira",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/carriera",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/karriaer",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/karriere",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/career",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/carriere",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EC%B1%84%EC%9A%A9-%EC%A0%95%EB%B3%B4",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/career",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/carrera-profesional",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/carreira",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/2/8/csm_carreer_header_0aa181ca44.webp",
+     "video": null,
+     "title": "졸러에서 일하기",
+     "kicker": "",
+     "text": "<p>세계적인 선도 기업이자 가족 같은 분위기 – 졸러(ZOLLER)에서의 커리어 시작.</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4050",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "subnav",
+   "title": "채용 정보",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "채용 공고",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%EC%B1%84%EC%9A%A9-%EC%A0%95%EB%B3%B4/%EC%B1%84%EC%9A%A9-%EA%B3%B5%EA%B3%A0",
+     "current": false
+    },
+    {
+     "label": "자주 묻는 질문",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%EC%B1%84%EC%9A%A9-%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8",
+     "current": false
+    },
+    {
+     "label": "지원서",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%EC%B1%84%EC%9A%A9-%EC%A0%95%EB%B3%B4/%EC%A7%80%EC%9B%90%EC%84%9C",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c4066",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> 전문가를 찾습니다! </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c4048",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>가족 기업에서의 근무:</h4> <p>졸러(ZOLLER)는 가족 경영 기업으로, 혁신적인 조정 및 측정 장비, 절삭 공구의 측정, 검사 및 관리를 위한 소프트웨어, 그리고 관련 자동화 솔루션을 개발 및 생산합니다. 기술 혁신, 높은 품질 의식, 그리고 실천하는 서비스 정신을 바탕으로 우리는 세계 최고의 입지를 확고히 다졌습니다. 저희의 성공은 슈투트가르트 인근 플라이델스하임에 위치한 본사의 약 400명의 ZOLLER 임직원들과 전 세계 85개 지사 및 대리점에 근무하는 400명 이상의 동료들 덕분입니다.</p> <h4>매력적인 업무 분야:</h4> <p>저희는 도전적이고 다채로운 업무, 신속한 의사결정 과정, 그리고 업무 참여 및 역량 개발의 기회를 제공합니다. 견습생이든 경력직이든 상관없이, ZOLLER 팀의 일원이 되어 주십시오.</p> <h4>국제적인 환경:</h4> <p>졸러(ZOLLER)에서 실천하는 고객 중심 경영은 단순한 약속이 아닌 현실입니다. 전 세계 62개국에서 현지 영업 및 서비스 조직을 운영하고 있습니다.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c4049",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4047",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> 졸러(ZOLLER)의 교육 프로그램 </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c26164",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<ul><li>애플리케이션 개발 전문 정보기술자</li><li>시스템 통합 전문 정보기술자</li><li>산업 경영사</li><li>메카트로닉스 기술자</li><li>기술 제품 디자이너 – 기계 및 설비 설계</li></ul><p><a href=\"/fileadmin/01_Pages/Company/Career/DE/ZOLLER_BR_Karriere_BRKARRIERE_00_DE.pdf\" rel=\"noopener\" target=\"_blank\"><img alt=\"\" height=\"263\" loading=\"lazy\" src=\"/fileadmin/01_Pages/Company/Career/DE/ZOLLER_Ausbildung.jpg\" title=\"\" width=\"150\"/></a></p> <p><a class=\"link-arrow\" href=\"/fileadmin/01_Pages/Company/Career/DE/ZOLLER_BR_Karriere_BRKARRIERE_00_DE.pdf\" rel=\"noopener\" target=\"_blank\">교육 안내 책자 (PDF)</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c26172",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c26156",
+   "bg": "lightgray",
+   "space": {
+    "before": "extra-small",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> 졸러(ZOLLER)의 듀얼 교육 과정 </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c26188",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<ul><li>데이터 사이언스와 인공지능</li><li>컴퓨터 과학</li><li>컴퓨터 공학 – 정보 기술</li><li>기계공학 – 설계 및 개발</li><li>산업공학 – 일반 산업공학</li></ul>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c26196",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c26180",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/0/csm_teaser_profile_bf2693bd59.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "ZOLLER 소개",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84",
+     "caption": "<figcaption> <h3>ZOLLER 소개</h3> <p>ZOLLER라는 이름에는 800명이 넘는 직원들로 구성된 팀, 수많은 혁신, 그리고 가족 기업의 소박함이 깊이 얽혀 있습니다.</p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/4/csm_teaser_media_f7299d9c84.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "미디어",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%EB%AF%B8%EB%94%94%EC%96%B4",
+     "caption": "<figcaption> <h3>미디어</h3> <p>여기에서는 보도자료, 제품 발표, 전시회 참가 정보, 전문 잡지의 기사 및<br/> 뉴스 아카이브를 확인하실 수 있습니다.</p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/b/csm_teaser_reports_90bbbeda0a.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "리포트 및 기사",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%EB%B3%B4%EA%B3%A0%EC%84%9C-%EB%B0%8F-%EA%B8%B0%EC%82%AC",
+     "caption": "<figcaption> <h3>리포트 및 기사</h3> <p>ZOLLER에서는 어떤 일이 진행되고 있을까요? 고객들은 ZOLLER 솔루션 활용 경험에 대해 어떻게 평가하고 있을까요? 여기에서 최신 소식을 확인하실 수 있습니다.</p> <br/> 자세히 알아보기 </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c26310",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/kr/기업/채용-정보",
+ "de_path": "/unternehmen/karriere"
+}

@@ -1,0 +1,354 @@
+{
+ "path": "/解决方案/数控石材加工",
+ "url": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E6%95%B0%E6%8E%A7%E7%9F%B3%E6%9D%90%E5%8A%A0%E5%B7%A5",
+ "title": "数控石材加工",
+ "description": "数控石材加工",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "解决方案 /",
+   "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88"
+  },
+  {
+   "label": "数控石材加工",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "解决方案 /",
+   "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88"
+  },
+  {
+   "label": "数控石材加工",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/cnc-steinbearbeitung",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/stone-cnc-machining",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/mecanizado-cnc-de-piedra",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/usinage-de-pierre-par-cnc",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/processamento-de-pedra-cnc",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/lavorazione-della-pietra-cnc",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/cnc-bearbetning-av-sten",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/cnc-steinbearbeitung",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/stone-cnc-machining",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/usinage-de-la-pierre-par-cnc",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/cnc%E7%9F%B3%E6%9D%90%E5%8A%A0%E5%B7%A5",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/cnc-%EC%84%9D%EC%9E%AC-%EA%B0%80%EA%B3%B5",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/stone-cnc-machining",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/mecanizado-cnc-de-piedra",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/processamento-de-pedra-cnc",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/6/0/csm_header_cnc_steinbearbeitung_5057b88b46.webp",
+     "video": null,
+     "title": "数控石材加工",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c30133",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> 谁能在更短的时间内打造出完美的轮廓，谁就能在竞争中占据优势。让我们开始吧！ </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c30115",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>要在石板上加工出精准的轮廓非常耗时，因为金刚石刀具需要定期修整。 但这恰恰是流程优化的潜力所在。ZOLLER 拥有合适的技术，通过刀具测量、检测和清洁，显著缩短了获得完美结果所需的时间。 </strong></p> <p>通常情况下，金刚石刀具在加工 150 至 200 米石材后需要重新修整。每台机器每班次因此往往会损失数小时宝贵的生产时间。如果能拥有刀具状态的精确定位，就能大幅缩短这一巨大时间消耗，并确保更高的生产产能。 </p> <p>借助 ZOLLER 的精密设备，您可以获得微米级精度且全面的刀具状态洞察。您将掌握众多刀具几何参数的数值，并精确捕捉其轮廓。 利用获取的数据，您可以优化加工参数，例如切削量。这为实现完美的边缘质量、延长刀具寿命以及显著提高设备运行时间铺平了道路。在竞争中拥有无可匹敌的优势。 </p> <p><a class=\"btn\" href=\"/ch/%E4%BA%A7%E5%93%81/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F/%E6%95%B0%E6%8E%A7%E7%9F%B3%E6%9D%90%E5%8A%A0%E5%B7%A5\">显示产品</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c30106",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c30124",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 准备好批量生产石材加工刀具 </h2>",
+   "body": "<p>从粗磨到精抛的所有工序，均可在单一流程中依次完成，系统会自动比较轮廓并即时显示偏差。 ZOLLER设备会相互优化测量值和修正值，并可直接将数据自动传输至数控系统 — 无需重新设置。这样，整套工具就能完美匹配，同时显著缩短了设置时间和机器停机时间。 加工后的边缘：简直完美！</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/0/csm_cnc_steinbearbeitung_01_fa256afb63.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c30088",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> 金刚石刀具的预调、测量、检测和清洁 </h2>",
+   "items": [
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E9%A2%84%E8%B0%83%E5%92%8C%E6%B5%8B%E9%87%8F/%E6%95%B0%E6%8E%A7%E7%9F%B3%E6%9D%90%E5%8A%A0%E5%B7%A5/smile-gbo",
+     "title": "»smile GBO«",
+     "text": "<p>借助大视场光学系统，可实现特别精确的高度测量</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/f/4/csm_smileGBO_preview_ab539499c1.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F/%E6%95%B0%E6%8E%A7%E7%9F%B3%E6%9D%90%E5%8A%A0%E5%B7%A5/condiaz",
+     "title": "»conDiaZ«",
+     "text": "<p>专用于测量和检测金刚石涂层石材加工工具的检测设备</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/1/csm_conDiaz_preview_66ae2d253b.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F/%E6%95%B0%E6%8E%A7%E7%9F%B3%E6%9D%90%E5%8A%A0%E5%B7%A5/condress",
+     "title": "»conDress«",
+     "text": "<p>石材加工工具的清洁与切削性能恢复</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/8/5/csm_conDress_preview_e519dedb34.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c30052",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_zoller_system_teaser_a6e5d69871.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "从解决方案开始——进入系统。",
+     "href": "/ch/%E8%AF%A5%E7%B3%BB%E7%BB%9F",
+     "caption": "<figcaption> <h3>从解决方案开始——进入系统。</h3> <p>我们的客户受益于我们数十年来一直致力于推进的整体解决方案。结果：效率卓越。 </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "一对一专家咨询",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>一对一专家咨询</h3> <p>针对您的目标以及我们为此提出的方案，进行一对一的交流。ZOLLER 直接从“智能工厂”为您提供的在线咨询服务。立即预约。 </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ch/解决方案/数控石材加工",
+ "de_path": "/solutions/cnc-steinbearbeitung"
+}

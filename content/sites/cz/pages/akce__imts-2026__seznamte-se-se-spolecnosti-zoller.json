@@ -1,0 +1,548 @@
+{
+ "path": "/akce/imts-2026/seznamte-se-se-spolecnosti-zoller",
+ "url": "/cz/akce/imts-2026/seznamte-se-se-spolecnosti-zoller",
+ "title": "Seznamte se se společností ZOLLER",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Akce /",
+   "href": "/cz/akce"
+  },
+  {
+   "label": "IMTS 2026 /",
+   "href": "/cz/akce/imts-2026"
+  },
+  {
+   "label": "Seznamte se se společností ZOLLER",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Akce /",
+   "href": "/cz/akce"
+  },
+  {
+   "label": "IMTS 2026 /",
+   "href": "/cz/akce/imts-2026"
+  },
+  {
+   "label": "Seznamte se se společností ZOLLER",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/events/imts-2026/meet-zoller",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/eventos/imts-2026/conozca-zoller",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/evenements/imts-2026/decouvrez-zoller",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/eventos/imts-2026/conheca-a-zoller",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/eventi/imts-2026/scopri-zoller",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/evenemang/imts-2026/moet-zoller",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/events/imts-2026/meet-zoller",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/events/imts-2026/meet-zoller",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/evenements/imts-2026/decouvrez-zoller",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/imts-2026/zoller%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%96%89%EC%82%AC/imts-2026/%EC%A1%B8%EB%9F%AC%EB%A5%BC-%EB%A7%8C%EB%82%98%EB%B3%B4%EC%84%B8%EC%9A%94",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/events/imts-2026/meet-zoller",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/eventos/imts-2026/conozca-a-zoller",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/eventos/imts-2026/conheca-a-zoller",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "IMTS 2026",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/cz/akce/dny-technologii-a-summit-o-inteligentni-vyrobe",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Řešení",
+     "href": "/cz/akce/dny-technologii-a-summit-o-inteligentni-vyrobe/reseni",
+     "current": false
+    },
+    {
+     "label": "Moderátoři",
+     "href": "/cz/akce/dny-technologii-a-summit-o-inteligentni-vyrobe/moderatori",
+     "current": false
+    },
+    {
+     "label": "Program",
+     "href": "/cz/akce/dny-technologii-a-summit-o-inteligentni-vyrobe/program",
+     "current": false
+    },
+    {
+     "label": "Hotely a cestování",
+     "href": "/cz/akce/dny-technologii-a-summit-o-inteligentni-vyrobe/hotely-a-cestovani",
+     "current": false
+    },
+    {
+     "label": "Zaregistrujte se hned!",
+     "href": "https://myzoller.com/us/en/live/detail/1391",
+     "current": false
+    },
+    {
+     "label": "Stáhnout",
+     "href": "/cz/akce/dny-technologii-a-summit-o-inteligentni-vyrobe/stahnout",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c7441",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/8/e/csm_csm_meet_zoller_599fe3f5ee_b8eb9cad0a.webp",
+     "video": null,
+     "title": "Seznamte se s odborníky",
+     "kicker": "",
+     "text": "<p>ZOLLER Den otevřených dveří &amp; Summit o automatizaci</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7439",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "tiles",
+   "header": "<h2> Přednášející a tým společnosti ZOLLER </h2>",
+   "cols": 4,
+   "tiles": [
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/e/csm_alexander_zoller_11_1138472629.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Alexander Zoller Prezident – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Alexander Zoller</h4> <p>Jako prezident společnosti ZOLLER Inc. od roku 2004 je Alexander Zoller hnací silou této rodinné globální technologické společnosti a byl vizionářem, který realizoval plán expanze nového severoamerického ústředí a technologického centra Průmysl 4.0 v Ann Arbor v Michiganu.</p> <p>Společnost připravila sebe i své zákazníky na přizpůsobení se výrobní realitě budoucnosti, kde hardware, software a automatizace hladce spolupracují, aby dosáhly nejvyšší efektivity při výrobě dílů.</p> <p>Zoller získal v roce 2001 bakalářský titul v oboru informačních technologií na Univerzitě kooperativního vzdělávání ve Stuttgartu a v roce 2004 převzal funkci generálního ředitele společnosti E.Zoller GmbH s manažerskou odpovědností za společnost ZOLLER Inc.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/1/d/csm_moll_17_3c77f9435c.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Dietmar Moll Obchodní ředitel – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Dietmar Moll</h4> <p>Dietmar Moll je ředitelem prodeje ve společnosti ZOLLER Inc. a je držitelem magisterského titulu v oboru strojírenství z Cooperative State University ve Stuttgartu.</p> <p>Moll má za sebou dlouhou kariéru ve společnosti ZOLLER, během níž zastával řadu mezinárodních pozic v oblasti prodeje a také vedl pobočky v Indii, Thajsku a Spojených státech.</p> <p>Celkově má více než 18 let zkušeností v oblasti efektivní výroby se zaměřením na aplikace obráběcích strojů a pomáhá firmám porozumět jejich procesním schopnostem pomocí řešení pro přednastavení nástrojů, měření a kontrolu, správu nástrojů a automatizaci.</p> <p>Díky jeho zkušenostem s prací se společnostmi a partnery v různých výrobních odvětvích, včetně leteckého průmyslu, ropného a plynárenského průmyslu, automobilového průmyslu a těžebního průmyslu, je společnost ZOLLER schopna řešit reálné výzvy v oblasti výroby dílů, protože inteligentní výroba, analytika a Průmysl 4.0 otevírají novou generaci možností v oblasti integrovaných technologií a pokročilých výrobních postupů.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/8/6/csm_cody_11_66ad0bd6f8.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Cody Mitchell Regionální obchodní manažer – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Cody Mitchell</h4> <p>Cody Mitchell je regionálním obchodním manažerem společnosti ZOLLER Inc. pro severní a jihovýchodní region a ve společnosti ZOLLER působí od roku 2012.</p> <p>Mitchell má technické vzdělání a dříve pracoval ve vývoji pilových kotoučů a kontrole geometrie s využitím kontrolních zařízení společnosti ZOLLER. </p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/a/csm_rita_44_bf76963ef6.webp",
+      "alt": "",
+      "w": 800,
+      "h": 800
+     },
+     "label": "Rita Conroy-Martinová Ředitel pro marketing a zákaznickou zkušenost – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Rita Conroy-Martin</h4> <p>Rita Conroy-Martin je ředitelkou pro marketing a zákaznickou zkušenost ve společnosti ZOLLER Inc. Je multilingvní a má více než 25 let mezinárodních profesionálních zkušeností v oblasti prodeje a rozvoje podnikání, marketingu a nákupu, především ve výrobním sektoru.</p> <p>Věnuje se propojení prodeje a marketingu uprostřed dramatické transformace, která mění pravidla toho, jak velké i malé společnosti komunikují s potenciálními a stávajícími zákazníky.</p> <p>Ve své současné funkci ve společnosti ZOLLER Inc. kombinuje tradiční i nové strategie marketingu a rozvoje podnikání s cílem vzdělávat, zapojovat, uvádět a podporovat zákazníky a potenciální zákazníky, aby dosáhli nové úrovně efektivity díky řešením společnosti ZOLLER.</p> <p>Je absolventkou University of Limerick v Irsku, kde získala bakalářský titul v oboru podnikání a němčiny, a magisterský titul v oboru politologie na Université Libre de Bruxelles v Belgii. </p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/f/8/csm_Felix_Kanbach_30_91a33e82e2.webp",
+      "alt": "",
+      "w": 1929,
+      "h": 1987
+     },
+     "label": "Felix Kanbach Národní servisní manažer – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Felix Kanbach</h4> <p>Felix Kanbach je národním servisním manažerem společnosti ZOLLER Inc. a je držitelem magisterského titulu v oboru strojírenství z Univerzity aplikovaných věd v Heilbronnu v Německu.</p> <p>Ve své současné funkci vede Kanbach týmy poprodejních služeb, servisu a aplikačních inženýrů a zajišťuje konzistentní poskytování špičkových služeb a poprodejní podpory.</p> <p>Dříve, jako manažer řešení pro správu nástrojů ZOLLER TMS, řídil veškeré implementační, zaváděcí a školicí aktivity pro zákazníky využívající softwarová a hardwarová řešení pro správu nástrojů ZOLLER.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/3/2/csm_werner_lueken_v4_28_bcac49f60f.webp",
+      "alt": "",
+      "w": 711,
+      "h": 711
+     },
+     "label": "Werner Lueken Ředitel divize řešení pro kontrolu nástrojů – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Werner Lueken</h4> <p>Werner Lueken je ředitelem divize řešení pro kontrolu nástrojů ve společnosti ZOLLER Inc.</p> <p>V roce 1997 získal inženýrský titul v oboru průmyslového designu na Vysoké škole aplikovaných věd v Kielu v Německu. </p> <p>Lueken působí ve společnosti ZOLLER Inc. již 23 let a zastával mnoho funkcí, vždy se však zaměřoval na podporu zákazníků v oblasti kontroly nástrojů.</p> <p>S nadšením pomáhá výrobcům řezných nástrojů a koncovým uživatelům řešit jejich problémy s geometrií nástrojů a poskytuje jim jistotu ohledně kvality nástrojů. Je uznáván jako odborník v této oblasti jak v USA, tak na celosvětové úrovni.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/f/csm_brothers_10_2e640c257f.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Matt Brothers Manažer technologického centra Průmysl 4.0 – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Matt Brothers</h4> <p>Matt Brother je vedoucím technologického centra Průmysl 4.0 ve společnosti ZOLLER Inc.</p> <p>Díky více než 20 letům zkušeností v oblasti kontroly a výroby speciálních řezných nástrojů přináší do společnosti ZOLLER jedinečné dovednosti, zejména svou specializaci na vývoj procesů kontroly řezných nástrojů a řešení problémů.</p> <p>V minulosti Brothers spolupracoval se společnostmi Starcutter a Northern Tool. Ve společnosti ZOLLER působí od roku 2017.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/2/8/csm_nelu_13_add1496942.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Nelu Bilba Specialista na produktivitu výroby – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Nelu Bilba</h4> <p>Nelu Bilba je specialistou na produktivitu výroby ve společnosti ZOLLER Inc. Spolupracuje s novými i stávajícími zákazníky na zlepšování jejich výrobních procesů a navrhuje jim vhodná řešení od společnosti ZOLLER. Je specialistou na řezné nástroje a držáky nástrojů.</p> <p>Než nastoupil do společnosti ZOLLER Inc., byl zákazníkem společnosti ZOLLER v podnicích v USA a Německu. Technické vzdělání absolvoval v Rumunsku a v Německu. Po dalším studiu v Německu zastával různé pozice ve výrobě, od prototypování přes pětiosé obrábění až po výrobu řezných nástrojů.</p> <p>Od svého přestěhování do USA v roce 2011 zastával Bilba řadu vedoucích pozic ve výrobě, včetně pozice vedoucího oddělení a vedoucího výroby/závodu.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/a/csm_Markus_Lewandrowski_18_78fa01f75f.webp",
+      "alt": "",
+      "w": 1536,
+      "h": 1536
+     },
+     "label": "Markus Lewandrowski Manažer výzkumu a vývoje – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Markus Lewandrowski</h4> <p>Markus Lewandrowski je vedoucím výzkumu a vývoje ve společnosti ZOLLER Inc.</p> <p>Poté, co se vyučil oboru výroby nástrojů a forem a získal inženýrský titul, se v roce 2002 přestěhoval do Severní Ameriky, kde řídil projekty zahrnující výzkum a vývoj, návrh produktů, strukturální a tvářecí studie s využitím metody konečných prvků (FEM) atd.</p> <p>Dalším krokem v jeho kariéře bylo vedení zakázkové CNC dílny, která po dobu 15 let dodávala díly pro letecký průmysl a automobilové nástroje. Jako zákazník společnosti ZOLLER, který investoval do přednastavovacího zařízení a softwaru a hardwaru pro správu nástrojů za účelem zefektivnění provozu, snadno zavedl systém kvality AS9100.</p> <p>Lewandrowski má rozsáhlé znalosti v oblasti CNC řídicích systémů, 5osého obrábění a různých softwarů pro CAM a simulaci/ověřování a vede severoamerický tým výzkumu a vývoje společnosti ZOLLER Inc.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/f/9/csm_cedric_15_8519a48e1c.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Cedric Hasenfratz Manažer prodeje a partnerství pro TMS v Severní Americe – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Cedric Hasenfratz</h4> <p>Cedric Hasenfratz je manažerem prodeje a partnerství pro Severní Ameriku v rámci portfolia ZOLLER TMS Tool Management Solutions a s nadšením se věnuje zavádění řešení pro zvýšení efektivity ve výrobě.</p> <p>Před nástupem do společnosti ZOLLER působil jako account manager pro USA v divizi Manufacturing Intelligence společnosti Hexagon v segmentu prodeje softwaru.</p> <p>Má hluboké znalosti a zkušenosti v oblasti digitální správy nástrojů a optimalizace procesů pro moderní výrobu. </p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/9/2/csm_maerz_08_4bd67fd665.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Georg Maerz Národní obchodní ředitel – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Georg Maerz</h4> <p>Georg Maerz je národním obchodním ředitelem společnosti ZOLLER Inc. Vystudoval strojírenství na Vysoké škole strojního inženýrství ve Würzburgu v Německu a absolvoval učňovskou přípravu v oboru technologie obráběcích strojů v Espelkampu v Německu. Do společnosti ZOLLER nastoupil v roce 2010, kde podporuje zákazníky v obráběcím průmyslu a pomáhá jim vytvářet efektivní výrobní procesy. Svou kariéru zahájil jako výrobce forem a byl povýšen do funkce provozního manažera, aby podporoval provoz závodu. V roce 2002 řídil provoz nového závodu na výrobu forem a obrábění v USA, aby mohl poskytovat lepší podporu zákazníkům v USA. Během své kariéry získal odborné znalosti v oboru obráběcích strojů a technologie řezných nástrojů s využitím nejmodernějších technologií.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/9/7/csm_gaether_06_10e992158f.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Dietmar Gaertner Obchodní a aplikační inženýr – ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/a/5/csm_traxler_06_f60c5602a1.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "John Traxler Regionální obchodní manažer – ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/3/6/csm_Emily_Brunnschweiler_09_5359e05568.webp",
+      "alt": "",
+      "w": 1500,
+      "h": 1500
+     },
+     "label": "Emily Brunnschweilerová Regionální obchodní manažer – ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/9/0/csm_bird_06_ec283afc5b.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Matt Bird Regionální obchodní manažer – ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/1/d/csm_brooks_06_79f458b024.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Brooks Hay Regionální obchodní manažer – ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/2/d/csm_Elissa_Aurand_o_Logo_11_18b13ebe00.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 961
+     },
+     "label": "Elissa Aurandová Recepční – ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/7/e/csm_Clayton_Springer_o_logo_16_11847040e5.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 954
+     },
+     "label": "Clayton Springer Specialista na videoprodukci – ZOLLER INC.",
+     "img": null,
+     "text": "<h4>Clayton Springer</h4> <p>Clayton Springer je specialistou na videoprodukci v marketingovém oddělení společnosti ZOLLER Inc.</p> <p>Má zkušenosti s prací v oblasti sportovního vysílání, živých televizních zpráv a firemního marketingu, kde produkoval obsah pro sociální média, reklamy pro kabelovou televizi, propagační materiály, produktová videa a živé přenosy.</p> <p>Vystudoval Ferris State University, kde získal bakalářský titul v oboru produkce televizních a digitálních médií.</p>"
+    }
+   ],
+   "ftype": "zoller_overlay-tiles",
+   "id": "c7437",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "tiles",
+   "header": "<h2> Technologičtí partneři </h2>",
+   "cols": 4,
+   "tiles": [
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/b/d/csm_anca_08_ba056273f9.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     },
+     "label": "Stroje ANCA CNC CNC brusky na nástroje, automatizační systémy a software",
+     "img": {
+      "src": "/fileadmin/_processed_/6/f/csm_anca_feature_07_79c77c6f85.webp",
+      "alt": "",
+      "w": 1024,
+      "h": 810
+     },
+     "text": "<h4>Stroje ANCA CNC</h4> <p>Společnost ANCA je světovým lídrem v oblasti navrhování a výroby CNC brusek na nástroje, laserových značkovačů, automatizačních řešení, systémů řízení pohybu a komponentů z plechu.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/2/a/csm_SW_logo_03_e9e71f7490.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     },
+     "label": "SW Vícevřetenové obrábění",
+     "img": null,
+     "text": "<h4>SW</h4> <p>Pro výrobce, kteří chtějí snížit výrobní náklady a spotřebu podlahové plochy a řešit problémy související s nedostatkem pracovních sil, nabízí SW širokou škálu jedno- a vícevřetenových CNC strojů, automatizaci a kompletní systémová řešení. SW má dlouhou historii dodávek strojů do mnoha průmyslových odvětví, včetně práce v souladu s předpisy ITAR a FFL. Naše integrovatelná automatizační řešení snižují náklady na pracovní sílu a náš koncept vícevřetenových strojů zvyšuje využitelnou podlahovou plochu.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/8/7/csm_PraesiDM_logo_03_e4d0a75aad.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     },
+     "label": "PraesiDM Autonomní pokročilá výroba",
+     "img": null,
+     "text": "<h4>PraesiDM</h4> <p>PraesiDM je výrobní společnost se zaměřením na inženýrství, která samostatně vyrábí vysoce přesné komponenty pro průmyslovou základnu USA. Naše komplexní sada digitálních softwarových nástrojů modernizuje návrh dílů a standardizuje výrobu v rámci inteligentně propojeného výrobního ekosystému. Díky sběru dat se naše stroje učí a samy se optimalizují, čímž poskytují komplexní řešení pro všechna pokročilá odvětví.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/2/9/csm_Tools_United_logo_03_cd26d02611.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     },
+     "label": "ToolsUnited Údaje o nástrojích od předních výrobců řezacích nástrojů",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/5/2/csm_MachiningCloud-logo-Horizontal-Color_600x600px._02_63c39f7963.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     },
+     "label": "MachiningCloud Software pro správu CNC nástrojů a data",
+     "img": null,
+     "text": "<h4>MachiningCloud</h4> <p>MachiningCloud je přední datově řízený zdroj, který revolučním způsobem mění způsob, jakým výrobci vyhledávají, vybírají a využívají řezné nástroje, upínací zařízení a stroje. Tato platforma je více než jen katalogem dílů – poskytuje komplexní a propojený digitální ekosystém zahrnující bohatá a standardizovaná produktová data, inteligentní výběr nástrojů, komplexní údaje o posuvech a otáčkách a mnoho dalšího.</p> <p>Díky propojení fyzických nástrojů s digitálním světem pomáhá MachiningCloud výrobcům dosáhnout vyšší efektivity, snížit náklady a zlepšit celkovou produktivitu. Jedná se o nezbytnou platformu pro každého, kdo chce ve svých obráběcích operacích činit chytřejší rozhodnutí založená na datech.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/c/0/csm_Vericut_600x600px_02_53bf10f479.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     },
+     "label": "CGTech Špičková simulace a servis v oblasti CNC",
+     "img": null,
+     "text": "<h4>CGTech</h4> <p>Společnost CGTech se sídlem v Irvine v Kalifornii se specializuje na software pro simulaci, ověřování, optimalizaci, post-processing a analýzu numerického řízení (NC/CNC) ve výrobě. Od roku 1988 se software Vericut této společnosti stal průmyslovým standardem pro simulaci CNC obrábění za účelem detekce chyb, potenciálních kolizí nebo oblastí neefektivity. Vericut umožňuje programátorům NC zkrátit dobu testování, prakticky eliminovat chyby a optimalizovat NC programy pro rychlejší a efektivnější obrábění. Vericut podporuje širokou škálu CNC obráběcích strojů a může fungovat jako samostatné řešení nebo být integrován do předních CAM systémů. Se svými pobočkami ve 12 zemích a globální sítí prodejců se Vericut zavázal poskytovat komplexní podporu svým uživatelům po celém světě. Další informace naleznete na webových stránkách Vericut na adrese <a class=\"link-arrow\" href=\"https://www.vericut.com/\" rel=\"noopener\" target=\"_blank\">vericut.com</a>.</p>"
+    }
+   ],
+   "ftype": "zoller_overlay-tiles",
+   "id": "c7433",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/cz/akce/imts-2026/seznamte-se-se-spolecnosti-zoller",
+ "de_path": ""
+}

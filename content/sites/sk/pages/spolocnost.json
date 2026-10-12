@@ -1,0 +1,411 @@
+{
+ "path": "/spolocnost",
+ "url": "/sk/spolocnost",
+ "title": "Spoločnosť",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/sk/domovska-stranka"
+  },
+  {
+   "label": "Spoločnosť",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/sk/domovska-stranka"
+  },
+  {
+   "label": "Spoločnosť",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/2/8/csm_mehr_einblick_auf_zoller_bb6ef13034.webp",
+     "video": null,
+     "title": "Viac informácií o spoločnosti ZOLLER",
+     "kicker": "",
+     "text": "<p>Náš systém, riešenia a produkty už poznáte.<br/>Tu nájdete ďalšie informácie o spoločnosti ZOLLER. </p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c623",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/0/csm_teaser_profile_3d1ab9d40a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "O spoločnosti ZOLLER",
+     "href": "/sk/spolocnost/profil",
+     "caption": "<figcaption> <h3>O spoločnosti ZOLLER</h3> <p>S menom ZOLLER je úzko spätý tím pozostávajúci z viac ako 800 ľudí, množstvo inovácií a tradičné hodnoty rodinného podniku.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/a/csm_teaser_historie_3784d374de.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "História",
+     "href": "/sk/spolocnost/profil/historia",
+     "caption": "<figcaption> <h3>História</h3> <p>História spoločnosti ZOLLER sa začala v roku 1945 v jednej dielni. Majiteľ Alfred Zoller svojimi zručnosťami položil základ medzinárodnej spoločnosti. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c624",
+   "bg": "white",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_smart_factory_8c0b98e653.webp",
+    "alt": ""
+   },
+   "text": "<h3>Inteligentná továreň</h3> <p>Zažite procesne orientovanú a prakticky zameranú spoluprácu medzi produktmi<br/>ZOLLER, údajmi o nástrojoch, rozhraniami a CNC strojmi.</p> <p><a class=\"btn\" href=\"/sk/spolocnost/kontakt/inteligentna-tovaren\">Zistiť viac</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c790",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/6/csm_teaser_qa_20e3c6ded3.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Riadenie kvality",
+     "href": "/sk/spolocnost/riadenie-kvality",
+     "caption": "<figcaption> <h3>Riadenie kvality</h3> <p>Prostredníctvom interných opatrení a nezávislých auditov zabezpečujeme, aby naši zákazníci vždy dostali prvotriednu kvalitu.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/8/csm_teaser_compilance_5800459827.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Dodržiavanie predpisov",
+     "href": "/sk/spolocnost/dodrziavanie-predpisov",
+     "caption": "<figcaption> <h3>Dodržiavanie predpisov</h3> <p>Zákony, pravidlá a stanovisko k určitým otázkam tvoria záväzný rámec pre všetko, čo robíme. Týchto zásad sa držíme.</p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c670",
+   "bg": "white",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/b/csm_teaser_reports_90bbbeda0a.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Správy a príbehy",
+     "href": "/sk/spolocnost/spravy-a-pribehy",
+     "caption": "<figcaption> <h3>Správy a príbehy</h3> <p>Čo sa deje v spoločnosti ZOLLER a čo hovoria naši zákazníci o práci s riešeniami ZOLLER? Tu nájdete najnovšie informácie. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/6/csm_teaser_sustainability_85910c6212.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Udržateľnosť",
+     "href": "/sk/spolocnost/udrzatelnost",
+     "caption": "<figcaption> <h3>Udržateľnosť</h3> <p>Spoločnosť ZOLLER vám pomáha ľahšie dosahovať vaše ciele v oblasti udržateľnosti: menej odpadu, nižšia spotreba energie a vyššia efektívnosť.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/e/csm_teaser_parter_23d662c967.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Partner",
+     "href": "/sk/spolocnost/profil/partner",
+     "caption": "<figcaption> <h3>Partner</h3> <p>Náš systém je taký dobrý okrem iného aj preto, že je kompatibilný v mnohých smeroch. Na tento účel úzko spolupracujeme s partnermi. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c627",
+   "bg": "white",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/f/6/csm_teaser_map_c7d5eb53c3.webp",
+    "alt": ""
+   },
+   "text": "<h3>Sme tu pre vás po celom svete</h3> <p><a class=\"btn\" href=\"/sk/spolocnost/kontakt/pobocky\">Vyhľadávanie lokalít</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c789",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/4/csm_teaser_media_f7299d9c84.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Médiá",
+     "href": "/sk/spolocnost/media",
+     "caption": "<figcaption> <h3>Médiá</h3> <p>Tu nájdete tlačové správy, oznámenia o produktoch, účasť na veľtrhoch, články z odborných časopisov a <br/> archív noviniek.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/e/csm_teaser_career_c36b4715da.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Kariéra",
+     "href": "/sk/spolocnost/kariera",
+     "caption": "<figcaption> <h3>Kariéra</h3> <p>Nikto presne nevie, čo prinesie budúcnosť. Ak sa však chcete podieľať na jej tvorbe, spoločnosť ZOLLER je pre vás tou správnou voľbou. Pridajte sa k nášmu tímu pokroku.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/d/4/csm_teaser_newsletter_36e5e58bec.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Newsletter",
+     "href": "/sk/spolocnost/kontakt/newsletter",
+     "caption": "<figcaption> <h3>Newsletter</h3> <p>V spravodajstve spoločnosti ZOLLER „Insights into progress“ predstavujeme dôležité témy z odvetvia. Informujeme o produktoch, úspešných príbehoch a termínoch. Prihláste sa teraz.</p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c671",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/b/csm_teaser_academy_a9d8f4dd92.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Akadémia ZOLLER",
+     "href": "/sk/akademia",
+     "caption": "<figcaption> <h3>Akadémia ZOLLER</h3> <p>V ZOLLER Academy sa z prvej ruky dozviete, ako optimálne využívať vaše zariadenia ZOLLER v praxi. Zistite viac o akadémii, témach a termínoch.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/f/csm_teaser_references_1f5b635648.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Referencie",
+     "href": "/sk/spolocnost/profil/referencie",
+     "caption": "<figcaption> <h3>Referencie</h3> <p>V priebehu rokov sme vybudovali dlhodobé medzinárodné vzťahy so zákazníkmi. Škála našich partnerov siaha od malých špecializovaných výrobcov až po globálnych hráčov.</p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c672",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/sk/spolocnost",
+ "de_path": "/unternehmen"
+}

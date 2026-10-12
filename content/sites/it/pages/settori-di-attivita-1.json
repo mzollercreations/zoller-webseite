@@ -1,0 +1,437 @@
+{
+ "path": "/settori-di-attivita-1",
+ "url": "/it/settori-di-attivita-1",
+ "title": "Settori di attività",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/it/home-page"
+  },
+  {
+   "label": "Settori di attività",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/it/home-page"
+  },
+  {
+   "label": "Settori di attività",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/geschaeftsfelder",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/business-areas-1",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/areas-de-negocio-1",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/domaines-dactivite-1",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/areas-de-negocio-1",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/settori-di-attivita-1",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verksamhetsomraaden-1",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/geschaeftsfelder-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/secteurs-dactivite-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BA%8B%E6%A5%AD%E5%88%86%E9%87%8E-1",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%82%AC%EC%97%85-%EB%B6%84%EC%95%BC-1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/business-areas-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/areas-de-negocio-1",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/areas-de-negocio-1",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/c/4/csm_smartfactory_header_4a3f7f359c.webp",
+     "video": null,
+     "title": "Panoramica di ZOLLER: la nostra competenza specialistica",
+     "kicker": "",
+     "text": "<p>Supportiamo il vostro lavoro</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8150",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">Con i nostri prodotti, le nostre macchine e il nostro software, vi aiutiamo ad accelerare i vostri processi e a ridurre gli scarti.</p> <p class=\"extra-large-text\">Sviluppiamo soluzioni su misura per le vostre sfide. Scoprite qui le possibilità che il nostro software e i nostri strumenti vi offrono.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8151",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Impostazione e misurazione </h3> <h2> Risparmiare sui costi e aumentare la sicurezza grazie alla preimpostazione degli utensili </h2>",
+   "body": "<p>Per produrre pezzi con precisione, le moderne macchine utensili CNC necessitano di dati geometrici esatti relativi agli utensili. Con lo strumento di preregulazione è possibile determinare i dati degli utensili al di fuori della macchina, risparmiando così molto tempo di preparazione. Quando si inserisce l'utensile, è possibile leggere immediatamente i dati dal dispositivo di preregulazione. La trasmissione dati alla macchina avviene in modo completamente privo di errori, poiché sono esclusi errori di battitura e di trasmissione.</p> <p><a class=\"btn\" href=\"/it/dispositivo-di-preimpostazione\">Scoprite di più sui dispositivi di presetting e sulle macchine di misurazione per la preimpostazione degli utensili</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/3/5/csm_smile_header_c846e8a6b4.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8153",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> gestione degli strumenti </h3> <h2> Buoni motivi per produrre in modo più economico e misurabile </h2>",
+   "body": "<ul><li>Ridurre i tempi di preparazione: l'utensile giusto è sempre al posto giusto al momento giusto. L'outpunt dati in formato CN evita errori di immissione dati sulla macchina e i costi che ne derivano.</li><li>Trovare invece di cercare: sapete sempre quali utensili sono disponibili per quali macchine e dove si<br/>trovano.</li><li>Organizzazione migliore: i processi pianificati con tempi unitari calcolabili e un controllo efficace garantiscono una gestione efficiente dei processi e quindi tempi di reazione brevi. È possibile integrare e organizzare unità di produzione autonome.</li><li>Evitare i tempi di fermo macchina: tutti gli utensili sono sempre disponibili, 24 ore su 24. L'utilizzo degli utensili corretti sulle macchine previene le collisioni ed evita la rottura degli utensili.</li><li>Garantire la qualità: un'elevata disponibilità del sistema e processi di produzione trasparenti e stabili garantiscono la massima qualità.</li><li>Risparmiare sui costi di magazzino: è possibile vedere quali utensili vengono utilizzati e con quale frequenza, effettuando solo gli ordini per ciò che è effettivamente necessario.</li><li>Sfruttare il potenziale degli utensili: velocità di taglio e avanzamenti ottimali aumentano la vita utensile.</li><li>Aumentare la produttività: una rotazione ottimizzata degli utensili garantisce tempi di esecuzione brevi e macchine utilizzate al massimo della loro capacità, aumentando la produttività e riducendo i costi di produzione.</li></ul><p><a class=\"btn\" href=\"/it/gestione-degli-strumenti\">Gestione economica degli</a><br/><a class=\"btn\" href=\"/it/gestione-degli-strumenti\">utensili</a> <a class=\"btn\" href=\"/it/organizzazione-degli-utensili\">Gestione efficace del magazzino e dei dati di produzione</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/8/csm_keeper_header_fc94668ac2.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8165",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> trasferimento dei dati </h3> <h2> Trasferimento dati sicuro e veloce </h2>",
+   "body": "<p>Lo scambio dati tra i singoli elementi di produzione è indispensabile per la produzione industriale odierna. Con le soluzioni software di ZOLLER è garantita in ogni momento la trasmissione rapida e sicura del dato utensile, indipendentemente dal produttore e dalla piattaforma.</p> <p><a class=\"btn\" href=\"/it/trasmissione-dei-dati-utensile\">Trasmissione dei dati utensile</a><br/><a class=\"btn\" href=\"/it/monitoraggio-degli-utensili\">Gestione perfetta degli utensili e organizzazione della produzione</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/8/5/csm_zidCode_kombi_header_8e15ec79e7.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8164",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Verificare|Misurare </h3> <h2> Le macchine di misura garantiscono una produzione precisa </h2>",
+   "body": "<p>Affinché gli utensili svolgano esattamente la funzione per cui sono stati progettati e creati, devono essere realizzati con la massima precisione. Con le nostre macchine di misura universali è possibile misurare gli utensili con una precisione esatta al micrometro e verificare se corrispondono ai requisiti.</p> <p><a class=\"btn\" href=\"/it/macchine-di-misura\">Maggiore precisione grazie alle macchine di misura</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_genius_header_fd8701f3c0.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8161",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> automazione </h3> <h2> Soluzione di automazione per la misurazione degli utensili </h2>",
+   "body": "<p>Che si tratti della rettifica degli utensili o della preparazione, predisposizione e configurazione degli utensili, l'automazione delle attività quotidiane sarà la risposta a questa sfida. ZOLLER fornisce la soluzione giusta per la gestione automatizzata degli utensili per ogni tipo di attività. A seconda dei requisiti, la soluzione può essere posizionata in un sistema chiuso con moduli ulteriormente aggiuntivi, un concetto di automazione complesso o un supporto robotico collaborativo nella sala utensili.</p> <p><a class=\"btn\" href=\"/it/solutions/automazione\">Tutto sull'automazione modulare per utensili di truciolatura</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/c/7/csm_corameasureLG_header_89e9e61ae5.webp",
+     "alt": "",
+     "w": 1428,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8162",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> tecnica di restringimento </h3> <h2> Tempi di preparazione brevi grazie all'uso di un dispositivo di restringimento </h2>",
+   "body": "<p>Per molti utensili di foratura e fresatura, il restringimento dell'utensile è il metodo più rapido e allo stesso tempo più preciso per il serraggio dell'utensile. Con una posizione di calettamento è possibile eseguire facilmente le fasi di lavoro necessarie; una macchina di restringimento può automatizzarle in larga misura e allo stesso tempo garantire la sicurezza del processo attraverso misurazioni appropriate.</p> <p><a class=\"btn\" href=\"/it/calettare-lutensile\">Quali sono i vantaggi del restringimento degli utensili?</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/9/csm_header_powershrink_fda54c16eb.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 896
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8163",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> tecnica di impatto </h3> <h2> Bilanciare molle abrasive e utensili? Importante e semplice! </h2>",
+   "body": "<p>Per le moderne macchine utensili, gli utensili finemente bilanciati sono estremamente importanti. Gli squilibri nelle molle, nei vostri utensili e nei sistemi di utensili causano usura o addirittura danni al mandrino e ai motori, ma anche scarti nei pezzi in lavorazione. Il bilanciamento regolare previene i tempi di fermo, garantisce la qualità e riduce i costi complessivi.</p> <p><a class=\"btn\" href=\"/it/bilanciamento-degli-utensili\">Il nostro sistema di bilanciamento aumenta la durata degli utensili</a><br/><a class=\"btn\" href=\"/it/bilanciare-la-mola\">Maggiore silenziosità e prestazioni di lavorazione grazie alle molle bilanciate</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_header_toolBalancer_df19c3c897.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 896
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8160",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Ottimizzare la vita degli utensili </h2>",
+      "body": "<p>Maggiore è la vita utensile, più ridotti saranno i costi per l'utensile e maggiore sarà la sua efficacia. Conoscendo i fattori principali che influenzano la vita utensile, è più facile ottimizzarla.</p> <p><a class=\"btn\" href=\"/it/vita-dellutensile\">Come controllare e ottimizzare la vita dell'utensile</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "center",
+      "ftype": "textmedia",
+      "id": "c8166",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Ottimizzare il tempo di preparazione:<br/>come e perché? </h2>",
+      "body": "<p>Quasi nessuna macchina o impianto oggi produce un solo prodotto: di norma vengono convertiti a seconda delle esigenze per prodotti differenti. Ciò comporta tempi di preparazione durante i quali la macchina di solito non produce nulla.</p> <p><a class=\"btn\" href=\"/it/ottimizzazione-dei-tempi-di-attrezzaggio\">Perché ottimizzare i tempi di attrezzaggio?</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c8168",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8167",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>1:1 Colloquio con esperti</h3> <p><a class=\"btn\" href=\"https://myzoller.com/int/en/expert/booking/\" rel=\"noopener\" target=\"_blank\">Fissa subito un appuntamento</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/it/settori-di-attivita-1",
+ "de_path": "/geschaeftsfelder"
+}

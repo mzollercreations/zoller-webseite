@@ -1,0 +1,313 @@
+{
+ "path": "/solutions",
+ "url": "/tr/solutions",
+ "title": "Solutions",
+ "description": "Solutions - Why ZOLLER Solutions?",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Home /",
+   "href": "/tr/home"
+  },
+  {
+   "label": "Solutions",
+   "href": ""
+  },
+  {
+   "label": "Home /",
+   "href": "/tr/home"
+  },
+  {
+   "label": "Solutions",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/tr/solutions",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/7/5/csm_solutions_header_0ba171533c.webp",
+     "video": null,
+     "title": "Strong synergy because everything fits together",
+     "kicker": "",
+     "text": "<p>ZOLLER Solutions cover the entire process chain of the cutting tool in manufacturing - <br/>From tool presetting, tool management, all the way to automation.</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c609",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "66-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2 class=\"headline-decor\"> Ready for both the present and the future of manufacturing </h2>",
+      "body": "<p class=\"extra-large-text\">With ZOLLER Solutions, you can reduce your time, money, and resources in parts production, tool manufacturing, or grinding. Each solution is easy to use and immediately drives efficiency for quick ROI. With ZOLLER, you are ready for manufacturing today – and prepared for tomorrow.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c746",
+      "bg": "white",
+      "space": {
+       "before": "default",
+       "after": "none"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-2cols",
+   "id": "c1855",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "bento",
+   "header": "",
+   "intro": "",
+   "tiles": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/0/c/csm_header_presetting_805b97e0b6.webp",
+      "alt": ""
+     },
+     "text": "<h2>Tool Presetting &amp; Measuring</h2> <p>Reduce set-up times <br/>by 40 % and more.</p> <p><a class=\"btn\" href=\"/tr/solutions/presetting-measuring\">Learn more</a></p>",
+     "full": true
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/1/0/csm_teaser_toolmanagement_7103509fb4.webp",
+      "alt": ""
+     },
+     "text": "<h2>Tool Management</h2> <p>Get the most out of <br/>your tools and tool data <br/>with tool storage, software, <br/>and error-free data transfer.</p> <p><a class=\"btn\" href=\"/tr/solutions/tool-management\">Learn more</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/c/7/csm_teaser_inspection_8db5d700b8.webp",
+      "alt": ""
+     },
+     "text": "<h2>Tool Inspection &amp; Measuring</h2> <p>Document tool quality and <br/>create digital twins.</p> <p><a class=\"btn\" href=\"/tr/solutions/inspection-measuring\">Learn more</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/a/3/csm_teaser_shrinking_f763ceca8f.webp",
+      "alt": ""
+     },
+     "text": "<h2>Tool Heat Shrink Technology</h2> <p>Shrink and unshrink <br/>tools, in record time.</p> <p><a class=\"btn\" href=\"/tr/solutions/shrink-technology\">Learn more</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/0/b/csm_teaser_tooling_b7ac4272bd.webp",
+      "alt": ""
+     },
+     "text": "<h2>Tooling Solutions</h2> <p>Tool holders with »idChip« have the perfect <br/>interface for your digital production.</p> <p><a class=\"btn\" href=\"/tr/solutions/tooling-solutions\">Learn more</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/01_Pages/Solutions/Automation/zoller_automation_komp.mp4",
+      "alt": ""
+     },
+     "text": "<h2>Automation for the Shop Floor</h2> <p>From setting, measuring and inspecting tools to the complete <br/>automation of your tool processes - ZOLLER has the solution.</p> <p><a class=\"btn\" href=\"/tr/solutions/automation\">Learn more</a></p>",
+     "full": true
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/a/8/csm_teaser_balancing_a6279efe6e.webp",
+      "alt": ""
+     },
+     "text": "<h2>Tool Balancing Technology</h2> <p>Protect spindles and ensure quality <br/>with the best tool balancing devices on the market.</p> <p><a class=\"btn\" href=\"/tr/solutions/balancing-technology\">Learn more</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/b/1/csm_teaser_solution_steinbearbeitung_e8c492c5c9.webp",
+      "alt": ""
+     },
+     "text": "<h2>CNC Stone Machining</h2> <p>Prepare diamond tools faster and <br/>produce contours even more efficiently.</p> <p><a class=\"btn\" href=\"/tr/solutions/stone-cnc-machining\">Learn more</a></p>",
+     "full": false
+    }
+   ],
+   "ftype": "zoller_image-grid",
+   "id": "c606",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "extra-small"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>1:1 Expert Meeting</h3> <p><a class=\"btn\" href=\"https://myzoller.com/int/en/expert/booking\" rel=\"noopener\" target=\"_blank\">Make an appointment now</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/tr/solutions",
+ "de_path": "/solutions",
+ "cloned_from": "en_DE"
+}

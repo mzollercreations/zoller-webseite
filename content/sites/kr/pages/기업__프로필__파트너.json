@@ -1,0 +1,1020 @@
+{
+ "path": "/기업/프로필/파트너",
+ "url": "/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84/%ED%8C%8C%ED%8A%B8%EB%84%88",
+ "title": "파트너",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "기업 /",
+   "href": "/kr/%EA%B8%B0%EC%97%85"
+  },
+  {
+   "label": "프로필 /",
+   "href": "/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84"
+  },
+  {
+   "label": "파트너",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "기업 /",
+   "href": "/kr/%EA%B8%B0%EC%97%85"
+  },
+  {
+   "label": "프로필 /",
+   "href": "/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84"
+  },
+  {
+   "label": "파트너",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/profil/partner",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/profile/partner",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/perfil/socios",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/profil/partenaires",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/perfil/parceiros",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/profilo/partner",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/profil/partner",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/profil/partner",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/profile/partners",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/profil/partenaires",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84/%ED%8C%8C%ED%8A%B8%EB%84%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/profile/partner",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/perfil/socios",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/perfil/parceiros",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> 현명하게 협력하기 </h1>",
+      "body": "<p>졸러(ZOLLER)는 고객의 요구 사항을 최적으로 해결하기 위해 파트너사와 협력하고 있습니다.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2853",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "ANCA",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>ANCA는 고품질 CNC 연삭기 및 CNC 시스템 분야에서 시장을 선도하고 있습니다. 이 회사는 혁신과 기술을 기반으로 한 기업 전략과, 고객을 만족시키고 기대를 뛰어넘는 기계를 제조하겠다는 확고한 의지 덕분에 꾸준히 성장해 왔습니다.</p> <p>ZOLLER는 ANCA 공구 연삭기를 위한 인터페이스를 제공합니다.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/1/6/csm_logo_anca_0308eafd4f.webp",
+            "alt": "",
+            "w": 388,
+            "h": 92,
+            "href": "https://www.anca.com"
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2883",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "A+B 솔루션스 유한회사",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>35년 이상의 경험을 바탕으로 A+B Solutions는 생산 데이터 수집 및 제어 솔루션의 기획 및 통합에 관한 포괄적인 노하우를 제공합니다. Siemens PLM Software와 같은 선도적인 공급업체의 솔루션 파트너로서, A+B Solutions는 컨설팅부터 기획, 시스템 통합 및 서비스에 이르기까지 고객에게 종합적인 솔루션을 제공합니다.</p> <p>A+B Solutions의 솔루션은 다양한 애플리케이션과의 인터페이스를 제공하며, 모든 개발, 주문 및 생산 데이터의 핵심 허브로서 일관되고 통일된 데이터 구조를 구축합니다. A+B Solutions는 ZOLLER의 개발 파트너로서 당사 시스템을 Siemens NX 및 Teamcenter에 연동하는 역할을 담당하고 있습니다.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/0/0/csm_logo_a_b_8d5dbcb371.webp",
+            "alt": "",
+            "w": 193,
+            "h": 125,
+            "href": "http://www.aplusb-solutions.com/"
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2884",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "발러프",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>50년 이상의 센서 분야 경험을 바탕으로, Balluff GmbH는 오늘날 산업 자동화용 센서 기술 분야에서 가장 뛰어난 역량을 갖춘 세계적인 선도 기업 중 하나입니다. 고도의 기술력과 최첨단 전자 장치(자사 인증 실험실에서 철저히 검증됨), 응용 분야별 맞춤형 고객 솔루션, 개별적인 컨설팅 및 최고 수준의 서비스는 슈투트가르트 인근 노이하우젠 암 데어 포어(Neuhausen a.d.F.)에 본사를 둔 이 회사의 두드러진 특징입니다. 이를 위해 국내외 2,050명의 직원이 헌신하고 있습니다.</p> <p>Balluff와 ZOLLER는 공구 코딩 및 공구 식별을 통한 공구 데이터 전송 분야에서 협력하고 있습니다.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/c/d/csm_logo_balluff_2ac5adb7b9.webp",
+            "alt": "",
+            "w": 388,
+            "h": 54,
+            "href": "http://www.balluff.com"
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2913",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Camaix GmbH",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Camaix사는 금형 제작, 기계 제조, 자동차 제조 분야의 서비스를 제공하며, 특히 최근 몇 년간 항공우주 기술과 복잡한 5축 및 6축 가공 분야에 주력해 왔으며 이를 위한 맞춤형 솔루션을 개발해 왔습니다.</p> <p>ZOLLER 공구 관리 기능을 위한 Mastercam 인터페이스는 사용이 간편하고 직관적이어서, Mastercam 내에서 조립된 공구의 최신 형상을 기반으로 프로그래밍을 수행하고, 시뮬레이션 및 충돌 검사에 필요한 데이터를 활용할 수 있게 해줍니다.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/f/2/csm_logo_camaix_b573ef8fd2.webp",
+            "alt": "",
+            "w": 271,
+            "h": 109
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2912",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Camtek GmbH",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>슈투트가르트 인근 바인슈타트에 위치한 Camtek GmbH는 1993년 CAD/CAM 시스템 PEPS의 단독 유통업체로 설립되었습니다. 이 회사는 유수의 기계 및 제어 장치 제조사들과 긴밀히 협력하여 고품질의 포스트프로세서를 개발하고 두 시스템을 지속적으로 개선하고 있습니다.</p> <p>ZOLLER는 CAD/CAM 시스템 PEPS와 연동되는 편리하고 사용하기 쉬운 인터페이스를 제공합니다.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/2/e/csm_logo_camtek_6110635aba.webp",
+            "alt": "",
+            "w": 283,
+            "h": 59
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2914",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "델캠",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Delcam은 제조 산업을 위한 최신 CAD/CAM 및 장비 독립형 3D 측정 소프트웨어 분야의 세계적인 선도 개발사이자 공급업체입니다. 현재 Delcam은 영국 최대의 CAD/CAM 소프트웨어 개발사이며, 북미, 유럽, 아시아에 지사를 두고 있습니다. Delcam의 제품은 80여 개국 50,000개 이상의 기업에서 사용되고 있습니다. Delcam 제품군에는 세계 최고의 CAM 소프트웨어인 PowerMILL이 포함되어 있습니다. PowerMILL과 ZOLLER TMS(Tool Management<br/><br/>Solutions) 간의 인터페이스를 통해 방대한 ZOLLER 데이터베이스에 편리하게 접근할 수 있습니다.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/0/7/csm_logo_delcam_4072b1d63b.webp",
+            "alt": "delcam logo",
+            "w": 388,
+            "h": 123
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2915",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "DP 테크놀로지",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>DP Technology는 광범위한 제조 산업 분야를 위한 컴퓨터 지원 제조(CAM) 소프트웨어의 선도적인 제조사이자 공급업체입니다. DP Technology의 주력 제품인 ESPRIT는 밀링, 드릴링, 선반 가공, 와이어 방전 가공은 물론 밀-턴 센터와 같은 다기능 공작 기계에 이르기까지 매우 강력하고 고품질의 NC 프로그래밍 시스템입니다.</p> <p>ZOLLER TMS(Tool Management Solutions)와 연동되는 ESPRIT CAM 인터페이스는 사용이 간편하고 직관적이어서 공구 데이터를 손쉽게 교환할 수 있습니다.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/0/7/csm_logo_esprit_0628a45021.webp",
+            "alt": "",
+            "w": 324,
+            "h": 114
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2916",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "가상 깁스",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Virtual Gibbs는 CNC 프로그래밍을 획기적으로 간소화하는 강력하고 유연한 CAM 소프트웨어입니다. 사용자 친화적인 인터페이스는 생산성을 높여주며, CNC 프로그래머, 가공 기술자 및 엔지니어에게 이상적인 솔루션입니다. 2D부터 5축 밀링, 선반, MTM 및 와이어 방전 가공을 지원하는 Virtual Gibbs는 빠르고 안정적인 프로그래밍을 가능하게 합니다. Virtual Gibbs는 복잡한 다축 가공 센터 프로그래밍을 위한 선도적인 CAM 솔루션입니다. Virtual Gibbs의 ZOLLER 인터페이스를 통해 공구를 중앙에서 한 번만 생성할 수 있어 효율성과 일관성을 보장합니다.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/b/4/csm_logo_virtual_gibbs_bed09f00c2.webp",
+            "alt": "",
+            "w": 421,
+            "h": 94
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2917",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Hermle",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Hermle 가공 센터는 공구, 금형 및 양산 부품의 효율적인 가공을 위해 설계되었습니다. 뛰어난 품질과 높은 정밀도 덕분에 수많은 제조 분야에서 사용되고 있으며, 특히 의료 기술, 광학 산업, 항공 및 자동차 산업, 공구 및 금형 제조 분야와 그 협력사 등 까다로운 산업 분야에서도 널리 활용되고 있습니다.<br/><br/>ZOLLER 조정 및 측정 장비는 옵션으로 Hermle 가공 센터와의 인터페이스를 제공합니다.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/0/e/csm_logo_Hermle_4efcfb7fff.webp",
+            "alt": "",
+            "w": 253,
+            "h": 115
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2918",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "잉거솔",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>잉거솔(Ingersoll)은 절삭 가공용 인서트 장착형 표준 및 특수 공구를 개발하고 생산합니다. 이 공구들은 자동차 및 기계 제조업을 비롯한 전 세계 산업 현장에서 사용되고 있습니다. 표준 제품군 외에도 잉거솔은 고객의 요구 사항에 맞춰 고도의 솔루션을 개발하고 설계합니다.<br/><br/>졸러(ZOLLER)는 잉거솔과 협력하여, 인서트가 장착된 형상 밀링 커터 및 톱니형 밀링 커터를 작업장에서 검사 및 측정할 수 있는 새로운 개념을 개발했습니다.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/5/d/csm_logo_ingersoll_52703a0545.webp",
+            "alt": "",
+            "w": 355,
+            "h": 86
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2919",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "코메트 세라티지트 그룹",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>혁신적인 공구 설계와 보링 가공을 위한 종합적인 솔루션을 바탕으로, <i>KOMET</i> CERATIZIT GROUP은 전 세계적인 기술 선도 기업입니다. KOMET 고객들은 특히 미래 지향적인 서비스, 독보적인 기술 지원, 실무 중심의 전문 세미나, 그리고 보링, 리밍, 나사 가공을 위한 프리미엄 공구를 높이 평가합니다.</p> <p>ZOLLER는 <i>KOMET</i> CERATIZIT GROUP의 공구 조정 및 측정 솔루션을 제공합니다.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/f/f/csm_logo_KOMET_CERATIZIT_a820d40e25.webp",
+            "alt": "",
+            "w": 317,
+            "h": 81
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2920",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "KROMI",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>KROMI Logistik AG는 국내외 제조 기업을 대상으로 정밀 공구 공급에 대한 포괄적인 아웃소싱 서비스를 제공합니다. 특히 금속 및 플라스틱 가공용의 기술적으로 고도의 정밀도가 요구되는 절삭 공구에 중점을 두고 있습니다. TMS Tool Management<br/><br/>Solutions SILVER 패키지에는 KROMI와의 연동 기능이 포함되어 있습니다.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/6/0/csm_logo_kromi_86af58d78f.webp",
+            "alt": "",
+            "w": 354,
+            "h": 141
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2921",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "마키노",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>MAKINO는 공작기계 산업을 선도하는 기술 및 서비스 제공업체 중 하나로 인정받고 있습니다. 제품 라인업에는 부품 생산용 가공 센터는 물론 금형 및 다이 제작용 가공 센터도 포함되어 있으며, 항공우주, 자동차, 농기계 및 건설기계, 일반 기계 제조, 마이크로기술 등 다양한 분야에서 폭넓게 활용되고 있습니다.</p> <p>졸러(ZOLLER)의 설정 및 측정 장비는 옵션으로 마키노(MAKINO) 가공 센터와의 인터페이스를 갖추고 있습니다.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/1/4/csm_logo_makino_691cf9493b.webp",
+            "alt": "",
+            "w": 368,
+            "h": 127
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2922",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "몰드테크(주)",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>MOLDTECH는 CAD/CAM - TopSolid 제품군을 기반으로 가공 산업을 위한 솔루션을 제공합니다. TopSolid 제품군과 관련된 다양한 서비스를 통해 Moldtech는 사용자가 설계 및 제조 과정에서 까다로운 작업을 더 빠르고 효과적으로 수행할 수 있도록 지원합니다.</p> <p>ZOLLER 공구 관리 시스템과 연동되는 TopSolid‘Cam 인터페이스는 사용이 간편하고 직관적이어서, TopSolid‘Cam 내에서 조립된 공구의 최신 형상을 기반으로 프로그래밍하고, 해당 데이터를 시뮬레이션 및 충돌 검사에 활용할 수 있습니다.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/b/c/csm_logo_moldtech_5c18924e61.webp",
+            "alt": "",
+            "w": 443,
+            "h": 92
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2923",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "MTS AG",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>MTS AG는 CNC 연삭기용 소프트웨어를 개발하여 전 세계에 공급하고 있습니다. \"tool-kit PROFESSIONAL\" 제품은 단순한 공작물부터 복잡한 공작물에 이르기까지 생산 및 재연마를 위한 전문가용 소프트웨어로 전 세계적으로 잘 알려져 있습니다.<br/><br/>ZOLLER 조정 및 측정 장비는 MTS의 소프트웨어 솔루션이 탑재된 공구 연삭기와 연동되는 인터페이스를 제공합니다.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/5/7/csm_logo_mts_baec1b20bf.webp",
+            "alt": "",
+            "w": 149,
+            "h": 81
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2924",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "NUM",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>NUM은 CNC 제어 장치와 이에 적합한 소프트웨어 솔루션을 제조합니다. 공구 연삭 분야에서 NUM은 NUMROTOplus 소프트웨어를 통해 시장을 선도하고 있습니다.<br/><br/>ZOLLER 조정 및 측정 장비는 NUMROTOplus 소프트웨어 솔루션이 탑재된 공구 연삭기와 연동되는 인터페이스를 제공합니다.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/b/b/csm_logo_num_000273b7d7.webp",
+            "alt": "",
+            "w": 302,
+            "h": 89
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2925",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "오쿠마",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>오쿠마는 폭넓고 인상적인 제품 라인업을 갖춘 혁신적인 공작기계 분야의 선도적인 공급업체입니다. 이 제품군에는 뛰어난 OSP 제어 장치를 탑재한 고정밀 및 내구성이 뛰어난 NC 선반, 다기능 기계 및 머시닝 센터가 포함됩니다.</p> <p>졸러(ZOLLER)의 설정 및 측정 장비는 옵션으로 오쿠마 공작기계와의 인터페이스를 제공합니다.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/2/d/csm_logo_okuma_b30dbed8b5.webp",
+            "alt": "",
+            "w": 372,
+            "h": 89
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2926",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "열린 마음",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>OPEN MIND Technologies AG는 디지털 모델을 기반으로 공작 기계용 최적의 NC 밀링 및 선반 가공 프로그램을 생성하는 혁신적인 CAM/CAD 솔루션을 개발 및 판매합니다. 전 세계 다양한 산업 분야의 제조업체들이 OPEN MIND 제품을 선택하고 있으며, 이를 통해 경제적이고 효율적인 생산이 가능합니다. 이를 통해 모델, 프로토타입, 공구, 금형, 직육면체 가공물, 일체형 부품 등을 놀라운 품질로 제작할 수 있습니다.</p> <p>hyperMILL®과 ZOLLER TMS 툴 관리 솔루션 간의 인터페이스를 통해 방대한 ZOLLER 데이터베이스에 편리하게 접근할 수 있습니다.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/c/1/csm_logo_openmind_51569ef80f.webp",
+            "alt": "",
+            "w": 415,
+            "h": 75
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2927",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "OPUS",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>OPUS<sup>®</sup>는 30년 이상 CAM, MDE 및 DNC를 위한 업무 중심 솔루션을 제공해 왔습니다. 1,000여 개 기업에 4,000건이 넘는 설치 실적이 이를 증명합니다. OPUS®는 생산 현장의 요구 사항에 정확히 맞춰 조정되며, 사용자와 함께 지속적으로 발전하고 있습니다.<br/><br/>ZOLLER TMS(Tool Management Solutions)와 연동되는 OPUS 인터페이스는 사용이 간편하고 직관적이어서, ZOLLER 데이터베이스와 OPUS CAM 시스템 간의 데이터 전송을 손쉽게 수행할 수 있습니다.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/b/7/csm_logo_opus_087bc57d09.webp",
+            "alt": "",
+            "w": 158,
+            "h": 78
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2928",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "자크",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>100년 이상의 전통을 자랑하는 혁신적인 가족 기업인 Saacke는 전 세계적으로 공구 연삭기 및 톱니·프로파일 공구 분야에서 트렌드를 선도하고 있습니다.<br/><br/>ZOLLER 조정 및 측정 장비는 옵션으로 Saacke 공구 연삭기와 연동할 수 있는 인터페이스를 제공합니다.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/1/5/csm_logo_saacke_0310abbe36.webp",
+            "alt": "",
+            "w": 129,
+            "h": 114
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2929",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "지멘스 인더스트리 소프트웨어 GmbH",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>지멘스 디지털 팩토리(Siemens Digital Factory) 사업부의 한 사업부인 지멘스 PLM 소프트웨어(Siemens PLM Software)는 제품 수명 주기 관리(PLM) 및 제조 운영 관리(MOM)를 위한 소프트웨어, 시스템 및 서비스를 제공하는 세계적인 선도 기업으로, 전 세계적으로 1,500만 명 이상의 라이선스 사용자와 14만여 개의 고객사를 보유하고 있습니다.</p> <p>지멘스 소프트웨어 및 기술 파트너인 졸러(ZOLLER)는 지멘스 팀센터(Siemens Teamcenter)와의 인터페이스를 제공하여, 졸러의 설정·측정·검사 장비에서 공작 기계 및 제품 개발 및 제조용 통합 소프트웨어 제품군인 지멘스 NX(Siemens NX)로 목표값 및 실제값 데이터를 전송하고, 졸러 공구 데이터베이스 z.One을 통해 TMS(Tool Management Solutions)와 안전하게 데이터를 교환할 수 있도록 지원합니다.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/7/1/csm_logo_siemens_7bc6805809.webp",
+            "alt": "",
+            "w": 235,
+            "h": 114
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2930",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "SOFLEX",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>SOFLEX는 독일에서 최초로 유연 생산 시스템을 도입했으며, 슈투트가르트 대학교의 스핀오프 기업으로서 처음부터 이 흥미롭고 도전적인 산업 분야에 발을 들여놓았습니다. 1984년부터 셀 및 생산 제어 시스템을 포함한 제어 시스템이 핵심 역량으로 자리잡았습니다. SOFLEX는 다양한 대학 및 고등 교육 기관과의 광범위한 네트워크를 통해 귀중한 자극을 얻고 있습니다.<br/><br/>ZOLLER 설정 및 측정 장비에는 SOFLEX와의 인터페이스가 포함되어 있어, 계획 작업이 ZOLLER 장비로 전송됩니다. 또한 이 설정 및 측정 장비는 ZOLLER-SOFLEX-PCS 인터페이스를 통해 공구 요구 목록을 완전히 자동으로 요청합니다. ZOLLER 설정 및 측정 장치에서 설정이 완료되면 측정된 데이터가 SOFLEX-PCS 시스템으로 직접 전송되며, 이후 SOFLEX-PCS는 공구를 기계에 장착할 때 공구 데이터를 기계로 전송합니다.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/1/3/csm_logo_soflex_01b48cd0dc.webp",
+            "alt": "",
+            "w": 246,
+            "h": 72
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2931",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "솔리드캠(SolidCAM) GmbH",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>SolidCAM은 기계 제조, 전자, 의료, 소비재, 기계 개발, 자동차 및 항공우주 산업은 물론 금형 및 공구 제작 분야에서 효율적인 CAM 프로그래밍을 위한 통합 CAD/CAM 시스템의 세계적인 선도 기업 중 하나입니다. SolidCAM은 자사의 제품인 SolidCAM과 InventorCAM을 통해 SolidWorks 및 Autodesk Inventor와 원활하게 연동됩니다. 혁신적인 특허 기술인 iMachining과 SolidCAM MillTurn plus를 탑재한 이 소프트웨어는 복잡한 선반-밀링 센터 및 장형 선반에 이르기까지 모든 CNC 응용 분야를 지원합니다. 3개의 기술 센터를 포함한<br/>8개 지점에 75명 이상의 직원이 상주하여 독일 전역에 걸쳐 전문적인 사용자 지원과 최고 수준의 현장 기술 서비스를 보장합니다.<br/><br/>ZOLLER 공구 관리를 위한 간편하고 직관적인 SolidCAM 인터페이스는 TMS Tool Management Solutions를 통해 방대한 ZOLLER 공구 데이터베이스에 편리하게 접근할 수 있게 해줍니다. 밀링, 선반 가공 및 밀링-선반 복합 가공용 완제품 공구는 3D 공구 데이터 형태로 SolidCAM 내에서 직접 시뮬레이션 및 충돌 검사에 사용할 수 있습니다.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/d/8/csm_logo_solidcam_9711414196.webp",
+            "alt": "",
+            "w": 317,
+            "h": 70
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2932",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "타키사와 공작기계 주식회사",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>1922년 공작기계 제조사로 설립된 이래, 타키사와(TAKISAWA)는 선구자적 정신과 열정으로 꾸준히 인정받아 왔습니다. 방대한 경험과 거의 100년에 가까운 전통을 바탕으로, 타키사와는 오늘날 혁신적이고 기술적으로 진보된 다양한 제품을 제공하고 있습니다.</p> <p>졸러(ZOLLER)는 타키사와(TAKISAWA)로 공구 데이터를 전송하기 위한 인터페이스를 제공합니다.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/a/6/csm_logo_takisawa_ee8c24d2ee.webp",
+            "alt": "",
+            "w": 381,
+            "h": 41
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2935",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "테비스 AG",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Tebis AG는 CAD/CAM 및 MES 분야의 글로벌 시장 및 기술 선도 기업 중 하나입니다. 고객들은 Tebis 소프트웨어를 통해 고품질의 모델, 금형 및 부품을 효율적이고 안전하게, 그리고 최상의 품질로 설계, 계획 및 제작합니다. 실무 경험이 풍부한 컨설팅 및 구현 전문가 팀은 효율적이고 안전한 CAD/CAM 프로세스를 위한 전략을 수립하고, 이를 고객사에 적용함으로써 지속 가능한 기술 및 경쟁 우위를 확보해 줍니다. 뮌헨 인근 마르틴스리드에 본사를 둔 이 회사는 전 세계에 9개의 Tebis 지사와 8개국에 대리점을 운영하고 있습니다. 자동화는 30년 이상 Tebis의 성공 공식이었습니다. Tebis는 고객을 위해 인더스트리 4.0을 향한 선구자 역할을 자처합니다.</p> <p>ZOLLER TMS(Tool Management Solutions)와 연동되는 Tebis 인터페이스는 사용이 간편하고 직관적이어서, 개별 구성품 및 완성 공구를 포함한 공구 데이터와 세팅 시트를 ZOLLER 공구 데이터베이스 z.One과 Tebis CAM 시스템 간에 손쉽게 전송할 수 있습니다.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/d/e/csm_logo_tebis_2cbb64c1c1.webp",
+            "alt": "",
+            "w": 323,
+            "h": 114
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2933",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "폴머",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>전 세계 14개 지사를 보유한 Vollmer 그룹은 광범위한 기계 라인업을 바탕으로 생산 및 서비스 분야의 공구 가공 전문 기업으로서 전 세계적으로 성공을 거두고 있습니다. 이 기술 선도 기업의 제품 라인업에는 목재 및 금속 가공 산업을 위한 회전 공구용 최첨단 연삭기, 방전 가공기, 가공 기계와 원형 톱 및 띠톱이 포함되어 있습니다.</p> <p>졸러(ZOLLER) 설정 및 측정 장비 – 볼머 연삭기와 인터페이스를 통해 완벽하게 연동됩니다.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/0/2/csm_logo_vollmer_174ffc994c.webp",
+            "alt": "",
+            "w": 439,
+            "h": 116
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2934",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "DSC Software AG 소개",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>통합형 PLM을 위한 동반자</p> <p>DSC Software AG는 사람, 프로세스, 시스템을 하나로 연결하기 위해 열정을 다해 노력하고 있습니다. 저희는 귀사의 제품 데이터에 진심을 다합니다.</p> <p>통합에 대한 저희의 열정에 동참해 주십시오. 혁신적이고 인간적이며 협력적인 자세로, 귀사의 디지털화 전략을 구체적으로 구현하는 과정을 함께합니다. 비즈니스 프로세스를 위한 핵심 디지털 데이터베이스인 SAP를 기반으로, 맞춤형 모범 사례 솔루션을 더해 드립니다.</p> <p>오랜 기간 SAP 파트너로 활동해 온 당사와 함께라면, 탁월한 네트워크와 풍부한 경험을 갖춘 든든한 동반자를 얻게 됩니다. DSC 팀은 총 1,100년 이상의 PLM 노하우를 보유하고 있으며, 단 하나의 목표만을 향해 나아갑니다. 바로 귀사의 고유한 과제에 대한 최상의 솔루션을 설계하는 것입니다. 이를 통해 귀사의 독창적인 아이디어를 더욱 빠르게 스마트한 제품으로 구현하고, 미래 경쟁력을 유지할 수 있도록 돕겠습니다.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/1/a/csm_logo_dsc_software_40e1276b00.webp",
+            "alt": "",
+            "w": 246,
+            "h": 92
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2936",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c2854",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2852",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/kr/기업/프로필/파트너",
+ "de_path": "/unternehmen/profil/partner"
+}

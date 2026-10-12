@@ -1,0 +1,748 @@
+{
+ "meta": [
+  {
+   "label": "服务",
+   "href": "/ch/%E4%BC%81%E4%B8%9A/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC/%E8%81%94%E7%B3%BB%E4%BA%BA"
+  },
+  {
+   "label": "媒体",
+   "href": "/ch/%E4%BC%81%E4%B8%9A/%E5%AA%92%E4%BD%93"
+  },
+  {
+   "label": "工作机会",
+   "href": "/ch/%E4%BC%81%E4%B8%9A/%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95"
+  }
+ ],
+ "main": [
+  {
+   "label": "系统方案",
+   "href": "/ch/%E8%AF%A5%E7%B3%BB%E7%BB%9F"
+  },
+  {
+   "label": "成功案例",
+   "href": "/ch/%E6%82%A8%E7%9A%84%E6%88%90%E5%8A%9F"
+  },
+  {
+   "label": "解决方案",
+   "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88",
+   "children": [
+    {
+     "label": "为什么选择 ZOLLER Solutions？",
+     "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88"
+    },
+    {
+     "label": "预调和测量",
+     "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E9%A2%84%E8%B0%83%E5%92%8C%E6%B5%8B%E9%87%8F"
+    },
+    {
+     "label": "检测和测量",
+     "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F"
+    },
+    {
+     "label": "自动化",
+     "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E8%87%AA%E5%8A%A8%E5%8C%96",
+     "children": [
+      {
+       "label": "概览",
+       "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E8%87%AA%E5%8A%A8%E5%8C%96"
+      },
+      {
+       "label": "刀具流通",
+       "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E8%87%AA%E5%8A%A8%E5%8C%96/%E7%89%A9%E6%B5%81"
+      },
+      {
+       "label": "刀具准备",
+       "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%B7%A5%E5%85%B7%E5%87%86%E5%A4%87"
+      },
+      {
+       "label": "刀具配置",
+       "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%B7%A5%E5%85%B7%E9%85%8D%E7%BD%AE"
+      },
+      {
+       "label": "刀具检测",
+       "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%88%80%E5%85%B7%E6%A3%80%E6%B5%8B"
+      }
+     ]
+    },
+    {
+     "label": "刀具热缩技术",
+     "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E5%88%80%E5%85%B7%E7%83%AD%E7%BC%A9%E6%8A%80%E6%9C%AF"
+    },
+    {
+     "label": "刀具解决方案",
+     "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E5%88%80%E5%85%B7%E5%A4%B9%E5%A4%B4"
+    },
+    {
+     "label": "刀具平衡技术",
+     "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E5%88%80%E5%85%B7%E5%B9%B3%E8%A1%A1%E6%8A%80%E6%9C%AF"
+    },
+    {
+     "label": "数控石材加工",
+     "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E6%95%B0%E6%8E%A7%E7%9F%B3%E6%9D%90%E5%8A%A0%E5%B7%A5"
+    }
+   ]
+  },
+  {
+   "label": "产品系列",
+   "href": "/ch/%E4%BA%A7%E5%93%81",
+   "children": [
+    {
+     "label": "产品概览",
+     "href": "/ch/%E4%BA%A7%E5%93%81"
+    },
+    {
+     "label": "预调和测量",
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E9%A2%84%E8%B0%83%E5%92%8C%E6%B5%8B%E9%87%8F",
+     "children": [
+      {
+       "label": "立式设备",
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E9%A2%84%E8%B0%83%E5%92%8C%E6%B5%8B%E9%87%8F/%E7%AB%8B%E5%BC%8F%E8%AE%BE%E5%A4%87",
+       "children": [
+        {
+         "label": "»smile«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E9%A2%84%E8%B0%83%E5%92%8C%E6%B5%8B%E9%87%8F/%E7%AB%8B%E5%BC%8F%E8%AE%BE%E5%A4%87/smile",
+         "claim": "开启您的专业调校与测量之旅",
+         "desc": "专为标准工具设计的坚固耐用、精度达微米级的入门级设备",
+         "img": "/fileadmin/_processed_/4/3/csm_smile_preview_6232033e55.webp"
+        },
+        {
+         "label": "»venturion«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E9%A2%84%E8%B0%83%E5%92%8C%E6%B5%8B%E9%87%8F/%E7%AB%8B%E5%BC%8F%E8%AE%BE%E5%A4%87/venturion",
+         "claim": "满足最高要求的模块化高端系列",
+         "desc": "卓越的刀具调整与测量功能，并提供多种选项",
+         "img": "/fileadmin/_processed_/7/d/csm_venturion_preview_7611e56f51.webp"
+        }
+       ]
+      },
+      {
+       "label": "卧式设备",
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E9%A2%84%E8%B0%83%E5%92%8C%E6%B5%8B%E9%87%8F/%E5%8D%A7%E5%BC%8F%E8%AE%BE%E5%A4%87",
+       "children": [
+        {
+         "label": "»hyperion«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E9%A2%84%E8%B0%83%E5%92%8C%E6%B5%8B%E9%87%8F/%E5%8D%A7%E5%BC%8F%E8%AE%BE%E5%A4%87/hyperion",
+         "claim": "专注于车削刀具的全能型产品",
+         "desc": "用于车削加工的卧式调校和测量设备",
+         "img": "/fileadmin/_processed_/1/8/csm_hyperion_preview_3b4c91eaf7.webp"
+        }
+       ]
+      },
+      {
+       "label": "自动化解决方案",
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E9%A2%84%E8%B0%83%E5%92%8C%E6%B5%8B%E9%87%8F/%E8%87%AA%E5%8A%A8%E5%8C%96%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88",
+       "children": [
+        {
+         "label": "»coraMeasure LG«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%B7%A5%E5%85%B7%E5%87%86%E5%A4%87/corameasure-lg",
+         "claim": "自动刀具测量",
+         "desc": "ZOLLER »»venturion«« 的经济型刀具处理系统",
+         "img": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_b31336460f.webp"
+        },
+        {
+         "label": "»roboBox«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%B7%A5%E5%85%B7%E5%87%86%E5%A4%87/robobox",
+         "claim": "面向模具车间的模块化自动化",
+         "desc": "最多可配备六个模块，用于装配、清洁、测量、热缩等常规操作",
+         "img": "/fileadmin/_processed_/7/a/csm_roboBox_preview_ae1a1aba4b.webp"
+        }
+       ]
+      },
+      {
+       "label": "数控石材加工",
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E9%A2%84%E8%B0%83%E5%92%8C%E6%B5%8B%E9%87%8F/%E6%95%B0%E6%8E%A7%E7%9F%B3%E6%9D%90%E5%8A%A0%E5%B7%A5",
+       "children": [
+        {
+         "label": "»smile GBO«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E9%A2%84%E8%B0%83%E5%92%8C%E6%B5%8B%E9%87%8F/%E6%95%B0%E6%8E%A7%E7%9F%B3%E6%9D%90%E5%8A%A0%E5%B7%A5/smile-gbo",
+         "claim": "测量石制工具和木制工具",
+         "desc": "借助大视场光学系统，可实现特别精确的高度测量",
+         "img": "/fileadmin/_processed_/f/4/csm_smileGBO_preview_63b44ef4c9.webp"
+        },
+        {
+         "label": "»conDress«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F/%E6%95%B0%E6%8E%A7%E7%9F%B3%E6%9D%90%E5%8A%A0%E5%B7%A5/condress",
+         "claim": "金刚石镶嵌磨削面的清洁",
+         "desc": "石材加工工具的清洁与切削性能恢复",
+         "img": "/fileadmin/_processed_/8/5/csm_conDress_preview_7966236664.webp"
+        }
+       ]
+      },
+      {
+       "label": "特殊解决方案",
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E9%A2%84%E8%B0%83%E5%92%8C%E6%B5%8B%E9%87%8F/%E5%AE%9A%E5%88%B6%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88",
+       "children": [
+        {
+         "label": "特殊解决方案",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E9%A2%84%E8%B0%83%E5%92%8C%E6%B5%8B%E9%87%8F/%E5%AE%9A%E5%88%B6%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E5%AE%9A%E5%88%B6%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88",
+         "claim": "满足您个性化需求的解决方案"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "刀具管理",
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86",
+     "children": [
+      {
+       "label": "软件",
+       "href": "/ch/software"
+      },
+      {
+       "label": "刀具仓库",
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E4%BB%93%E5%BA%93",
+       "children": [
+        {
+         "label": "»twister«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E4%BB%93%E5%BA%93/twister",
+         "claim": "储物柜",
+         "desc": "适用于工具部件和配件",
+         "img": "/fileadmin/_processed_/0/1/csm_twister__preview_9c9c9e9f21.webp"
+        },
+        {
+         "label": "»autoLock«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E4%BB%93%E5%BA%93/autolock",
+         "claim": "储物柜",
+         "desc": "适用于检测设备、操作材料及大型部件",
+         "img": "/fileadmin/_processed_/2/7/csm_autolock__preview_89166f3498.webp"
+        },
+        {
+         "label": "»toolOrganizer«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E4%BB%93%E5%BA%93/toolorganizer",
+         "claim": "工具柜",
+         "desc": "适用于切削工具和小型零件",
+         "img": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_bbf66a1054.webp"
+        },
+        {
+         "label": "»keeper«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E4%BB%93%E5%BA%93/keeper",
+         "claim": "工具柜",
+         "desc": "适用于成套刀具和刀柄",
+         "img": "/fileadmin/_processed_/b/a/csm_keeper_preview_f25bf71aa1.webp"
+        },
+        {
+         "label": "»z.Storage«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E4%BB%93%E5%BA%93/zstorage",
+         "claim": "工具仓库的物料搬运",
+         "desc": "您的商品将按照自动售货机的原理进行发放",
+         "img": "/fileadmin/_processed_/f/5/csm_zStorage_preview_f2484908b6.webp"
+        }
+       ]
+      },
+      {
+       "label": "刀具组装",
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%AE%89%E8%A3%85",
+       "children": [
+        {
+         "label": "»zTower«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%AE%89%E8%A3%85/ztower",
+         "claim": "装配工位",
+         "desc": "适用于通用工具安装",
+         "img": "/fileadmin/_processed_/2/6/csm_zTower_preview_03c8143f73.webp"
+        },
+        {
+         "label": "»toolStation«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%AE%89%E8%A3%85/toolstation",
+         "claim": "工作台",
+         "desc": "实现最佳的刀具安装",
+         "img": "/fileadmin/_processed_/a/f/csm_toolStation_preview_284869f711.webp"
+        }
+       ]
+      },
+      {
+       "label": "刀具运输",
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E8%BF%90%E8%BE%93",
+       "children": [
+        {
+         "label": "»toolCart«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E8%BF%90%E8%BE%93/toolcart",
+         "claim": "工具车",
+         "desc": "便于工具运输",
+         "img": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_f133269ad8.webp"
+        }
+       ]
+      },
+      {
+       "label": "数据传输",
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93",
+       "children": [
+        {
+         "label": "»zidCode«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93/zidcode",
+         "claim": "无误地传输刀具数据",
+         "desc": "通过简化的刀具数据管理提升安全性和效率",
+         "img": "/fileadmin/_processed_/e/c/csm_zidCode_preview_21aa224ca2.webp"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "检测和测量",
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F",
+     "children": [
+      {
+       "label": "通用测量机",
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F/%E9%80%9A%E7%94%A8%E6%B5%8B%E9%87%8F%E6%9C%BA",
+       "children": [
+        {
+         "label": "»genius«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F/%E9%80%9A%E7%94%A8%E6%B5%8B%E9%87%8F%E6%9C%BA/%E5%A4%A9%E6%89%8D",
+         "claim": "对切削工具进行非接触式测量和检测",
+         "desc": "可超精准监测100余项参数，并在全球范围内经过1000多次实践验证",
+         "img": "/fileadmin/_processed_/0/d/csm_genius_1_d819caed90.webp"
+        },
+        {
+         "label": "»titan«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F/%E9%80%9A%E7%94%A8%E6%B5%8B%E9%87%8F%E6%9C%BA/titan",
+         "claim": "高端版测试与测量机",
+         "desc": "致渴望了解一切的专家——包括切缘预备",
+         "img": "/fileadmin/_processed_/3/b/csm_titan__preview_7e0a3aa7f3.webp"
+        },
+        {
+         "label": "»smartCheck«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F/%E9%80%9A%E7%94%A8%E6%B5%8B%E9%87%8F%E6%9C%BA/smartcheck",
+         "claim": "一台设备即可完成预调、测量和检测",
+         "desc": "配备辅助投射光和增强型图像分析功能的调节与测量设备",
+         "img": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_ca2a5afc34.webp"
+        }
+       ]
+      },
+      {
+       "label": "过程导向测量",
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F/%E9%9D%A2%E5%90%91%E6%B5%81%E7%A8%8B%E7%9A%84%E6%B5%8B%E9%87%8F",
+       "children": [
+        {
+         "label": "»pomBasic«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F/%E9%9D%A2%E5%90%91%E6%B5%81%E7%A8%8B%E7%9A%84%E6%B5%8B%E9%87%8F/pombasic",
+         "claim": "用于生产过程中的精准人工检测",
+         "desc": "在加工过程中对刀具的70多个参数进行检测",
+         "img": "/fileadmin/_processed_/5/f/csm_pombasic__preview_2a4f915bf9.webp"
+        },
+        {
+         "label": "»mμFocus«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F/%E9%9D%A2%E5%90%91%E6%B5%81%E7%A8%8B%E7%9A%84%E6%B5%8B%E9%87%8F/mmfocus",
+         "claim": "适用于»skp«和表面粗糙度的二合一设备",
+         "desc": "分析表面形态并生成刀具刃口的3D图像",
+         "img": "/fileadmin/_processed_/c/0/csm_myFocus__preview_4b3d285137.webp"
+        }
+       ]
+      },
+      {
+       "label": "自动化解决方案",
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F/%E8%87%AA%E5%8A%A8%E5%8C%96%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88",
+       "children": [
+        {
+         "label": "»roboSet 2«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%88%80%E5%85%B7%E6%A3%80%E6%B5%8B/roboset-2",
+         "claim": "全天候工具检测与记录",
+         "desc": "适用于 »genius«、»3dCheck«、»threadCheck«、»titan« 和 »»edgeControl«« 的刀具处理",
+         "img": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_354a6e7ab1.webp"
+        }
+       ]
+      },
+      {
+       "label": "数控石材加工",
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F/%E6%95%B0%E6%8E%A7%E7%9F%B3%E6%9D%90%E5%8A%A0%E5%B7%A5",
+       "children": [
+        {
+         "label": "»conDiaZ«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F/%E6%95%B0%E6%8E%A7%E7%9F%B3%E6%9D%90%E5%8A%A0%E5%B7%A5/condiaz",
+         "claim": "几秒钟内即可完成精确的轮廓测量",
+         "desc": "专用于测量和检测金刚石涂层石材加工工具的检测设备",
+         "img": "/fileadmin/_processed_/b/1/csm_conDiaz_preview_8d8faa8ebf.webp"
+        },
+        {
+         "label": "»conDress«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F/%E6%95%B0%E6%8E%A7%E7%9F%B3%E6%9D%90%E5%8A%A0%E5%B7%A5/condress",
+         "claim": "金刚石镶嵌磨削面的清洁",
+         "desc": "石材加工工具的清洁与切削性能恢复",
+         "img": "/fileadmin/_processed_/8/5/csm_conDress_preview_7966236664.webp"
+        }
+       ]
+      },
+      {
+       "label": "特殊解决方案",
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F/%E5%AE%9A%E5%88%B6%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88",
+       "children": [
+        {
+         "label": "特殊解决方案",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F/%E5%AE%9A%E5%88%B6%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E5%AE%9A%E5%88%B6%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88",
+         "claim": "满足您个性化需求的解决方案"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "自动化",
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E8%87%AA%E5%8A%A8%E5%8C%96",
+     "children": [
+      {
+       "label": "刀具物流",
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%B7%A5%E5%85%B7%E7%89%A9%E6%B5%81",
+       "children": [
+        {
+         "label": "»coraLogistic«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%B7%A5%E5%85%B7%E7%89%A9%E6%B5%81/coralogistic",
+         "claim": "自动化车间物流",
+         "desc": "适用于工具仓库、工具准备区与数控机床之间的物料运输任务",
+         "img": "/fileadmin/_processed_/c/0/csm_coraLogistics_preview_4e713a1c9b.webp"
+        },
+        {
+         "label": "»coraMachineLoad«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%B7%A5%E5%85%B7%E7%89%A9%E6%B5%81/coramachineload",
+         "claim": "全自动对数控机床进行装卸",
+         "desc": "在物流区与机床刀库之间实现精准且准时的刀具处理",
+         "img": "/fileadmin/_processed_/e/e/csm_coraMaschineLoad_preview_f78fc031d8.webp"
+        }
+       ]
+      },
+      {
+       "label": "刀具准备",
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%B7%A5%E5%85%B7%E5%87%86%E5%A4%87",
+       "children": [
+        {
+         "label": "»coraMeasure LG«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%B7%A5%E5%85%B7%E5%87%86%E5%A4%87/corameasure-lg",
+         "claim": "自动刀具测量",
+         "desc": "ZOLLER »»venturion«« 的经济型刀具处理系统",
+         "img": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_b31336460f.webp"
+        },
+        {
+         "label": "»roboBox«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%B7%A5%E5%85%B7%E5%87%86%E5%A4%87/robobox",
+         "claim": "面向模具车间的模块化自动化",
+         "desc": "最多可配备六个模块，用于装配、清洁、测量、热缩等常规操作",
+         "img": "/fileadmin/_processed_/7/a/csm_roboBox_preview_ae1a1aba4b.webp"
+        },
+        {
+         "label": "»micBox«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%B7%A5%E5%85%B7%E5%87%86%E5%A4%87/micbox",
+         "claim": "可转位刀片的有效处理",
+         "desc": "负责可转位刀片的旋转、翻转和更换",
+         "img": "/fileadmin/_processed_/6/a/csm_micbox_preview_e6568b3640.webp"
+        }
+       ]
+      },
+      {
+       "label": "刀具配置",
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%B7%A5%E5%85%B7%E9%85%8D%E7%BD%AE",
+       "children": [
+        {
+         "label": "»loadBox«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%B7%A5%E5%85%B7%E9%85%8D%E7%BD%AE/loadbox",
+         "claim": "智能工具中心",
+         "desc": "根据订单拣选工具，并将其备妥供物流使用",
+         "img": "/fileadmin/_processed_/5/3/csm_loadBox_preview_d9538dbfe3.webp"
+        }
+       ]
+      },
+      {
+       "label": "刀具检测",
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%88%80%E5%85%B7%E6%A3%80%E6%B5%8B",
+       "children": [
+        {
+         "label": "»roboSet 2«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%88%80%E5%85%B7%E6%A3%80%E6%B5%8B/roboset-2",
+         "claim": "全天候工具检测与文档记录",
+         "desc": "适用于 »»genius««、»»3dCheck««、»»threadCheck««、»»titan«« 和 »»edgeControl«« 的刀具处理",
+         "img": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_354a6e7ab1.webp"
+        }
+       ]
+      },
+      {
+       "label": "激光标记",
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E8%87%AA%E5%8A%A8%E5%8C%96/%E6%BF%80%E5%85%89%E6%A0%87%E8%AE%B0",
+       "children": [
+        {
+         "label": "»roboMark«",
+         "href": "/ch/%E4%BA%A7%E5%93%81/%E8%87%AA%E5%8A%A8%E5%8C%96/%E6%BF%80%E5%85%89%E6%A0%87%E8%AE%B0/robomark",
+         "claim": "激光打标机",
+         "desc": "快速、精准地为您的工具进行标记",
+         "img": "/fileadmin/_processed_/9/c/csm_roboMark_preview_ecf02129c4.webp"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "刀具热缩技术",
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%83%AD%E7%BC%A9%E6%8A%80%E6%9C%AF",
+     "children": [
+      {
+       "label": "»powerShrink«",
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%83%AD%E7%BC%A9%E6%8A%80%E6%9C%AF/powershrink",
+       "claim": "工具缩小",
+       "desc": "兼具最佳能效与最高安全性的热缩系统",
+       "img": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_8e31408c1d.webp"
+      },
+      {
+       "label": "»redomatic«",
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%83%AD%E7%BC%A9%E6%8A%80%E6%9C%AF/redomatic",
+       "claim": "收缩与测量",
+       "desc": "带集成工具热缩系统的通用调节和测量设备",
+       "img": "/fileadmin/_processed_/f/b/csm_redomatic_preview_afc51b7ecf.webp"
+      }
+     ]
+    },
+    {
+     "label": "刀具解决方案",
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E5%A4%B9%E5%A4%B4",
+     "children": [
+      {
+       "label": "工装车间",
+       "href": "https://myzoller.com/de/de/shop/tooling",
+       "claim": "超过2500种刀柄",
+       "desc": "可选配 »»idChip««，通过实时更新的刀具数据提升加工可靠性。兼容 ZOLLER TMS 刀具管理解决方案。",
+       "img": "/fileadmin/_processed_/3/f/csm_ToolingSolutions4_preview_6c25bb2bd5.webp"
+      }
+     ]
+    },
+    {
+     "label": "刀具平衡技术",
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E5%B9%B3%E8%A1%A1%E6%8A%80%E6%9C%AF",
+     "children": [
+      {
+       "label": "»toolBalancer«",
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E5%B9%B3%E8%A1%A1%E6%8A%80%E6%9C%AF/toolbalancer",
+       "claim": "工具动平衡",
+       "desc": "这款动平衡系统融合了最先进的技术与符合人体工学的设计",
+       "img": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_c222571512.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "ZOLLER学院",
+   "href": "/ch/%E5%AD%A6%E9%99%A2"
+  },
+  {
+   "label": "活动资讯",
+   "href": "/ch/%E6%B4%BB%E5%8A%A8-1"
+  },
+  {
+   "label": "关于ZOLLER",
+   "href": "/ch/%E4%BC%81%E4%B8%9A",
+   "children": [
+    {
+     "label": "显示概览",
+     "href": "/ch/%E4%BC%81%E4%B8%9A"
+    },
+    {
+     "label": "企业概况",
+     "href": "/ch/%E4%BC%81%E4%B8%9A/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99",
+     "children": [
+      {
+       "label": "关于 ZOLLER",
+       "href": "/ch/%E4%BC%81%E4%B8%9A/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99"
+      },
+      {
+       "label": "客户参考",
+       "href": "/ch/%E4%BC%81%E4%B8%9A/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99"
+      },
+      {
+       "label": "合作伙伴",
+       "href": "/ch/%E4%BC%81%E4%B8%9A/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99/%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4"
+      },
+      {
+       "label": "ZOLLER历史",
+       "href": "/ch/%E4%BC%81%E4%B8%9A/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99/%E5%8E%86%E5%8F%B2"
+      }
+     ]
+    },
+    {
+     "label": "联系我们",
+     "href": "/ch/%E4%BC%81%E4%B8%9A/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC",
+     "children": [
+      {
+       "label": "联系表单",
+       "href": "/ch/%E4%BC%81%E4%B8%9A/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC"
+      },
+      {
+       "label": "ZOLLER网点",
+       "href": "/ch/%E4%BC%81%E4%B8%9A/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC/%E5%9C%B0%E7%82%B9"
+      },
+      {
+       "label": "智能工厂",
+       "href": "/ch/%E4%BC%81%E4%B8%9A/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC/%E6%99%BA%E8%83%BD%E5%B7%A5%E5%8E%82"
+      },
+      {
+       "label": "联系人",
+       "href": "/ch/%E4%BC%81%E4%B8%9A/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC/%E8%81%94%E7%B3%BB%E4%BA%BA"
+      },
+      {
+       "label": "一对一专业咨询",
+       "href": "https://myzoller.com/de/de/expert/booking"
+      },
+      {
+       "label": "培训与教育",
+       "href": "/ch/%E4%BC%81%E4%B8%9A/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC/%E5%9F%B9%E8%AE%AD%E4%B8%8E%E6%95%99%E8%82%B2"
+      },
+      {
+       "label": "新闻资讯",
+       "href": "/ch/%E4%BC%81%E4%B8%9A/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC/%E7%94%B5%E5%AD%90%E6%8A%A5"
+      }
+     ]
+    },
+    {
+     "label": "工作机会",
+     "href": "/ch/%E4%BC%81%E4%B8%9A/%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95",
+     "children": [
+      {
+       "label": "诚聘英才",
+       "href": "/ch/%E4%BC%81%E4%B8%9A/%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95"
+      },
+      {
+       "label": "招聘信息",
+       "href": "/ch/%E4%BC%81%E4%B8%9A/%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95/%E6%8B%9B%E8%81%98%E4%BF%A1%E6%81%AF"
+      },
+      {
+       "label": "常见问题解答",
+       "href": "/ch/%E4%BC%81%E4%B8%9A/%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94"
+      },
+      {
+       "label": "求职申请",
+       "href": "/ch/%E4%BC%81%E4%B8%9A/%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95/%E7%94%B3%E8%AF%B7"
+      }
+     ]
+    },
+    {
+     "label": "应用案例",
+     "href": "/ch/%E4%BC%81%E4%B8%9A/%E6%8A%A5%E5%91%8A%E4%B8%8E%E6%95%85%E4%BA%8B"
+    },
+    {
+     "label": "媒体",
+     "href": "/ch/%E4%BC%81%E4%B8%9A/%E5%AA%92%E4%BD%93"
+    },
+    {
+     "label": "可持续发展",
+     "href": "/ch/%E4%BC%81%E4%B8%9A/%E5%8F%AF%E6%8C%81%E7%BB%AD%E5%8F%91%E5%B1%95"
+    },
+    {
+     "label": "质量管理",
+     "href": "/ch/%E4%BC%81%E4%B8%9A/%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86"
+    },
+    {
+     "label": "商业规范",
+     "href": "/ch/%E4%BC%81%E4%B8%9A/%E5%90%88%E8%A7%84"
+    }
+   ]
+  }
+ ],
+ "footer_links": [
+  {
+   "label": "Go up",
+   "href": "#body"
+  },
+  {
+   "label": "系统方案",
+   "href": "/ch/%E8%AF%A5%E7%B3%BB%E7%BB%9F"
+  },
+  {
+   "label": "成功案例",
+   "href": "/ch/%E6%82%A8%E7%9A%84%E6%88%90%E5%8A%9F"
+  },
+  {
+   "label": "解决方案",
+   "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88"
+  },
+  {
+   "label": "产品系列",
+   "href": "/ch/%E4%BA%A7%E5%93%81"
+  },
+  {
+   "label": "ZOLLER学院",
+   "href": "/ch/%E5%AD%A6%E9%99%A2"
+  },
+  {
+   "label": "活动资讯",
+   "href": "/ch/%E6%B4%BB%E5%8A%A8-1"
+  },
+  {
+   "label": "关于ZOLLER",
+   "href": "/ch/%E4%BC%81%E4%B8%9A"
+  },
+  {
+   "label": "服务",
+   "href": "/ch/%E4%BC%81%E4%B8%9A/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC/%E8%81%94%E7%B3%BB%E4%BA%BA"
+  },
+  {
+   "label": "媒体",
+   "href": "/ch/%E4%BC%81%E4%B8%9A/%E5%AA%92%E4%BD%93"
+  },
+  {
+   "label": "工作机会",
+   "href": "/ch/%E4%BC%81%E4%B8%9A/%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95"
+  },
+  {
+   "label": "经济效益计算器",
+   "href": "/ch/%E7%BB%8F%E6%B5%8E%E6%95%88%E7%9B%8A%E8%AE%A1%E7%AE%97%E5%99%A8"
+  },
+  {
+   "label": "联系人",
+   "href": "/ch/%E4%BC%81%E4%B8%9A/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC/%E8%81%94%E7%B3%BB%E4%BA%BA"
+  },
+  {
+   "label": "发送电子邮件",
+   "href": "mailto:info@zoller.info"
+  },
+  {
+   "label": "ZOLLER 服务",
+   "href": "/ch/%E4%BC%81%E4%B8%9A/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC/%E8%81%94%E7%B3%BB%E4%BA%BA"
+  },
+  {
+   "label": "软件更新",
+   "href": "/ch/%E8%BD%AF%E4%BB%B6%E6%9B%B4%E6%96%B0"
+  },
+  {
+   "label": "在线支持",
+   "href": "/ch/%E5%9C%A8%E7%BA%BF%E6%94%AF%E6%8C%81"
+  },
+  {
+   "label": "业务领域",
+   "href": "/ch/%E4%B8%9A%E5%8A%A1%E9%A2%86%E5%9F%9F"
+  },
+  {
+   "label": "订阅电子报",
+   "href": "/ch/%E4%BC%81%E4%B8%9A/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC/%E7%94%B5%E5%AD%90%E6%8A%A5"
+  },
+  {
+   "label": "一般采购条款",
+   "href": "/ch/%E4%B8%80%E8%88%AC%E9%87%87%E8%B4%AD%E6%9D%A1%E6%AC%BE"
+  },
+  {
+   "label": "融资方案",
+   "href": "https://www.goleasing.com/zoller/"
+  },
+  {
+   "label": "LinkedIn",
+   "href": "https://www.linkedin.com/company/zollersolutions"
+  },
+  {
+   "label": "YouTube",
+   "href": "https://www.youtube.com/user/zollertv"
+  },
+  {
+   "label": "联系我们",
+   "href": "/ch/%E4%BC%81%E4%B8%9A/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC"
+  },
+  {
+   "label": "隐私政策",
+   "href": "/ch/%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96"
+  },
+  {
+   "label": "免责声明",
+   "href": "/ch/%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E"
+  },
+  {
+   "label": "版权声明",
+   "href": "/ch/%E7%89%88%E6%9D%83%E5%A3%B0%E6%98%8E"
+  },
+  {
+   "label": "Cookie settings",
+   "href": "#"
+  }
+ ]
+}

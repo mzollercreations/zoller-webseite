@@ -1,0 +1,290 @@
+{
+ "path": "/dispositivo-di-preimpostazione",
+ "url": "/it/dispositivo-di-preimpostazione",
+ "title": "Presetting",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/it/home-page"
+  },
+  {
+   "label": "Presetting",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/it/home-page"
+  },
+  {
+   "label": "Presetting",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/voreinstellgeraet",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/preset-device",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/dispositivo-de-preajuste",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/appareil-de-prereglage",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/dispositivo-de-pre-ajuste",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/dispositivo-di-preimpostazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foerinstaellningsenhet",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/voreinstellgeraet",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/appareil-de-prereglage",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%97%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88%E8%A3%85%E7%BD%AE",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%82%AC%EC%A0%84-%EC%84%A4%EC%A0%95-%EC%9E%A5%EC%B9%98",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/preset-device",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/dispositivo-de-preajuste",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/dispositivo-de-pre-ajuste",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/b/1/csm_voreinstellen_venturion_header_222cabbd3d.webp",
+     "video": null,
+     "title": "I dispositivi di preimpostazione aumentano la produttività, la qualità e la sicurezza del processo",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8104",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">Tempo di preparazione breve, tempi di funzionamento della macchina elevati: questi sono i due fattori più importanti per aumentare la produttività delle vostre macchine utensili. Uno strumento di preregulazione rileva in anticipo tutti i dati importanti e li trasferisce alla macchina senza errori.</p> <p class=\"extra-large-text\">Per poter lavorare con precisione, le macchine utensili CNC necessitano di dati utensile esatti. Se questi dati vengono rilevati in anticipo e al di fuori della macchina CNC, possono essere letti senza ritardi al momento di inserire l'utensile.</p> <p class=\"extra-large-text\">La trasmissione elettronica dei dati dal dispositivo di preselezione alla macchina utensile non solo evita errori di digitazione e altri problemi di trasmissione, ma viene anche completata in breve tempo. In questo modo il tempo di preparazione viene ridotto al minimo, mentre il tempo di configurazione del nuovo utensile è di fatto pari a zero, consentendo di massimizzare la durata degli utensili.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8105",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Dispositivo di presetting: i vantaggi </h2>",
+   "body": "<ul><li>Presetting e tempo di preparazione separati: gli utensili possono essere preparati mentre la macchina utensile CNC è ancora in funzione; ciò può avvenire anche in luoghi separati, se ciò facilita o accelera i processi di lavoro.</li><li>Nessun tempo di configurazione: grazie alla trasmissione elettronica dei dati utensile preparati, il comando macchina riceve le informazioni corrette senza ritardi e senza errori.</li><li>Maggiore sicurezza per il processo: nessun errore di impostazione manuale grazie al trasferimento dati completamente elettronico direttamente dal dispositivo di preimpostazione alla macchina CNC.</li><li>Qualità fin dal primo pezzo: le vostre macchine, perfettamente alimentate con i dati, producono risultati eccellenti fin dal primo pezzo in lavorazione e senza scarti. Con utensili misurati con esattezza, inoltre, non si verificano crash e interruzioni.</li><li>Maggiore durata degli utensili: grazie alla riduzione dei tempi di preparazione e di configurazione, la macchina può lavorare in modo più efficace e produttivo. Con un controllo regolare della qualità del taglio nel dispositivo di presetting, la qualità è sempre al top.</li></ul>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/f/csm_voreinstellen_demonstration_84e2c4fdc8.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8108",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Lavorare meglio, in modo più efficace e produttivo con i dispositivi di preselezione ZOLLER </h2>",
+   "body": "<p><strong>Gli strumenti di preregulazione ZOLLER sono predisposti per tutte le applicazioni.</strong></p> <p>Le nostre macchine di misura funzionano con sistemi modulari, in modo da poter combinare le soluzioni adeguate per tutti i requisiti. Possono essere configurate con metodi di misura adeguati per parametri differenti e utensili, sia per la misurazione completamente automatica che manuale. Il risultato è sempre una misurazione di precisione.</p> <p>L'interfaccia utente intuitiva è estremamente semplice, sicura e comoda da usare. Gli strumenti offrono, tra le altre cose, il riconoscimento automatico del tagliente dell'utensile, un'impugnatura di comando a una mano per una facile regolazione del carrello e una tastiera a membrana per il bloccaggio e il blocco del mandrino ad azionamento meccanico.</p> <p>La trasmissione elettronica diretta dei dati dell'utensile, che rende gli errori di immissione un ricordo del passato, è ovviamente possibile con tutti gli strumenti. Gli strumenti di preselezione ZOLLER offrono differenti varianti per la trasmissione sicura dei dati alla macchina, sia per le PMI che per le grandi aziende, sia per Heller, Index o altri produttori di macchine.</p> <p>A ciò si aggiungono semplici opzioni per l'importazione e l'esportazione dei dati utensile e altre funzionalità.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/1/csm_voreinstellen_fertigung_782ce05bd8.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8109",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/2/csm_teaser_presetting_small_4ff7902d1b.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Impostazione e misurazione: i vostri vantaggi",
+     "href": "/it/solutions/regolazione-e-misurazione",
+     "caption": "<figcaption> <h3>Impostazione e misurazione: i vostri vantaggi</h3> <p>Scoprite perché i dispositivi di presetting e di macchina di misurazione riducono i costi e i tempi di lavorazione. Gli effetti sono scalabili e possono comportare notevoli risparmi. </p> <br/> Scopri di più </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Colloquio con esperti",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Colloquio con esperti</h3> <p>Uno scambio individuale sui vostri obiettivi e sulle nostre idee per raggiungerli. La consulenza online di ZOLLER direttamente dalla Smart Factory. Fissate subito un appuntamento.</p> <br/> Scopri di più </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3837",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/it/dispositivo-di-preimpostazione",
+ "de_path": "/voreinstellgeraet"
+}

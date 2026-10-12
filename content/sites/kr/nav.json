@@ -1,0 +1,817 @@
+{
+ "meta": [
+  {
+   "label": "서비스",
+   "href": "/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98/%EB%8B%B4%EB%8B%B9%EC%9E%90"
+  },
+  {
+   "label": "미디어",
+   "href": "/kr/%EA%B8%B0%EC%97%85/%EB%AF%B8%EB%94%94%EC%96%B4"
+  },
+  {
+   "label": "채용 정보",
+   "href": "/kr/%EA%B8%B0%EC%97%85/%EC%B1%84%EC%9A%A9-%EC%A0%95%EB%B3%B4"
+  }
+ ],
+ "main": [
+  {
+   "label": "시스템",
+   "href": "/kr/%EC%8B%9C%EC%8A%A4%ED%85%9C"
+  },
+  {
+   "label": "고객 성공 사례",
+   "href": "/kr/%EA%B7%80%ED%95%98%EC%9D%98-%EC%84%B1%EA%B3%B5"
+  },
+  {
+   "label": "솔루션",
+   "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98",
+   "children": [
+    {
+     "label": "왜 ZOLLER Solutions인가요?",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98"
+    },
+    {
+     "label": "프리세팅 및 측정",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95"
+    },
+    {
+     "label": "Toolmanagement",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/toolmanagement",
+     "children": [
+      {
+       "label": "개요",
+       "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/toolmanagement"
+      },
+      {
+       "label": "TMS Software",
+       "href": "/kr/solutions/toolmanagement/tms-software"
+      },
+      {
+       "label": "TMS Hardware",
+       "href": "/kr/solutions/toolmanagement/tms-hardware"
+      }
+     ]
+    },
+    {
+     "label": "검사 및 측정",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95"
+    },
+    {
+     "label": "자동화",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%9E%90%EB%8F%99%ED%99%94",
+     "children": [
+      {
+       "label": "개요",
+       "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%9E%90%EB%8F%99%ED%99%94"
+      },
+      {
+       "label": "물류",
+       "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%9E%90%EB%8F%99%ED%99%94/%EB%AC%BC%EB%A5%98"
+      },
+      {
+       "label": "공구 준비",
+       "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A4%80%EB%B9%84"
+      },
+      {
+       "label": "공구 제공",
+       "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A0%9C%EA%B3%B5"
+      },
+      {
+       "label": "공구 검사",
+       "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EA%B2%80%EC%82%AC"
+      }
+     ]
+    },
+    {
+     "label": "열박음 기술",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%88%98%EC%B6%95-%EA%B8%B0%EC%88%A0"
+    },
+    {
+     "label": "공구 홀더",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94"
+    },
+    {
+     "label": "밸런싱 기술",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EB%B0%B8%EB%9F%B0%EC%8B%B1-%EA%B8%B0%EC%88%A0"
+    },
+    {
+     "label": "CNC 석재 가공",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/cnc-%EC%84%9D%EC%9E%AC-%EA%B0%80%EA%B3%B5"
+    }
+   ]
+  },
+  {
+   "label": "제품",
+   "href": "/kr/%EC%A0%9C%ED%92%88",
+   "children": [
+    {
+     "label": "제품 개요",
+     "href": "/kr/%EC%A0%9C%ED%92%88"
+    },
+    {
+     "label": "프리세팅 및 측정",
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95",
+     "children": [
+      {
+       "label": "수직형 프리세터",
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EC%88%98%EC%A7%81%ED%98%95-%EC%9E%A5%EB%B9%84",
+       "children": [
+        {
+         "label": "»smile«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EC%88%98%EC%A7%81%ED%98%95-%EC%9E%A5%EB%B9%84/smile",
+         "claim": "전문적인 공구 설정 및 측정을 위한 첫걸음",
+         "desc": "표준 공구를 위한 견고한 μm급 정밀 기본형 장비",
+         "img": "/fileadmin/_processed_/4/3/csm_smile_preview_6232033e55.webp"
+        },
+        {
+         "label": "»venturion«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EC%88%98%EC%A7%81%ED%98%95-%EC%9E%A5%EB%B9%84/venturion",
+         "claim": "최고 수준의 요구사항을 충족하는 모듈형 프리미엄 장비",
+         "desc": "다양한 옵션으로 완성하는 탁월한 공구 설정 및 측정",
+         "img": "/fileadmin/_processed_/7/d/csm_venturion_preview_7611e56f51.webp"
+        }
+       ]
+      },
+      {
+       "label": "수평형 프리세터",
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EC%88%98%ED%8F%89%ED%98%95-%EC%9E%A5%EB%B9%84",
+       "children": [
+        {
+         "label": "»hyperion«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EC%88%98%ED%8F%89%ED%98%95-%EC%9E%A5%EB%B9%84/hyperion",
+         "claim": "선삭 공구에 특화된 올라운더",
+         "desc": "선삭 생산 현장을 위한 수평형 공구 프리세터",
+         "img": "/fileadmin/_processed_/1/8/csm_hyperion_preview_3b4c91eaf7.webp"
+        }
+       ]
+      },
+      {
+       "label": "자동화 솔루션",
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EC%9E%90%EB%8F%99%ED%99%94-%EC%86%94%EB%A3%A8%EC%85%98",
+       "children": [
+        {
+         "label": "»coraMeasure LG«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A4%80%EB%B9%84/corameasure-lg",
+         "claim": "자동화된 공구 측정",
+         "desc": "ZOLLER »venturion«을 위한 경제적인 공구 핸들링",
+         "img": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_b31336460f.webp"
+        },
+        {
+         "label": "»roboBox«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A4%80%EB%B9%84/robobox",
+         "claim": "Toolroom을 위한 모듈형 자동화 솔루션",
+         "desc": "조립, 세척, 측정, 열박음 등 반복 작업을 위한 최대 6개 모듈 구성",
+         "img": "/fileadmin/_processed_/7/a/csm_roboBox_preview_ae1a1aba4b.webp"
+        }
+       ]
+      },
+      {
+       "label": "CNC 석재 가공",
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95/cnc-%EC%84%9D%EC%9E%AC-%EA%B0%80%EA%B3%B5",
+       "children": [
+        {
+         "label": "»smile | GBO«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95/cnc-%EC%84%9D%EC%9E%AC-%EA%B0%80%EA%B3%B5/smile-gbo",
+         "claim": "석기 및 목공구 측정",
+         "desc": "광각 렌즈를 통해 특히 정밀한 고도 측정이 가능합니다",
+         "img": "/fileadmin/_processed_/f/4/csm_smileGBO_preview_63b44ef4c9.webp"
+        },
+        {
+         "label": "»conDress«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/cnc-%EC%84%9D%EC%9E%AC-%EA%B0%80%EA%B3%B5/condress",
+         "claim": "다이아몬드 코팅 연마면의 세척",
+         "desc": "석재 가공 공구의 세척 및 절삭 성능 복원",
+         "img": "/fileadmin/_processed_/8/5/csm_conDress_preview_7966236664.webp"
+        }
+       ]
+      },
+      {
+       "label": "맞춤형 솔루션",
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EB%A7%9E%EC%B6%A4%ED%98%95-%EC%86%94%EB%A3%A8%EC%85%98",
+       "children": [
+        {
+         "label": "맞춤형 솔루션",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EB%A7%9E%EC%B6%A4%ED%98%95-%EC%86%94%EB%A3%A8%EC%85%98/%EB%A7%9E%EC%B6%A4%ED%98%95-%EC%86%94%EB%A3%A8%EC%85%98",
+         "claim": "고객님의 개별적인 요구 사항에 맞는 솔루션"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "공구 관리",
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC",
+     "children": [
+      {
+       "label": "Software",
+       "href": "/kr/software",
+       "children": [
+        {
+         "label": "»TMS Core«",
+         "href": "/kr/software/tms-core",
+         "claim": "모듈식 시스템",
+         "desc": "디지털 공구 관리를 위한 이상적인 출발점",
+         "img": "/fileadmin/_processed_/7/b/csm_TMSCore_product_664765c1fd.webp"
+        },
+        {
+         "label": "Add-on »z.Stock«",
+         "href": "/kr/software/add-on-zstock",
+         "claim": "정확한 재고량",
+         "desc": "공구 창고의 명확한 투명성을 보장합니다",
+         "img": "/fileadmin/_processed_/6/a/csm_zStock_product_5160ca87bf.webp"
+        },
+        {
+         "label": "Add-on »z.CAM Integration«",
+         "href": "/kr/software/add-on-zcam-integration",
+         "claim": "효율적인 워크플로우",
+         "desc": "시스템에 고성능 인터페이스를 추가하고 공구 데이터를 워크플로우에 직접 통합합니다",
+         "img": "/fileadmin/_processed_/9/6/csm_zCAM_Integration_product_5dd5c4a531.webp"
+        },
+        {
+         "label": "Add-on »z.Resources«",
+         "href": "/kr/software/add-on-zresources",
+         "claim": "핵심 역량",
+         "desc": "모든 추가 자원을 관리합니다",
+         "img": "/fileadmin/_processed_/b/9/csm_zResources_product_2eef7f49be.webp"
+        },
+        {
+         "label": "Add-on »z.Shopfloor«",
+         "href": "/kr/software/add-on-zshopfloor",
+         "claim": "디지털 투명성",
+         "desc": "생산 현장에서 바로 이루어지는 원활하고 효율적인 공구 순환",
+         "img": "/fileadmin/_processed_/2/e/csm_zShopfloor_product_ccbeaa7b22.webp"
+        },
+        {
+         "label": "Add-on »z.Connectivity«",
+         "href": "/kr/software/add-on-zconnectivity",
+         "claim": "안전한 데이터 전송",
+         "desc": "공구 측정, 공구 관리 및 기계 간의 원활한 디지털 연계",
+         "img": "/fileadmin/_processed_/d/a/csm_zConnectivity_product_8dec59a214.webp"
+        },
+        {
+         "label": "Add-on »z.Integration«",
+         "href": "/kr/software/add-on-zintegration",
+         "claim": "스마트 네트워킹",
+         "desc": "확장된 제조 환경을 위한 제조사 독립형 공구 관리 솔루션",
+         "img": "/fileadmin/_processed_/a/7/csm_zIntegration_product_5d9cbc0f19.webp"
+        }
+       ]
+      },
+      {
+       "label": "공구 재고 관리",
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0",
+       "children": [
+        {
+         "label": "»twister«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/twister",
+         "claim": "보관 캐비닛",
+         "desc": "공구 구성품 및 액세서리",
+         "img": "/fileadmin/_processed_/0/1/csm_twister__preview_9c9c9e9f21.webp"
+        },
+        {
+         "label": "»autoLock«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/autolock",
+         "claim": "보관 캐비닛",
+         "desc": "측정기, 소모품 및 대형 구성품용",
+         "img": "/fileadmin/_processed_/2/7/csm_autolock__preview_89166f3498.webp"
+        },
+        {
+         "label": "»toolOrganizer«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/toolorganizer",
+         "claim": "공구 캐비닛",
+         "desc": "절삭 공구 및 소형 부품용",
+         "img": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_bbf66a1054.webp"
+        },
+        {
+         "label": "»keeper«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/keeper",
+         "claim": "공구 캐비닛",
+         "desc": "완성 공구 및 공구 홀더용",
+         "img": "/fileadmin/_processed_/b/a/csm_keeper_preview_f25bf71aa1.webp"
+        },
+        {
+         "label": "»z.Storage«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/zstorage",
+         "claim": "공구 창고 취급",
+         "desc": "자판기 원리에 따라 귀하의 상품을 지급해 드립니다",
+         "img": "/fileadmin/_processed_/f/5/csm_zStorage_preview_f2484908b6.webp"
+        }
+       ]
+      },
+      {
+       "label": "공구 조립",
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%A1%B0%EB%A6%BD",
+       "children": [
+        {
+         "label": "»zTower«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%A1%B0%EB%A6%BD/ztower",
+         "claim": "조립 라인",
+         "desc": "범용 공구 장착용",
+         "img": "/fileadmin/_processed_/2/6/csm_zTower_preview_03c8143f73.webp"
+        },
+        {
+         "label": "»toolStation«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%A1%B0%EB%A6%BD/toolstation",
+         "claim": "작업대",
+         "desc": "공구를 최적으로 장착하기 위해",
+         "img": "/fileadmin/_processed_/a/f/csm_toolStation_preview_284869f711.webp"
+        }
+       ]
+      },
+      {
+       "label": "공구 운반",
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%9A%B4%EB%B0%98",
+       "children": [
+        {
+         "label": "»toolCart«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%9A%B4%EB%B0%98/toolcart",
+         "claim": "공구 수레",
+         "desc": "편리한 공구 운반을 위해",
+         "img": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_f133269ad8.webp"
+        }
+       ]
+      },
+      {
+       "label": "데이터 전송",
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1",
+       "children": [
+        {
+         "label": "»zidCode«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1/zidcode",
+         "claim": "공구 데이터를 오류 없이 전송",
+         "desc": "간편한 공구 데이터 관리를 통한 보안 및 효율성 향상",
+         "img": "/fileadmin/_processed_/e/c/csm_zidCode_preview_21aa224ca2.webp"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "검사 및 측정",
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95",
+     "children": [
+      {
+       "label": "범용 측정기",
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EB%B2%94%EC%9A%A9-%EC%B8%A1%EC%A0%95%EA%B8%B0",
+       "children": [
+        {
+         "label": "»genius«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EB%B2%94%EC%9A%A9-%EC%B8%A1%EC%A0%95%EA%B8%B0/genius",
+         "claim": "절삭 공구의 비접촉식 측정 및 검사",
+         "desc": "100개 이상의 매개변수를 초정밀하게 측정하며, 전 세계적으로 1,000회 이상 그 성능을 입증했습니다",
+         "img": "/fileadmin/_processed_/0/d/csm_genius_1_d819caed90.webp"
+        },
+        {
+         "label": "»titan«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EB%B2%94%EC%9A%A9-%EC%B8%A1%EC%A0%95%EA%B8%B0/titan",
+         "claim": "최고급 사양의 시험 및 측정 장비",
+         "desc": "모든 것을 알고 싶어 하는 전문가들을 위해 – 절삭면 전처리 포함",
+         "img": "/fileadmin/_processed_/3/b/csm_titan__preview_7e0a3aa7f3.webp"
+        },
+        {
+         "label": "»smartCheck«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EB%B2%94%EC%9A%A9-%EC%B8%A1%EC%A0%95%EA%B8%B0/smartcheck",
+         "claim": "설정, 측정, 검증을 하나의 기기로",
+         "desc": "추가 투과광 기능과 향상된 이미지 분석 기능을 갖춘 설정 및 측정 기기",
+         "img": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_ca2a5afc34.webp"
+        }
+       ]
+      },
+      {
+       "label": "프로세스 중심의 측정",
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%A4%91%EC%8B%AC%EC%9D%98-%EC%B8%A1%EC%A0%95",
+       "children": [
+        {
+         "label": "»pomBasic«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%A4%91%EC%8B%AC%EC%9D%98-%EC%B8%A1%EC%A0%95/pombasic",
+         "claim": "생산 공정에서 정밀한 수동 검사를 위해",
+         "desc": "공구에서 70개 이상의 파라미터를 공정과 연동하여 측정",
+         "img": "/fileadmin/_processed_/5/f/csm_pombasic__preview_2a4f915bf9.webp"
+        },
+        {
+         "label": "»mμFocus«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%A4%91%EC%8B%AC%EC%9D%98-%EC%B8%A1%EC%A0%95/mmfocus",
+         "claim": "SKP 및 표면 거칠기 측정을 위한 2-in-1 장비",
+         "desc": "지형을 분석하고 공구 날의 3D 이미지를 생성합니다",
+         "img": "/fileadmin/_processed_/c/0/csm_myFocus__preview_4b3d285137.webp"
+        }
+       ]
+      },
+      {
+       "label": "자동화 솔루션",
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EC%9E%90%EB%8F%99%ED%99%94-%EC%86%94%EB%A3%A8%EC%85%98",
+       "children": [
+        {
+         "label": "»roboSet 2«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EA%B2%80%EC%82%AC/roboset-2",
+         "claim": "24시간 연중무휴 공구 검사 및 문서화",
+         "desc": "»genius«, »3dCheck«, »threadCheck«, »titan« 및 »edgeControl«용 공구 핸들링",
+         "img": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_354a6e7ab1.webp"
+        }
+       ]
+      },
+      {
+       "label": "CNC 석재 가공",
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/cnc-%EC%84%9D%EC%9E%AC-%EA%B0%80%EA%B3%B5",
+       "children": [
+        {
+         "label": "»conDiaZ«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/cnc-%EC%84%9D%EC%9E%AC-%EA%B0%80%EA%B3%B5/condiaz",
+         "claim": "몇 초 만에 정밀한 윤곽 측정",
+         "desc": "다이아몬드 코팅된 석재 가공 공구의 측정 및 검사를 위해 특별히 고안된 검사 장비",
+         "img": "/fileadmin/_processed_/b/1/csm_conDiaz_preview_8d8faa8ebf.webp"
+        },
+        {
+         "label": "»conDress«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/cnc-%EC%84%9D%EC%9E%AC-%EA%B0%80%EA%B3%B5/condress",
+         "claim": "다이아몬드 코팅 연마면의 세척",
+         "desc": "석재 가공 공구의 세척 및 절삭 능력 회복",
+         "img": "/fileadmin/_processed_/8/5/csm_conDress_preview_7966236664.webp"
+        }
+       ]
+      },
+      {
+       "label": "맞춤형 솔루션",
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EB%A7%9E%EC%B6%A4%ED%98%95-%EC%86%94%EB%A3%A8%EC%85%98",
+       "children": [
+        {
+         "label": "맞춤형 솔루션",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EB%A7%9E%EC%B6%A4%ED%98%95-%EC%86%94%EB%A3%A8%EC%85%98/%EB%A7%9E%EC%B6%A4%ED%98%95-%EC%86%94%EB%A3%A8%EC%85%98",
+         "claim": "고객님의 개별적인 요구 사항에 맞는 솔루션"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "자동화",
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94",
+     "children": [
+      {
+       "label": "공구 물류",
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EB%AC%BC%EB%A5%98",
+       "children": [
+        {
+         "label": "»coraLogistic«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EB%AC%BC%EB%A5%98/coralogistic",
+         "claim": "자동화된 생산 현장 물류",
+         "desc": "공구 창고, 공구 준비 공정 및 CNC 공작기계 간의 이송 작업용",
+         "img": "/fileadmin/_processed_/c/0/csm_coraLogistics_preview_4e713a1c9b.webp"
+        },
+        {
+         "label": "»coraMachineLoad«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EB%AC%BC%EB%A5%98/coramachineload",
+         "claim": "CNC 공작 기계의 적재 및 하역을 완전 자동으로 수행합니다",
+         "desc": "물류와 기계 매거진 간에 정밀하고 정확한 공구 이송",
+         "img": "/fileadmin/_processed_/e/e/csm_coraMaschineLoad_preview_f78fc031d8.webp"
+        }
+       ]
+      },
+      {
+       "label": "공구 준비",
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A4%80%EB%B9%84",
+       "children": [
+        {
+         "label": "»coraMeasure LG«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A4%80%EB%B9%84/corameasure-lg",
+         "claim": "자동화된 공구 측정",
+         "desc": "ZOLLER »venturion«을 위한 경제적인 공구 취급 시스템",
+         "img": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_b31336460f.webp"
+        },
+        {
+         "label": "»roboBox«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A4%80%EB%B9%84/robobox",
+         "claim": "공구실용 모듈형 자동화 시스템",
+         "desc": "조립, 세척, 측정, 수축 등 다양한 공정을 위한 최대 6개의 모듈",
+         "img": "/fileadmin/_processed_/7/a/csm_roboBox_preview_ae1a1aba4b.webp"
+        },
+        {
+         "label": "»micBox«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A4%80%EB%B9%84/micbox",
+         "claim": "인서트의 효율적인 취급",
+         "desc": "인서트의 회전, 뒤집기 및 교체 작업을 수행합니다",
+         "img": "/fileadmin/_processed_/6/a/csm_micbox_preview_e6568b3640.webp"
+        }
+       ]
+      },
+      {
+       "label": "공구 제공",
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A0%9C%EA%B3%B5",
+       "children": [
+        {
+         "label": "»loadBox«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A0%9C%EA%B3%B5/loadbox",
+         "claim": "스마트 공구 센터",
+         "desc": "주문에 따라 공구를 선별하여 물류 부서에 전달한다",
+         "img": "/fileadmin/_processed_/5/3/csm_loadBox_preview_d9538dbfe3.webp"
+        }
+       ]
+      },
+      {
+       "label": "공구 검사",
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EA%B2%80%EC%82%AC",
+       "children": [
+        {
+         "label": "»roboSet 2«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EA%B2%80%EC%82%AC/roboset-2",
+         "claim": "24시간 연중무휴 공구 검사 및 문서화",
+         "desc": "»genius«, »3dCheck«, »threadCheck«, »titan« 및 »edgeControl«용 공구 핸들링",
+         "img": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_354a6e7ab1.webp"
+        }
+       ]
+      },
+      {
+       "label": "레이저 마킹",
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EB%A0%88%EC%9D%B4%EC%A0%80-%EB%A7%88%ED%82%B9",
+       "children": [
+        {
+         "label": "»roboMark«",
+         "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EB%A0%88%EC%9D%B4%EC%A0%80-%EB%A7%88%ED%82%B9/robomark",
+         "claim": "레이저 마킹 장비",
+         "desc": "공구에 빠르고 정밀하게 표기를 하는 방법",
+         "img": "/fileadmin/_processed_/9/c/csm_roboMark_preview_ecf02129c4.webp"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "열박음 기술",
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EC%88%98%EC%B6%95-%EA%B8%B0%EC%88%A0",
+     "children": [
+      {
+       "label": "»powerShrink«",
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EC%88%98%EC%B6%95-%EA%B8%B0%EC%88%A0/powershrink",
+       "claim": "도구가 줄어들다",
+       "desc": "최적의 에너지 효율과 최고의 안전성을 갖춘 수축 시스템",
+       "img": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_8e31408c1d.webp"
+      },
+      {
+       "label": "»redomatic«",
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EC%88%98%EC%B6%95-%EA%B8%B0%EC%88%A0/redomatic",
+       "claim": "수축 및 측정",
+       "desc": "통합 공구 수축 시스템이 내장된 범용 조정 및 측정기",
+       "img": "/fileadmin/_processed_/f/b/csm_redomatic_preview_afc51b7ecf.webp"
+      }
+     ]
+    },
+    {
+     "label": "공구 홀더",
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94",
+     "children": [
+      {
+       "label": "Tooling Shop",
+       "href": "https://myzoller.com/de/de/shop/tooling",
+       "claim": "2,500개 이상의 공구 홀더",
+       "desc": "선택 사양인 »idChip을« 장착하면 최신 공구 데이터를 통해 공정 안정성을 높일 수 있습니다. ZOLLER TMS(Tool Management Solutions)와 호환됩니다.",
+       "img": "/fileadmin/_processed_/3/f/csm_ToolingSolutions4_preview_6c25bb2bd5.webp"
+      }
+     ]
+    },
+    {
+     "label": "밸런싱 기술",
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%B0%B8%EB%9F%B0%EC%8B%B1-%EA%B8%B0%EC%88%A0",
+     "children": [
+      {
+       "label": "»toolBalancer«",
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EB%B0%B8%EB%9F%B0%EC%8B%B1-%EA%B8%B0%EC%88%A0/toolbalancer",
+       "claim": "휠 밸런싱",
+       "desc": "최첨단 기술과 인체공학적 디자인을 갖춘 밸런싱 시스템",
+       "img": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_c222571512.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "아카데미",
+   "href": "/kr/%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8"
+  },
+  {
+   "label": "전시회 및 세미나",
+   "href": "/kr/%ED%96%89%EC%82%AC"
+  },
+  {
+   "label": "기업",
+   "href": "/kr/%EA%B8%B0%EC%97%85",
+   "children": [
+    {
+     "label": "목록 보기",
+     "href": "/kr/%EA%B8%B0%EC%97%85"
+    },
+    {
+     "label": "프로필",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84",
+     "children": [
+      {
+       "label": "졸러(ZOLLER) 소개",
+       "href": "/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84"
+      },
+      {
+       "label": "참고 자료",
+       "href": "/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84/%EC%B0%B8%EA%B3%A0-%EC%9E%90%EB%A3%8C"
+      },
+      {
+       "label": "파트너",
+       "href": "/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84/%ED%8C%8C%ED%8A%B8%EB%84%88"
+      },
+      {
+       "label": "연혁",
+       "href": "/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84/%EC%97%B0%ED%98%81"
+      }
+     ]
+    },
+    {
+     "label": "연락처",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98",
+     "children": [
+      {
+       "label": "문의 양식",
+       "href": "/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98"
+      },
+      {
+       "label": "위치",
+       "href": "/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98/%EC%9C%84%EC%B9%98"
+      },
+      {
+       "label": "스마트 팩토리",
+       "href": "/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98/%EC%8A%A4%EB%A7%88%ED%8A%B8-%ED%8C%A9%ED%86%A0%EB%A6%AC"
+      },
+      {
+       "label": "담당자",
+       "href": "/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98/%EB%8B%B4%EB%8B%B9%EC%9E%90"
+      },
+      {
+       "label": "1:1 전문가 상담",
+       "href": "https://myzoller.com/de/de/expert/booking"
+      },
+      {
+       "label": "교육 및 훈련",
+       "href": "/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%9B%88%EB%A0%A8"
+      },
+      {
+       "label": "뉴스레터",
+       "href": "/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98/%EB%89%B4%EC%8A%A4%EB%A0%88%ED%84%B0"
+      }
+     ]
+    },
+    {
+     "label": "채용 정보",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%EC%B1%84%EC%9A%A9-%EC%A0%95%EB%B3%B4",
+     "children": [
+      {
+       "label": "졸러에서 일하기",
+       "href": "/kr/%EA%B8%B0%EC%97%85/%EC%B1%84%EC%9A%A9-%EC%A0%95%EB%B3%B4"
+      },
+      {
+       "label": "채용 공고",
+       "href": "/kr/%EA%B8%B0%EC%97%85/%EC%B1%84%EC%9A%A9-%EC%A0%95%EB%B3%B4/%EC%B1%84%EC%9A%A9-%EA%B3%B5%EA%B3%A0"
+      },
+      {
+       "label": "자주 묻는 질문",
+       "href": "/kr/%EA%B8%B0%EC%97%85/%EC%B1%84%EC%9A%A9-%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8"
+      },
+      {
+       "label": "지원서",
+       "href": "/kr/%EA%B8%B0%EC%97%85/%EC%B1%84%EC%9A%A9-%EC%A0%95%EB%B3%B4/%EC%A7%80%EC%9B%90%EC%84%9C"
+      }
+     ]
+    },
+    {
+     "label": "보고서 및 기사",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%EB%B3%B4%EA%B3%A0%EC%84%9C-%EB%B0%8F-%EA%B8%B0%EC%82%AC"
+    },
+    {
+     "label": "미디어",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%EB%AF%B8%EB%94%94%EC%96%B4"
+    },
+    {
+     "label": "지속 가능성",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%EC%A7%80%EC%86%8D-%EA%B0%80%EB%8A%A5%EC%84%B1"
+    },
+    {
+     "label": "품질 관리",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%ED%92%88%EC%A7%88-%EA%B4%80%EB%A6%AC"
+    },
+    {
+     "label": "규정 준수",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%EA%B7%9C%EC%A0%95-%EC%A4%80%EC%88%98"
+    }
+   ]
+  }
+ ],
+ "footer_links": [
+  {
+   "label": "맨 위로 이동",
+   "href": "#body"
+  },
+  {
+   "label": "시스템",
+   "href": "/kr/%EC%8B%9C%EC%8A%A4%ED%85%9C"
+  },
+  {
+   "label": "고객 성공 사례",
+   "href": "/kr/%EA%B7%80%ED%95%98%EC%9D%98-%EC%84%B1%EA%B3%B5"
+  },
+  {
+   "label": "솔루션",
+   "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98"
+  },
+  {
+   "label": "제품",
+   "href": "/kr/%EC%A0%9C%ED%92%88"
+  },
+  {
+   "label": "아카데미",
+   "href": "/kr/%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8"
+  },
+  {
+   "label": "전시회 및 세미나",
+   "href": "/kr/%ED%96%89%EC%82%AC"
+  },
+  {
+   "label": "기업",
+   "href": "/kr/%EA%B8%B0%EC%97%85"
+  },
+  {
+   "label": "서비스",
+   "href": "/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98/%EB%8B%B4%EB%8B%B9%EC%9E%90"
+  },
+  {
+   "label": "미디어",
+   "href": "/kr/%EA%B8%B0%EC%97%85/%EB%AF%B8%EB%94%94%EC%96%B4"
+  },
+  {
+   "label": "채용 정보",
+   "href": "/kr/%EA%B8%B0%EC%97%85/%EC%B1%84%EC%9A%A9-%EC%A0%95%EB%B3%B4"
+  },
+  {
+   "label": "수익성 계산기",
+   "href": "/kr/%EC%88%98%EC%9D%B5%EC%84%B1-%EA%B3%84%EC%82%B0%EA%B8%B0"
+  },
+  {
+   "label": "담당자",
+   "href": "/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98/%EB%8B%B4%EB%8B%B9%EC%9E%90"
+  },
+  {
+   "label": "이메일 보내기",
+   "href": "mailto:info@zoller.info"
+  },
+  {
+   "label": "졸러 서비스",
+   "href": "/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98/%EB%8B%B4%EB%8B%B9%EC%9E%90"
+  },
+  {
+   "label": "소프트웨어 업데이트",
+   "href": "/kr/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8"
+  },
+  {
+   "label": "온라인 지원",
+   "href": "/kr/%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%A7%80%EC%9B%90"
+  },
+  {
+   "label": "사업 분야",
+   "href": "/kr/%EC%82%AC%EC%97%85-%EB%B6%84%EC%95%BC-1"
+  },
+  {
+   "label": "뉴스레터 구독 신청",
+   "href": "/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98/%EB%89%B4%EC%8A%A4%EB%A0%88%ED%84%B0"
+  },
+  {
+   "label": "일반 구매 약관",
+   "href": "/kr/%EC%9D%BC%EB%B0%98-%EA%B5%AC%EB%A7%A4-%EC%95%BD%EA%B4%80"
+  },
+  {
+   "label": "자금 조달 옵션",
+   "href": "https://www.goleasing.com/zoller/"
+  },
+  {
+   "label": "LinkedIn",
+   "href": "https://www.linkedin.com/company/zollersolutions"
+  },
+  {
+   "label": "YouTube",
+   "href": "https://www.youtube.com/user/zollertv"
+  },
+  {
+   "label": "연락처",
+   "href": "/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98"
+  },
+  {
+   "label": "개인정보 보호",
+   "href": "/kr/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EB%B3%B4%ED%98%B8"
+  },
+  {
+   "label": "면책 조항",
+   "href": "/kr/%EB%A9%B4%EC%B1%85-%EC%A1%B0%ED%95%AD"
+  },
+  {
+   "label": "발행 정보",
+   "href": "/kr/%EB%B0%9C%ED%96%89-%EC%A0%95%EB%B3%B4"
+  },
+  {
+   "label": "쿠키 설정",
+   "href": "#"
+  }
+ ]
+}

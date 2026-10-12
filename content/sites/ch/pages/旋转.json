@@ -1,0 +1,434 @@
+{
+ "path": "/旋转",
+ "url": "/ch/%E6%97%8B%E8%BD%AC",
+ "title": "车削",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "车削",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "车削",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/drehen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/turn",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/torneado",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/tourner",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/rodar",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/ruotare",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/vrid",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/drehen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/turning",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/tourner",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%9B%9E%E8%BB%A2",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%9A%8C%EC%A0%84",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/turning",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/girar",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/rodar",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/c/6/csm_header_turning_0860d058dc.webp",
+     "video": null,
+     "title": "更易捕捉刀具图像",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c2448",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> 随时开工 </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c766",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>在车削加工中同样如此：预调和测量或更换刀具时所耗费的时间会降低生产效率。ZOLLER 也能在车削加工中保持高效率。 </strong></p> <p>您可以使用所有预调和测量设备及通用测量和检测设备对车削刀具进行测量和预调。 但如果您主要使用车削刀具，那么»hyperion«将是您的不二之选。这款卧式设备确保高度灵活性，减少设备停机时间，并能让您的数控机床快速准备好迎接下一份订单。</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c765",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c767",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "count",
+   "title": "测量车削刀具时节省时间*",
+   "value": "30%",
+   "note": "*客户在购入»hyperion«前后进行的内部对比",
+   "ftype": "zoller_count-banner",
+   "id": "c760",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> ZOLLER 车削解决方案 </h2>",
+   "items": [
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E9%A2%84%E8%B0%83%E5%92%8C%E6%B5%8B%E9%87%8F/%E7%AB%8B%E5%BC%8F%E8%AE%BE%E5%A4%87/smile",
+     "title": "»smile«",
+     "text": "<p>专为标准工具设计的坚固耐用、精度达微米级的入门级设备</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E9%A2%84%E8%B0%83%E5%92%8C%E6%B5%8B%E9%87%8F/%E7%AB%8B%E5%BC%8F%E8%AE%BE%E5%A4%87/venturion",
+     "title": "»venturion«",
+     "text": "<p>卓越的刀具调整与测量功能，并提供多种选项</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/d/csm_venturion_preview_cdaca59ebb.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E9%A2%84%E8%B0%83%E5%92%8C%E6%B5%8B%E9%87%8F/%E5%8D%A7%E5%BC%8F%E8%AE%BE%E5%A4%87/hyperion",
+     "title": "»hyperion«",
+     "text": "<p>用于车削加工的卧式调校和测量设备</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/8/csm_hyperion_preview_37118ddf5b.webp",
+      "alt": "zoller hyperion",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E4%BB%93%E5%BA%93/toolorganizer",
+     "title": "»toolOrganizer«",
+     "text": "<p>适用于切削工具和小型零件</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_018ce796c6.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F/%E9%80%9A%E7%94%A8%E6%B5%8B%E9%87%8F%E6%9C%BA/smartcheck",
+     "title": "»smartCheck«",
+     "text": "<p>配备辅助投射光和增强型图像分析功能的调节与测量设备</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_b44dfc4928.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93/zidcode",
+     "title": "»zidCode«",
+     "text": "<p>通过简化的刀具数据管理提升安全性和效率</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/c/csm_zidCode_preview_538b53ed83.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E4%BB%93%E5%BA%93/keeper",
+     "title": "»keeper«",
+     "text": "<p>适用于成套刀具和刀柄</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/a/csm_keeper_preview_1e87de3ba7.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E4%BB%93%E5%BA%93/autolock",
+     "title": "»autoLock«",
+     "text": "<p>适用于检测设备、操作材料及大型部件</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/7/csm_autolock__preview_a71350a53a.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E4%BB%93%E5%BA%93/twister",
+     "title": "»twister«",
+     "text": "<p>适用于工具部件和配件</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/1/csm_twister__preview_edf94f7d12.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%AE%89%E8%A3%85/toolstation",
+     "title": "»toolStation«",
+     "text": "<p>实现最佳的刀具安装</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/f/csm_toolStation_preview_00b81d24f9.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%AE%89%E8%A3%85/ztower",
+     "title": "»zTower«",
+     "text": "<p>适用于通用工具安装</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/6/csm_zTower_preview_c0c8e3585e.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E8%BF%90%E8%BE%93/toolcart",
+     "title": "»toolCart«",
+     "text": "<p>便于工具运输</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_3be007bbac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_categorized_pages",
+   "id": "c4774",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "一对一专家咨询",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>一对一专家咨询</h3> <p>针对您的目标以及我们为此提出的方案，进行一对一的交流。ZOLLER 直接从“智能工厂”为您提供的在线咨询服务。立即预约。 </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/e/csm_teaser-2Colume-Media_8e9165a74e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "媒体：ZOLLER 详解",
+     "href": "/ch/%E4%BC%81%E4%B8%9A/%E5%AA%92%E4%BD%93",
+     "caption": "<figcaption> <h3>媒体：ZOLLER 详解</h3> <p>您可以在此查阅新闻稿、产品公告、展会参展信息、行业杂志上的报道、新闻存档以及我们的媒体联系人。 </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c738",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ch/旋转",
+ "de_path": "/drehen"
+}

@@ -1,0 +1,290 @@
+{
+ "path": "/meracie-stroje",
+ "url": "/sk/meracie-stroje",
+ "title": "Meracie stroje",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/sk/domovska-stranka"
+  },
+  {
+   "label": "Meracie stroje",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/sk/domovska-stranka"
+  },
+  {
+   "label": "Meracie stroje",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/messmaschinen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/measuring-machines",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/maquinas-de-medicion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/machines-de-mesure",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/maquinas-de-medicao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/macchine-di-misura",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/maetmaskiner",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/messmaschinen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/machines-de-mesure",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E6%B8%AC%E5%AE%9A%E6%A9%9F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%B8%A1%EC%A0%95%EA%B8%B0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/measuring-machines",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/maquinas-de-medicion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/maquinas-de-medicao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/6/7/csm_messung_header_416ff4c8b2.webp",
+     "video": null,
+     "title": "Vyššia presnosť",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8018",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Meracie a kontrolné prístroje sú rovnako dôležité ako príslušný softvér </h2>",
+   "body": "<p class=\"extra-large-text\">Aby nástroje plnili presne to, na čo boli navrhnuté a skonštruované, musia byť samy o sebe vyrobené s vysokou presnosťou. Pomocou našich univerzálnych meracích strojov je možné nástroje merať s presnosťou na mikrometer a overovať, či spĺňajú stanovené požiadavky.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c8019",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Meranie v súradnicovom meracom systéme </h2>",
+   "body": "<p>Nameraťe body sú meracími strojmi priradené k určitému systému merania dĺžky vždy pozdĺž určitej osi pohybu. Merací softvér potom tieto informácie ďalej spracováva a priraďuje ich k určitým bodom v celom súradnicovom meracom systéme.</p> <p>Na základe takto zistených súradníc softvér KMG následne určí hodnoty pre veličiny, ktoré neboli merané priamo – napríklad dĺžky, uhly, vzdialenosti medzi dvoma meracími bodmi atď.</p> <p>Meracie body (skutočné hodnoty) zistené v súradnicovom meracom systéme (angl. „Coordinate Measuring System“) sa nakoniec porovnajú s hodnotami, ktoré vyplývajú zo špecifikácií, napríklad z návrhov nástroja (cieľové hodnoty). Ak sa tieto hodnoty nezhodujú, t. j. ak existujú odchýlky v meraní – či už v dôsledku výrobných chýb, alebo opotrebenia –, je možné následne reagovať primerane.</p> <h4>Čo sú <strong>3D meracie stroje</strong>?</h4> <p>Ako „3D meracie stroje“ sa väčšinou označujú meracie stroje, ktoré dokážu v relatívne krátkom čase – v ideálnom prípade v reálnom čase – zmerať trojrozmerný rozmer meraného objektu. Pri použití kompaktných lineárnych alebo maticových kamier môžu byť tieto kontrolné stroje čiastočne dokonca prenosné alebo aspoň mobilné. Prenosné KMG sú však spravidla o niečo menej presné ako bežné kontrolné stroje.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/d/csm_inspection-and-measuring_02_68ae6129c7.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8020",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Technika merania súradníc </h2>",
+   "body": "<p>Mnohé meracie prístroje pracujú na základe takzvaného systému merania súradníc. Merací prístroj (jeho úplný názov je „súradnicový merací prístroj“, KMG) pomocou vhodného senzora zaznamenáva presné súradnice, v ktorých sa nachádzajú určité body na povrchu obrobku.</p> <p>Súradnicový systém je vo väčšine prípadov vytvorený paralelne s ortogonálnymi osami pohybu súradnicových meracích systémov.</p> <h4><strong>Bezkontaktné snímanie</strong></h4> <p>Bezdotykové snímanie naopak pracuje s kamerami, laserovými triangulačnými senzormi a inými metódami, pri ktorých sa využíva napríklad optická alebo elektrická senzorika. Merací proces sa tu teda uskutočňuje bez toho, aby sa merací hrot vôbec dotkol obrobku. Za určitých okolností to môže merací proces výrazne urýchliť.</p> <h4><strong>Hmatové snímanie</strong></h4> <p>Na hmatové (mechanické) snímanie obrobkov sa používajú meracie sondy alebo hmatové tyčinky; pri tom sa zvyčajne rozlišuje medzi spínacími systémami (ktoré dokážu rozlíšiť len medzi pokojovým stavom a dotykom) a meracími systémami (ktoré dokážu merať odchýlky v úzkom rozsahu).</p> <h4><strong>Multisenzor</strong></h4> <p>Multisenzorové súradnicové meracie zariadenia kombinujú rôzne metódy snímania, aby dosiahli nielen mimoriadne presné výsledky, ale aby pre každú požiadavku poskytli mimoriadne vhodnú metódu merania.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/6/csm_optik_8e5c836a3b.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8024",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/d/csm_teaser_inspection_small_3a55e21ba2.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Kontrola a meranie: Vaše výhody",
+     "href": "/sk/riesenia/kontrola-a-meranie",
+     "caption": "<figcaption> <h3>Kontrola a meranie: Vaše výhody</h3> <p>Zistite, aké možnosti ponúka spoločnosť ZOLLER v oblasti kontroly nástrojov. Od kontrol priamo v procese cez špičkové analýzy až po SKP, drsnosť a vytváranie digitálnych dvojčiat.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Rozhovor s odborníkom",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Rozhovor s odborníkom</h3> <p>Individuálna diskusia o vašich cieľoch a našich nápadoch, ako ich dosiahnuť. Online poradenstvo spoločnosti ZOLLER priamo zo Smart Factory. Dohodnite si termín už teraz. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3843",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/sk/meracie-stroje",
+ "de_path": "/messmaschinen"
+}

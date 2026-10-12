@@ -1,0 +1,434 @@
+{
+ "path": "/organizacja-narzedzi",
+ "url": "/pl/organizacja-narzedzi",
+ "title": "Organizacja narzędzi",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pl/strona-glowna"
+  },
+  {
+   "label": "Organizacja narzędzi",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pl/strona-glowna"
+  },
+  {
+   "label": "Organizacja narzędzi",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeugorganistation",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-organization",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/organizacion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/organisation-des-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/organizacao-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/organizzazione-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verktygsorganisation",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeugorganistation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/tool-organization",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/organisation-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%95%B4%E7%90%86",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EC%A0%95%EB%A6%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/tool-organization",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/organizacion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/organizacao-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/7/e/csm_toolorga_header_d09c850eda.webp",
+     "video": null,
+     "title": "Organizacja narzędzi zapewnia efektywność",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7972",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">Lepsza organizacja narzędzi nie tylko zapewnia pozornie większy porządek w zakładzie – skraca też konkretnie czas przestojów maszyn, a tym samym zwiększa wydajność produkcji. Jak to się dzieje?</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7974",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Organizacja narzędzi to coś więcej niż tylko sprzątanie </h2>",
+   "body": "<p>W rzeczywistości i praktyce warsztatowej trudno całkowicie uniknąć pewnego bałaganu – jednak w dużej mierze zależy to od tego, czy każdemu narzędziu przypisano własne miejsce, w którym można i należy je odłożyć.</p> <p>To w zasadzie sedno każdej organizacji narzędzi: aby każde narzędzie można było znaleźć w każdej chwili. Jeśli nie musisz tracić czasu na szukanie narzędzi, oszczędzasz sobie nie tylko irytacji i frustracji, ale także sporo czasu pracy i nerwów. Twoje maszyny nie muszą czekać na kolejne zadanie, narzędzia nie leżą bezużytecznie – a Ty możesz pracować znacznie wydajniej.</p> <p>W firmie ZOLLER dążymy do całościowego, kompleksowego podejścia do organizacji narzędzi. Dlatego łączymy nasze <strong>modułowe oprogramowanie</strong> do zarządzania narzędziami z <strong>inteligentnymi systemami magazynowymi</strong>, które wspólnie zapewniają, że zawsze masz pod kontrolą, gdzie aktualnie znajduje się dane narzędzie – oraz w jakim jest stanie, czy jest jeszcze wystarczająca ilość części zamiennych, czy należy zamówić uzupełnienie zapasów i wiele więcej.</p> <p>A ponieważ narzędzie jest oczywiście przeznaczone do konkretnego zadania, do pełnej, holistycznej organizacji narzędzi należy również cyfrowe, bezbłędne i bezprzewodowe <strong>przesyłanie danych narzędziowych</strong> do maszyny. Dzięki temu mogą Państwo skupić się na tym, co najważniejsze: wydajnej i skutecznej produkcji elementów.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7975",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Krótkie przestoje maszyn: efektywne wykorzystanie czasu i siły roboczej ",
+    "Pełna przejrzystość co do lokalizacji i stanu wszystkich narzędzi w każdej chwili ",
+    "Brak luk w zaopatrzeniu: pełny wgląd w wymiany i ponowne zamówienia"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c7976",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Oprogramowanie do zarządzania narzędziami dostosowane do wszelkich potrzeb </h2>",
+   "body": "<p><strong>Efektywne zarządzanie narzędziami to przede wszystkim zarządzanie danymi.</strong> </p> <p>Pierwszym krokiem jest wprowadzenie danych dotyczących poszczególnych elementów narzędzia, takich jak materiał skrawający i waga, do urządzenia nastawczego lub pomiarowego, a następnie przesłanie ich do systemu. Wraz z kartami ustawień i innymi informacjami wszystko, co trzeba wiedzieć o danym narzędziu, jest w ten sposób zgromadzone w jednym centralnym miejscu i dostępne w każdej chwili dla każdego pracownika.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/9/csm_digital_durchstarten_webTMS_16feff8d28.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7977",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-33-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Łatwe zarządzanie narzędziami </h2>",
+      "body": "<p>Dzięki naszemu oprogramowaniu <strong>TMS Tool Management Solutions</strong> oferujemy Państwu wszystko, co potrzebne do zarządzania narzędziami, już w ramach pakietu BRONZE. Obejmuje to w szczególności następujące funkcje:</p><ul><li>Import danych narzędzi z katalogów producentów lub z chmury – bezpieczny, bezbłędny i szybki</li><li>Dostęp do danych narzędzi z urządzeń mobilnych</li><li>Pełna integracja z urządzeniem pomiarowo-regulacyjnym firmy ZOLLER</li><li>Każda regulacja narzędzia może zostać zapisana i natychmiast przywołana</li></ul><p><a class=\"btn\" href=\"/pl/produkty/zarzadzanie-narzedziami/tms-rozwiazania-w-zakresie-zarzadzania-narzedziami/pakiety-oprogramowania/modul-bronze-cad/cam\">Dowiedz się wszystkiego o pakiecie oprogramowania BRONZE</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/d/1/csm_software_bronze_19edbebfe9.webp",
+        "alt": "",
+        "w": 680,
+        "h": 429
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7980",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Organizacja narzędzi nie kończy się w magazynie </h2>",
+      "body": "<p><strong>Gdzie dokładnie znajduje się to narzędzie i w jakim jest stanie?</strong> Kolejny poziom zarządzania narzędziami osiągniesz, gdy zcyfryzujesz i zoptymalizujesz również zarządzanie magazynem, a tym samym będziesz mieć pod kontrolą <strong>stan</strong> <strong>zapasów</strong> narzędzi, dostosowując je do zapotrzebowania i wymagań jakościowych. W praktyce oznacza to:</p><ul><li>skracają się czasy poszukiwania,</li><li>skracają się czasy przezbrajania, a</li><li>regulacja narzędzi odbywa się niemal automatycznie.</li></ul><p>Nasz pakiet SILVER zawiera wszystkie te funkcje i pozwala nie tylko śledzić lokalizację i wykorzystanie poszczególnych narzędzi, ale także skutecznie i na czas zadbać o dostępność wystarczającej liczby części i zamienników. Oznacza to pełną integrację również z <strong>monitorowaniem narzędzi w celu kontroli jakości i analizy zużycia</strong>.</p> <p><a class=\"btn\" href=\"/pl/produkty/zarzadzanie-narzedziami/tms-rozwiazania-w-zakresie-zarzadzania-narzedziami/pakiety-oprogramowania/silver-organizacja-pracy\">Dowiedz się wszystkiego o pakiecie oprogramowania SILVER</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/e/0/csm_software_silver_d66477a30d.webp",
+        "alt": "",
+        "w": 680,
+        "h": 429
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7981",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Organizacja narzędzi – nowa odsłona </h2>",
+      "body": "<p>Standard GOLD w zakresie organizacji narzędzi w pełni integruje je ze wszystkimi procesami w Państwa przedsiębiorstwie i umożliwia sprawdzanie w czasie rzeczywistym, jak efektywne było wykorzystanie narzędzi oraz jakie były związane z tym koszty. W ten sposób uzyskują Państwo <strong>pełną kontrolę nad kosztami oraz przejrzystość</strong> w zarządzaniu narzędziami w całym łańcuchu procesów.</p> <p>Ponieważ system zarządzania narzędziami dokumentuje sposób wykorzystania poszczególnych narzędzi w różnych zleceniach, mogą Państwo generować statystyki, które dostarczają dokładnych informacji na temat efektywności Państwa pracy. Wszystko to zapewnia pakiet GOLD naszego oprogramowania, a dodatkowo:</p><ul><li>Maksymalną efektywność zarządzania danymi narzędziowymi</li><li>Systematyczne zarządzanie zleceniami produkcyjnymi i kartami ustawień</li><li>Zintegrowane zarządzanie żywotnością narzędzi</li><li>Opcjonalną integrację z systemem zamówień, w tym zarządzaniem dostawcami</li></ul><p><a class=\"btn\" href=\"/pl/produkty/zarzadzanie-narzedziami/tms-rozwiazania-w-zakresie-zarzadzania-narzedziami/pakiety-oprogramowania/gold-zarzadzanie-sklepem\">Dowiedz się wszystkiego o pakiecie oprogramowania GOLD</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/e/a/csm_software_gold_79cf4e6793.webp",
+        "alt": "",
+        "w": 680,
+        "h": 429
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7982",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-33-33-33",
+   "id": "c7979",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Zarządzanie narzędziami, które odciąża Cię w pracy </h2>",
+   "body": "<p><strong>Każdy system organizacji narzędzi jest tak dobry, jak bardzo na dłuższą metę odciąża Państwa i Państwa pracowników.</strong> Nasze oprogramowanie <strong>TMS Tool Management Solutions</strong> zostało zaprojektowane tak, aby w pełni i płynnie <strong>współpracować z istniejącymi bazami danych, maszynami, systemami magazynowymi i urządzeniami pomiarowymi</strong>. Dzięki temu odciąża Państwa, zwiększa wydajność i ułatwia pracę w warsztacie.</p> <p>Dzięki modułowej strukturze naszych pakietów oprogramowania mają Państwo możliwość wyboru wyłącznie tych funkcji, które są Państwu naprawdę potrzebne. W każdej chwili mogą Państwo dodać nowe funkcje, jeśli zechcą Państwo przenieść organizację narzędzi na wyższy poziom.</p> <p>Skontaktuj się z nami – chętnie doradzimy Ci we wszystkich szczegółach i przygotujemy ofertę dostosowaną do Twoich potrzeb!</p> <p>Więcej o webTMS</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/6/csm_webTMS_devices_9783f65f1d.webp",
+     "alt": "",
+     "w": 1484,
+     "h": 1066
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7983",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Narzędzia, sprytnie schowane </h2>",
+   "body": "<p>Nasze inteligentne szafki magazynowe stanowią idealne uzupełnienie systemu zarządzania narzędziami za pomocą oprogramowania – zapewniają bowiem zautomatyzowany i uporządkowany bezpośredni dostęp do żądanych narzędzi.</p> <p>Ponadto są one pomocne w zarządzaniu i organizowaniu wszystkiego, co jest potrzebne w codziennej pracy warsztatu. W różnych modelach naszych szaf Smart Cabinets można systematycznie przechowywać najróżniejsze materiały – od narzędzi i komponentów, przez materiały eksploatacyjne, aż po akcesoria lub przyrządy pomiarowe i kontrolne. Czeka Cię praca z narzędziami? W naszych systemach magazynowych od razu znajdziesz to, czego potrzebujesz.</p> <p>Od stołu <a class=\"link-arrow\" href=\"/pl/produkty/zarzadzanie-narzedziami/montaz-narzedzi/toolstation\">warsztatowego</a> zapewniającego pełen komfort (i przestrzeń) do montażu narzędzi, przy którym wszystkie elementy są pod ręką, poprzez elastyczny <a class=\"link-arrow\" href=\"/pl/produkty/zarzadzanie-narzedziami/transport-narzedzi/toolcart\">wózek</a> narzędziowy z miejscem na ponad 100 różnych narzędzi, aż po dużą <a class=\"link-arrow\" href=\"/pl/produkty/zarzadzanie-narzedziami/magazyn-narzedzi/bramkarz\">szafkę na kompletne zestawy narzędzi</a> i adaptery – każda z tych opcji zapewnia optymalne przechowywanie i zarządzanie narzędziami oraz materiałami.</p> <p>W naszym przeglądzie znajdą Państwo wszystkie szafki Smart Cabinets i rozwiązania magazynowe – z pewnością znajdą Państwo odpowiednią opcję również dla swojego warsztatu!</p> <p>Wszystko o naszych systemach przechowywania</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/5/csm_toolmanagement_02_7e37951c35.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7984",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Zarządzanie narzędziami: korzyści dla Państwa",
+     "caption": "<figcaption> <h3>Zarządzanie narzędziami: korzyści dla Państwa</h3> <p>Dowiedz się, jak Zarządzanie narzędziami firmy ZOLLER natychmiast zwiększa Twoją wydajność. Dzięki danych narzędzia procesy przebiegają szybciej i bezpieczniej – w tym z zabezpieczeniem przed kolizjami dla Twoich maszyn. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Indywidualna rozmowa z ekspertem",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>Indywidualna rozmowa z ekspertem</h3> <p>Indywidualna rozmowa, w której wymieniają się Państwo na temat Państwa celów i naszych pomysłów, jak je osiągnąć. Doradztwo online firmy ZOLLER bezpośrednio z „Smart Factory”. Umówcie się Państwo na spotkanie już teraz. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/pl/organizacja-narzedzi",
+ "de_path": "/werkzeugorganistation"
+}

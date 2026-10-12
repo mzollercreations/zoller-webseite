@@ -1,0 +1,53 @@
+{
+ "_info": "Zusätze der Japan-Startseite: Abschnitt zum Sitz von ZOLLER Japan in Osaka (wie Ann Arbor auf der USA-Seite). Fakten aus der Firmenchronik (2010 Niederlassung Osaka, 2018 eigenes Gebäude) und content/locations.json (Osaka, Nagoya, Yokohama). Bilder: Chronik 2018 (neues Gebäude) und 2010 (erstes Büro).",
+ "hq": {
+  "id": "osaka",
+  "kicker": "ZOLLER Japan K.K. · 本社",
+  "title": "大阪。<br><em>日本における ZOLLER の拠点。</em>",
+  "text": "<p>ZOLLER は 2010 年、大阪に日本法人を開設しました。2018 年には自社ビルに移転し、お客様との打ち合わせ、トレーニング、デモンストレーションの拠点としています。</p><p>大阪の本社に加え、名古屋と横浜の拠点から日本全国のお客様をサポートしています。</p>",
+  "image": {
+   "src": "/fileadmin/_processed_/2/4/csm_2018_02_6b7b90acfb.webp",
+   "alt": "大阪にある ZOLLER Japan の社屋",
+   "w": 1200,
+   "h": 587
+  },
+  "image2": {
+   "src": "/fileadmin/_processed_/3/2/csm_2010_01_6ac9a7367e.webp",
+   "alt": "2010 年に開設した大阪の最初の ZOLLER オフィス",
+   "w": 1200,
+   "h": 587,
+   "caption": "2010 年に開設した大阪の最初のオフィス。"
+  },
+  "facts": [
+   {
+    "value": "2010",
+    "label": "日本での ZOLLER の開設年"
+   },
+   {
+    "value": "2018",
+    "label": "自社ビルへ移転"
+   },
+   {
+    "value": "3",
+    "label": "日本国内の拠点（大阪・名古屋・横浜）"
+   }
+  ],
+  "address": [
+   "ZOLLER Japan K.K.",
+   "〒564-0033",
+   "大阪府吹田市東御旅町5-11"
+  ],
+  "phone": "+81 6-6318-1910",
+  "buttons": [
+   {
+    "label": "お問い合わせ",
+    "page": "/unternehmen/kontakt/ansprechpartner"
+   },
+   {
+    "label": "ルートを検索",
+    "href": "https://www.google.com/maps/search/?api=1&query=ZOLLER+Japan+5-11+Higashiotabi-cho+Suita+Osaka",
+    "ghost": true
+   }
+  ]
+ }
+}

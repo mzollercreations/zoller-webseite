@@ -1,0 +1,559 @@
+{
+ "path": "/solutions/toolmanagement/faq",
+ "url": "/ch/solutions/toolmanagement/faq",
+ "title": "Tooling Solutions – FAQ",
+ "description": "FAQ - Tooling Solutions – FAQ",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "解决方案",
+   "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88"
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "解决方案",
+   "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88"
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/toolmanagement/faq",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/tool-management/faq",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/gestion-de-herramientas/faq",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/gestion-des-outils/faq",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/gestao-de-ferramentas/faq",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/tool-management/faq",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/solutions/toolmanagement/faq",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/toolmanagement/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/tool-management/faq",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/gestion-des-outils/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/solutions/toolmanagement/faq",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/solutions/toolmanagement/faq",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/toolmanagement/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/gestion-de-herramientas/faq",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/gestao-de-ferramentas/faq",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "概览",
+     "href": "",
+     "current": false
+    },
+    {
+     "label": "TMS刀具管理软件",
+     "href": "/ch/solutions/toolmanagement/tms-software",
+     "current": false
+    },
+    {
+     "label": "TMS刀具管理硬件",
+     "href": "/ch/solutions/toolmanagement/tms-hardware",
+     "current": false
+    },
+    {
+     "label": "FAQ",
+     "href": "/ch/solutions/toolmanagement/faq",
+     "current": false
+    },
+    {
+     "label": "资料库",
+     "href": "/ch/solutions/toolmanagement/%E4%BF%A1%E6%81%AF%E5%BA%93",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c162806",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> 常见问题解答 </h1>",
+      "body": "<p>常见问题</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c162758",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "TMS可以在平板电脑或智能手机等移动设备上使用吗？",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>可以。借助这款与终端设备无关的Web应用，您可以在移动端通过任何网页浏览器访问中央刀具管理系统，查看所有与生产相关的信息并进行刀具预订。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c164289",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "ZOLLER 可以为哪些系统提供接口？",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>ZOLLER 已实现超过 25 种 CAM 和仿真系统的集成，此外还能对接 ERP、MES、电子发料系统以及其他具备 API 接口的各类相关系统。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c164291",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "能否使用ZOLLER对刀具寿命进行管理和分析？",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>ZOLLER 可根据需求提供集成的刀具寿命管理和监控功能，并附带全面的统计分析。例如，借助 ZOLLER »zidCode 4.0« 技术，可灵活且通用地实现与机床之间的双向刀具寿命数据传输。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c164293",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "使用ZOLLER解决方案时，刀具数据是如何存储的？存储在何处？",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>借助ZOLLER TMS，贵公司的自有生产技术将始终保留在贵公司内部。ZOLLER使用部署在贵公司自有服务器上的数据库，其他任何人都无法访问该数据库。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c164295",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "我以后还能添加其他功能吗？",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>可以。得益于该软件的模块化架构，您可以先从当前所需的功能范围入手，随后随时添加其他软件模块。这样，系统就能随着您的需求不断扩展，完全符合“始于解决方案，智启高效系统”这一理念。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c164297",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "能否导入数据，例如来自制造商或Excel表格的数据？",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>当然，您可以导入现有数据。您不仅可以导入Excel列表，还可以直接从制造商处导入数字数据，例如刀具参数以及2D和3D图形。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c164301",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "ZOLLER TMS 适用于什么规模的企业？",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>得益于其模块化和可扩展性，该软件既可经济高效地应用于微型企业，也可用于大规模批量生产。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c164302",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "使用ZOLLER TMS可以实现哪些流程的数字化？",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>借助ZOLLER TMS，您可以将整个生产流程 — 从CAM中的图纸绘制和编程，到库存管理、刀具准备和测量，再到机床加工，最后返回至起始环节 — 实现数字化管理。 </p> <p>生产流程中的所有工作站均采用统一的用户界面和数据库。这确保了通过软硬件协调一致的系统，实现贯穿始终的生产流程。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c164303",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "ZOLLER 是如何提供更新和技术支持的？",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>我们的支持团队随时通过电话和电子邮件为客户提供服务，并能迅速提供协助。 </p> <p>凭借销售和服务分支机构中的区域应用技术团队，我们可在需要时迅速赶赴现场。 </p> <p>定期的主要更新（通常为每年一次）将与贵公司的IT部门合作在现场进行安装。增量更新可方便地在线下载。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c164305",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "有哪些方法可以锁住»toolOrganizer«的抽屉？",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>抽屉既可以通过电子方式锁定，也可以通过机械方式锁定。此外，还可以通过»smartCompartment«实现单个抽屉的独立锁定。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c162686",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "在»toolOrganizer«的抽屉内或»keeper«的拉出式储物柜中，能否自由定义分区方式？",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>内容可自由定义。»toolOrganizer«配备了名为 »smartCompartment« 的抽屉分隔件，可帮助您对抽屉进行最优布局。在 »keeper«系统中，各层的高度均可调节，并可配备 ZOLLER Tooling Solutions 提供的配套刀具支架。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c162638",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Smart Cabinets 能否通过网络进行控制？",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>可以。这些设备也可以通过网络进行控制。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c162590",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c162734",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c162782",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "一对一专家咨询",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>一对一专家咨询</h3> <p>针对您的目标以及我们为此提出的方案，进行一对一的交流。ZOLLER 直接从“智能工厂”为您提供的在线咨询服务。立即预约。 </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/e/csm_teaser-2Colume-Media_8e9165a74e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "媒体：ZOLLER 详解",
+     "href": "/ch/%E4%BC%81%E4%B8%9A/%E5%AA%92%E4%BD%93",
+     "caption": "<figcaption> <h3>媒体：ZOLLER 详解</h3> <p>您可以在此查阅新闻稿、产品公告、展会参展信息、行业杂志上的报道、新闻存档以及我们的媒体联系人。 </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c738",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ch/solutions/toolmanagement/faq",
+ "de_path": "/solutions/toolmanagement/faq"
+}

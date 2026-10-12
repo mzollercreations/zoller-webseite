@@ -1,0 +1,436 @@
+{
+ "path": "/uravnotezenje-orodja",
+ "url": "/si/uravnotezenje-orodja",
+ "title": "Uravnoteženje orodja",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/si/domaca-stran"
+  },
+  {
+   "label": "Uravnoteženje orodja",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/si/domaca-stran"
+  },
+  {
+   "label": "Uravnoteženje orodja",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeug-auswuchten",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/balance-the-tool",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/equilibrar-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/equilibrer-loutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/equilibrar-a-ferramenta",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/bilanciamento-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/balansera-verktyg",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeug-auswuchten",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/equilibrage-dun-outil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EB%B0%B8%EB%9F%B0%EC%8B%B1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/balancing-tools",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/equilibrar-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/equilibrar-a-ferramenta",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/c/f/csm_balancing_header_d7e77910f1.webp",
+     "video": null,
+     "title": "Enostavno uravnoteženje orodja",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4378",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>Neuravnoteženost vašega orodja hitro postane problem v več pogledih: orodje ne deluje enakomerno, obremenjuje vreteno in stroj, zmanjšuje zmogljivost obdelave in na koncu ogroža celotno varnost procesa.</h4>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3932",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Kakšne so posledice neuravnoteženosti orodja? </h2>",
+   "body": "<p>Orodja, ki delujejo nestabilno, ni mogoče trajno uporabljati z enako natančnostjo, kot jo potrebujete za svoje delo. Zaradi nastalih vibracij se ne zmanjša le skupna zmogljivost obdelave, temveč na obdelovancih nastanejo tudi artefakti, kot so npr. sledovi vibracij, ki jih je morda treba naknadno obdelati. Neuravnoteženost orodja tako vodi do konkretnih izgub kakovosti in ogroža varnost vaših procesov.</p> <p>Poleg tega neuravnoteženost skrajša tudi življenjsko dobo vretena in morda tudi stroja – stroški za to hitro presegajo stroške, ki nastanejo zaradi pogostejšega uravnoteženja orodij.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3933",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Kaj pomeni neuravnoteženost? </h2>",
+   "body": "<p>Izraz »nesorazmerje« opisuje pri vrtečih se telesih splošno pojav, da njihova masa ni enakomerno porazdeljena po telesu. Pri tem v osnovi razlikujemo med tremi vrstami nesorazmerja:</p><ul><li>Statična neuravnoteženost: pri tem je težišče vrtečega se telesa zunaj osi vrtenja. To je mogoče izmeriti že v mirovanju.</li><li>Momentna neuravnoteženost: Težišče leži na osi vrtenja, neuravnoteženost pa je merljiva šele med vrtenjem.</li><li>Dinamična neuravnoteženost: Pojem dinamične neuravnoteženosti združuje obe drugi obliki neuravnoteženosti v poljubni kombinaciji statične neuravnoteženosti in momentne neuravnoteženosti. To je pri tehničnih rotorjih praviloma.</li></ul><p>Vsako specifično obliko neuravnoteženosti je mogoče izravnati z ustreznimi prilagoditvami na vrtečem se telesu.</p> <p>Med vrtenjem je neuravnoteženost toliko bolj opazna, kolikor je večja (linearno naraščanje) in kolikor je hitrejše vrtenje (kvadratno naraščanje). Čim hitrejše je vrtenje, tem pomembnejše je uravnoteženje, tem pomembnejše je, da se preostala neuravnoteženost čim bolj zmanjša. Uravnoteženje je torej treba sistematično vključiti v delovni proces.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3934",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Kaj povzroča neuravnoteženost pri delovanju orodja? </h2>",
+   "body": "<p>V sistemih z vrtečimi orodji so neuravnoteženosti znan in pogost pojav. Za njihov nastanek obstajajo različne možne vzroki, na primer:</p><ul><li>Orodje, sestavljeno iz več posameznih delov, ni bilo pravilno sestavljeno – na primer, če držalo orodja in orodje nista natančno poravnana in odstopata od osi vrtenja.</li><li>Porazdelitev mase orodja je bila že med proizvodnjo nesimetrična – tu je treba upoštevati proizvodne tolerance proizvajalca in jih po potrebi preveriti.</li><li>Sam rotor oziroma držalo orodja je zaradi svoje konstrukcije nesimetrično (npr. pritrdilna vijak v adapterju za rezkanje (Weldon-držalo)).</li></ul><p>Tudi pri natančno uravnoteženih nosilcih orodja lahko zaradi kombinacije nosilcev s konkretnim orodjem ponovno nastane neuravnoteženost. Zelo pomembno je, da se ta izmeri in po potrebi popravi.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3935",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Zakaj je uravnoteženje orodja tako pomembno? </h2>",
+   "body": "<p>Pri visokohitrostni obdelavi obdelovancev z rotacijskimi orodnimi sistemi se vsaka še tako majhna netočnost ali pomanjkanje natančnosti v določenih okoliščinah zelo hitro in jasno pokaže. Neuravnoteženost orodja lahko povzroči vibracije, vsekakor pa tudi nestabilno delovanje.</p> <p>Oboje vpliva na natančnost delovanja orodja in vedno povečuje tveganje za artefakte in poškodbe obdelovanca: kakovost površine se zmanjša, lahko pride do izločitve. Ker pa so vaši procesi močno odvisni od pravilno obdelanih končnih rezultatov, orodja, ki niso natančno uravnotežena, zahtevajo podrobnejše kontrole kakovosti. Morda bodo potrebne tudi naknadne obdelave, v vsakem primeru pa varnost procesa ni zagotovljena.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3936",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Če se kolesa ne uravnotežijo, to stane denar </h2>",
+   "body": "<p>Posledica tega so lahko zamude v proizvodnem procesu, ki pa neposredno vplivajo na vašo zmožnost pravočasne dobave naročene količine v zahtevani kakovosti.</p> <p>K temu se doda še dejstvo, da lahko orodja, ki delujejo neenakomerno, zlasti zaradi vibracij skrajšajo življenjsko dobo vretena – tudi to je stroškovni dejavnik, ki ga ne smemo podcenjevati.</p> <p>Uravnoteženo orodje je torej dobro za obdelovance in za stroje.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3937",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Pravilo: Kdor pogosto tvega, redko obžaluje! </h2>",
+   "body": "<p><strong>Zato velja pravilo:</strong> bolje je uravnotežiti pravočasno in pogosteje, kot pa na koncu nositi stroške. Na splošno je treba orodje ponovno uravnotežiti že takrat, ko se uporablja pri spremenjeni hitrosti vrtenja – saj tudi ta sprememba lahko povzroči znatne razlike v gladkosti delovanja.</p> <p>Redno uravnoteženje poveča produktivnost in kakovost vašega dela.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3938",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Uravnoteženje orodja: kako to storiti? </h2>",
+   "body": "<p>Na splošno obstajajo tri možnosti za odpravo ali izravnavo neuravnoteženosti:</p><ul><li>ciljno dodajanje mase (npr. z dodatnimi utežmi)</li><li>Odstranitev mase (npr. z izvrtanjem ali brušenjem)</li><li>Premik mase (npr. z ustreznimi vrtljivimi obroči)</li></ul><p>Da bi proces posebej za orodja olajšali in ga lahko izvedli natančno, priporočamo uporabo uravnoteževalnega stroja z ustrezno programsko opremo. Pri tem se najprej orodje vstavi v uravnoteževalni vreten in se ga zavrti, da se izmerijo nastale centrifugalne sile.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3939",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Samodejno izračunano izravnavanje neuravnoteženosti </h2>",
+   "body": "<p>Na podlagi teh merilnih podatkov sistem za uravnoteženje izračuna izravnavo neuravnoteženosti. Pri naprednem stroju za uravnoteženje se ukrepi lahko takoj izvedejo, natančno uravnoteženje pa se nadaljuje, dokler ni več mogoče izmeriti nobenega preostalega neuravnoteženja ali dokler niso vse vrednosti v sprejemljivem tolerančnem območju.</p> <p>Na ta način uravnoteženje sploh ne traja posebej dolgo, neenakomerno porazdeljeno maso pa je mogoče hitro izravnati.</p> <p>Visoko natančen in v veliki meri avtomatski sistem uravnoteženja je smiseln tudi zato, ker omogoča ponovno in hkrati hitro uravnoteženje orodij ob vsaki spremembi. Tako se prepreči, da bi spremenjene zahteve, vrtilne hitrosti ali materiali povzročili izgubo kakovosti, ne da bi pri tem trpela hitrost dela.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3940",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h3> Učinkovito uravnoteženje z napravo ZOLLER »toolBalancer« </h3>",
+      "body": "<p>Natančno uravnotežena orodja tudi za delo pri visokih vrtilnih hitrostih: za to je ZOLLER »toolBalancer« idealni sistem za uravnoteženje. Zaradi modularne zasnove se ne le prilagaja vašim posebnim zahtevam, ampak ponuja tudi dovolj prostora za prihodnje razvojne potrebe.</p> <p>Visoko natančen sistem uravnoteženja je primeren za nosilce orodij, brusne plošče in rotorje ter vam zagotavlja merljivo nižje stopnje izločenih izdelkov, izpadov strojev, proizvodnih stroškov in dobavnih rokov.</p> <h3><br/>Pregled prednosti:</h3><ul><li><strong>Manjša obraba</strong> in večja zmogljivost obdelave zaradi visoko natančno uravnoteženih orodij</li><li><strong>Modularna konstrukcija</strong> omogoča individualne prilagoditve</li><li><strong>Intuitivno upravljanje</strong> sistema preprečuje nepotrebne in drage napake</li><li><strong>Udobna uporaba</strong> s pomočjo zaslona na dotik, tipkovnice in miške</li></ul><p><a class=\"btn\" href=\"/si/izdelki/tehnika-uravnotezenja/toolbalancer\">Izvedite vse o možnostih ZOLLER »toolBalancer«</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3943",
+      "bg": "",
+      "space": {
+       "before": "small",
+       "after": "small"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/f/6/csm_header_toolBalancer_df19c3c897.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 896
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "image",
+      "id": "c3945",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3941",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_teaser_balancing_small_e3b1b4fcf5.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Tehnika uravnoteženja: njene prednosti",
+     "href": "/si/resitve/tehnika-uravnotezenja",
+     "caption": "<figcaption> <h3>Tehnika uravnoteženja: njene prednosti</h3> <p>Uravnoteženje se pogosto podcenjuje. Vendar pa uravnoteženje prispeva k večji gospodarnosti, saj zmanjšuje obrabo orodja, ki povzroča višje stroške, in razbremeni vretena strojev. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Pogovor s strokovnjakom",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Pogovor s strokovnjakom</h3> <p>Osebna razprava o vaših ciljih in naših idejah za njihovo uresničevanje. Spletno svetovanje podjetja ZOLLER neposredno iz pametne tovarne. Dogovorite se za termin že danes. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3832",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/si/uravnotezenje-orodja",
+ "de_path": "/werkzeug-auswuchten"
+}

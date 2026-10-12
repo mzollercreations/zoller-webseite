@@ -1,0 +1,549 @@
+{
+ "path": "/software/tms-core",
+ "url": "/kr/software/tms-core",
+ "title": "»TMS Core«",
+ "description": "»TMS Core« - 디지털 공구 관리를 위한 이상적인 출발점 - 모듈식 시스템",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "제품 /",
+   "href": "/kr/%EC%A0%9C%ED%92%88"
+  },
+  {
+   "label": "공구 관리 /",
+   "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC"
+  },
+  {
+   "label": "Software /",
+   "href": "/kr/software"
+  },
+  {
+   "label": "»TMS Core«",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "제품 /",
+   "href": "/kr/%EC%A0%9C%ED%92%88"
+  },
+  {
+   "label": "공구 관리 /",
+   "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC"
+  },
+  {
+   "label": "Software /",
+   "href": "/kr/software"
+  },
+  {
+   "label": "»TMS Core«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/software/tms-core",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/software/tms-core",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/software/tms-core",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/software/tms-core",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/software/tms-core",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/software/tms-core",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/software/tms-core",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/software/tms-core",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/software/tms-core",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/software/tms-core",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/software/tms-core",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/software/tms-core",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/software/tms-core",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/software/tms-core",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/software/tms-core",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Software",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/kr/software",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "»TMS Core«",
+     "href": "/kr/software/tms-core",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Stock«",
+     "href": "/kr/software/add-on-zstock",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.CAM Integration«",
+     "href": "/kr/software/add-on-zcam-integration",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Resources«",
+     "href": "/kr/software/add-on-zresources",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Shopfloor«",
+     "href": "/kr/software/add-on-zshopfloor",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Connectivity«",
+     "href": "/kr/software/add-on-zconnectivity",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Integration«",
+     "href": "/kr/software/add-on-zintegration",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c164281",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> 모듈식 시스템 </h3> <h1> »TMS Core« </h1>",
+   "body": "<p>ZOLLER는 <strong>»TMS Core를«</strong> 통해 디지털 공구 관리를 위한 이상적인 출발점을 제공합니다. 간결하고, 체계적이며, 즉시 사용 가능한 이 솔루션은 공정을 구조화하고 공구 데이터를 중앙에서 안전하게 보관하기에 완벽합니다. TMS를 사용하면 언제든지 유연성을 유지할 수 있습니다. 브라우저 기반이며, 여러 사업장에 걸쳐 사용할 수 있고, 확장성도 뛰어나 모든 생산 수준에 적합합니다. 요청 시 »TMS Core는« 6가지 애드온으로 언제든지 확장할 수 있어, 귀사의 공구 관리 시스템이 성장해야 하는 속도에 정확히 맞춰 구축할 수 있습니다.</p> <p><a class=\"btn\" href=\"/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98\">지금 문의하기</a> <a href=\"https://myzoller.com/de/de/expert/booking/\" rel=\"noopener\" target=\"_blank\">1:1 전문가 상담</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/b/csm_TMSCore_product_c0b310efb0.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 852
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c164284",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "공구 제조업체의 데이터를 별도의 노력 없이 가져올 수 있습니다.",
+    "중복된 데이터 관리가 필요 없으며, 시스템이 자연스럽게 확장됩니다.",
+    "중앙 집중식 공구 데이터베이스 덕분에 시간을 대폭 절약할 수 있습니다."
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c164283",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "table",
+   "header": "<h2> »TMS Core« </h2>",
+   "table": "<table> <tbody> <tr> <td> </td> <td class=\"text-center\"> 웹 브라우저 </td> <td class=\"text-center\"> 데스크톱 </td> </tr> <tr> <td> 플로팅 라이선스 </td> <td class=\"text-center\"> 3 </td> <td class=\"text-center\"> 3 </td> </tr> <tr> <td> 개별 구성 요소 </td> <td class=\"text-center\"> ● </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> 도구 </td> <td class=\"text-center\"> ● </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> 설정 시트 </td> <td class=\"text-center\"> ● </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> 기계 </td> <td class=\"text-center\"> ● </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> 액세서리 </td> <td class=\"text-center\"> ● </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> 재고 관리 </td> <td class=\"text-center\"> ● </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> 조정 장치 통합 (ZOLLER 또는 타사 제조사) </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> 웹 서비스 REST API </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> 사용자 ID를 통한 로그인 </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> 싱글 사인온 (SSO) </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> 가져오기/내보내기 </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> 지원 및 업데이트 </td> <td class=\"text-center\"> ● </td> <td class=\"text-center\"> ● </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c164310",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p>● 기본 ― 사용 불가 </p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c164421",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/5/csm_EN_TMS_einzelkomponenten_2ea2eb942a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513
+    },
+    {
+     "src": "/fileadmin/_processed_/4/5/csm_EN_TMS_werkzeuge_c5ad0e3b91.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513
+    },
+    {
+     "src": "/fileadmin/_processed_/b/e/csm_EN_TMS_einrichteblaetter_2b2e2b6a9c.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513
+    },
+    {
+     "src": "/fileadmin/_processed_/a/d/csm_EN_TMS_zubehoer_8fb9694f39.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164314",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> »TMS Core« </h3> <h2> 성장 잠재력 </h2>",
+   "body": "<p class=\"large-text\">이 소프트웨어는 확장성을 염두에 두고 설계되었습니다. 오늘 시작하고, 내일 확장하세요 – 귀사의 공구 관리에 정말로 필요한 애드온을 활용하여 말이죠.</p> <p class=\"large-text\">중앙 집중식 데이터 관리를 통해 »TMS Core는« 관리 업무 부담을 줄여줍니다.</p> <p class=\"large-text\">»TMS Core는« 공구 데이터를 한 번만 등록하면 어디서나 활용할 수 있도록 보장합니다.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/d/csm_TMSCore_benefit_EN_d4c43382d7.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c164307",
+   "bg": "image",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/a/d/csm_TMSCore_Feature_01_6fffd22380.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "title": "공구 투명도",
+     "caption": "<figcaption> <h3>공구 투명도</h3> <p>공구 투명성을 위한 핵심 요소인 공구 관리</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_TMSCore_Feature_02_5a671e0bc1.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "title": "공정 안정성",
+     "caption": "<figcaption> <h3>공정 안정성</h3> <p>최고 수준의 공정 안정성을 위한 ZOLLER TMS</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164372",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> »TMS «Core용 ZOLLER 옵션 하드웨어 개요 </h2>",
+   "items": [
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EC%88%98%EC%A7%81%ED%98%95-%EC%9E%A5%EB%B9%84/smile",
+     "title": "»smile«",
+     "text": "<p>표준 공구를 위한 견고한 μm급 정밀 기본형 장비</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EC%88%98%EC%B6%95-%EA%B8%B0%EC%88%A0/powershrink",
+     "title": "»powerShrink«",
+     "text": "<p>최적의 에너지 효율과 최고의 안전성을 갖춘 수축 시스템</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_506ab0ccb9.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%B0%B8%EB%9F%B0%EC%8B%B1-%EA%B8%B0%EC%88%A0/toolbalancer",
+     "title": "»toolBalancer«",
+     "text": "<p>최첨단 기술과 인체공학적 디자인을 갖춘 밸런싱 시스템</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EB%B2%94%EC%9A%A9-%EC%B8%A1%EC%A0%95%EA%B8%B0/genius",
+     "title": "»genius«",
+     "text": "<p>100개 이상의 매개변수를 초정밀하게 측정하며, 전 세계적으로 1,000회 이상 그 성능을 입증했습니다</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/d/csm_genius_1_5b500df8d2.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EB%AC%BC%EB%A5%98/coralogistic",
+     "title": "»coraLogistic«",
+     "text": "<p>공구 창고, 공구 준비 공정 및 CNC 공작기계 간의 이송 작업용</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/0/csm_coraLogistics_preview_8cd4f5bccb.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A4%80%EB%B9%84/corameasure-lg",
+     "title": "»coraMeasure LG«",
+     "text": "<p>ZOLLER »venturion«을 위한 경제적인 공구 취급 시스템</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "",
+     "title": "»zidCode«",
+     "text": "<p>간편한 공구 데이터 관리를 통한 안전성 및 효율성 향상</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/8/csm_Teaser_zidcode_preview_472b8e8590.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "",
+     "title": "»zidCode 4.0«",
+     "text": "<p>»zidCode 4.0을« 통해 스캔한 공구 데이터를 공정 중에 바로 활용할 수 있게 합니다</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/d/csm_Teaser_zidcode40_preview_b71747bf93.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c164306",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "large"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/9/csm_TMS_teaser_46de18cb11.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "공구 관리: 귀사가 누릴 수 있는 이점",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/toolmanagement",
+     "caption": "<figcaption> <h3>공구 관리: 귀사가 누릴 수 있는 이점</h3> <p>ZOLLER의 공구 관리 솔루션이 어떻게 생산성을 즉시 향상시키는지 확인해 보세요. 공구 데이터를 활용하면 공정이 더 빠르고 안전하게 진행되며, 여기에는 기계의 충돌 방지 기능도 포함됩니다. </p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now. </p> <br/> 자세히 알아보기 </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164343",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/kr/software/tms-core",
+ "de_path": "/produkte/toolmanagement/software/tms-core"
+}

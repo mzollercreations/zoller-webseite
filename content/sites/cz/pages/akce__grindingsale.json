@@ -1,0 +1,268 @@
+{
+ "path": "/akce/grindingsale",
+ "url": "/cz/akce/grindingsale",
+ "title": "GrindingSale",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Akce /",
+   "href": "/cz/akce"
+  },
+  {
+   "label": "GrindingSale",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Akce /",
+   "href": "/cz/akce"
+  },
+  {
+   "label": "GrindingSale",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/events/grindingsale",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/events/grindingsale",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/evenemang/grindingsale",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/events/grindingsale",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/evenements/grindingsale",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/grindingsale",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%96%89%EC%82%AC/%EA%B7%B8%EB%9D%BC%EC%9D%B8%EB%94%A9%EC%84%B8%EC%9D%BC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/8/6/csm_header_grindingsales_1586d4ea9c.webp",
+     "video": null,
+     "title": "GrindingSale",
+     "kicker": "",
+     "text": "<p>Vyberte si zde své oblíbené produkty z nabídky GrindingSale s<br/>nejlepšími podmínkami během akce GrindingHub 2026.</p>",
+     "buttons": [],
+     "light": true
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c46684",
+   "bg": "yellow",
+   "space": {}
+  },
+  {
+   "type": "bento",
+   "header": "",
+   "intro": "",
+   "tiles": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/0/0/csm_sales_teaser_produkte_438ed733f0.webp",
+      "alt": ""
+     },
+     "text": "<h2>Zařízení</h2> <p>Nabídky šesti měřicích strojů s<br/>přesností v řádu mikrometrů pro kontrolu a inspekci nástrojů.</p> <p><a class=\"btn\" href=\"/cz/akce/grindingsale/pozadat-o-nabidku\">Vyžádat nabídku</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/9/8/csm_sales_teaser_spannmittel_4294ee15df.webp",
+      "alt": ""
+     },
+     "text": "<h2>upínací prostředky</h2> <p>Vše pro bezpečné upnutí nástroje: upínací prostředky od společnosti ZOLLER. </p> <p><a class=\"btn\" href=\"/cz/akce/grindingsale/pozadat-o-nabidku\">Vyžádat nabídku</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/6/2/csm_sales_teaser_software_ee2586d1ea.webp",
+      "alt": ""
+     },
+     "text": "<h2>Software</h2> <p>Váš krok vpřed: Nabídky softwaru</p> <p><a class=\"btn\" href=\"/cz/akce/grindingsale/pozadat-o-nabidku\">Vyžádat nabídku</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/b/3/csm_sales_teaser_service_12dd32dacf.webp",
+      "alt": ""
+     },
+     "text": "<h2>Služby</h2> <p>Nabídky školení, kalibrace a servisních smluv.</p> <p><a class=\"btn\" href=\"/cz/akce/grindingsale/pozadat-o-nabidku\">Vyžádat nabídku</a></p>",
+     "full": false
+    }
+   ],
+   "ftype": "zoller_image-grid",
+   "id": "c52711",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "extra-small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Navštivte společnost ZOLLER na veletrhu GrindingHub </h2>",
+   "body": "<p>Navštivte veletržní expozici společnosti ZOLLER na <strong>stánku 10B60 v hale 10.</strong> Předvedeme<br/>vám tam, jak měřicí technika, software a automatizace modulárně spolupracují, aby procesy mezi skladem nástrojů a CNC bruskou zůstaly konkurenceschopné. Promluvte si s našimi odborníky o svých výzvách.</p> <p><a class=\"btn\" href=\"/cz/akce/grindinghub-2026\">Zjistěte více</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/3/7/csm_grindinghub_teaser2_a6fd90f52d.webp",
+     "alt": "",
+     "w": 1000,
+     "h": 1000,
+     "href": "/cz/akce/grindinghub-2026"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c46688",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/cz/akce/grindingsale",
+ "de_path": "/events/grindingsale"
+}

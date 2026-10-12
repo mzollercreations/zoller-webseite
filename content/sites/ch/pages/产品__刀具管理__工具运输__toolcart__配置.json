@@ -1,0 +1,630 @@
+{
+ "path": "/产品/刀具管理/工具运输/toolcart/配置",
+ "url": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E8%BF%90%E8%BE%93/toolcart/%E9%85%8D%E7%BD%AE",
+ "title": "»toolCart« – 配置",
+ "description": "配置 - »toolCart« – 配置",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "产品系列 /",
+   "href": "/ch/%E4%BA%A7%E5%93%81"
+  },
+  {
+   "label": "刀具管理 /",
+   "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86"
+  },
+  {
+   "label": "刀具运输 /",
+   "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E8%BF%90%E8%BE%93"
+  },
+  {
+   "label": "»toolCart« /",
+   "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E8%BF%90%E8%BE%93/toolcart"
+  },
+  {
+   "label": "配置",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "产品系列 /",
+   "href": "/ch/%E4%BA%A7%E5%93%81"
+  },
+  {
+   "label": "刀具管理 /",
+   "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86"
+  },
+  {
+   "label": "刀具运输 /",
+   "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E8%BF%90%E8%BE%93"
+  },
+  {
+   "label": "»toolCart« /",
+   "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E8%BF%90%E8%BE%93/toolcart"
+  },
+  {
+   "label": "配置",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/smart-cabinets/toolcart/konfiguration",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management/tool-transportation/toolcart/configuration",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas/transporte-de-herramientas/toolcart/configuracion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils/transport-des-outils/toolcart/configuration",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas/transporte-de-ferramentas/toolcart/configuracao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management/trasporto-degli-utensili/toolcart/configurazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering/verktygstransport/toolcart/konfiguration",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement/werkzeugtransport/toolcart/konfiguration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/tool-transportation/toolcart/configuration",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils/transport-doutils/toolcart/configuration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%90%AC%E9%80%81/toolcart/%E8%A8%AD%E5%AE%9A",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%9A%B4%EB%B0%98/toolcart/%EA%B5%AC%EC%84%B1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management/tool-transportation/toolcart/configuration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas/transporte-de-herramientas/toolcart/configuracion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas/transporte-de-ferramentas/toolcart/configuracao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»toolCart«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E8%BF%90%E8%BE%93/toolcart",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "配置",
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E8%BF%90%E8%BE%93/toolcart/%E9%85%8D%E7%BD%AE",
+     "current": false
+    },
+    {
+     "label": "软件与集成",
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E8%BF%90%E8%BE%93/toolcart/%E8%BD%AF%E4%BB%B6%E4%B8%8E%E9%9B%86%E6%88%90",
+     "current": false
+    },
+    {
+     "label": "常见问题解答",
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E8%BF%90%E8%BE%93/toolcart/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94",
+     "current": false
+    },
+    {
+     "label": "资料库",
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E8%BF%90%E8%BE%93/toolcart/%E4%BF%A1%E6%81%AF%E5%BA%93",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c3000",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> 配置灵活 </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2998",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p class=\"extra-large-text\">智能刀具柜，由您掌控：完成预选型，联系ZOLLER销售团队 — 我们将为您提供咨询，配置您所需的型号。</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2997",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2999",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> »toolCart« </h2>",
+      "body": "",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/2/2/csm_toolCart_ed395ae28d.webp",
+        "alt": "",
+        "w": 680,
+        "h": 379
+       }
+      ],
+      "videos": [],
+      "pos": "below",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3002",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "none"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 尺寸 </h2>",
+      "table": "<table> <tbody> <tr> <td> 高×宽×深：985×660×1050 毫米 </td> </tr> </tbody></table>",
+      "ftype": "table",
+      "id": "c2996",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 有效载荷 </h2>",
+      "table": "<table> <tbody> <tr> <td> 最大承重 450 公斤 </td> </tr> </tbody></table>",
+      "ftype": "table",
+      "id": "c2994",
+      "bg": "",
+      "space": {
+       "before": "small",
+       "after": "small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 刀套 – SK型 </h2>",
+      "table": "<table> <tbody> <tr> <td> SK 30，尺寸 S，宽 72 毫米，每架最多 13 个 </td> </tr> <tr> <td> SK 40，尺寸 S，宽 72 毫米，每架最多 13 个 </td> </tr> <tr> <td> SK 50，尺寸 L，宽 95 毫米，每架最多 7 个 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3037",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 刀套 — HSK型 </h2>",
+      "table": "<table> <tbody> <tr> <td> HSK 25、32，尺寸S，宽72毫米，每架最多13个 </td> </tr> <tr> <td> HSK 40，尺寸S，宽72毫米，每架最多13个 </td> </tr> <tr> <td> HSK 50，尺寸S，宽 72 毫米，每架最多 13 个 </td> </tr> <tr> <td> HSK 63，尺寸S或L，宽分别为 72 毫米和 95 毫米，每架最多 13 个或 7 个 </td> </tr> <tr> <td> HSK 80，尺寸L，宽 95 毫米，每架最多 7 个 </td> </tr> <tr> <td> HSK 100，尺寸L，宽 95 毫米，每架最多 7 个 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3038",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 刀套 – VDI型 </h2>",
+      "table": "<table> <tbody> <tr> <td> VDI 30，尺寸S，宽72毫米，每架最多13个 </td> </tr> <tr> <td> VDI 40，尺寸S，宽72毫米，每架最多13个 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3039",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 刀套 — PSC型 </h2>",
+      "table": "<table> <tbody> <tr> <td> PSC 40，尺寸S，宽 72 毫米，每架最多 13 个 </td> </tr> <tr> <td> PSC 50，尺寸S，宽 72 毫米，每架最多 13 个 </td> </tr> <tr> <td> PSC 63，尺寸S，宽 72 毫米，每架最多 13 个 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3040",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 刀套 — 坯件型 </h2>",
+      "table": "<table> <tbody> <tr> <td> B58，宽 58 毫米，每架最多 7 个 </td> </tr> <tr> <td> B75，宽 75 毫米，每架最多 7 个 </td> </tr> <tr> <td> B120，宽 120 毫米，每架最多 7 个 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3041",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 刀套 — 附加固定器型 </h2>",
+      "table": "<table> <tbody> <tr> <td> D 78 VSH 尺寸1，宽95毫米，每架最多7个 </td> </tr> </tbody></table>",
+      "ftype": "table",
+      "id": "c3042",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 刀套 — 木质套筒 </h2>",
+      "table": "<table> <tbody> <tr> <td> 木质套筒/坯件，宽 328 毫米，每框架最多 2 个 </td> </tr> <tr> <td> D 42 14 孔，宽 328 毫米，每架最多 2 个 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3043",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 配件 </h2>",
+      "table": "<table> <tbody> <tr> <td> 附加刀具更换架 </td> </tr> <tr> <td> 可拉出式抽屉 </td> </tr> <tr> <td> 底部置物板 </td> </tr> <tr> <td> 侧面置物板 </td> </tr> <tr> <td> 可选刀套 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3044",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> »toolCart 750« </h2>",
+      "body": "",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/8/8/csm_toolCart750_030ae7fb7a.webp",
+        "alt": "",
+        "w": 680,
+        "h": 379
+       }
+      ],
+      "videos": [],
+      "pos": "below",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3004",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "none"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 尺寸 </h2>",
+      "table": "<table> <tbody> <tr> <td> 高×宽×深：910×560×880 毫米 </td> </tr> </tbody></table>",
+      "ftype": "table",
+      "id": "c3003",
+      "bg": "",
+      "space": {
+       "before": "none",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 有效载荷 </h2>",
+      "table": "<table> <tbody> <tr> <td> 最大承重 450 公斤 </td> </tr> </tbody></table>",
+      "ftype": "table",
+      "id": "c3036",
+      "bg": "",
+      "space": {
+       "before": "small",
+       "after": "small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 刀套 — SK型 </h2>",
+      "table": "<table> <tbody> <tr> <td> SK 30，尺寸 S，宽 72 毫米，每架最多 12 个 </td> </tr> <tr> <td> SK 40，尺寸 S，宽 72 毫米，每架最多 12 个 </td> </tr> <tr> <td> SK 50，尺寸 L，宽 95 毫米，每架最多 7 个 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3045",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 刀套 – HSK型 </h2>",
+      "table": "<table> <tbody> <tr> <td> HSK 25、32，尺寸S，宽72毫米，每架最多12个 </td> </tr> <tr> <td> HSK 40，尺寸S，宽72毫米，每架最多12个 </td> </tr> <tr> <td> HSK 50，尺寸S 号，宽 72 毫米，每架最多 12 个 </td> </tr> <tr> <td> HSK 63，尺寸S或L，宽分别为 72 毫米和 95 毫米，每架最多 12 个或 7 个 </td> </tr> <tr> <td> HSK 80，尺寸L，宽95毫米，每架最多7个 </td> </tr> <tr> <td> HSK 100，尺寸L，宽95毫米，每架最多7个 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3046",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 刀套 – VDI型 </h2>",
+      "table": "<table> <tbody> <tr> <td> VDI 30，尺寸S，宽72毫米，每架最多12个 </td> </tr> <tr> <td> VDI 40，尺寸S，宽72毫米，每架最多12个 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3047",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 刀套 — PSC型 </h2>",
+      "table": "<table> <tbody> <tr> <td> PSC 40，尺寸S，宽 72 毫米，每架最多 12 个 </td> </tr> <tr> <td> PSC 50，尺寸S，宽 72 毫米，每架最多 12 个 </td> </tr> <tr> <td> PSC 63，尺寸S，宽 72 毫米，每架最多 12 个 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3048",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 刀套 — 坯件型 </h2>",
+      "table": "<table> <tbody> <tr> <td> B58，宽 58 毫米，每架最多 7 个 </td> </tr> <tr> <td> B75，宽 75 毫米，每架最多 7 个 </td> </tr> <tr> <td> B120，宽 120 毫米，每架最多 7 个 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3049",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 刀套 — 附加固定器型 </h2>",
+      "table": "<table> <tbody> <tr> <td> D 78 VSH 尺寸1，宽95毫米，每架最多7个 </td> </tr> </tbody></table>",
+      "ftype": "table",
+      "id": "c3050",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 刀套 — 木质套筒 </h2>",
+      "table": "<table> <tbody> <tr> <td> 木质套筒/坯件，宽 328 毫米，每架最多 2 个 </td> </tr> <tr> <td> D 42 14 孔，宽 328 毫米，每架最多 2 个 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3051",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     },
+     {
+      "type": "table",
+      "header": "<h2> 配件 </h2>",
+      "table": "<table> <tbody> <tr> <td> 附加刀具更换架 </td> </tr> <tr> <td> 可选刀套 </td> </tr> </tbody> </table>",
+      "ftype": "table",
+      "id": "c3052",
+      "bg": "",
+      "space": {
+       "before": "extra-small",
+       "after": "extra-small"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3001",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "刀具管理：为您带来的优势",
+     "caption": "<figcaption> <h3>刀具管理：为您带来的优势</h3> <p>了解ZOLLER的刀具管理解决方案如何立即提升您的生产效率。借助刀具数据，加工过程将更加快速、安全——其中还包括对您机床的防碰撞保护功能。 </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "一对一专家咨询",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>一对一专家咨询</h3> <p>针对您的目标以及我们为此提出的方案，进行一对一的交流。ZOLLER 直接从“智能工厂”为您提供的在线咨询服务。立即预约。 </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ch/产品/刀具管理/工具运输/toolcart/配置",
+ "de_path": "/produkte/toolmanagement/smart-cabinets/toolcart/konfiguration"
+}

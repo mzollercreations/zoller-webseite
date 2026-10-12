@@ -1,0 +1,210 @@
+{
+ "path": "/esemenyek/grindingsale/ajanlatkeres",
+ "url": "/hu/esemenyek/grindingsale/ajanlatkeres",
+ "title": "Ajánlatkérés",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Események /",
+   "href": "/hu/esemenyek"
+  },
+  {
+   "label": "GrindingSale",
+   "href": "/hu/esemenyek/grindingsale"
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Események /",
+   "href": "/hu/esemenyek"
+  },
+  {
+   "label": "GrindingSale",
+   "href": "/hu/esemenyek/grindingsale"
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/events/grindingsale/angebot-anfordern",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/events/grindingsale/request-a-quote",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/evenemang/grindingsale/begaer-offert",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/events/grindingsale/angebot-anfordern",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/evenements/grindingsale/demander-un-devis",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/grindingsale/%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A%E3%82%92%E4%BE%9D%E9%A0%BC%E3%81%99%E3%82%8B",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%96%89%EC%82%AC/%EA%B7%B8%EB%9D%BC%EC%9D%B8%EB%94%A9%EC%84%B8%EC%9D%BC/%EA%B2%AC%EC%A0%81-%EC%9A%94%EC%B2%AD%ED%95%98%EA%B8%B0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/8/6/csm_header_grindingsales_1586d4ea9c.webp",
+     "video": null,
+     "title": "GrindingSale",
+     "kicker": "",
+     "text": "<p>Regisztráljon most, válasszon, és biztosítsa magának<br/>az árkedvezményt a GrindingHub 2026 rendezvényre.</p>",
+     "buttons": [],
+     "light": true
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c52712",
+   "bg": "yellow",
+   "space": {}
+  },
+  {
+   "type": "form",
+   "kind": "form_formframework",
+   "html": "<form action=\"https://www.zoller.info/hu/esemenyek/grindingsale/ajanlatkeres?tx_form_formframework%5Baction%5D=perform&amp;tx_form_formframework%5Bcontroller%5D=FormFrontend&amp;cHash=e0542cf94d32ce84564fa94b09353faa#dE-GrindingSale2026-26026\" enctype=\"multipart/form-data\" id=\"dE-GrindingSale2026-26026\" method=\"post\"> <div><input name=\"tx_form_formframework[dE-GrindingSale2026-26026][__state]\" type=\"hidden\" value=\"TzozOToiVFlQTzNcQ01TXEZvcm1cRG9tYWluXFJ1bnRpbWVcRm9ybVN0YXRlIjoyOntzOjI1OiIAKgBsYXN0RGlzcGxheWVkUGFnZUluZGV4IjtpOjA7czoxMzoiACoAZm9ybVZhbHVlcyI7YTowOnt9fQ==e1fa0a6fff7432dcbaca0174b96641dc4234cdba\"/><input name=\"tx_form_formframework[__trustedProperties]\" type=\"hidden\" value='{\"dE-GrindingSale2026-26026\":{\"ynohbvtE72fwlYmpJ\":1,\"redio-1\":1,\"text-1\":1,\"text-2\":1,\"email\":1,\"text-3\":1,\"countryselect-1\":1,\"__currentPage\":1}}55ee5c20e97582c516d8f322329529c7158bb410'/> </div> <div class=\"form-page-header\"> <ul> <li class=\"active\"> <span>Schritt 1: Kontaktdaten eingeben</span> </li> <li class=\"inactive\"> <span>Schritt 2: Produkt auswählen</span> </li> </ul> </div> <div class=\"clearfix\"> <h2>1. Kontaktdaten eingeben</h2> </div> <input aria-hidden=\"true\" data-id=\"ynohbvtE72fwlYmpJ\" id=\"dE-GrindingSale2026-26026-ynohbvtE72fwlYmpJ\" name=\"tx_form_formframework[dE-GrindingSale2026-26026][ynohbvtE72fwlYmpJ]\" tabindex=\"-1\" type=\"text\"/> <div class=\"form-group\"> <div class=\"input\"> <label class=\"form-label\">Anrede <span class=\"required\">*</span> </label> <div class=\"input\"> <div class=\"inputs-list\" id=\"dE-GrindingSale2026-26026-redio-1\"> <div class=\"form-group\"> <div class=\"form-check\"> <input class=\"xlarge form-check-input\" id=\"dE-GrindingSale2026-26026-redio-1-0\" name=\"tx_form_formframework[dE-GrindingSale2026-26026][redio-1]\" required=\"required\" type=\"radio\" value=\"Herr\"/> <label class=\"form-check-label\" for=\"dE-GrindingSale2026-26026-redio-1-0\"> <span>Herr</span> </label> </div> <div class=\"form-check\"> <input class=\"xlarge form-check-input\" id=\"dE-GrindingSale2026-26026-redio-1-1\" name=\"tx_form_formframework[dE-GrindingSale2026-26026][redio-1]\" required=\"required\" type=\"radio\" value=\"Frau\"/> <label class=\"form-check-label\" for=\"dE-GrindingSale2026-26026-redio-1-1\"> <span>Frau</span> </label> </div> <div class=\"form-check\"> <input class=\"xlarge form-check-input\" id=\"dE-GrindingSale2026-26026-redio-1-2\" name=\"tx_form_formframework[dE-GrindingSale2026-26026][redio-1]\" required=\"required\" type=\"radio\" value=\"Divers\"/> <label class=\"form-check-label\" for=\"dE-GrindingSale2026-26026-redio-1-2\"> <span>Divers</span> </label> </div> </div> </div> </div> </div> </div> <div class=\"row\"> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"dE-GrindingSale2026-26026-text-1\">Vorname <span class=\"required\">*</span> </label> <div class=\"input\"> <input class=\"form-control\" id=\"dE-GrindingSale2026-26026-text-1\" name=\"tx_form_formframework[dE-GrindingSale2026-26026][text-1]\" required=\"required\" type=\"text\" value=\"\"/> </div> </div> </div> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"dE-GrindingSale2026-26026-text-2\">Nachname <span class=\"required\">*</span> </label> <div class=\"input\"> <input class=\"form-control\" id=\"dE-GrindingSale2026-26026-text-2\" name=\"tx_form_formframework[dE-GrindingSale2026-26026][text-2]\" required=\"required\" type=\"text\" value=\"\"/> </div> </div> </div> </div> <div class=\"row\"> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"dE-GrindingSale2026-26026-email\">Email <span class=\"required\">*</span> </label> <div class=\"input\"> <input class=\"form-control\" id=\"dE-GrindingSale2026-26026-email\" name=\"tx_form_formframework[dE-GrindingSale2026-26026][email]\" required=\"required\" type=\"email\" value=\"\"/> </div> </div> </div> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"dE-GrindingSale2026-26026-text-3\">Unternehmen <span class=\"required\">*</span> </label> <div class=\"input\"> <input class=\"form-control\" id=\"dE-GrindingSale2026-26026-text-3\" name=\"tx_form_formframework[dE-GrindingSale2026-26026][text-3]\" required=\"required\" type=\"text\" value=\"\"/> </div> </div> </div> </div> <div class=\"form-group\"> <label class=\"form-label\" for=\"dE-GrindingSale2026-26026-countryselect-1\">Land <span class=\"required\">*</span> </label> <div class=\"input\"> <select class=\"form-control\" id=\"dE-GrindingSale2026-26026-countryselect-1\" name=\"tx_form_formframework[dE-GrindingSale2026-26026][countryselect-1]\" required=\"required\"><option data-prioritized=\"1\" value=\"DE\">Németország</option><option data-prioritized=\"1\" value=\"IT\">Olaszország</option><option data-prioritized=\"1\" value=\"PT\">Portugália</option><option data-prioritized=\"1\" value=\"ES\">Spanyolország</option><option data-prioritized=\"1\" value=\"CH\">Svájc</option><option data-prioritized=\"1\" value=\"GB\">Egyesült Királyság</option><option data-prioritized=\"1\" value=\"US\">Egyesült Államok</option><option value=\"NC\">Új-Kaledónia</option><option value=\"NZ\">Új-Zéland</option><option value=\"AX\">Åland-szigetek</option><option value=\"AL\">Albánia</option><option value=\"DZ\">Algéria</option><option value=\"AS\">Amerikai Szamoa</option><option value=\"VI\">Amerikai Virgin-szigetek</option><option value=\"AD\">Andorra</option><option value=\"AO\">Angola</option><option value=\"AI\">Anguilla</option><option value=\"AQ\">Antarktisz</option><option value=\"AG\">Antigua és Barbuda</option><option value=\"AR\">Argentína</option><option value=\"AM\">Örményország</option><option value=\"IE\">Írország</option><option value=\"AW\">Aruba</option><option value=\"MP\">Északi-Mariana-szigetek</option><option value=\"MK\">Észak-Macedónia</option><option value=\"EE\">Észtország</option><option value=\"AU\">Ausztrália</option><option value=\"AT\">Ausztria</option><option value=\"UM\">Az Amerikai Egyesült Államok lakatlan külbirtokai</option><option value=\"UZ\">Üzbegisztán</option><option value=\"AZ\">Azerbajdzsán</option><option value=\"BS\">Bahama-szigetek</option><option value=\"BH\">Bahrein</option><option value=\"BD\">Banglades</option><option value=\"BB\">Barbados</option><option value=\"BE\">Belgium</option><option value=\"BZ\">Belize</option><option value=\"BJ\">Benin</option><option value=\"BM\">Bermuda</option><option value=\"BT\">Bhután</option><option value=\"GW\">Bissau-Guinea</option><option value=\"BO\">Bolívia, Többnemzetiségű Állam</option><option value=\"BQ\">Bonaire, Sint Eustatius és Saba</option><option value=\"BA\">Bosznia-Hercegovina</option><option value=\"BW\">Botswana</option><option value=\"BV\">Bouvet-sziget</option><option value=\"BR\">Brazília</option><option value=\"IO\">Brit Indiai-óceáni Terület</option><option value=\"VG\">Brit Virgin-szigetek</option><option value=\"BN\">Brunei Darussalam Állam</option><option value=\"BG\">Bulgária</option><option value=\"BF\">Burkina Faso</option><option value=\"BI\">Burundi</option><option value=\"CL\">Chile</option><option value=\"CY\">Ciprus</option><option value=\"KM\">Comore-szigetek</option><option value=\"CK\">Cook-szigetek</option><option value=\"CR\">Costa Rica</option><option value=\"CW\">Curaçao</option><option value=\"TD\">Csád</option><option value=\"CZ\">Csehország</option><option value=\"DK\">Dánia</option><option value=\"ZA\">Dél-afrikai Köztársaság</option><option value=\"GS\">Déli-Georgia és Déli-Sandwich-szigetek</option><option value=\"SS\">Dél-Szudán</option><option value=\"DM\">Dominikai Közösség</option><option value=\"DO\">Dominikai Köztársaság</option><option value=\"DJ\">Dzsibuti</option><option value=\"EC\">Ecuador</option><option value=\"GQ\">Egyenlítői-Guinea</option><option value=\"AE\">Egyesült Arab Emírségek</option><option value=\"EG\">Egyiptom</option><option value=\"CI\">Elefántcsontpart</option><option value=\"SV\">El Salvador</option><option value=\"ER\">Eritrea</option><option value=\"ET\">Etiópia</option><option value=\"FK\">Falkland-szigetek (Malvinas)</option><option value=\"PH\">Fülöp-szigetek</option><option value=\"BY\">Fehéroroszország</option><option value=\"FO\">Feröer</option><option value=\"FJ\">Fidzsi-szigetek</option><option value=\"FI\">Finnország</option><option value=\"TF\">Francia déli területek</option><option value=\"GF\">Francia Guyana</option><option value=\"FR\">Franciaország</option><option value=\"PF\">Francia Polinézia</option><option value=\"GA\">Gabon</option><option value=\"GM\">Gambia</option><option value=\"GR\">Görögország</option><option value=\"GH\">Ghána</option><option value=\"GI\">Gibraltár</option><option value=\"GL\">Grönland</option><option value=\"GE\">Grúzia</option><option value=\"GD\">Grenada</option><option value=\"GP\">Guadeloupe</option><option value=\"GU\">Guam</option><option value=\"GT\">Guatemala</option><option value=\"GG\">Guernsey</option><option value=\"GN\">Guinea</option><option value=\"GY\">Guyana</option><option value=\"HT\">Haiti</option><option value=\"HM\">Heard-sziget és McDonald-szigetek</option><option value=\"NL\">Hollandia</option><option value=\"HN\">Honduras</option><option value=\"HK\">Hongkong</option><option value=\"HR\">Horvátország</option><option value=\"IN\">India</option><option value=\"ID\">Indonézia</option><option value=\"IR\">Irán, Iszlám Köztársaság</option><option value=\"IQ\">Irak</option><option value=\"IS\">Izland</option><option value=\"IL\">Izrael</option><option value=\"JM\">Jamaica</option><option value=\"JP\">Japán</option><option value=\"YE\">Jemen</option><option value=\"JE\">Jersey</option><option value=\"JO\">Jordánia</option><option value=\"KY\">Kajmán-szigetek</option><option value=\"CC\">Kókusz (Keeling)-szigetek</option><option value=\"KH\">Kambodzsa</option><option value=\"CM\">Kamerun</option><option value=\"CN\">Kína</option><option value=\"CA\">Kanada</option><option value=\"CX\">Karácsony-sziget</option><option value=\"CF\">Közép-afrikai Köztársaság</option><option value=\"QA\">Katar</option><option value=\"KZ\">Kazahsztán</option><option value=\"TL\">Kelet-Timor</option><option value=\"KE\">Kenya</option><option value=\"KG\">Kirgizisztán</option><option value=\"KI\">Kiribati</option><option value=\"CO\">Kolumbia</option><option value=\"CG\">Kongó</option><option value=\"CD\">Kongói Demokratikus Köztársaság</option><option value=\"KR\">Koreai Köztársaság</option><option value=\"KP\">Koreai Népi Demokratikus Köztársaság</option><option value=\"CU\">Kuba</option><option value=\"KW\">Kuvait</option><option value=\"LY\">Líbia</option><option value=\"LA\">Laoszi Népi Demokratikus Köztársaság</option><option value=\"PL\">Lengyelország</option><option value=\"LS\">Lesotho</option><option value=\"LV\">Lettország</option><option value=\"LB\">Libanon</option><option value=\"LR\">Libéria</option><option value=\"LI\">Liechtenstein</option><option value=\"LT\">Litvánia</option><option value=\"LU\">Luxemburg</option><option value=\"MT\">Málta</option><option value=\"MG\">Madagaszkár</option><option value=\"HU\">Magyarország</option><option value=\"MO\">Makaó</option><option value=\"MY\">Malajzia</option><option value=\"MW\">Malawi</option><option value=\"MV\">Maldív-szigetek</option><option value=\"ML\">Mali</option><option value=\"IM\">Man</option><option value=\"MA\">Marokkó</option><option value=\"MH\">Marshall-szigetek</option><option value=\"MQ\">Martinique</option><option value=\"MR\">Mauritánia</option><option value=\"MU\">Mauritius</option><option value=\"YT\">Mayotte</option><option value=\"MX\">Mexikó</option><option value=\"MM\">Mianmar</option><option value=\"FM\">Mikronéziai Szövetségi Államok</option><option value=\"MD\">Moldovai Köztársaság</option><option value=\"MC\">Monaco</option><option value=\"MN\">Mongólia</option><option value=\"ME\">Montenegró</option><option value=\"MS\">Montserrat</option><option value=\"MZ\">Mozambik</option><option value=\"NA\">Namíbia</option><option value=\"NR\">Nauru</option><option value=\"NP\">Nepál</option><option value=\"NI\">Nicaragua</option><option value=\"NG\">Nigéria</option><option value=\"NE\">Niger</option><option value=\"NU\">Niue</option><option value=\"NF\">Norfolk-sziget</option><option value=\"NO\">Norvégia</option><option value=\"EH\">Nyugat-Szahara</option><option value=\"OM\">Omán</option><option value=\"RU\">Orosz Föderáció</option><option value=\"PG\">Pápua Új-Guinea</option><option value=\"PK\">Pakisztán</option><option value=\"PW\">Palau</option><option value=\"PS\">Palesztina, Nemzeti Hatóság</option><option value=\"PA\">Panama</option><option value=\"PY\">Paraguay</option><option value=\"PE\">Peru</option><option value=\"PN\">Pitcairn-szigetek</option><option value=\"PR\">Puerto Rico</option><option value=\"RE\">Réunion</option><option value=\"RO\">Románia</option><option value=\"RW\">Ruanda</option><option value=\"BL\">Saint-Barthélemy</option><option value=\"KN\">Saint Kitts és Nevis</option><option value=\"LC\">Saint Lucia</option><option value=\"MF\">Saint-Martin (francia rész)</option><option value=\"PM\">Saint-Pierre és Miquelon</option><option value=\"VC\">Saint Vincent és a Grenadine-szigetek</option><option value=\"SB\">Salamon-szigetek</option><option value=\"ST\">São Tomé és Príncipe</option><option value=\"SM\">San Marino</option><option value=\"SC\">Seychelle-szigetek</option><option value=\"SL\">Sierra Leone</option><option value=\"SX\">Sint Maarten (holland rész)</option><option value=\"LK\">Srí Lanka</option><option value=\"SR\">Suriname</option><option value=\"SJ\">Svalbard és Jan Mayen</option><option value=\"SE\">Svédország</option><option value=\"SA\">Szaúd-Arábia</option><option value=\"WS\">Szamoa</option><option value=\"SY\">Szíriai Arab Köztársaság</option><option value=\"SN\">Szenegál</option><option value=\"SH\">Szent Ilona, Ascension és Tristan da Cunha</option><option value=\"VA\">Szentszék (Vatikánvárosi Állam)</option><option value=\"RS\">Szerbia</option><option value=\"SG\">Szingapúr</option><option value=\"SK\">Szlovákia</option><option value=\"SI\">Szlovénia</option><option value=\"SO\">Szomália</option><option value=\"SD\">Szudán</option><option value=\"SZ\">Szváziföld</option><option value=\"TJ\">Tádzsikisztán</option><option value=\"TW\">Tajvan, Kína tartománya</option><option value=\"TZ\">Tanzánia, Egyesült Köztársaság</option><option value=\"TR\">Törökország</option><option value=\"TM\">Türkmenisztán</option><option value=\"TH\">Thaiföld</option><option value=\"TG\">Togo</option><option value=\"TK\">Tokelau-szigetek</option><option value=\"TO\">Tonga</option><option value=\"TT\">Trinidad és Tobago</option><option value=\"TN\">Tunézia</option><option value=\"TC\">Turks- és Caicos-szigetek</option><option value=\"TV\">Tuvalu</option><option value=\"UG\">Uganda</option><option value=\"UA\">Ukrajna</option><option value=\"UY\">Uruguay</option><option value=\"VU\">Vanuatu</option><option value=\"VE\">Venezuelai Bolivári Köztársaság</option><option value=\"VN\">Vietnám</option><option value=\"WF\">Wallis és Futuna</option><option value=\"ZM\">Zambia</option><option value=\"CV\">Zöld-foki Köztársaság</option><option value=\"ZW\">Zimbabwe</option></select> </div> </div> <div class=\"actions\"> <nav class=\"form-navigation\"> <div class=\"btn-toolbar\" role=\"toolbar\"> <div class=\"btn-group\" role=\"group\"> <span class=\"btn-group next\"> <button class=\"block-button\" name=\"tx_form_formframework[dE-GrindingSale2026-26026][__currentPage]\" type=\"submit\" value=\"1\">Produkt auswählen</button> </span> </div> </div> </nav> </div> </form>",
+   "header": "",
+   "ftype": "form_formframework",
+   "id": "c26026",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/hu/esemenyek/grindingsale/ajanlatkeres",
+ "de_path": "/events/grindingsale/angebot-anfordern"
+}

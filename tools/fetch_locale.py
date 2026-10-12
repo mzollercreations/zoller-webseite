@@ -25,7 +25,12 @@ import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 
 ORIGIN = "https://www.zoller.info"
-HOMES = {"ca": "/ca/accueil", "ca-fr": "/ca-fr/page-daccueil", "mx": "/mx/pagina-de-inicio"}
+HOMES = {"ca": "/ca/accueil", "ca-fr": "/ca-fr/page-daccueil", "mx": "/mx/pagina-de-inicio",
+         "en_DE": "/en_DE/home", "es": "/es/pagina-de-inicio", "fr": "/fr/page-daccueil", "pt": "/pt/pagina-inicial",
+         "it": "/it/home-page", "se": "/se/startsida", "pl": "/pl/strona-glowna", "ch": "/ch/%E9%A6%96%E9%A1%B5",
+         "si": "/si/domaca-stran", "cz": "/cz/uvodni-stranka", "hu": "/hu/fooldal", "sk": "/sk/domovska-stranka",
+         "at": "/at/startseite", "ja": "/ja/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8", "kr": "/kr/%ED%99%88",
+         "in": "/in/homepage", "br": "/br/pagina-inicial"}
 UA = {"User-Agent": "Mozilla/5.0 (Macintosh) zoller-webseite/fetch_locale"}
 
 
@@ -116,7 +121,7 @@ def main():
             status, final, body = get(u)
         except Exception as e:  # noqa: BLE001
             return f"fail {u} {e}"
-        if urllib.parse.urlparse(final).path.rstrip("/") != path:
+        if urllib.parse.unquote(urllib.parse.urlparse(final).path).rstrip("/") != path:  # CJK-Adressen kommen kodiert zurück
             return f"redirect {u} -> {final}"
         with open(target, "w", encoding="utf-8") as fh:
             fh.write(body)

@@ -1,0 +1,439 @@
+{
+ "path": "/spolocnost/kontakt/kontaktna-osoba",
+ "url": "/sk/spolocnost/kontakt/kontaktna-osoba",
+ "title": "Kontaktná osoba",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/sk/domovska-stranka"
+  },
+  {
+   "label": "Spoločnosť /",
+   "href": "/sk/spolocnost"
+  },
+  {
+   "label": "Kontakt /",
+   "href": "/sk/spolocnost/kontakt"
+  },
+  {
+   "label": "Kontaktná osoba",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/sk/domovska-stranka"
+  },
+  {
+   "label": "Spoločnosť /",
+   "href": "/sk/spolocnost"
+  },
+  {
+   "label": "Kontakt /",
+   "href": "/sk/spolocnost/kontakt"
+  },
+  {
+   "label": "Kontaktná osoba",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/kontakt/ansprechpartner",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/contact/contact-person",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/contacto/persona-de-contacto",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/contact/interlocuteur",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/contacto/pessoa-de-contacto",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/contatto/persona-di-contatto",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/kontakt/kontaktperson",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/kontakt/ansprechpartner",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/contact-us/contact-person",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/contact/interlocuteur",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E6%8B%85%E5%BD%93%E8%80%85",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98/%EB%8B%B4%EB%8B%B9%EC%9E%90",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/contact-us/your-contact-person-in-india",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/contacto/persona-de-contacto",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/contacto/entre-em-contato",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/c/f/csm_csm_customer-meeting-ZOLLER-03_RGB_38e548be22_360e80a1e0.webp",
+     "video": null,
+     "title": "Blízko k zákazníkom",
+     "kicker": "",
+     "text": "<p>Hľadáte individuálne poradenstvo?</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c3249",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "66-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p class=\"extra-large-text\">Nájdite si regionálneho zástupcu. Naši zamestnanci vám radi pomôžu – využite individuálnu konzultáciu s odborníkmi spoločnosti ZOLLER.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3251",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-2cols",
+   "id": "c3250",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-33-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Servis </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3254",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><a href=\"mailto:servis@zoller.cz\">servis@zoller.cz</a></p> <p><a href=\"tel:+420773946838\">+420 774 965 537</a><br/><a href=\"tel:+420773946838\">+420 773 946 838</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c4179",
+      "bg": "lightgray",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>Karel Suchna</strong><br/><br/>Jednatel<br/><a href=\"mailto:suchna@zoller.cz\">suchna@zoller.cz</a><br/><a href=\"tel:+420773946838\">+420 773 946 838</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3257",
+      "bg": "lightgray",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-33-33-33",
+   "id": "c3253",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-33-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Kanceláře </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c4181",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>ZOLLER Czech s.r.o.</strong></p> <p>Měřicí a seřizovací přístroje<br/><strong>sídlo + show room:</strong> Hálkova 19, CZ-680 01 Boskovice<br/>IČO: 06279431<br/>Email: <a href=\"mailto:info@zoller.cz\"><u>info@zoller.cz</u></a> <br/>Internet: <a class=\"link-arrow\" href=\"https://zoller.cz/\" rel=\"noopener\" target=\"_blank\"><u>www.zoller.cz</u></a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c4182",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>ZOLLER Austria GmbH</strong></p> <p>Einstell- und Messgeräte<br/>Haydnstr. 2, 4910 Ried im Innkreis, Rakousko<br/>Telefon: +43 7752 877 2511, <br/>Fax: +43 7752 87726<br/>Email: <u>office@zoller-a.at</u><br/>Internet: <a class=\"link-arrow\" href=\"https://zoller-a.at/\" rel=\"noopener\" target=\"_blank\"><u>www.zoller-a.at</u></a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c4194",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-33-33-33",
+   "id": "c4785",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-33-33",
+   "columns": [
+    [],
+    [],
+    []
+   ],
+   "ftype": "container-33-33-33",
+   "id": "c4786",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/2/csm_teaser_software_update_079d1bc12f.webp",
+     "alt": "",
+     "w": 633,
+     "h": 332,
+     "title": "Aktualizácia softvéru",
+     "href": "/sk/aktualizacie-softveru",
+     "caption": "<figcaption> <h3>Aktualizácia softvéru</h3> <p>Vždy v aktuálnom stave. Stačí nám zaslať sériové číslo vášho zariadenia alebo softvéru a môžete využívať najnovšie opravy.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/d/0/csm_teaser_online_support_1b44919036.webp",
+     "alt": "",
+     "w": 633,
+     "h": 332,
+     "title": "Online podpora",
+     "href": "/sk/online-podpora",
+     "caption": "<figcaption> <h3>Online podpora</h3> <p>Aby sme vám mohli rýchlo a efektívne pomôcť v prípade otázok týkajúcich sa našich produktov alebo technických problémov.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/d/4/csm_teaser_newsletter_36e5e58bec.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Newsletter",
+     "href": "/sk/spolocnost/kontakt/newsletter",
+     "caption": "<figcaption> <h3>Newsletter</h3> <p>V spravodajstve spoločnosti ZOLLER „Insights into progress“ predstavujeme dôležité témy z odvetvia. Informujeme o produktoch, príbehoch úspechu a termínoch. Prihláste sa teraz.</p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c26294",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/sk/spolocnost/kontakt/kontaktna-osoba",
+ "de_path": "/unternehmen/kontakt/ansprechpartner"
+}

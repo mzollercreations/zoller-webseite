@@ -1,0 +1,314 @@
+{
+ "path": "/azienda/carriera",
+ "url": "/it/azienda/carriera",
+ "title": "Carriera",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/it/home-page"
+  },
+  {
+   "label": "Azienda /",
+   "href": "/it/azienda"
+  },
+  {
+   "label": "Carriera",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/it/home-page"
+  },
+  {
+   "label": "Azienda /",
+   "href": "/it/azienda"
+  },
+  {
+   "label": "Carriera",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/karriere",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/carrera-profesional",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/carriere",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/carreira",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/carriera",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/karriaer",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/karriere",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/career",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/carriere",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EC%B1%84%EC%9A%A9-%EC%A0%95%EB%B3%B4",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/career",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/carrera-profesional",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/carreira",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/2/8/csm_carreer_header_0aa181ca44.webp",
+     "video": null,
+     "title": "Lavorare da ZOLLER",
+     "kicker": "",
+     "text": "<p>Leader mondiale, ambiente familiari: inizia la tua carriera con ZOLLER.</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4050",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "subnav",
+   "title": "Carriera",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Offerte di lavoro",
+     "href": "/it/azienda/carriera/offerte-di-lavoro",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c4066",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Si cercano esperti! </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c4048",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h4>Lavorare in un'azienda a conduzione familiare:</h4> <p>ZOLLER è un'azienda a conduzione familiare che sviluppa e produce presetting e macchine di misurazione innovative, software per la misurazione, il controllo e la gestione degli utensili e relative soluzioni di automazione. Grazie all'innovazione tecnologica, all'elevata attenzione, alla qualità e alla filosofia orientata al servizio, ci siamo assicurati un posto tra i leader mondiali. Il nostro successo lo dobbiamo ai circa 400 dipendenti ZOLLER della sede centrale di Pleidelsheim, vicino a Stoccarda, e agli oltre 400 colleghi delle filiali e delle rappresentanze in 85 sedi in tutto il mondo.</p> <h4>Aree di attività interessanti:</h4> <p>offriamo compiti stimolanti e vari, processi decisionali brevi e possibilità di partecipazione e sviluppo. Che tua sia in formazione o un dipendente con esperienza, entra a far parte del team ZOLLER.</p> <h4>Ambiente internazionale:</h4> <p>alla ZOLLER la vicinanza al cliente non è solo una promessa, ma una realtà: siamo presenti con la nostra rete di vendita e assistenza in 62 paesi.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c4049",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4047",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/0/csm_teaser_profile_bf2693bd59.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Informazioni su ZOLLER",
+     "href": "/it/azienda/profilo",
+     "caption": "<figcaption> <h3>Informazioni su ZOLLER</h3> <p>Il nome ZOLLER è strettamente collegato a un team di oltre 800 persone, a numerose innovazioni e alla concretezza di un'azienda a conduzione familiare.</p> <br/> Scopri di più </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/4/csm_teaser_media_f7299d9c84.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Media",
+     "href": "/it/azienda/media",
+     "caption": "<figcaption> <h3>Media</h3> <p>Qui troverete comunicati stampa, annunci di prodotti, partecipazioni a fiere, articoli di stampa tratti da riviste specializzate e l'<br/> archivio delle notizie.</p> <br/> Scopri di più </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/b/csm_teaser_reports_90bbbeda0a.webp",
+     "alt": "",
+     "w": 633,
+     "h": 333,
+     "title": "Rapporti e storie",
+     "href": "/it/azienda/rapporti-e-storie",
+     "caption": "<figcaption> <h3>Rapporti e storie</h3> <p>Cosa succede alla ZOLLER, cosa dicono i nostri clienti riguardo al lavoro con le soluzioni ZOLLER? Qui trovate gli aggiornamenti.</p> <br/> Scopri di più </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c26310",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/it/azienda/carriera",
+ "de_path": "/unternehmen/karriere"
+}

@@ -1,0 +1,434 @@
+{
+ "path": "/szerszamok-elrendezese",
+ "url": "/hu/szerszamok-elrendezese",
+ "title": "Szerszámok elrendezése",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Szerszámok elrendezése",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Szerszámok elrendezése",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeugorganistation",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-organization",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/organizacion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/organisation-des-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/organizacao-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/organizzazione-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verktygsorganisation",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeugorganistation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/tool-organization",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/organisation-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%95%B4%E7%90%86",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EC%A0%95%EB%A6%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/tool-organization",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/organizacion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/organizacao-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/7/e/csm_toolorga_header_d09c850eda.webp",
+     "video": null,
+     "title": "A szerszámok rendszerezése növeli a hatékonyságot",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7972",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">A szerszámok jobb szervezése nem csupán látszólagos rendet teremt a gyárban – hanem konkrétan csökkenti a gépek leállási idejét, és ezzel növeli a gyártás hatékonyságát. Hogyan történik ez?</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7974",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> A szerszámok rendszerezése több, mint egyszerű rendrakás </h2>",
+   "body": "<p>A műhelyek valós körülményei és gyakorlata miatt a kisebb rendetlenséget aligha lehet elkerülni – de ennek nagy része annak köszönhető, hogy minden szerszámnak van-e kijelölt helye, ahová el lehet és kell tenni.</p> <p>Ez alapvetően minden szerszámrendezés lényege: hogy minden szerszámalkatrész bármikor megtalálható legyen. Ha nem kell szerszámot keresnie, akkor összességében nem csak bosszúságot és frusztrációt takarít meg, hanem rengeteg munkaidőt és idegességet is. Gépei nem kelljenek a következő felhasználásra várniuk, a szerszámok nem hevernek haszontalanul – és munkáját is jelentősen hatékonyabbá teheti.</p> <p>A ZOLLER-nél egy holisztikus, átfogó megközelítést tűzünk ki célul a szerszámok szervezése terén. Ezért <strong>moduláris felépítésű</strong> szerszámkezelő <strong>szoftver</strong>ünket <strong>intelligens raktárrendszerek</strong>kel kombináljuk, amelyek együttesen gondoskodnak arról, hogy mindig szem előtt tartsa, hol található éppen egy adott szerszám – és milyen állapotban van, van-e még elegendő pótalkatrész, kell-e utánpótlást rendelni, és még sok minden mást.</p> <p>És mivel a szerszám természetesen egy adott feladatra szolgál, a teljes, holisztikus szerszámkezeléshez hozzátartozik a<strong> szerszámadatok</strong> digitális, hibamentes és vezeték nélküli <strong>továbbítása</strong> a géphez is. Így Ön a lényegre koncentrálhat: alkatrészeinek hatékony és eredményes gyártására.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7975",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "A gépek leállásának minimalizálása: az idő és a munkaerő hatékony kihasználása",
+    "Bármikor teljes átláthatóság az összes szerszám helyéről és állapotáról",
+    "Nincsenek ellátási hiányok: a pótlások és az utánrendelések áttekinthetők"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c7976",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Szoftveres eszközkezelés minden igényhez </h2>",
+   "body": "<p><strong>A hatékony szerszámkezelés elsősorban adatkezelés.</strong> </p> <p>Az első lépés az, hogy az egyes alkatrészek szerszámadatait, például a vágóanyagot és a súlyt, rögzítse a beállító vagy mérőeszközben, és bevigye a rendszerbe. A beállítási lapokkal és egyéb információkkal együtt így minden, amit egy szerszámról tudnia kell, egy központi helyen összegyűlik, és bármikor elérhető minden munkatárs számára.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/9/csm_digital_durchstarten_webTMS_16feff8d28.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7977",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-33-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Szerszámkezelés egyszerűen </h2>",
+      "body": "<p><strong>TMS Tool Management Solutions</strong> szoftverünkkel már a BRONZE csomag funkciói között is minden szükséges eszközt biztosítunk az eszközkezeléshez. Ide tartoznak különösen a következő funkciók:</p><ul><li>Szerszámadatok importálása a gyártók katalógusaiból vagy a felhőből – biztonságosan, hibamentesen és gyorsan</li><li>Szerszámadatok mobil eszközökről történő lekérdezése</li><li>ZOLLER mérő- és beállító készülékének teljes integrálása</li><li>Minden szerszámbeállítás menthető és azonnal lekérhető</li></ul><p><a class=\"btn\" href=\"/hu/termekek/eszkoezkezeles/tms-eszkoezkezelesi-megoldasok/szoftvercsomagok/bronze-cad/cam-modul\">Tudjon meg mindent a BRONZE szoftvercsomagról</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/d/1/csm_software_bronze_19edbebfe9.webp",
+        "alt": "",
+        "w": 680,
+        "h": 429
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7980",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> A szerszámok rendszerezése nem ér véget a raktárban </h2>",
+      "body": "<p><strong>Hol van pontosan ez a szerszám, és milyen állapotban van?</strong> A szerszámkezelés következő szintjére akkor léphet, ha raktárkezelését is digitálisan szervezi és optimalizálja, és így a <strong>szerszámállományát</strong> is a szükségletekhez és a minőségi követelményekhez igazodva tartja szemmel. Ez konkrétan azt jelenti, hogy:</p><ul><li>csökken a keresési idő,</li><li>a beállítási idők rövidülnek, és</li><li>a szerszámbeállítás szinte automatikusan megtörténik.</li></ul><p>SILVER csomagunk tartalmazza mindezeket a funkciókat, és lehetővé teszi, hogy ne csak az egyes szerszámok helyét és használatát tartsa szem előtt, hanem hatékonyan és időben gondoskodjon arról is, hogy elegendő alkatrész és pótalkatrész álljon rendelkezésre. Ez a <strong>szerszámfelügyelet</strong> teljes integrációját is jelenti <strong>a minőség-ellenőrzés és a kopáselemzés érdekében</strong>.</p> <p><a class=\"btn\" href=\"/hu/termekek/eszkoezkezeles/tms-eszkoezkezelesi-megoldasok/szoftvercsomagok/silver-mukoedesi-szervezet\">Tudjon meg mindent a SILVER szoftvercsomagról</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/e/0/csm_software_silver_d66477a30d.webp",
+        "alt": "",
+        "w": 680,
+        "h": 429
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7981",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Szerszámok újragondolva </h2>",
+      "body": "<p>A szerszámgazdálkodás GOLD-szabványa a szerszámokat teljes mértékben beépíti vállalatának minden folyamatába, és lehetővé teszi, hogy valós időben ellenőrizze, mennyire hatékonyan és milyen költségekkel történt a szerszámok használata. Így a teljes folyamatlánc mentén <strong>teljes költségellenőrzést és átláthatóságot</strong> biztosít szerszámgazdálkodásában.</p> <p>Mivel a szerszámkezelő rendszer dokumentálja, hogy az egyes szerszámokat hogyan használták fel a különböző megrendelések során, statisztikákat készíthet, amelyek pontos képet adnak munkája hatékonyságáról. Mindezt a szoftverünk GOLD csomagja teszi lehetővé, és emellett:</p><ul><li>A szerszámadatok kezelésének maximális hatékonysága</li><li>A gyártási megrendelések és beállítási lapok szisztematikus kezelése</li><li>Integrált élettartam-kezelés</li><li>Opcionális integráció a rendeléskezelésbe, beleértve a beszállítói menedzsmentet</li></ul><p><a class=\"btn\" href=\"/hu/termekek/eszkoezkezeles/tms-eszkoezkezelesi-megoldasok/szoftvercsomagok/gold-uezletvezetes\">Tudjon meg mindent a GOLD szoftvercsomagról</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/e/a/csm_software_gold_79cf4e6793.webp",
+        "alt": "",
+        "w": 680,
+        "h": 429
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7982",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-33-33-33",
+   "id": "c7979",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Szerszámkezelés, amely megkönnyíti a munkáját </h2>",
+   "body": "<p><strong>Bármely szerszámkezelési rendszer csak annyira jó, amennyire tartósan megkönnyíti az Ön és munkatársai munkáját. TMS Tool Management Solutions</strong> szoftverünk úgy lett kialakítva, hogy teljes mértékben és zökkenőmentesen <strong>együttműködjön a meglévő adatbázisokkal, gépekkel, raktárrendszerekkel és mérőeszközökkel</strong>. Így könnyíti meg a munkáját, növeli a hatékonyságát és megkönnyíti a műhelyben végzett munkát.</p> <p>Szoftvercsomagjaink moduláris felépítésének köszönhetően lehetősége van kizárólag azoknak a funkcióknak a kiválasztására, amelyekre valóban szüksége van. És bármikor hozzáadhat új funkciókat, ha szerszámkezelését magasabb szintre szeretné emelni.</p> <p>Vegye fel velünk a kapcsolatot, szívesen adunk tanácsot minden részletről, és elkészítjük Önnek a személyre szabott ajánlatunkat!</p> <p>További információk a webTMS-ről</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/6/csm_webTMS_devices_9783f65f1d.webp",
+     "alt": "",
+     "w": 1484,
+     "h": 1066
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7983",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Szerszámok, okosan elrendezve </h2>",
+   "body": "<p>Intelligens tárolószekrényeink tökéletesen kiegészítik a szoftveres szerszámkezelést – hiszen automatizált és rendezett módon biztosítják a kért szerszámokhoz való közvetlen hozzáférést.</p> <p>Ezen felül hasznosak a műhely mindennapi működéséhez szükséges összes eszköz kezelésében és szervezésében is. Intelligens szekrényeink különböző modelljeiben a legkülönbözőbb anyagokat tárolhatja rendszerezve – a szerszámoktól és alkatrészekektől kezdve a fogyóeszközökön át a kiegészítőkig vagy a mérő- és ellenőrző eszközökig. Szerszámokra van szüksége? Tárolórendszereinkben azonnal megtalálja, amire szüksége van.</p> <p>A kényelmes (és tágas) munkapadtól, ahol minden alkatrész kéznél van a szerszámok összeszereléséhez, a rugalmasan használható <a class=\"link-arrow\" href=\"/hu/termekek/eszkoezkezeles/szerszamok-szallitasa/toolcart\">szerszámkocsin</a> át, amely több mint 100 különböző szerszámnak nyújt helyet, egészen a <a class=\"link-arrow\" href=\"/hu/termekek/eszkoezkezeles/szerszamraktar/keeper\">teljes szerszámkészletek</a> és adapterek <a class=\"link-arrow\" href=\"/hu/termekek/eszkoezkezeles/szerszamraktar/keeper\">tárolására szolgáló</a> nagy <a class=\"link-arrow\" href=\"/hu/termekek/eszkoezkezeles/szerszamraktar/keeper\">szekrényig</a> – minden tárolási lehetőség optimális tárolást és kezelést biztosít szerszámai és anyagai számára.</p> <p>Áttekintésünkben megtalálja az összes Smart Cabinet és tárolási megoldást – biztosan megtalálja a műhelyéhez is a megfelelő változatot!</p> <p>Minden, amit tudni kell a tárolórendszereinkről</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/5/csm_toolmanagement_02_7e37951c35.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7984",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Eszközkezelés: az Ön előnyei",
+     "caption": "<figcaption> <h3>Eszközkezelés: az Ön előnyei</h3> <p>Tudja meg, hogyan növeli a ZOLLER szerszámkezelési rendszere azonnal a termelékenységét! A szerszámadatoknak köszönhetően a folyamatok gyorsabban és biztonságosabban zajlanak – beleértve a gépei ütközésvédelmét is. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 szakértői beszélgetés",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 szakértői beszélgetés</h3> <p>Személyre szabott megbeszélés az Ön céljairól és az azok eléréséhez kapcsolódó ötleteinkről. A ZOLLER online tanácsadása közvetlenül a Smart Factory-ból. Foglaljon időpontot most! </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/hu/szerszamok-elrendezese",
+ "de_path": "/werkzeugorganistation"
+}

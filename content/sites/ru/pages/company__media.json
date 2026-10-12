@@ -1,0 +1,388 @@
+{
+ "path": "/company/media",
+ "url": "/ru/company/media",
+ "title": "Media",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Home /",
+   "href": "/ru/home"
+  },
+  {
+   "label": "Company /",
+   "href": "/ru/company"
+  },
+  {
+   "label": "Media",
+   "href": ""
+  },
+  {
+   "label": "Home /",
+   "href": "/ru/home"
+  },
+  {
+   "label": "Company /",
+   "href": "/ru/company"
+  },
+  {
+   "label": "Media",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/medien",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/ru/company/media",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/medios-de-comunicacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/medias",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/midia",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/media",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/media",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/medien",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/media",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/medias",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EB%AF%B8%EB%94%94%EC%96%B4",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/media",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/medios-de-comunicacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/midia",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "textmedia",
+   "header": "<h1> Media and Press Contact </h1>",
+   "body": "",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c792",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "newslist",
+   "header": "<h3> Press Releases </h3>",
+   "articles": [
+    {
+     "href": "/ru/company/media/details/fuenf-irrtuemer-zur-digitalisierung",
+     "img": {
+      "src": "/fileadmin/_processed_/0/7/csm_fuenf_irrtuermer_teaserimg_f37f1b5058.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Press Release"
+     ],
+     "title": "Five Misconceptions About Digitalization",
+     "teaser": "Small businesses, especially, are hesitant to digitize their manufacturing processes, thereby missing out on efficiency gains. Preconceived notions are often the reason. It’s high time to dispel these misconceptions and highlight suitable solutions for small and medium-sized manufacturing operations.",
+     "date": ""
+    },
+    {
+     "href": "/ru/company/media/details/how-to-deal-with-the-tungsten-price-shock",
+     "img": {
+      "src": "/fileadmin/_processed_/c/1/csm_wolfram_teaserimg_16c264143f.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Press Release",
+      "Tool Management"
+     ],
+     "title": "How to Deal with the Tungsten Price Shock",
+     "teaser": "There are two strategies to counter the extreme price increases for solid carbide tools: greater efficiency in tool usage and the highest precision in regrinding processes.",
+     "date": ""
+    },
+    {
+     "href": "/ru/company/media/details/80-jahre-zoller-blick-nach-vorne",
+     "img": {
+      "src": "/fileadmin/_processed_/d/d/csm_interview_emo_x-technik_teaserimg_1bca8d87d2.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Press Release",
+      "Event"
+     ],
+     "title": "80 Years of ZOLLER – Looking Ahead",
+     "teaser": "During EMO 2025, Christoph Zoller spoke with Robert Fraunberger, an engineer and editor-in-chief of the trade magazine x-technik Fertigungstechnik.",
+     "date": ""
+    }
+   ],
+   "pages": [],
+   "ftype": "news_newsliststicky",
+   "id": "c793",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p><a class=\"btn\" href=\"/ru/company/reports-stories?tx_news_pi1%5BoverwriteDemand%5D%5Btags%5D=45&amp;cHash=25afede15b12521919a2bbdb5816e592\">View more press releases</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c797",
+   "bg": "lightgray",
+   "space": {
+    "before": "none",
+    "after": "small"
+   }
+  },
+  {
+   "type": "downloads",
+   "header": "<h3> ZOLLER Brochures </h3>",
+   "files": [
+    {
+     "href": "/fileadmin/blaetterkatalog/DRMAG_01_2026_EN/index.html",
+     "name": "ZOLLER Magazine 01|2026 (Flipbook)",
+     "size": "4 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/5/1/csm_ZOLLER_Magazine_1_2026_DRMAG01_26_EN_124ebf7cd3.png",
+      "alt": "",
+      "w": 310,
+      "h": 437
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Magazin/ZOLLER_Magazine_1_2026_DRMAG01_26_EN.pdf",
+     "name": "ZOLLER Magazine 01|2026",
+     "size": "3 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/5/1/csm_ZOLLER_Magazine_1_2026_DRMAG01_26_EN_124ebf7cd3.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ZOLLER Magazine 01|2026"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Magazin/ZOLLER80_Grussbotschaft_EN.pdf",
+     "name": "80 years of ZOLLER",
+     "size": "8 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/7/6/csm_ZOLLER80_Grussbotschaft_EN_2786541a16.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "80 years of  ZOLLER"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Magazin/insights-ZOLLER_Brochure_EN.pdf",
+     "name": "ZOLLER insights",
+     "size": "1 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/b/1/csm_insights-ZOLLER_Brochure_EN_f4426262c6.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ZOLLER insights"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Magazin/rz_Ansicht_Zmagazin-05-2019_EN.pdf",
+     "name": "ZOLLER Magazin Edition 2019",
+     "size": "11 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/4/0/csm_rz_Ansicht_Zmagazin-05-2019_EN_939c3383e1.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ZOLLER Magazin Edition 2019"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Magazin/Zmagazine-04-2018_EN_web.pdf",
+     "name": "ZOLLER Magazin Edition 2018",
+     "size": "7 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/1/6/csm_Zmagazine-04-2018_EN_web_5398c9853c.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ZOLLER Magazin Edition 2018"
+     }
+    }
+   ],
+   "ftype": "uploads",
+   "id": "c4008",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "raw",
+   "html": "<h3> Press Contact </h3> <a href=\"/ru/company/media\" title=\"Henrieke Heimbeck\"> <img alt=\"\" height=\"554\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/8/csm_press_contact_b9abc7099a.webp\" title=\"Henrieke Heimbeck\" width=\"1050\"/> </a> <h3>Henrieke Heimbeck</h3> <p>Assistant to the Management Board</p> <p>Phone</p> <a href=\"tel:+4971448970133\">+4971448970133</a> <p>E-Mail</p> <a href=\"mailto:heimbeck@zoller-d.com\">heimbeck@zoller-d.com</a>",
+   "ftype": "list",
+   "id": "c794",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/f/6/csm_teaser_map_c7d5eb53c3.webp",
+    "alt": ""
+   },
+   "text": "<h3>There for you — worldwide</h3> <p><a class=\"btn\" href=\"/ru/company/contact/locations\">Find a location</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c789",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/ru/company/media",
+ "de_path": "/unternehmen/medien",
+ "cloned_from": "en_DE"
+}

@@ -1,0 +1,748 @@
+{
+ "meta": [
+  {
+   "label": "Služby",
+   "href": "/sk/spolocnost/kontakt/kontaktna-osoba"
+  },
+  {
+   "label": "Médiá",
+   "href": "/sk/spolocnost/media"
+  },
+  {
+   "label": "Kariéra",
+   "href": "/sk/spolocnost/kariera"
+  }
+ ],
+ "main": [
+  {
+   "label": "Systém",
+   "href": "/sk/system"
+  },
+  {
+   "label": "Váš úspech",
+   "href": "/sk/vas-uspech"
+  },
+  {
+   "label": "Riešenia",
+   "href": "/sk/riesenia",
+   "children": [
+    {
+     "label": "Prečo ZOLLER Solutions?",
+     "href": "/sk/riesenia"
+    },
+    {
+     "label": "Nastavenie a meranie",
+     "href": "/sk/riesenia/nastavenie-a-meranie"
+    },
+    {
+     "label": "Kontrola a meranie",
+     "href": "/sk/riesenia/kontrola-a-meranie"
+    },
+    {
+     "label": "Automatizácia",
+     "href": "/sk/riesenia/automatizacia",
+     "children": [
+      {
+       "label": "Prehľad",
+       "href": "/sk/riesenia/automatizacia"
+      },
+      {
+       "label": "Logistika",
+       "href": "/sk/riesenia/automatizacia/logistika"
+      },
+      {
+       "label": "Príprava nástrojov",
+       "href": "/sk/riesenia/automatizacia/priprava-nastrojov"
+      },
+      {
+       "label": "Zabezpečenie náradia",
+       "href": "/sk/riesenia/automatizacia/zabezpecenie-naradia"
+      },
+      {
+       "label": "Kontrola náradia",
+       "href": "/sk/riesenia/automatizacia/kontrola-naradia"
+      }
+     ]
+    },
+    {
+     "label": "Technika zmršťovania",
+     "href": "/sk/riesenia/technika-zmrstovania"
+    },
+    {
+     "label": "Držiaky nástrojov",
+     "href": "/sk/riesenia/drziaky-nastrojov"
+    },
+    {
+     "label": "vyvažovacia technika",
+     "href": "/sk/riesenia/vyvazovacia-technika"
+    },
+    {
+     "label": "CNC obrábanie kameňa",
+     "href": "/sk/riesenia/cnc-obrabanie-kamena"
+    }
+   ]
+  },
+  {
+   "label": "Produkty",
+   "href": "/sk/produkty",
+   "children": [
+    {
+     "label": "Prehľad produktov",
+     "href": "/sk/produkty"
+    },
+    {
+     "label": "Nastavenie a meranie",
+     "href": "/sk/produkty/nastavenie-a-meranie",
+     "children": [
+      {
+       "label": "Vertikálne zariadenia",
+       "href": "/sk/produkty/nastavenie-a-meranie/vertikalne-zariadenia",
+       "children": [
+        {
+         "label": "»smile«",
+         "href": "/sk/produkty/nastavenie-a-meranie/vertikalne-zariadenia/smile",
+         "claim": "Váš vstup do sveta profesionálneho nastavovania a merania",
+         "desc": "Robustné základné zariadenia s presnosťou na mikrometre pre štandardné nástroje",
+         "img": "/fileadmin/_processed_/4/3/csm_smile_preview_6232033e55.webp"
+        },
+        {
+         "label": "»venturion«",
+         "href": "/sk/produkty/nastavenie-a-meranie/vertikalne-zariadenia/venturion",
+         "claim": "Modulárna prémiová trieda pre najvyššie nároky",
+         "desc": "Vynikajúce nastavenie a meranie nástrojov s množstvom možností",
+         "img": "/fileadmin/_processed_/7/d/csm_venturion_preview_7611e56f51.webp"
+        }
+       ]
+      },
+      {
+       "label": "Vodorovné zariadenia",
+       "href": "/sk/produkty/nastavenie-a-meranie/vodorovne-zariadenia",
+       "children": [
+        {
+         "label": "»hyperion«",
+         "href": "/sk/produkty/nastavenie-a-meranie/vodorovne-zariadenia/hyperion",
+         "claim": "Všestranný nástroj so zameraním na sústružnické nástroje",
+         "desc": "Horizontálny nastavovací a merací prístroj pre sústruženie",
+         "img": "/fileadmin/_processed_/1/8/csm_hyperion_preview_3b4c91eaf7.webp"
+        }
+       ]
+      },
+      {
+       "label": "Riešenia v oblasti automatizácie",
+       "href": "/sk/produkty/nastavenie-a-meranie/riesenia-v-oblasti-automatizacie",
+       "children": [
+        {
+         "label": "»coraMeasure LG«",
+         "href": "/sk/produkty/automatizacia/priprava-nastrojov/corameasure-lg",
+         "claim": "Automatické meranie nástrojov",
+         "desc": "Ekonomická manipulácia s nástrojmi pre ZOLLER »venturion«",
+         "img": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_b31336460f.webp"
+        },
+        {
+         "label": "»roboBox«",
+         "href": "/sk/produkty/automatizacia/priprava-nastrojov/robobox",
+         "claim": "Modulárna automatizácia pre nástrojáreň",
+         "desc": "Až šesť modulov pre bežné úkony, ako je montáž, čistenie, meranie, zmršťovanie a ďalšie",
+         "img": "/fileadmin/_processed_/7/a/csm_roboBox_preview_ae1a1aba4b.webp"
+        }
+       ]
+      },
+      {
+       "label": "CNC obrábanie kameňa",
+       "href": "/sk/produkty/nastavenie-a-meranie/cnc-obrabanie-kamena",
+       "children": [
+        {
+         "label": "»smile | GBO«",
+         "href": "/sk/produkty/nastavenie-a-meranie/cnc-obrabanie-kamena/smile-gbo",
+         "claim": "Meranie kamenných a drevených nástrojov",
+         "desc": "Vďaka optike s veľkým zorným poľom umožňuje mimoriadne presné meranie výšky",
+         "img": "/fileadmin/_processed_/f/4/csm_smileGBO_preview_63b44ef4c9.webp"
+        },
+        {
+         "label": "»conDress«",
+         "href": "/sk/produkty/kontrola-a-meranie/cnc-obrabanie-kamena/condress",
+         "claim": "Čistenie brúsnych plôch s diamantovým povrchom",
+         "desc": "Čistenie a obnovenie rezných vlastností nástrojov na spracovanie kameňa",
+         "img": "/fileadmin/_processed_/8/5/csm_conDress_preview_7966236664.webp"
+        }
+       ]
+      },
+      {
+       "label": "Špeciálne riešenia",
+       "href": "/sk/produkty/nastavenie-a-meranie/specialne-riesenia",
+       "children": [
+        {
+         "label": "Špeciálne riešenia",
+         "href": "/sk/produkty/nastavenie-a-meranie/specialne-riesenia/specialne-riesenia",
+         "claim": "Riešenia pre vaše individuálne požiadavky"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Správa nástrojov",
+     "href": "/sk/produkty/sprava-nastrojov",
+     "children": [
+      {
+       "label": "Software",
+       "href": "/sk/software"
+      },
+      {
+       "label": "Sklad náradia",
+       "href": "/sk/produkty/sprava-nastrojov/sklad-naradia",
+       "children": [
+        {
+         "label": "»twister«",
+         "href": "/sk/produkty/sprava-nastrojov/sklad-naradia/twister",
+         "claim": "Skriňa na uloženie",
+         "desc": "Pre súčiastky nástrojov a príslušenstvo",
+         "img": "/fileadmin/_processed_/0/1/csm_twister__preview_9c9c9e9f21.webp"
+        },
+        {
+         "label": "»autoLock«",
+         "href": "/sk/produkty/sprava-nastrojov/sklad-naradia/autolock",
+         "claim": "Skriňa na uloženie",
+         "desc": "Pre kontrolné prostriedky, prevádzkové materiály a väčšie komponenty",
+         "img": "/fileadmin/_processed_/2/7/csm_autolock__preview_89166f3498.webp"
+        },
+        {
+         "label": "»toolOrganizer«",
+         "href": "/sk/produkty/sprava-nastrojov/sklad-naradia/toolorganizer",
+         "claim": "Skriňa na náradie",
+         "desc": "Pre rezné nástroje a drobné súčiastky",
+         "img": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_bbf66a1054.webp"
+        },
+        {
+         "label": "»keeper«",
+         "href": "/sk/produkty/sprava-nastrojov/sklad-naradia/keeper",
+         "claim": "Skriňa na náradie",
+         "desc": "Pre kompletné nástroje a držiaky nástrojov",
+         "img": "/fileadmin/_processed_/b/a/csm_keeper_preview_f25bf71aa1.webp"
+        },
+        {
+         "label": "»z.Storage«",
+         "href": "/sk/produkty/sprava-nastrojov/sklad-naradia/zstorage",
+         "claim": "Manipulácia so skladom náradia",
+         "desc": "Vaše výrobky sú vydávané na princípe výdajného automatu",
+         "img": "/fileadmin/_processed_/f/5/csm_zStorage_preview_f2484908b6.webp"
+        }
+       ]
+      },
+      {
+       "label": "Montáž náradia",
+       "href": "/sk/produkty/sprava-nastrojov/montaz-naradia",
+       "children": [
+        {
+         "label": "»zTower«",
+         "href": "/sk/produkty/sprava-nastrojov/montaz-naradia/ztower",
+         "claim": "Montážny ostrov",
+         "desc": "Na univerzálnu montáž náradia",
+         "img": "/fileadmin/_processed_/2/6/csm_zTower_preview_03c8143f73.webp"
+        },
+        {
+         "label": "»toolStation«",
+         "href": "/sk/produkty/sprava-nastrojov/montaz-naradia/toolstation",
+         "claim": "Pracovný stôl",
+         "desc": "Pre optimálnu montáž nástrojov",
+         "img": "/fileadmin/_processed_/a/f/csm_toolStation_preview_284869f711.webp"
+        }
+       ]
+      },
+      {
+       "label": "Preprava náradia",
+       "href": "/sk/produkty/sprava-nastrojov/preprava-naradia",
+       "children": [
+        {
+         "label": "»toolCart«",
+         "href": "/sk/produkty/sprava-nastrojov/preprava-naradia/toolcart",
+         "claim": "Vozík na náradie",
+         "desc": "Pre pohodlný transport náradia",
+         "img": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_f133269ad8.webp"
+        }
+       ]
+      },
+      {
+       "label": "Prenos údajov",
+       "href": "/sk/produkty/sprava-nastrojov/prenos-udajov",
+       "children": [
+        {
+         "label": "»zidCode«",
+         "href": "/sk/produkty/sprava-nastrojov/prenos-udajov/zidcode",
+         "claim": "Bezchybný prenos údajov o nástrojoch",
+         "desc": "Väčšia bezpečnosť a efektívnosť vďaka jednoduchému spravovaniu údajov o nástrojoch",
+         "img": "/fileadmin/_processed_/e/c/csm_zidCode_preview_21aa224ca2.webp"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Kontrola a meranie",
+     "href": "/sk/produkty/kontrola-a-meranie",
+     "children": [
+      {
+       "label": "Univerzálne meracie stroje",
+       "href": "/sk/produkty/kontrola-a-meranie/univerzalne-meracie-stroje",
+       "children": [
+        {
+         "label": "»genius«",
+         "href": "/sk/produkty/kontrola-a-meranie/univerzalne-meracie-stroje/genius",
+         "claim": "Bezkontaktné meranie a kontrola obrábacích nástrojov",
+         "desc": "Merá viac ako 100 parametrov s mimoriadnou presnosťou a osvedčil sa už vo viac ako 1000 prípadoch po celom svete",
+         "img": "/fileadmin/_processed_/0/d/csm_genius_1_d819caed90.webp"
+        },
+        {
+         "label": "»titan«",
+         "href": "/sk/produkty/kontrola-a-meranie/univerzalne-meracie-stroje/titan",
+         "claim": "Skúšobný a merací stroj v špičkovom vyhotovení",
+         "desc": "Pre odborníkov, ktorí chcú vedieť všetko – vrátane prípravy rezných hrán",
+         "img": "/fileadmin/_processed_/3/b/csm_titan__preview_7e0a3aa7f3.webp"
+        },
+        {
+         "label": "»smartCheck«",
+         "href": "/sk/produkty/kontrola-a-meranie/univerzalne-meracie-stroje/smartcheck",
+         "claim": "Nastavenie, meranie a kontrola v jednom zariadení",
+         "desc": "Nastavovacie a meracie zariadenie s doplnkovým dopadajúcim svetlom a rozšírenou analýzou obrazu",
+         "img": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_ca2a5afc34.webp"
+        }
+       ]
+      },
+      {
+       "label": "Meranie orientované na procesy",
+       "href": "/sk/produkty/kontrola-a-meranie/meranie-orientovane-na-procesy",
+       "children": [
+        {
+         "label": "»pomBasic«",
+         "href": "/sk/produkty/kontrola-a-meranie/meranie-orientovane-na-procesy/pombasic",
+         "claim": "Na presnú ručnú kontrolu vo výrobe",
+         "desc": "Kontrola viac ako 70 parametrov na nástroji priamo počas procesu",
+         "img": "/fileadmin/_processed_/5/f/csm_pombasic__preview_2a4f915bf9.webp"
+        },
+        {
+         "label": "»mμFocus«",
+         "href": "/sk/produkty/kontrola-a-meranie/meranie-orientovane-na-procesy/mmfocus",
+         "claim": "Zariadenie 2 v 1 na meranie SKP a drsnosti povrchu",
+         "desc": "Analyzuje topografie a vytvára 3D zobrazenia rezných hrán nástrojov",
+         "img": "/fileadmin/_processed_/c/0/csm_myFocus__preview_4b3d285137.webp"
+        }
+       ]
+      },
+      {
+       "label": "Riešenia v oblasti automatizácie",
+       "href": "/sk/produkty/kontrola-a-meranie/riesenia-v-oblasti-automatizacie",
+       "children": [
+        {
+         "label": "»roboSet 2«",
+         "href": "/sk/produkty/automatizacia/kontrola-naradia/roboset-2",
+         "claim": "Kontrola a dokumentácia nástrojov 24/7",
+         "desc": "Manipulácia s nástrojmi pre »genius«, »3dCheck«, »threadCheck«, »titan« a »edgeControl«",
+         "img": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_354a6e7ab1.webp"
+        }
+       ]
+      },
+      {
+       "label": "CNC obrábanie kameňa",
+       "href": "/sk/produkty/kontrola-a-meranie/cnc-obrabanie-kamena",
+       "children": [
+        {
+         "label": "»conDiaZ«",
+         "href": "/sk/produkty/kontrola-a-meranie/cnc-obrabanie-kamena/condiaz",
+         "claim": "Presné meranie obrysov za pár sekúnd",
+         "desc": "Inšpekčné zariadenie určené špeciálne na meranie a kontrolu diamantových nástrojov na spracovanie kameňa",
+         "img": "/fileadmin/_processed_/b/1/csm_conDiaz_preview_8d8faa8ebf.webp"
+        },
+        {
+         "label": "»conDress«",
+         "href": "/sk/produkty/kontrola-a-meranie/cnc-obrabanie-kamena/condress",
+         "claim": "Čistenie brúsnych plôch s diamantovým povrchom",
+         "desc": "Čistenie a obnovenie rezných vlastností nástrojov na spracovanie kameňa",
+         "img": "/fileadmin/_processed_/8/5/csm_conDress_preview_7966236664.webp"
+        }
+       ]
+      },
+      {
+       "label": "Špeciálne riešenia",
+       "href": "/sk/produkty/kontrola-a-meranie/specialne-riesenia",
+       "children": [
+        {
+         "label": "Špeciálne riešenia",
+         "href": "/sk/produkty/kontrola-a-meranie/specialne-riesenia/specialne-riesenia",
+         "claim": "Riešenia pre vaše individuálne požiadavky"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Automatizácia",
+     "href": "/sk/produkty/automatizacia",
+     "children": [
+      {
+       "label": "Logistika náradia",
+       "href": "/sk/produkty/automatizacia/logistika-naradia",
+       "children": [
+        {
+         "label": "»coraLogistic«",
+         "href": "/sk/produkty/automatizacia/logistika-naradia/coralogistic",
+         "claim": "Automatizovaná logistika vo výrobnej hale",
+         "desc": "Na prepravu medzi skladom nástrojov, prípravou nástrojov a CNC strojom",
+         "img": "/fileadmin/_processed_/c/0/csm_coraLogistics_preview_4e713a1c9b.webp"
+        },
+        {
+         "label": "»coraMachineLoad«",
+         "href": "/sk/produkty/automatizacia/logistika-naradia/coramachineload",
+         "claim": "Plne automaticky nakladá a vykladá CNC stroje",
+         "desc": "Presná a včasná manipulácia s nástrojmi medzi logistikou a zásobníkom strojov",
+         "img": "/fileadmin/_processed_/e/e/csm_coraMaschineLoad_preview_f78fc031d8.webp"
+        }
+       ]
+      },
+      {
+       "label": "Príprava nástrojov",
+       "href": "/sk/produkty/automatizacia/priprava-nastrojov",
+       "children": [
+        {
+         "label": "»coraMeasure LG«",
+         "href": "/sk/produkty/automatizacia/priprava-nastrojov/corameasure-lg",
+         "claim": "Automatické meranie nástrojov",
+         "desc": "Ekonomická manipulácia s nástrojmi pre ZOLLER »venturion«",
+         "img": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_b31336460f.webp"
+        },
+        {
+         "label": "»roboBox«",
+         "href": "/sk/produkty/automatizacia/priprava-nastrojov/robobox",
+         "claim": "Modulárna automatizácia pre nástrojáreň",
+         "desc": "Až šesť modulov pre bežné úkony, ako je montáž, čistenie, meranie, zmršťovanie a ďalšie",
+         "img": "/fileadmin/_processed_/7/a/csm_roboBox_preview_ae1a1aba4b.webp"
+        },
+        {
+         "label": "»micBox«",
+         "href": "/sk/produkty/automatizacia/priprava-nastrojov/micbox",
+         "claim": "Efektívna manipulácia s vymeniteľnými reznými platničkami",
+         "desc": "Zabezpečuje otáčanie, obracanie a výmenu vymeniteľných doštičiek",
+         "img": "/fileadmin/_processed_/6/a/csm_micbox_preview_e6568b3640.webp"
+        }
+       ]
+      },
+      {
+       "label": "Zabezpečenie náradia",
+       "href": "/sk/produkty/automatizacia/zabezpecenie-naradia",
+       "children": [
+        {
+         "label": "»loadBox«",
+         "href": "/sk/produkty/automatizacia/zabezpecenie-naradia/loadbox",
+         "claim": "Inteligentná centrála náradia",
+         "desc": "Pripravuje náradie podľa objednávok a odovzdáva ho logistike",
+         "img": "/fileadmin/_processed_/5/3/csm_loadBox_preview_d9538dbfe3.webp"
+        }
+       ]
+      },
+      {
+       "label": "Kontrola náradia",
+       "href": "/sk/produkty/automatizacia/kontrola-naradia",
+       "children": [
+        {
+         "label": "»roboSet 2«",
+         "href": "/sk/produkty/automatizacia/kontrola-naradia/roboset-2",
+         "claim": "Kontrola a dokumentácia nástrojov 24/7",
+         "desc": "Manipulácia s nástrojmi pre »genius«, »3dCheck«, »threadCheck«, »titan« a »edgeControl«",
+         "img": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_354a6e7ab1.webp"
+        }
+       ]
+      },
+      {
+       "label": "Laserové značenie",
+       "href": "/sk/produkty/automatizacia/laserove-znacenie",
+       "children": [
+        {
+         "label": "»roboMark«",
+         "href": "/sk/produkty/automatizacia/laserove-znacenie/robomark",
+         "claim": "Zariadenie na laserové značenie",
+         "desc": "Rýchle a presné označovanie vašich nástrojov",
+         "img": "/fileadmin/_processed_/9/c/csm_roboMark_preview_ecf02129c4.webp"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Technika zmršťovania",
+     "href": "/sk/produkty/technika-zmrstovania",
+     "children": [
+      {
+       "label": "»powerShrink«",
+       "href": "/sk/produkty/technika-zmrstovania/powershrink",
+       "claim": "Nástroje sa zmenšujú",
+       "desc": "Systém zmršťovania s optimálnou energetickou účinnosťou a maximálnou bezpečnosťou",
+       "img": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_8e31408c1d.webp"
+      },
+      {
+       "label": "»redomatic«",
+       "href": "/sk/produkty/technika-zmrstovania/redomatic",
+       "claim": "Zmenšovanie a meranie",
+       "desc": "Univerzálny nastavovací a merací prístroj s integrovaným systémom upínania nástrojov",
+       "img": "/fileadmin/_processed_/f/b/csm_redomatic_preview_afc51b7ecf.webp"
+      }
+     ]
+    },
+    {
+     "label": "Držiaky nástrojov",
+     "href": "/sk/produkty/drziaky-nastrojov",
+     "children": [
+      {
+       "label": "Tooling Shop",
+       "href": "https://myzoller.com/de/de/shop/tooling",
+       "claim": "Viac ako 2500 upínacích systémov",
+       "desc": "Voliteľne s »idChipom« pre väčšiu spoľahlivosť procesu vďaka aktuálnym údajom o nástrojoch. Kompatibilné s riešením ZOLLER TMS Tool Management Solutions.",
+       "img": "/fileadmin/_processed_/3/f/csm_ToolingSolutions4_preview_6c25bb2bd5.webp"
+      }
+     ]
+    },
+    {
+     "label": "vyvažovacia technika",
+     "href": "/sk/produkty/vyvazovacia-technika",
+     "children": [
+      {
+       "label": "»toolBalancer«",
+       "href": "/sk/produkty/vyvazovacia-technika/toolbalancer",
+       "claim": "Vyvažovanie náradia",
+       "desc": "Vyvažovací systém s najmodernejšou technológiou a ergonomickým dizajnom",
+       "img": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_c222571512.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Akadémia",
+   "href": "/sk/akademia"
+  },
+  {
+   "label": "Podujatia",
+   "href": "/sk/podujatia"
+  },
+  {
+   "label": "Spoločnosť",
+   "href": "/sk/spolocnost",
+   "children": [
+    {
+     "label": "Zobraziť prehľad",
+     "href": "/sk/spolocnost"
+    },
+    {
+     "label": "Profil",
+     "href": "/sk/spolocnost/profil",
+     "children": [
+      {
+       "label": "O spoločnosti ZOLLER",
+       "href": "/sk/spolocnost/profil"
+      },
+      {
+       "label": "Referencie",
+       "href": "/sk/spolocnost/profil/referencie"
+      },
+      {
+       "label": "Partner",
+       "href": "/sk/spolocnost/profil/partner"
+      },
+      {
+       "label": "História",
+       "href": "/sk/spolocnost/profil/historia"
+      }
+     ]
+    },
+    {
+     "label": "Kontakt",
+     "href": "/sk/spolocnost/kontakt",
+     "children": [
+      {
+       "label": "Kontaktný formulár",
+       "href": "/sk/spolocnost/kontakt"
+      },
+      {
+       "label": "Pobočky",
+       "href": "/sk/spolocnost/kontakt/pobocky"
+      },
+      {
+       "label": "Inteligentná továreň",
+       "href": "/sk/spolocnost/kontakt/inteligentna-tovaren"
+      },
+      {
+       "label": "Kontaktná osoba",
+       "href": "/sk/spolocnost/kontakt/kontaktna-osoba"
+      },
+      {
+       "label": "Individuálna konzultácia s odborníkom",
+       "href": "https://myzoller.com/de/de/expert/booking"
+      },
+      {
+       "label": "Školenia a kurzy",
+       "href": "/sk/spolocnost/kontakt/skolenia-a-kurzy"
+      },
+      {
+       "label": "Newsletter",
+       "href": "/sk/spolocnost/kontakt/newsletter"
+      }
+     ]
+    },
+    {
+     "label": "Kariéra",
+     "href": "/sk/spolocnost/kariera",
+     "children": [
+      {
+       "label": "Práca v spoločnosti ZOLLER",
+       "href": "/sk/spolocnost/kariera"
+      },
+      {
+       "label": "Ponuky práce",
+       "href": "/sk/spolocnost/kariera/ponuky-prace"
+      },
+      {
+       "label": "Často kladené otázky",
+       "href": "/sk/spolocnost/kariera/casto-kladene-otazky"
+      },
+      {
+       "label": "Žiadosť",
+       "href": "/sk/spolocnost/kariera/ziadost"
+      }
+     ]
+    },
+    {
+     "label": "Správy a príbehy",
+     "href": "/sk/spolocnost/spravy-a-pribehy"
+    },
+    {
+     "label": "Médiá",
+     "href": "/sk/spolocnost/media"
+    },
+    {
+     "label": "Udržateľnosť",
+     "href": "/sk/spolocnost/udrzatelnost"
+    },
+    {
+     "label": "Riadenie kvality",
+     "href": "/sk/spolocnost/riadenie-kvality"
+    },
+    {
+     "label": "Dodržiavanie predpisov",
+     "href": "/sk/spolocnost/dodrziavanie-predpisov"
+    }
+   ]
+  }
+ ],
+ "footer_links": [
+  {
+   "label": "Go up",
+   "href": "#body"
+  },
+  {
+   "label": "Systém",
+   "href": "/sk/system"
+  },
+  {
+   "label": "Váš úspech",
+   "href": "/sk/vas-uspech"
+  },
+  {
+   "label": "Riešenia",
+   "href": "/sk/riesenia"
+  },
+  {
+   "label": "Produkty",
+   "href": "/sk/produkty"
+  },
+  {
+   "label": "Akadémia",
+   "href": "/sk/akademia"
+  },
+  {
+   "label": "Podujatia",
+   "href": "/sk/podujatia"
+  },
+  {
+   "label": "Spoločnosť",
+   "href": "/sk/spolocnost"
+  },
+  {
+   "label": "Služby",
+   "href": "/sk/spolocnost/kontakt/kontaktna-osoba"
+  },
+  {
+   "label": "Médiá",
+   "href": "/sk/spolocnost/media"
+  },
+  {
+   "label": "Kariéra",
+   "href": "/sk/spolocnost/kariera"
+  },
+  {
+   "label": "Kalkulátor rentability",
+   "href": "/sk/kalkulator-rentability"
+  },
+  {
+   "label": "Kontaktná osoba",
+   "href": "/sk/spolocnost/kontakt/kontaktna-osoba"
+  },
+  {
+   "label": "Odoslať e-mail",
+   "href": "mailto:info@zoller.info"
+  },
+  {
+   "label": "Servis ZOLLER",
+   "href": "/sk/spolocnost/kontakt/kontaktna-osoba"
+  },
+  {
+   "label": "Aktualizácie softvéru",
+   "href": "/sk/aktualizacie-softveru"
+  },
+  {
+   "label": "Online podpora",
+   "href": "/sk/online-podpora"
+  },
+  {
+   "label": "Oblasť pôsobenia",
+   "href": "/sk/oblast-posobenia-1"
+  },
+  {
+   "label": "Prihlásenie k odberu noviniek",
+   "href": "/sk/spolocnost/kontakt/newsletter"
+  },
+  {
+   "label": "Všeobecné nákupné podmienky",
+   "href": "/sk/vseobecne-nakupne-podmienky"
+  },
+  {
+   "label": "Možnosti financovania",
+   "href": "https://www.goleasing.com/zoller/"
+  },
+  {
+   "label": "LinkedIn",
+   "href": "https://www.linkedin.com/company/zollersolutions"
+  },
+  {
+   "label": "YouTube",
+   "href": "https://www.youtube.com/user/zollertv"
+  },
+  {
+   "label": "Kontakt",
+   "href": "/sk/spolocnost/kontakt"
+  },
+  {
+   "label": "Ochrana osobných údajov",
+   "href": "/sk/ochrana-osobnych-udajov"
+  },
+  {
+   "label": "Upozornenie o vylúčení zodpovednosti",
+   "href": "/sk/upozornenie-o-vyluceni-zodpovednosti"
+  },
+  {
+   "label": "Informácie o vydavateľovi",
+   "href": "/sk/informacie-o-vydavatelovi"
+  },
+  {
+   "label": "Cookie settings",
+   "href": "#"
+  }
+ ]
+}

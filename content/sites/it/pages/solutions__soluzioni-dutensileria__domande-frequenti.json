@@ -1,0 +1,606 @@
+{
+ "path": "/solutions/soluzioni-dutensileria/domande-frequenti",
+ "url": "/it/solutions/soluzioni-dutensileria/domande-frequenti",
+ "title": "Soluzioni di utensili – Domande frequenti",
+ "description": "Domande frequenti - Soluzioni di utensili – Domande frequenti",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/it/home-page"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/it/solutions"
+  },
+  {
+   "label": "Soluzioni d’utensileria",
+   "href": "/it/solutions/soluzioni-dutensileria"
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/it/home-page"
+  },
+  {
+   "label": "Solutions /",
+   "href": "/it/solutions"
+  },
+  {
+   "label": "Soluzioni d’utensileria",
+   "href": "/it/solutions/soluzioni-dutensileria"
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/werkzeugaufnahmen/faq",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/tooling-solutions/faq",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/portaherramientas/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/fixation-doutil/faq",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/porta-ferramentas/perguntas-frequentes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/soluzioni-dutensileria/domande-frequenti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/verktygshaallare/vanliga-fraagor",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/werkzeugaufnahmen/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/tooling-solutions/faq",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/porte-outils/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B7%A5%E5%85%B7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/tooling-solutions/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/porta-herramientas/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/porta-ferramentas/perguntas-frequentes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Soluzioni d’utensileria",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/it/solutions/soluzioni-dutensileria",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Domande frequenti",
+     "href": "/it/solutions/soluzioni-dutensileria/domande-frequenti",
+     "current": false
+    },
+    {
+     "label": "Pool informativo",
+     "href": "/it/solutions/soluzioni-dutensileria/pool-informativo",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1414",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Domande frequenti </h1>",
+      "body": "<p>FAQ</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c1426",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Quali prerequisiti deve soddisfare la mia produzione per poter utilizzare l'»idChip«?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Il primo prerequisito importante è uno scanner adeguato per poter scansionare il codice DataMatrix. Per la gestione dei dati utensile è necessario un software conforme. ZOLLER offre entrambi con »zidCode 4.0« e il software TMS Tool Management Solutions.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1455",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "È possibile indicizzare gli utensili con l'»idChip« a posteriori?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Sì, è possibile in qualsiasi momento. Se desideri dotare gli utensili dello ZOLLER »idChip«, rivolgiti al nostro reparto vendite.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1453",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Quali sono i vantaggi dell'»idChip« rispetto alla codifica con etichette adesive?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Consigliamo »idLabel« per dispositivi, poiché questi non vengono utilizzati in modo rotante. Per gli utensili rotanti, »idChip« è la scelta migliore. Viene fissato nel supporto, dove è protetto ma comunque ben visibile. »idChip« può essere facilmente incollato con colla bicomponente. È possibile acquistarla da noi o da altri fornitori.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1451",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "ZOLLER è nota come produttrice di macchine per il presetting e la misurazione. ZOLLER produce anche i portautensili Tooling Solutions?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Per quanto riguarda i portautensili, ZOLLER collabora strettamente con Schüssler come partner. Schüssler produce i portautensili, ZOLLER fornisce l'»idChip« e rende l'acquisto dei portautensili semplice, veloce e comodo tramite il nuovo negozio online ZOLLER.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1449",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Qual è la durata utile del supporto di calettamento? Quante volte è possibile calettare e scalettare gli utensili nel supporto?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Se il riscaldamento e il raffreddamento delle soluzioni ZOLLER Tooling Solutions vengono eseguiti in modo corretto, queste possono essere utilizzate per oltre 10.000 cicli di contrazione senza perdita di precisione per portautensili con un diametro del foro superiore a 6 mm. Con un diametro di 5 mm e inferiore, i cicli sono 5.000.</p> <p>La corretta lavorazione mediante riscaldamento e raffreddamento è supportata dalla tecnologia ZOLLER »actbyLight«, che garantisce l'esecuzione corretta e sicura dei cicli di contrazione.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c1447",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Perché dovremmo utilizzare portautensili bilanciati?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>I portautensili bilanciati aumentano la produttività. I risultati positivi dell'utilizzo di portautensili bilanciati sono visibili in molti campi del processo di lavorazione. Una maggiore durata degli utensili e dei mandrini e un maggiore volume di asportazione del truciolo sono solo alcuni dei fattori che possono ridurre notevolmente i costi di produzione.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1445",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Qual è la lunghezza massima delle soluzioni ZOLLER Tooling Solutions disponibili?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Le soluzioni ZOLLER Tooling Solutions hanno una lunghezza del supporto GPL di 200 mm (lunghezza sporgente A).</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1443",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Sono disponibili mandrini ER bilanciati?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Con le soluzioni ZOLLER Tooling Solutions sono disponibili anche mandrini a pinza ER bilanciabili. Per il processo di bilanciamento viene montato il controdado e viene utilizzato un perno master per simulare l'utensile da taglio.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1441",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Di che materiale è fatto il supporto di calettamento?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Per la produzione delle soluzioni ZOLLER Tooling Solutions, ZOLLER utilizza supporti termorestringenti in acciaio per utensili resistente al calore.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1439",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Quali sono le differenze tra mandrini a calettamento, mandrini a pinza e sistemi di serraggio utensili idraulici?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Nessun altro sistema di serraggio può eguagliare la tenuta, la precisione di rotazione e le prestazioni di una soluzione a calettamento. Poiché i mandrini a contrazione non richiedono pinze di serraggio, dadi di serraggio o viti di regolazione, i diametri dei naselli possono essere molto sottili, consentendo di lavorare anche in campi difficili da raggiungere.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1437",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Qual è la tolleranza del gambo necessaria affinché gli utensili da taglio possano essere utilizzati nei mandrini a contrazione?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>La tolleranza per il codolo dell'utensile da taglio deve essere h5 o h6.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1435",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Dove è possibile acquistare i portautensili ZOLLER Tooling Solutions?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>L'ordine può essere effettuato online tramite il nostro <a class=\"link-arrow\" href=\"https://myzoller.com/de/de/shop/tooling/\" rel=\"noopener\" target=\"_blank\"><strong>portale</strong></a> <a class=\"link-arrow\" href=\"https://myzoller.com/de/de/shop/tooling/\" rel=\"noopener\" target=\"_blank\"><strong>MYZOLLER</strong></a>. Attualmente è possibile effettuare ordini online in Germania e negli Stati Uniti. In Italia è possibile effettuare la selezione del portautensili tramite il portale MYZOLLER, inviare l'elenco degli articoli generato al rivenditore ufficiale ZOLLER e richiedere un'offerta.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1433",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "I portautensili vengono bilanciati prima o dopo aver aggiunto lo ZOLLER »idChip« o altri chip RFID?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Se gli ordini per i portautensili comprendono ZOLLER »idChip« o altri chip RFID, i portautensili vengono bilanciati con i chip.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1431",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Quali sono i tempi di consegna per tutti i tipi di soluzioni ZOLLER Tooling Solutions?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Tramite il negozio online è possibile verificare in qualsiasi momento la disponibilità a magazzino dei prodotti ZOLLER Tooling Solutions.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1429",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "È possibile ricevere i formati digitali dxf, png e stp per ZOLLER Tooling Solutions prima di inviare un ordine per i relativi portautensili?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>I gemelli digitali sono disponibili nel negozio online ZOLLER Tooling Solution, dove possono essere scaricati in qualsiasi momento e utilizzati nel software ZOLLER TMS Tool Management Solutions o in altri sistemi CAD/CAM.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1457",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c1427",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c1425",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Ora tocca a te: approfittane! </h2>",
+   "body": "<p>Nel nostro negozio online la gamma completa di sistemi di serraggio utensili è ora disponibile. Trova il portautensile perfetto in modo semplice, rapido e comodo e utilizza immediatamente il gemello digitale disponibile nel tuo sistema CAM e di gestione utensili.</p> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">Vai al negozio di utensili</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/d/csm_zum_myzoller_shop_704443f1bc.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1458",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/it/solutions/soluzioni-dutensileria/domande-frequenti",
+ "de_path": "/solutions/werkzeugaufnahmen/faq"
+}

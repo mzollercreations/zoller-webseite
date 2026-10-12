@@ -1,0 +1,312 @@
+{
+ "path": "/loesningar",
+ "url": "/se/loesningar",
+ "title": "Lösningar",
+ "description": "Lösningar - Varför ZOLLER Solutions?",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Lösningar",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Lösningar",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/7/5/csm_solutions_header_0ba171533c.webp",
+     "video": null,
+     "title": "Största möjliga synergieffekter, eftersom allt passar ihop",
+     "kicker": "",
+     "text": "<p>ZOLLER Solutions är specialanpassade för specifika tillämpningar och har universell anslutningsbarhet.<br/>Det är just detta som gör dem så unikt effektiva. </p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c609",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "66-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2 class=\"headline-decor\"> Redo för både nuet och framtiden </h2>",
+      "body": "<p class=\"extra-large-text\">Med ZOLLER Solutions kan du minska tids-, kostnads- och resursåtgången inom detaljtillverkning, verktygstillverkning, slipning och CNC-bearbetning av sten. Varje lösning är enkel att använda och gör ditt företag omedelbart mer effektivt. Med ZOLLER är du redo för idag och förberedd för morgondagen.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c746",
+      "bg": "white",
+      "space": {
+       "before": "default",
+       "after": "none"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-2cols",
+   "id": "c1855",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "bento",
+   "header": "",
+   "intro": "",
+   "tiles": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/0/c/csm_header_presetting_805b97e0b6.webp",
+      "alt": ""
+     },
+     "text": "<h2>Inställning och mätning</h2> <p>Minska inställningstiderna<br/>med 40 % eller mer. </p> <p><a class=\"btn\" href=\"/se/loesningar/instaellning-och-maetning\">Läs mer</a><a href=\"/se/loesningar/instaellning-och-maetning\"> </a></p>",
+     "full": true
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/1/0/csm_teaser_toolmanagement_7103509fb4.webp",
+      "alt": ""
+     },
+     "text": "<h2>Verktygshantering</h2> <p>Verktygslager, programvara, felfri<br/>dataöverföring: få ut mer av<br/>dina verktyg och verktygsdata. </p> <p><a class=\"btn\" href=\"/se/loesningar/tool-management\">Läs mer</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/c/7/csm_teaser_inspection_8db5d700b8.webp",
+      "alt": ""
+     },
+     "text": "<h2>Kontrollera &amp; mäta</h2> <p>Dokumentera kvaliteten och<br/>skapa digitala tvillingar.</p> <p><a class=\"btn\" href=\"/se/loesningar/kontrollera-maeta\">Läs mer</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/a/3/csm_teaser_shrinking_f763ceca8f.webp",
+      "alt": ""
+     },
+     "text": "<h2>Krympteknik</h2> <p>Montering och demontering av<br/>verktyg på rekordtid.</p> <p><a class=\"btn\" href=\"/se/loesningar/krympteknik\">Läs mer</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/0/b/csm_teaser_tooling_b7ac4272bd.webp",
+      "alt": ""
+     },
+     "text": "<h2>Verktygshållare</h2> <p>Verktygshållare med »idChip« – den perfekta<br/>länken till din digitala tillverkning.</p> <p><a class=\"btn\" href=\"/se/loesningar/verktygshaallare\">Läs mer</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/01_Pages/Solutions/Automation/zoller_automation_komp.mp4",
+      "alt": ""
+     },
+     "text": "<h2>Automatisering</h2> <p>Från inställning, mätning och kontroll av verktyg till fullständig<br/>automatisering av era verktygsprocesser – ZOLLER har lösningen. </p> <p><a class=\"btn\" href=\"/se/loesningar/automatisering\">Läs mer</a></p>",
+     "full": true
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/a/8/csm_teaser_balancing_a6279efe6e.webp",
+      "alt": ""
+     },
+     "text": "<h2>Balanseringsteknik</h2> <p>Skona spindlarna, säkerställ kvaliteten:<br/>med marknadens bästa balanseringsmaskiner. </p> <p><a class=\"btn\" href=\"/se/loesningar/balanseringsteknik\">Läs mer</a></p>",
+     "full": false
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/b/1/csm_teaser_solution_steinbearbeitung_e8c492c5c9.webp",
+      "alt": ""
+     },
+     "text": "<h2>CNC-bearbetning av sten</h2> <p>Förbered diamantverktyg snabbare och bearbeta konturer ännu mer effektivt.</p> <p><a class=\"btn\" href=\"/se/loesningar/cnc-bearbetning-av-sten\">Läs mer</a></p>",
+     "full": false
+    }
+   ],
+   "ftype": "zoller_image-grid",
+   "id": "c606",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "extra-small"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>1:1-samtal med en expert</h3> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/expert/booking\" rel=\"noopener\" target=\"_blank\">Boka tid nu</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/se/loesningar",
+ "de_path": "/solutions"
+}

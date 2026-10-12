@@ -1,0 +1,309 @@
+{
+ "path": "/panstwa-sukces",
+ "url": "/pl/panstwa-sukces",
+ "title": "Państwa sukces",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pl/strona-glowna"
+  },
+  {
+   "label": "Państwa sukces",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pl/strona-glowna"
+  },
+  {
+   "label": "Państwa sukces",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/ihr-erfolg",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/your-success",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/su-exito",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/votre-succes",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/o-seu-sucesso",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/il-vostro-successo",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/din-framgaang",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/ihr-erfolg",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/your-success",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/votre-reussite",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E7%9A%86%E6%A7%98%E3%81%AE%E6%88%90%E5%8A%9F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B7%80%ED%95%98%EC%9D%98-%EC%84%B1%EA%B3%B5",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/your-success",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/su-exito",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/o-seu-sucesso",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/7/c/csm_header_ihr_erfolg_d81e1c7794.webp",
+     "video": null,
+     "title": "Sukces zaczyna się od podjęcia decyzji",
+     "kicker": "",
+     "text": "<p>Wielu klientów na całym świecie zdecydowało się już na produkty firmy ZOLLER.<br/>Dowiedz się, jakie korzyści odniosły ich zakłady produkcyjne.</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c613",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> „Nie ma już przestojów maszyn!” </h2>",
+   "body": "<p>Jeremy St. Pierre, ekspert ds. produkcji w firmie<br/>GKN Aerospace</p> <p><a class=\"btn\" href=\"/pl/produkty/automatyzacja/kontrola-narzedzi/roboset-2\">Więcej informacji o »roboSet 2«</a></p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/4gr5J09jVME?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER + GKN Aerospace: How to bring tool grinding, regrinding in-house"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c612",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "newslist",
+   "header": "<h3> Więcej historii sukcesu </h3>",
+   "articles": [
+    {
+     "href": "/pl/panstwa-sukces/szczegoly/so-effizient-kann-genius-kosten-senken",
+     "img": {
+      "src": "/fileadmin/_processed_/3/7/csm_genius_drabkansai_teaserimg_19001de27f.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Relacja użytkownika",
+      "Kontrola i pomiar"
+     ],
+     "title": "Oto, jak wydajnie »genius« może obniżyć koszty",
+     "teaser": "Precyzyjne pomiary ściernic skracają czas przygotowania do pracy o ponad 60 procent.",
+     "date": ""
+    },
+    {
+     "href": "/pl/panstwa-sukces/szczegoly/venturion-verbessert-die-produktivitaet",
+     "img": {
+      "src": "/fileadmin/_processed_/9/2/csm_ituwa_teaserimg_3cd1d73a8a.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Relacja użytkownika",
+      "Pomiar i ustawianie"
+     ],
+     "title": "»venturion« zwiększa wydajność",
+     "teaser": "Japońska firma Ituwa Kogyo zyskuje 20 minut dodatkowego czasu pracy dziennie na każdą maszynę.",
+     "date": ""
+    },
+    {
+     "href": "/pl/panstwa-sukces/szczegoly/sicher-und-schnell-zum-perfekten-sonderwerkzeug",
+     "img": {
+      "src": "/fileadmin/_processed_/5/2/csm_Nikolaus_Grinding_teaserimg_5a236b4071.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Relacja użytkownika",
+      "Kontrola i pomiar"
+     ],
+     "title": "Bezpieczeństwo i szybkość do idealnego narzędzia specjalnego",
+     "teaser": "Nikolaus stawia na precyzyjną technikę pomiarową firmy ZOLLER",
+     "date": ""
+    }
+   ],
+   "pages": [],
+   "ftype": "news_newsliststicky",
+   "id": "c787",
+   "bg": "lightgray",
+   "space": {
+    "before": "medium",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p><a class=\"btn\" href=\"/pl/przedsiebiorstwa/raporty-i-artykuly?tx_news_pi1%5BoverwriteDemand%5D%5Btags%5D=43&amp;cHash=a66df74004d8f7d852aedf42cdc02852\">Wyświetl wszystkie historie sukcesu</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3993",
+   "bg": "lightgray",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_strip",
+   "icon": {
+    "src": "/fileadmin/_processed_/0/0/csm_calculator_8806cc3f97.webp",
+    "alt": "",
+    "w": 50,
+    "h": 65
+   },
+   "text": "<p class=\"bold\">Wzrost wydajności dzięki urządzeniom do regulacji i pomiaru firmy ZOLLER</p> <p>Kalkulator opłacalności firmy ZOLLER oblicza potencjał oszczędności w Państwa przedsiębiorstwie.</p>",
+   "button": "<a class=\"btn\" href=\"/pl/kalkulator-rentownosci\">Oblicz teraz potencjał oszczędności</a>",
+   "ftype": "zoller_icon-button",
+   "id": "c4274",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/pl/panstwa-sukces",
+ "de_path": "/ihr-erfolg"
+}

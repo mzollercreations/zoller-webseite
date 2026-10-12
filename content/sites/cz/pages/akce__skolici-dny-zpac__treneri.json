@@ -1,0 +1,381 @@
+{
+ "path": "/akce/skolici-dny-zpac/treneri",
+ "url": "/cz/akce/skolici-dny-zpac/treneri",
+ "title": "Trenéři",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Akce /",
+   "href": "/cz/akce"
+  },
+  {
+   "label": "Trenéři",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Akce /",
+   "href": "/cz/akce"
+  },
+  {
+   "label": "Trenéři",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/events/zpac-training-days/coaches",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/eventos/dias-de-entrenamiento-zpac/entrenadores",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/evenements/journees-de-formation-zpac/entraineurs",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/eventos/dias-de-treino-zpac/treinadores",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/eventi/giornate-di-formazione-zpac/allenatori",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/evenemang/zpac-utbildningsdagar/traenare",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/events/zpac-training-days/trainers",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/events/zpac-training-days/trainers",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/evenements/journees-de-formation-zpac/entraineurs",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/zpac-%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%87%E3%82%A4%E3%82%BA/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%96%89%EC%82%AC/zpac-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D-%EB%8D%B0%EC%9D%B4/%EC%BD%94%EC%B9%98",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/events/zpac-training-days/trainers",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/eventos/dias-de-entrenamiento-zpac/entrenadores",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/eventos/dias-de-treino-zpac/treinadores",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Trenéři",
+     "href": "/cz/akce/skolici-dny-zpac/treneri",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c7943",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/8/e/csm_csm_meet_zoller_599fe3f5ee_b8eb9cad0a.webp",
+     "video": null,
+     "title": "Seznamte se s odborníky",
+     "kicker": "",
+     "text": "<p>ZOLLER Den otevřených dveří &amp; Summit o automatizaci</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7941",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "tiles",
+   "header": "<h2> Přednášející a tým společnosti ZOLLER </h2>",
+   "cols": 4,
+   "tiles": [
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/e/csm_alexander_zoller_11_1138472629.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Alexander Zoller Prezident – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Alexander Zoller</h4> <p>Jako prezident společnosti ZOLLER Inc. od roku 2004 je Alexander Zoller hnací silou této rodinné globální technologické společnosti a byl vizionářem, který realizoval plán expanze nového severoamerického ústředí a technologického centra Průmysl 4.0 v Ann Arbor v Michiganu.</p> <p>Společnost připravila sebe i své zákazníky na přizpůsobení se výrobní realitě budoucnosti, kde hardware, software a automatizace hladce spolupracují, aby dosáhly nejvyšší efektivity při výrobě dílů.</p> <p>Zoller získal v roce 2001 bakalářský titul v oboru informačních technologií na Univerzitě kooperativního vzdělávání ve Stuttgartu a v roce 2004 převzal funkci generálního ředitele společnosti E.Zoller GmbH s manažerskou odpovědností za společnost ZOLLER Inc.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/3/d/csm_nicole_wolter_05_57f4404314.webp",
+      "alt": "",
+      "w": 815,
+      "h": 815
+     },
+     "label": "Nicole Wolterová Moderátor (generální ředitel a prezident společnosti HM Manufacturing)",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": null,
+     "label": "Max Egan Generální ředitel společnosti Atlas Fibre",
+     "img": {
+      "src": "/fileadmin/_processed_/7/4/csm_speaker_egan_07_694bd08753.webp",
+      "alt": "",
+      "w": 860,
+      "h": 860
+     },
+     "text": "<h3>Max Egan</h3> <p>Max Egan je generálním ředitelem společností Atlas Fibre a Accurate Composites. Tyto sesterské společnosti dohromady představují největší vertikálně integrovanou společnost v oblasti tuhých kompozitů v Severní Americe.</p> <p>Atlas Fibre je předním distributorem termosetových kompozitních materiálů a zpracovatelem nekovových materiálů se specializací na termosetové kompozity, jako jsou G10, G11, FR4 a Canvas Phenolic, stejně jako na pokročilé vysoce výkonné plasty, jako jsou PEEK, Vespel, Ultem, PPS a PVDF.</p> <p>Ve společnosti Atlas Fibre zavádí koncept Atlas Batch-Size-One. Jedná se o štíhlý přístup využívající flexibilní upínací zařízení, standardizaci procesů a špičkovou automatizaci. Atlas Batch-Size-One umožňuje společnosti Atlas Fibre vyrábět jeden komponent za téměř stejné náklady na kus jako sérii 10 000+ kusů a udržet si tuto nákladovou výhodu po celou dobu výroby. To, spolu s naším největším skladem v Severní Americe, umožňuje naší společnosti poskytovat dokonalou kombinaci rychlých dodacích lhůt a stabilních dodávek.</p> <p>Max má bakalářský titul v oboru informatiky z Duke University a titul MBA z Harvard Business School.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/3/b/csm_placeholder_square_img_grey_2d272b2636.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Peter Doyle Prezident společnosti Hirsh Precision",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": null,
+     "label": "Frank Weisskopf Prezident a generální ředitel – TTS",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/d/0/csm_tom_bassett_e33f269fc1.webp",
+      "alt": "",
+      "w": 1637,
+      "h": 1637
+     },
+     "label": "Tom Bassett Prezident – Pro-Cam LLC",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/1/d/csm_moll_17_3c77f9435c.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Dietmar Moll Obchodní ředitel – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Dietmar Moll</h4> <p>Dietmar Moll je ředitelem prodeje ve společnosti ZOLLER Inc. a je držitelem magisterského titulu v oboru strojírenství z Cooperative State University ve Stuttgartu.</p> <p>Moll má za sebou dlouhou kariéru ve společnosti ZOLLER, během níž zastával řadu mezinárodních pozic v oblasti prodeje a také vedl pobočky v Indii, Thajsku a Spojených státech.</p> <p>Celkově má více než 18 let zkušeností v oblasti efektivní výroby se zaměřením na aplikace obráběcích strojů a pomáhá firmám porozumět jejich procesním schopnostem pomocí řešení pro přednastavení nástrojů, měření a kontrolu, správu nástrojů a automatizaci.</p> <p>Díky jeho zkušenostem s prací se společnostmi a partnery v různých výrobních odvětvích, včetně leteckého průmyslu, ropného a plynárenského průmyslu, automobilového průmyslu a těžebního průmyslu, je společnost ZOLLER schopna řešit reálné výzvy v oblasti výroby dílů, protože inteligentní výroba, analytika a Průmysl 4.0 otevírají novou generaci možností v oblasti integrovaných technologií a pokročilých výrobních postupů.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/a/csm_rita_44_bf76963ef6.webp",
+      "alt": "",
+      "w": 800,
+      "h": 800
+     },
+     "label": "Rita Conroy-Martinová Ředitel pro marketing a zákaznickou zkušenost – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Rita Conroy-Martin</h4> <p>Rita Conroy-Martin je ředitelkou pro marketing a zákaznickou zkušenost ve společnosti ZOLLER Inc. Je multilingvní a má více než 25 let mezinárodních profesionálních zkušeností v oblasti prodeje a rozvoje podnikání, marketingu a nákupu, především ve výrobním sektoru.</p> <p>Věnuje se propojení prodeje a marketingu uprostřed dramatické transformace, která mění pravidla toho, jak velké i malé společnosti komunikují s potenciálními a stávajícími zákazníky.</p> <p>Ve své současné funkci ve společnosti ZOLLER Inc. kombinuje tradiční i nové strategie marketingu a rozvoje podnikání s cílem vzdělávat, zapojovat, uvádět a podporovat zákazníky a potenciální zákazníky, aby dosáhli nové úrovně efektivity díky řešením společnosti ZOLLER.</p> <p>Je absolventkou University of Limerick v Irsku, kde získala bakalářský titul v oboru podnikání a němčiny, a magisterský titul v oboru politologie na Université Libre de Bruxelles v Belgii. </p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/3/2/csm_werner_lueken_v4_28_bcac49f60f.webp",
+      "alt": "",
+      "w": 711,
+      "h": 711
+     },
+     "label": "Werner Lueken Ředitel divize řešení pro kontrolu nástrojů – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Werner Lueken</h4> <p>Werner Lueken je ředitelem divize řešení pro kontrolu nástrojů ve společnosti ZOLLER Inc.</p> <p>V roce 1997 získal inženýrský titul v oboru průmyslového designu na Vysoké škole aplikovaných věd v Kielu v Německu. </p> <p>Lueken působí ve společnosti ZOLLER Inc. již 23 let a zastával mnoho funkcí, vždy se však zaměřoval na podporu zákazníků v oblasti kontroly nástrojů.</p> <p>S nadšením pomáhá výrobcům řezných nástrojů a koncovým uživatelům řešit jejich problémy s geometrií nástrojů a poskytuje jim jistotu ohledně kvality nástrojů. Je uznáván jako odborník v této oblasti jak v USA, tak na celosvětové úrovni.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/f/csm_brothers_10_2e640c257f.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Matt Brothers Manažer technologického centra Průmysl 4.0 – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Matt Brothers</h4> <p>Matt Brother je vedoucím technologického centra Průmysl 4.0 ve společnosti ZOLLER Inc.</p> <p>Díky více než 20 letům zkušeností v oblasti kontroly a výroby speciálních řezných nástrojů přináší do společnosti ZOLLER jedinečné dovednosti, zejména svou specializaci na vývoj procesů kontroly řezných nástrojů a řešení problémů.</p> <p>V minulosti Brothers spolupracoval se společnostmi Starcutter a Northern Tool. Ve společnosti ZOLLER působí od roku 2017.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/2/8/csm_nelu_13_add1496942.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Nelu Bilba Specialista na produktivitu výroby – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Nelu Bilba</h4> <p>Nelu Bilba je specialistou na produktivitu výroby ve společnosti ZOLLER Inc. Spolupracuje s novými i stávajícími zákazníky na zlepšování jejich výrobních procesů a navrhuje jim vhodná řešení od společnosti ZOLLER. Je specialistou na řezné nástroje a držáky nástrojů.</p> <p>Než nastoupil do společnosti ZOLLER Inc., byl zákazníkem společnosti ZOLLER v podnicích v USA a Německu. Technické vzdělání absolvoval v Rumunsku a v Německu. Po dalším studiu v Německu zastával různé pozice ve výrobě, od prototypování přes pětiosé obrábění až po výrobu řezných nástrojů.</p> <p>Od svého přestěhování do USA v roce 2011 zastával Bilba řadu vedoucích pozic ve výrobě, včetně pozice vedoucího oddělení a vedoucího výroby/závodu.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/f/9/csm_cedric_15_8519a48e1c.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Cedric Hasenfratz Manažer prodeje a partnerství pro TMS v Severní Americe – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Cedric Hasenfratz</h4> <p>Cedric Hasenfratz je manažerem prodeje a partnerství pro Severní Ameriku v rámci portfolia ZOLLER TMS Tool Management Solutions a s nadšením se věnuje zavádění řešení pro zvýšení efektivity ve výrobě.</p> <p>Před nástupem do společnosti ZOLLER působil jako account manager pro USA v divizi Manufacturing Intelligence společnosti Hexagon v segmentu prodeje softwaru.</p> <p>Má hluboké znalosti a zkušenosti v oblasti digitální správy nástrojů a optimalizace procesů pro moderní výrobu. </p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/9/7/csm_gaether_06_10e992158f.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Dietmar Gaertner Obchodní a aplikační inženýr – ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/7/e/csm_Clayton_Springer_o_logo_16_11847040e5.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 954
+     },
+     "label": "Clayton Springer Specialista na videoprodukci – ZOLLER INC.",
+     "img": null,
+     "text": "<h4>Clayton Springer</h4> <p>Clayton Springer je specialistou na videoprodukci v marketingovém oddělení společnosti ZOLLER Inc.</p> <p>Má zkušenosti s prací v oblasti sportovního vysílání, živých televizních zpráv a firemního marketingu, kde produkoval obsah pro sociální média, reklamy pro kabelovou televizi, propagační materiály, produktová videa a živé přenosy.</p> <p>Vystudoval Ferris State University, kde získal bakalářský titul v oboru produkce televizních a digitálních médií.</p>"
+    }
+   ],
+   "ftype": "zoller_overlay-tiles",
+   "id": "c7939",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/cz/akce/skolici-dny-zpac/treneri",
+ "de_path": ""
+}

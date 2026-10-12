@@ -1,0 +1,489 @@
+{
+ "path": "/磨削工具",
+ "url": "/ch/%E7%A3%A8%E5%89%8A%E5%B7%A5%E5%85%B7",
+ "title": "磨削刀具",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "磨削刀具",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "磨削刀具",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeuge-schleifen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/sharpening-tools",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/rectificado-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/affuter-les-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/afiar-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/affilatura-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/slipa-verktyg",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeuge-schleifen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/grinding-tools",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/affutage-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E7%A0%94%E3%81%8E",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EC%97%B0%EB%A7%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/grinding-tools",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/afilar-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/afiar-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/7/e/csm_header_grinding_21f044b386.webp",
+     "video": null,
+     "title": "助力刀具制造商和磨削企业提高效益",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c2447",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> 接口、测量值、砂轮、适用于数控机床的刀具数据 </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c728",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>对于刀具制造商和磨削企业而言，测量数据和数据管理对于实现高经济效益和有据可查的质量至关重要。ZOLLER 为您提供实现这一目标所需的一切。 </strong></p> <p>借助 ZOLLER，您将拥有与 CAD 程序和数控系统的接口、 用于砂轮管理的软硬件、可直接应用于生产流程的微米级精度检测设备，以及将砂轮和几何数据无误传输至数控磨床的可靠技术。</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c727",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c729",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "count",
+   "title": "人力成本*节省高达",
+   "value": "83%",
+   "note": "*基于三班工作制下的检测情况，每班配备一名员工。",
+   "ftype": "zoller_count-banner",
+   "id": "c722",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> ZOLLER 为您提供的磨削工艺解决方案 </h2>",
+   "items": [
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F/%E9%80%9A%E7%94%A8%E6%B5%8B%E9%87%8F%E6%9C%BA/%E5%A4%A9%E6%89%8D",
+     "title": "»genius«",
+     "text": "<p>可超精准监测100余项参数，并在全球范围内经过1000多次实践验证</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/d/csm_genius_1_5b500df8d2.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F/%E9%80%9A%E7%94%A8%E6%B5%8B%E9%87%8F%E6%9C%BA/titan",
+     "title": "»titan«",
+     "text": "<p>致渴望了解一切的专家——包括切缘预备</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/3/b/csm_titan__preview_9813f51631.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E4%BB%93%E5%BA%93/toolorganizer",
+     "title": "»toolOrganizer«",
+     "text": "<p>适用于切削工具和小型零件</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_018ce796c6.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E5%B9%B3%E8%A1%A1%E6%8A%80%E6%9C%AF/toolbalancer",
+     "title": "»toolBalancer«",
+     "text": "<p>这款动平衡系统融合了最先进的技术与符合人体工学的设计</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F/%E9%9D%A2%E5%90%91%E6%B5%81%E7%A8%8B%E7%9A%84%E6%B5%8B%E9%87%8F/mmfocus",
+     "title": "»mμFocus«",
+     "text": "<p>分析表面形态并生成刀具刃口的3D图像</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/0/csm_myFocus__preview_b0f99094b2.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F/%E9%9D%A2%E5%90%91%E6%B5%81%E7%A8%8B%E7%9A%84%E6%B5%8B%E9%87%8F/pombasic",
+     "title": "»pomBasic«",
+     "text": "<p>在加工过程中对刀具的70多个参数进行检测</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/5/f/csm_pombasic__preview_65ddb1db86.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%88%80%E5%85%B7%E6%A3%80%E6%B5%8B/roboset-2",
+     "title": "»roboSet 2«",
+     "text": "<p>适用于 »»genius««、»»3dCheck««、»»threadCheck««、»»titan«« 和 »»edgeControl«« 的刀具处理</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_7361e448c0.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F/%E5%AE%9A%E5%88%B6%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E5%AE%9A%E5%88%B6%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/threadcheckcc",
+     "title": "»﻿﻿threadCheck ❘ cc﻿﻿﻿﻿«",
+     "text": "<p>高端机型，配备六个数控轴和可旋转的多传感器光学支架</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/6/8/csm_threadCheckCC__preview_ffdf543c62.webp",
+      "alt": "",
+      "w": 1563,
+      "h": 1291
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F/%E5%AE%9A%E5%88%B6%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E5%AE%9A%E5%88%B6%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/hobcheck",
+     "title": "»hobCheck«",
+     "text": "<p>来自透射式和反射式相机以及长度规的大于200个测量值</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/a/csm_hobCheck__preview_63b423e059.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F/%E9%80%9A%E7%94%A8%E6%B5%8B%E9%87%8F%E6%9C%BA/smartcheck",
+     "title": "»smartCheck«",
+     "text": "<p>配备辅助投射光和增强型图像分析功能的调节与测量设备</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_b44dfc4928.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93/zidcode",
+     "title": "»zidCode«",
+     "text": "<p>通过简化的刀具数据管理提升安全性和效率</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/c/csm_zidCode_preview_538b53ed83.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E4%BB%93%E5%BA%93/keeper",
+     "title": "»keeper«",
+     "text": "<p>适用于成套刀具和刀柄</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/a/csm_keeper_preview_1e87de3ba7.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E4%BB%93%E5%BA%93/autolock",
+     "title": "»autoLock«",
+     "text": "<p>适用于检测设备、操作材料及大型部件</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/7/csm_autolock__preview_a71350a53a.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E4%BB%93%E5%BA%93/twister",
+     "title": "»twister«",
+     "text": "<p>适用于工具部件和配件</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/1/csm_twister__preview_edf94f7d12.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%AE%89%E8%A3%85/toolstation",
+     "title": "»toolStation«",
+     "text": "<p>实现最佳的刀具安装</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/f/csm_toolStation_preview_00b81d24f9.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%AE%89%E8%A3%85/ztower",
+     "title": "»zTower«",
+     "text": "<p>适用于通用工具安装</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/6/csm_zTower_preview_c0c8e3585e.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E8%BF%90%E8%BE%93/toolcart",
+     "title": "»toolCart«",
+     "text": "<p>便于工具运输</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_3be007bbac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_categorized_pages",
+   "id": "c4775",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "一对一专家咨询",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>一对一专家咨询</h3> <p>针对您的目标以及我们为此提出的方案，进行一对一的交流。ZOLLER 直接从“智能工厂”为您提供的在线咨询服务。立即预约。 </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/e/csm_teaser-2Colume-Media_8e9165a74e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "媒体：ZOLLER 详解",
+     "href": "/ch/%E4%BC%81%E4%B8%9A/%E5%AA%92%E4%BD%93",
+     "caption": "<figcaption> <h3>媒体：ZOLLER 详解</h3> <p>您可以在此查阅新闻稿、产品公告、展会参展信息、行业杂志上的报道、新闻存档以及我们的媒体联系人。 </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c738",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ch/磨削工具",
+ "de_path": "/werkzeuge-schleifen"
+}

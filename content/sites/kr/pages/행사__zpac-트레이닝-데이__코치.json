@@ -1,0 +1,381 @@
+{
+ "path": "/행사/zpac-트레이닝-데이/코치",
+ "url": "/kr/%ED%96%89%EC%82%AC/zpac-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D-%EB%8D%B0%EC%9D%B4/%EC%BD%94%EC%B9%98",
+ "title": "코치",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "전시회 및 세미나 /",
+   "href": "/kr/%ED%96%89%EC%82%AC"
+  },
+  {
+   "label": "코치",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "전시회 및 세미나 /",
+   "href": "/kr/%ED%96%89%EC%82%AC"
+  },
+  {
+   "label": "코치",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/events/zpac-training-days/coaches",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/eventos/dias-de-entrenamiento-zpac/entrenadores",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/evenements/journees-de-formation-zpac/entraineurs",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/eventos/dias-de-treino-zpac/treinadores",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/eventi/giornate-di-formazione-zpac/allenatori",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/evenemang/zpac-utbildningsdagar/traenare",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/events/zpac-training-days/trainers",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/events/zpac-training-days/trainers",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/evenements/journees-de-formation-zpac/entraineurs",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/zpac-%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%87%E3%82%A4%E3%82%BA/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%96%89%EC%82%AC/zpac-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D-%EB%8D%B0%EC%9D%B4/%EC%BD%94%EC%B9%98",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/events/zpac-training-days/trainers",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/eventos/dias-de-entrenamiento-zpac/entrenadores",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/eventos/dias-de-treino-zpac/treinadores",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "코치",
+     "href": "/kr/%ED%96%89%EC%82%AC/zpac-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D-%EB%8D%B0%EC%9D%B4/%EC%BD%94%EC%B9%98",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c7943",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/8/e/csm_csm_meet_zoller_599fe3f5ee_b8eb9cad0a.webp",
+     "video": null,
+     "title": "전문가들을 만나보세요",
+     "kicker": "",
+     "text": "<p>졸러 오픈 하우스 &amp; 자동화 서밋</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7941",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "tiles",
+   "header": "<h2> 발표자 및 졸러 팀 </h2>",
+   "cols": 4,
+   "tiles": [
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/e/csm_alexander_zoller_11_1138472629.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "알렉산더 졸러 사장 – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>알렉산더 졸러</h4> <p>2004년부터 ZOLLER Inc.의 사장으로 재직해 온 알렉산더 졸러는 이 가족 소유의 글로벌 기술 기업을 이끄는 원동력이었으며, 미시간주 앤아버에 새로운 북미 본사와 인더스트리 4.0 테크 센터를 설립하기 위한 확장 계획을 실행에 옮긴 선구자였습니다.</p> <p>이 회사는 하드웨어, 소프트웨어, 자동화가 원활하게 연동되어 부품 생산의 효율성을 극대화하는 미래 제조 환경에 대비해 자사와 고객사를 준비시켰습니다.</p> <p>졸러는 2001년 슈투트가르트 협동 교육 대학에서 정보 기술 학사 학위를 취득했으며, 2004년 E.졸러 GmbH의 대표이사직을 맡아 졸러(ZOLLER Inc.)의 경영 책임을 담당하게 되었습니다.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/3/d/csm_nicole_wolter_05_57f4404314.webp",
+      "alt": "",
+      "w": 815,
+      "h": 815
+     },
+     "label": "니콜 볼터 사회자 (HM Manufacturing 대표이사 겸 사장)",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": null,
+     "label": "맥스 이건 아틀라스 파이버 CEO",
+     "img": {
+      "src": "/fileadmin/_processed_/7/4/csm_speaker_egan_07_694bd08753.webp",
+      "alt": "",
+      "w": 860,
+      "h": 860
+     },
+     "text": "<h3>맥스 이건</h3> <p>맥스 이건은 아틀라스 파이버(Atlas Fibre)와 어큐레이트 컴포지츠(Accurate Composites)의 CEO입니다. 이 두 자매 회사는 합쳐지면 북미 최대의 수직 통합형 경질 복합재 기업을 형성합니다.</p> <p>아틀라스 파이버(Atlas Fibre)는 G10, G11, FR4, 캔버스 페놀릭(Canvas Phenolic)과 같은 열경화성 복합재와 PEEK, 베스펠(Vespel), 울템(Ultem), PPS, PVDF와 같은 첨단 고성능 플라스틱을 전문으로 하는 열경화성 복합재 분야의 선도적인 유통업체이자 비금속 소재 가공업체입니다.</p> <p>Atlas Fibre에서 그는 'Atlas Batch-Size-One' 개념을 도입해 왔습니다. 이는 유연한 고정 장치, 공정 표준화, 최첨단 자동화를 활용하는 린(Lean) 방식입니다. 'Atlas Batch-Size-One'을 통해 Atlas Fibre는 1만 개 이상의 대량 생산 시와 거의 동일한 단가 비용으로 단일 부품을 생산할 수 있으며, 전체 생산 과정에서 이러한 비용 경쟁력을 유지할 수 있습니다. 여기에 북미 최대 규모의 재고량을 더해, 당사는 빠른 납기와 안정적인 공급이라는 최고의 조합을 제공할 수 있습니다.</p> <p>맥스는 듀크 대학교에서 컴퓨터 공학 학사 학위를, 하버드 비즈니스 스쿨에서 MBA를 취득했습니다.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/3/b/csm_placeholder_square_img_grey_2d272b2636.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "피터 도일 Hirsh Precision 사장",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": null,
+     "label": "프랭크 바이스코프 대표이사 겸 최고경영자 - TTS",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/d/0/csm_tom_bassett_e33f269fc1.webp",
+      "alt": "",
+      "w": 1637,
+      "h": 1637
+     },
+     "label": "톰 배셋 대표이사 - Pro-Cam LLC",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/1/d/csm_moll_17_3c77f9435c.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "디트마르 몰 영업 이사 – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>디트마르 몰</h4> <p>디트마르 몰은 ZOLLER Inc.의 영업 이사이며, 슈투트가르트 협동 주립대학교에서 공학 석사 학위를 취득했습니다.</p> <p>몰은 졸러(ZOLLER)에서 오랜 기간 근무하며 영업 분야의 다양한 국제적 직책을 역임했을 뿐만 아니라, 인도, 태국 및 미국 지사의 총괄 관리자 직책을 맡기도 했습니다.</p> <p>전반적으로 그는 공작 기계 응용 분야에 중점을 두고, 공구 사전 설정, 측정 및 검사, 공구 관리, 자동화 솔루션을 통해 기업들이 자사의 공정 역량을 파악할 수 있도록 지원하는 등 효율적인 제조 분야에서 18년 이상의 경력을 보유하고 있습니다.</p> <p>항공우주, 석유 및 가스, 자동차, 광업 등 다양한 제조 분야의 기업 및 파트너와 협력해 온 그의 경험은, 스마트 제조, 분석 및 인더스트리 4.0이 통합 기술과 첨단 제조 관행의 새로운 가능성을 열어감에 따라, ZOLLER가 실제 부품 생산 과제를 해결하는 데 있어 시장 동향에 부응할 수 있도록 보장합니다.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/a/csm_rita_44_bf76963ef6.webp",
+      "alt": "",
+      "w": 800,
+      "h": 800
+     },
+     "label": "리타 콘로이-마틴 마케팅 및 고객 경험 담당 이사 – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>리타 콘로이-마틴</h4> <p>리타 콘로이-마틴은 ZOLLER Inc.의 마케팅 및 고객 경험 담당 이사이며, 주로 제조업 분야에서 영업 및 사업 개발, 마케팅, 구매 분야를 아우르는 25년 이상의 국제적인 비즈니스 경력을 보유한 다국어 구사자입니다.</p> <p>그녀는 대기업과 중소기업을 막론하고 잠재 고객 및 기존 고객과 소통하는 방식의 규칙을 재정의하고 있는 급격한 변화의 소용돌이 속에서 영업과 마케팅의 조화를 이루는 데 열정을 쏟고 있습니다.</p> <p>현재 ZOLLER Inc.에서 그녀는 전통적 및 신흥 마케팅 및 사업 개발 전략을 융합하여, ZOLLER 솔루션을 통해 고객과 잠재 고객을 교육하고, 참여를 유도하며, 온보딩하고, 새로운 차원의 효율성으로 이끌고 있습니다.</p> <p>그녀는 아일랜드 리머릭 대학교에서 경영학 및 독일어 학사 학위를, 벨기에 브뤼셀 자유 대학교에서 정치학 석사 학위를 취득했습니다. </p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/3/2/csm_werner_lueken_v4_28_bcac49f60f.webp",
+      "alt": "",
+      "w": 711,
+      "h": 711
+     },
+     "label": "베르너 루켄 공구 검사 솔루션 부문 이사 – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>베르너 루켄</h4> <p>베르너 루켄은 ZOLLER Inc.의 공구 검사 솔루션 부문 이사입니다.</p> <p>그는 1997년 독일 킬 응용과학대학교에서 산업 디자인 공학 학위를 취득했습니다. </p> <p>루켄은 ZOLLER Inc.에서 23년 동안 열정적으로 근무해 왔으며, 다양한 직무를 수행해 왔지만 항상 고객의 공구 검사 요구 사항을 지원하는 데 중점을 두어 왔습니다.</p> <p>그는 절삭 공구 제조업체와 최종 사용자가 공구 형상 관련 문제를 해결하고 공구 품질에 대한 확신을 가질 수 있도록 돕는 데 열정을 쏟고 있으며, 미국 및 전 세계적으로 이 분야의 전문가로 인정받고 있습니다.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/f/csm_brothers_10_2e640c257f.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "맷 브라더스 인더스트리 4.0 기술 센터 매니저 – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>맷 브라더스</h4> <p>맷 브로더는 ZOLLER Inc.의 인더스트리 4.0 기술 센터 매니저입니다.</p> <p>특수 형상 절삭 공구 검사 및 제조 분야에서 20년 이상의 경력을 보유한 그는, 특히 절삭 공구 검사 공정 개발 및 문제 해결에 대한 전문성을 바탕으로 ZOLLER에 독보적인 역량을 기여하고 있습니다.</p> <p>브러더스는 과거 스타커터(Starcutter)와 노던 툴(Northern Tool)에서 근무한 바 있으며, 2017년부터 졸러(ZOLLER)에서 근무하고 있습니다.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/2/8/csm_nelu_13_add1496942.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "넬루 빌바 제조 생산성 전문가 – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>넬루 빌바</h4> <p>넬루 빌바는 ZOLLER Inc.의 제조 생산성 전문가입니다. 그는 신규 및 기존 고객과 협력하여 제조 공정을 개선하고, 이에 적합한 ZOLLER 솔루션을 제안합니다. 그는 절삭 공구 및 공구 홀더 분야의 전문가입니다.</p> <p>ZOLLER Inc.에 입사하기 전, 그는 미국과 독일의 기업에서 ZOLLER 고객으로 활동했습니다. 기술 교육은 루마니아와 독일에서 이수했습니다. 독일에서 추가 학업을 마친 후, 그는 시제품 제작부터 5축 가공, 절삭 공구 제조에 이르기까지 다양한 제조 관련 직책을 역임했습니다.</p> <p>2011년 미국으로 이주한 이후, 빌바는 부서장 및 생산/공장장을 포함하여 제조 분야에서 일련의 리더십 직책을 역임해 왔습니다.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/f/9/csm_cedric_15_8519a48e1c.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "세드릭 하젠프라츠 TMS 북미 영업 및 파트너십 매니저 – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>세드릭 하젠프라츠</h4> <p>세드릭 하젠프라츠는 졸러(ZOLLER) TMS(Tool Management Solutions) 제품군의 북미 영업 및 파트너십 매니저로, 제조업에 효율성 솔루션을 제공하는 데 열정을 쏟고 있습니다.</p> <p>ZOLLER에 입사하기 전에는 Hexagon의 제조 인텔리전스(Manufacturing Intelligence) 사업부 소프트웨어 영업 부문에서 미국 담당 계정 관리자로 근무했습니다.</p> <p>그는 현대 제조를 위한 디지털 공구 관리 및 공정 최적화 분야에서 깊은 지식과 경험을 보유하고 있습니다. </p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/9/7/csm_gaether_06_10e992158f.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "디트마르 가트너 영업 및 애플리케이션 엔지니어 - ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/7/e/csm_Clayton_Springer_o_logo_16_11847040e5.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 954
+     },
+     "label": "클레이튼 스프링거 영상 제작 전문가 – ZOLLER INC.",
+     "img": null,
+     "text": "<h4>클레이튼 스프링거</h4> <p>클레이튼 스프링어는 ZOLLER Inc. 마케팅 부서의 영상 제작 전문가입니다.</p> <p>그는 스포츠 중계, 생방송 뉴스 및 기업 마케팅 분야에서 경력을 쌓았으며, 소셜 미디어 콘텐츠, 케이블 TV 광고, 홍보 자료, 제품 영상 및 라이브 스트리밍을 제작해 왔습니다.</p> <p>그는 페리스 주립대학교에서 텔레비전 디지털 미디어 제작 학사 학위를 취득했습니다.</p>"
+    }
+   ],
+   "ftype": "zoller_overlay-tiles",
+   "id": "c7939",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/kr/행사/zpac-트레이닝-데이/코치",
+ "de_path": ""
+}

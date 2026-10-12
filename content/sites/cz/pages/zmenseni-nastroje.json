@@ -1,0 +1,385 @@
+{
+ "path": "/zmenseni-nastroje",
+ "url": "/cz/zmenseni-nastroje",
+ "title": "Zmenšení nástroje",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Zmenšení nástroje",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Zmenšení nástroje",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeug-schrumpfen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-shrinkage",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/contraer-herramienta",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/fretter-loutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/retrair-ferramenta",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/calettare-lutensile",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/krympning-av-verktyg",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeug-schrumpfen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/retrecissement-de-loutil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E5%8F%8E%E7%B8%AE",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EC%88%98%EC%B6%95",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/shrink-tool",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/contraer-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/retrair-ferramenta",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/1/b/csm_shrinking_header_4f2b52f126.webp",
+     "video": null,
+     "title": "Rychlá výměna nástrojů pomocí smršťovacího zařízení",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4381",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4><strong>S kvalitním smršťovacím zařízením lze výměnu nástrojů s různými upínacími držáky provádět rychle, snadno a spolehlivě. Jak to funguje a jaké to přináší výhody, popisujeme zde podrobněji.</strong></h4>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4035",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>Co se děje při smršťování nástroje?</h4> <p>Zmenšení nástroje neznamená, že se zmenší velikost samotného nástroje. Místo toho se upínací pouzdro, do kterého se vkládá např. vrták nebo obráběcí nástroj, krátkodobě, cíleně a rovnoměrně zahřeje tak, aby se roztáhlo.</p> <p>Tím vznikne v upínacím pouzdře dostatek místa pro zasunutí nástroje. Při ochlazování se materiál pouzdra opět rovnoměrně smrští ze všech stran. Nástroj je tak upnut s vysokou tuhostí, maximální upínací silou a vycentrován.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4388",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>K čemu slouží speciální upínací pouzdra?</h4> <p>K smršťování se většinou používají speciální upínací nástavce, tzv. smršťovací upínací nástavce. Jsou speciálně navrženy tak, aby si zachovaly svůj tvar i přes opakované zahřívání a ochlazování. Například neobsahují žádné pohyblivé části, takže si zachovávají svou vyváženost; důležité je také to, že přesnost souososti smršťovacího upínacího nástavce je velmi vysoká, protože jinak nepomůže ani velmi přesně vycentrovaný nástroj.</p> <p>Oproti běžným upínacím sklíčidlům mají smršťovací sklíčidla malou nevýhodu v tom, že pro každý průměr dříku je zapotřebí vlastní sklíčidlo s odpovídajícím průměrem. Na druhou stranu však nabízejí podstatně vyšší přesnost souososti, která je pro kvalitně obrobené obrobky velmi důležitá.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4387",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>Co je to smršťovací zařízení a jak funguje?</h4> <p>Smršťovací zařízení rovnoměrně a v krátkém čase zahřívá smršťovací upínací pouzdro, tedy držák nástroje, pomocí indukčního proudu (tj. prostřednictvím magnetického pole). Pomocí vhodných nástrojů a měřicích zařízení se pak nejen zajistí, že nový nástroj bude nasazen přesně vycentrován, ale lze také zajistit odpovídající přesnost délky a tuto před kontrolovaným ochlazením upínacího pouzdra změřit a případně korigovat. Odpovídající senzory také zabraňují přehřátí upínacího pouzdra nebo nástroje.</p> <p>Automatizovaná technologie smršťování tak například zajišťuje, že délka přesahu a všechny další parametry, které jsou důležité pro obrábění obrobků, jsou automaticky měřeny a správně nastaveny – a nástroj je přesto k dispozici v co nejkratším čase. To zajišťuje krátké časy přípravy a celkově nižší náklady.</p> <p>Kvalitní smršťovací zařízení jsou navíc vybavena vlastní chladicí jednotkou, ve které se smršťovací upínací pouzdro rovnoměrně ochlazuje. K tomu se používá například kontaktní chlazení, některá zařízení pracují také s vodním chlazením. Díky odpovídajícímu zajištění chlazení se také eliminuje nebezpečí popálení, které by samozřejmě mohlo nastat při náhodném dotyku s vyhřátým upínacím pouzdrem.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4382",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Nastavení, smršťování a měření – plně automatické kombinované řešení </h2>",
+   "body": "<p>S řešením ZOLLER »redomatic« proběhne smršťování vašich nástrojů hladce a plně automaticky. Náš všestranný stroj pro nastavování, smršťování a měření nástrojů – přičemž všechny procesy jsou automatizovaně prováděny v rámci jednoho společného cyklu – je vybaven 4osým CNC řízením, autofokusem, revolverovou hlavou, indukční cívkou, koníkem a chladicím systémem.</p> <h4><br/>Bezpečně, úsporně a přesně</h4> <p>Díky patentovanému automatickému délkovému dorazu »asza« nabízí zejména možnost snadného, rychlého a přesného smršťování nástrojů na požadovanou délku s přesností minimálně +/- 10 µm.</p> <p>ZOLLER »redomatic« dodává při ohřevu upínacích pouzder nástrojů pouze tolik energie, kolik je nezbytně nutné, a šetří tak i vaše pouzdra; námi navržený systém vedení smršťování a patentované odsávání spalin zajišťují větší bezpečnost pro vaše zaměstnance.</p> <p><a class=\"btn\" href=\"/cz/reseni/technologie-smrstovani\">Zde se dozvíte vše o našem úspěšném řešení pro smršťování</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4040",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Jaké jsou výhody smršťování a roztahování? </h2>",
+   "body": "<p>Nasazování a sundávání nástrojů pomocí smršťovacího materiálu má řadu výhod:</p><ul><li>Centrování nástroje je možné již před smršťováním, což zabraňuje jeho naklonění a zajišťuje vysokou přesnost házení.</li><li>Nástroj je v upínacím pouzdře rovnoměrně držen díky vysokým upínacím silám.</li><li>Speciální upínací pouzdra zajišťují vysokou kvalitu vyvážení a nedeformují se ani po mnoha smršťovacích cyklech.</li><li>S kvalitním smršťovacím zařízením a vhodným upínacím pouzdrem trvá proces ohřevu a ochlazení méně než jednu minutu.</li><li>Pro vysoké otáčky a nástroje s velkou výsuvnou délkou neumožňuje žádný jiný upínací postup podobně přesné využití nástroje.</li></ul>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4039",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>Vše na jednom místě</h3> <p>S naší smršťovací stanicí ZOLLER »powerShrink« máte vše, co potřebujete pro rychlý proces smršťování, na jednom místě. Díky její modulární konstrukci můžete pracovní stanici snadno přizpůsobit svým potřebám a požadavkům.</p> <p>Stanice je univerzálně použitelná pro všechny nástroje z rychlořezné oceli (HSS) a z karbidu o průměru od 3 do 32 mm a je vhodná i pro extrémně dlouhé nástroje.</p> <p><a class=\"btn\" href=\"/cz/produkty/tepelne-upinani-nastroju/powershrink\">Zjistěte více o smršťovací stanici ZOLLER »powerShrink«</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textpic",
+      "id": "c4037",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/6/9/csm_header_powershrink_fda54c16eb.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 896
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "image",
+      "id": "c4038",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c4036",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/e/csm_teaser_shrinking_small_43834d179e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Technologie tepelného upínání: její výhody",
+     "href": "/cz/reseni/technologie-smrstovani",
+     "caption": "<figcaption> <h3>Technologie tepelného upínání: její výhody</h3> <p>Přečtěte si, jak se nám podařilo dosáhnout výrazného zvýšení energetické účinnosti, rychlosti procesů a ergonomie. Využijte dokonalost ve své výrobě.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Individuální odborná konzultace",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>Individuální odborná konzultace</h3> <p>Individuální rozhovor o Vašich cílech a našich nápadech, jak jich dosáhnout. Online poradenství společnosti ZOLLER přímo ze Smart Factory. Domluvte si termín ještě dnes. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3834",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/cz/zmenseni-nastroje",
+ "de_path": "/werkzeug-schrumpfen"
+}

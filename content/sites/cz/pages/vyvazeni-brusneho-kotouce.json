@@ -1,0 +1,362 @@
+{
+ "path": "/vyvazeni-brusneho-kotouce",
+ "url": "/cz/vyvazeni-brusneho-kotouce",
+ "title": "Vyvážení brusného kotouče",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Vyvážení brusného kotouče",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Vyvážení brusného kotouče",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/schleifscheibe-auswuchten",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/balancing-a-grinding-wheel",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/equilibrar-el-disco-abrasivo",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/equilibrer-la-meule",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/equilibrar-o-rebolo",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/bilanciare-la-mola",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/balansera-slipskivan",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/schleifscheibe-auswuchten",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/balancing-the-grinding-wheel",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/equilibrage-dun-disque-abrasif",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E7%A0%94%E7%A3%A8%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%81%AE%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%97%B0%EB%A7%88-%EB%94%94%EC%8A%A4%ED%81%AC%EC%9D%98-%EA%B7%A0%ED%98%95-%EB%A7%9E%EC%B6%94%EA%B8%B0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/balancing-grinding-wheels",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/equilibrar-el-disco-abrasivo",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/equilibrar-o-rebolo",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/9/c/csm_grinding_wheel_header_82a94c5c43.webp",
+     "video": null,
+     "title": "Vyvážit brusný kotouč?",
+     "kicker": "",
+     "text": "<p>S naším vyvažovacím systémem »toolBalancer« je to hračka</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8000",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Náš systém vyvažování prodlužuje životnost nástrojů </h2>",
+   "body": "<p class=\"extra-large-text\">Pro moderní obráběcí stroje jsou precizně vyvážené nástroje nesmírně důležité. Nevyváženost brusných kotoučů, nástrojových systémů a rotorů způsobuje opotřebení nebo dokonce poškození – pravidelné vyvažování zabraňuje prostojům a snižuje vaše náklady.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c8001",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Efektivní vyvažování pomocí zařízení ZOLLER »toolBalancer« </h2>",
+   "body": "<p>Dlouhé doby vyvažování způsobují prostoje a ztrátu kvality. S naším »toolBalancerem« lze nejen vyvažovat držáky nástrojů, brusné kotouče a rotory s vysokou přesností – díky automatizovanému měřicímu procesu se celý proces také výrazně zrychlí.</p> <p>Je možné zohlednit jak vaše současné požadavky, tak i vývoj, který zatím nedokážete odhadnout: díky modulární konstrukci lze »toolBalancer« zcela individuálně přizpůsobit.</p> <p>Zařízení se ovládá intuitivně a intuitivně pomocí dotykové obrazovky, klávesnice nebo myši – přesně tak, jak to nejlépe vyhovuje vašemu způsobu práce. Můžete se tak soustředit na efektivní a kvalitní práci a výrobu. Tím měřitelně snížíte množství zmetků, prostoje strojů a výrobní náklady!</p> <p><a class=\"btn\" href=\"/cz/produkty/vyvazovaci-technika/toolbalancer\">Více o »toolBalanceru«</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/a/csm_teaser_toolbalancer_e584d45648.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034,
+     "href": "/cz/produkty/vyvazovaci-technika/toolbalancer"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8002",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Vyšší obráběcí výkon",
+    "Delší životnost nástrojů",
+    "Lepší kvalita dílů"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c8003",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Co je to vyvažování? </h2>",
+   "body": "<p>Vyvažováním se snižují nebo v ideálním případě zcela odstraňují nevyváženosti, které má každý tuhý těleso rotující kolem pevné osy. Nevyváženost vzniká v důsledku nerovnoměrného rozložení hmotnosti v brusném kotouči; referenčním bodem je přitom vždy osa otáčení brusného vřetena. Hlavním cílem vyvažování je vyrovnat všechny účinky odstředivé síly na rotující vřeteno, aby ložisko vřetena nebylo vystaveno žádným dodatečným silám.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8007",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Jak vznikají nevyváženosti v brusných kotoučích? </h2>",
+   "body": "<p>Nevyváženost brusného kotouče se může objevit již při výrobě, například:</p><ul><li>mírné odchylky od ideálního geometrického tvaru nebo dokonale symetrického tvaru způsobené výrobními chybami,</li><li>jiné výrobní chyby nebo</li><li>nerovnoměrná hustota struktury brusného kotouče (důsledek: nevyvážené rozložení hmotnosti).</li></ul><p>Nevyváženost však vzniká především opotřebením během procesu broušení. Příklady toho jsou:</p><ul><li>nerovnoměrné opotřebení v procesu broušení,</li><li>znečištění třískami nebo chladicími či mazacími prostředky a</li><li>namáhání a deformace způsobené upínacími silami, řeznými silami a odstředivými silami.</li></ul><p>Další problémy mohou vzniknout v důsledku nesprávného skladování nebo nesprávného zacházení s brusnými kotouči.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/5/csm_schleifscheiben_314b691a95.webp",
+     "alt": "",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8004",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Proč je třeba vyvažovat brusné kotouče? </h2>",
+   "body": "<p>Důsledky nevyváženého brusného kotouče mohou být různé: brusné vřeteno se za určitých okolností nemusí otáčet tiše a rovnoměrně (hladký chod); nevyváženost zase vede k nerovnoměrnému opotřebení, což může tento jev ještě zesílit. Navíc se může zvýšit opotřebení, resp. brusný výkon kotouče.</p> <p>Obecně platí: Pokud nástroj a upínací zařízení jako celek nevykazují vysokou přesnost kruhového běhu, může mít v důsledku nevyváženosti odstředivá síla negativní vliv na ložiska vřetena a výrazně zkrátit jejich životnost. Také životnost nástroje se může výrazně zhoršit, pokud se vibrace vyvolané odstředivou silou přenesou na stroj a nástroj. Vyvážené nástroje tedy přispívají k nižším nákladům na nástroje a zvyšují produktivitu.</p> <p>Pro dosažení vyššího obráběcího výkonu a delší životnosti nástroje je důležité před každou změnou otáček zkontrolovat stav vyvážení brusného kotouče, protože každá kombinace vřetena, otáček a nástroje s sebou nese specifickou nevyváženost.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/b/csm_scan_1dacd77291.webp",
+     "alt": "",
+     "w": 1000,
+     "h": 1000
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8005",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Jaké systémy vyvažování existují? </h2>",
+   "body": "<p><strong>V zásadě se v oblasti vyvažování rozlišují tři různé systémy vyvažování.</strong></p><ul><li><p>Elektronické vyvažování: Zde se nevyváženost brusného kotouče vyvažuje přímo na brusném vřetenu; příslušná technika může být buď integrována do brusného vřetena, nebo se dosahuje ručním posunem vyvažovacích závaží.</p></li><li><p>Vyvažovací stojany: Dva samostatné vyvažovací stojany (vyvažovací stojan se také označuje jako vyvažovací blok) jsou vybaveny dvěma úzkými vyvažovacími kotouči uloženými v kuličkových ložiscích. Vyvažovací stojany jsou k tomu obvykle upevněny na kolejnicích nebo jsou umístěny na žulových deskách měřicích strojů.</p></li><li><p>Vyvažovací váha: Vyvažovací váhy určují statickou nevyváženost brusných kotoučů. Přitom se měří de facto pouze jedna rovina; brusný kotouč se považuje za staticky vyvážený, pokud se jeho těžiště nachází uprostřed, tedy na ose otáčení.</p></li></ul>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8006",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_teaser_balancing_small_e3b1b4fcf5.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Technologie vyvažování: Vaše výhody",
+     "href": "/cz/reseni/vyvazovaci-technika",
+     "caption": "<figcaption> <h3>Technologie vyvažování: Vaše výhody</h3> <p>Vyvažování je podceňováno. Přitom vyvažování vede k vyšší hospodárnosti, protože snižuje opotřebení nástrojů, které zvyšuje náklady, a odlehčuje vřetena strojů. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Individuální konzultace s odborníkem",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>Individuální konzultace s odborníkem</h3> <p>Individuální rozhovor o vašich cílech a našich nápadech, jak jich dosáhnout. Online poradenství společnosti ZOLLER přímo ze Smart Factory. Domluvte si termín ještě dnes. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3832",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/cz/vyvazeni-brusneho-kotouce",
+ "de_path": "/schleifscheibe-auswuchten"
+}

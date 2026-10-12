@@ -1,0 +1,421 @@
+{
+ "path": "/reseni/technologie-smrstovani",
+ "url": "/cz/reseni/technologie-smrstovani",
+ "title": "Tepelné upínání nástrojů",
+ "description": "Tepelné upínání nástrojů",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Řešení /",
+   "href": "/cz/reseni"
+  },
+  {
+   "label": "Tepelné upínání nástrojů",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Řešení /",
+   "href": "/cz/reseni"
+  },
+  {
+   "label": "Tepelné upínání nástrojů",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/schrumpftechnik",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/shrink-technology",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/amarre-termico-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/technique-de-retrecissement",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/montagem-termica-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/tecnologia-per-il-calettamento-a-caldo",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/krympteknik",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/schrumpftechnik",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/shrink-technology",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/technique-de-retraction",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%8F%8E%E7%B8%AE%E6%8A%80%E8%A1%93",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%88%98%EC%B6%95-%EA%B8%B0%EC%88%A0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/shrink-technology",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/tecnica-de-contraccion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/montagem-termica-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/b/0/csm_header_shrinking_da2d643d5d.webp",
+     "video": null,
+     "title": "Technologie tepelného upínání",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c694",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>Přepracovali jsme technologii tepelného upínání. Ohřev a chlazení nyní probíhá efektivněji než kdykoli předtím. </h3>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c696",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>Pro výrobní provozy, které upínají nástroje do tepelných držáků, nabízí společnost ZOLLER nejmodernější zařízení pro tepelné upínání, jaká jsou v současnosti k dispozici. Základní dílčí procesy tepelného upínání jsme technologicky vyřešili zcela nově. Zisky v oblasti energetické účinnosti, rychlosti procesu a řízení procesu jsou vynikající. </strong></p> <p>Nízká časová náročnost, vysoká účinnost a šetrnost vůči nástrojovým držákům – přístroje ZOLLER pro tepelné upínání nástrojů dosahují díky inovativní technologii nejlepších hodnot ve všech relevantních oblastech. <br/>Pro výroby, které chtějí nástroje nejen tepelně upínat, ale také seřizovat do délky, máme řešení 2 v 1. Kombinuje tepelné upínání a automatické nastavení nástroje do délky.</p> <p>Skvělá technologie pro skvělé výsledky. </p> <p><a class=\"btn\" href=\"/cz/produkty/tepelne-upinani-nastroju\">Zobrazit produkty</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c697",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c695",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Stačí jít za světlem </h2>",
+   "body": "<p>Ergonomie, bezpečnost a snadné ovládání mají ve společnosti ZOLLER odjakživa vysokou prioritu. U tepelných přístrojů se to projevuje prostřednictvím tří LED naváděcích systémů. Ty Vás bezpečně provedou procesem tepelného upínání, informují Vás o stavu cívek a signalizují, kdy je chlazení bezpečně ukončeno.</p> <p>Tyto systémy se nazývají »actbyLight«, »shrinkbyLight« a »coolbyLight«. Exkluzivně u společnosti ZOLLER.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c698",
+   "bg": "black",
+   "space": {
+    "before": "extra-large",
+    "after": "extra-large"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Extrémní účinnost </h2>",
+   "body": "<p class=\"large-text\">Díky indukčnímu systému vyvinutému společností ZOLLER máte zaručenou vysokou účinnost téměř 100%. V cívkách jsou zabudována dvě paralelní vinutí. Téměř veškerý přiváděný elektrický výkon se využívá k ohřevu nástrojového držáku.</p> <p class=\"large-text\">Kromě toho každý cyklus ohřevu a chlazení probíhá nesmírně rychle. Extrémní účinnost pro Vaše procesy tepelného upínání.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/d/csm_shrinking_01_e63ec03bf9.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c700",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Cenné údaje o nástrojích </h2>",
+   "body": "<p class=\"large-text\">Data hrají v systému ZOLLER klíčovou roli. I při procesu tepeplného upínání vznikají data, která lze využít pro správu nástrojů. U všech nástrojových držáků vybavených čipem ZOLLER »idChip« můžete automaticky zaznamenávat topné cykly a ukládat je pomocí softwaru »pilot 4.0«.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/0/csm_shrinking_02_d3c241dbbc.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c699",
+   "bg": "white",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Produktivní prémiová kvalita </h2>",
+   "body": "<p class=\"large-text\">S tepelnými přístroji od společnosti ZOLLER využíváte nejmodernější technologii a osvědčenou kvalitu navrženou s ohledem na dlouhou životnost. Všechna zařízení lze okamžitě integrovat do Vaší výroby a podporují tak vysokou produktivitu. </p> <p class=\"large-text\">Řada přístrojů »powerShrink«, »redomatic 400« a »redomatic 600« je certifikována dle TÜV a UL/CSA. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/8/2/csm_shrinking_03_2905d02cf7.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c701",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "count",
+   "title": "Snížení energetické spotřeby:*",
+   "value": "30 %",
+   "note": "* ve srovnání s předchozím modelem",
+   "ftype": "zoller_count-banner",
+   "id": "c702",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Řešení tepelného upínání </h2>",
+   "items": [
+    {
+     "href": "/cz/produkty/tepelne-upinani-nastroju/powershrink",
+     "title": "»powerShrink«",
+     "text": "<p>Systém tepelného upínání s optimální energetickou účinností a maximální bezpečností</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_506ab0ccb9.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/cz/produkty/tepelne-upinani-nastroju/redomatic",
+     "title": "»redomatic«",
+     "text": "<p>Univerzální měřicí a seřizovací přístroj s integrovaným systémem tepelného upínání nástrojů</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/f/b/csm_redomatic_preview_4157496177.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c1639",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_zoller_system_teaser_a6e5d69871.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Začněte s řešením ZOLLER – vstupte do systému.",
+     "href": "/cz/system",
+     "caption": "<figcaption> <h3>Začněte s řešením ZOLLER – vstupte do systému.</h3> <p>Naši zákazníci těží z komplexních řešení, která prosazujeme již po desetiletí. Výsledek: vynikající efektivita. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Individuální konzultace s odborníky",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>Individuální konzultace s odborníky</h3> <p>Individuální rozhovor o Vašich cílech a našich nápadech, jak jich dosáhnout. Online poradenství společnosti ZOLLER přímo ze Smart Factory. Domluvte si termín ještě dnes. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/cz/reseni/technologie-smrstovani",
+ "de_path": "/solutions/schrumpftechnik"
+}

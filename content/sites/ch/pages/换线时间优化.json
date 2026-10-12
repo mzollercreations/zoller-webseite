@@ -1,0 +1,536 @@
+{
+ "path": "/换线时间优化",
+ "url": "/ch/%E6%8D%A2%E7%BA%BF%E6%97%B6%E9%97%B4%E4%BC%98%E5%8C%96",
+ "title": "优化换线时间",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "优化换线时间",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "优化换线时间",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/ruestzeitoptimierung",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/setup-time-optimization",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/optimizacion-del-tiempo-de-preparacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/optimisation-du-temps-de-preparation",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/otimizacao-do-tempo-de-preparacao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/ottimizzazione-dei-tempi-di-attrezzaggio",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/optimering-av-foerberedelsetiden",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/ruestzeitoptimierung",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/setup-time-optimization",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/optimisation-des-temps-de-preparation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E6%BA%96%E5%82%99%E6%99%82%E9%96%93%E3%81%AE%E6%9C%80%E9%81%A9%E5%8C%96",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A4%80%EB%B9%84-%EC%8B%9C%EA%B0%84-%EC%B5%9C%EC%A0%81%ED%99%94",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/setup-time-optimization",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/optimizacion-del-tiempo-de-preparacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/otimizacao-do-tempo-de-preparacao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/2/3/csm_ruesten_header_8622b0d406.webp",
+     "video": null,
+     "title": "为什么要优化换线时间？",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8076",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">如今，几乎没有哪台机器或生产线只生产一种产品 — 通常它们会根据需求进行调整，以生产不同的产品。这会导致设置时间，在此期间机器通常处于停机状态。</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8048",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 什么是装调时间？ </h2>",
+   "body": "<p>装调时间是指机床或系统从生产一种产品切换到生产另一种产品的这段时间。例如，在生产散件时，装调时间的定义是：从旧批次最后一件合格产品到新批次第一件合格产品之间的时间。</p> <p>因此，装调时间严格来说并非“浪费”，但由于它至少部分意味着机器停机时间，因此装调时间越长，生产设备的生产率和效率自然就会降低。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/4/csm_tms_connected_3fe459a22a.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 900
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8049",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> 如何优化装调时间？ </h2>",
+      "body": "<p>优化装调时间，最关键的就是：尽可能缩短装调时间！为实现这一目标，可以采取多种方法。</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c8051",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "分析准备工序",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>任何旨在缩短换线时间的改进流程，都必须首先对换线操作进行分析：需要哪些步骤？目前正在执行哪些步骤，这些步骤需要花费多少时间？这些步骤的执行顺序是怎样的，是否可以调整？哪些步骤是真正必要的，哪些步骤可以进行优化？</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8054",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "优化批量大小",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>深入分析还应包括以下问题：是否有可能减少设备整体的换线频率，即减少产品切换的次数？换线次数减少自然意味着耗时更少，从而节省资金。 与此同时，必须将由此节省的成本与尽可能降低库存的需求进行权衡，即避免造成商品过剩。当然，在此过程中，设备的利用率应尽可能保持在较高水平。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8056",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "外部装调",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>在装调时间方面，需区分外部装调（生产系统运行期间也可进行的活动）与内部装调（必须停机才能进行的活动）。内部装调会造成生产力损失，因此尽可能缩短内部装调时间，自然符合您的利益。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8058",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "数字化和自动化",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>对于现代化机床而言，对装调过程进行彻底的数字化和自动化是至关重要的举措。例如，刀具预调仪可以预先确定数控机床所需的刀具数据，即测量刀具并直接进行正确的设置。 这样一来，内部设置时间大幅缩短，此外，电子数据传输还能避免传输过程中的错误。</p> <p>由于外部测量可在预调和测量设备上进行，而机床本身仍在处理其他订单，因此进一步节省了时间：一旦机床准备就绪，即可直接使用刀具。无需因激光测量而无谓地延长机床的停机时间。</p> <p><a class=\"btn\" href=\"/ch/%E4%BA%A7%E5%93%81/%E9%A2%84%E8%B0%83%E5%92%8C%E6%B5%8B%E9%87%8F\"><strong>测量刀具并直接进行正确设置</strong></a></p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8060",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "培训",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>在装调任务方面 — 无论是手动还是电子、外部还是内部 — 没有什么比训练有素的装调人员更重要。如果员工在装调车间和培训机床上接受过良好培训，错误就会减少，困难也能在导致生产力损失之前被及早发现。</p> <p><a class=\"btn\" href=\"/ch/%E4%BC%81%E4%B8%9A/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC/%E5%9F%B9%E8%AE%AD%E4%B8%8E%E6%95%99%E8%82%B2\">了解 ZOLLER 培训课程</a></p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8062",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c8052",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8050",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> 优化装调时间有哪些优势？ </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c8064",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "更高的效率和生产力",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>装调时间越短，其在员工工作时间中所占的比例就越小，机器就能有更多时间专注于其本职工作：生产。这将显著提高您生产流程的整体生产率。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8075",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "降低成本",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>更短的装调时间也能降低您的成本 — 这不仅得益于效率的提升，还源于所有相互关联流程的优化。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8073",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "流程标准化",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>通过对装调时间及其中所需工作步骤的深入分析，可以实现超越单台设备的流程标准化。进而，这些标准化流程可转化为更清晰的指导方针和员工培训资料。 这不仅为员工提供了额外的指导和保障，还能让员工在操作尚不熟悉的设备时更轻松地完成转换。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8071",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c8065",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8063",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_zoller_system_teaser_a6e5d69871.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "从解决方案开始——进入系统。",
+     "href": "/ch/%E8%AF%A5%E7%B3%BB%E7%BB%9F",
+     "caption": "<figcaption> <h3>从解决方案开始——进入系统。</h3> <p>我们的客户受益于我们数十年来一直致力于推进的整体解决方案。结果：效率卓越。 </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "一对一专家咨询",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>一对一专家咨询</h3> <p>针对您的目标以及我们为此提出的方案，进行一对一的交流。ZOLLER 直接从“智能工厂”为您提供的在线咨询服务。立即预约。 </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ch/换线时间优化",
+ "de_path": "/ruestzeitoptimierung"
+}

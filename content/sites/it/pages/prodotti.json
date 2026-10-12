@@ -1,0 +1,438 @@
+{
+ "path": "/prodotti",
+ "url": "/it/prodotti",
+ "title": "Prodotti",
+ "description": "Prodotti - Panoramica dei prodotti",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/it/home-page"
+  },
+  {
+   "label": "Prodotti",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/it/home-page"
+  },
+  {
+   "label": "Prodotti",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/02_Products/_Overview/zoller_solutions_header_02.mp4",
+     "title": "Scegli la strada verso il successo",
+     "kicker": "",
+     "text": "<p>Maggiore efficienza con le soluzioni ZOLLER</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4402",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Panoramica dei prodotti </h2>",
+   "body": "<p class=\"extra-large-text\"><strong>Le soluzioni ZOLLER sono sinonimo di futuro: aiutiamo i nostri clienti ad avere più successo. Chi produce in modo più rapido e efficace lavora in modo più economico e può investire nel futuro. Se l'obiettivo è il progresso, ZOLLER è il partner ideale.</strong></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4399",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "productlist",
+   "filters": {
+    "solutions": [
+     {
+      "value": "259",
+      "label": "Regolazione e misurazione",
+      "selected": false
+     },
+     {
+      "value": "251",
+      "label": "Tool management",
+      "selected": false
+     },
+     {
+      "value": "254",
+      "label": "Controllo e misurazione",
+      "selected": false
+     },
+     {
+      "value": "253",
+      "label": "Automazione",
+      "selected": false
+     },
+     {
+      "value": "250",
+      "label": "Tecnologia per il calettamento a caldo",
+      "selected": false
+     },
+     {
+      "value": "252",
+      "label": "Soluzioni d’utensileria",
+      "selected": false
+     },
+     {
+      "value": "249",
+      "label": "Tecnologia per la bilanciatura utensili",
+      "selected": false
+     }
+    ],
+    "tool": [
+     {
+      "value": "150",
+      "label": "Utensili di foratura",
+      "selected": false
+     },
+     {
+      "value": "151",
+      "label": "Fresa a cappuccio",
+      "selected": false
+     },
+     {
+      "value": "152",
+      "label": "Utensili rotanti",
+      "selected": false
+     },
+     {
+      "value": "153",
+      "label": "Utensili per ruotare/spianatura",
+      "selected": false
+     },
+     {
+      "value": "187",
+      "label": "Utensili di fresatura",
+      "selected": false
+     },
+     {
+      "value": "194",
+      "label": "Utensili di precisione",
+      "selected": false
+     },
+     {
+      "value": "201",
+      "label": "Utensili per filettatura",
+      "selected": false
+     },
+     {
+      "value": "208",
+      "label": "Utensili ad alte prestazioni",
+      "selected": false
+     },
+     {
+      "value": "215",
+      "label": "Fresa per alberi a gomiti",
+      "selected": false
+     },
+     {
+      "value": "222",
+      "label": "Utensili di precisione",
+      "selected": false
+     },
+     {
+      "value": "229",
+      "label": "Fresa a denti riportati planari",
+      "selected": false
+     },
+     {
+      "value": "236",
+      "label": "Teste coltelli piane, angolari e di finitura",
+      "selected": false
+     },
+     {
+      "value": "243",
+      "label": "Alesatore",
+      "selected": false
+     },
+     {
+      "value": "250",
+      "label": "mola abrasiva",
+      "selected": false
+     },
+     {
+      "value": "257",
+      "label": "Lame circolari",
+      "selected": false
+     },
+     {
+      "value": "264",
+      "label": "Utensili per la lavorazione della pietra",
+      "selected": false
+     },
+     {
+      "value": "271",
+      "label": "Utensili con gambo",
+      "selected": false
+     },
+     {
+      "value": "278",
+      "label": "Utensili da taglio per ingranaggi",
+      "selected": false
+     }
+    ]
+   },
+   "rows": [
+    {
+     "title": "",
+     "items": [
+      {
+       "href": "/it/prodotti/regolazione-e-misurazione",
+       "title": "Regolazione e misurazione",
+       "text": "Riducete i tempi di preparazione del 40% e oltre.",
+       "img": {
+        "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/it/prodotti/tool-management",
+       "title": "Tool management",
+       "text": "Collegare i processi, garantire la qualità e velocizzare la produzione.",
+       "img": {
+        "src": "/fileadmin/_processed_/3/3/csm_toolmanagement_preview_7889eaddc9.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/it/prodotti/controllo-e-misurazione",
+       "title": "Controllo e misurazione",
+       "text": "Documentate la qualità e create gemelli digitali.",
+       "img": {
+        "src": "/fileadmin/_processed_/0/d/csm_genius_1_5b500df8d2.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/it/prodotti/automazione",
+       "title": "Automazione",
+       "text": "Automazione flessibile e modulare per utensili di truciolatura.",
+       "img": {
+        "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/it/prodotti/tecnologia-per-il-calettamento-a-caldo",
+       "title": "Tecnologia per il calettamento a caldo",
+       "text": "Contrazione e scalettatura degli utensili in tempi record.",
+       "img": {
+        "src": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_506ab0ccb9.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/it/prodotti/soluzioni-dutensileria",
+       "title": "Soluzioni d’utensileria",
+       "text": "Portautensili con »idChip« come interfaccia perfetta per la vostra produzione digitale.",
+       "img": {
+        "src": "/fileadmin/_processed_/4/8/csm_ToolingSolutions_preview_7b8d14560e.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/it/prodotti/tecnologia-per-la-bilanciatura-utensili",
+       "title": "Tecnologia per la bilanciatura utensili",
+       "text": "Proteggi i mandrini, garantisci la qualità: con i migliori equilibratori sul mercato.",
+       "img": {
+        "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "src_path": "/it/prodotti",
+ "de_path": "/produkte"
+}

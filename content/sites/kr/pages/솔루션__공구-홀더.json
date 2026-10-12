@@ -1,0 +1,572 @@
+{
+ "path": "/솔루션/공구-홀더",
+ "url": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94",
+ "title": "공구 홀더",
+ "description": "공구 홀더",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "솔루션 /",
+   "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98"
+  },
+  {
+   "label": "공구 홀더",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "솔루션 /",
+   "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98"
+  },
+  {
+   "label": "공구 홀더",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/werkzeugaufnahmen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/tooling-solutions",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/portaherramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/fixation-doutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/porta-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/soluzioni-dutensileria",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/verktygshaallare",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/werkzeugaufnahmen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/tooling-solutions",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/porte-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B7%A5%E5%85%B7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/tooling-solutions",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/porta-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/porta-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "공구 홀더",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "자주 묻는 질문",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8",
+     "current": false
+    },
+    {
+     "label": "정보 모음",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94/%EC%A0%95%EB%B3%B4-%EB%AA%A8%EC%9D%8C",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1418",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "product_header",
+   "title": "공구 솔루션",
+   "text": "<p>디지털 제조를 위한<br/>완벽한 인터페이스, 공구 홀더</p> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">지금 구매하기</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/d/c/csm_header_tooling_79126defc9.webp",
+    "alt": "",
+    "w": 1428,
+    "h": 896
+   },
+   "ftype": "zoller_product_header",
+   "id": "c1416",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 우리는 스마트한 솔루션을 추구합니다 </h2>",
+   "body": "<p>ZOLLER »idChip이« 탑재된 공구 홀더. 고객님의 요청에 따라 모든 공구 홀더에 칩과 데이터매트릭스 코드를 내장하여 공급해 드립니다. 이를 통해 언제든지 공구 홀더를 명확하게 식별할 수 있으며, 가열 횟수, 기계 사용 횟수 등 모든 정보를 손쉽게 파악할 수 있습니다. 경질 선반 가공된 클램핑 숄더 및 드라이브 홈과 같은 공구 홀더의 주요 기능 면을 정밀하게 가공함으로써 긴 수명과 가공 공정에서의 최고 정밀도를 보장합니다. 지속 가능하고 경제적: 이것이 바로 미래입니다.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/7/csm_zoller_smarte_solutions_171a2dc46c.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1417",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "연동된 공정",
+    "정밀도 보장",
+    "원스톱 서비스"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c1419",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> 최고의 정밀도를 위한 신뢰성 </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/7/6/csm_ts_pin_modul_03_be3bbbf942.webp",
+    "alt": "",
+    "w": 1540,
+    "h": 630
+   },
+   "spots": [
+    {
+     "x": 23.533,
+     "y": 10.226,
+     "label": "칩 구멍",
+     "text": "<h3>칩 구멍</h3> <h4>칩 장착 구멍</h4> <p>RFID 칩이나 ZOLLER »idChip과« 같은 데이터 저장 장치를 ZOLLER Tooling 공구 홀더에 장착하기 위한 것입니다. 중공 샤프트 테이퍼 HSK-A, 급경사 테이퍼 SK 및 다각형 샤프트 테이퍼 PSC에 기본으로 제공됩니다.</p> <h4>ZOLLER »idChip«</h4> <p>공구 홀더를 명확하게 식별하고 제품 수명을 극대화하기 위한 솔루션입니다. 고객 요청 시, 칩이 고정 장착된 상태로 밸런싱 처리된 공구 홀더를 생산 현장으로 직접 공급해 드립니다.</p> <h4>3-홈 기술</h4> <p>공구 홀더의 칩 구멍 내부에 접착제를 사용하여 형상 결합을 보장함으로써 안전하고 견고한 연결을 제공합니다.</p>"
+    },
+    {
+     "x": 48.478,
+     "y": 43.161,
+     "label": "나사산 4개",
+     "text": "<h3>나사산 4개</h3> <h4>4개의 나사산</h4> <p>표준 수축 척의 사후 정밀 밸런싱용.</p>"
+    },
+    {
+     "x": 71.685,
+     "y": 51.793,
+     "label": "긴 수축 핏",
+     "text": "<h3>긴 수축 핏</h3> <h4>삽입 반경이 있는 긴 수축 피팅</h4> <p>샤프트 전체 길이에 걸쳐 공구가 가하는 장력 덕분에 최대 수축력을 보장합니다.</p>"
+    },
+    {
+     "x": 13.641,
+     "y": 52.722,
+     "label": "인입 숄더",
+     "text": "<h3>인입 숄더</h3> <h4>경화 후 가공된 인입 숄더</h4> <p>클램핑 숄더에서 클램핑 세그먼트의 최적의 미끄러짐과 스핀들 내의 탁월한 장력을 보장합니다. 그 결과 클램핑 숄더의 진동도는 최대 10 μm(DIN 기준보다 5배 더 정밀함)를 기록합니다.</p>"
+    },
+    {
+     "x": 82.12,
+     "y": 56.972,
+     "label": "동심도 공차",
+     "text": "<h3>동심도 공차</h3> <h4>원형도 공차</h4> <p>Tooling Solutions는 &lt; 3 µm의 원형도를 보장합니다.</p>"
+    },
+    {
+     "x": 24.674,
+     "y": 82.47,
+     "label": "정밀 밸런싱",
+     "text": "<h3>정밀 밸런싱</h3> <h4>정밀 밸런싱</h4> <p><strong>모든 ZOLLER Tooling 공구 홀더는 정밀 밸런싱 처리되어 있습니다</strong> – 25,000 rpm에서 G2.5 또는 최대 잔류 불균형 ≤ 1 gmm. 그 결과 가공 시 스핀들이 부드럽게 회전하여 베어링의 마모를 줄여줍니다. 이를 통해 스핀들의 수명 연장, 최적의 공작물 표면 마감, 그리고 공구 수명 연장의 이점을 누리실 수 있습니다.</p>"
+    },
+    {
+     "x": 8.533,
+     "y": 36.919,
+     "label": "동력 전달 홈",
+     "text": "<h3>동력 전달 홈</h3> <h4>경화 후 가공된 구동 홈</h4> <p>홈의 100% 중심 정렬, 스핀들 내 완벽한 장착 및 탁월한 토크 전달을 보장합니다.</p>"
+    },
+    {
+     "x": 23.478,
+     "y": 36.521,
+     "label": "배출 면적",
+     "text": "<h3>배출 면적</h3> <h4>경화 후 가공된 이젝터 면</h4> <p>공구 교체 시 HSK 공구 홀더가 안전하게 분리되도록 보장합니다.</p>"
+    },
+    {
+     "x": 75.707,
+     "y": 75.697,
+     "label": "»쿨툴«",
+     "text": "<h3>»쿨툴«</h3> <h4>»coolTool«</h4> <p>완벽하게 냉각된 공구 절삭면, 최적의 칩 유도 및 공구 절삭면에서의 칩 축적 방지를 위해 설계되었습니다. 냉각수 구멍의 경사형 배치는 냉각수가 필요한 곳, 즉 공구 절삭면에 정확히 도달하도록 보장합니다. 이를 통해 최적의 가공 결과를 얻을 수 있으며 공구의 수명을 연장할 수 있습니다.</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c1420",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> ZOLLER 특유의 강점 – 원스톱 솔루션 </h2>",
+   "body": "<p>졸러(ZOLLER)는 신제품 개발에서 항상 한 발 앞서 나가며 미래를 위한 솔루션을 창출합니다. 이러한 원칙은 수십 년간 당사의 측정기뿐만 아니라 모든 분야에서 꾸준히 실천해 온 것입니다. 졸러 툴링 솔루션(ZOLLER Tooling Solutions)과 함께 미래의 디지털 요구 사항에 대비하고, 미래의 스마트 팩토리를 준비하십시오.</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/IRXINmkUTkk?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Tooling Solutions – Tooling Heroes"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1421",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 효율적인 생산을 위한 ZOLLER 솔루션 </h2>",
+   "body": "<p>효율적인 생산 공정을 위해 졸러(ZOLLER) 툴링 솔루션을 활용해 보십시오. 고성능·고정밀 공구 홀더 시스템으로 구성된 폭넓은 제품군을 통해 다양한 가공 요구에 대응합니다. 또한 졸러(ZOLLER) 툴링 솔루션은 디지털 제조 환경을 연결하는 핵심 인터페이스로 기능합니다.</p>",
+   "images": [],
+   "videos": [
+    {
+     "kind": "iframe",
+     "src": "https://www.youtube-nocookie.com/embed/xmsnaIc1TvI?autohide=1&controls=1&enablejsapi=1&origin=https%3A%2F%2Fwww.zoller.info",
+     "title": "ZOLLER Tooling Solutions – The Perfect Interface for Your Digital Manufacturing"
+    }
+   ],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1422",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "66-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> 2,000장 이상의 사진 </h2>",
+      "body": "<p>ZOLLER Tooling Solutions는 고객의 가공 공정에 필요한 모든 요구 사항을 충족하는 포괄적인 공구 홀더 제품군을 제공합니다. 당사의 모든 홀더는 DIN 규격보다 항상 우수한 성능을 자랑합니다.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2063",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "none"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-2cols",
+   "id": "c2064",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/a/7/csm_ts_schrumpffutter_06c2dea98b.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Shrink fit chuck",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:shrink-fit-holder",
+     "caption": "<figcaption> <h3>Shrink fit chuck</h3> <p>For clamping tools with cylindrical shank made of carbide or HSS.</p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/7/csm_ts_spannzangenfutter_eb7fca68dc.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Collet chuck",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:collet-chuck",
+     "caption": "<figcaption> <h3>Collet chuck</h3> <p>For clamping tools with cylindrical shank in ER collets.</p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_ts_weldonaufnahmen_9c7a361d17.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Weldon mounts",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:endmill-holder-weldon",
+     "caption": "<figcaption> <h3>Weldon mounts</h3> <p>Ideally suited for the use of tools without internal coolant supply.</p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_ts_whistle-notch-aufnahmen_b74918fa98.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Whistle-Notch recordings",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:endmill-holder-whistle-notch",
+     "caption": "<figcaption> <h3> Whistle-Notch recordings</h3> <p>For clamping tools with cylindrical shank.</p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_ts_fuer_einschraubfraeser_e7d8ee83f6.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "For screw-in milling",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:thread-shank-adapter",
+     "caption": "<figcaption> <h3>For screw-in milling</h3> <p>For clamping tools with cylindrical shank.</p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/2/csm_ts_messerkopfaufnahmen_b76fed0d9d.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Cutter head holders",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:shell-mill-holder",
+     "caption": "<figcaption> <h3>Cutter head holders</h3> <p>For holding milling cutters with cross groove, with coolant supply to the cutting edges.</p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/a/csm_ts_kombidorne_48f13a98c4.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Combination mandrels",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:combi-shell-mill-holder",
+     "caption": "<figcaption> <h3>Combination mandrels</h3> <p>For holding milling cutters with longitudinal and transverse grooves.</p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/f/csm_ts_morsekegelaufnahme_6909dcbe8a.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Morse code recordings",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:morse-taper-adapter",
+     "caption": "<figcaption> <h3>Morse code recordings</h3> <p>For holding Morse taper tools with drive-out tabs to DIN 2288.</p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/2/csm_ts_kurzbohrfutter_3c9582d0e0.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Short drill chuck",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:drill-chuck",
+     "caption": "<figcaption> <h3>Short drill chuck</h3> <p>For clamping tools with cylindrical shank.</p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/5/1/csm_ts_hawk_eye_07abe1a0d5.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "HAWK EYE",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:hawk-eye",
+     "caption": "<figcaption> <h3>HAWK EYE</h3> <p>HAWK EYE® HPC precision ER collet chuck</p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/2/csm_ts_er_collet_a62fe34c96.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "ER Collets",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:er-collet",
+     "caption": "<figcaption> <h3>ER Collets</h3> <p>ER &amp; ER «Mini» Collet chuck</p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/a/b/csm_Schrumpfverlaenerungen_category_0b63e58178.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Shrink extensions",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:shrink-fit-extension",
+     "caption": "<figcaption> <h3>Shrink extensions</h3> <p>For holding tools with cylindrical shank.</p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/c/csm_ts_accessories_651f0aa893.webp",
+     "alt": "",
+     "w": 633,
+     "h": 356,
+     "title": "Accessories",
+     "href": "https://myzoller.com/int/en/shop/tooling#category:accessories",
+     "caption": "<figcaption> <h3>Accessories</h3> <p>Sealing washers, clamping nuts</p> <br/> 자세히 알아보기 </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c1912",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 지금 ZOLLER 온라인 스토어에서 공구 클램핑 시스템을 만나보세요! </h2>",
+   "body": "<p>저희 온라인 스토어에서 이제 모든 종류의 공구 클램핑 시스템을 만나보실 수 있습니다. 간편하고 빠르며 편리하게 고객님께 딱 맞는 공구 홀더를 찾아보시고, 제공되는 디지털 트윈을 CAM 및 공구 관리 시스템에서 바로 활용해 보세요.</p> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">툴링 샵으로 이동</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/d/csm_zum_myzoller_shop_704443f1bc.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1423",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/kr/솔루션/공구-홀더",
+ "de_path": "/solutions/werkzeugaufnahmen"
+}

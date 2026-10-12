@@ -1,0 +1,450 @@
+{
+ "path": "/loesningar/instaellning-och-maetning",
+ "url": "/se/loesningar/instaellning-och-maetning",
+ "title": "Inställning och mätning",
+ "description": "Inställning och mätning",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Lösningar /",
+   "href": "/se/loesningar"
+  },
+  {
+   "label": "Inställning och mätning",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Lösningar /",
+   "href": "/se/loesningar"
+  },
+  {
+   "label": "Inställning och mätning",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/einstellen-messen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/presetting-measuring",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/ajuste-y-medicion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/reglage-et-mesure",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/ajuste-e-medicao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/regolazione-e-misurazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/instaellning-och-maetning",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/einstellen-messen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/presetting-measuring",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/reglage-et-mesure",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/presetting-measuring",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/ajuste-y-medicion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/ajuste-e-medicao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/0/c/csm_header_presetting_8b840715e8.webp",
+     "video": null,
+     "title": "Ställ in &",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c622",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>Den som förinställer verktyg medan CNC-maskinen bearbetar utnyttjar maskinerna mer effektivt.</h3>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c614",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>Inställning och mätning utanför CNC-maskinen förändrar i grunden sättet du tillverkar på. Du kommer att kunna förkorta omställningstiderna avsevärt, minska kassationen, öka verktygens livslängd och sänka tillverkningskostnaderna. Många goda skäl att välja inställnings- och mätutrustning från ZOLLER. </strong></p> <p>För bearbetning är exakta verktygsmätdata oumbärliga för att uppnå säkra processer och förstklassiga resultat. Inställnings- och mätinstrumenten från ZOLLER levererar dessa data med µm-noggrannhet. ZOLLER går ännu ett steg längre. Enheterna är så enkla att använda att varje mätning alltid ger exakta mätvärden, oavsett vem som utför mätningen. </p> <p>Inställning och mätning med ZOLLER innebär att du flyttar ansvaret för resultatet – från människan till mätinstrumenten. Med tanke på bristen på kvalificerad arbetskraft och det höga kostnadstrycket inom tillverkningen är det det bästa beslutet att låta ett ZOLLER-instrument mäta verktygen. </p> <p><a class=\"btn\" href=\"/se/produkter/instaellning-och-maetning\">Visa produkter</a> <a href=\"/se/loensamhetskalkylator\">Beräkna besparingspotential</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c616",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c615",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Förberedelsetiden minskar med över 40 % </h2>",
+   "body": "<p>Om du mäter endast fem verktyg på en inställnings- och mätmaskin från ZOLLER innan verktygen monteras på maskinen, minskar du inställningstiden med mer än 40 %.</p> <p>Inställning parallellt med produktionen med ZOLLER öppnar vägen för stora besparingsmöjligheter. Beroende på hur många verktygsbyten som krävs kan kostnadsbesparingarna per skift och CNC-maskin uppgå till 15 000 euro per år. Beroende på inställnings- och mätinstrumentet och konfigurationen kan din investering betala sig på bara några månader. </p> <p><a class=\"btn\" href=\"/se/loesningar/instaellning-och-maetning\">Beräkna besparingspotentialen nu</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c621",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Mer data, bättre kvalitet på arbetsstyckena </h2>",
+   "body": "<p class=\"large-text\">Mättekniken i en CNC-maskin registrerar vanligtvis endast verktygets längd. Det räcker inte för att utnyttja maskinens höga precisionspotential fullt ut.</p> <p class=\"large-text\">Med ZOLLER får du detaljerade geometridata som gör att CNC-maskinerna kan producera ännu mer exakt. Högsta kvalitet från din tillverkning. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/d/csm_presetting_01_59fab0dfc1.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c620",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Högre produktivitet </h2>",
+   "body": "<p class=\"large-text\">Maskinstillestånd är dyrt och onödigt. När verktygen levereras färdiginställda till maskinen kan du sätta igång med nästa uppdrag tidigare. Maximera din produktivitet redan idag med en inställnings- och mätutrustning från ZOLLER.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/5/csm_presetting_02_f4a2e05503.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c619",
+   "bg": "white",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Utnyttja livslängden maximalt </h2>",
+   "body": "<p class=\"large-text\">Med en inställnings- och mätutrustning från ZOLLER vet du redan före en tillverkningskörning om ett verktyg fortfarande är intakt eller inte. Genom inställning och mätning kontrollerar du regelbundet skärkvaliteten. Du undviker onödiga verktygsbyten och utnyttjar verktygets livslängd fullt ut. Inställning och mätning med ZOLLER ökar lönsamheten i din produktion. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/a/csm_presetting_03_f94d19dc0f.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c618",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "count",
+   "title": "Skalbar besparingspotential per CNC-maskin och år*:",
+   "value": "15 000 euro",
+   "note": "* Beräknat på 20 verktygsbyten à 3 minuters bytetid,",
+   "ftype": "zoller_count-banner",
+   "id": "c617",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Inställnings- och mätinstrument </h2>",
+   "items": [
+    {
+     "href": "/se/produkter/instaellning-och-maetning/vertikala-maskiner/smile",
+     "title": "»smile«",
+     "text": "<p>De robusta, mikrometerprecisa instegsmodellerna för standardverktyg</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/se/produkter/instaellning-och-maetning/vertikala-maskiner/venturion",
+     "title": "»venturion«",
+     "text": "<p>Utmärkt verktygsinställning och -mätning med många alternativ</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/d/csm_venturion_preview_cdaca59ebb.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/se/produkter/instaellning-och-maetning/horisontella-maskiner/hyperion",
+     "title": "»Hyperion«",
+     "text": "<p>Den horisontella inställnings- och mätapparaten för svarvning</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/8/csm_hyperion_preview_37118ddf5b.webp",
+      "alt": "zoller hyperion",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c1621",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "large"
+   }
+  },
+  {
+   "type": "cta_strip",
+   "icon": {
+    "src": "/fileadmin/_processed_/0/0/csm_calculator_8806cc3f97.webp",
+    "alt": "",
+    "w": 50,
+    "h": 65
+   },
+   "text": "<p class=\"bold\">Ökad produktivitet med ZOLLER:s inställnings- och mätinstrument</p> <p>ZOLLERs lönsamhetskalkylator beräknar besparingspotentialen för din verksamhet.</p>",
+   "button": "<a class=\"btn\" href=\"/se/loensamhetskalkylator\">Beräkna besparingspotentialen nu</a>",
+   "ftype": "zoller_icon-button",
+   "id": "c4275",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_zoller_system_teaser_a6e5d69871.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Börja med en lösning – gå in i ett system.",
+     "href": "/se/systemet",
+     "caption": "<figcaption> <h3>Börja med en lösning – gå in i ett system.</h3> <p>Våra kunder drar nytta av helhetsorienterade lösningar som vi har arbetat med i årtionden. Resultatet: enastående effektivitet. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1-samtal med en expert",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1-samtal med en expert</h3> <p>Ett personligt samtal om era mål och våra idéer för att uppnå dem. ZOLLER:s online-rådgivning direkt från Smart Factory. Boka en tid redan nu. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/se/loesningar/instaellning-och-maetning",
+ "de_path": "/solutions/einstellen-messen"
+}

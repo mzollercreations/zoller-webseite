@@ -1,0 +1,1020 @@
+{
+ "path": "/spolocnost/profil/partner",
+ "url": "/sk/spolocnost/profil/partner",
+ "title": "Partner",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/sk/domovska-stranka"
+  },
+  {
+   "label": "Spoločnosť /",
+   "href": "/sk/spolocnost"
+  },
+  {
+   "label": "Profil /",
+   "href": "/sk/spolocnost/profil"
+  },
+  {
+   "label": "Partner",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/sk/domovska-stranka"
+  },
+  {
+   "label": "Spoločnosť /",
+   "href": "/sk/spolocnost"
+  },
+  {
+   "label": "Profil /",
+   "href": "/sk/spolocnost/profil"
+  },
+  {
+   "label": "Partner",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/profil/partner",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/profile/partner",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/perfil/socios",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/profil/partenaires",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/perfil/parceiros",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/profilo/partner",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/profil/partner",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/profil/partner",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/profile/partners",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/profil/partenaires",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84/%ED%8C%8C%ED%8A%B8%EB%84%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/profile/partner",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/perfil/socios",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/perfil/parceiros",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Inteligentná spolupráca </h1>",
+      "body": "<p>Spoločnosť ZOLLER spolupracuje s partnermi, aby čo najlepšie uspokojila požiadavky zákazníkov.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2853",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "ANCA",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Spoločnosť ANCA je lídrom na trhu v oblasti kvalitných CNC brúsok a CNC systémov. Spoločnosť sa neustále rozvíja, čo vyplýva z jej podnikovej stratégie založenej na inováciách a technológiách, ako aj z odhodlania vyrábať stroje, ktoré uspokojujú našich zákazníkov a prekračujú ich očakávania.</p> <p>Spoločnosť ZOLLER ponúka rozhranie pre brúsky na nástroje ANCA.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/1/6/csm_logo_anca_0308eafd4f.webp",
+            "alt": "",
+            "w": 388,
+            "h": 92,
+            "href": "https://www.anca.com"
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2883",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "A+B Solutions s.r.o.",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>S viac ako 35-ročnými skúsenosťami ponúka spoločnosť A+B Solutions komplexné know-how v oblasti projektovania a integrácie riešení na zaznamenávanie a riadenie výroby. Ako partner popredných dodávateľov, ako je Siemens PLM Software, ponúka A+B Solutions svojim zákazníkom komplexné riešenia: od poradenstva cez plánovanie a projektovanie až po systémovú integráciu a servis.</p> <p>Riešenia spoločnosti A+B Solutions ponúkajú rozhrania pre rôznorodé aplikácie a ako centrálny bod pre všetky vývojové, objednávkové a výrobné údaje vytvárajú ucelenú a jednotnú dátovú štruktúru. Spoločnosť A+B Solutions je vývojovým partnerom spoločnosti ZOLLER pre prepojenie našich systémov so systémami Siemens NX a Teamcenter.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/0/0/csm_logo_a_b_8d5dbcb371.webp",
+            "alt": "",
+            "w": 193,
+            "h": 125,
+            "href": "http://www.aplusb-solutions.com/"
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2884",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Balluff",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>S viac ako 50-ročnými skúsenosťami v oblasti senzorov je spoločnosť Balluff GmbH dnes jedným z najvýkonnejších a celosvetovo vedúcich výrobcov senzorovej techniky pre priemyselnú automatizáciu. Náročná technika a najmodernejšia elektronika – dôkladne testovaná vo vlastnom certifikovanom laboratóriu – riešenia šité na mieru pre konkrétne aplikácie, ako aj individuálne poradenstvo a prvotriedny servis sú výnimočnými charakteristikami spoločnosti so sídlom v Neuhausen a.d.F. priamo pri Štutgarte. Na tom sa podieľa 2 050 zamestnancov v tuzemsku aj v zahraničí.</p> <p>Spoločnosti Balluff a ZOLLER spolupracujú v oblasti prenosu údajov o nástrojoch prostredníctvom kódovania a identifikácie nástrojov.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/c/d/csm_logo_balluff_2ac5adb7b9.webp",
+            "alt": "",
+            "w": 388,
+            "h": 54,
+            "href": "http://www.balluff.com"
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2913",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Camaix s.r.o.",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Spoločnosť Camaix sa zaoberá poskytovaním služieb v oblasti výroby foriem, strojárstva a automobilového priemyslu a najmä v posledných rokoch sa venuje leteckej a kozmickej technike a komplexnému 5-osovému a 6-osovému obrábaniu, pre ktoré vyvíja špeciálne riešenia.</p> <p>Jednoduché a intuitívne ovládateľné rozhranie Mastercam pre správu nástrojov ZOLLER umožňuje programovať v Mastercam s aktuálnymi geometriami zostavených nástrojov a používať údaje na simuláciu a kontrolu kolízií.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/f/2/csm_logo_camaix_b573ef8fd2.webp",
+            "alt": "",
+            "w": 271,
+            "h": 109
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2912",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Camtek s.r.o.",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Spoločnosť Camtek GmbH so sídlom vo Weinstadte pri Štutgarte bola založená v roku 1993 ako výhradný distribútor CAD/CAM systému PEPS. V úzkej spolupráci s renomovanými výrobcami strojov a riadiacich systémov sa vyvíjajú vysoko kvalitné postprocesory a oba systémy sa neustále zdokonaľujú.</p> <p>Spoločnosť ZOLLER vám ponúka pohodlné a jednoducho ovládateľné rozhranie pre systém CAD/CAM PEPS.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/2/e/csm_logo_camtek_6110635aba.webp",
+            "alt": "",
+            "w": 283,
+            "h": 59
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2914",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Delcam",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Spoločnosť Delcam patrí medzi popredných svetových vývojárov a dodávateľov moderného CAD/CAM softvéru a softvéru pre 3D meranie nezávislého na zariadeniach pre výrobný priemysel. V súčasnosti je Delcam najväčším vývojárom CAD/CAM softvéru vo Veľkej Británii a má pobočky v Severnej Amerike, Európe a Ázii. Produkty spoločnosti Delcam využíva viac ako 50 000 podnikov vo viac ako 80 krajinách. Medzi produkty spoločnosti Delcam patrí okrem iného aj celosvetovo vedúci CAM softvér PowerMILL. <br/><br/>Prostredníctvom rozhrania PowerMILL pre riešenia ZOLLER TMS Tool Management Solutions máte pohodlný prístup k rozsiahlej databáze spoločnosti ZOLLER.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/0/7/csm_logo_delcam_4072b1d63b.webp",
+            "alt": "delcam logo",
+            "w": 388,
+            "h": 123
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2915",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "DP Technology",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Spoločnosť DP Technology je jedným z popredných výrobcov a dodávateľov softvéru pre počítačom podporovanú výrobu (CAM) pre širokú škálu odvetví výrobného priemyslu. ESPRIT, hlavný produkt spoločnosti DP Technology, je mimoriadne výkonný a kvalitný systém na programovanie NC pre frézovanie, vŕtanie, sústruženie, elektroerozívne rezanie drôtom, ako aj pre multifunkčné stroje, ako sú napríklad frézovacie a sústružné centrá.</p> <p>Jednoduché a intuitívne ovládateľné rozhranie CAM ESPRIT pre riešenia správy nástrojov ZOLLER TMS umožňuje jednoduchú výmenu údajov o nástrojoch.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/0/7/csm_logo_esprit_0628a45021.webp",
+            "alt": "",
+            "w": 324,
+            "h": 114
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2916",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Virtuálny Gibbs",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Virtual Gibbs je výkonný a flexibilný CAM softvér, ktorý výrazne zjednodušuje programovanie CNC. Užívateľsky prívetivé rozhranie zvyšuje produktivitu, vďaka čomu je ideálny pre programátorov CNC, strojárskych mechanikov a inžinierov. Vďaka podpore 2D až 5-osového frézovania, sústruženia, MTM a elektroerozívneho obrábania umožňuje Virtual Gibbs rýchle a spoľahlivé programovanie. Virtual Gibbs je popredným CAM riešením pre programovanie komplexných viackanálových obrábacích centier. Vďaka rozhraniu ZOLLER v programe Virtual Gibbs sa vaše nástroje vytvárajú centrálne a len raz, čo zaručuje efektívnosť a konzistentnosť.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/b/4/csm_logo_virtual_gibbs_bed09f00c2.webp",
+            "alt": "",
+            "w": 421,
+            "h": 94
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2917",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Hermle",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Obrábacie centrá Hermle slúžia na efektívne obrábanie nástrojov, foriem a sériových dielov. Vďaka svojej kvalite a vysokej presnosti sa používajú v nespočetných výrobných odvetviach, najmä v náročných odvetviach, ako je medicínska technika, optický priemysel, letecký a automobilový priemysel, výroba nástrojov a foriem a u ich dodávateľov. Nastavovacie a<br/><br/>meracie zariadenia ZOLLER disponujú voliteľne rozhraním pre obrábacie centrá Hermle.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/0/e/csm_logo_Hermle_4efcfb7fff.webp",
+            "alt": "",
+            "w": 253,
+            "h": 115
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2918",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Ingersoll",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Spoločnosť Ingersoll vyvíja a vyrába štandardné a špeciálne nástroje s vymeniteľnými doštičkami pre obrábanie. Nástroje sa používajú po celom svete, okrem iného v automobilovom priemysle a strojárstve. Okrem štandardného programu vyvíja a projektuje spoločnosť Ingersoll náročné riešenia podľa požiadaviek svojich zákazníkov.<br/><br/>Spoločnosť ZOLLER v spolupráci so spoločnosťou Ingersoll vyvinula okrem iného nový koncept na kontrolu a meranie fréz na valcovanie a fréz na tvarovanie zubov s vymeniteľnými doštičkami priamo v dielni.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/5/d/csm_logo_ingersoll_52703a0545.webp",
+            "alt": "",
+            "w": 355,
+            "h": 86
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2919",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "SKUPINA KOMET CERATIZIT",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Vďaka inovatívnym koncepciám nástrojov a komplexným riešeniam pre obrábanie otvorov je skupina <i>KOMET</i> CERATIZIT celosvetovým technologickým lídrom. Zákazníci spoločnosti KOMET si obzvlášť cenia progresívne služby, jedinečnú technickú podporu, prakticky orientované odborné semináre a prémiové nástroje na vŕtanie, vyvŕtavanie a rezanie závitov.</p> <p>Spoločnosť ZOLLER ponúka riešenia na nastavovanie a meranie nástrojov skupiny <i>KOMET</i> CERATIZIT GROUP.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/f/f/csm_logo_KOMET_CERATIZIT_a820d40e25.webp",
+            "alt": "",
+            "w": 317,
+            "h": 81
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2920",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "KROMI",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Spoločnosť KROMI Logistik AG ponúka výrobným podnikom v tuzemsku aj v zahraničí komplexné outsourcingové riešenia v oblasti dodávok presných nástrojov. Zameriava sa pritom na technicky náročné nástroje na obrábanie kovov a plastov.<br/><br/>Balík TMS Tool Management Solutions SILVER obsahuje rozhranie prepojené so spoločnosťou KROMI.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/6/0/csm_logo_kromi_86af58d78f.webp",
+            "alt": "",
+            "w": 354,
+            "h": 141
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2921",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "MAKINO",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Spoločnosť MAKINO je uznávaná ako jeden z popredných dodávateľov technológií a služieb v odvetví obrábacích strojov. Sortiment produktov zahŕňa obrábacie centrá určené na výrobu dielcov, ako aj na výrobu nástrojov a foriem, s širokým spektrom uplatnenia v leteckom a kozmickom priemysle, automobilovom priemysle, v oblasti poľnohospodárskych a stavebných strojov, všeobecného strojárstva a mikrotechnológie.</p> <p>Nastavovacie a meracie zariadenia ZOLLER disponujú voliteľným rozhraním pre obrábacie centrá MAKINO.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/1/4/csm_logo_makino_691cf9493b.webp",
+            "alt": "",
+            "w": 368,
+            "h": 127
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2922",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "moldtech s.r.o.",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Na základe produktovej rady CAD/CAM TopSolid ponúka spoločnosť MOLDTECH riešenia pre obrábací priemysel. Prostredníctvom služieb súvisiacich s produktovou radou TopSolid pomáha Moldtech používateľom rýchlejšie a efektívnejšie riešiť náročné úlohy v oblasti konštrukcie a výroby.</p> <p>Jednoduché a intuitívne ovládateľné rozhranie TopSolid‘Cam pre správu nástrojov ZOLLER vám umožňuje programovať v TopSolid‘Cam s aktuálnymi geometriami zostavených nástrojov a používať údaje na simuláciu a kontrolu kolízií.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/b/c/csm_logo_moldtech_5c18924e61.webp",
+            "alt": "",
+            "w": 443,
+            "h": 92
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2923",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "MTS AG",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Spoločnosť MTS AG vyvíja a celosvetovo distribuuje softvér pre CNC brúsky. Produkt „tool-kit PROFESSIONAL“ je celosvetovo známy ako softvér pre profesionálov určený na výrobu a opätovné ostrenie jednoduchých až zložitých obrobkov. Nastavovacie a<br/><br/>meracie zariadenia ZOLLER ponúkajú rozhranie pre brúsky na nástroje vybavené softvérovým riešením od spoločnosti MTS.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/5/7/csm_logo_mts_baec1b20bf.webp",
+            "alt": "",
+            "w": 149,
+            "h": 81
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2924",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "NUM",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Spoločnosť NUM vyrába CNC riadiace jednotky a príslušné softvérové riešenia. V oblasti brúsenia nástrojov je NUM s softvérom NUMROTOplus lídrom na trhu. Nastavovacie a<br/><br/>meracie zariadenia ZOLLER ponúkajú rozhranie pre brúsky na nástroje vybavené softvérovým riešením NUMROTOplus.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/b/b/csm_logo_num_000273b7d7.webp",
+            "alt": "",
+            "w": 302,
+            "h": 89
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2925",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Okuma",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Spoločnosť Okuma je popredným dodávateľom inovatívnych obrábacích strojov s širokou a pôsobivou ponukou produktov. Tá zahŕňa vysoko presné a robustné NC sústruhy, multifunkčné stroje a obrábacie centrá vybavené vynikajúcim riadením OSP.</p> <p>Nastavovacie a meracie zariadenia ZOLLER ponúkajú voliteľne rozhranie pre obrábacie stroje Okuma.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/2/d/csm_logo_okuma_b30dbed8b5.webp",
+            "alt": "",
+            "w": 372,
+            "h": 89
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2926",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Otvorená myseľ",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Spoločnosť OPEN MIND Technologies AG vyvíja a distribuuje inovatívne riešenia CAM/CAD, ktoré na základe digitálnych modelov generujú optimálne NC programy pre frézovanie a sústruženie na obrábacích strojoch. Výrobcovia z najrozmanitejších odvetví po celom svete sa rozhodujú pre produkty OPEN MIND, pretože im umožňujú ekonomickú a efektívnu výrobu. Vďaka tomu vznikajú modely, prototypy, nástroje, formy, hranolové obrobky, integrálne diely a ďalšie výrobky v pôsobivej kvalite.</p> <p>Prostredníctvom rozhrania hyperMILL® pre riešenia ZOLLER TMS Tool Management Solutions máte pohodlný prístup k rozsiahlej databáze ZOLLER.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/c/1/csm_logo_openmind_51569ef80f.webp",
+            "alt": "",
+            "w": 415,
+            "h": 75
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2927",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "OPUS",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Už viac ako 30 rokov dodáva OPUS<sup>®</sup> riešenia zamerané na konkrétne úlohy v oblasti CAM, MDE a DNC. Viac ako 4000 inštalácií v takmer 1000 podnikoch hovorí samo za seba. OPUS® sa presne prispôsobuje požiadavkám výroby a ďalej sa vyvíja v spolupráci s používateľmi.<br/><br/>Jednoduché a intuitívne ovládateľné rozhranie OPUS pre riešenia ZOLLER TMS Tool Management Solutions umožňuje jednoduchý prenos dát medzi databázou ZOLLER a systémom OPUS CAM.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/b/7/csm_logo_opus_087bc57d09.webp",
+            "alt": "",
+            "w": 158,
+            "h": 78
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2928",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Vrecia",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Spoločnosť Saacke, inovatívna rodinná firma s viac ako storočnou tradíciou, udáva celosvetové trendy v oblasti brúsok na náradie, ako aj ozubových a profilových nástrojov. Nastavovacie a<br/><br/>meracie prístroje ZOLLER ponúkajú voliteľné rozhranie pre brúsky na náradie Saacke.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/1/5/csm_logo_saacke_0310abbe36.webp",
+            "alt": "",
+            "w": 129,
+            "h": 114
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2929",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Siemens Industry Software s.r.o.",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Spoločnosť Siemens PLM Software, obchodná jednotka divízie Siemens Digital Factory, je popredným celosvetovým dodávateľom softvéru, systémov a služieb v oblasti riadenia životného cyklu výrobkov (PLM) a riadenia výrobných procesov (MOM) s viac ako 15 miliónmi licencovaných používateľov a viac ako 140 000 zákazníkmi po celom svete.</p> <p>Spoločnosť ZOLLER ako partner Siemens Software &amp; Technology ponúka rozhrania pre Siemens Teamcenter na prenos plánovaných a skutočných údajov z nastavovacích, meracích a kontrolných zariadení ZOLLER do obrábacích strojov a do integrovanej softvérovej sady pre vývoj a výrobu produktov Siemens NX na bezpečnú výmenu údajov s riešeniami TMS Tool Management Solutions prostredníctvom databázy nástrojov ZOLLER z.One.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/7/1/csm_logo_siemens_7bc6805809.webp",
+            "alt": "",
+            "w": 235,
+            "h": 114
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2930",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "SOFLEX",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Spoločnosť SOFLEX zaviedla v Nemecku prvé flexibilné výrobné systémy a ako spin-off Univerzity v Štutgarte pôsobí v tomto zaujímavom a náročnom priemyselnom odvetví od samého začiatku. Od roku 1984 sú jej kľúčovou kompetenciou riadiace systémy, vrátane riadenia buniek a výroby. Spoločnosť SOFLEX získava cenné podnety vďaka širokej sieti univerzít a vysokých škôl.<br/><br/>Nastavovacie a meracie zariadenie ZOLLER obsahuje rozhranie so systémom SOFLEX, takže sa plánovacie úlohy prenášajú do zariadenia ZOLLER. Okrem toho si nastavovacie a meracie zariadenie prostredníctvom rozhrania ZOLLER-SOFLEX-PCS úplne automaticky vyžiada zoznam potrebného náradia. Po dokončení nastavenia na nastavovacom a meracom zariadení ZOLLER sa namerané údaje priamo odosielajú do systému SOFLEX-PCS a následne SOFLEX-PCS prenáša údaje o nástrojoch pri vkladaní nástroja do stroja.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/1/3/csm_logo_soflex_01b48cd0dc.webp",
+            "alt": "",
+            "w": 246,
+            "h": 72
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2931",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "SolidCAM s.r.o.",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>SolidCAM patrí medzi popredných medzinárodných dodávateľov integrovaných CAD/CAM systémov pre efektívne CAM programovanie v strojárskej výrobe, elektronickom, medicínskom, spotrebnom, strojárskom, automobilovom a leteckom priemysle, ako aj vo výrobe foriem a nástrojov. SolidCAM ponúka prostredníctvom svojich produktov SolidCAM a InventorCAM bezproblémovú integráciu do SolidWorks a Autodesk Inventor. Tento softvér s revolučnou, patentovanou technológiou iMachining a SolidCAM MillTurn plus podporuje celé spektrum CNC aplikácií až po komplexné sústružno-frézovacie centrá a dlhé sústruhy.<br/>Viac ako 75 zamestnancov na ôsmich pobočkách s tromi technologickými centrami zaručuje kompetentnú podporu používateľov a prvotriedny technický servis priamo na mieste v celom Spojených štátoch.<br/><br/>Jednoduché a intuitívne ovládateľné rozhranie SolidCAM pre správu nástrojov ZOLLER umožňuje prostredníctvom TMS Tool Management Solutions pohodlný prístup k rozsiahlej databáze nástrojov ZOLLER. Kompletné nástroje na frézovanie, sústruženie a sústružno-frézovanie je možné použiť ako 3D údaje o nástrojoch priamo v SolidCAM na simuláciu a kontrolu kolízií.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/d/8/csm_logo_solidcam_9711414196.webp",
+            "alt": "",
+            "w": 317,
+            "h": 70
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2932",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Takisawa Machine Tool Co., Ltd.",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Od svojho založenia v roku 1922 presviedča spoločnosť TAKISAWA svojím priekopníckym duchom a nadšením. Vďaka obrovským skúsenostiam a takmer storočnej tradícii ponúka TAKISAWA dnes širokú škálu inovatívnych a technologicky vyspelých produktov.</p> <p>Spoločnosť ZOLLER poskytuje rozhranie pre prenos údajov o nástrojoch do systému TAKISAWA.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/a/6/csm_logo_takisawa_ee8c24d2ee.webp",
+            "alt": "",
+            "w": 381,
+            "h": 41
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2935",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Tebis AG",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Spoločnosť Tebis AG patrí medzi globálnych lídrov na trhu a v oblasti technológií v sektore CAD/CAM a MES. Pomocou softvéru Tebis zákazníci navrhujú, plánujú a vyrábajú vysoko kvalitné modely, formovacie nástroje a komponenty efektívne, bezpečne a v najvyššej kvalite. Tímy skúsených konzultantov a špecialistov na implementáciu vyvíjajú stratégie pre efektívne a bezpečné CAD/CAM procesy, implementujú ich u zákazníkov a zabezpečujú tak trvalý technologický a konkurenčný náskok. Spoločnosť so sídlom v Martinsried pri Mníchove má po celom svete 9 pobočiek Tebis a obchodné zastúpenia v ďalších 8 krajinách. Automatizácia je už viac ako 30 rokov receptom na úspech spoločnosti Tebis. Pre svojich zákazníkov sa Tebis považuje za priekopníka na ceste k priemyslu 4.0.</p> <p>Jednoduché a intuitívne ovládateľné rozhranie Tebis pre riešenia ZOLLER TMS Tool Management Solutions umožňuje jednoduchý prenos údajov o nástrojoch a nastavovacích listoch, vrátane jednotlivých komponentov a kompletných nástrojov, medzi databázou nástrojov ZOLLER z.One a systémom Tebis CAM.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/d/e/csm_logo_tebis_2cbb64c1c1.webp",
+            "alt": "",
+            "w": 323,
+            "h": 114
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2933",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Vollmer",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Skupina Vollmer s 14 pobočkami je vďaka rozsiahlej ponuke strojov úspešným celosvetovým špecialistom na obrábanie nástrojov v oblasti výroby a servisu. Produktová ponuka tohto technologického lídra zahŕňa najmodernejšie brúsky, erozívne stroje a obrábacie stroje na rotačné nástroje, kotúčové píly a pásové píly pre drevospracujúci a kovospracujúci priemysel.</p> <p>Nastavovacie a meracie zariadenia ZOLLER – perfektne prepojené prostredníctvom rozhrania s brúskami Vollmer.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/0/2/csm_logo_vollmer_174ffc994c.webp",
+            "alt": "",
+            "w": 439,
+            "h": 116
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2934",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "O spoločnosti DSC Software AG",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>VÁŠ PARTNER PRE INTEGROVANÉ PLM</p> <p>V spoločnosti DSC Software AG s nadšením pracujeme na prepojení ľudí, procesov a systémov. Vaše produktové údaje sú našou vášňou.</p> <p>Nechajte sa inšpirovať našou fascináciou integráciou. Inovatívne, ľudsky a partnersky vás sprevádzame pri konkrétnej realizácii vašej stratégie digitalizácie: s SAP ako centrálnou digitálnou databázou pre vaše obchodné procesy, doplnenou o presne na mieru šité riešenia založené na osvedčených postupoch.</p> <p>S nami ako dlhoročným partnerom SAP máte po boku skvele prepojeného a skúseného sprievodcu. Tím DSC disponuje viac ako 1 100 rokmi know-how v oblasti PLM a má len jeden cieľ: navrhnúť najlepšie možné riešenie pre vaše individuálne výzvy. Aby ste mohli svoje geniálne nápady ešte rýchlejšie premeniť na inteligentné produkty a zostať pripravení na budúcnosť.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/1/a/csm_logo_dsc_software_40e1276b00.webp",
+            "alt": "",
+            "w": 246,
+            "h": 92
+           }
+          ],
+          "videos": [],
+          "pos": "above",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textpic",
+          "id": "c2936",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c2854",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2852",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/sk/spolocnost/profil/partner",
+ "de_path": "/unternehmen/profil/partner"
+}

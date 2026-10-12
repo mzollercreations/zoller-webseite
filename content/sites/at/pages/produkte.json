@@ -1,0 +1,438 @@
+{
+ "path": "/produkte",
+ "url": "/at/produkte",
+ "title": "Produkte",
+ "description": "Produkte - Produktübersicht",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/at/startseite"
+  },
+  {
+   "label": "Produkte",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/at/startseite"
+  },
+  {
+   "label": "Produkte",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/02_Products/_Overview/zoller_solutions_header_02.mp4",
+     "title": "Wählen Sie Ihren Weg zum Erfolg",
+     "kicker": "",
+     "text": "<p>Mit den ZOLLER Solutions zu mehr Effizienz</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4402",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Produktübersicht </h2>",
+   "body": "<p class=\"extra-large-text\"><strong>ZOLLER Solutions stehen für Ihre Zukunft – wir machen Sie erfolg­reicher. Denn wer schneller und effizienter fertigt, arbeitet wirtschaftlicher, um in die Zukunft investieren zu können. Wenn wirtschaftlicher Fortschritt Ihr Ziel ist, dann ist ZOLLER Ihr Partner.</strong></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4399",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "productlist",
+   "filters": {
+    "solutions": [
+     {
+      "value": "259",
+      "label": "Einstellen & Messen",
+      "selected": false
+     },
+     {
+      "value": "251",
+      "label": "Toolmanagement",
+      "selected": false
+     },
+     {
+      "value": "254",
+      "label": "Prüfen & Messen",
+      "selected": false
+     },
+     {
+      "value": "253",
+      "label": "Automation",
+      "selected": false
+     },
+     {
+      "value": "250",
+      "label": "Schrumpftechnik",
+      "selected": false
+     },
+     {
+      "value": "252",
+      "label": "Werkzeugaufnahmen",
+      "selected": false
+     },
+     {
+      "value": "249",
+      "label": "Wuchttechnik",
+      "selected": false
+     }
+    ],
+    "tool": [
+     {
+      "value": "638",
+      "label": "Bohrwerkzeuge",
+      "selected": false
+     },
+     {
+      "value": "648",
+      "label": "Cap-Fräser",
+      "selected": false
+     },
+     {
+      "value": "644",
+      "label": "Drehwerkzeuge",
+      "selected": false
+     },
+     {
+      "value": "654",
+      "label": "Dreh-/ Räumwerkzeuge",
+      "selected": false
+     },
+     {
+      "value": "645",
+      "label": "Fräswerkzeuge",
+      "selected": false
+     },
+     {
+      "value": "646",
+      "label": "Feinbohrwerkzeuge",
+      "selected": false
+     },
+     {
+      "value": "639",
+      "label": "Gewindewerkzeuge",
+      "selected": false
+     },
+     {
+      "value": "650",
+      "label": "Hochleistungswerkzeuge",
+      "selected": false
+     },
+     {
+      "value": "649",
+      "label": "Kurbelwellenfräser",
+      "selected": false
+     },
+     {
+      "value": "652",
+      "label": "Präzisionswerkzeuge",
+      "selected": false
+     },
+     {
+      "value": "647",
+      "label": "Planmesserköpfe",
+      "selected": false
+     },
+     {
+      "value": "643",
+      "label": "Plan-, Eck- und Schlicht-Messerköpfe",
+      "selected": false
+     },
+     {
+      "value": "640",
+      "label": "Reibahlen",
+      "selected": false
+     },
+     {
+      "value": "656",
+      "label": "Schleifscheiben",
+      "selected": false
+     },
+     {
+      "value": "641",
+      "label": "Sägeblätter",
+      "selected": false
+     },
+     {
+      "value": "653",
+      "label": "Steinbearbeitungswerkzeuge",
+      "selected": false
+     },
+     {
+      "value": "642",
+      "label": "Schaftwerkzeuge",
+      "selected": false
+     },
+     {
+      "value": "651",
+      "label": "Verzahnungswerkzeuge",
+      "selected": false
+     }
+    ]
+   },
+   "rows": [
+    {
+     "title": "",
+     "items": [
+      {
+       "href": "/at/produkte/einstellen-messen",
+       "title": "Einstellen & Messen",
+       "text": "Verkürzen Sie die Rüstzeiten um 40 % und mehr.",
+       "img": {
+        "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/at/produkte/toolmanagement",
+       "title": "Toolmanagement",
+       "text": "Prozesse vernetzen, Qualität sichern und schneller fertigen.",
+       "img": {
+        "src": "/fileadmin/_processed_/3/3/csm_toolmanagement_preview_7889eaddc9.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/at/produkte/pruefen-messen",
+       "title": "Prüfen & Messen",
+       "text": "Dokumentieren Sie Qualität und erstellen Sie digitale Zwillinge.",
+       "img": {
+        "src": "/fileadmin/_processed_/0/d/csm_genius_1_5b500df8d2.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/at/produkte/automation",
+       "title": "Automation",
+       "text": "Flexible, modulare Automatisierung für Zerspanungswerkzeuge.",
+       "img": {
+        "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/at/produkte/schrumpftechnik",
+       "title": "Schrumpftechnik",
+       "text": "Ein- und Ausschrumpfen von Werkzeugen in Rekordzeit.",
+       "img": {
+        "src": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_506ab0ccb9.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/at/produkte/werkzeugaufnahmen",
+       "title": "Werkzeugaufnahmen",
+       "text": "Werkzeughalter mit »idChip« als perfekte Schnittstelle für Ihre digitale Fertigung.",
+       "img": {
+        "src": "/fileadmin/_processed_/4/8/csm_ToolingSolutions_preview_7b8d14560e.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/at/produkte/wuchttechnik",
+       "title": "Wuchttechnik",
+       "text": "Spindeln schonen, Qualität sichern: mit den besten Wuchtgeräten am Markt.",
+       "img": {
+        "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "src_path": "/at/produkte",
+ "de_path": "/produkte"
+}

@@ -1,0 +1,489 @@
+{
+ "path": "/공구-연마",
+ "url": "/kr/%EA%B3%B5%EA%B5%AC-%EC%97%B0%EB%A7%88",
+ "title": "공구 연마",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "공구 연마",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "공구 연마",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeuge-schleifen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/sharpening-tools",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/rectificado-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/affuter-les-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/afiar-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/affilatura-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/slipa-verktyg",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeuge-schleifen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/grinding-tools",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/affutage-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E7%A0%94%E3%81%8E",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EC%97%B0%EB%A7%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/grinding-tools",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/afilar-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/afiar-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/7/e/csm_header_grinding_21f044b386.webp",
+     "video": null,
+     "title": "공구 제조업체와 연마 업체의 성공 증대",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c2447",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> 인터페이스, 측정값, 연삭 휠, CNC용 공구 데이터 </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c728",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>공구 제조업체와 연삭 업체에게 측정 데이터와 데이터 관리는 높은 경제성과 입증된 품질을 달성하는 데 있어 필수적입니다. ZOLLER는 이를 위해 필요한 모든 것을 갖추고 있습니다. </strong></p> <p>ZOLLER를 통해 CAD 프로그램 및 CNC 제어 장치와의 인터페이스, 연삭 휠 관리를 위한 하드웨어 및 소프트웨어, 공정 현장에서 바로 사용할 수 있는 마이크로미터 단위의 정밀 측정 및 검사 장비, 그리고 연삭 휠 및 형상 데이터를 CNC 연삭기로 오류 없이 전송할 수 있는 안전한 기술을 확보할 수 있습니다.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c727",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c729",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "count",
+   "title": "인건비*를 최대",
+   "value": "83%",
+   "note": "*3교대 근무 시 교대당 직원 1명을 기준으로 한 점검 횟수입니다.",
+   "ftype": "zoller_count-banner",
+   "id": "c722",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> 귀사의 연삭 공정을 위한 ZOLLER 솔루션 </h2>",
+   "items": [
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EB%B2%94%EC%9A%A9-%EC%B8%A1%EC%A0%95%EA%B8%B0/genius",
+     "title": "»genius«",
+     "text": "<p>100개 이상의 매개변수를 초정밀하게 측정하며, 전 세계적으로 1,000회 이상 그 성능을 입증했습니다</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/d/csm_genius_1_5b500df8d2.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EB%B2%94%EC%9A%A9-%EC%B8%A1%EC%A0%95%EA%B8%B0/titan",
+     "title": "»titan«",
+     "text": "<p>모든 것을 알고 싶어 하는 전문가들을 위해 – 절삭면 전처리 포함</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/3/b/csm_titan__preview_9813f51631.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/toolorganizer",
+     "title": "»toolOrganizer«",
+     "text": "<p>절삭 공구 및 소형 부품용</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_018ce796c6.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%B0%B8%EB%9F%B0%EC%8B%B1-%EA%B8%B0%EC%88%A0/toolbalancer",
+     "title": "»toolBalancer«",
+     "text": "<p>최첨단 기술과 인체공학적 디자인을 갖춘 밸런싱 시스템</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%A4%91%EC%8B%AC%EC%9D%98-%EC%B8%A1%EC%A0%95/mmfocus",
+     "title": "»mμFocus«",
+     "text": "<p>지형을 분석하고 공구 날의 3D 이미지를 생성합니다</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/0/csm_myFocus__preview_b0f99094b2.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%A4%91%EC%8B%AC%EC%9D%98-%EC%B8%A1%EC%A0%95/pombasic",
+     "title": "»pomBasic«",
+     "text": "<p>공구에서 70개 이상의 파라미터를 공정과 연동하여 측정</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/5/f/csm_pombasic__preview_65ddb1db86.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EA%B2%80%EC%82%AC/roboset-2",
+     "title": "»roboSet 2«",
+     "text": "<p>»genius«, »3dCheck«, »threadCheck«, »titan« 및 »edgeControl«용 공구 핸들링</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_7361e448c0.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EB%A7%9E%EC%B6%A4%ED%98%95-%EC%86%94%EB%A3%A8%EC%85%98/%EB%A7%9E%EC%B6%A4%ED%98%95-%EC%86%94%EB%A3%A8%EC%85%98/threadcheckcc",
+     "title": "»﻿﻿﻿﻿threadCheck ❘ cc﻿﻿﻿﻿«",
+     "text": "<p>6축 CNC와 회전식 멀티센서 광학 캐리어를 갖춘 하이엔드 장비</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/6/8/csm_threadCheckCC__preview_ffdf543c62.webp",
+      "alt": "",
+      "w": 1563,
+      "h": 1291
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EB%A7%9E%EC%B6%A4%ED%98%95-%EC%86%94%EB%A3%A8%EC%85%98/%EB%A7%9E%EC%B6%A4%ED%98%95-%EC%86%94%EB%A3%A8%EC%85%98/hobcheck",
+     "title": "»hobCheck«",
+     "text": "<p>투과광 및 반사광 카메라와 측정 프로브에서 얻은 200개 이상의 측정값</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/a/csm_hobCheck__preview_63b423e059.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95/%EB%B2%94%EC%9A%A9-%EC%B8%A1%EC%A0%95%EA%B8%B0/smartcheck",
+     "title": "»smartCheck«",
+     "text": "<p>추가 투과광 기능과 향상된 이미지 분석 기능을 갖춘 설정 및 측정 기기</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_b44dfc4928.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1/zidcode",
+     "title": "»zidCode«",
+     "text": "<p>간편한 공구 데이터 관리를 통한 보안 및 효율성 향상</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/c/csm_zidCode_preview_538b53ed83.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/keeper",
+     "title": "»keeper«",
+     "text": "<p>완성 공구 및 공구 홀더용</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/a/csm_keeper_preview_1e87de3ba7.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/autolock",
+     "title": "»autoLock«",
+     "text": "<p>측정기, 소모품 및 대형 구성품용</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/7/csm_autolock__preview_a71350a53a.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/twister",
+     "title": "»twister«",
+     "text": "<p>공구 구성품 및 액세서리</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/1/csm_twister__preview_edf94f7d12.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%A1%B0%EB%A6%BD/toolstation",
+     "title": "»toolStation«",
+     "text": "<p>공구를 최적으로 장착하기 위해</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/f/csm_toolStation_preview_00b81d24f9.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%A1%B0%EB%A6%BD/ztower",
+     "title": "»zTower«",
+     "text": "<p>범용 공구 장착용</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/6/csm_zTower_preview_c0c8e3585e.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%9A%B4%EB%B0%98/toolcart",
+     "title": "»toolCart«",
+     "text": "<p>편리한 공구 운반을 위해</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_3be007bbac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_categorized_pages",
+   "id": "c4775",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 전문가 상담",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 전문가 상담</h3> <p>고객님의 목표와 이에 대한 당사의 아이디어를 바탕으로 한 맞춤형 상담. 스마트 팩토리에서 직접 제공되는 ZOLLER의 온라인 상담. 지금 바로 상담 일정을 예약하세요. </p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/e/csm_teaser-2Colume-Media_8e9165a74e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "미디어: ZOLLER 상세 정보",
+     "href": "/kr/%EA%B8%B0%EC%97%85/%EB%AF%B8%EB%94%94%EC%96%B4",
+     "caption": "<figcaption> <h3>미디어: ZOLLER 상세 정보</h3> <p>여기에서는 보도자료, 제품 발표, 전시회 참가 정보, 전문 잡지의 보도 기사, 뉴스 아카이브 및 미디어 담당자 정보를 확인하실 수 있습니다. </p> <br/> 자세히 알아보기 </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c738",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/kr/공구-연마",
+ "de_path": "/werkzeuge-schleifen"
+}

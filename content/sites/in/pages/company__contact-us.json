@@ -1,0 +1,209 @@
+{
+ "path": "/company/contact-us",
+ "url": "/in/company/contact-us",
+ "title": "Contact Us",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Home /",
+   "href": "/in/homepage"
+  },
+  {
+   "label": "Company /",
+   "href": "/in/company"
+  },
+  {
+   "label": "Contact Us",
+   "href": ""
+  },
+  {
+   "label": "Home /",
+   "href": "/in/homepage"
+  },
+  {
+   "label": "Company /",
+   "href": "/in/company"
+  },
+  {
+   "label": "Contact Us",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/kontakt",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/contact",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/contacto",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/contact",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/contacto",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/contatto",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/kontakt",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/kontakt",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/contact-us",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/contact",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/contact-us",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/contacto",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/contacto",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "textmedia",
+   "header": "<h1> Contact us </h1>",
+   "body": "<p>Thank you for your inquiry. </p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c3108",
+   "bg": "white",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "form",
+   "kind": "form_formframework",
+   "html": "<form action=\"https://www.zoller.info/in/company/contact-us?tx_form_formframework%5Baction%5D=perform&amp;tx_form_formframework%5Bcontroller%5D=FormFrontend&amp;cHash=b75395c7c8508389008d8e02a44ba693#01MainContactformUS-3099\" enctype=\"multipart/form-data\" id=\"01MainContactformUS-3099\" method=\"post\"> <div><input name=\"tx_form_formframework[01MainContactformUS-3099][__state]\" type=\"hidden\" value=\"TzozOToiVFlQTzNcQ01TXEZvcm1cRG9tYWluXFJ1bnRpbWVcRm9ybVN0YXRlIjoyOntzOjI1OiIAKgBsYXN0RGlzcGxheWVkUGFnZUluZGV4IjtpOjA7czoxMzoiACoAZm9ybVZhbHVlcyI7YTowOnt9fQ==e1fa0a6fff7432dcbaca0174b96641dc4234cdba\"/><input name=\"tx_form_formframework[__trustedProperties]\" type=\"hidden\" value='{\"01MainContactformUS-3099\":{\"text-2\":1,\"text-3\":1,\"email-1\":1,\"telephone-1\":1,\"text-1\":1,\"text-4\":1,\"text-5\":1,\"text-6\":1,\"text-7\":1,\"text-8\":1,\"multicheckbox-1\":[1,1,1,1,1,1,1],\"textarea-1\":1,\"EHa02JOFh5N6TSvc7\":1,\"checkbox-2\":1,\"checkbox-1\":1,\"__currentPage\":1}}b10f156c29a8087a2de7729ae7c3c4af8f54a859'/> </div> <div class=\"row\"> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"01MainContactformUS-3099-text-2\">First Name <span class=\"required\">*</span> </label> <div class=\"input\"> <input autocomplete=\"given-name\" class=\"form-control\" id=\"01MainContactformUS-3099-text-2\" maxlength=\"100\" minlength=\"1\" name=\"tx_form_formframework[01MainContactformUS-3099][text-2]\" required=\"required\" type=\"text\" value=\"\"/> </div> </div> </div> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"01MainContactformUS-3099-text-3\">Family Name <span class=\"required\">*</span> </label> <div class=\"input\"> <input class=\"form-control\" id=\"01MainContactformUS-3099-text-3\" name=\"tx_form_formframework[01MainContactformUS-3099][text-3]\" required=\"required\" type=\"text\" value=\"\"/> </div> </div> </div> </div> <div class=\"row\"> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"01MainContactformUS-3099-email-1\">Email <span class=\"required\">*</span> </label> <div class=\"input\"> <input class=\"form-control\" id=\"01MainContactformUS-3099-email-1\" name=\"tx_form_formframework[01MainContactformUS-3099][email-1]\" required=\"required\" type=\"email\" value=\"\"/> </div> </div> </div> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"01MainContactformUS-3099-telephone-1\">Tel. <span class=\"required\">*</span> </label> <div class=\"input\"> <input class=\"form-control\" id=\"01MainContactformUS-3099-telephone-1\" name=\"tx_form_formframework[01MainContactformUS-3099][telephone-1]\" required=\"required\" type=\"tel\" value=\"\"/> </div> </div> </div> </div> <div class=\"row\"> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"01MainContactformUS-3099-text-1\">Company name <span class=\"required\">*</span> </label> <div class=\"input\"> <input class=\"form-control\" id=\"01MainContactformUS-3099-text-1\" name=\"tx_form_formframework[01MainContactformUS-3099][text-1]\" required=\"required\" type=\"text\" value=\"\"/> </div> </div> </div> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"01MainContactformUS-3099-text-4\">Function</label> <div class=\"input\"> <input class=\"form-control\" id=\"01MainContactformUS-3099-text-4\" name=\"tx_form_formframework[01MainContactformUS-3099][text-4]\" type=\"text\" value=\"\"/> </div> </div> </div> </div> <div class=\"row\"> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"01MainContactformUS-3099-text-5\">Street</label> <div class=\"input\"> <input class=\"form-control\" id=\"01MainContactformUS-3099-text-5\" name=\"tx_form_formframework[01MainContactformUS-3099][text-5]\" type=\"text\" value=\"\"/> </div> </div> </div> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"01MainContactformUS-3099-text-6\">City <span class=\"required\">*</span> </label> <div class=\"input\"> <input class=\"form-control\" id=\"01MainContactformUS-3099-text-6\" name=\"tx_form_formframework[01MainContactformUS-3099][text-6]\" required=\"required\" type=\"text\" value=\"\"/> </div> </div> </div> </div> <div class=\"row\"> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"01MainContactformUS-3099-text-7\">State <span class=\"required\">*</span> </label> <div class=\"input\"> <input class=\"form-control\" id=\"01MainContactformUS-3099-text-7\" name=\"tx_form_formframework[01MainContactformUS-3099][text-7]\" required=\"required\" type=\"text\" value=\"\"/> </div> </div> </div> <div class=\"col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"01MainContactformUS-3099-text-8\">Zip <span class=\"required\">*</span> </label> <div class=\"input\"> <input class=\"form-control\" id=\"01MainContactformUS-3099-text-8\" name=\"tx_form_formframework[01MainContactformUS-3099][text-8]\" required=\"required\" type=\"text\" value=\"\"/> </div> </div> </div> </div> <fieldset class=\"form-group\" id=\"01MainContactformUS-3099-fieldset-1\"> <div class=\"form-group\"> <label class=\"form-label\" for=\"01MainContactformUS-3099-multicheckbox-1\">I would like to have/arrange:</label> <div class=\"input checkbox\"> <div class=\"inputs-list\" id=\"01MainContactformUS-3099-multicheckbox-1\"> <div class=\"form-check\"> <label class=\"form-check-label\" for=\"01MainContactformUS-3099-multicheckbox-1-0\"> <input name=\"tx_form_formframework[01MainContactformUS-3099][multicheckbox-1]\" type=\"hidden\" value=\"\"/><input id=\"01MainContactformUS-3099-multicheckbox-1-0\" name=\"tx_form_formframework[01MainContactformUS-3099][multicheckbox-1][]\" type=\"checkbox\" value=\"Callback\"/> <span>Callback</span> </label> </div> <div class=\"form-check\"> <label class=\"form-check-label\" for=\"01MainContactformUS-3099-multicheckbox-1-1\"> <input id=\"01MainContactformUS-3099-multicheckbox-1-1\" name=\"tx_form_formframework[01MainContactformUS-3099][multicheckbox-1][]\" type=\"checkbox\" value=\"1:1 Consultation\"/> <span>1:1 Consultation</span> </label> </div> <div class=\"form-check\"> <label class=\"form-check-label\" for=\"01MainContactformUS-3099-multicheckbox-1-2\"> <input id=\"01MainContactformUS-3099-multicheckbox-1-2\" name=\"tx_form_formframework[01MainContactformUS-3099][multicheckbox-1][]\" type=\"checkbox\" value=\"Virtual Demo\"/> <span>Virtual Demo</span> </label> </div> <div class=\"form-check\"> <label class=\"form-check-label\" for=\"01MainContactformUS-3099-multicheckbox-1-3\"> <input id=\"01MainContactformUS-3099-multicheckbox-1-3\" name=\"tx_form_formframework[01MainContactformUS-3099][multicheckbox-1][]\" type=\"checkbox\" value=\"Visit to a ZOLLER showroom\"/> <span>Visit to a ZOLLER showroom</span> </label> </div> <div class=\"form-check\"> <label class=\"form-check-label\" for=\"01MainContactformUS-3099-multicheckbox-1-4\"> <input id=\"01MainContactformUS-3099-multicheckbox-1-4\" name=\"tx_form_formframework[01MainContactformUS-3099][multicheckbox-1][]\" type=\"checkbox\" value=\"Onsite demo\"/> <span>Onsite demo</span> </label> </div> <div class=\"form-check\"> <label class=\"form-check-label\" for=\"01MainContactformUS-3099-multicheckbox-1-5\"> <input id=\"01MainContactformUS-3099-multicheckbox-1-5\" name=\"tx_form_formframework[01MainContactformUS-3099][multicheckbox-1][]\" type=\"checkbox\" value=\"Training\"/> <span>Training</span> </label> </div> <div class=\"form-check\"> <label class=\"form-check-label\" for=\"01MainContactformUS-3099-multicheckbox-1-6\"> <input id=\"01MainContactformUS-3099-multicheckbox-1-6\" name=\"tx_form_formframework[01MainContactformUS-3099][multicheckbox-1][]\" type=\"checkbox\" value=\"Service\"/> <span>Service</span> </label> </div> </div> </div> </div> <div class=\"form-group\"> <label class=\"form-label\" for=\"01MainContactformUS-3099-textarea-1\">Your message</label> <div class=\"input\"> <textarea class=\"xxlarge form-control\" id=\"01MainContactformUS-3099-textarea-1\" name=\"tx_form_formframework[01MainContactformUS-3099][textarea-1]\"></textarea> </div> </div> </fieldset> <input aria-hidden=\"true\" data-id=\"EHa02JOFh5N6TSvc7\" id=\"01MainContactformUS-3099-EHa02JOFh5N6TSvc7\" name=\"tx_form_formframework[01MainContactformUS-3099][EHa02JOFh5N6TSvc7]\" tabindex=\"-1\" type=\"text\"/> <fieldset class=\"form-group\" id=\"01MainContactformUS-3099-fieldset-2\"> <div class=\"form-group\"> <div class=\"input checkbox\"> <div class=\"form-check\"> <label class=\"add-on form-check-label\" for=\"01MainContactformUS-3099-checkbox-2\"> <input name=\"tx_form_formframework[01MainContactformUS-3099][checkbox-2]\" type=\"hidden\" value=\"\"/><input class=\"add-on\" id=\"01MainContactformUS-3099-checkbox-2\" name=\"tx_form_formframework[01MainContactformUS-3099][checkbox-2]\" type=\"checkbox\" value=\"1\"/> <span>I would like to subscribe to the ZOLLER newsletter.</span> </label> </div> </div> </div> <div class=\"form-group\"> <div class=\"input checkbox\"> <div class=\"form-check\"> <label class=\"add-on form-check-label\" for=\"01MainContactformUS-3099-checkbox-1\"> <input name=\"tx_form_formframework[01MainContactformUS-3099][checkbox-1]\" type=\"hidden\" value=\"\"/><input class=\"add-on\" id=\"01MainContactformUS-3099-checkbox-1\" name=\"tx_form_formframework[01MainContactformUS-3099][checkbox-1]\" required=\"required\" type=\"checkbox\" value=\"1\"/> <span>I have read the declaration on data protection and agree to the processing and storage of my provided data for the processing of my request. <span class=\"required\">*</span> </span> </label> </div> </div> </div> </fieldset> <div class=\"actions\"> <nav class=\"form-navigation\"> <div class=\"btn-toolbar\" role=\"toolbar\"> <div class=\"btn-group\" role=\"group\"> <span class=\"btn-group next submit\"> <button class=\"block-button\" name=\"tx_form_formframework[01MainContactformUS-3099][__currentPage]\" type=\"submit\" value=\"1\"> Send e-mail </button> </span> </div> </div> </nav> </div> </form>",
+   "header": "",
+   "ftype": "form_formframework",
+   "id": "c3099",
+   "bg": "white",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/in/company/contact-us",
+ "de_path": "/unternehmen/kontakt"
+}

@@ -1,0 +1,164 @@
+{
+ "path": "/活动-1/zoller-automation-days-2026",
+ "url": "/活动-1/zoller-automation-days-2026",
+ "title": "ZOLLER Automation Days 2026",
+ "description": "2026年11月2日至6日，ZOLLER 北美总部（密歇根州安娜堡）：一对一的专属自动化体验，现场演示 »micBox«、»roboBox«、»coraMeasure LG« 和 »coraVarion«。",
+ "og_image": "/fileadmin/_processed_/1/9/csm_csm_automation_fest_travel_header_03_df68e82b27_24c41ac058.webp",
+ "breadcrumb": [],
+ "languages": [],
+ "de_path": "/events/zoller-automation-days-2026",
+ "blocks": [
+  {
+   "type": "event_hero",
+   "id": "event",
+   "kicker": "活动 · ZOLLER Inc. 北美总部",
+   "title": "ZOLLER Automation Days",
+   "subtitle": "智能制造。自动化。在安娜堡享受一对一的专属技术体验。",
+   "dates": "2026年11月2日至6日",
+   "place": "安娜堡（密歇根州）",
+   "images": [
+    {
+     "src": "/assets/showroom/img/hd/micbox.webp",
+     "alt": "»micBox«"
+    },
+    {
+     "src": "/assets/showroom/img/hd/robobox.webp",
+     "alt": "»roboBox«"
+    },
+    {
+     "src": "/assets/showroom/img/hd/corameasure-lg.webp",
+     "alt": "»coraMeasure LG«"
+    }
+   ],
+   "buttons": [
+    {
+     "label": "立即报名",
+     "href": "mailto:sales@zoller-usa.com?subject=Registration%3A%20ZOLLER%20Automation%20Days%202026&body=Company%3A%0D%0AName%3A%0D%0APreferred%20day%20(Nov%202%E2%80%936)%3A%0D%0AApplication%20%2F%20topic%3A%0D%0A"
+    },
+    {
+     "label": "交通指南",
+     "href": "#venue",
+     "ghost": true
+    }
+   ]
+  },
+  {
+   "type": "event_facts",
+   "id": "facts",
+   "bg": "yellow",
+   "items": [
+    {
+     "value": "5",
+     "label": "天",
+     "text": "2026年11月2日（周一）至11月6日（周五）"
+    },
+    {
+     "value": "1:1",
+     "label": "专属",
+     "text": "与 ZOLLER 技术专家的专属场次"
+    },
+    {
+     "value": "4+",
+     "label": "项现场演示",
+     "text": "»micBox«、»roboBox«、»coraMeasure LG«、»coraVarion« 等"
+    },
+    {
+     "value": "总部",
+     "label": "Ann Arbor",
+     "text": "位于密歇根州的 ZOLLER 北美总部"
+    }
+   ]
+  },
+  {
+   "type": "textmedia",
+   "id": "about",
+   "bg": "white",
+   "space": {
+    "before": "large",
+    "after": "large"
+   },
+   "header": "<h2>亲身体验智能制造</h2>",
+   "body": "<p class=\"large-text\">欢迎莅临位于密歇根州安娜堡的 ZOLLER 北美总部，参加专属技术体验活动，聚焦新一代自动化刀具准备、测量、搬运和管理。</p><p>ZOLLER Automation Days 围绕您的生产环境、挑战和目标而设计。在与 ZOLLER 技术专家的一对一专属交流中，您可以深入了解自动化能在哪些环节为您的企业创造最大价值——从减少人工刀具管理、提高过程可靠性，到提升生产力、零件质量和效率，以及应对专业人员短缺。</p><p>请带来您当前的应用、流程瓶颈或未来的自动化目标。我们将一起评估切实可行的机会，演示相关技术，并根据您的生产重点制定清晰的价值主张和路线图。</p><p><strong>您的流程。您的重点。您的自动化路线图。</strong></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/8/csm_2018_01_30fd37ca38.webp",
+     "alt": "密歇根州安娜堡 ZOLLER Inc. 总部鸟瞰图",
+     "w": 1200,
+     "h": 587
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "middle",
+   "ftype": "textmedia"
+  },
+  {
+   "type": "event_facts",
+   "id": "value",
+   "bg": "lightgray",
+   "items": [
+    {
+     "value": "量身定制",
+     "label": "围绕您的流程打造",
+     "text": "了解与您的应用、生产目标和当前挑战相匹配的解决方案。"
+    },
+    {
+     "value": "可衡量",
+     "label": "切实的运营价值",
+     "text": "找出减少人工干预、提高过程可靠性和生产力的机会。"
+    },
+    {
+     "value": "可扩展",
+     "label": "从关键处着手",
+     "text": "制定互联的自动化路线图，随您的生产需求和未来目标不断发展。"
+    }
+   ]
+  },
+  {
+   "type": "textmedia",
+   "id": "coravarion",
+   "bg": "white",
+   "space": {
+    "before": "large",
+    "after": "large"
+   },
+   "header": "<h2>»coraVarion/micBox«</h2>",
+   "body": "<p class=\"large-text\">用于刀片更换、刀具预调和测量的自动化方案。</p><p>得益于模块化设计，ZOLLER »coraVarion/micBox« 可根据具体生产要求进行定制，帮助企业实现流程标准化、提高产品质量并更高效地安排人员。</p><p>集成的 »micBox« 自动完成刀片的安装、转位、翻转和更换。结合 ZOLLER »venturion« 上的高精度刀具测量以及刀具和夹爪的自动更换，形成连续、可靠且高度灵活的生产流程。</p>",
+   "images": [
+    {
+     "src": "/assets/showroom/img/hd/micbox.webp",
+     "alt": "ZOLLER »micBox«"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "middle",
+   "ftype": "textmedia"
+  },
+  {
+   "type": "event_venue",
+   "id": "venue",
+   "bg": "black",
+   "title": "交通指南",
+   "name": "ZOLLER Inc.",
+   "lines": [
+    "3900 Research Park Drive",
+    "Ann Arbor, MI 48108, USA"
+   ],
+   "map": "https://www.google.com/maps/search/?api=1&query=ZOLLER+Inc+3900+Research+Park+Drive+Ann+Arbor+MI+48108",
+   "notes": [
+    "ZOLLER 北美总部，位于底特律以西约 65 公里",
+    "一对一专属交流——需要报名",
+    "ZOLLER Automation Days 2026 现已开放报名"
+   ],
+   "contact": {
+    "label": "报名与咨询",
+    "email": "sales@zoller-usa.com",
+    "phone": "+1 734 332 4851"
+   }
+  }
+ ],
+ "hand": true
+}

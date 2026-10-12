@@ -1,0 +1,493 @@
+{
+ "path": "/솔루션/자동화",
+ "url": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%9E%90%EB%8F%99%ED%99%94",
+ "title": "자동화",
+ "description": "자동화",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "솔루션 /",
+   "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98"
+  },
+  {
+   "label": "자동화",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "솔루션 /",
+   "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98"
+  },
+  {
+   "label": "자동화",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/automation",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/automation",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/automatizacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/automatisation",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/automacao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/automazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/automatisering",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/automation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/automation",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/automatisation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E8%87%AA%E5%8B%95%E5%8C%96",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%9E%90%EB%8F%99%ED%99%94",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/automation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/automatizacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/automacao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/01_Pages/Solutions/Automation/zoller_automation_komp.mp4",
+     "title": "자동화",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c2805",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "subnav",
+   "title": "자동화",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "물류",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%9E%90%EB%8F%99%ED%99%94/%EB%AC%BC%EB%A5%98",
+     "current": false
+    },
+    {
+     "label": "공구 준비",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A4%80%EB%B9%84",
+     "current": false
+    },
+    {
+     "label": "공구 제공",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A0%9C%EA%B3%B5",
+     "current": false
+    },
+    {
+     "label": "공구 검사",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EA%B2%80%EC%82%AC",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c2273",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>졸러(ZOLLER)의 자동화 솔루션은 기존 방식과는 차별화된 접근으로 더 나은 성과를 제공합니다. 이 솔루션은 공구 가공 공정의 효율성을 극대화합니다.</h3>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2271",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p>졸러(ZOLLER) Automation Solutions는 공구와 관련된 모든 공정을 자동화합니다. 설정 및 측정 장비를 위한 보조 로봇부터 새로운 포털 솔루션 ‘coraMeasure LG’, 그리고 기계 적재를 포함한 생산 현장의 완전 자동화에 이르기까지, 졸러(ZOLLER)와 함께라면 다양한 자동화 구현이 가능합니다. 단계별로 스마트 팩토리를 구축해 보십시오.</p> <p>자동화는 생산의 경제성을 향상시킵니다. 공구 조립이나 CNC 기계로의 공구 이송 과정에서 숙련 인력의 부담을 줄이고, 비용 절감과 공구 가용성 유지, 생산성 향상을 동시에 실현합니다.</p> <p>졸러(ZOLLER) 자동화 솔루션을 통해 유연한 자동화를 구현하십시오. 모든 솔루션은 유기적으로 연결되어 작동하며, 모든 CNC 장비를 포함한 전체 생산 라인을 통합적으로 고려합니다.</p> <p><a class=\"btn\" href=\"/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94\">제품 보기</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2270",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2272",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "quotes",
+   "header": "",
+   "slides": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/8/5/csm_toolBalancer_Alexander_Zoller2_7bc76f629f.webp",
+      "alt": ""
+     },
+     "text": "<p class=\"extra-large-text\">이제 제조 공정에서 공구 공급 방식을 현대화할 때가 되었습니다. ZOLLER의 모듈식 자동화 컨셉은 모든 제조 현장에 스마트 팩토리로 가는 길을 열어줍니다. </p> <p><strong>알렉산더 졸러, 대표이사</strong></p>",
+     "right": true,
+     "quote": true,
+     "dark": true
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/2/7/csm_toolBalancer_Christoph_Zoller2_490ea1f2a5.webp",
+      "alt": ""
+     },
+     "text": "<p class=\"extra-large-text\">ZOLLER Automation Solutions는 귀사가 나아가야 할 다음 단계입니다. 혁신적인 기술을 통해 생산 효율성을 높여보세요.</p> <p><strong>크리스토프 졸러, 대표이사</strong></p>",
+     "right": false,
+     "quote": true,
+     "dark": true
+    }
+   ],
+   "ftype": "zoller_slider-full-width",
+   "id": "c2269",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "효율적인 생산을 위해",
+    "최고의 기계 생산성을 위해",
+    "24시간 연중무휴 안정적인 공구 가용성을 위해"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c2268",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 더 높은 경제성으로 앞서 나가다 </h2>",
+   "body": "<p><strong>많은 제조 현장의 생산성이 떨어지는 이유는 고도로 훈련된 직원들이 반복적인 업무를 수행해야 하기 때문입니다. ZOLLER 자동화 솔루션을 통해 공구 조립, 피킹 및 이송 과정을 자동화하면 이러한 비용과 시간이 많이 소요되는 작업을 줄일 수 있습니다.</strong></p> <p>전문 인력의 가용 시간을 최적으로 활용하십시오. 전문가들의 지식과 경험을 꼭 필요한 곳에 발휘하게 함으로써 생산성을 높여보세요. 그러면 생산 현장의 생산성과 수익이 향상될 것입니다.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/1/csm_kosteneffizienz_einzel_en_01_a17aa14a5e.webp",
+     "alt": "",
+     "w": 1097,
+     "h": 1097
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c2267",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 공구 데이터를 활용한 자동화 </h2>",
+   "body": "<p>다양한 인터페이스와 기능을 갖춘 당사의 정교한 공구 관리 시스템은 데이터 기반 자동화를 특히 간편하게 만들어 줍니다. ZOLLER 데이터베이스 z.One과 ZOLLER 소프트웨어 webTMS에 체계적으로 정리된 공구 데이터를 통해, 데스크톱이나 모바일 기기에서 제조 공정의 자동화 프로세스를 계획하고 관리할 수 있습니다.</p> <p>자세히 알아보기</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/c/6/csm_software_automation_en_7ad0d9045a.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c2266",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> 자동화 솔루션 </h2>",
+   "items": [
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EB%AC%BC%EB%A5%98/coralogistic",
+     "title": "»coraLogistic«",
+     "text": "<p>공구 창고, 공구 준비 공정 및 CNC 공작기계 간의 이송 작업용</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/0/csm_coraLogistics_preview_8cd4f5bccb.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A4%80%EB%B9%84/corameasure-lg",
+     "title": "»coraMeasure LG«",
+     "text": "<p>ZOLLER »venturion«을 위한 경제적인 공구 취급 시스템</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A0%9C%EA%B3%B5/loadbox",
+     "title": "»loadBox«",
+     "text": "<p>주문에 따라 공구를 선별하여 물류 부서에 전달한다</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/5/3/csm_loadBox_preview_c2695dfc22.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A4%80%EB%B9%84/robobox",
+     "title": "»roboBox«",
+     "text": "<p>조립, 세척, 측정, 수축 등 다양한 공정을 위한 최대 6개의 모듈</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/a/csm_roboBox_preview_f71dd04107.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EB%AC%BC%EB%A5%98/coramachineload",
+     "title": "»coraMachineLoad«",
+     "text": "<p>물류와 기계 매거진 간에 정밀하고 정확한 공구 이송</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/e/csm_coraMaschineLoad_preview_7ffc6574e3.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EC%A4%80%EB%B9%84/micbox",
+     "title": "»micBox«",
+     "text": "<p>인서트의 회전, 뒤집기 및 교체 작업을 수행합니다</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/6/a/csm_micbox_preview_ff03cd31af.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c2265",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_zoller_system_teaser_a6e5d69871.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "해결책부터 시작하세요 – 시스템에 접속하세요.",
+     "href": "/kr/%EC%8B%9C%EC%8A%A4%ED%85%9C",
+     "caption": "<figcaption> <h3>해결책부터 시작하세요 – 시스템에 접속하세요.</h3> <p>당사의 고객들은 당사가 수십 년간 추진해 온 종합적인 솔루션 접근 방식의 혜택을 누리고 있습니다. 그 결과, 탁월한 효율성을 달성하고 있습니다. </p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 전문가 상담",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 전문가 상담</h3> <p>고객님의 목표와 이에 대한 당사의 아이디어를 바탕으로 한 맞춤형 상담. 스마트 팩토리에서 직접 제공되는 ZOLLER의 온라인 상담. 지금 바로 상담 일정을 예약하세요. </p> <br/> 자세히 알아보기 </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/kr/솔루션/자동화",
+ "de_path": "/solutions/automation"
+}

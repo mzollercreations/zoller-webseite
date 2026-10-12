@@ -1,0 +1,164 @@
+{
+ "path": "/イベント/zoller-automation-days-2026",
+ "url": "/イベント/zoller-automation-days-2026",
+ "title": "ZOLLER Automation Days 2026",
+ "description": "2026年11月2日～6日、ZOLLER 北米本社（ミシガン州アナーバー）：»micBox«、»roboBox«、»coraMeasure LG«、»coraVarion« のライブデモ付き、お客様専用の 1 対 1 の自動化体験。",
+ "og_image": "/fileadmin/_processed_/1/9/csm_csm_automation_fest_travel_header_03_df68e82b27_24c41ac058.webp",
+ "breadcrumb": [],
+ "languages": [],
+ "de_path": "/events/zoller-automation-days-2026",
+ "blocks": [
+  {
+   "type": "event_hero",
+   "id": "event",
+   "kicker": "イベント · ZOLLER Inc. 北米本社",
+   "title": "ZOLLER Automation Days",
+   "subtitle": "スマート製造。自動化。アナーバーで、お客様専用の 1 対 1 テクノロジー体験。",
+   "dates": "2026年11月2日～6日",
+   "place": "アナーバー（ミシガン州）",
+   "images": [
+    {
+     "src": "/assets/showroom/img/hd/micbox.webp",
+     "alt": "»micBox«"
+    },
+    {
+     "src": "/assets/showroom/img/hd/robobox.webp",
+     "alt": "»roboBox«"
+    },
+    {
+     "src": "/assets/showroom/img/hd/corameasure-lg.webp",
+     "alt": "»coraMeasure LG«"
+    }
+   ],
+   "buttons": [
+    {
+     "label": "今すぐ申し込む",
+     "href": "mailto:sales@zoller-usa.com?subject=Registration%3A%20ZOLLER%20Automation%20Days%202026&body=Company%3A%0D%0AName%3A%0D%0APreferred%20day%20(Nov%202%E2%80%936)%3A%0D%0AApplication%20%2F%20topic%3A%0D%0A"
+    },
+    {
+     "label": "アクセス",
+     "href": "#venue",
+     "ghost": true
+    }
+   ]
+  },
+  {
+   "type": "event_facts",
+   "id": "facts",
+   "bg": "yellow",
+   "items": [
+    {
+     "value": "5",
+     "label": "日間",
+     "text": "2026年11月2日（月）～11月6日（金）"
+    },
+    {
+     "value": "1:1",
+     "label": "個別",
+     "text": "ZOLLER の技術専門家との専用セッション"
+    },
+    {
+     "value": "4+",
+     "label": "ライブデモ",
+     "text": "»micBox«、»roboBox«、»coraMeasure LG«、»coraVarion« ほか"
+    },
+    {
+     "value": "本社",
+     "label": "Ann Arbor",
+     "text": "ミシガン州の ZOLLER 北米本社にて"
+    }
+   ]
+  },
+  {
+   "type": "textmedia",
+   "id": "about",
+   "bg": "white",
+   "space": {
+    "before": "large",
+    "after": "large"
+   },
+   "header": "<h2>スマート製造を実際に体験</h2>",
+   "body": "<p class=\"large-text\">ミシガン州アナーバーの ZOLLER 北米本社で、次世代の自動化された工具準備、測定、ハンドリング、管理に焦点を当てた、お客様専用のテクノロジー体験をお届けします。</p><p>ZOLLER Automation Days は、お客様の生産環境、課題、目標に合わせて構成されます。ZOLLER の技術専門家との 1 対 1 のセッションで、手作業による工具管理の削減やプロセスの信頼性向上から、生産性、部品品質、効率の向上、人材不足への対応まで、自動化がお客様の現場でどこに最大の価値をもたらすかを詳しく検討できます。</p><p>現在の用途、プロセスのボトルネック、将来の自動化目標をお持ちください。具体的な可能性を一緒に評価し、関連技術を実演し、お客様の生産上の優先事項に合わせた明確な価値提案とロードマップを作成します。</p><p><strong>お客様のプロセス。お客様の優先事項。お客様の自動化ロードマップ。</strong></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/8/csm_2018_01_30fd37ca38.webp",
+     "alt": "ミシガン州アナーバーの ZOLLER Inc. 本社の航空写真",
+     "w": 1200,
+     "h": 587
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "middle",
+   "ftype": "textmedia"
+  },
+  {
+   "type": "event_facts",
+   "id": "value",
+   "bg": "lightgray",
+   "items": [
+    {
+     "value": "オーダーメイド",
+     "label": "お客様のプロセスに合わせて",
+     "text": "お客様の用途、生産目標、現在の課題に合ったソリューションをご紹介します。"
+    },
+    {
+     "value": "測定可能",
+     "label": "現場での確かな価値",
+     "text": "手作業の削減、プロセスの信頼性向上、生産性向上の可能性を見つけます。"
+    },
+    {
+     "value": "拡張可能",
+     "label": "効果の大きいところから",
+     "text": "生産要件と将来の目標に合わせて発展する、コネクテッドな自動化ロードマップを構築します。"
+    }
+   ]
+  },
+  {
+   "type": "textmedia",
+   "id": "coravarion",
+   "bg": "white",
+   "space": {
+    "before": "large",
+    "after": "large"
+   },
+   "header": "<h2>»coraVarion/micBox«</h2>",
+   "body": "<p class=\"large-text\">チップ交換、工具のプリセッティング、測定のための自動化。</p><p>モジュール構造により、ZOLLER »coraVarion/micBox« は個々の生産要件に合わせてカスタマイズでき、プロセスの標準化、製品品質の向上、人員の効率的な活用を支援します。</p><p>内蔵の »micBox« がチップの取り付け、回転、反転、交換を自動で行います。ZOLLER »venturion« による高精度な工具測定と、工具およびグリッパーの自動交換と組み合わせることで、シームレスで信頼性が高く、きわめて柔軟な生産プロセスが実現します。</p>",
+   "images": [
+    {
+     "src": "/assets/showroom/img/hd/micbox.webp",
+     "alt": "ZOLLER »micBox«"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "middle",
+   "ftype": "textmedia"
+  },
+  {
+   "type": "event_venue",
+   "id": "venue",
+   "bg": "black",
+   "title": "アクセス",
+   "name": "ZOLLER Inc.",
+   "lines": [
+    "3900 Research Park Drive",
+    "Ann Arbor, MI 48108, USA"
+   ],
+   "map": "https://www.google.com/maps/search/?api=1&query=ZOLLER+Inc+3900+Research+Park+Drive+Ann+Arbor+MI+48108",
+   "notes": [
+    "ZOLLER 北米本社、デトロイトの西約 65 km",
+    "個別の 1 対 1 セッション――事前登録が必要です",
+    "ZOLLER Automation Days 2026 の申し込み受付中"
+   ],
+   "contact": {
+    "label": "お申し込みとお問い合わせ",
+    "email": "sales@zoller-usa.com",
+    "phone": "+1 734 332 4851"
+   }
+  }
+ ],
+ "hand": true
+}

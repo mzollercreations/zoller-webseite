@@ -1,0 +1,299 @@
+{
+ "path": "/szerszamfigyeles",
+ "url": "/hu/szerszamfigyeles",
+ "title": "Szerszámfigyelés",
+ "description": "A szerszámok rendszeres ellenőrzésével és felügyeletével biztosíthatja a zökkenőmentes gyártási folyamatokat és a kiváló minőségű termékeket.",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Szerszámfigyelés",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Szerszámfigyelés",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeugueberwachung",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-monitoring",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/supervision-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/surveillance-des-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/monitorizacao-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/monitoraggio-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verktygsoevervakning",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeugueberwachung",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/surveillance-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E7%9B%A3%E8%A6%96",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/tool-monitoring",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/monitoreo-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/monitorizacao-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/0/1/csm_tool_monitoring_header_355bada07e.webp",
+     "video": null,
+     "title": "Szerszámellenőrzés a minőségbiztosítás érdekében",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7957",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\"><strong>A szerszám állapota határozza meg a munkadarabok minőségét. A szerszámellenőrzés ezért már régóta a minőségbiztosítás alapvető eleme, különböző formákban.</strong></p> <p class=\"extra-large-text\">A hibás vagy nem tökéletesen előkészített szerszámok számos okból problémát jelentenek. Ezáltal egész tételek hibás termékek keletkezhetnek, és ez a selejt gyakran észrevétlenül és fokozatosan halmozódik fel – ezt a selejtet biztosan el akarja kerülni.</p> <p class=\"extra-large-text\">A megfelelő ellenőrzés nélkül egy hibás szerszám a szerszámtöréshez is vezethet, vagy akár a gépek károsodását is okozhatja. Ez viszont megszakítja a meglévő gyártási folyamatokat, csökkenti a gyártott alkatrészek számát és rövidíti a gyártóeszközök élettartamát – mindez olyan többletköltségeket jelent, amelyeket egy hatékonyan működő vállalkozás nem szeretne magára vállalni.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7959",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Minőségellenőrzés és kopáselemzés </h2>",
+   "body": "<p>Ezért érdemes a minőségellenőrzést és a kopáselemzést szisztematikusan beépíteni a vállalat munkameneteibe. A szerszámok ellenőrzése és minőségük mérése legyen része a mindennapi munkájának.</p> <p>Fontos, hogy a mérési eredményeket egyértelműen dokumentálják, és azokat az egyes szerszámokhoz és azok tárolási helyéhez rendeljék. Így biztosíthatja, hogy egy újraélezésre szoruló szerszámot valóban felújítsanak a következő használat előtt. Ez garantálja, hogy gépei mindig tökéletesen előkészített szerszámokkal működjenek.</p> <p>A szerszámok állapotának ellenőrzése és figyelemmel kísérése számos előnnyel jár. Fúrói és marószerszámai továbbra is teljes erővel és pontossággal működnek, vállalatának gyártási folyamatai ellenőrzés alatt maradnak, és Ön mindig szem előtt tarthatja szerszámai élettartamát – így szükség esetén időben gondoskodhat az utánpótlásról és a pótlásról.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/e/csm_csm_Werkzeug-3d-Optik-User-Hand-ZOLLER_3c28f0800c_254258e0fc.webp",
+     "alt": "",
+     "w": 1116,
+     "h": 1000
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7960",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Mérés és ellenőrzés a ZOLLER technológiájával </h2>",
+   "body": "<p>A ZOLLER mérő- és ellenőrző berendezései minden alkalmazási területen biztonságos és zökkenőmentes folyamatokat garantálnak. Működésük precíz, ismétlési pontosságú és a kezelőtől független. A megfelelő megoldással a szerszámfelügyelethez gazdaságos és teljesen automatikus mérést kínálunk az összes szerszámparaméterre vonatkozóan. Így 100%-osan bízhat abban, hogy gyártása hibátlan szerszámokkal működik.</p> <p>Mérő- és ellenőrző készülékeink elektronikus úton, konfigurációtól függően akár vezeték nélkül is továbbítják a szerszámok névleges és tényleges adatait. A megfelelő interfészek révén szinte minden, a csiszolási folyamatban részt vevő rendszerhez lehetséges a csatlakozás. A ZOLLER készülékek csatlakozási lehetőséget kínálnak ERP- vagy CAM-rendszerekhez, a raktárkezeléshez, valamint olyan gépgyártók rendszereihez, mint a NUMROTO, Anca, MTS, vagy a GDX 2.0 interfész.</p> <p><a class=\"btn\" href=\"/hu/termekek\">Itt mindent megtudhat a ZOLLER beállító, ellenőrző és mérőeszközeiről</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7961",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Rendszeres ellenőrzés </h2>",
+   "body": "<p>A szerszámfelügyelet révén a mérés pillanatában valós időben kap visszajelzést a szerszám állapotáról. Megfelelő-e a vágóélek geometriája, van-e kopás, fenyeget-e vágóél-törés? A precíziós szerszámok mérésével elkerülhető a munkadarabok károsodása, valamint a gyártási folyamatok vagy a termelési műveletek megszakadása.</p> <p>Természetesen a szerszámkezelés és a szerszámellenőrzés különböző aspektusai tovább is összekapcsolhatók. A ZOLLER ehhez egy központi adatbázison keresztül hálózatba kapcsolt megoldásokat kínál az <strong>intelligens </strong>gyárhoz, a Mérőtechnika 4.0-hoz.</p> <p>Nálunk minden gyártási lépéshez megtalálja a tökéletes megoldást a szerszámok ellenőrzésére és mérésére – a beérkező áru ellenőrzésétől a gyártáson át a végső ellenőrzésig. Természetesen a raktározási rendszerek és az automatizálási koncepciók is ide tartoznak.</p> <p><a class=\"btn\" href=\"/hu/megoldasok/ellenorzes-es-meres\">Tudjon meg többet a Mérőtechnika 4.0-ról</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7962",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Eszközkezelés: az Ön előnyei",
+     "caption": "<figcaption> <h3>Eszközkezelés: az Ön előnyei</h3> <p>Tudja meg, hogyan növeli a ZOLLER szerszámkezelési rendszere azonnal a termelékenységét! A szerszámadatoknak köszönhetően a folyamatok gyorsabban és biztonságosabban zajlanak – beleértve a gépei ütközésvédelmét is. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 szakértői beszélgetés",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 szakértői beszélgetés</h3> <p>Személyre szabott megbeszélés az Ön céljairól és az azok eléréséhez kapcsolódó ötleteinkről. A ZOLLER online tanácsadása közvetlenül a Smart Factory-ból. Foglaljon időpontot most! </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/hu/szerszamfigyeles",
+ "de_path": "/werkzeugueberwachung"
+}

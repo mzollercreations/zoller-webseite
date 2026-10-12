@@ -1,0 +1,446 @@
+{
+ "path": "/zarzadzanie-narzedziami",
+ "url": "/pl/zarzadzanie-narzedziami",
+ "title": "Zarządzanie narzędziami",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pl/strona-glowna"
+  },
+  {
+   "label": "Zarządzanie narzędziami",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pl/strona-glowna"
+  },
+  {
+   "label": "Zarządzanie narzędziami",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/tool-management",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-management",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/gestion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/gestion-des-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/gestao-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/gestione-degli-strumenti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verktygshantering",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/tool-management",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/gestion-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/tool-management",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/gestion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/gestao-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/5/b/csm_toolmanagement_header_ab8ef9c82c.webp",
+     "video": null,
+     "title": "Zarządzanie narzędziami – to coś więcej niż tylko zarządzanie narzędziami",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8115",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">Nowoczesne zarządzanie narzędziami obejmuje wiele aspektów – dotyczy to zarządzania danymi narzędziowymi, przechowywania, transportu oraz zamawiania narzędzi i części narzędziowych, ale przede wszystkim jednego: bardziej efektywnych i lepszych procesów roboczych.</p> <p class=\"extra-large-text\">Dzięki dobremu systemowi zarządzania narzędziami mają Państwo pełny wgląd we wszystkie etapy cyklu życia swoich narzędzi i kontrolę nad nimi – a także mogą Państwo samodzielnie decydować, na jakim poziomie szczegółowości i złożoności chcą Państwo zachować ten przegląd.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8116",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Zarządzanie narzędziami: magazynowanie, planowanie, kontrola </h2>",
+   "body": "<p>Zarządzanie narzędziami oznacza na przykład scentralizowane rejestrowanie i zarządzanie wszystkimi narzędziami oraz ich komponentami. W ten sposób zyskują Państwo i utrzymują przegląd nad posiadanymi narzędziami i komponentami, a także mogą zoptymalizować gospodarkę magazynową, planować i kontrolować wykorzystanie narzędzi – oraz zamawiać nowe narzędzia i komponenty dokładnie w odpowiednim momencie, zgodnie z zasadą „just-in-time”.</p> <p>Dzięki odpowiedniemu oprogramowaniu zyskują Państwo pełną przejrzystość co do tego, jak i gdzie wykorzystywane są Państwa narzędzia – i to w całym łańcuchu procesowym. Oznacza to również: lepszą kontrolę kosztów, zoptymalizowane procesy robocze oraz efektywniejsze wykorzystanie narzędzi.</p> <p>Zarządzanie narzędziami oznacza również, że wszystkie dane dotyczące narzędzi są zarządzane centralnie i – w idealnym przypadku – przekazywane bezpośrednio do systemów CAM za pośrednictwem odpowiednich interfejsów. Upraszcza to i skraca proces przezbrajania, sprawiając, że konfiguracja narzędzi przebiega szybciej i jest bardziej niezawodna.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/4/csm_tms_connected_3fe459a22a.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 900
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8117",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Oprogramowanie do zarządzania narzędziami, które spełnia Twoje potrzeby </h2>",
+      "body": "<p>Oprogramowanie TMS Tool Management Solutions firmy ZOLLER, o budowie modułowej, oferuje wszystkie funkcje i interfejsy, jakich można oczekiwać od nowoczesnego oprogramowania do zarządzania narzędziami.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c8119",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Doskonale zorganizowane",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Zarejestruj wszystkie pojedyncze komponenty, kompletne narzędzia i arkusze ustawień w jednej centralnej bazie danych.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8122",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Interfejsy bezstratne",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Dzięki licznym interfejsom można zintegrować system ZOLLER-TMS z posiadanymi systemami CAM – bezbłędna cyfrowa transmisja danych narzędzi pozwala zaoszczędzić czas, uniknąć kłopotów i obniżyć koszty.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8124",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Zarządzanie magazynem",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Każda część znajduje się na swoim miejscu – dzięki systemowi ZOLLER-TMS zawsze masz pełny przegląd lokalizacji swoich komponentów i narzędzi. Jednocześnie pozwala to na efektywne monitorowanie stanów magazynowych.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8126",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Monitorowanie narzędzi",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Zbierz w jednym miejscu dane dotyczące kontroli jakości i analizy zużycia, monitoruj wykorzystanie narzędzi oraz twórz statystyki dotyczące poszczególnych zleceń i poniesionych kosztów.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8128",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Przejrzystość i skuteczność",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Zintegruj swoje systemy administracyjne z procesami zamawiania, aby zawsze zamawiać potrzebne produkty dokładnie na czas. Zidentyfikuj problemy w procesie produkcyjnym i zapewnij płynny przebieg procesów.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8130",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c8120",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8118",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Oprogramowanie do zarządzania narzędziami jako kluczowy element zarządzania narzędziami </h2>",
+   "body": "<p>Nowoczesna logistyka narzędziowa jest właściwie nie do pomyślenia bez odpowiedniego oprogramowania do zarządzania. Dzięki odpowiedniemu programowi można zapewnić dostępność narzędzi na każdym etapie pracy, a czasochłonne poszukiwanie narzędzi staje się przeszłością. W Państwa wykazie narzędzi odnotowane jest bowiem, gdzie znajduje się każda pojedyncza część – a jeśli chcą Państwo, mogą Państwo skorzystać z inteligentnych szaf magazynowych (Smart Cabinets), aby mieć pewność, że naprawdę wszystko jest na swoim miejscu.</p> <h3>Dane narzędzi zawsze pod ręką</h3> <p>Zarządzanie narzędziami to jednak znacznie więcej niż tylko ich przechowywanie: system zawsze udostępnia odpowiednie dane narzędziowe lub ustawienia wstępne narzędzi i umożliwia szybkie oraz bezbłędne przesyłanie ich do systemów narzędziowych lub urządzenia do wstępnego ustawiania. Zapobiega to błędom, ogranicza ilość odpadów i przyspiesza procesy robocze.</p> <p>Niezależnie od tego, czy chodzi o narzędzia skrawające (zazwyczaj mówimy o „narzędziach do obróbki skrawaniem”, ale jeśli z punktu widzenia SEO lepsze jest określenie „narzędzia skrawające”, można również użyć tego terminu), czy też o urządzenia z zupełnie innej klasy narzędzi: W Państwa logistyce z pewnością istnieje jeszcze potencjał do poprawy, są możliwości optymalizacji – być może w zakresie wydawania narzędzi, systemu magazynowego lub wykorzystywanej bazy danych narzędzi.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/9/csm_digital_durchstarten_webTMS_16feff8d28.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8131",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Zarządzanie narzędziami: korzyści dla Państwa",
+     "caption": "<figcaption> <h3>Zarządzanie narzędziami: korzyści dla Państwa</h3> <p>Dowiedz się, jak Zarządzanie narzędziami firmy ZOLLER natychmiast zwiększa Twoją wydajność. Dzięki danych narzędzia procesy przebiegają szybciej i bezpieczniej – w tym z zabezpieczeniem przed kolizjami dla Twoich maszyn. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Indywidualna rozmowa z ekspertem",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>Indywidualna rozmowa z ekspertem</h3> <p>Indywidualna rozmowa, w której wymieniają się Państwo na temat Państwa celów i naszych pomysłów, jak je osiągnąć. Doradztwo online firmy ZOLLER bezpośrednio z „Smart Factory”. Umówcie się Państwo na spotkanie już teraz. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/pl/zarzadzanie-narzedziami",
+ "de_path": "/tool-management"
+}

@@ -1,0 +1,283 @@
+{
+ "path": "/ツールデータの送信",
+ "url": "/ja/%E3%83%84%E3%83%BC%E3%83%AB%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E9%80%81%E4%BF%A1",
+ "title": "ツールデータの送信",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ja/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8"
+  },
+  {
+   "label": "ツールデータの送信",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ja/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8"
+  },
+  {
+   "label": "ツールデータの送信",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/uebermittlung-werkzeugdaten",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/transfer-of-tool-data",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/transmision-de-datos-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/transmission-des-donnees-doutils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/transmissao-de-dados-da-ferramenta",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/trasmissione-dei-dati-utensile",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/oeverfoering-av-verktygsdata",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/uebermittlung-werkzeugdaten",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/transmission-of-tool-data",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/transmission-des-donnees-doutils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%84%E3%83%BC%E3%83%AB%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E9%80%81%E4%BF%A1",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/transmission-of-tool-data",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/transmision-de-datos-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/transmissao-de-dados-da-ferramenta",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/e/a/csm_toolmanagement_intro_e7e8908938.webp",
+     "video": null,
+     "title": "工具データの送信",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7948",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> いつでも安全かつ高速なデータ転送を保証する </h2>",
+   "body": "<p><strong>個々の生産要素間のデータ交換は、現代の工業生産において不可欠です。ZOLLERのソフトウェアソリューションにより、メーカーやプラットフォームに一切依存することなく、いつでも確実かつ迅速な工具データの転送が保証されます。</strong></p> <p>工具データ管理は複雑な作業です。すべてのシステムとコンポーネントのシームレスな連携は、「インダストリー4.0」において極めて重要ですが、決して当然のことではありません。なぜなら、異なるメーカーのシステムや機械が使用されており、それらがそれぞれ異なる伝送技術を採用しているケースが少なくないからです。そのため、デジタル支援があっても、工具管理はすぐに課題となります。</p> <p>DIN 4000 属性リスト構造などの標準規格は、異なるコンポーネント間の交換を可能にするために存在します。この DIN 規格により、個々のコンポーネントを規格に準拠して、つまり互換性のある形で定義することが可能になります。これにより、異なるシステム間（例えば CAD/CAM や NC シミュレーションなど）での円滑な情報交換が実現します。</p> <p>したがって、統一された標準化されたデータベースは、メーカーの枠を超えても確実に機能する自動工具データインポートの基盤となります。これは、データ転送時に遅延が生じないため重要であるだけでなく、遅延が発生すると機械が停止し、生産プロセスが中断され、作業工程が計画通りに実行できなくなるという事態を防ぐためにも重要です。</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7950",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> ツール管理ソフトウェアを活用し、ベンダーに依存しないデータ転送を実現する </h2>",
+   "body": "<p>特に、プリセット装置から機械（または複数の機械）へのデータ転送経路に関しては、現在、信頼性が高く高速な方法が数多く存在します。ZOLLERの測定装置用ソフトウェアは、メーカーを問わず、工具データの確実な転送を可能にしています。</p> <p>RFIDチップ、ポストプロセッサ（DNCシステム：Distributed Numerical Control）、あるいは上位の生産管理システムを介する場合であっても、当社はほぼあらゆる製造環境に適したデータ転送ソリューションを提供しています。 さらに、実データをデータマトリックスコードに暗号化し、CNC工作機械の制御装置に接続されたリーダーで読み取るという、非常に効率的な方法もあります。</p> <p>さらに良いことに、主要メーカーの工具データはクラウド上で利用可能な場合が多く、ZOLLERのソフトウェア「TMS Tool Management Solutions」を使用すれば、手間をかけずにマウスクリック一つで呼び出すことができます。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/f/csm_toolmanagement_01_ac672b9feb.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7951",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> TMS Tool Management Solutionsのその他の機能 </h2>",
+   "body": "<ul><li>ZOLLERの各製品間で、工具、個別コンポーネント、セットアップシート、アクセサリー、機械データなどをインポートおよびエクスポートする</li><li>プラットフォームおよびメーカーに依存しない工具データのインポートおよびエクスポート（必要に応じて読み込みフィルターまたはポストプロセッサを介して）</li><li>すべての工具データおよび工具リストへのモバイルアクセス</li><li>グラフィック、部品リスト、付属品リスト、および属性バーを備えた工具データ管理</li><li>実物の工具を識別し、そのデータを表示するためのコードスキャナー</li></ul><h4><strong>メリット：</strong></h4><ul><li>他社システムへのオプション接続</li><li>エラー防止によるプロセスの確実性</li><li>シンプルな構造による簡単かつ迅速な操作</li></ul><p>ZOLLER TMS ツール管理ソリューションの詳細はこちら</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7952",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "工具管理ソフト：そのメリット",
+     "href": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/toolmanagement",
+     "caption": "<figcaption> <h3>工具管理ソフト：そのメリット</h3> <p>ZOLLERの工具管理ソフトが、どのように生産性を即座に向上させるかをご覧ください。工具データを活用することで、プロセスがより迅速かつ安全に進行します。これには、お使いの機械のための衝突防止機能も含まれています。 </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1対1の専門家との面談",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1対1の専門家との面談</h3> <p>お客様の目標と、それに対する当社の提案について、個別に話し合う機会です。スマートファクトリーから直接お届けする、ZOLLERのオンラインコンサルティング。今すぐご予約ください。 </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ja/ツールデータの送信",
+ "de_path": "/uebermittlung-werkzeugdaten"
+}

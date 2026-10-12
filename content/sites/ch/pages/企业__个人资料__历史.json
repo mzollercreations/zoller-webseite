@@ -1,0 +1,814 @@
+{
+ "path": "/企业/个人资料/历史",
+ "url": "/ch/%E4%BC%81%E4%B8%9A/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99/%E5%8E%86%E5%8F%B2",
+ "title": "ZOLLER历史",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "关于ZOLLER /",
+   "href": "/ch/%E4%BC%81%E4%B8%9A"
+  },
+  {
+   "label": "企业概况 /",
+   "href": "/ch/%E4%BC%81%E4%B8%9A/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99"
+  },
+  {
+   "label": "ZOLLER历史",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "关于ZOLLER /",
+   "href": "/ch/%E4%BC%81%E4%B8%9A"
+  },
+  {
+   "label": "企业概况 /",
+   "href": "/ch/%E4%BC%81%E4%B8%9A/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99"
+  },
+  {
+   "label": "ZOLLER历史",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/profil/historie",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/profile/history",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/profil/historia",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/profil/historie",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/history",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/profil/historique",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/%E6%B2%BF%E9%9D%A9",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84/%EC%97%B0%ED%98%81",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/profile/history",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/perfil/historia",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/perfil/historia",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "timeline",
+   "heads": {
+    "772": {
+     "year": "1945",
+     "label": "回归与新起点"
+    },
+    "773": {
+     "year": "1948",
+     "label": "成长与变化"
+    },
+    "774": {
+     "year": "1958",
+     "label": "全球首创"
+    },
+    "775": {
+     "year": "1968",
+     "label": "快速入门"
+    },
+    "776": {
+     "year": "1969",
+     "label": "量产"
+    },
+    "777": {
+     "year": "1976",
+     "label": "首款数控调整装置"
+    },
+    "778": {
+     "year": "1977",
+     "label": "领先于时代"
+    },
+    "779": {
+     "year": "1981",
+     "label": "刀具工艺软件"
+    },
+    "780": {
+     "year": "1982",
+     "label": "ZOLLER 迁址弗莱贝格"
+    },
+    "781": {
+     "year": "1983",
+     "label": "ZOLLER 树立行业标杆"
+    },
+    "782": {
+     "year": "1985",
+     "label": "Power Brain 取代 Tool Brain"
+    },
+    "783": {
+     "year": "1988",
+     "label": "屡获殊荣的设计"
+    },
+    "784": {
+     "year": "1989",
+     "label": "对每位操作员而言，精度可达微米级"
+    },
+    "785": {
+     "year": "1991",
+     "label": "用手指代替鼠标"
+    },
+    "786": {
+     "year": "1992",
+     "label": "ZOLLER首款刀具检测设备"
+    },
+    "787": {
+     "year": "1993",
+     "label": "最艰难的决定"
+    },
+    "788": {
+     "year": "1994",
+     "label": "看板系统推出"
+    },
+    "789": {
+     "year": "1995",
+     "label": "»smartCheck«时代拉开序幕"
+    },
+    "790": {
+     "year": "1996",
+     "label": "新的软件解决方案"
+    },
+    "791": {
+     "year": "1997",
+     "label": "向西进发"
+    },
+    "792": {
+     "year": "1998",
+     "label": "检测和测量领域的最新动态"
+    },
+    "793": {
+     "year": "1999",
+     "label": "»lasso« 捕捉轮廓"
+    },
+    "794": {
+     "year": "2000",
+     "label": "新的不同之处：»smile«"
+    },
+    "795": {
+     "year": "2001",
+     "label": "经认证的环境管理体系"
+    },
+    "796": {
+     "year": "2002",
+     "label": "刀具热缩专家：»redomatic«"
+    },
+    "797": {
+     "year": "2003",
+     "label": "借助 »genius« 3« 看得更清楚"
+    },
+    "798": {
+     "year": "2004",
+     "label": "退休计划泡汤"
+    },
+    "799": {
+     "year": "2005",
+     "label": "60年后设备盘点"
+    },
+    "800": {
+     "year": "2006",
+     "label": "»pilot 3.0«"
+    },
+    "801": {
+     "year": "2007",
+     "label": "»pilot elephant«：无需专业知识即可测量"
+    },
+    "802": {
+     "year": "2008",
+     "label": "迁址普莱德尔斯海姆"
+    },
+    "803": {
+     "year": "2010",
+     "label": "ZOLLER在日本"
+    },
+    "804": {
+     "year": "2011",
+     "label": "使用 ZOLLER 进行刀具管理"
+    },
+    "805": {
+     "year": "2012",
+     "label": "»»titan««"
+    },
+    "806": {
+     "year": "2013",
+     "label": "测量列再添新成员"
+    },
+    "807": {
+     "year": "2014",
+     "label": "通过自动化提升效率"
+    },
+    "808": {
+     "year": "2016",
+     "label": "»smile« 和 »venturion« 的更新"
+    },
+    "809": {
+     "year": "2017",
+     "label": "对刀具表面的精确分析"
+    },
+    "810": {
+     "year": "2018",
+     "label": "总部位于安阿伯"
+    },
+    "811": {
+     "year": "2020",
+     "label": "新建项目，包含智能工厂和培训学院"
+    },
+    "812": {
+     "year": "2021",
+     "label": "制造领域的刀具自动化"
+    },
+    "813": {
+     "year": "2022",
+     "label": "平衡与热缩领域的创新"
+    },
+    "814": {
+     "year": "2023",
+     "label": "自动化门户解决方案"
+    },
+    "815": {
+     "year": "2024",
+     "label": "新型测量机"
+    },
+    "816": {
+     "year": "2025",
+     "label": "»pom«系列的全面升级"
+    }
+   },
+   "items": [
+    {
+     "id": "772",
+     "html": "19<br/> 45 <h1>回归与新起点</h1> <p>阿尔弗雷德·卓勒从柏林回到路德维希堡。此前九年，他作为首席机械师被派往希尔特航空发动机公司工作。 9月1日，阿尔弗雷德·卓勒在路德维希堡的博根街（Bogenstraße）创办了自己的机械修理厂。此时距离第二次世界大战结束还不到四个月。创业条件因此异常艰难。一方面需要维修的设备很多，另一方面工具、材料和机器却十分短缺。 </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/8/csm_1945_01_0487a6b9c4.webp\" width=\"600\"/> <p>阿尔弗雷德·佐勒</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/0/csm_1945_02_240d6e6568.webp\" width=\"600\"/> <p>路德维希堡的弧形街道</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/d/csm_1945_03_bb9b277f52.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/6/csm_1945_04_f1fa6af766.webp\" width=\"600\"/> <h4>钢笔、打火机、消防水枪</h4> <p>阿尔弗雷德·卓勒修理发动机、消防水枪、儿童玩具、钢笔，以及人们送来给他修理的各种物品。此外，他还修复损坏的机器。这些机器是他自己制造产品的基础。</p> <p>他用车床制作的铝制打火机尤其畅销。随着时间的推移，美军士兵逐渐成为他最重要的客户。他们主要用香烟、花生酱或巧克力来支付打火机的费用。</p>",
+     "img": null
+    },
+    {
+     "id": "773",
+     "html": "19<br/> 48 <h3>成长与变化</h3> <p>阿尔弗雷德·卓勒的公司已在路德维希堡成功立足。过去三年里，这家小企业不断发展壮大，员工人数也在增加。博根街的办公场所已显局促。因此，车间将迁址至夏洛滕街。 </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/4/csm_1948_01_3e7d4e5914.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/3/csm_1948_02_cd124cd83d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/1/csm_1948_03_ddef5d6539.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/b/csm_1948_04_35d2f43c2e.webp\" width=\"600\"/> <h4>刀柄及后续发展</h4> <p>ZOLLER作为机械师的成就广为流传。该公司获得授权生产车床用刀架，并通过多家经销商进行销售。这是ZOLLER历史上首批刀具解决方案。由此，阿尔弗雷德·卓勒成功打入了车削刀具和车床行业。 </p> <p>随后，又收到了来自机床制造商的更多订单。阿尔弗雷德·卓勒受托制造用于调整车削刀具的金属模板。 </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/4/csm_1948_01_3e7d4e5914.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "774",
+     "html": "19<br/> 58 <h3>全球首创：ZOLLER车削刀具预调仪</h3> <p>客户提出，如果有一款用于车削刀具的预调装置，将能显著提升生产效率。富有创意的施瓦本人卓勒（ZOLLER）采纳了这一想法，并开发出一款用于刀具预调的万用画图仪。 </p> <p>严格来说，万用画板是一种绘图工具。但卓勒巧妙地将其与显微镜结合，将其机制应用于刀具调整。这是全球首款能够让机操作员根据技术图纸对所有车削刀具进行外部预调的设备。 </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/b/csm_1958_01_a451fe7896.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/0/csm_1958_02_ad7853d944.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/d/b/csm_1958_01_a451fe7896.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "775",
+     "html": "19<br/> 68 <h3>快速入门 </h3> <p>阿尔弗雷德·卓勒的儿子埃伯哈德·卓勒于4月8日加入公司。这位年轻的机械工程师此前在海德堡印刷公司工作，该公司是大型印刷机的专业制造商。但父亲的健康状况要求他立即采取行动。 “我在海德堡印刷公司过得很愉快。那家是德国最现代化的企业之一。但我加入父亲的公司时，连一秒钟的犹豫都没有，”埃伯哈德·卓勒回忆道。他的第一项任务是：进一步改进预调和测量设备。 </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/6/csm_1968_01_6f0f9a1511.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/6/csm_1968_02_8f0be66930.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/7/csm_1968_03_c3382b902c.webp\" width=\"600\"/> <h4>更名</h4> <p>由于业务重心进一步转化到设备和刀柄领域，公司决定更改名称。在汉诺威工业博览会上，公司以“ALFRED ZOLLER 机械与夹具制造”的名义参展。 </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/6/csm_1968_01_6f0f9a1511.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "776",
+     "html": "19<br/> 69 <h3>量产</h3> <p>由阿尔弗雷德·卓勒发明、埃伯哈德·卓勒进一步改进的预调设备开始批量生产。这家最初作为机械作坊创立的企业，逐渐转型为机械制造企业。截至年底，已售出30多台设备。 </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/7/csm_1969_01_2d454117fb.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/7/csm_1969_01_2d454117fb.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "777",
+     "html": "19<br/> 76 <h3>首款数控调整装置</h3> <p>刀具调整彼时仍需人工操作。因此，ZOLLER一直在探索如何实现刀具自动移动至调整位置。全球首款数控调整装置正式面世：ZOLLER H 4000。</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/e/csm_1976_03_cded673504.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/4/csm_1976_02_d7b5b5374d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/b/csm_1976_01_5e9cfdb9f4.webp\" width=\"600\"/> <h4>国王到访</h4> <p>ZOLLER 正在斯德哥尔摩参加一场机床展。这家来自路德维希堡的企业显然享有极高的声誉，甚至传到了最高层。 出口伙伴国的国王卡尔·古斯塔夫亲临 ZOLLER 的展台。他想了解ZOLLER精密技术究竟有何特别之处。</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/e/csm_1976_03_cded673504.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "778",
+     "html": "19<br/> 77 <h3>领先时代：借助 Basic 打造数字化配置表 </h3> <p>对于埃伯哈德·卓勒而言，软件在生产流程中日益重要只是时间问题。毫无疑问，卓勒公司应当为此开发解决方案。于是，这位卓勒公司的掌门人果断自学了Basic编程，并在汉诺威国际工业博览会上展示了首份数字化设置表。 该产品一经推出便引起了巨大的反响。ZOLLER 随即面临一个难题：无法交付。这位老板原本只是将该程序视为一个概念草图。但种子已经播下。埃伯哈德·卓勒开始招聘程序员。</p>",
+     "img": null
+    },
+    {
+     "id": "779",
+     "html": "19<br/> 81 <h3>刀具工艺软件</h3> <p>埃伯哈德·卓勒希望能够将刀具管理中的更多需求数字化呈现。1981年，卓勒推出了其首款刀具管理软件：Tool Brain。</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/d/csm_1981_01_96ddb65e12.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/b/csm_1981_02_f5b5db0122.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/6/d/csm_1981_01_96ddb65e12.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "780",
+     "html": "19<br/> 82 <h3>ZOLLER 迁址弗莱贝格</h3> <p>公司即将进行下一轮搬迁，因为路德维希堡的现有场地已无法满足ZOLLER的业务增长需求。ZOLLER正在弗赖贝格（Freiberg a.N.）新建厂房，以此为生产、研发和管理部门对准未来的发展创造最佳条件。 </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/e/csm_1982_01_55ec0d8af2.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_1982_02_8738e9d4cd.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/e/csm_1982_01_55ec0d8af2.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "781",
+     "html": "19<br/> 83 <h3>ZOLLER 树立了预调设备的行业标准</h3> <p>配备数字显示屏和D150毫米投影仪的手动预调装置H 1000风靡市场。它是当时数控控制车床上应用最广泛的预调装置。此外，ZOLLER首款立式型号V 1500也正式上市。 </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/b/csm_1983_01_cda21bfcaf.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/b/csm_1983_01_cda21bfcaf.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "782",
+     "html": "19<br/> 85 <h3>Power Brain 取代 Tool Brain</h3> <p>ZOLLER 准确把握了数字化刀具管理的重要性，并继续推进了 Tool Brain 软件的开发。该软件的首个扩展版本于 1985 年问世：Power Brain。这为后来 TMS 刀具管理解决方案的诞生奠定了基础。 </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/4/csm_1985_01_b58799cdf1.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/e/csm_1985_02_365ef2e25f.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/4/csm_1985_01_b58799cdf1.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "783",
+     "html": "19<br/> 88 <h3>设计、人体工学与操作体验均获殊荣</h3> <p>埃伯哈德·卓勒（Eberhard Zoller）特别重视人体工学设计、简便的操作以及模块化结构。对他而言，这些是具有附加价值的决定性特征，能让ZOLLER在市场上脱颖而出。为此，他委托重新开发了V型和H型设备系列，旨在使其更好地满足上述标准。 </p> <p>ZOLLER 为该系列配备了诸多创新功能，例如单手操作手柄和无级微调装置。这些设计使操作变得更加便捷舒适。 该公司首次与工业设计师展开合作。这一投入物有所值：这些设备荣获了HiF国际工业设计奖，并被评为“最佳中的最佳”。</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/2/csm_1988_01_fa494a9b49.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/3/csm_1988_02_3a8ac45faa.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/7/csm_1988_03_967f0da541.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/4/csm_1988_04_0d0d8359a6.webp\" width=\"600\"/> <h4>国际化推动销量增长</h4> <p>国际销售活动日益活跃，定位和测量设备的年销量攀升至600台。公司在法国、奥地利和瑞士设立了分支机构，并拥有众多代理商。ZOLLER-Austria在成立仅十年后便已成为奥地利市场的领导者。</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_1988_01_fa494a9b49.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "784",
+     "html": "19<br/> 89 <h3>对每位操作员而言，精度可达微米级</h3> <p>ZOLLER 再创技术里程碑：电子 PET 投影仪首次应用于数控控制调校设备。由此，ZOLLER 成为全球首家提供该系统的制造商，该系统可实现不受操作人员影响、重复性达微米级精度的测量。</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/f/csm_1989_01_9d8f692b54.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/9/csm_1989_02_a7e3a3b9a2.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/f/csm_1989_01_9d8f692b54.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "785",
+     "html": "19<br/> 91 <h3>用手指代替鼠标</h3> <p>ZOLLER 为其设备带来了更便捷的操作体验。得益于全新的 TS 20 和 TS 40 电子控制系统，触摸屏首次得以应用，使得通过鼠标点击进行软件操作几乎变得不再必要。 </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/2/csm_1991_01_1336facf94.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/2/csm_1991_01_1336facf94.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "786",
+     "html": "19<br/> 92 <h3>ZOLLER首款刀具检测设备 </h3> <p>为满足模具制造商和磨削车间的高标准要求，ZOLLER 开发了一款专业测量设备，其精度卓越且功能更为丰富。 首台设备名为 H321S，将交付给位于施瓦本地区的邻近企业 — 图宾根的 Walter 公司。该设备集成了全新 GeoTool 软件，并支持与 CNC 磨床的数据传输。</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/c/csm_1992_01_256c6efd73.webp\" width=\"600\"/> <h4>1992/93年经济危机 — 销量在数月内骤降 </h4> <p>然而，这股热情却遭遇了打击。就在FAMETA '92展会举行期间，汽车行业宣布将裁员数万人。经济危机的冲击波席卷而来，对ZOLLER产生了深远的影响。 “截至9月，我们平均每月能接到约50台预调和测量设备订单，”埃伯哈德·卓勒回忆道。“到了12月，这个数字只剩下4台了。” </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/c/csm_1992_01_256c6efd73.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "787",
+     "html": "19<br/> 93 <h3>最艰难的决定</h3> <p>1992年圣诞假期期间，埃伯哈德·卓勒不得不做出其职业生涯中最艰难的决定之一。1993年，卓勒公司关闭了内部零部件生产部门。由于生产业务外包，许多员工因此失业。 </p> <p>埃伯哈德·卓勒表示：“这对员工来说很艰难，对我来说也很艰难。我们曾拥有一个实行两班制的现代化生产车间。我们可以给机器装上零件，甚至让机器在夜间无人值守的情况下继续运转。这一切现在都结束了。”</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/7/csm_1993_01_3b720306c3.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_1993_02_b47ef20774.webp\" width=\"600\"/> <h4>AWV — 获得专利的图像处理技术</h4> <p>在汉诺威EMO展会上，ZOLLER首次展示了自主研发并获得专利的AWV图像处理技术。由于AWV能够以卓越的效果可视化呈现刀具的测量数据，ZOLLER因此获得了国际上的广泛关注。AWV为基于图像处理和光学技术的工业测量技术奠定了基础。</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/5/7/csm_1993_01_3b720306c3.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "788",
+     "html": "19<br/> 94 <h3>看板系统推出</h3> <p>ZOLLER迎来了第三代接班人。埃伯哈德·卓勒（Eberhard Zoller）的长子克里斯托夫·卓勒（Christoph Zoller）正式加入ZOLLER团队。他的首个项目是通过在零部件仓库引入看板（KANBAN）系统来优化组织架构。 这是提高效率的重要台阶，使ZOLLER能够在14天内向客户交付产品组合中的任何预调和测量设备。 </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/f/csm_1994_01_19b5d93249.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/2/csm_1994_02_116316a436.webp\" width=\"600\"/> <h4>ZOLLER 软件在 Windows 系统上的应用</h4> <p>在斯图加特举办的 AMB 展会上，ZOLLER 首次展示了基于 Windows 操作系统的 »Multivision« 软件。同时，首款用于模具制造行业、专门测量电极的测量设备 »V321combi« 也正式亮相。 </p> <p>新开发的»hyperion«产品系列以及全新的bravo 1/2/3系列正式上市。</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/f/csm_1994_01_19b5d93249.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "789",
+     "html": "19<br/> 95 <h3>»smartCheck«时代拉开序幕 </h3> <p>专为刀具制造商和磨削企业设计的H321S设备迎来继任者。»smartCheck«面世，届时将配备可旋转的反射光相机和»screenMachine«软件。</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/2/csm_1995_01_2c911ae657.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/2/csm_1995_01_2c911ae657.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "790",
+     "html": "19<br/> 96 <h3>新的软件解决方案</h3> <p>在首次发布仅三年后，ZOLLER 便向客户推出了进一步升级的图像处理软件 »AWV III«。设备的新版控制软件»saturn«也同步亮相。 </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/d/csm_1996_01_9278eff800.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/f/csm_1996_02_928584a655.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/8/d/csm_1996_01_9278eff800.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "791",
+     "html": "19<br/> 97 <h3>进军西部 — ZOLLER在美国设立分公司 </h3> <p>直到1997年，ZOLLER一直委托外部代理商负责美国市场的业务。成效平平。1992年，克里斯托夫·卓勒（Christoph Zoller）在参观了芝加哥IMTS展会后，决定在美国设立一家ZOLLER分公司。 选址位于密歇根州安阿伯市，距昔日的美国汽车之都底特律以西约60公里。ZOLLER Inc. 逐渐发展成为重要的业务据点，如今除了服务美国客户外，还为加拿大和墨西哥的客户提供支持。</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/3/csm_1997_01_a08b653023.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/0/csm_1997_02_60f63602df.webp\" width=\"600\"/> <h4>手动测量变得更加简单</h4> <p>“E-Magix”是专为 ZOLLER 手动设备开发的新型图像处理系统。 借助该系统，这些预调和测量设备也能实现不受操作人员影响且精度达微米的测量。预算有限的 ZOLLER 客户因此也能从自动测量图像处理技术中获益。 </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/3/csm_1997_01_a08b653023.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "792",
+     "html": "19<br/> 98 <h3>检测和测量领域的最新动态</h3> <p>在奥格斯堡举办的首届精密刀具制造商专业展会上，ZOLLER展示了其刀具检测和测量产品系列。其中，»V420 premium«、»V420 profi« 以及搭载图像处理技术的 »V420 magnum« 型号尤为引人注目。</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/8/csm_1998_01_3d21d4534b.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/5/csm_1998_02_889c862a76.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/9/csm_1998_03_be2a6c4d07.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/8/csm_1998_01_3d21d4534b.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "793",
+     "html": "19<br/> 99 <h3>»lasso« 捕捉轮廓</h3> <p>一款软件在业内引起了轰动：»lasso«首次实现了在预调和测量设备上对螺旋状刀具进行全自动扫描。此外，该软件还能通过基于DXF标称轮廓的公差范围进行目标值与实际值对比，以微米级精度分析形状和轮廓。 所谓的“松树”形状曾备受青睐 — 特别是在航空航天领域。 </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/4/csm_1999_01_387ee1601f.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/0/csm_1999_02_efda5ebf67.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/4/csm_1999_01_387ee1601f.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "794",
+     "html": "20<br/> 00 <h3>新的不同之处：»smile«</h3> <p>随着»smile«系列的推出，ZOLLER用于手动预调和测量设备的透射式投影仪已彻底成为历史。当竞争对手在Intertool展会上将配备投影仪的设备作为新品展示（尽管其来源不同）时，作为创新引领者的ZOLLER再次领先市场数个身位。 </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/0/csm_2000_01_92bdc20f46.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/7/csm_2000_02_3a12cc2553.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/0/csm_2000_01_92bdc20f46.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "795",
+     "html": "20<br/> 01 <h3>经认证的环境管理体系</h3> <p>ZOLLER 高度重视环境保护。因此，该公司已通过 DIN EN ISO 14001 认证。这标志着其企业环境管理体系已正式实施，并因该认证而获得国际认可。</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/7/csm_2001_00_fcecf51b1d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/c/csm_2001_01_fbfed3b0ab.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/3/csm_2001_02_96ed611f19.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/2/csm_2001_03_a6c71d07ca.webp\" width=\"600\"/> <h4>检测专家：»genius«</h4> <p>ZOLLER 通过 »genius« 测量设备和检测设备进一步扩展了其预调和测量设备技术。 该设备配备了 5 条数控轴和自动反射光测量功能。因此，ZOLLER 也能满足那些希望自动采集切削刃多项参数并高精度检测刀具质量的客户需求：包括刀具制造商和磨削厂。 </p> <p>在汉诺威EMO展会上，ZOLLER还将展示更多新研发的技术亮点： »ace« 通用主轴、»phoenix« 尖端间夹紧与预调和测量系统、专为刀头设计的座式预调和测量设备 »zenit«，以及用于曲轴铣刀的全自动测量设备 »gemini«。</p> <h4>第二位三代领导人</h4> <p>埃伯哈德·卓勒（Eberhard Zoller）的小儿子亚历山大·卓勒（Alexander Zoller）于9月加入公司。此前，他曾在职业学院和卓勒公司完成了双元制教育。</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/7/csm_2001_00_fcecf51b1d.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "796",
+     "html": "20<br/> 02 <h3>刀具热缩专家：»redomatic«</h3> <p>第一份关于开发一种能够对刀具进行热缩、拆卸、预调和测量的设备的订单已经到手。现在缺的，是合适的解决方案。 在驱车前往瑞士拜访客户途中，埃伯哈德·卓勒（Eberhard Zoller）与开发人员克里斯蒂安·普福（Christian Pfau）讨论了潜在的技术方案。这次邻国之行不虚此行。归来后，设计方案已然成型 — 至少在他们脑海中。顺便一提，两人还向瑞士售出了三台»genius«设备。 </p> <p>»redomatic« — 这款采用感应刀具热缩技术的新型预调和测量设备，在斯图加特的AMB展会上亮相。 这仅是ZOLLER刀具热缩技术的开端。在同期于美国举办的IMTS展会上，ZOLLER展示了全自动版本»roboToSet«，并演示了如何将Schunk-TRIBOS多边形夹紧技术与V系列调整和测量设备相结合。</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/a/csm_2002_00_95db9b4435.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_2002_01_1d3c5d8d2f.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/a/csm_2002_00_95db9b4435.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "797",
+     "html": "20<br/> 03 <h3>借助 »genius« 3« 看得更清楚</h3> <p>ZOLLER 在 »genius 3« 测量机中搭载了新型光学系统，并推出了 »genius Mikro« 机型。»hyperion«系列设备配备了全新光学支架并集成 DME 相机、旋转装置和光学快速调节功能，为刀具调整提供了更多可能性。</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/d/csm_2003_00_913135cae6.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/8/csm_2003_01_2bdaa4001e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/1/csm_2003_02_de3551a3c4.webp\" width=\"600\"/> <h4>ZOLLER Iberica</h4> <p>ZOLLER Iberica 正式成立。至此，ZOLLER 已在葡萄牙和西班牙两个新市场建立了本地业务。 </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/d/csm_2003_00_913135cae6.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "798",
+     "html": "20<br/> 04 <h3>退休计划泡汤</h3> <p>卓勒公司（ZOLLER）扩充了管理层，亚历山大·卓勒（Alexander Zoller）和克里斯托夫·卓勒（Christoph Zoller）加入其中。计划是：克里斯托夫·卓勒将从美国返回，在弗莱贝格（Freiberg a.N.）承担更多工作。 埃伯哈德·卓勒将基本退出日常运营，因为这位老总早已为退休生活养了一只狗。他的计划是：遛狗，并更多地照顾这只宠物的。但事情的发展却出乎意料。</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/1/csm_2004_00_cb56fd1d1e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/b/csm_2004_01_51b4876229.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/5/csm_2004_02_cb9a1f217b.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/5/csm_2004_03_ad74b64e11.webp\" width=\"600\"/> <h4>进军中国 </h4> <p>克里斯托夫·卓勒从美国出发，进军中国和印度市场。毕竟，这些增长型市场需要一家卓勒分公司。说干就干。 他在上海和浦那各开设了一家分支机构。弟弟亚历山大则调往美国，接管美国业务并进一步拓展分支机构。而埃伯哈德·卓勒呢？他依然每天去公司上班 — 身边还带着他的爱犬。</p> <h4>在任何切削位置进行测量</h4> <p>借助 ZOLLER »aralon«，首次实现了对带内切刃的曲轴铣刀在所有切削位置进行全自动测量。用于测量刀头的测量设备 »zenit« 新增了一个带气动夹紧潜入式主轴的门式尾座。</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/f/1/csm_2004_00_cb56fd1d1e.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "799",
+     "html": "20<br/> 05 <h3>60年后设备盘点</h3> <p>在ZOLLER，公司创始人阿尔弗雷德·卓勒（Alfred Zoller）所倡导的价值观至今仍深刻影响着企业的内在精神：迅速应对变化、持续推进创新，并始终保持对客户需求的精度倾听。 </p> <p>国际客户以信任回报了这种工作方式：自阿尔弗雷德·卓勒推出第一台设备以来，截至2005年底，ZOLLER已售出约20,000台预调和测量设备。</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/1/csm_2005_00_fdd8ab8f6d.webp\" width=\"600\"/> <h4>全自动刀具检测</h4> <p>»genius 3« 测量机经过进一步升级，首次实现了全自动检测。作为 »genius 3 sx« 型号，它能够无人值守地测量装载在刀库中的 75 把不同类型的刀具。 </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/1/csm_2005_00_fdd8ab8f6d.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "800",
+     "html": "20<br/> 06 <h3>高端设备软件：»pilot 3.0«</h3> <p>设备软件»saturn«迎来了继任者 — »pilot 3.0«，它采用全新架构，并拥有针对人机界面（MMI）进行优化的现代化界面。 </p> <p>ZOLLER由此在全球范围内树立了统一软件概念的新标杆，该概念涵盖了定位和测量设备、测量机、图像处理以及刀具管理（包括数据存储和接口）。»pilot 3« 是便捷操作和超高速图像处理的终极解决方案。 </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/7/csm_2006_00_d45da2d636.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/5/csm_2006_01_5b3b85a630.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/2/csm_2006_02_b88e48a4ae.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/9/csm_2006_03_b2dcfb6a42.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/7/csm_2006_00_d45da2d636.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "801",
+     "html": "20<br/> 07 <h3>»pilot elephant«：无需专业知识即可测量</h3> <p>在ZOLLER，我们秉持这样的理念：测量必须简单易行。通过辅助软件»pilot elephant«，无论谁操作ZOLLER设备，都能以微米级精度测量刀具 — 无需数据输入，也无需操作经验。 无论操作预调和测量设备的是经验丰富的切削专家，还是暑期工，都可完成。在 ZOLLER 内部，这项功能被誉为“蒸汽锤”。 </p> <p>在EMO展会上，ZOLLER展示了如何进一步优化其成功的测量机»genius«。»genius«已配备»pilot 3«，拥有一条额外的轴和一个新的微型传感器。这使得精度更高，并能够对表面进行角度测量 — 透明材料也不例外。 </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/1/csm_2007_00_d5ee02dddf.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/2/csm_2007_01_2e3104732a.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/1/csm_2007_00_d5ee02dddf.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "802",
+     "html": "20<br/> 08 <h3>迁址普莱德尔斯海姆</h3> <p>经过25年的发展，位于弗莱贝格（Freiberg a.N.）的公司总部已显局促。ZOLLER搬迁至约4公里外的内卡河对岸 — 普莱德尔斯海姆（Pleidelsheim）。</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/1/csm_2008_00_afd72ac2c5.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/0/csm_2008_01_bb00de4a3d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/f/csm_2008_02_08fa1ae800.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/f/csm_2008_03_678beb8dc2.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/1/csm_2008_00_afd72ac2c5.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "803",
+     "html": "20<br/> 10 <h3>ZOLLER在日本</h3> <p>在拥有数百万人口的大阪，ZOLLER开设了其日本分公司。这家位于普莱德尔斯海姆的中型企业正逐步开拓这一重要市场。随后，长野和横滨也相继设立了办事处。</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/f/csm_2010_00_93381b4b80.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/2/csm_2010_01_6ac9a7367e.webp\" width=\"600\"/> <h4>»venturion«系列拥有更大的Z轴空间</h4> <p>»venturion800« 系列调节和测量设备在 Z 方向获得了更大的空间。根据需求，现在可提供 1,400 毫米和 1,600 毫米的测量长度。首台设备将交付给美国的 ZF-Windpower 公司。</p> <h4>首款虚拟测量设备</h4> <p>软件领域也有新进展：»caz«（计算机辅助 ZOLLER）仿真软件。 这是一款虚拟测量设备，可在模具设计阶段利用 3D 模型对测量流程进行模拟。»caz«已集成至 »Pilot« ，因此设计人员可将已完成的测量程序传输至 ZOLLER 设备。 </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/f/csm_2010_00_93381b4b80.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "804",
+     "html": "20<br/> 11 <h3>使用 ZOLLER 进行刀具管理</h3> <p>在生产中使用刀具管理软件的企业，能够拥有结构化的刀具数据。ZOLLER 推出了 TMS 刀具管理解决方案软件，从而在数字化刀具管理与来自调校仪、测量设备及检测机的测量数据之间架起了桥梁。数据与数据管理正日益融合。</p> <h4>快速、贴近工艺的测量</h4> <p>ZOLLER 推出 »pomSkpGo«。这是首款用于测量切削刃预备的便携式测量设备。ZOLLER 借此将灵活性与高精度融合于一体。 这标志着对准面向贴近工艺测量设备的开端。这些设备适用于在收货时进行快速、精确的手动测量，或是在磨床旁进行刀具检查。</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/0/csm_2011_00_3b26f621ab.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/d/csm_2011_01_32ad31d9b5.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/4/csm_2011_02_63b4fd55b9.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/3/csm_2011_03_692d824123.webp\" width=\"600\"/> <h4>产品组合随着专用应用的拓展而不断扩大</h4> <p>另一项新举措：六款针对特殊刀具类型的高端专业设备。客户可使用 »hobCheck« 和 »pomZenit« 对滚刀进行测量。 若需测量锯片，可选用 »sawCheck«；»millCheck« 适用于平面刀头；»pomZenit« 适用于角刀头；而 »hobCheck800« 则可用于测量装有可转位刀片的滚刀。 </p> <p>针对发动机制造领域的客户，ZOLLER将其卓越的测量技术应用于曲轴铣刀的测量与校正。相关解决方案为»eQuick200«和»eQuick 300«。</p> <p>刀具制造和模具制造领域的需求也日益受到关注。ZOLLER推出了»smile EDM系统«，并为此开发了一个配备长度规、图形化用户界面以及附加计算方法的专用模块。</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/0/csm_2011_00_3b26f621ab.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "805",
+     "html": "20<br/> 12 <h3>技术可行性标杆：»titan«</h3> <p>»titan«测量与检测机是»genius«系列的最新成员。这款设备是一款全自动高端解决方案，配备多达7条数控轴，可对精密刀具进行微米级精度检测，包括切削刃修整。 »titan« 是重达 1,400 公斤的测量巨无霸。它能在生产现场从容不迫地完成精密测量任务。</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/d/csm_2012_00_c6b0ad0be7.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/2/csm_2012_01_7dd3291b48.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/b/csm_2012_02_d7d56b35ec.webp\" width=\"600\"/> <h4>铰刀专家 </h4> <p>除通过图像处理对铰刀进行预调和测量的全面解决方案外，ZOLLER 还为 »reamCheck« 设备配备了电子双触点。</p> <h4>ZOLLER在英国和印度尼西亚</h4> <p>12 月，ZOLLER 在英国设立了分公司。如今，ZOLLER 英国团队的总部设在德比郡宁静的福斯顿镇。该地几乎位于伯明翰、谢菲尔德和曼彻斯特构成的三角区的中心。 同年，ZOLLER 在印度尼西亚开设了办事处。 </p> <p>截至年底，全球售出的预调和测量设备总量已攀升至 30,000 多台。 </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/d/csm_2012_00_c6b0ad0be7.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "806",
+     "html": "20<br/> 13 <h3>测量列再添新成员</h3> <p>»threadCheck« 测量机通过自动测量和检测螺纹刀具，完善了检测产品组合。 </p> <p>新款 »3dCheck«设备基于 »genius« 平台，但提供了更多附加功能。 它顺应了刀具数字孪生及工件数字化日益增长的趋势。这款六轴测量机不仅能进行精确的刀具检测，还能基于单个刀具生成3D数字化模型。 </p> <p>»edgeControl«测量机专用于识别磨损痕迹，并能非接触式地检测切削刃上最微小的缺口。 </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/5/csm_2013_00_fd665e9f3e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/7/csm_2013_01_915ec1ed8a.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/2/csm_2013_02_5c895d3081.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/0/csm_2013_03_781bcf7142.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/a/csm_2013_04_13dd281fe0.webp\" width=\"600\"/> <h4>更多用于生产过程测量的设备</h4> <p>POM系列新增三款产品。为了对标准和微型刀具进行近过程测量，ZOLLER向客户推出了新型通用设备»pomBasic«和»pomBasic micro«。 »pomDiaCheck«作为一款适用于生产现场的专用设备现已上市，可对圆磨坯件以及钻孔和铰孔工具的直径进行测量，精度小于1 µm。</p> <h4>»redomatic« 的 CNC 技术</h4> <p>这款用于精确长度热缩、预调和测量热缩刀具的组合设备现已实现全自动测量。除了放置组件和取出成品完整工具外，操作员只需作为旁观者即可。</p> <h4>认证</h4> <p>ZOLLER 引入了 DIN EN ISO 17025 标准，并根据 ISO 9001:2008、VDA 6.4:2005 以及环境管理体系 ISO 140001:2004 标准重新获得了质量管理体系认证。</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/3/5/csm_2013_00_fd665e9f3e.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "807",
+     "html": "20<br/> 14 <h3>通过自动化提升刀具制造商的效率</h3> <p>在奥格斯堡举办的GrindTec展会上，ZOLLER展示了刀具制造商和磨削企业如何实现刀具检测自动化。»roboSet 1«负责为通用测量机»genius«处理所有刀具搬运流程。整批刀具将进行全自动检测，并记录检测结果。 </p> <p>其他新亮点还包括：用于全自动测量特殊钻头几何形状和类型（如KENtip）的解决方案，以及用于测量砂轮的软件。</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/4/csm_2014_00_ee8616f1bd.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/7/csm_2014_01_4b275c8266.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/4/csm_2014_02_8723403680.webp\" width=\"600\"/> <h4>全程自动化的数据传输</h4> <p>手动输入刀具数据已成为历史。在米兰EMO展会上，ZOLLER首次展示了»zidCode«。这一全新的ZOLLER解决方案能够将刀具数据直接、准确且符合数控机床控制要求地传输至CNC机床。只需扫描刀具上的代码即可。</p> <p>对于 ZOLLER 而言，»zidCode«是一项重要的创新，因为它使整个 CAM 到零件的制造过程从即日起实现数字化运行。</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/4/csm_2014_00_ee8616f1bd.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "808",
+     "html": "20<br/> 16 <h3>»smile« 和 »venturion« 的重大更新</h3> <p>久经考验的»smile«和»venturion«系列预调与测量设备焕然一新。精度更高、操作更简便、使用更舒适。无论是由专业技术人员还是经过培训的操作人员在»smile«或»venturion«上操作，都一样轻松。 </p> <p>数控系统、»pilot« 设备软件、自动对焦功能、独立操作单元 »cockpit«、辅助软件 »elephant« 以及全新的单手操作手柄 »eQ« 共同提供了最大的支持。ZOLLER 证明，最易于操作的精密设备来自普莱德尔斯海姆。</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/1/csm_2016_00_b30d8d238e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/3/csm_2016_01_94d97f1b9b.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/d/csm_2016_02_3b49344a7e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/9/csm_2016_03_23ec9d58b3.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/d/1/csm_2016_00_b30d8d238e.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "809",
+     "html": "20<br/> 17 <h3>对刀具表面的精确分析</h3> <p>»mµFocus« 这款贴近生产过程的检测设备，使刀具制造商能够详细观察切削刃表面的粗糙度 — 且无需接触。 凭借其高分辨率光学系统以及 »pilot« 卓越的图像处理技术，»mµFocus« 可生成彩色编码图像。这些图像能清晰显示最微小的缺口和划痕。</p> <h4>刀具管理硬件拓展了刀具管理功能 </h4> <p>许多 ZOLLER 客户已开始使用 TMS 刀具管理解决方案 — 这款用于刀具及刀具数据管理的模块化软件。如今，配套硬件也已推出：大型刀具柜 »keeper«、用于存放刀具和小型零件的柜子 »toolOrganizer«，以及装配工作台 »toolStation«。所有这些设备均可直接与 ZOLLER 软件结合使用。 </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/f/csm_2017_00_887e40741c.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/8/csm_2017_01_8a326e2894.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/3/f/csm_2017_00_887e40741c.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "810",
+     "html": "20<br/> 18 <h3>总部位于安阿伯，日本新建办公楼</h3> <p>在美国开拓市场20余年后，ZOLLER的美国子公司ZOLLER Inc.迁入位于密歇根州安阿伯市的新建总部。亚历山大·卓勒（Alexander Zoller）由此为ZOLLER在建筑领域的新设计奠定了基石。 这座宽敞且设备齐全的展厅迅速成为客户洽谈、培训、演示、内部活动以及ZOLLER在美国取得成功的核心枢纽。 </p> <p>ZOLLER也在日本加强了业务布局。公司搬进了自己的办公大楼。</p> <h4>»genius«系列机型的新自动化解决方案 </h4> <p>仅五年后，»roboSet 1« 的继任者问世。通过 »roboSet 2«，ZOLLER 将清洗和标记工位集成到至»genius«自动化解决方案。因此，在刀具检测和文档记录中，更多关键工艺步骤均可实现无人化运行。</p> <h4>适用于带夹头夹具的刀具自动化</h4> <p>为了实现夹头等部件的自动测量和调整，ZOLLER开发了又一项世界首创产品：»torquematic«。这款预调和测量设备能够自动松开夹紧螺母，并在完成带扭矩监控的调整后重新夹紧。 </p> <p>配合带扭矩监控功能的拧紧工位，»venturion 450« 升级为全新»screwmatic«。Schunk TENDO 型液压扩张式夹头由此实现了自动松开和紧固。 </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/7/csm_2018_00_3b05fd742d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/8/csm_2018_01_30fd37ca38.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/4/csm_2018_02_6b7b90acfb.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/2/csm_2018_03_f2be83cd14.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/f/csm_2018_04_06fda817d9.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/7/csm_2018_00_3b05fd742d.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "811",
+     "html": "20<br/> 20 <h3>新建项目，包含智能工厂和培训学院</h3> <p>随着普莱德尔斯海姆公司总部的扩建，ZOLLER 翻开了崭新的一页。这里建成了一个集研发、装配、发货和管理于一体的客户中心。 ZOLLER 学院在新大楼中拥有现代化且宽敞的办公空间。其核心是“智能工厂”，ZOLLER 在这里首次展示其面向工业 4.0 的互联解决方案。</p> <h4>一流软件更臻完美</h4> <p>凭借其卓越的图像处理能力，设备软件 »pilot 3.0« 被公认为全球行业标杆。尽管如此，ZOLLER 仍致力于在成熟技术基础上更进一步。其迭代产品 »pilot 4.0« 采用了以智能手机和平板电脑为设计参考的新界面。 »pilot 3.0«便捷的操作理念得以保留。但用户现在可以个性化定制自己的工作环境，并在任何 ZOLLER 设备上调用。»pilot 4.0« 意味着极致的舒适性、极高的易用性以及更简便的工作体验。</p> <h4>全新设备平台与设计 </h4> <p>所有 ZOLLER »genius« 系列刀具测量机均已迁移至全新平台，并进行了彻底的重新设计。除了最先进的技术、独特的人体工学设计和振动隔离功能外，»genius«、»threadCheck«、»edgeControl«、»3dCheck« 和 »titan« 还以崭新的外观亮相。</p> <h4>刀具热缩技术扩展及更便捷的数据处理</h4> <p>»redomatic mst« 的推出，为热缩产品线增添了又一项新技术。</p> <p>作为 »zidCode« 的补充，»zidCode 4.0«面世。»zidCode 4.0«支持完全联网和双向通信。 它不仅能从 z.One 中央数据库中调用数据并传输至 CNC 机床的数控系统，还能将刷新后的数据（如使用寿命）回写至数据库。</p> <h4>中国新办公楼落成</h4> <p>在克里斯托夫·卓勒（Christoph Zoller）开启中国业务 16 年后，ZOLLER 为其中国分公司揭幕了新办公楼。这是公司在漫长而成功的国际业务征程中的一座里程碑。 </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/3/csm_2020_00_1463439bea.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/6/csm_2020_01_2b46d3f70f.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/5/csm_2020_02_4de4e4c5ee.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/6/csm_2020_03_02ba7d969e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/6/csm_2020_04_4a68438d24.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/f/csm_2020_05_332915d9da.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/a/csm_2020_06_6b235cbb9a.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/c/csm_2020_07_b0ebae7512.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/8/csm_2020_08_6b194eb4bd.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/4/csm_2020_09_6e0fd677cf.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/3/csm_2020_00_1463439bea.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "812",
+     "html": "20<br/> 21 <h3>制造领域的刀具自动化</h3> <p>系统供应商ZOLLER展示了其最新研发成果，这些解决方案可帮助客户实现刀具工艺的自动化，并逐步将生产转型为智能工厂。</p> <p>»loadBox« 可实现刀具拣选的自动化，»roboBox«则是用于刀具装配、预调和测量、清洁、套管与脱管以及其他任务的模块化自动化系统。多功能的 »cora« 系列涵盖了刀具搬运、协作机器人辅助和车间物流。 </p> <p>ZOLLER 得益于其在预调和测量、检测和测量、刀具管理、软件及数据传输领域解决方案的长期规划。在自动化领域，所有环节都紧密相连。</p> <h4>新一代刀柄 — 配备»idChip««</h4> <p>始于 1948 年的车削刀具夹头业务，在 73 年后得以重启：»idChip«。凭借一流的“德国制造”刀具夹头和智能配件，全球客户现在也能获得具有 ZOLLER 标志性品质的夹具。 </p> <p>同样全新的 »idChip« 使刀柄能够立即支持 ZOLLER 的刀具管理。该编码塑料芯片集成在刀柄中，使其具有唯一识别性。然而，其成本远低于 RFID 应答器。 </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/9/csm_2021_00_b1855bd81f.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/c/csm_2021_02_4783ccf6d7.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/0/csm_2021_03_3269d32dbd.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/0/csm_2021_04_3db7f96f03.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/f/csm_2021_05_d78f69282a.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/4/csm_2021_06_9d5701d1b6.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/a/csm_2021_07_f8723cb7dc.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/9/csm_2021_00_b1855bd81f.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "813",
+     "html": "20<br/> 22 <h3>平衡与热缩领域的创新</h3> <p>ZOLLER 提供动平衡和热缩解决方案已有 20 年之久。然而，市场需求已发生变化。是时候推出新产品了。 </p> <p>凭借 »toolBalancer« 和 »powerShrink« 这两项创新成果，ZOLLER 成功将精度、能效、安全性和人体工学提升至前所未有的新高度。 </p> <p>刀具动平衡从未如此简单且精准。生产一线的员工也从未能够如此快速高效地完成热缩和脱缩工艺。 </p> <p>针对这两项解决方案，ZOLLER 开辟了全新的技术路径，进一步彰显了其卓越的创新能力。在斯图加特 AMB 展和芝加哥 IMTS 展上，专业观众们对新设备的精度、速度、人体工学设计和外观赞叹不已。 </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/a/csm_2022_00_a9077eb7ea.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_2022_01_9d28b009d5.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_2022_02_248e734173.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/5/csm_2022_03_642b4ee4f4.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/a/csm_2022_00_a9077eb7ea.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "814",
+     "html": "20<br/> 23 <h3>»coraMeasure LG«：用于自动预调和测量的门户解决方案</h3> <p>采用紧凑型龙门结构、不使用机械臂的刀具自动化 — 这是亚历山大·卓勒（Alexander Zoller）对开发团队提出的默认条件。 当ZOLLER在2023年EMO展会上首次在德国展示这一成果时，立刻引起了广泛关注。»coraMeasure LG«是ZOLLER为快速解决当前挑战 — 专业人才短缺 — 而推出的又一创新方案。</p> <h4>进军新行业</h4> <p>ZOLLER测量技术正进军石材加工行业。全新的 »conDiaZ« 使该行业专用成型刀具的测量和数据优化变得轻而易举。其亮点在于：人工智能（AI）的助力！</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/1/csm_2023_00_5aebb5cd96.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/b/csm_2023_01_d984fc38e4.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/d/1/csm_2023_00_5aebb5cd96.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "815",
+     "html": "20<br/> 24 <h3>新型测量机</h3> <p>欢迎使用 »threadCheck I cc«。这款新型测量机首次在全封闭且隔振的单元内对螺纹刀具等进行测量。在测量关键细节时，精度进一步提升。集成的数控控制尾座可实现自动装夹。</p> <h4>安全存放刀具</h4> <p>工具柜 »toolOrganizer« 新增了一项选项：»smartCompartments«。由 ZOLLER 开发的这些隔间锁定装置，进一步扩展了刀具管理硬件原本已非常强大的功能。</p> <h4>适用于石材和木材</h4> <p>凭借 »smile GBO« 及全新大视场光学系统，ZOLLER 使客户能够一步完成对石材和木材加工刀具复杂几何形状的快速测量。 </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/8/csm_2024_00_f953f5ad3d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/5/csm_2024_01_11e8ff9e06.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/6/csm_2024_02_1b4af3f1bd.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/f/csm_2024_03_45c77f1de1.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/8/csm_2024_00_f953f5ad3d.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "816",
+     "html": "20<br/> 25 <h3>»pom«系列的全面升级</h3> <p>ZOLLER 对广受好评的面向工艺的检测设备系列 »pomBasic««进行了全面升级。新增机型包括：»pomBasic Compact« 和 »pomBasic MTI«。 </p> <p>这对直径小至 0.1 毫米的微型工具领域而言，意味着巨大的飞跃。通过特殊的光学系统和软件功能，微米级几何形状变得可视且可测量。借助 »3dCheck«，其全自动测量也已成为现实。</p> <h4>聚焦磨损检测</h4> <p>ZOLLER 正深入研究复杂的磨损课题。»edgeControl«的开发工作正在快速推进。ZOLLER 的开发团队正在开发一款针对磨损检测进行优化的软件。</p> <h4>零件仓库的自动化</h4> <p>1月初，在公司成立80周年之际，ZOLLER继续对准未来。在普莱德尔斯海姆的装配车间，自动化小零件仓库于第二周正式投入运行。 该系统自动管理超过 18,000 件零件，并向装配线提供所需部件。“这对公司而言是一个里程碑。即使到了 80 岁，我们仍坚持不断现代化，并顺应变革，”埃伯哈德·卓勒表示。</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/d/csm_2025_00_bf3fc026d8.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/f/csm_2025_01_f37aa89108.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/3/csm_2025_02_55890fb3a6.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/b/csm_2025_03_ab3d89c3cc.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/d/csm_2025_00_bf3fc026d8.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    }
+   ]
+  }
+ ],
+ "src_path": "/ch/企业/个人资料/历史",
+ "de_path": "/unternehmen/profil/historie"
+}

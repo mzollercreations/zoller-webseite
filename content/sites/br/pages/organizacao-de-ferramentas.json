@@ -1,0 +1,435 @@
+{
+ "path": "/organizacao-de-ferramentas",
+ "url": "/br/organizacao-de-ferramentas",
+ "title": "Organização de ferramentas",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/br/pagina-inicial"
+  },
+  {
+   "label": "Organização de ferramentas",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/br/pagina-inicial"
+  },
+  {
+   "label": "Organização de ferramentas",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeugorganistation",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-organization",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/organizacion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/organisation-des-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/organizacao-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/organizzazione-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verktygsorganisation",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeugorganistation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/tool-organization",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/organisation-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%95%B4%E7%90%86",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EC%A0%95%EB%A6%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/tool-organization",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/organizacion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/organizacao-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/7/e/csm_toolorga_header_d09c850eda.webp",
+     "video": null,
+     "title": "A organização das ferramentas traz eficácia",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7972",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">Uma melhor organização das ferramentas não só garante uma melhor ordem na superfície da operação, como também reduz concretamente o tempo de inatividade das máquinas, aumentando assim a eficácia da sua produção. Como isso acontece?</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7974",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> A organização das ferramentas é mais do que arrumar </h2>",
+   "body": "<p>Na realidade e na prática de uma oficina, é quase impossível evitar um pouco de desordem – mas grande parte disso se deve à circunstância|condição de que cada ferramenta tenha ou não um local próprio onde pode e deve ser pousada.</p> <p>Essa é, basicamente, a essência do núcleo de qualquer organização de ferramentas: que cada peça possa ser localizada a qualquer momento. Se não precisar de procurar a ferramenta, poupa não só aborrecimentos e frustrações, mas também muito tempo de trabalho e nervos. As suas máquinas não precisam de esperar pela próxima utilização, as ferramentas não estão espalhadas sem utilidade – e pode tornar o seu trabalho significativamente mais eficiente.</p> <p>Na ZOLLER, procuramos uma abordagem holística e abrangente à organização de ferramentas. Por isso, combinamos o nosso <strong>software modular </strong>para gestão de ferramentas com <strong>sistemas de armazenamento inteligentes</strong>, que juntos garantem que tem sempre uma visão geral da localização de uma determinada ferramenta – e do seu estado, se ainda existem peças de reposição suficientes, se é necessário fazer uma encomenda e muito mais.</p> <p>E como a ferramenta é, naturalmente, destinada a uma tarefa específica, a <strong>transmissão</strong> digital, sem erros e sem fios <strong>dos dados da ferramenta</strong> para a máquina também faz parte da organização completa e holística das ferramentas. Para que se possa concentrar no essencial: a produção eficiente e efetiva dos seus componentes.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7975",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Baixo tempo de inatividade das máquinas: uso efetivo do tempo e da mão de obra",
+    "Transparência total sobre a localização e o estado de todas as ferramentas a qualquer momento",
+    "Sem falhas no abastecimento: substituições e novas encomendas sob controlo"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c7976",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Software de gestão de ferramentas para todas as necessidades </h2>",
+   "body": "<p><strong>A gestão eficiente de ferramentas é, acima de tudo, gestão de dados.</strong> </p> <p>Começa com o registo dos dados da ferramenta dos seus componentes individuais, como o material de corte e o peso, no dispositivo de ajuste e medição, e a sua introdução no sistema. Juntamente com as folhas de processo e outras informações, tudo o que precisa de saber sobre uma ferramenta está reunido num local central e disponível a qualquer momento para todos os funcionários.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/9/csm_digital_durchstarten_webTMS_16feff8d28.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7977",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-33-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Gestão de ferramentas simplificada </h2>",
+      "body": "<p>Com o nosso software <strong>TMS Tool Management Solutions,</strong> oferecemos-lhe tudo o que precisa para a gestão de ferramentas já no âmbito funcional do pacote BRONZE. Isso inclui, em particular, as seguintes funções:</p><ul><li>Importação de dados da ferramenta a partir de catálogos dos fabricantes ou da nuvem – segura, sem erros e rápida</li><li>Dados da ferramenta acessíveis a partir de dispositivos móveis</li><li>Integração completa do seu aparelho de medição e dispositivo de ajuste ZOLLER</li><li>Cada configuração de ferramenta pode ser guardada e recuperada imediatamente</li></ul><p><a class=\"btn\" href=\"/br/produtos/gestao-de-ferramentas/tms-tool-management-solutions/pacotes-de-software/modulo-cad/cam-bronze\">Saiba tudo sobre o pacote de software BRONZE</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/d/1/csm_software_bronze_19edbebfe9.webp",
+        "alt": "",
+        "w": 680,
+        "h": 429
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7980",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> A organização das ferramentas não se limita ao armazém </h2>",
+      "body": "<p><strong>Onde está exatamente essa ferramenta, em que estado se encontra?</strong> Pode alcançar o próximo nível de gestão de ferramentas se também organizar e otimizar digitalmente a gestão de armazenamento|gestão de armazém e, dessa forma, manter o seu <strong>inventário de ferramentas</strong> orientado para a necessidade e a qualidade. Concretamente, isso significa:</p><ul><li>os tempos de pesquisa diminuem,</li><li>os tempos de preparação são reduzidos e</li><li>O ajuste das ferramentas ocorre quase de forma automática.</li></ul><p>O nosso pacote SILVER inclui todas estas funcionalidades e permite-lhe não só manter uma visão geral da localização e utilização individual de cada ferramenta, mas também garantir de forma efetiva e atempada que existem peças e sobressalentes suficientes. Isto significa uma integração total, incluindo a <strong>monitorização das ferramentas para controlo de qualidade e análise de desgaste</strong>.</p> <p><a class=\"btn\" href=\"/br/produtos/gestao-de-ferramentas/tms-tool-management-solutions/pacotes-de-software/organizacao-operacional-silver\">Saiba tudo sobre o pacote de software SILVER</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/e/0/csm_software_silver_d66477a30d.webp",
+        "alt": "",
+        "w": 680,
+        "h": 429
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7981",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Organização de ferramentas reloaded </h2>",
+      "body": "<p>O padrão GOLD de organização de ferramentas integra-as completamente em todos os processos da sua empresa e permite-lhe verificar em tempo real a efetividade e os custos da utilização de uma ferramenta. Desta forma, obtém <strong>controlo total dos custos e transparência</strong> em toda a cadeia de processos do seu sistema de ferramentas.</p> <p>Como o sistema de gestão de ferramentas documenta como as ferramentas individuais foram usadas em diferentes pedidos|encomendas, pode emitir estatísticas que lhe permitem obter informações exatas sobre a eficiência do seu trabalho. Tudo isso é possível com o pacote GOLD do nosso software e, além disso:</p><ul><li>Eficiência máxima na gestão dos dados da ferramenta</li><li>Gestão sistemática das ordens de produção e folhas de processo</li><li>Gestão integrada do tempo de funcionamento|gestão da vida útil</li><li>Integração opcional no sistema de pedidos, incluindo gestão de fornecedores</li></ul><p><a class=\"btn\" href=\"/br/produtos/gestao-de-ferramentas/tms-tool-management-solutions/pacotes-de-software/gold-gestao-do-chao-de-fabrica\">Saiba tudo sobre o pacote de software GOLD</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/e/a/csm_software_gold_79cf4e6793.webp",
+        "alt": "",
+        "w": 680,
+        "h": 429
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7982",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-33-33-33",
+   "id": "c7979",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Gestão de ferramentas que facilita o seu trabalho </h2>",
+   "body": "<p><strong>Qualquer organização de ferramentas só é boa se, a longo prazo, facilitar o trabalho a si e aos seus funcionários.</strong> O nosso software <strong>TMS Tool Management Solutions</strong> foi concebido para <strong>funcionar</strong> de forma completa e harmoniosa <strong>com bases de dados, máquinas, sistemas de armazenamento e aparelhos de medição existentes</strong>. Para facilitar o seu trabalho, aumentar a sua eficiência e simplificar a vida na oficina.</p> <p>Graças à estrutura modular dos nossos pacotes de software, é possível optar exclusivamente pelas funções de que realmente necessita. E é possível adicionar novas funções a qualquer momento, se quiser elevar a sua organização de ferramentas a um nível superior.</p> <p>Entre em contacto connosco, teremos todo o prazer em aconselhá-lo sobre todos os detalhes e elaborar uma oferta personalizada!</p> <p>Mais sobre o webTMS</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/6/csm_webTMS_devices_9783f65f1d.webp",
+     "alt": "",
+     "w": 1484,
+     "h": 1066
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7983",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Ferramentas, arrumadas de forma inteligente </h2>",
+   "body": "<p>Os nossos armários de armazém inteligentes são o complemento perfeito para a gestão de ferramentas por software, pois permitem o acesso direto às ferramentas solicitadas de forma automatizada e bem organizada.</p> <p>Além disso, são úteis para a gestão e organização de tudo o que precisa no dia a dia da sua oficina. Nos diferentes modelos dos nossos armários inteligentes, pode armazenar sistematicamente os mais diversos materiais – desde ferramentas e componentes a consumíveis, acessórios ou meios de medição e teste. Está na hora de usar as ferramentas? Nos nossos sistemas de armazenamento, encontra imediatamente o que precisa.</p> <p>Desde a <a class=\"link-arrow\" href=\"/br/produtos/gestao-de-ferramentas/montagem-de-ferramenta/toolstation\">bancada</a> <a class=\"link-arrow\" href=\"/br/produtos/gestao-de-ferramentas/montagem-de-ferramenta/toolstation\">de trabalho</a> com todo o conforto (e espaço) para a montagem de ferramenta, onde todos os componentes estão à mão, passando pelo <a class=\"link-arrow\" href=\"/br/produtos/gestao-de-ferramentas/transporte-de-ferramentas/toolcart\">carro-ferramenta</a> flexível com espaço para mais de 100 ferramentas diferentes, até ao grande <a class=\"link-arrow\" href=\"/br/produtos/gestao-de-ferramentas/armazem-de-ferramentas/keeper\">armário para ferramentas completas</a> e adaptadores – cada uma das opções de armazenamento garante o armazenamento e a gestão ideais das suas ferramentas e materiais.</p> <p>Na nossa vista geral, encontrará todos os armários inteligentes e soluções de armazenamento – certamente encontrará a variante certa para a sua oficina!</p> <p>Tudo sobre os nossos sistemas de armazenamento</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/5/csm_toolmanagement_02_7e37951c35.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7984",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Gestão de ferramentas: as suas vantagens",
+     "href": "/br/solutions/gestao-de-ferramentas",
+     "caption": "<figcaption> <h3>Gestão de ferramentas: as suas vantagens</h3> <p>Descubra como a gestão de ferramentas da ZOLLER aumenta imediatamente a sua produtividade. Com os dados da ferramenta, os processos são mais rápidos e seguros – incluindo proteção contra colisões para as suas máquinas. </p> <br/> Saber mais </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Conversa com especialistas",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Conversa com especialistas</h3> <p>A troca individual sobre os seus objetivos e as nossas ideias para os alcançar. A consultoria online da ZOLLER diretamente da Smart Factory. Marque já a sua consulta. </p> <br/> Saber mais </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/br/organizacao-de-ferramentas",
+ "de_path": "/werkzeugorganistation"
+}

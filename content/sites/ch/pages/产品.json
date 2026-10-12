@@ -1,0 +1,438 @@
+{
+ "path": "/产品",
+ "url": "/ch/%E4%BA%A7%E5%93%81",
+ "title": "产品系列",
+ "description": "产品系列 - 产品概览",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "产品系列",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "产品系列",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/02_Products/_Overview/zoller_solutions_header_02.mp4",
+     "title": "选择通往成功的道路",
+     "kicker": "",
+     "text": "<p>借助 ZOLLER 解决方案，提升效率</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4402",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 产品概览 </h2>",
+   "body": "<p class=\"extra-large-text\"><strong>ZOLLER Solutions 助力您的未来 — 我们助您取得更大成功。因为生产速度更快、效率更高，才能实现更经济高效的生产，从而为未来投资。如果您以经济进步为目标，那么 ZOLLER 就是您的理想合作伙伴。</strong></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4399",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "productlist",
+   "filters": {
+    "solutions": [
+     {
+      "value": "259",
+      "label": "预调和测量",
+      "selected": false
+     },
+     {
+      "value": "251",
+      "label": "刀具管理",
+      "selected": false
+     },
+     {
+      "value": "254",
+      "label": "检测和测量",
+      "selected": false
+     },
+     {
+      "value": "253",
+      "label": "自动化",
+      "selected": false
+     },
+     {
+      "value": "250",
+      "label": "刀具热缩技术",
+      "selected": false
+     },
+     {
+      "value": "252",
+      "label": "刀具解决方案",
+      "selected": false
+     },
+     {
+      "value": "249",
+      "label": "刀具平衡技术",
+      "selected": false
+     }
+    ],
+    "tool": [
+     {
+      "value": "1048",
+      "label": "钻孔工具",
+      "selected": false
+     },
+     {
+      "value": "1168",
+      "label": "锥形铣刀",
+      "selected": false
+     },
+     {
+      "value": "1120",
+      "label": "车削刀具",
+      "selected": false
+     },
+     {
+      "value": "1240",
+      "label": "车削/铣削刀具",
+      "selected": false
+     },
+     {
+      "value": "1132",
+      "label": "铣削刀具",
+      "selected": false
+     },
+     {
+      "value": "1144",
+      "label": "精密钻削刀具",
+      "selected": false
+     },
+     {
+      "value": "1060",
+      "label": "螺纹加工工具",
+      "selected": false
+     },
+     {
+      "value": "1192",
+      "label": "高性能工具",
+      "selected": false
+     },
+     {
+      "value": "1180",
+      "label": "曲轴铣刀",
+      "selected": false
+     },
+     {
+      "value": "1216",
+      "label": "精密工具",
+      "selected": false
+     },
+     {
+      "value": "1156",
+      "label": "平面铣刀头",
+      "selected": false
+     },
+     {
+      "value": "1108",
+      "label": "平面、角部和精加工刀头",
+      "selected": false
+     },
+     {
+      "value": "1072",
+      "label": "铰刀",
+      "selected": false
+     },
+     {
+      "value": "1264",
+      "label": "砂轮",
+      "selected": false
+     },
+     {
+      "value": "1084",
+      "label": "锯片",
+      "selected": false
+     },
+     {
+      "value": "1228",
+      "label": "石材加工工具",
+      "selected": false
+     },
+     {
+      "value": "1096",
+      "label": "轴类工具",
+      "selected": false
+     },
+     {
+      "value": "1204",
+      "label": "齿轮加工工具",
+      "selected": false
+     }
+    ]
+   },
+   "rows": [
+    {
+     "title": "",
+     "items": [
+      {
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E9%A2%84%E8%B0%83%E5%92%8C%E6%B5%8B%E9%87%8F",
+       "title": "预调和测量",
+       "text": "将设置时间缩短40%以上。",
+       "img": {
+        "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86",
+       "title": "刀具管理",
+       "text": "实现流程互联、保障质量并加快生产速度。",
+       "img": {
+        "src": "/fileadmin/_processed_/3/3/csm_toolmanagement_preview_7889eaddc9.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E6%A3%80%E6%B5%8B%E5%92%8C%E6%B5%8B%E9%87%8F",
+       "title": "检测和测量",
+       "text": "记录质量并创建数字孪生。",
+       "img": {
+        "src": "/fileadmin/_processed_/0/d/csm_genius_1_5b500df8d2.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E8%87%AA%E5%8A%A8%E5%8C%96",
+       "title": "自动化",
+       "text": "适用于切削工具的灵活、模块化自动化解决方案。",
+       "img": {
+        "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%83%AD%E7%BC%A9%E6%8A%80%E6%9C%AF",
+       "title": "刀具热缩技术",
+       "text": "在创纪录的时间内完成模具的装卸。",
+       "img": {
+        "src": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_506ab0ccb9.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E5%A4%B9%E5%A4%B4",
+       "title": "刀具解决方案",
+       "text": "配备»»idChip««的刀柄，是您数字化制造的理想接口。",
+       "img": {
+        "src": "/fileadmin/_processed_/4/8/csm_ToolingSolutions_preview_7b8d14560e.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E5%B9%B3%E8%A1%A1%E6%8A%80%E6%9C%AF",
+       "title": "刀具平衡技术",
+       "text": "保护主轴，保障质量：选用市场上最优质的动平衡机。",
+       "img": {
+        "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "src_path": "/ch/产品",
+ "de_path": "/produkte"
+}

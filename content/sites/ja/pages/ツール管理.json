@@ -1,0 +1,447 @@
+{
+ "path": "/ツール管理",
+ "url": "/ja/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86",
+ "title": "ツール管理",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ja/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8"
+  },
+  {
+   "label": "ツール管理",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ja/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8"
+  },
+  {
+   "label": "ツール管理",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/tool-management",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-management",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/gestion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/gestion-des-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/gestao-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/gestione-degli-strumenti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verktygshantering",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/tool-management",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/gestion-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/tool-management",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/gestion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/gestao-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/5/b/csm_toolmanagement_header_ab8ef9c82c.webp",
+     "video": null,
+     "title": "ツール管理 – 単なる工具管理以上のもの",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8115",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">現代の工具管理には多くの側面があります。工具データの管理、工具や工具部品の保管、輸送、発注などが含まれますが、何よりも重要なのは、より効果的で優れた業務プロセスを実現することです。</p> <p class=\"extra-large-text\">優れたツール管理システムを導入すれば、工具のライフサイクルにおけるすべての段階を把握し、管理することが可能になります。そして、どの程度の詳細度や複雑さで全体像を把握したいか、ご自身で決定することができます。</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8116",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 工具管理：在庫管理、計画、点検 </h2>",
+   "body": "<p>例えば、工具管理とは、すべての工具および工具部品を一元的に記録・管理することを意味します。これにより、工具や部品の全体像を把握・維持できるだけでなく、在庫管理の最適化、工具の使用計画や管理が可能になり、まさに必要なタイミングで、ジャスト・イン・タイムに新しい工具や部品を発注できるようになります。</p> <p>適切なソフトウェアを活用することで、プロセスチェーン全体を通じて、工具がどのように、どこで使用されているかについて完全な可視性を得ることができます。これは同時に、コスト管理の向上、業務プロセスの最適化、そして工具のより効果的な活用を意味します。</p> <p>また、ツール管理とは、すべての工具データを一元的に管理し、理想的には適切なインターフェースを介してCAMシステムに直接転送することを意味します。これにより、セットアップ工程が簡素化・短縮され、工具のセットアップがより迅速かつ確実に行えるようになります。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/4/csm_tms_connected_3fe459a22a.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 900
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8117",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> 最適なツール管理ソフトウェア </h2>",
+      "body": "<p>ZOLLER社のモジュール式ソフトウェア「TMS Tool Management Solutions」は、最新の工具管理ソフトウェアに求められるあらゆる機能とインターフェースを備えています。</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c8119",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "完璧に組織化されている",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>すべての個別部品、完成品ツール、およびセットアップシートを一元的なデータベースに登録してください。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8122",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "ロスレスインターフェース",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>豊富なインターフェースにより、ZOLLER-TMSを御社のCAMシステムと連携させることができます。工具データの誤りのないデジタル転送により、時間、手間、コストを削減できます。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8124",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "在庫管理",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>すべての部品が所定の位置に収納されています。ZOLLER-TMSを利用すれば、部品や工具がどこにあるかを常に把握できます。同時に、在庫状況も効率的に管理できます。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8126",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "工具監視",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>品質管理と摩耗分析を一元化し、工具の使用状況を把握し、個々の注文やコストに関する統計を作成します。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8128",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "透明性と有効性",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>管理業務を発注プロセスと連携させ、必要なものを常に適切なタイミングで発注できるようにしましょう。製造プロセスにおける問題を特定し、業務が円滑に進むようにします。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8130",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c8120",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8118",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 工具管理の中心的要素としてのツール管理ソフトウェア </h2>",
+   "body": "<p>現代の金型物流において、適切な管理ソフトウェアはもはや不可欠です。適切なプログラムを導入すれば、各工程での金型供給を確実に確保できるだけでなく、手間のかかる金型探しも過去のものとなります。なぜなら、金型リストには各部品の保管場所が明記されるためです。さらに、必要に応じてスマートキャビネット（インテリジェントな保管キャビネット）を活用すれば、すべての部品が確実に所定の位置に収納されていることを確認できます。</p> <h3>常に利用可能な工具データ</h3> <p>しかし、ツール管理は単なる工具の保管にとどまりません。このシステムは常に適切な工具データや工具のプリセット情報を保持しており、工具システムやプリセット装置への迅速かつ正確な転送を可能にします。これにより、ミスを防ぎ、不良品を削減し、作業プロセスを加速させます。</p> <p>切削工具（通常は「切削工具」と呼びますが、SEOの観点から「切削用工具」の方が適切であれば、そちらの用語を使用しても構いません）の使用であれ、全く異なる種類の機器の使用であれ： 御社の物流には、まだ改善の余地があるはずです。最適化の機会があるかもしれません。例えば、工具の払い出し、保管システム、あるいは使用されている工具データベースなどにおいてです。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/9/csm_digital_durchstarten_webTMS_16feff8d28.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8131",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "工具管理ソフト：そのメリット",
+     "href": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/toolmanagement",
+     "caption": "<figcaption> <h3>工具管理ソフト：そのメリット</h3> <p>ZOLLERの工具管理ソフトが、どのように生産性を即座に向上させるかをご覧ください。工具データを活用することで、プロセスがより迅速かつ安全に進行します。これには、お使いの機械のための衝突防止機能も含まれています。 </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1対1の専門家との面談",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1対1の専門家との面談</h3> <p>お客様の目標と、それに対する当社の提案について、個別に話し合う機会です。スマートファクトリーから直接お届けする、ZOLLERのオンラインコンサルティング。今すぐご予約ください。 </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ja/ツール管理",
+ "de_path": "/tool-management"
+}

@@ -5,12 +5,48 @@
   "out": "docs",
   "country": "",
   "flag": "de",
-  "geo": {"country": "Germany", "lat": 48.9529, "lng": 9.1939, "city": "Pleidelsheim", "view": [47, 6, 4.3], "side": "ne"},
+  "geo": {
+   "country": "Germany",
+   "lat": 48.9529,
+   "lng": 9.1939,
+   "city": "Pleidelsheim",
+   "view": [
+    47,
+    6,
+    4.3
+   ],
+   "side": "ne",
+   "region": "Europa"
+  },
   "locales": [
-   {"lang": "de", "code": "de-DE", "src": "", "dir": "", "label": "Deutsch", "name": "Deutschland"}
+   {
+    "lang": "de",
+    "code": "de-DE",
+    "src": "",
+    "dir": "",
+    "label": "Deutsch",
+    "name": "Deutschland"
+   },
+   {
+    "lang": "en",
+    "code": "en",
+    "src": "en_DE",
+    "dir": "en",
+    "label": "English",
+    "name": "International",
+    "home": "/en_DE/home"
+   }
   ],
-  "company": {"name": "E. ZOLLER GmbH & Co. KG", "lines": ["Einstell- und Messgeräte", "Gottlieb-Daimler-Straße 19", "D-74385 Pleidelsheim"],
-              "phone": "+49 7144 8970-0", "email": "info@zoller.info"}
+  "company": {
+   "name": "E. ZOLLER GmbH & Co. KG",
+   "lines": [
+    "Einstell- und Messgeräte",
+    "Gottlieb-Daimler-Straße 19",
+    "D-74385 Pleidelsheim"
+   ],
+   "phone": "+49 7144 8970-0",
+   "email": "info@zoller.info"
+  }
  },
  "ca": {
   "repo": "zoller-canada",
@@ -18,13 +54,49 @@
   "out": "dist/zoller-canada",
   "country": "Canada",
   "flag": "ca",
-  "geo": {"country": "Canada", "lat": 43.5998, "lng": -79.7724, "city": "Mississauga", "view": [46, -90, 4.4], "side": "ne"},
+  "geo": {
+   "country": "Canada",
+   "lat": 43.5998,
+   "lng": -79.7724,
+   "city": "Mississauga",
+   "view": [
+    46,
+    -90,
+    4.4
+   ],
+   "side": "ne",
+   "region": "Nordamerika"
+  },
   "locales": [
-   {"lang": "en", "code": "en-CA", "src": "ca", "dir": "", "label": "English", "name": "Canada", "home": "/ca/accueil"},
-   {"lang": "fr", "code": "fr-CA", "src": "ca-fr", "dir": "fr", "label": "Français", "name": "Canada", "home": "/ca-fr/page-daccueil"}
+   {
+    "lang": "en",
+    "code": "en-CA",
+    "src": "ca",
+    "dir": "",
+    "label": "English",
+    "name": "Canada",
+    "home": "/ca/accueil"
+   },
+   {
+    "lang": "fr",
+    "code": "fr-CA",
+    "src": "ca-fr",
+    "dir": "fr",
+    "label": "Français",
+    "name": "Canada",
+    "home": "/ca-fr/page-daccueil"
+   }
   ],
-  "company": {"name": "ZOLLER Canada Inc.", "lines": ["2820 Argentia Road, Unit-5", "Mississauga, ON L5N 8G4", "Canada"],
-              "phone": "+1 905 821-7664", "email": "sales@zoller-canada.com"}
+  "company": {
+   "name": "ZOLLER Canada Inc.",
+   "lines": [
+    "2820 Argentia Road, Unit-5",
+    "Mississauga, ON L5N 8G4",
+    "Canada"
+   ],
+   "phone": "+1 905 821-7664",
+   "email": "sales@zoller-canada.com"
+  }
  },
  "mx": {
   "repo": "zoller-mexico",
@@ -32,12 +104,40 @@
   "out": "dist/zoller-mexico",
   "country": "México",
   "flag": "mx",
-  "geo": {"country": "Mexico", "lat": 20.598, "lng": -100.4084, "city": "Querétaro", "view": [28, -96, 4.4], "side": "se"},
+  "geo": {
+   "country": "Mexico",
+   "lat": 20.598,
+   "lng": -100.4084,
+   "city": "Querétaro",
+   "view": [
+    28,
+    -96,
+    4.4
+   ],
+   "side": "se",
+   "region": "Lateinamerika"
+  },
   "locales": [
-   {"lang": "es", "code": "es-MX", "src": "mx", "dir": "", "label": "Español", "name": "México", "home": "/mx/pagina-de-inicio"}
+   {
+    "lang": "es",
+    "code": "es-MX",
+    "src": "mx",
+    "dir": "",
+    "label": "Español",
+    "name": "México",
+    "home": "/mx/pagina-de-inicio"
+   }
   ],
-  "company": {"name": "ZOLLER Tecnologías S. de R.L. de C.V.", "lines": ["Calle Pirineos 515, interior nave 16", "Zona Industrial Benito Juárez", "76120 Querétaro, Qro., México"],
-              "phone": "+52 442 361 3423", "email": "sales@zoller-mexico.com"}
+  "company": {
+   "name": "ZOLLER Tecnologías S. de R.L. de C.V.",
+   "lines": [
+    "Calle Pirineos 515, interior nave 16",
+    "Zona Industrial Benito Juárez",
+    "76120 Querétaro, Qro., México"
+   ],
+   "phone": "+52 442 361 3423",
+   "email": "sales@zoller-mexico.com"
+  }
  },
  "us": {
   "repo": "zoller-usa",
@@ -45,11 +145,819 @@
   "out": "dist/zoller-usa",
   "country": "USA",
   "flag": "us",
-  "geo": {"country": "United States", "lat": 42.2315, "lng": -83.7333, "city": "Ann Arbor", "view": [38, -92, 4.3], "side": "sw"},
+  "geo": {
+   "country": "United States",
+   "lat": 42.2315,
+   "lng": -83.7333,
+   "city": "Ann Arbor",
+   "view": [
+    38,
+    -92,
+    4.3
+   ],
+   "side": "sw",
+   "region": "Nordamerika"
+  },
   "locales": [
-   {"lang": "en", "code": "en-US", "src": "ca", "overlay": "us", "dir": "", "label": "English", "name": "USA", "home": "/ca/accueil"}
+   {
+    "lang": "en",
+    "code": "en-US",
+    "src": "ca",
+    "overlay": "us",
+    "dir": "",
+    "label": "English",
+    "name": "USA",
+    "home": "/ca/accueil"
+   }
   ],
-  "company": {"name": "ZOLLER Inc.", "lines": ["3900 Research Park Drive", "Ann Arbor, MI 48108", "USA"],
-              "phone": "+1 734 332 4851", "email": "sales@zoller-usa.com"}
+  "company": {
+   "name": "ZOLLER Inc.",
+   "lines": [
+    "3900 Research Park Drive",
+    "Ann Arbor, MI 48108",
+    "USA"
+   ],
+   "phone": "+1 734 332 4851",
+   "email": "sales@zoller-usa.com"
+  }
+ },
+ "at": {
+  "repo": "zoller-austria",
+  "url": "https://mzollercreations.github.io/zoller-austria/",
+  "out": "dist/zoller-austria",
+  "country": "Österreich",
+  "flag": "at",
+  "geo": {
+   "country": "Austria",
+   "lat": 48.2163,
+   "lng": 13.4848,
+   "city": "Ried im Innkreis",
+   "view": [
+    46,
+    10,
+    4.3
+   ],
+   "side": "ne",
+   "region": "Europa"
+  },
+  "locales": [
+   {
+    "lang": "de",
+    "code": "de-AT",
+    "src": "at",
+    "dir": "",
+    "label": "Deutsch",
+    "name": "Österreich",
+    "home": "/at/startseite"
+   }
+  ],
+  "company": {
+   "name": "ZOLLER Austria GmbH",
+   "lines": [
+    "Haydnstraße 2",
+    "A-4910 Ried im Innkreis",
+    "Österreich"
+   ],
+   "phone": "+43 7752 87725-0",
+   "email": "office@zoller-a.at"
+  }
+ },
+ "es": {
+  "repo": "zoller-spain",
+  "url": "https://mzollercreations.github.io/zoller-spain/",
+  "out": "dist/zoller-spain",
+  "country": "España",
+  "flag": "es",
+  "geo": {
+   "country": "Spain",
+   "lat": 41.3946,
+   "lng": 2.1925,
+   "city": "Barcelona",
+   "view": [
+    40,
+    -2,
+    4.3
+   ],
+   "side": "se",
+   "region": "Europa"
+  },
+  "locales": [
+   {
+    "lang": "es",
+    "code": "es-ES",
+    "src": "es",
+    "dir": "",
+    "label": "Español",
+    "name": "España",
+    "home": "/es/pagina-de-inicio"
+   }
+  ],
+  "company": {
+   "name": "ZOLLER Ibérica S.L.",
+   "lines": [
+    "Avenida Bogatell, 23 bajos, puerta 1, escalera 4",
+    "E-08005 Barcelona",
+    "España"
+   ],
+   "phone": "+34 932 156 702",
+   "email": "correo@zoller.info"
+  }
+ },
+ "fr": {
+  "repo": "zoller-france",
+  "url": "https://mzollercreations.github.io/zoller-france/",
+  "out": "dist/zoller-france",
+  "country": "France",
+  "flag": "fr",
+  "geo": {
+   "country": "France",
+   "lat": 48.5545,
+   "lng": 7.6817,
+   "city": "Lingolsheim",
+   "view": [
+    46,
+    3,
+    4.3
+   ],
+   "side": "nw",
+   "region": "Europa"
+  },
+  "locales": [
+   {
+    "lang": "fr",
+    "code": "fr-FR",
+    "src": "fr",
+    "dir": "",
+    "label": "Français",
+    "name": "France",
+    "home": "/fr/page-daccueil"
+   }
+  ],
+  "company": {
+   "name": "ZOLLER S.à r.l.",
+   "lines": [
+    "6 rue de la Faisanderie",
+    "F-67882 Lingolsheim",
+    "France"
+   ],
+   "phone": "+33 3 88 78 59 59",
+   "email": "info@zoller.fr"
+  }
+ },
+ "pt": {
+  "repo": "zoller-portugal",
+  "url": "https://mzollercreations.github.io/zoller-portugal/",
+  "out": "dist/zoller-portugal",
+  "country": "Portugal",
+  "flag": "pt",
+  "geo": {
+   "country": "Portugal",
+   "lat": 40.8981,
+   "lng": -8.5033,
+   "city": "São João da Madeira",
+   "view": [
+    40,
+    -6,
+    4.3
+   ],
+   "side": "sw",
+   "region": "Europa"
+  },
+  "locales": [
+   {
+    "lang": "pt",
+    "code": "pt-PT",
+    "src": "pt",
+    "dir": "",
+    "label": "Português",
+    "name": "Portugal",
+    "home": "/pt/pagina-inicial"
+   }
+  ],
+  "company": {
+   "name": "ZOLLER Ibérica, S.L.U. Sucursal em Portugal",
+   "lines": [
+    "Avenida do Brasil 363-A R/C",
+    "3700-071 São João da Madeira",
+    "Portugal"
+   ],
+   "phone": "+351 256 130 479",
+   "email": "correo@zoller.info"
+  }
+ },
+ "it": {
+  "repo": "zoller-italy",
+  "url": "https://mzollercreations.github.io/zoller-italy/",
+  "out": "dist/zoller-italy",
+  "country": "Italia",
+  "flag": "it",
+  "geo": {
+   "country": "Italy",
+   "lat": 45.6001,
+   "lng": 9.8903,
+   "city": "Palazzolo sull'Oglio",
+   "view": [
+    43,
+    11,
+    4.3
+   ],
+   "side": "se",
+   "region": "Europa"
+  },
+  "locales": [
+   {
+    "lang": "it",
+    "code": "it-IT",
+    "src": "it",
+    "dir": "",
+    "label": "Italiano",
+    "name": "Italia",
+    "home": "/it/home-page"
+   }
+  ],
+  "company": {
+   "name": "Multicontrol S.r.l.",
+   "lines": [
+    "Via Raso 13/A",
+    "IT-25036 Palazzolo sull'Oglio (BS)",
+    "Italia"
+   ],
+   "phone": "",
+   "email": "info@multicontrol.it"
+  }
+ },
+ "se": {
+  "repo": "zoller-sweden",
+  "url": "https://mzollercreations.github.io/zoller-sweden/",
+  "out": "dist/zoller-sweden",
+  "country": "Sverige",
+  "flag": "se",
+  "geo": {
+   "country": "Sweden",
+   "lat": 59.3714,
+   "lng": 16.5098,
+   "city": "Eskilstuna",
+   "view": [
+    58,
+    14,
+    4.3
+   ],
+   "side": "ne",
+   "region": "Europa"
+  },
+  "locales": [
+   {
+    "lang": "sv",
+    "code": "sv-SE",
+    "src": "se",
+    "dir": "",
+    "label": "Svenska",
+    "name": "Sverige",
+    "home": "/se/startsida"
+   }
+  ],
+  "company": {
+   "name": "ZOLLER Sweden AB",
+   "lines": [
+    "Kungsgatan 98",
+    "SE-632 21 Eskilstuna",
+    "Sverige"
+   ],
+   "phone": "+46 152 423 59",
+   "email": "info@zoller-se.com"
+  }
+ },
+ "pl": {
+  "repo": "zoller-poland",
+  "url": "https://mzollercreations.github.io/zoller-poland/",
+  "out": "dist/zoller-poland",
+  "country": "Polska",
+  "flag": "pl",
+  "geo": {
+   "country": "Poland",
+   "lat": 52.089,
+   "lng": 17.015,
+   "city": "Śrem",
+   "view": [
+    51,
+    17,
+    4.3
+   ],
+   "side": "ne",
+   "region": "Europa"
+  },
+  "locales": [
+   {
+    "lang": "pl",
+    "code": "pl-PL",
+    "src": "pl",
+    "dir": "",
+    "label": "Polski",
+    "name": "Polska",
+    "home": "/pl/strona-glowna"
+   }
+  ],
+  "company": {
+   "name": "ZOLLER Polska Sp. z o.o.",
+   "lines": [
+    "ul. Wiejska 24",
+    "63-100 Śrem",
+    "Polska"
+   ],
+   "phone": "+48 519 199 134",
+   "email": "pawlowski@zoller-a.at"
+  }
+ },
+ "si": {
+  "repo": "zoller-slovenia",
+  "url": "https://mzollercreations.github.io/zoller-slovenia/",
+  "out": "dist/zoller-slovenia",
+  "country": "Slovenija",
+  "flag": "si",
+  "geo": {
+   "country": "Slovenia",
+   "lat": 46.0569,
+   "lng": 14.5058,
+   "city": "Ljubljana",
+   "view": [
+    45,
+    14,
+    4.3
+   ],
+   "side": "se",
+   "region": "Europa"
+  },
+  "locales": [
+   {
+    "lang": "sl",
+    "code": "sl-SI",
+    "src": "si",
+    "dir": "",
+    "label": "Slovenščina",
+    "name": "Slovenija",
+    "home": "/si/domaca-stran"
+   }
+  ],
+  "company": {
+   "name": "ZOLLER Austria GmbH",
+   "lines": [
+    "Haydnstraße 2",
+    "A-4910 Ried im Innkreis",
+    "Avstrija"
+   ],
+   "phone": "+43 7752 87725-0",
+   "email": "office@zoller-a.at"
+  }
+ },
+ "cz": {
+  "repo": "zoller-czechia",
+  "url": "https://mzollercreations.github.io/zoller-czechia/",
+  "out": "dist/zoller-czechia",
+  "country": "Česko",
+  "flag": "cz",
+  "geo": {
+   "country": "Czech Republic",
+   "lat": 49.1937,
+   "lng": 16.607,
+   "city": "Brno",
+   "view": [
+    49,
+    15,
+    4.3
+   ],
+   "side": "ne",
+   "region": "Europa"
+  },
+  "locales": [
+   {
+    "lang": "cs",
+    "code": "cs-CZ",
+    "src": "cz",
+    "dir": "",
+    "label": "Čeština",
+    "name": "Česko",
+    "home": "/cz/uvodni-stranka"
+   }
+  ],
+  "company": {
+   "name": "ZOLLER CZECH s.r.o.",
+   "lines": [
+    "Dominikánské náměstí 656/2",
+    "CZ-602 00 Brno",
+    "Česko"
+   ],
+   "phone": "",
+   "email": "info@zoller.cz"
+  }
+ },
+ "hu": {
+  "repo": "zoller-hungary",
+  "url": "https://mzollercreations.github.io/zoller-hungary/",
+  "out": "dist/zoller-hungary",
+  "country": "Magyarország",
+  "flag": "hu",
+  "geo": {
+   "country": "Hungary",
+   "lat": 47.4979,
+   "lng": 19.0402,
+   "city": "Budapest",
+   "view": [
+    47,
+    18,
+    4.3
+   ],
+   "side": "se",
+   "region": "Europa"
+  },
+  "locales": [
+   {
+    "lang": "hu",
+    "code": "hu-HU",
+    "src": "hu",
+    "dir": "",
+    "label": "Magyar",
+    "name": "Magyarország",
+    "home": "/hu/fooldal"
+   }
+  ],
+  "company": {
+   "name": "ZOLLER Austria GmbH",
+   "lines": [
+    "Haydnstraße 2",
+    "A-4910 Ried im Innkreis",
+    "Ausztria"
+   ],
+   "phone": "+43 7752 87725-0",
+   "email": "office@zoller-a.at"
+  }
+ },
+ "sk": {
+  "repo": "zoller-slovakia",
+  "url": "https://mzollercreations.github.io/zoller-slovakia/",
+  "out": "dist/zoller-slovakia",
+  "country": "Slovensko",
+  "flag": "sk",
+  "geo": {
+   "country": "Slovakia",
+   "lat": 48.1486,
+   "lng": 17.1077,
+   "city": "Bratislava",
+   "view": [
+    48,
+    18,
+    4.3
+   ],
+   "side": "se",
+   "region": "Europa"
+  },
+  "locales": [
+   {
+    "lang": "sk",
+    "code": "sk-SK",
+    "src": "sk",
+    "dir": "",
+    "label": "Slovenčina",
+    "name": "Slovensko",
+    "home": "/sk/domovska-stranka"
+   }
+  ],
+  "company": {
+   "name": "ZOLLER CZECH s.r.o.",
+   "lines": [
+    "Dominikánské náměstí 656/2",
+    "CZ-602 00 Brno",
+    "Česko"
+   ],
+   "phone": "",
+   "email": "info@zoller.cz"
+  }
+ },
+ "cn": {
+  "repo": "zoller-china",
+  "url": "https://mzollercreations.github.io/zoller-china/",
+  "out": "dist/zoller-china",
+  "country": "中国",
+  "flag": "cn",
+  "geo": {
+   "country": "China",
+   "lat": 31.1133,
+   "lng": 121.3817,
+   "city": "上海",
+   "view": [
+    32,
+    108,
+    4.4
+   ],
+   "side": "se",
+   "region": "Asien"
+  },
+  "locales": [
+   {
+    "lang": "zh",
+    "code": "zh-CN",
+    "src": "ch",
+    "dir": "",
+    "label": "简体中文",
+    "name": "中国",
+    "home": "/ch/首页"
+   }
+  ],
+  "company": {
+   "name": "ZOLLER Shanghai, Ltd.",
+   "lines": [
+    "上海市闵行区北横沙河路468弄70号",
+    "468-70 North Hengshahe Road, Minhang District",
+    "CN-201108 Shanghai"
+   ],
+   "phone": "+86 21 3407 3978",
+   "email": "info@zoller-cn.com"
+  }
+ },
+ "jp": {
+  "repo": "zoller-japan",
+  "url": "https://mzollercreations.github.io/zoller-japan/",
+  "out": "dist/zoller-japan",
+  "country": "日本",
+  "flag": "jp",
+  "geo": {
+   "country": "Japan",
+   "lat": 34.752,
+   "lng": 135.5284,
+   "city": "大阪",
+   "view": [
+    36,
+    136,
+    4.3
+   ],
+   "side": "se",
+   "region": "Asien"
+  },
+  "locales": [
+   {
+    "lang": "ja",
+    "code": "ja-JP",
+    "src": "ja",
+    "dir": "",
+    "label": "日本語",
+    "name": "日本",
+    "home": "/ja/トップページ"
+   }
+  ],
+  "company": {
+   "name": "ZOLLER Japan K.K.",
+   "lines": [
+    "〒564-0033",
+    "大阪府吹田市東御旅町5-11"
+   ],
+   "phone": "+81 6-6318-1910",
+   "email": "info@zoller-jp.com"
+  }
+ },
+ "kr": {
+  "repo": "zoller-korea",
+  "url": "https://mzollercreations.github.io/zoller-korea/",
+  "out": "dist/zoller-korea",
+  "country": "대한민국",
+  "flag": "kr",
+  "geo": {
+   "country": "South Korea",
+   "lat": 37.3873,
+   "lng": 126.804,
+   "city": "시흥",
+   "view": [
+    36,
+    128,
+    4.3
+   ],
+   "side": "nw",
+   "region": "Asien"
+  },
+  "locales": [
+   {
+    "lang": "ko",
+    "code": "ko-KR",
+    "src": "kr",
+    "dir": "",
+    "label": "한국어",
+    "name": "대한민국",
+    "home": "/kr/홈"
+   }
+  ],
+  "company": {
+   "name": "ZOLLER Korea Co., Ltd.",
+   "lines": [
+    "경기도 시흥시 엠티브이북로 21-16, 505-112호",
+    "(우) 15119"
+   ],
+   "phone": "+82 31 433 3535",
+   "email": "info@zoller-kr.com"
+  }
+ },
+ "in": {
+  "repo": "zoller-india",
+  "url": "https://mzollercreations.github.io/zoller-india/",
+  "out": "dist/zoller-india",
+  "country": "India",
+  "flag": "in",
+  "geo": {
+   "country": "India",
+   "lat": 28.7144,
+   "lng": 77.1294,
+   "city": "Delhi",
+   "view": [
+    22,
+    79,
+    4.4
+   ],
+   "side": "ne",
+   "region": "Asien"
+  },
+  "locales": [
+   {
+    "lang": "en",
+    "code": "en-IN",
+    "src": "in",
+    "dir": "",
+    "label": "English",
+    "name": "India",
+    "home": "/in/homepage"
+   }
+  ],
+  "company": {
+   "name": "ZOLLER India Private Ltd.",
+   "lines": [
+    "M-24, Badli Industrial Estate, Phase 1 – Badli",
+    "Delhi – 110042",
+    "India"
+   ],
+   "phone": "+91 95608 78899",
+   "email": "sales@zoller-in.com"
+  }
+ },
+ "br": {
+  "repo": "zoller-brazil",
+  "url": "https://mzollercreations.github.io/zoller-brazil/",
+  "out": "dist/zoller-brazil",
+  "country": "Brasil",
+  "flag": "br",
+  "geo": {
+   "country": "Brazil",
+   "lat": -23.0258,
+   "lng": -46.9902,
+   "city": "Vinhedo",
+   "view": [
+    -15,
+    -50,
+    4.4
+   ],
+   "side": "se",
+   "region": "Lateinamerika"
+  },
+  "locales": [
+   {
+    "lang": "pt",
+    "code": "pt-BR",
+    "src": "br",
+    "dir": "",
+    "label": "Português",
+    "name": "Brasil",
+    "home": "/br/pagina-inicial"
+   }
+  ],
+  "company": {
+   "name": "ZOLLER do Brasil Soluções para a Otimização de Produção Ltda.",
+   "lines": [
+    "Rua Luiz Briski, 980 – Nova Vinhedo",
+    "Vinhedo – SP, CEP 13284-198",
+    "Brasil"
+   ],
+   "phone": "+55 11 2798 4244",
+   "email": "comercial@zoller-br.com"
+  }
+ },
+ "uk": {
+  "repo": "zoller-uk",
+  "url": "https://mzollercreations.github.io/zoller-uk/",
+  "out": "dist/zoller-uk",
+  "country": "United Kingdom",
+  "flag": "gb",
+  "geo": {
+   "country": "United Kingdom",
+   "lat": 52.8855,
+   "lng": -1.708,
+   "city": "Foston",
+   "view": [
+    53,
+    -3,
+    4.3
+   ],
+   "side": "nw",
+   "region": "Europa"
+  },
+  "locales": [
+   {
+    "lang": "en",
+    "code": "en-GB",
+    "src": "en_DE",
+    "overlay": "uk",
+    "dir": "",
+    "label": "English",
+    "name": "United Kingdom",
+    "home": "/en_DE/home"
+   }
+  ],
+  "company": {
+   "name": "ZOLLER UK Ltd.",
+   "lines": [
+    "Faraday House, Tomlinson Business Park",
+    "Woodyard Lane, Foston",
+    "Derbyshire DE65 5DJ",
+    "United Kingdom"
+   ],
+   "phone": "+44 1283 585933",
+   "email": "info@zoller-uk.com"
+  }
+ },
+ "ru": {
+  "repo": "zoller-russia",
+  "url": "https://mzollercreations.github.io/zoller-russia/",
+  "out": "dist/zoller-russia",
+  "country": "Россия",
+  "flag": "ru",
+  "geo": {
+   "country": "Russia",
+   "lat": 55.7585,
+   "lng": 37.7745,
+   "city": "Moscow",
+   "view": [
+    55,
+    40,
+    3.2
+   ],
+   "side": "ne",
+   "region": "Europa"
+  },
+  "locales": [
+   {
+    "lang": "ru",
+    "code": "ru-RU",
+    "src": "ru",
+    "dir": "",
+    "label": "Русский",
+    "name": "Россия",
+    "home": "/ru/home"
+   }
+  ],
+  "company": {
+   "name": "ООО ЦОЛЛЕР Руссланд",
+   "lines": [
+    "шоссе Энтузиастов, д. 56, стр. 32, офис 136",
+    "111123 Москва",
+    "Россия"
+   ],
+   "phone": "+7 495 221 40 58",
+   "email": "info@zoller-ru.com"
+  }
+ },
+ "tr": {
+  "repo": "zoller-turkey",
+  "url": "https://mzollercreations.github.io/zoller-turkey/",
+  "out": "dist/zoller-turkey",
+  "country": "Türkiye",
+  "flag": "tr",
+  "geo": {
+   "country": "Turkey",
+   "lat": 40.2195,
+   "lng": 28.9585,
+   "city": "Bursa",
+   "view": [
+    39,
+    33,
+    4.3
+   ],
+   "side": "se",
+   "region": "Europa"
+  },
+  "locales": [
+   {
+    "lang": "tr",
+    "code": "tr-TR",
+    "src": "tr",
+    "dir": "",
+    "label": "Türkçe",
+    "name": "Türkiye",
+    "home": "/tr/home"
+   }
+  ],
+  "company": {
+   "name": "ZOLLER Ölçüm Teknolojileri San. ve Tic. Ltd. Şti.",
+   "lines": [
+    "Alaaddinbey Mahallesi 631. Sokak No: 3/C",
+    "16120 Nilüfer/Bursa",
+    "Türkiye"
+   ],
+   "phone": "+90 224 443 66 62",
+   "email": "info@zoller-tr.com"
+  }
  }
 }

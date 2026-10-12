@@ -3,7 +3,7 @@ Findet Texte einer Länderfassung, die auf zoller.info nicht übersetzt sind (de
 Texte auf französischen/spanischen Seiten …) und noch nicht in content/sites/<sprachpfad>/translations.json
 stehen.
 
-Aufruf:  python3 tools/untranslated.py <sprachpfad> [ausgabe.json]      (ca, ca-fr, mx)
+Aufruf:  python3 tools/untranslated.py <sprachpfad> [ausgabe.json]      (ca, ca-fr, mx, it, pl, ch, ja …)
 
 Ausgabe: {Text: Datei} – die Übersetzungen kommen als {Text: Übersetzung} in translations.json.
 Namen und Marken, die unverändert bleiben sollen, trägt man dort mit sich selbst ein (gilt dann als geprüft).
@@ -21,9 +21,18 @@ STOP = {
     "en": set("and the with for that this are from which our you your is of to in on can be by an".split()),
     "fr": set("et les des pour avec une dans est sur qui vous nous du au la le de en par sont".split()),
     "es": set("y los las para con una del que por más el la de en se su sus es al como".split()),
+    "it": set("il di che della sono nel alla degli delle anche per con una gli le del al è".split()),
+    "pt": set("os das com uma não são também pelo dos às para que do da no na ao é".split()),
+    "sv": set("och att som för med är av på till inte det en ett den de vi".split()),
+    "pl": set("się jest oraz dla przez jako może także nie są w z na do i że".split()),
+    "sl": set("in je za ki so tudi lahko pri ali kot se na z v da".split()),
+    "cs": set("pro jsou které také jako nebo při jejich může této se na je a v že".split()),
+    "hu": set("és az egy hogy nem van vagy is ezt által a meg el ki".split()),
+    "sk": set("pre sú ktoré tiež ako alebo pri ich môže tejto sa na je a v že".split()),
 }
 # Sprachen, die auf einer Seite der Zielsprache nicht vorkommen sollten (fr/es teilen viele Funktionswörter)
 FOREIGN = {"en": ("de", "fr"), "fr": ("de", "en"), "es": ("de", "en")}
+CJK = {"zh": r"[\u4e00-\u9fff]", "ja": r"[\u3040-\u30ff\u4e00-\u9fff]", "ko": r"[\uac00-\ud7af]"}
 GERMAN_HINT = re.compile(r"[äöüßÄÖÜ]|\b(und|der|die|das|mit|für|zur|zum|bei|oder|Ihre?|Sie|eingeben|senden|Anschreiben|Lebenslauf|"
                          r"Zeugnisse|Anzahl|Modulares|Digitale|Effizienter|Sicherer|Smarte|Zentrale|Werkzeug\w*|\w*spindel|\w*adapter|"
                          r"Schritt|Nachricht|Kontaktdaten|Vorname|Nachname|Firma|Straße|Ort|Telefon|Anfrage)\b|"
@@ -71,13 +80,14 @@ def site_files(src):
 
 
 def score(t, lang):
-    words = re.findall(r"[a-zäöüßéèàùâêîôûçñáíóú']+", t.lower())
+    words = re.findall(r"[^\W\d_]+'?", t.lower())
     return sum(1 for w in words if w in STOP[lang])
 
 
 def find(loc):
     sites = json.load(open(os.path.join(ROOT, "content", "sites.json"), encoding="utf-8"))
     lang = next(l["lang"] for s in sites.values() for l in s["locales"] if l["src"] == loc)
+    foreign_langs = FOREIGN.get(lang, ("de", "en"))
     tr_file = os.path.join(ROOT, "content", "sites", loc, "translations.json")
     done = json.load(open(tr_file, encoding="utf-8")) if os.path.exists(tr_file) else {}
     de = segments(site_files(""))
@@ -93,12 +103,15 @@ def find(loc):
             continue
         n = len(t.split())
         bad = False
-        if n >= 4:
-            foreign = max(score(t, o) for o in FOREIGN[lang])
+        if lang in CJK:
+            # Chinesisch, Japanisch, Koreanisch: Text ohne eigene Schriftzeichen mit deutschen/englischen Funktionswörtern
+            bad = n >= 3 and not re.search(CJK[lang], t) and max(score(t, "de"), score(t, "en")) >= 2
+        elif n >= 4:
+            foreign = max(score(t, o) for o in foreign_langs)
             bad = foreign >= 2 and foreign > score(t, lang)
         if not bad and t in de and GERMAN_HINT.search(t) and not ADDRESS.search(t):
             bad = True   # deutscher Rest (gleicher Text wie auf der deutschen Seite)
-        if not bad and n >= 2 and t in other and t not in de and other[t] in FOREIGN[lang] and re.search(r"\b[a-zé]{3,}", t):
+        if not bad and lang not in CJK and n >= 2 and t in other and t not in de and other[t] in foreign_langs and re.search(r"\b[a-zé]{3,}", t):
             # Text aus einer anderen Sprachfassung (z. B. englisch auf der spanischen Seite) – auf englischen
             # Seiten nur, wenn er erkennbar französisch/spanisch ist (englische Reste der fr-Seite sind hier richtig)
             if lang == "en":

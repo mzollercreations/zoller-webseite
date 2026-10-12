@@ -1,0 +1,543 @@
+{
+ "path": "/produkty/sprava-nastrojov/prenos-udajov/zidcode/casto-kladene-otazky",
+ "url": "/sk/produkty/sprava-nastrojov/prenos-udajov/zidcode/casto-kladene-otazky",
+ "title": "»zidCode« – Často kladené otázky",
+ "description": "Často kladené otázky - »zidCode« – Často kladené otázky",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/sk/domovska-stranka"
+  },
+  {
+   "label": "Produkty /",
+   "href": "/sk/produkty"
+  },
+  {
+   "label": "Správa nástrojov /",
+   "href": "/sk/produkty/sprava-nastrojov"
+  },
+  {
+   "label": "Prenos údajov /",
+   "href": "/sk/produkty/sprava-nastrojov/prenos-udajov"
+  },
+  {
+   "label": "»zidCode« /",
+   "href": "/sk/produkty/sprava-nastrojov/prenos-udajov/zidcode"
+  },
+  {
+   "label": "Často kladené otázky",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/sk/domovska-stranka"
+  },
+  {
+   "label": "Produkty /",
+   "href": "/sk/produkty"
+  },
+  {
+   "label": "Správa nástrojov /",
+   "href": "/sk/produkty/sprava-nastrojov"
+  },
+  {
+   "label": "Prenos údajov /",
+   "href": "/sk/produkty/sprava-nastrojov/prenos-udajov"
+  },
+  {
+   "label": "»zidCode« /",
+   "href": "/sk/produkty/sprava-nastrojov/prenos-udajov/zidcode"
+  },
+  {
+   "label": "Často kladené otázky",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/zidcode/faq",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management/data-transfer/zidcode/faq",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas/transferencia-de-datos/zidcode/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils/transfert-de-donnees/zidcode/faq",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas/transferencia-de-dados/zidcode/perguntas-frequentes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management/trasferimento-dei-dati/zidcode/domande-frequenti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering/dataoeverfoering/zidcode/vanliga-fraagor",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement/datentransfer/zidcode/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/data-transfer/zidcode/faq",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils/transfert-de-donnees/zidcode/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E3%83%87%E3%83%BC%E3%82%BF%E8%BB%A2%E9%80%81/zidcode/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1/zidcode/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management/data-transfer/zidcode/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas/transferencia-de-datos/zidcode/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas/transferencia-de-dados/zidcode/perguntas-frequentes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»zidCode«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/sk/produkty/sprava-nastrojov/prenos-udajov/zidcode",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "»zidCode 4.0«",
+     "href": "/sk/produkty/sprava-nastrojov/prenos-udajov/zidcode/zidcode-40",
+     "current": false
+    },
+    {
+     "label": "»zidCode«",
+     "href": "/sk/produkty/sprava-nastrojov/prenos-udajov/zidcode/zidcode",
+     "current": false
+    },
+    {
+     "label": "Softvér a integrácia",
+     "href": "/sk/produkty/sprava-nastrojov/prenos-udajov/zidcode/softver-a-integracia",
+     "current": false
+    },
+    {
+     "label": "Často kladené otázky",
+     "href": "/sk/produkty/sprava-nastrojov/prenos-udajov/zidcode/casto-kladene-otazky",
+     "current": false
+    },
+    {
+     "label": "Informačný portál",
+     "href": "/sk/produkty/sprava-nastrojov/prenos-udajov/zidcode/informacny-portal",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c840",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Často kladené otázky </h1>",
+      "body": "<p>Často kladené otázky</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c844",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Aké požiadavky musí spĺňať moje meracie a nastavovacie zariadenie ZOLLER?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>»zidCode«:<br/>Váš nastavovací a merací prístroj ZOLLER vyžaduje jednu z nasledujúcich verzií softvéru »pilot«: »pilot 4.0«, »pilot 3.0« alebo »pilot 2 mT« od verzie 1.15.0.0, alebo »pilot 1.0« od verzie 1.15.13.0 a tlačiarňu štítkov.</p> <p>»zidCode 4.0«:<br/>Váš nastavovací a merací prístroj ZOLLER vyžaduje softvér »pilot 4.0« od verzie 1.18.23, sieťové pripojenie a postprocesor s príslušným výstupným formátom, aby bolo možné bezdrôtovo prenášať údaje o nástrojoch do vášho obrábacieho stroja. </p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c853",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Aké požiadavky musí spĺňať môj CNC stroj?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>»zidCode«:<br/>USB kábel na simuláciu klávesnice alebo USB kľúč na simuláciu + sériové rozhranie (RS-232) alebo Ethernet na prenos dát. Požiadavky pre stroje s riadením FANUC: CNC stroj s voľným sieťovým pripojením (bez sieťového prepínača), riadenie FANUC s rozhraním FOCAS, typy riadenia: 30i / 31i / Oi-F / 32i</p> <p>»zidCode 4.0«:<br/>Váš CNC stroj musí byť pripravený na pripojenie do siete. Pre »zidCode 4.0« musí byť na stroji k dispozícii sieťové a napájacie pripojenie. CNC stroj musí byť buď integrovaný do výrobnej siete, alebo musí byť k dispozícii voľné sieťové pripojenie.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c851",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Koľko trvá inštalácia?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>»zidCode«:<br/>Počítame s približne jednou hodinou na stroj. K tomu treba pripočítať jeden deň na školenie a v prípade potreby jeden deň na aktualizáciu nastavovacieho a meracieho zariadenia ZOLLER.</p> <p>»zidCode 4.0«:<br/>Približne pol dňa na stroj. K tomu treba pripočítať jeden až dva dni na školenie a v prípade potreby jeden deň na aktualizáciu nastavovacieho a meracieho zariadenia ZOLLER.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c849",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Ktorý model je vhodný pre moju výrobu?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>»zidCode«:<br/>Ak nechcete pracovať cez sieť. S »zidCode« eliminujete chyby pri zadávaní údajov na stroji. Obsluha stroja naskenuje kód a údaje o nástroji sa správne prenesú do riadiacej jednotky stroja. </p> <p>»zidCode 4.0«:<br/>Ak chcete/môžete pracovať cez sieť a chcete profitovať z ešte väčšej efektívnosti výrobného procesu. »zidCode 4.0« ponúka ešte širšie spektrum výkonov v oblasti prepojenia, optimalizácie procesov a zvyšovania efektívnosti. </p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c847",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Ako pripojím svoj CNC stroj?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>»zidCode«:<br/>Jednoduché pripojenie priamo k stroju prostredníctvom USB, sériového alebo sieťového kábla. Správnu konfiguráciu zabezpečuje správnu funkciu »zidCode«.</p> <p>»zidCode 4.0«:<br/>Na to by sa stroj mal nachádzať v tej istej sieti ako jednotka »zidCode 4.0« a váš nastavovací a merací prístroj ZOLLER. Na to je potrebné sieťové pripojenie pre výrobnú sieť na CNC stroji. Ak sa stroj nachádza v izolovanej sieti, »zidCode 4.0« môže komunikovať aj s dvoma sieťami pomocou voliteľného rozšírenia.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c855",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Ako pripevním »zidCode« a »zidCode 4.0« na svoj CNC stroj?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Monitor oboch verzií, »zidCode« a »zidCode 4.0«, sa pripevňuje k vášmu obrábaciemu stroju pomocou veľmi silných magnetov. Bez vŕtania, s minimálnou námahou a pevne uchytený – aj počas prevádzky. »Model zidCode 4.0« je alternatívne k dispozícii aj na stojane, ktorý môžete umiestniť vedľa vášho stroja.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c857",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Potrebujem vlastnú elektrickú prípojku?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>»zidCode«:<br/>Ak používate USB, tak nie. Ak používate ethernet alebo sériové rozhranie, tak áno. Ak napájanie cez USB nestačí (staršie káble pri starších zariadeniach), je možné si voliteľne objednať externý napájací zdroj.</p> <p>»zidCode 4.0«:<br/>Áno, vždy.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c859",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Aké požiadavky musia spĺňať moje držiaky nástrojov?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>»zidCode«:<br/>Žiadne. Príslušný QR kód na prenos údajov sa vytlačí na štítok na nastavovacom a meracom zariadení ZOLLER. Tieto štítky môžete buď pripnúť na držiaky nástrojov pomocou našich držiakov ZOLLER Tooltag, alebo ich nalepiť priamo na nástroj. </p> <p>»zidCode 4.0«:<br/>Všetky držiaky nástrojov musia byť označené jednoznačným 2D kódom. Spoločnosť ZOLLER ponúka spoľahlivé riešenia »idLabel« alebo »idChip« na trvalé označenie nástrojov. Pomocou kódu sa identifikuje váš držiak nástroja a príslušné údaje sa načítajú zo siete. Alternatívne je možné držiak nástroja označiť 2D kódom aj laserovým značením.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c861",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Na svojom CNC stroji už mám obrazovku. Môžem na nej používať softvér »zidCode 4.0«?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Áno, to je možné! Riešenie »zidCode 4.0« vám dodáme aj bez dotykovej obrazovky. Aplikácia »zidCode 4.0« je webová a je možné ju používať na obrazovkách akéhokoľvek formátu. Namiesto skrinky »zidCode 4.0« dostanete skrinku »zidCode« vrátane snímača.</p>",
+          "images": [
+           {
+            "src": "/fileadmin/_processed_/3/b/csm_software_zidCode4_7a2e75321f.webp",
+            "alt": "",
+            "w": 1920,
+            "h": 1690
+           }
+          ],
+          "videos": [],
+          "pos": "below",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c864",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c845",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c843",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Správa nástrojov: Vaše výhody",
+     "caption": "<figcaption> <h3>Správa nástrojov: Vaše výhody</h3> <p>Zistite, ako systém správy nástrojov od spoločnosti ZOLLER okamžite zvýši vašu produktivitu. Vďaka údajom o nástrojoch prebiehajú procesy rýchlejšie a bezpečnejšie – vrátane ochrany pred kolíziou pre vaše stroje. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Rozhovor s odborníkom",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Rozhovor s odborníkom</h3> <p>Individuálna diskusia o vašich cieľoch a našich nápadoch, ako ich dosiahnuť. Online poradenstvo spoločnosti ZOLLER priamo zo Smart Factory. Dohodnite si termín už teraz. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/1/csm_teaser_kontakt_e9808d5a35.webp",
+    "alt": ""
+   },
+   "text": "<h3>Kontaktovať nás</h3> <p><a class=\"btn\" href=\"/sk/spolocnost/kontakt/kontaktna-osoba\">Nájsť kontaktnú osobu</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c781",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/sk/produkty/sprava-nastrojov/prenos-udajov/zidcode/casto-kladene-otazky",
+ "de_path": "/produkte/toolmanagement/zidcode/faq"
+}

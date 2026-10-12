@@ -1,0 +1,471 @@
+{
+ "path": "/sistem",
+ "url": "/si/sistem",
+ "title": "Sistem",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/si/domaca-stran"
+  },
+  {
+   "label": "Sistem",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/si/domaca-stran"
+  },
+  {
+   "label": "Sistem",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/das-system",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/the-system",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/el-sistema",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/le-systeme",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/o-sistema",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/il-sistema",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/systemet",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/das-system",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/the-system",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/le-systeme",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%8B%9C%EC%8A%A4%ED%85%9C",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/the-system",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/el-sistema",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/o-sistema",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/01_Pages/The_System/ZOLLER_WELT_1920x1080.mp4",
+     "title": "ZOLLER – edini s sistemom",
+     "kicker": "",
+     "text": "<p>Naši kupci uživajo koristi<br/>celostnih rešitev,<br/>ki jih že desetletja razvijamo.<br/>Rezultat: izjemna učinkovitost. </p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c604",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "66-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2 class=\"headline-decor\"> Začnite z rešitvijo – vstopite v sistem. </h2>",
+      "body": "<p class=\"extra-large-text\">Najvarnejši način, da dolgoročno ohranite svojo konkurenčnost, je odločitev za celovit sistem.</p> <p class=\"extra-large-text\">ZOLLER je edini proizvajalec na svetu, ki vam lahko ponudi takšen sistem. V središče postavlja orodja za obdelavo in na podlagi podatkov povezuje s tem povezane procese. Rezultat: najvišja ekonomičnost, kakovost in natančnost za vašo obdelavo.</p> <p class=\"extra-large-text\">Začnete tam, kjer ste. Ustaviš se tam, kjer so vaše potrebe izpolnjene. In vedno imate gotovost, da lahko naredite naslednji korak. </p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c556",
+      "bg": "yellow",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    []
+   ],
+   "ftype": "container-2cols",
+   "id": "c1854",
+   "bg": "yellow",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "hotspots",
+   "header": "",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/2/4/csm_zoller_system_en_7439d4eabe.webp",
+    "alt": "zoller system",
+    "w": 1540,
+    "h": 1193
+   },
+   "spots": [
+    {
+     "x": 71.714,
+     "y": 20.307,
+     "label": "Upravljanje orodij",
+     "text": "<h3>Upravljanje orodij</h3> <p>Omare za orodje, montažne postaje, programska oprema in vmesniki: ZOLLER poskrbi za red v orodjarni in izboljša preglednost podatkov o orodju. </p> <p>Vaše prednosti <a class=\"btn\" href=\"/produkte/toolmanagement\">Prikaži izdelke</a></p>"
+    },
+    {
+     "x": 87.074,
+     "y": 38.032,
+     "label": "tehnika krčenja",
+     "text": "<h3>tehnika krčenja</h3> <p>Najbolj inovativne rešitve za vstavljanje in odstranjevanje orodij: vrhunsko vodenje uporabnika, zmanjšana poraba energije in rekordno kratki časi obdelave. </p> <p><a class=\"btn\" href=\"/si/resitve/tehnika-krcenja\">Vaše prednosti</a> <a class=\"btn\" href=\"/produkte/schrumpftechnik\">Prikaži izdelke</a></p>"
+    },
+    {
+     "x": 89.237,
+     "y": 54.501,
+     "label": "tehnika uravnoteženja",
+     "text": "<h3>tehnika uravnoteženja</h3> <p>Daljša življenjska doba orodja, boljša kakovost površin: z najboljšimi uravnotežnimi napravami na trgu. </p> <p><a class=\"btn\" href=\"/si/resitve/tehnika-uravnotezenja\">Vaše prednosti</a> <a class=\"btn\" href=\"/produkte/wuchttechnik\">Prikaži izdelke</a></p>"
+    },
+    {
+     "x": 38.021,
+     "y": 59.037,
+     "label": "Nosilci orodja z ZOLLER »idChip«",
+     "text": "<h3>Nosilci orodja z ZOLLER »idChip«</h3> <p>»idChip« – idealna povezava med orodjem in digitalno proizvodnjo.</p> <p><a class=\"btn\" href=\"/si/resitve/nosilci-orodja\">Vaše prednosti</a> <a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">Neposredno v trgovino z orodji</a></p>"
+    },
+    {
+     "x": 42.347,
+     "y": 77.53,
+     "label": "Preverjanje in merjenje",
+     "text": "<h3>Preverjanje in merjenje</h3> <p>Dokumentirajte kakovost in ustvarite digitalne dvojnike.</p> <p><a class=\"btn\" href=\"/si/resitve/preverjanje-in-merjenje\">Vaše prednosti</a> <a class=\"btn\" href=\"/produkte/pruefen-messen\">Prikaži izdelke</a></p>"
+    },
+    {
+     "x": 64.954,
+     "y": 84.787,
+     "label": "Brušenje orodja",
+     "text": "<h3>Brušenje orodja</h3> <p>Za proizvajalce orodja in podjetja za brušenje so merilni podatki in upravljanje podatkov ključnega pomena za doseganje visoke stroškovne učinkovitosti in dokumentirane kakovosti. ZOLLER vam ponuja vse, kar za to potrebujete.</p> <p><a class=\"btn\" href=\"/si/brusenje-orodja\">Več informacij</a></p>"
+    },
+    {
+     "x": 75.23,
+     "y": 84.368,
+     "label": "Rezkanje",
+     "text": "<h3>Rezkanje</h3> <p>Večja stroškovna učinkovitost pri postopkih rezkanja z orodnimi podatki z natančnostjo do mikrometra in digitalizacijo od CAM do končnega izdelka.</p> <p><a class=\"btn\" href=\"/si/rezkanje\">Več informacij</a></p>"
+    },
+    {
+     "x": 85.398,
+     "y": 84.299,
+     "label": "Vrtanje",
+     "text": "<h3>Vrtanje</h3> <p>Natančno nastavljanje in merjenje rezalnih orodij ter visoka razpoložljivost podatkov: že danes povečajte produktivnost pri struženju. </p> <p><a class=\"btn\" href=\"/si/vrtanje\">Več informacij</a></p>"
+    },
+    {
+     "x": 85.019,
+     "y": 70.551,
+     "label": "»zidCode«",
+     "text": "<h3>»zidCode«</h3> <p>Večja varnost in učinkovitost z avtomatiziranim, brezhibnim upravljanjem podatkov o orodjih.</p> <p><a class=\"btn\" href=\"/si/izdelki/upravljanje-orodij/prenos-podatkov/zidcode\">Več o »zidCode«</a></p>"
+    },
+    {
+     "x": 68.415,
+     "y": 68.737,
+     "label": "Nastavitev in merjenje",
+     "text": "<h3>Nastavitev in merjenje</h3> <p>Tako skrajšate čas priprave za 40 % ali več in podaljšate življenjsko dobo vaših orodij. </p> <p><a class=\"btn\" href=\"/si/resitve/nastavitev-in-merjenje\">Vaše prednosti</a> <a class=\"btn\" href=\"/produkte/einstellen-messen\">Prikaži izdelke</a></p>"
+    },
+    {
+     "x": 50.676,
+     "y": 21.144,
+     "label": "Merjenje, usmerjeno v procese",
+     "text": "<h3> Merjenje, usmerjeno v procese</h3> <p>Hitro in natančno preverjanje orodij ob sprejemu blaga ali preverjanje kakovosti brušenja neposredno ob stroju – procesno usmerjene rešitve podjetja ZOLLER.</p> <p><a class=\"btn\" href=\"/si/resitve/preverjanje-in-merjenje\">Vaše prednosti</a> <a class=\"btn\" href=\"/si/izdelki/preverjanje-in-merjenje/merjenje-usmerjeno-v-procese/pombasic\">Več o »pomBasic«</a></p>"
+    },
+    {
+     "x": 57.004,
+     "y": 31.333,
+     "label": "Priprava orodja",
+     "text": "<h3>Priprava orodja</h3> <p>Avtomatizirajte nastavljanje in merjenje orodij, vključno z ravnanjem z orodji. Tudi običajni procesni tokovi potekajo s sistemom ZOLLER avtomatsko. </p> <p><a class=\"btn\" href=\"/si/resitve/avtomatizacija\">Vaše prednosti</a> <a class=\"btn\" href=\"/produkte/automation/werkzeugvorbereitung\">Prikaži izdelke</a></p>"
+    },
+    {
+     "x": 38.453,
+     "y": 47.732,
+     "label": "Zagotavljanje orodja",
+     "text": "<h3>Zagotavljanje orodja</h3> <p>Z ZOLLER-jem lahko avtomatizirate pripravo vseh orodij za naslednje proizvodne naročila. </p> <p><a class=\"btn\" href=\"/si/resitve/avtomatizacija\">Vaše prednosti</a> <a class=\"btn\" href=\"/produkte/automation/werkzeugbereitstellung\">Prikaži izdelke</a></p>"
+    },
+    {
+     "x": 56.03,
+     "y": 60.642,
+     "label": "Pregled orodja",
+     "text": "<h3>Pregled orodja</h3> <p>Tako avtomatizirate pregled orodij z merilnimi stroji iz serije »genius«. Po želji z laserskim označevanjem in popolno dokumentacijo.</p> <p><a class=\"btn\" href=\"/si/resitve/avtomatizacija\">Vaše prednosti</a> <a class=\"btn\" href=\"/produkte/automation/werkzeuginspektion\">Prikaži izdelke</a></p>"
+    },
+    {
+     "x": 69.443,
+     "y": 45.429,
+     "label": "Logistika orodja",
+     "text": "<h3>Logistika orodja</h3> <p>Vaša orodja se samodejno prenesejo iz oddelka za pripravo orodja na CNC-stroj – ali pa v skladišče orodja. In tudi nazaj. </p> <p><a class=\"btn\" href=\"/si/resitve/avtomatizacija\">Vaše prednosti</a> <a class=\"btn\" href=\"/produkte/automation/werkzeuglogistik\">Prikaži izdelke</a></p>"
+    },
+    {
+     "x": 76.041,
+     "y": 33.357,
+     "label": "»toolCart«",
+     "text": "<h3>»toolCart«</h3> <p>Za udoben prevoz orodja</p> <p><a class=\"btn\" href=\"/si/izdelki/upravljanje-orodij/prevoz-orodja/toolcart\">Več o »toolCart«</a></p>"
+    },
+    {
+     "x": 27.258,
+     "y": 39.358,
+     "label": "CAD-projektiranje",
+     "text": "<h3>CAD-projektiranje</h3> <p>Sistem za upravljanje orodij podjetja ZOLLER zagotavlja podatke o orodjih od začetka do konca procesa. Naši vmesniki prenesejo podatke o orodjih iz sistemov CAD/CAM, sistemov ERP in katalogov orodij v programsko opremo ZOLLER TMS Tool Management Solutions.</p> <p>Vaše prednosti</p>"
+    },
+    {
+     "x": 38.94,
+     "y": 30.356,
+     "label": "CAM-proizvodnja",
+     "text": "<h3>CAM-proizvodnja</h3> <p>Upravljanje orodij s sistemom ZOLLER zagotavlja, da so vaši podatki v bazi podatkov z.One dosledno na voljo od CAM-a do končnega izdelka. To olajša načrtovanje proizvodnje, skrajša čase priprave in zmanjša število manjkajočih delov – od začetka procesa s CAM-om in CAD-om do krmiljenja CNC-brušilnih ali proizvodnih strojev.</p> <p>Več o vmesnikih</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "c4007",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Sistem vrednot za sodobno proizvodnjo </h1>",
+   "body": "<p class=\"extra-large-text\">Sistemsko usmerjen pristop podjetja ZOLLER temelji na štirih temeljnih vrednotah: inovativnost, kakovost, natančnost in storitve. Tega se držimo pri vsakem izdelku, ki ga razvijamo, izdelujemo in dobavljamo. Naši kupci so zadovoljni. Ker naše vrednote zagotavljajo uspešnost. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/8/csm_value_system_4adb77b8bc.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c607",
+   "bg": "black",
+   "space": {
+    "before": "extra-small",
+    "after": "none"
+   }
+  },
+  {
+   "type": "values",
+   "header": "",
+   "tiles": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_value_innovation_30b03ea669.webp",
+      "alt": "",
+      "w": 739,
+      "h": 774
+     },
+     "text": "<p>Pri podjetju ZOLLER je pripravljenost na inovacije najpomembnejši dejavnik napredka. Že 80 let ustvarjamo prihodnost. </p>"
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/1/f/csm_value_quality_596c87a5e7.webp",
+      "alt": "",
+      "w": 739,
+      "h": 774
+     },
+     "text": "<p>Pri podjetju ZOLLER strokovnjaki vsako napravo sestavijo ročno. In z lastnim imenom jamčijo za rezultat: zanesljivost »made in Germany«. </p>"
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/3/8/csm_value_precition_86c1763b85.webp",
+      "alt": "",
+      "w": 739,
+      "h": 774
+     },
+     "text": "<p>Pri podjetju ZOLLER uporabljamo najsodobnejšo merilno tehnologijo. Naše vrhunske naprave zaznavajo strukture, manjše od 1 µm, in zagotavljajo natančne podatke. </p>"
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/9/6/csm_value_service_c143139351.webp",
+      "alt": "",
+      "w": 739,
+      "h": 774
+     },
+     "text": "<p>Pri podjetju ZOLLER je zanesljivost na prvem mestu. Najdete nas v 62 državah po vsem svetu. Od Argentine do Vietnama smo tu za vas! </p>"
+    }
+   ],
+   "ftype": "zoller_column-image-text",
+   "id": "c605",
+   "bg": "black",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Doživite sistem ZOLLER v živo </h2>",
+   "body": "<p>V ZOLLER Smart Factory v Pleidelsheimu predstavljamo sistem ZOLLER z vsemi rešitvami, vse do popolne avtomatizacije proizvodnje. Prepričajte se o visoki učinkovitosti neprekinjenih procesov od CAM do končnega izdelka ter o prednostih neprekinjeno dostopnih podatkov o orodjih. </p> <p>Izvedite več o tem, kako lahko rezervirate termin za obisk ali za individualni pogovor s strokovnjakom.</p> <p><a class=\"btn\" href=\"/si/podjetje/kontakt/pametna-tovarna\">K Smart Factory</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/9/csm_smartfactory_teaser_4b2372736c.webp",
+     "alt": "",
+     "w": 1400,
+     "h": 1400
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c59554",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Štiri številke kot osnova sistema ZOLLER </h2>",
+   "body": "<p>Za sistemom ZOLLER stoji neprekinjen razvojni proces. To lahko ponazorimo s temi štirimi številkami: 80 | 60 | 14 | 7. Te jasno prikazujejo, zakaj je ZOLLER najboljši partner za procese, povezane z orodji. Več informacij najdete v letaku.</p> <p><a class=\"btn\" href=\"/fileadmin/03_Media_Press/Downloads/System/Flyer_ZOL_Vier_Zahlen_DE.pdf\" rel=\"noopener\" target=\"_blank\">Prenesite letak</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/0/csm_teaser_vier_zahlen_fe067fe955.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c62147",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/si/sistem",
+ "de_path": "/das-system"
+}

@@ -1,0 +1,489 @@
+{
+ "path": "/afiar-ferramentas",
+ "url": "/br/afiar-ferramentas",
+ "title": "Afiar ferramentas",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/br/pagina-inicial"
+  },
+  {
+   "label": "Afiar ferramentas",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/br/pagina-inicial"
+  },
+  {
+   "label": "Afiar ferramentas",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeuge-schleifen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/sharpening-tools",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/rectificado-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/affuter-les-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/afiar-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/affilatura-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/slipa-verktyg",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeuge-schleifen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/grinding-tools",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/affutage-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E7%A0%94%E3%81%8E",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EC%97%B0%EB%A7%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/grinding-tools",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/afilar-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/afiar-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/7/e/csm_header_grinding_21f044b386.webp",
+     "video": null,
+     "title": "Mais sucesso para fabricantes de ferramentas e operações de moagem",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c2447",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Interfaces, valores de medição, rebolos, dados da ferramenta compatíveis com CNC </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c728",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>Para fabricantes de ferramentas e operações de moagem, os dados de medição e a gestão de dados são essenciais para alcançar alta rentabilidade e qualidade documentada. A ZOLLER tem tudo o que precisa para isso. </strong></p> <p>Com a ZOLLER, você dispõe de interfaces para programas CAD e comandos CNC, hardware e software para a gestão de rebolos, aparelhos de medição e teste exatos de µm para inspeções, que podem ser utilizados em processos, bem como tecnologias seguras para a transferência sem erros de dados de rebolos e geometria para retificadoras CNC.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c727",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c729",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "count",
+   "title": "Reduz os custos com pessoal* em até",
+   "value": "83 %",
+   "note": "*Com base em inspeções em três turnos, com um funcionário por turno.",
+   "ftype": "zoller_count-banner",
+   "id": "c722",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Soluções ZOLLER para o seu processo de retificação </h2>",
+   "items": [
+    {
+     "href": "/br/produtos/comprovacao-e-medicao/maquinas-de-medicao-universais/genius",
+     "title": "»genius«",
+     "text": "<p>Regista mais de 100 parâmetros com ultraprecisão e já provou a sua eficácia mais de 1000 vezes em todo o mundo.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/d/csm_genius_1_5b500df8d2.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/comprovacao-e-medicao/maquinas-de-medicao-universais/titan",
+     "title": "»titan«",
+     "text": "<p>Para especialistas que querem saber tudo – incluindo a preparação de arestas de corte</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/3/b/csm_titan__preview_9813f51631.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/gestao-de-ferramentas/armazem-de-ferramentas/toolorganizer",
+     "title": "»toolOrganizer«",
+     "text": "<p>Para ferramentas de corte e peças pequenas</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_018ce796c6.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/tecnologia-de-equilibragem/toolbalancer",
+     "title": "»toolBalancer«",
+     "text": "<p>O sistema de balanceamento com tecnologia de ponta e design ergonómico</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/comprovacao-e-medicao/medicao-orientada-para-o-processo/mmfocus",
+     "title": "»mμFocus«",
+     "text": "<p>Analisa topografias e cria figuras 3D de lâminas da ferramenta</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/0/csm_myFocus__preview_b0f99094b2.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/comprovacao-e-medicao/medicao-orientada-para-o-processo/pombasic",
+     "title": "»pomBasic«",
+     "text": "<p>Verificar mais de 70 parâmetros na ferramenta durante o processo</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/5/f/csm_pombasic__preview_65ddb1db86.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/automacao/ferramenta-de-inspecao/roboset-2",
+     "title": "»roboSet 2«",
+     "text": "<p>Para »genius«, »3dCheck«, »threadCheck«, »titan« e »edgeControl«</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_7361e448c0.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/comprovacao-e-medicao/solucoes-especiais/solucoes-especiais/threadcheckcc",
+     "title": "»threadCheck ❘ cc«",
+     "text": "<p>Alta tecnologia com seis eixos CNC e suporte da ótica multissensor giratório</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/6/8/csm_threadCheckCC__preview_ffdf543c62.webp",
+      "alt": "",
+      "w": 1563,
+      "h": 1291
+     }
+    },
+    {
+     "href": "/br/produtos/comprovacao-e-medicao/solucoes-especiais/solucoes-especiais/hobcheck",
+     "title": "»hobCheck«",
+     "text": "<p>Mais de 200 valores de medição medidos por câmaras de luz transmitida e incidente, bem como por sondas</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/a/csm_hobCheck__preview_63b423e059.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/comprovacao-e-medicao/maquinas-de-medicao-universais/smartcheck",
+     "title": "»smartCheck«",
+     "text": "<p>Os dispositivos de ajuste e medição com Luz incidente complementar e análise de imagem avançada</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_b44dfc4928.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/gestao-de-ferramentas/transferencia-de-dados/zidcode",
+     "title": "»zidCode«",
+     "text": "<p>Mais segurança e eficiência através do manuseamento fácil dos dados da ferramenta</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/c/csm_zidCode_preview_538b53ed83.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/gestao-de-ferramentas/armazem-de-ferramentas/keeper",
+     "title": "»keeper«",
+     "text": "<p>Para ferramentas completas e suportes de ferramenta</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/a/csm_keeper_preview_1e87de3ba7.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/gestao-de-ferramentas/armazem-de-ferramentas/autolock",
+     "title": "»autoLock«",
+     "text": "<p>Para instrumentos de verificação, materiais operacionais e componentes maiores</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/7/csm_autolock__preview_a71350a53a.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/gestao-de-ferramentas/armazem-de-ferramentas/twister",
+     "title": "»twister«",
+     "text": "<p>Para componentes de ferramentas e acessórios</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/1/csm_twister__preview_edf94f7d12.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/gestao-de-ferramentas/montagem-de-ferramenta/toolstation",
+     "title": "»toolStation«",
+     "text": "<p>Para uma montagem ideal da ferramenta</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/f/csm_toolStation_preview_00b81d24f9.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/gestao-de-ferramentas/montagem-de-ferramenta/ztower",
+     "title": "»zTower«",
+     "text": "<p>Para a montagem universal de ferramentas</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/6/csm_zTower_preview_c0c8e3585e.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/br/produtos/gestao-de-ferramentas/transporte-de-ferramentas/toolcart",
+     "title": "»toolCart«",
+     "text": "<p>Para o transporte confortável das ferramentas</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_3be007bbac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_categorized_pages",
+   "id": "c4775",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Conversa com especialistas",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Conversa com especialistas</h3> <p>A troca individual sobre os seus objetivos e as nossas ideias para os alcançar. A consultoria online da ZOLLER diretamente da Smart Factory. Marque já a sua consulta. </p> <br/> Saber mais </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/e/csm_teaser-2Colume-Media_8e9165a74e.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Mídia: ZOLLER em detalhes",
+     "href": "/br/empresa/midia",
+     "caption": "<figcaption> <h3>Mídia: ZOLLER em detalhes</h3> <p>Aqui encontra comunicados de imprensa, anúncios de produtos, participações em feiras, artigos de imprensa de revistas especializadas, o arquivo de notícias e os nossos contactos para os meios de comunicação social. </p> <br/> Saber mais </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c738",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/br/afiar-ferramentas",
+ "de_path": "/werkzeuge-schleifen"
+}

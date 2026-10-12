@@ -1,0 +1,405 @@
+{
+ "path": "/products/automation",
+ "url": "/tr/products/automation",
+ "title": "Automation",
+ "description": "Automation - Flexible, modular automation for cutting tools.",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "Home /",
+   "href": "/tr/home"
+  },
+  {
+   "label": "Products /",
+   "href": "/tr/products"
+  },
+  {
+   "label": "Automation",
+   "href": ""
+  },
+  {
+   "label": "Home /",
+   "href": "/tr/home"
+  },
+  {
+   "label": "Products /",
+   "href": "/tr/products"
+  },
+  {
+   "label": "Automation",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/automation",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/tr/products/automation",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/automatizacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/automatisation",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/automacao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/automazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/automatisering",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/automation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/automation",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/automatisation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/automation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/automatizacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/automacao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [],
+   "ftype": "zoller_hero-slider",
+   "id": "c4402",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h1> Product overview </h1>",
+   "body": "<p class=\"extra-large-text\"><strong>ZOLLER Solutions stand for your future - we make you more successful. Because those who manufacture faster and more efficiently work more economically in order to be able to invest in the future. If economic progress is your goal, then ZOLLER is your partner.</strong></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4399",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "productlist",
+   "filters": {
+    "solutions": [
+     {
+      "value": "259",
+      "label": "Presetting & Measuring",
+      "selected": false
+     },
+     {
+      "value": "251",
+      "label": "Tool Management",
+      "selected": false
+     },
+     {
+      "value": "254",
+      "label": "Inspection & Measuring",
+      "selected": false
+     },
+     {
+      "value": "253",
+      "label": "Automation",
+      "selected": true
+     },
+     {
+      "value": "250",
+      "label": "Shrink Technology",
+      "selected": false
+     },
+     {
+      "value": "252",
+      "label": "Tooling Solutions",
+      "selected": false
+     },
+     {
+      "value": "249",
+      "label": "Balancing Technology",
+      "selected": false
+     }
+    ],
+    "applications": [
+     {
+      "value": "384",
+      "label": "Tool Logistics",
+      "selected": false
+     },
+     {
+      "value": "385",
+      "label": "Tool Preparation",
+      "selected": false
+     },
+     {
+      "value": "386",
+      "label": "Tool Provisioning",
+      "selected": false
+     },
+     {
+      "value": "389",
+      "label": "Tool Inspection",
+      "selected": false
+     },
+     {
+      "value": "14153",
+      "label": "Laser Marking",
+      "selected": false
+     }
+    ]
+   },
+   "rows": [
+    {
+     "title": "Tool Logistics",
+     "items": [
+      {
+       "href": "/tr/products/automation/tool-logistics/coralogistic",
+       "title": "»coraLogistic«",
+       "text": "For transportation tasks between tool storage, tool preparation and CNC machine",
+       "img": {
+        "src": "/fileadmin/_processed_/c/0/csm_coraLogistics_preview_8cd4f5bccb.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/tr/products/automation/tool-logistics/coramachineload",
+       "title": "»coraMachineLoad«",
+       "text": "Precise and punctual tool handling between logistics and machine magazine",
+       "img": {
+        "src": "/fileadmin/_processed_/e/e/csm_coraMaschineLoad_preview_7ffc6574e3.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "Tool Preparation",
+     "items": [
+      {
+       "href": "/tr/products/automation/tool-preparation/corameasure-lg",
+       "title": "»coraMeasure LG«",
+       "text": "Economical tool handling for ZOLLER »venturion«",
+       "img": {
+        "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/tr/products/automation/tool-preparation/robobox",
+       "title": "»roboBox«",
+       "text": "Up to six modules for routines such as assembly, cleaning, measuring, shrinking and more",
+       "img": {
+        "src": "/fileadmin/_processed_/7/a/csm_roboBox_preview_f71dd04107.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      },
+      {
+       "href": "/tr/products/automation/tool-preparation/micbox",
+       "title": "»micBox«",
+       "text": "Takes care of turning, flipping and exchanging indexable inserts",
+       "img": {
+        "src": "/fileadmin/_processed_/6/a/csm_micbox_preview_ff03cd31af.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "Tool Provisioning",
+     "items": [
+      {
+       "href": "/tr/products/automation/tool-provisioning/loadbox",
+       "title": "»loadBox«",
+       "text": "Picks tools to order and makes them available for logistics",
+       "img": {
+        "src": "/fileadmin/_processed_/5/3/csm_loadBox_preview_c2695dfc22.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "Tool Inspection",
+     "items": [
+      {
+       "href": "/tr/products/automation/tool-inspection/roboset-2",
+       "title": "»roboSet 2«",
+       "text": "Tool handling for »genius«, »3dCheck«, »threadCheck«, »titan« and »edgeControl«",
+       "img": {
+        "src": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_7361e448c0.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    },
+    {
+     "title": "Laser Marking",
+     "items": [
+      {
+       "href": "/tr/products/automation/laser-marking/robomark",
+       "title": "»roboMark«",
+       "text": "Fast and Precise Labeling of Your Tools",
+       "img": {
+        "src": "/fileadmin/_processed_/9/c/csm_roboMark_preview_286da7e103.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "product"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "src_path": "/tr/products/automation",
+ "de_path": "/produkte/automation",
+ "cloned_from": "en_DE"
+}

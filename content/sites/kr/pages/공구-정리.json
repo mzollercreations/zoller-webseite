@@ -1,0 +1,435 @@
+{
+ "path": "/공구-정리",
+ "url": "/kr/%EA%B3%B5%EA%B5%AC-%EC%A0%95%EB%A6%AC",
+ "title": "공구 정리",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "공구 정리",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "공구 정리",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeugorganistation",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-organization",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/organizacion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/organisation-des-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/organizacao-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/organizzazione-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verktygsorganisation",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeugorganistation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/tool-organization",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/organisation-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%95%B4%E7%90%86",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EC%A0%95%EB%A6%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/tool-organization",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/organizacion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/organizacao-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/7/e/csm_toolorga_header_d09c850eda.webp",
+     "video": null,
+     "title": "도구 체계화는 효율성을 높입니다",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7972",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">공구를 더 체계적으로 정리하면 작업 현장의 외관상 질서만 개선되는 것이 아닙니다. 이는 기계 가동 중지 시간을 실질적으로 단축시켜 생산 효율을 높여줍니다. 어떻게 이런 효과가 나타나는 걸까요?</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7974",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 도구 정리는 단순한 정리 정돈 그 이상입니다 </h2>",
+   "body": "<p>실제 작업장의 현실과 현장에서는 약간의 어수선함은 피할 수 없는 일이지만, 각 공구에 보관해야 할 전용 공간이 지정되어 있는지 여부가 이러한 현상의 큰 원인이 됩니다.</p> <p>이것이 바로 모든 공구 관리의 핵심입니다. 즉, 모든 공구를 언제든지 찾을 수 있어야 한다는 것입니다. 공구를 찾는 수고를 덜면, 번거로움과 좌절감을 줄일 뿐만 아니라 많은 작업 시간과 스트레스를 절약할 수 있습니다. 기계가 다음 작업을 기다릴 필요가 없고, 공구가 쓸모없이 방치되지 않으며, 업무 효율을 크게 높일 수 있습니다.</p> <p>ZOLLER는 공구 관리에 대한 통합적이고 포괄적인 접근 방식을 지향합니다. 따라서 당사는 <strong>모듈식 구조의</strong> 공구 관리 <strong>소프트웨어를 스마트 보관</strong> 시스템과 결합하여, 특정 공구가 현재 어디에 있는지, 상태가 어떠한지, 예비 부품이 충분한지, 재고를 주문해야 하는지 등 다양한 정보를 항상 파악할 수 있도록 지원합니다.</p> <p>또한 공구는 당연히 특정 작업을 위해 설계된 것이므로, <strong>공구 데이터를</strong> 기계로 디지털 방식으로 오류 없이 무선 <strong>전송하는</strong> 것도 완전하고 종합적인 공구 관리의 일부입니다. 이를 통해 귀하는 가장 중요한 일, 즉 부품의 효율적이고 효과적인 생산에 집중할 수 있습니다.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7975",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "기계 가동 중단 시간 최소화: 시간과 인력의 효율적 활용",
+    "모든 공구의 위치와 상태에 대한 상시 완전한 가시성",
+    "공급 차질 없음: 교체 및 재주문 현황 파악"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c7976",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 모든 요구 사항을 충족하는 도구 관리 소프트웨어 </h2>",
+   "body": "<p><strong>효율적인 공구 관리는 무엇보다도 데이터 관리입니다.</strong> </p> <p>먼저, 절삭재나 무게와 같은 개별 공구 구성 요소의 데이터를 설정기나 측정기에 입력하여 시스템에 등록하는 것부터 시작합니다. 이를 통해 설정 시트 및 기타 정보와 함께 공구에 대해 알아야 할 모든 정보가 한곳에 모아져, 모든 직원이 언제든지 확인할 수 있게 됩니다.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/9/csm_digital_durchstarten_webTMS_16feff8d28.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7977",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-33-33",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> 도구 관리가 한결 쉬워집니다 </h2>",
+      "body": "<p>당사의 소프트웨어인 <strong>TMS Tool Management Solutions를</strong> 통해, 브론즈(BRONZE) 패키지의 기본 기능만으로도 공구 관리에 필요한 모든 것을 제공합니다. 특히 다음과 같은 기능이 포함됩니다:</p><ul><li>제조업체 카탈로그 또는 클라우드에서 공구 데이터 가져오기 – 안전하고, 오류 없이, 빠르게</li><li>모바일 기기에서 공구 데이터 조회 가능</li><li>ZOLLER 측정 및 설정 장비의 완벽한 연동</li><li>모든 공구 설정값을 저장하고 즉시 불러올 수 있음</li></ul><p><a class=\"btn\" href=\"/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/tms-%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC-%EC%86%94%EB%A3%A8%EC%85%98/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%ED%8C%A8%ED%82%A4%EC%A7%80/bronze-cad/cam-%EB%AA%A8%EB%93%88\">BRONZE 소프트웨어 패키지에 대해 자세히 알아보세요</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/d/1/csm_software_bronze_19edbebfe9.webp",
+        "alt": "",
+        "w": 680,
+        "h": 429
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7980",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> 공구 정리는 창고에서 끝나지 않는다 </h2>",
+      "body": "<p><strong>이 공구는 정확히 어디에 있으며, 상태는 어떠한가요?</strong> 창고 관리까지 디지털 방식으로 체계화하고 최적화하여, 수요와 품질에 맞춰 공구 <strong>재고를</strong> 관리할 수 있게 되면 공구 관리의 다음 단계로 나아갈 수 있습니다. 구체적으로 말하자면:</p><ul><li>검색 시간이 단축되고,</li><li>설비 전환 시간이 단축되며</li><li>공구 세팅이 거의 자동으로 이루어집니다.</li></ul><p>당사의 SILVER 패키지는 이러한 모든 기능을 포함하고 있어, 개별 공구의 위치와 사용 현황을 파악할 수 있을 뿐만 아니라, 충분한 부품과 예비품을 효과적이고 적시에 확보할 수 있도록 지원합니다. 이는 <strong>품질 관리 및 마모 분석을 위한</strong> 공구 <strong>모니터링</strong> 기능까지 완벽하게 통합되었음을 의미합니다.</p> <p><a class=\"btn\" href=\"/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/tms-%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC-%EC%86%94%EB%A3%A8%EC%85%98/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%ED%8C%A8%ED%82%A4%EC%A7%80/silver-%EC%9A%B4%EC%98%81-%EC%A1%B0%EC%A7%81\">SILVER 소프트웨어 패키지에 대해 자세히 알아보세요</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/e/0/csm_software_silver_d66477a30d.webp",
+        "alt": "",
+        "w": 680,
+        "h": 429
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7981",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> 도구 구성, 새롭게 재탄생 </h2>",
+      "body": "<p>공구 관리의 GOLD 표준은 공구를 귀사의 모든 업무 프로세스에 완벽하게 통합하여, 공구 사용의 효율성과 비용을 실시간으로 확인할 수 있게 해줍니다. 이를 통해 전체 공정 체인에 걸쳐 공구 관리에 대한 <strong>완벽한 비용 통제력과 투명성을</strong> 확보할 수 있습니다.</p> <p>공구 관리 시스템이 개별 공구가 다양한 작업에 어떻게 사용되었는지 기록함으로써, 귀사는 업무 효율성에 대한 정확한 정보를 제공하는 통계를 출력할 수 있습니다. 당사 소프트웨어의 GOLD 패키지는 이 모든 기능을 제공하며, 그 외에도 다음과 같은 이점을 제공합니다:</p><ul><li>공구 데이터 관리의 최대 효율성</li><li>생산 주문 및 세팅 시트의 체계적인 관리</li><li>통합된 수명 관리</li><li>공급업체 관리를 포함한 발주 시스템과의 선택적 통합</li></ul><p><a class=\"btn\" href=\"/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/tms-%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC-%EC%86%94%EB%A3%A8%EC%85%98/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%ED%8C%A8%ED%82%A4%EC%A7%80/gold-%EB%A7%A4%EC%9E%A5-%EA%B4%80%EB%A6%AC\">GOLD 소프트웨어 패키지에 대해 자세히 알아보세요</a></p>",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/e/a/csm_software_gold_79cf4e6793.webp",
+        "alt": "",
+        "w": 680,
+        "h": 429
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c7982",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-33-33-33",
+   "id": "c7979",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 업무 부담을 덜어주는 도구 관리 </h2>",
+   "body": "<p><strong>공구 관리 시스템의 가치는 장기적으로 귀하와 직원들의 업무 부담을 얼마나 덜어주느냐에 달려 있습니다.</strong> 당사의 소프트웨어인 <strong>TMS Tool Management Solutions는 기존 데이터베이스, 기계, 창고 시스템 및 측정 장비와</strong> 완벽하고 원활하게 <strong>연동되도록</strong> 설계되었습니다. 이를 통해 업무 부담을 덜어주고, 효율성을 높이며, 작업장의 업무를 더욱 수월하게 만들어 드립니다.</p> <p>당사 소프트웨어 패키지는 모듈식 구조로 되어 있어, 귀하가 실제로 필요한 기능만을 선택하여 사용할 수 있습니다. 또한 공구 관리 시스템을 한 단계 더 발전시키고자 할 때 언제든지 새로운 기능을 추가할 수 있습니다.</p> <p>저희에게 문의해 주시면, 모든 세부 사항에 대해 기꺼이 상담해 드리고 고객님께 맞춤 견적을 작성해 드리겠습니다!</p> <p>webTMS에 대해 더 알아보기</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/6/csm_webTMS_devices_9783f65f1d.webp",
+     "alt": "",
+     "w": 1484,
+     "h": 1066
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7983",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 도구, 스마트하게 수납 </h2>",
+   "body": "<p>당사의 스마트 보관장은 소프트웨어를 통한 공구 관리에 완벽한 보완 솔루션입니다. 요청된 공구를 체계적으로 분류하여 자동으로 바로 꺼내 쓸 수 있게 해주기 때문입니다.</p> <p>또한 작업장에서 일상적으로 필요한 모든 물품을 관리하고 정리하는 데도 큰 도움이 됩니다. 당사의 다양한 스마트 캐비닛 모델을 통해 공구와 부품부터 소모품, 액세서리, 측정 및 검사 장비에 이르기까지 가장 다양한 자재를 체계적으로 보관할 수 있습니다. 공구를 사용해야 할 때가 왔나요? 당사의 보관 시스템에서 필요한 것을 즉시 찾을 수 있습니다.</p> <p>모든 편의 시설(과 공간)을 갖춘 작업대에서부터 모든 부품을 손쉽게 사용할 수 있는 공구 조립대, 100종 이상의 다양한 공구를 수납할 수 있는 유연한 <a class=\"link-arrow\" href=\"/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%9A%B4%EB%B0%98/toolcart\">공구 카트</a>, 그리고 <a class=\"link-arrow\" href=\"/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/keeper\">완비된</a> 공구와 어댑터를 <a class=\"link-arrow\" href=\"/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/keeper\">위한</a> 대형 캐비닛에 이르기까지 – 각 보관 옵션은 공구와 자재를 최적의 상태로 보관하고 관리할 수 있도록 해줍니다.</p> <p>당사의 개요에서 모든 스마트 캐비닛과 보관 솔루션을 확인하실 수 있습니다. 귀하의 작업장에도 분명 적합한 제품이 있을 것입니다!</p> <p>저희 보관 시스템에 관한 모든 것</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/5/csm_toolmanagement_02_7e37951c35.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7984",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "공구 관리: 귀사가 누릴 수 있는 이점",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/toolmanagement",
+     "caption": "<figcaption> <h3>공구 관리: 귀사가 누릴 수 있는 이점</h3> <p>ZOLLER의 공구 관리 솔루션이 어떻게 생산성을 즉시 향상시키는지 확인해 보세요. 공구 데이터를 활용하면 공정이 더 빠르고 안전하게 진행되며, 여기에는 기계의 충돌 방지 기능도 포함됩니다. </p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 전문가 상담",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 전문가 상담</h3> <p>고객님의 목표와 이에 대한 당사의 아이디어를 바탕으로 한 맞춤형 상담. 스마트 팩토리에서 직접 제공되는 ZOLLER의 온라인 상담. 지금 바로 상담 일정을 예약하세요. </p> <br/> 자세히 알아보기 </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/kr/공구-정리",
+ "de_path": "/werkzeugorganistation"
+}

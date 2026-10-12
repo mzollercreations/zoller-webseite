@@ -1,0 +1,814 @@
+{
+ "path": "/spolecnost/profil/historie",
+ "url": "/cz/spolecnost/profil/historie",
+ "title": "Historie",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Společnost /",
+   "href": "/cz/spolecnost"
+  },
+  {
+   "label": "Profil /",
+   "href": "/cz/spolecnost/profil"
+  },
+  {
+   "label": "Historie",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Společnost /",
+   "href": "/cz/spolecnost"
+  },
+  {
+   "label": "Profil /",
+   "href": "/cz/spolecnost/profil"
+  },
+  {
+   "label": "Historie",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/profil/historie",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/profile/history",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/profil/historia",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/profil/historie",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/history",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/profil/historique",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/%E6%B2%BF%E9%9D%A9",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%ED%94%84%EB%A1%9C%ED%95%84/%EC%97%B0%ED%98%81",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/profile/history",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/perfil/historia",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/perfil/historia",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "timeline",
+   "heads": {
+    "772": {
+     "year": "1945",
+     "label": "Návrat a nový začátek"
+    },
+    "773": {
+     "year": "1948",
+     "label": "Růst a změna"
+    },
+    "774": {
+     "year": "1958",
+     "label": "Světová novinka"
+    },
+    "775": {
+     "year": "1968",
+     "label": "Rychlý start"
+    },
+    "776": {
+     "year": "1969",
+     "label": "Sériově"
+    },
+    "777": {
+     "year": "1976",
+     "label": "První nastavovací zařízení s NC řízením"
+    },
+    "778": {
+     "year": "1977",
+     "label": "Předběhl svou dobu"
+    },
+    "779": {
+     "year": "1981",
+     "label": "Software pro procesy výroby nástrojů"
+    },
+    "780": {
+     "year": "1982",
+     "label": "Společnost ZOLLER se stěhuje do Freibergu nad Narze"
+    },
+    "781": {
+     "year": "1983",
+     "label": "ZOLLER udává standard"
+    },
+    "782": {
+     "year": "1985",
+     "label": "Power Brain nahrazuje Tool Brain"
+    },
+    "783": {
+     "year": "1988",
+     "label": "Oceněné designy"
+    },
+    "784": {
+     "year": "1989",
+     "label": "Přesnost na mikrometry pro každého obsluhujícího"
+    },
+    "785": {
+     "year": "1991",
+     "label": "Prst místo myši"
+    },
+    "786": {
+     "year": "1992",
+     "label": "První zařízení společnosti ZOLLER pro kontrolu nástrojů"
+    },
+    "787": {
+     "year": "1993",
+     "label": "Nejtěžší rozhodnutí"
+    },
+    "788": {
+     "year": "1994",
+     "label": "KANBAN přichází"
+    },
+    "789": {
+     "year": "1995",
+     "label": "Začíná éra »smartCheck«"
+    },
+    "790": {
+     "year": "1996",
+     "label": "Nová softwarová řešení"
+    },
+    "791": {
+     "year": "1997",
+     "label": "Na západ"
+    },
+    "792": {
+     "year": "1998",
+     "label": "Novinky v oblasti měření a testování"
+    },
+    "793": {
+     "year": "1999",
+     "label": "»lasso« zachycuje obrysy"
+    },
+    "794": {
+     "year": "2000",
+     "label": "Nový rozdíl: »smile«"
+    },
+    "795": {
+     "year": "2001",
+     "label": "Certifikovaný systém environmentálního managementu"
+    },
+    "796": {
+     "year": "2002",
+     "label": "Odborník na zmenšování: »redomatic«"
+    },
+    "797": {
+     "year": "2003",
+     "label": "Lepší přehled s »genius 3«"
+    },
+    "798": {
+     "year": "2004",
+     "label": "Důchod se nekoná"
+    },
+    "799": {
+     "year": "2005",
+     "label": "Krátké zhodnocení zařízení po 60 letech"
+    },
+    "800": {
+     "year": "2006",
+     "label": "»pilot 3.0«"
+    },
+    "801": {
+     "year": "2007",
+     "label": "»pilot elephant«: Měření bez předchozích znalostí"
+    },
+    "802": {
+     "year": "2008",
+     "label": "Stěhování do Pleidelsheimu"
+    },
+    "803": {
+     "year": "2010",
+     "label": "ZOLLER v Japonsku"
+    },
+    "804": {
+     "year": "2011",
+     "label": "Správa nástrojů se společností ZOLLER"
+    },
+    "805": {
+     "year": "2012",
+     "label": "»titan«"
+    },
+    "806": {
+     "year": "2013",
+     "label": "Rozšíření řady měřicích strojů"
+    },
+    "807": {
+     "year": "2014",
+     "label": "Vyšší efektivita díky automatizaci"
+    },
+    "808": {
+     "year": "2016",
+     "label": "Aktualizace pro »smile« a »venturion«"
+    },
+    "809": {
+     "year": "2017",
+     "label": "Přesná analýza povrchu nástroje"
+    },
+    "810": {
+     "year": "2018",
+     "label": "Centrála v Ann Arbor,"
+    },
+    "811": {
+     "year": "2020",
+     "label": "Nová budova se Smart Factory a akademií"
+    },
+    "812": {
+     "year": "2021",
+     "label": "Automatizace nástrojů pro výrobu"
+    },
+    "813": {
+     "year": "2022",
+     "label": "Inovace v oblasti vyvažování a smršťování"
+    },
+    "814": {
+     "year": "2023",
+     "label": "Portálové řešení pro automatizaci"
+    },
+    "815": {
+     "year": "2024",
+     "label": "Nový měřicí stroj"
+    },
+    "816": {
+     "year": "2025",
+     "label": "Komplexní údržba modelů »pom«"
+    }
+   },
+   "items": [
+    {
+     "id": "772",
+     "html": "19<br/> 45 <h1>Návrat a nový začátek</h1> <p>Alfred Zoller se vrací z Berlína do Ludwigsburgu. Devět let působil jako mistr mechanik na výpomoc u firmy Hirth Flugmotoren. 1. září zakládá Alfred Zoller v Bogenstraße v Ludwigsburgu svou mechanickou dílnu. Druhá světová válka skončila teprve před necelými čtyřmi měsíci. Počáteční podmínky jsou proto velmi obtížné. Na jedné straně je třeba opravit mnoho věcí, na druhé straně je nedostatek nářadí, materiálu a strojů. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/8/csm_1945_01_0487a6b9c4.webp\" width=\"600\"/> <p>Alfred Zoller</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/0/csm_1945_02_240d6e6568.webp\" width=\"600\"/> <p>Bogenstraße v Ludwigsburgu</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/d/csm_1945_03_bb9b277f52.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/6/csm_1945_04_f1fa6af766.webp\" width=\"600\"/> <h4>Plnicí pera, zapalovače, hasičské stříkačky</h4> <p>Alfred Zoller opravuje motory, hasičské stříkačky, dětské hračky, plnicí pera a cokoli dalšího, co mu lidé přinesou. Kromě toho opravuje také porouchané stroje. Ty mu slouží jako základ pro vlastní výrobu.</p> <p>Obzvláště úspěšná jsou jeho zapalovače z hliníku, které vyrábí na svém soustruhu. Američtí vojáci se postupem času stávají jeho nejdůležitějšími zákazníky. Za zapalovače platí hlavně cigaretami, arašídovým máslem nebo čokoládou.</p>",
+     "img": null
+    },
+    {
+     "id": "773",
+     "html": "19<br/> 48 <h3>Růst a změna</h3> <p>Firma Alfreda Zollera se v Ludwigsburgu úspěšně etablovala. Malá firma v posledních třech letech rostla a přibývali noví zaměstnanci. V Bogenstraße už je málo místa. Dílna mění sídlo a stěhuje se do Charlottenstraße. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/4/csm_1948_01_3e7d4e5914.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/3/csm_1948_02_cd124cd83d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/1/csm_1948_03_ddef5d6539.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/b/csm_1948_04_35d2f43c2e.webp\" width=\"600\"/> <h4>Držáky nástrojů a další vývoj</h4> <p>Zollersovy úspěchy jako mechanika se šíří. Firma vyrábí na základě licence držáky nástrojů pro soustruhy, které se prodávají prostřednictvím několika prodejců. Jedná se o první řešení v oblasti nástrojů v historii společnosti ZOLLER. Tím si Alfred Zoller otevřel dveře do odvětví soustružnických nástrojů a soustruhů. </p> <p>Od výrobců strojů přicházejí další zakázky. Alfred Zoller má vyrábět plechové šablony, pomocí kterých lze nastavovat soustružnické nástroje. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/4/csm_1948_01_3e7d4e5914.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "774",
+     "html": "19<br/> 58 <h3>Světová novinka: Nastavovací zařízení společnosti Zoller pro soustružnické nástroje</h3> <p>Zákazníci přišli s podnětem, že přednastavovací zařízení pro soustružnické nástroje by výrazně zlepšilo výrobu. Nápaditá švábská firma Zoller tento nápad přijala a vyvinula pantograf pro nastavení nástrojů. </p> <p>Pantograf je vlastně kreslicí nástroj. Zoller však dokázal tento mechanismus v kombinaci s mikroskopem využít k nastavení nástrojů. Jednalo se o první zařízení na světě, s jehož pomocí mohl obsluhovatel stroje na základě technického výkresu externě přednastavit všechny soustružnické nástroje. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/b/csm_1958_01_a451fe7896.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/0/csm_1958_02_ad7853d944.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/d/b/csm_1958_01_a451fe7896.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "775",
+     "html": "19<br/> 68 <h3>Rychlý start </h3> <p>Syn Alfreda Zollera, Eberhard Zoller, nastupuje 8. dubna do firmy. Mladý strojní inženýr pracuje ve společnosti Heidelberger Druck, která se specializuje na velké tiskové stroje. Zdravotní stav jeho otce však vyžaduje okamžité jednání. „Ve společnosti Heidelberger Druck jsem se cítil velmi dobře. Byla to jedna z nejmodernějších firem v Německu. Ale ani na okamžik jsem neváhal vstoupit do firmy svého otce,“ vzpomíná Eberhard Zoller. Jeho první úkol: dále vyvíjet nastavovací a měřicí přístroj. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/6/csm_1968_01_6f0f9a1511.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/6/csm_1968_02_8f0be66930.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/7/csm_1968_03_c3382b902c.webp\" width=\"600\"/> <h4>Změna názvu</h4> <p>Vzhledem k tomu, že se zaměření společnosti dále posunulo směrem k zařízením a držákům nástrojů, mění společnost svůj název. Na veletrhu v Hannoveru se společnost představila jako „ALFRED ZOLLER Maschinen- und Vorrichtungsbau“. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/6/csm_1968_01_6f0f9a1511.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "776",
+     "html": "19<br/> 69 <h3>Sériově</h3> <p>Nastavovací přístroj, který vynalezl Alfred Zoller a dále vyvinul Eberhard Zoller, se začíná vyrábět sériově. Společnost, která byla původně založena jako mechanická dílna, se stává výrobcem strojů. Do konce roku se prodá přes 30 kusů. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/7/csm_1969_01_2d454117fb.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/7/csm_1969_01_2d454117fb.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "777",
+     "html": "19<br/> 76 <h3>První nastavovací zařízení s NC řízením</h3> <p>Nastavení nástrojů se stále provádí ručně. Proto společnost ZOLLER hledá možnosti, jak automatizovat přesun nástroje do nastavovací polohy. Na trh přichází první NC řízené nastavovací zařízení na světě: H 4000 od společnosti ZOLLER.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/e/csm_1976_03_cded673504.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/4/csm_1976_02_d7b5b5374d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/b/csm_1976_01_5e9cfdb9f4.webp\" width=\"600\"/> <h4>Návštěva krále</h4> <p>Společnost ZOLLER se účastní veletrhu obráběcích strojů ve Stockholmu. Ludwigsburgské firmě zjevně předchází prvotřídní pověst až do nejvyšších kruhů. Král partnerské země pro export, Carl Gustav Švédský, osobně navštívil veletržní stánek společnosti ZOLLER. Chce vědět, co dělá švábskou přesnou techniku tak výjimečnou.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/e/csm_1976_03_cded673504.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "778",
+     "html": "19<br/> 77 <h3>O krok napřed: S aplikací Basic k digitálnímu návrhu interiéru </h3> <p>Pro Eberharda Zollera je jen otázkou času, kdy software získá na významu pro výrobní procesy. Není pochyb o tom, že by společnost ZOLLER měla vyvinout příslušná řešení. Šéf společnosti ZOLLER se tedy bez váhání stává samoukem v programování v jazyce Basic a na Mezinárodním veletrhu v Hannoveru představuje první digitální nastavovací list. Zájem je okamžitě obrovský. Společnost ZOLLER má však nečekaný problém: není schopna dodávat. Šéf měl tento program spíše za koncepční náčrt. Ale semínko bylo zaseto. Eberhard Zoller najímá programátory.</p>",
+     "img": null
+    },
+    {
+     "id": "779",
+     "html": "19<br/> 81 <h3>Software pro procesy výroby nástrojů</h3> <p>Eberhard Zoller chce digitálně zpracovat ještě více požadavků z oblasti správy nástrojů. V roce 1981 představila společnost ZOLLER svůj první software pro správu nástrojů: Tool Brain.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/d/csm_1981_01_96ddb65e12.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/b/csm_1981_02_f5b5db0122.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/6/d/csm_1981_01_96ddb65e12.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "780",
+     "html": "19<br/> 82 <h3>Společnost ZOLLER se stěhuje do Freibergu nad Narze</h3> <p>Společnost se chystá k dalšímu stěhování, protože prostory v Ludwigsburgu již nestačí na další růst firmy ZOLLER. Ve Freibergu nad Narzem staví společnost ZOLLER nové prostory a vytváří tak optimální podmínky pro budoucí orientaci výroby, vývoje a administrativy. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/e/csm_1982_01_55ec0d8af2.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_1982_02_8738e9d4cd.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/e/csm_1982_01_55ec0d8af2.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "781",
+     "html": "19<br/> 83 <h3>Společnost ZOLLER udává standard v oblasti nastavovacích přístrojů</h3> <p>Ruční nastavovací zařízení H 1000 s digitálním displejem a projektorem o průměru 150 mm dobývá trh. Jedná se o nejčastěji používané nastavovací zařízení pro CNC soustruhy té doby. Na trh se navíc dostává první vertikální model od společnosti ZOLLER: V 1500. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/b/csm_1983_01_cda21bfcaf.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/b/csm_1983_01_cda21bfcaf.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "782",
+     "html": "19<br/> 85 <h3>Power Brain nahrazuje Tool Brain</h3> <p>Společnost ZOLLER správně odhadla význam digitální správy nástrojů a dále pokročila ve vývoji softwaru Tool Brain. První rozšíření tohoto softwaru přišlo v roce 1985: Power Brain. Cesta k pozdějšímu systému TMS Tool Management Solutions byla tak předurčena. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/4/csm_1985_01_b58799cdf1.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/e/csm_1985_02_365ef2e25f.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/4/csm_1985_01_b58799cdf1.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "783",
+     "html": "19<br/> 88 <h3>Design, ergonomie a ovládání oceněné cenou</h3> <p>Eberhard Zoller klade zvláštní důraz na ergonomii, snadné ovládání a modulární konstrukci. Pro něj se jedná o klíčové vlastnosti s přidanou hodnotou, díky nimž se může společnost ZOLLER odlišit na trhu. Za tímto účelem nechává nově vyvinout řady strojů V a H. Ty mají ještě lépe splňovat výše uvedené kritéria. </p> <p>ZOLLER vybavuje tyto řady inovacemi, jako je ovládací rukojeť pro jednu ruku a plynulé jemné nastavení. Díky nim je ovládání výrazně pohodlnější. Společnost poprvé spolupracuje s průmyslovým designérem. Úsilí se vyplatilo: zařízení získala mezinárodní cenu za průmyslový design HiF a byla oceněna jako „nejlepší z nejlepších“.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/2/csm_1988_01_fa494a9b49.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/3/csm_1988_02_3a8ac45faa.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/7/csm_1988_03_967f0da541.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/4/csm_1988_04_0d0d8359a6.webp\" width=\"600\"/> <h4>Globalizace zvyšuje prodej</h4> <p>Mezinárodní prodejní aktivity rostou, roční prodej nastavovacích a měřicích přístrojů stoupá na 600 kusů. Přibývají pobočky ve Francii, Rakousku a Švýcarsku a také mnoho zastoupení. Společnost ZOLLER-Austria se již deset let po svém založení stává lídrem na rakouském trhu.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_1988_01_fa494a9b49.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "784",
+     "html": "19<br/> 89 <h3>Přesnost na mikrometry pro každého obsluhujícího</h3> <p>Další technologický milník společnosti ZOLLER: Poprvé se na CNC řízených nastavovacích strojích používá elektronický PET projektor. Společnost ZOLLER tak jako první výrobce na světě nabízí systém, který umožňuje reprodukovatelná měření s přesností na mikrometry, a to nezávisle na obsluze.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/f/csm_1989_01_9d8f692b54.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/9/csm_1989_02_a7e3a3b9a2.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/f/csm_1989_01_9d8f692b54.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "785",
+     "html": "19<br/> 91 <h3>Prst místo myši</h3> <p>Společnost ZOLLER přináší do svých zařízení ještě větší komfort. Díky nové elektronice TS 20 a 40 se poprvé objevuje dotykový displej, díky němuž jsou kliknutí myší při ovládání softwaru téměř zbytečná. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/2/csm_1991_01_1336facf94.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/2/csm_1991_01_1336facf94.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "786",
+     "html": "19<br/> 92 <h3>První zařízení společnosti ZOLLER pro kontrolu nástrojů </h3> <p>Pro splnění vysokých požadavků výrobců nástrojů a brusiček vyvíjí společnost ZOLLER specializovaný měřicí přístroj s mimořádnou přesností a ještě širšími možnostmi. První přístroj nese označení H321S a je dodáván do sousedního švábského města Tübingenu, do společnosti Walter. Součástí dodávky je nový software GeoTool včetně přenosu dat do CNC brusky.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/c/csm_1992_01_256c6efd73.webp\" width=\"600\"/> <h4>Hospodářská krize v letech 1992/93 – prodej se během několika měsíců propadá </h4> <p>Nadšení však dostává ránu. Během veletrhu FAMETA '92 automobilový průmysl oznamuje propuštění desítek tisíc zaměstnanců. Hospodářská krize se projevuje a má dalekosáhlé dopady na společnost ZOLLER. „Do září jsme měli v průměru měsíčně objednávky na přibližně 50 nastavovacích a měřicích přístrojů,“ vzpomíná Eberhard Zoller. „V prosinci to byly už jen čtyři.“ </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/c/csm_1992_01_256c6efd73.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "787",
+     "html": "19<br/> 93 <h3>Nejtěžší rozhodnutí</h3> <p>Eberhard Zoller musel během vánočních prázdnin v roce 1992 učinit jedno z nejtěžších rozhodnutí celého svého pracovního života. V roce 1993 společnost ZOLLER ukončila vlastní výrobu dílů. Vzhledem k tomu, že výroba byla zadána externím dodavatelům, přišlo mnoho zaměstnanců o práci. </p> <p>Eberhard Zoller: „Bylo to těžké pro lidi i pro mě. Měli jsme moderní výrobu s dvousměnným provozem. Mohli jsme stroje osadit díly a nechat je běžet i v noci bez obsluhy. S tím teď bylo konec.“</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/7/csm_1993_01_3b720306c3.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_1993_02_b47ef20774.webp\" width=\"600\"/> <h4>AWV – patentovaná technologie zpracování obrazu</h4> <p>Na veletrhu EMO v Hannoveru představuje společnost ZOLLER poprvé vlastní patentovanou technologii zpracování obrazu AWV. ZOLLER sklízí velkou mezinárodní pozornost, protože AWV vynikajícím způsobem vizualizuje měřicí data nástroje. AWV klade základní kámen pro průmyslovou měřicí techniku prostřednictvím zpracování obrazu a optiky.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/5/7/csm_1993_01_3b720306c3.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "788",
+     "html": "19<br/> 94 <h3>KANBAN přichází</h3> <p>Ve společnosti ZOLLER nastupuje třetí generace. Nejstarší syn Eberharda Zollera, Christoph Zoller, se stává součástí týmu ZOLLER. Jeho první projekt: optimalizuje organizaci zavedením systému KANBAN ve skladu dílů. Jedná se o důležitý krok k vyšší efektivitě, díky němuž je společnost ZOLLER schopna dodat zákazníkovi jakýkoli nastavovací a měřicí přístroj ze svého portfolia do 14 dnů. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/f/csm_1994_01_19b5d93249.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/2/csm_1994_02_116316a436.webp\" width=\"600\"/> <h4>Software ZOLLER pro Windows</h4> <p>Na veletrhu AMB ve Stuttgartu představuje společnost ZOLLER poprvé software »Multivision« s operačním systémem Windows. Oficiálně je také představen první měřicí přístroj pro výrobu nástrojů a forem určený k měření elektrod: »V321combi«. </p> <p>Na trh přichází nově vyvinutá produktová řada »hyperion«a nová modelová řada »bravo 1/2/3«.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/f/csm_1994_01_19b5d93249.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "789",
+     "html": "19<br/> 95 <h3>Začíná éra »smartCheck« </h3> <p>Zařízení H321S určené pro výrobce nástrojů a brusiřské provozy dostává nástupce. Na trh přichází »smartCheck«, v této době ještě s otočnou kamerou s dopadajícím světlem a softwarem »screenMachine«.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/2/csm_1995_01_2c911ae657.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/2/csm_1995_01_2c911ae657.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "790",
+     "html": "19<br/> 96 <h3>Nová softwarová řešení</h3> <p>Pouhé tři roky po prvním představení představuje společnost ZOLLER svým zákazníkům vylepšený software pro zpracování obrazu »AWV III«. Novinkou je také řídicí software zařízení: »saturn«. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/d/csm_1996_01_9278eff800.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/f/csm_1996_02_928584a655.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/8/d/csm_1996_01_9278eff800.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "791",
+     "html": "19<br/> 97 <h3>Go West – společnost ZOLLER zakládá pobočku v USA </h3> <p>Do roku 1997 zajišťovali péči o americký trh společnosti ZOLLER externí zástupci. S mírným úspěchem. Po návštěvě veletrhu IMTS 1992 v Chicagu se Christoph Zoller rozhodl založit v USA pobočku společnosti ZOLLER. Umístění: Ann Arbor, Michigan, asi 60 kilometrů západně od bývalé americké automobilové metropole Detroitu. Společnost ZOLLER Inc. se stala důležitým centrem a dnes podporuje kromě zákazníků v USA také zákazníky v Kanadě a Mexiku.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/3/csm_1997_01_a08b653023.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/0/csm_1997_02_60f63602df.webp\" width=\"600\"/> <h4>Ruční měření bude ještě jednodušší</h4> <p>„E-Magix“ je název nového systému zpracování obrazu pro ruční přístroje ZOLLER. Díky němu jsou i tyto nastavovací a měřicí přístroje připraveny na měření nezávislé na obsluze a s přesností v řádu mikrometrů. Zákazníci společnosti ZOLLER s menším rozpočtem tak mohou rovněž těžit z automatického měření pomocí zpracování obrazu. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/3/csm_1997_01_a08b653023.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "792",
+     "html": "19<br/> 98 <h3>Novinky v oblasti měření a testování</h3> <p>Na prvním specializovaném veletrhu pro výrobce přesných nástrojů v Augsburku představuje společnost Zoller svůj sortiment zařízení pro měření a kontrolu nástrojů. Zvláště vynikají modely »V420 premium«, »V420 profi« a především »V420 magnum« s technologií zpracování obrazu.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/8/csm_1998_01_3d21d4534b.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/5/csm_1998_02_889c862a76.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/9/csm_1998_03_be2a6c4d07.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/8/csm_1998_01_3d21d4534b.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "793",
+     "html": "19<br/> 99 <h3>»lasso« zachycuje obrysy</h3> <p>Jeden software nadchl odbornou veřejnost: »lasso« poprvé umožňuje plně automatické skenování spirálovitých nástrojů na nastavovacím a měřicím zařízení. Kromě toho dokáže tento software také vyhodnocovat tvary a obrysy s přesností na mikrometry pomocí porovnání požadovaného a skutečného stavu s tolerančním pásmem na základě DXF souboru s požadovaným obrysem. Takzvané „smrky“ byly velmi oblíbené – zejména v letectví a kosmonautice. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/4/csm_1999_01_387ee1601f.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/0/csm_1999_02_efda5ebf67.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/4/csm_1999_01_387ee1601f.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "794",
+     "html": "20<br/> 00 <h3>Nový rozdíl: »smile«</h3> <p>Sérií »smile« se u společnosti ZOLLER definitivně stává projektor pro ruční nastavovací a měřicí přístroje minulostí. Zatímco konkurenti na veletrhu Intertool představují přístroje s projektorem jako novinku, která však pochází od jiných výrobců, společnost ZOLLER jako hnací síla inovací opět výrazně předstihuje trh. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/0/csm_2000_01_92bdc20f46.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/7/csm_2000_02_3a12cc2553.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/0/csm_2000_01_92bdc20f46.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "795",
+     "html": "20<br/> 01 <h3>Certifikovaný systém environmentálního managementu</h3> <p>Společnost ZOLLER bere ochranu životního prostředí vážně. Proto se nechává certifikovat podle normy DIN EN ISO 14001. Tím se zavádí systém environmentálního managementu, který je díky certifikaci mezinárodně uznáván.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/7/csm_2001_00_fcecf51b1d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/c/csm_2001_01_fbfed3b0ab.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/3/csm_2001_02_96ed611f19.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/2/csm_2001_03_a6c71d07ca.webp\" width=\"600\"/> <h4>Geniální měřicí stroj: »genius«</h4> <p>Společnost ZOLLER rozšiřuje svou techniku nastavovacích a měřicích přístrojů o měřicí a kontrolní stroj »genius«. Přístroj nabízí mimo jiné 5 CNC os a automatické měření v odraženém světle. Díky tomu může společnost ZOLLER dodávat i těm zákazníkům, kteří chtějí automatizovaně snímát mnoho parametrů na břitu a vysoce přesně kontrolovat kvalitu nástrojů: výrobcům nástrojů a brusičům. </p> <p>Na veletrhu EMO v Hannoveru představí společnost ZOLLER další nově vyvinuté technologické novinky: univerzální vřeteno »ace«,upínání a měření mezi hroty pomocí »phoenix«, nastavovací a měřicí přístroj »zenit« v provedení pro měřicí hlavy a plně automatický měřicí přístroj pro frézy na klikové hřídele, »gemini«.</p> <h4>Třetí generace, část 2</h4> <p>Mladší syn Eberharda Zollera, Alexander Zoller, nastupuje v září do společnosti jako zaměstnanec. Předtím absolvoval duální studium na odborné akademii a ve společnosti ZOLLER.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/7/csm_2001_00_fcecf51b1d.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "796",
+     "html": "20<br/> 02 <h3>Odborník na zmenšování: »redomatic«</h3> <p>Máme první zakázku na zařízení, pomocí kterého lze nástroje nasazovat a sundávat, měřit a seřizovat. Chybí nám však vhodné řešení. Během cesty autem k zákazníkovi do Švýcarska diskutují Eberhard Zoller a vývojář Christian Pfau o možných technických řešeních. Výlet do sousední země se vyplatil. Po návratu je konstrukce hotová – alespoň v jejich hlavách. Mimochodem, oba prodávají tři »zařízení genius« do Švýcarska. </p> <p>»redomatic«, nové nastavovací a měřicí zařízení s indukční smršťovací technologií, je představeno na veletrhu AMB ve Stuttgartu. Byl to teprve začátek technologie smršťování made by ZOLLER. Na souběžně probíhajícím veletrhu IMTS v USA představuje ZOLLER plně automatickou verzi »roboToSet« a ukazuje, jak se kombinuje polygonová upínací technologie Schunk-TRIBOS s nastavovacími a měřicími přístroji řady V.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/a/csm_2002_00_95db9b4435.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_2002_01_1d3c5d8d2f.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/a/csm_2002_00_95db9b4435.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "797",
+     "html": "20<br/> 03 <h3>Lepší přehled s »genius 3«</h3> <p>Společnost ZOLLER vybavila měřicí stroj »genius 3« novou optikou a představuje přístroj »genius Mikro«. Řada horizontálních přístrojů »„hyperion“ je vybavena novým držákem optiky s kamerou DME, otočným zařízením a rychlým nastavením optiky, což přináší ještě více možností při seřizování nástrojů.«</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/d/csm_2003_00_913135cae6.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/8/csm_2003_01_2bdaa4001e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/1/csm_2003_02_de3551a3c4.webp\" width=\"600\"/> <h4>ZOLLER Iberica</h4> <p>Došlo k založení společnosti ZOLLER Iberica. Tímto krokem se společnost ZOLLER stala přítomná na dvou nových trzích: v Portugalsku a ve Španělsku. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/d/csm_2003_00_913135cae6.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "798",
+     "html": "20<br/> 04 <h3>Důchod se nekoná</h3> <p>Společnost ZOLLER rozšiřuje vedení o své syny Alexandra a Christopha Zollera. Plán je následující: Christoph Zoller se vrací z USA, aby se více zapojil do činnosti ve Freibergu nad Narzem. Eberhard Zoller se z velké části stahuje z operativního řízení, protože si tento senior šéf již pořídil psa na důchod. Jeho plán: venčit psa a spíše se starat o záležitosti svého čtyřnohého miláčka. Ale věci se vyvíjejí jinak.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/1/csm_2004_00_cb56fd1d1e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/b/csm_2004_01_51b4876229.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/5/csm_2004_02_cb9a1f217b.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/5/csm_2004_03_ad74b64e11.webp\" width=\"600\"/> <h4>Směr Čína </h4> <p>Christoph Zoller se vydává z USA směrem do Číny a Indie. Rostoucí trhy přece potřebují pobočku ZOLLER. Řečeno, hotovo. V Šanghaji a Pune otevírá po jedné pobočce. Bratr Alexander se stěhuje do USA, přebírá tamní podnikání a pobočku dále rozšiřuje. A Eberhard Zoller? Ten chodí do firmy dál – v doprovodu svého psa.</p> <h4>Měření v jakékoli poloze břitu</h4> <p>Díky Zoller »aralon«je poprvé možné plně automaticky měřit frézy na klikové hřídele s vnitřními břity ve všech polohách břitů. Měřicí přístroj pro měřicí hlavy, »zenit«, je doplněn portálovým koníkem s pneumatickým upínáním ponorných hřídelí.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/f/1/csm_2004_00_cb56fd1d1e.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "799",
+     "html": "20<br/> 05 <h3>Krátké zhodnocení zařízení po 60 letech</h3> <p>Ve společnosti ZOLLER dodnes utvářejí vnitřní kulturu podniku hodnoty zakladatele firmy Alfreda Zollera: rychlá reakce na změny, neustálá práce na inovacích a vždy pečlivé naslouchání přáním zákazníků. </p> <p>Zahraniční zákazníci odměňují tento přístup svou důvěrou: od prvního přístroje Alfreda Zollera prodala společnost ZOLLER do konce roku 2005 přibližně 20 000 dalších nastavovacích a měřicích přístrojů.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/1/csm_2005_00_fdd8ab8f6d.webp\" width=\"600\"/> <h4>Plně automatická kontrola nástrojů</h4> <p>Měřicí stroj »genius 3« prošel dalším vývojem a poprvé je vybaven plně automatickým systémem. Jako »genius 3 sx« měří 75 nástrojů různých typů uložených v zásobníku zcela bez zásahu obsluhy. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/1/csm_2005_00_fdd8ab8f6d.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "800",
+     "html": "20<br/> 06 <h3>Software zařízení na nejvyšší úrovni: »pilot 3.0«</h3> <p>Software pro přístroje »saturn« dostává nástupce s novou architekturou a moderním uživatelským rozhraním optimalizovaným pro MMI: »pilot 3.0«. </p> <p>Společnost Zoller tak stanovuje celosvětový standard pro ucelený softwarový koncept pro nastavovací a měřicí přístroje, měřicí stroje, zpracování obrazu a správu nástrojů včetně správy dat a rozhraní. »pilot 3« je špičkou v oblasti pohodlného ovládání a extrémně rychlého zpracování obrazu. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/7/csm_2006_00_d45da2d636.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/5/csm_2006_01_5b3b85a630.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/2/csm_2006_02_b88e48a4ae.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/9/csm_2006_03_b2dcfb6a42.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/7/csm_2006_00_d45da2d636.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "801",
+     "html": "20<br/> 07 <h3>»pilot elephant«: Měření bez předchozích znalostí</h3> <p>Ve společnosti ZOLLER platí: měření musí být jednoduché. Pomocí asistenčního softwaru »pilot elephant« společnost dokazuje, že každý, kdo stojí u přístroje ZOLLER, dokáže měřit nástroje s přesností na mikrometry – bez zadávání dat a bez znalosti obsluhy. Nezáleží na tom, zda u nastavovacího a měřicího přístroje stojí zkušený obráběč nebo brigádník. V rámci společnosti ZOLLER je tato funkce považována za „parní kladivo“. </p> <p>Jak lze úspěšný měřicí stroj »genius« ještě vylepšit, předvádí společnost ZOLLER na veletrhu EMO. »genius« je nyní vybaven »pilot 3«, má další osu a nový mikrosenzor. To umožňuje ještě větší přesnost a úhlová měření na plochách – dokonce i v případě, že je materiál průhledný. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/1/csm_2007_00_d5ee02dddf.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/2/csm_2007_01_2e3104732a.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/1/csm_2007_00_d5ee02dddf.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "802",
+     "html": "20<br/> 08 <h3>Stěhování do Pleidelsheimu</h3> <p>Po více než 25 letech se centrála společnosti ve Freibergu nad Narzem stala příliš malou. Společnost ZOLLER se stěhuje asi 4 kilometry dál na druhou stranu řeky Neckar, do Pleidelsheimu.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/1/csm_2008_00_afd72ac2c5.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/0/csm_2008_01_bb00de4a3d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/f/csm_2008_02_08fa1ae800.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/f/csm_2008_03_678beb8dc2.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/1/csm_2008_00_afd72ac2c5.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "803",
+     "html": "20<br/> 10 <h3>ZOLLER v Japonsku</h3> <p>Ve městě Osaka s milionem obyvatel otevírá společnost ZOLLER svou pobočku v Japonsku. Střední podnik z Pleidelsheimu si tak postupně otevírá další významný trh. Později přibudou další kanceláře v Naganu a Jokohamě.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/f/csm_2010_00_93381b4b80.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/2/csm_2010_01_6ac9a7367e.webp\" width=\"600\"/> <h4>Více prostoru pro »venturion«</h4> <p>Nastavovací a měřicí přístroje řady »venturion800« získávají více prostoru ve směru osy Z. Na přání jsou nyní k dispozici měřicí délky 1 400 mm a 1 600 mm. První přístroj bude dodán společnosti ZF-Windpower v USA.</p> <h4>První virtuální měřicí přístroj</h4> <p>Novinky také v oblasti softwaru: simulační software »CAZ« (computer aided ZOLLER). Jedná se o virtuální měřicí přístroj, s jehož pomocí lze již během konstrukce nástroje simulovat měřicí procesy na základě 3D modelu. »CAZ« je integrován do »softwaru pilot«, takže konstruktér může hotové měřicí rutiny přenést na přístroj ZOLLER. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/f/csm_2010_00_93381b4b80.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "804",
+     "html": "20<br/> 11 <h3>Správa nástrojů se společností ZOLLER</h3> <p>Kdo ve výrobě využívá software pro správu nástrojů, disponuje strukturovanými údaji o nástrojích. Společnost ZOLLER představuje software TMS Toolmanagement Solutions a tím propojuje digitální správu nástrojů s měřicími údaji z nastavovacích a měřicích přístrojů i z kontrolních strojů. Data a správa dat se propojují.</p> <h4>Rychlé měření v blízkosti procesu</h4> <p>Společnost ZOLLER uvádí na trh »pomSkpGo«. Jedná seo první mobilní měřicí přístroj pro měření přípravy břité hrany. Společnost ZOLLER tak spojuje flexibilitu a vysokou přesnost v jednom přístroji. Je to začátek pro přístroje, které jsou zaměřeny na měření v blízkosti procesu. Slouží k rychlým a přesným ručním měřením při příjmu zboží nebo ke kontrole nástrojů vedle brusky.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/0/csm_2011_00_3b26f621ab.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/d/csm_2011_01_32ad31d9b5.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/4/csm_2011_02_63b4fd55b9.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/3/csm_2011_03_692d824123.webp\" width=\"600\"/> <h4>Portfolio se rozšiřuje o speciální aplikace</h4> <p>Další novinkou je šest špičkových specialistů na speciální typy nástrojů. Pro měření válcových fréz mohou zákazníci v budoucnu využít »hobCheck« a »pomZenit«. Kdo chce měřit pilové listy, sází na »sawCheck«, s »millCheck« lze měřit hlavy s rovnými noži, s »pomZenit« hlavy s úhlovými noži a s »hobCheck800« válcové frézy osazené vyměnitelnými destičkami. </p> <p>Pro zákazníky z oblasti výroby motorů přizpůsobuje společnost ZOLLER svou špičkovou měřicí techniku měření a vyrovnávání fréz na klikové hřídele. Řešení se nazývají »eQick200«a »eQuick 300«.</p> <p>Více se také zaměřuje na potřeby v oblasti výroby nástrojů a forem. ZOLLER realizuje »smile EDM« a vyvíjí pro něj speciální sestavu s elektronickým měřicím snímačem a softwarem s grafickým uživatelským rozhraním a dalšími výpočetními metodami.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/0/csm_2011_00_3b26f621ab.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "805",
+     "html": "20<br/> 12 <h3>Míra technologických možností: »titan«</h3> <p>Měřicí a kontrolní stroj »titan« rozšiřuje řadu »genius«. Tento stroj představuje plně automatické špičkové řešení s až 7 CNC osami pro kontrolu přesnou na mikrometry u přesných nástrojů, včetně úpravy břitev. »titan« je měřicí gigant s hmotností až 1 400 kilogramů. Stroj, který uprostřed výroby stoicky vykonává svou precizní práci.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/d/csm_2012_00_c6b0ad0be7.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/2/csm_2012_01_7dd3291b48.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/b/csm_2012_02_d7d56b35ec.webp\" width=\"600\"/> <h4>Expert na výstružníky </h4> <p>Kromě rozsáhlých řešení pro nastavení a měření výstružníků pomocí zpracování obrazu vybavuje společnost ZOLLER zařízení »reamCheck« elektronickým dvojitým snímačem.</p> <h4>ZOLLER ve Velké Británii a Indonésii</h4> <p>V prosinci založila společnost ZOLLER svou pobočku ve Velké Británii. Tým ZOLLER UK dnes sídlí v klidném městečku Foston v hrabství Derbyshire. To leží téměř uprostřed trojúhelníku Birmingham – Sheffield – Manchester. Ve stejném roce otevřela společnost ZOLLER kancelář v Indonésii. </p> <p>Celosvětový počet prodaných nastavovacích a měřicích přístrojů stoupá do konce roku na více než 30 000. </p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/d/csm_2012_00_c6b0ad0be7.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "806",
+     "html": "20<br/> 13 <h3>Rozšíření řady měřicích strojů</h3> <p>Měřicí stroj »threadCheck« doplňuje portfolio kontrolních zařízení o automatické měření a kontrolu závitořezných nástrojů. </p> <p>Nové zařízení »3dCheck« vychází z »modelu genius«, ale nabízí další funkce. Navazuje na rostoucí trend digitálních dvojčat nástrojů a digitalizace obrobků. Tento šestiosý měřicí stroj nejenže provádí přesnou kontrolu nástrojů, ale také například vytváří 3D digitalizaci nástroje. </p> <p>Měřicí stroj »edgeControl« je specializován na rozpoznávání stop opotřebení a bezkontaktní snímání i těch nejmenších odštěpků na řezné hraně. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/5/csm_2013_00_fd665e9f3e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/7/csm_2013_01_915ec1ed8a.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/2/csm_2013_02_5c895d3081.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/0/csm_2013_03_781bcf7142.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/a/csm_2013_04_13dd281fe0.webp\" width=\"600\"/> <h4>Další přístroje pro měření v průběhu výroby</h4> <p>Řada POM se rozšiřuje o tři nové modely. Pro měření v průběhu výroby standardních a mikro nástrojů představuje společnost ZOLLER svým zákazníkům nová univerzální zařízení »pomBasic« a »pomBasic micro«. S »pomDiaCheck« přichází na trh speciální zařízení pro použití v průběhu výroby, které měří průměr kruhově broušených polotovarů a vrtacích a vyvrtávacích nástrojů s přesností menší než 1 µm.</p> <h4>CNC technika pro »redomatic«</h4> <p>Kombinovaný přístroj pro přesné smršťování, nastavování a měření smršťovacích nástrojů nyní měří plně automaticky. Až na vložení komponent a vyjmutí hotového kompletního nástroje má obsluha pouze roli diváka.</p> <h4>Certifikace</h4> <p>Společnost ZOLLER zavádí normu DIN EN ISO 17025 a nechává se recertifikovat v oblasti řízení kvality podle norem ISO 9001:2008, VDA 6.4:2005 a podle systému environmentálního managementu ISO 140001:2004.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/3/5/csm_2013_00_fd665e9f3e.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "807",
+     "html": "20<br/> 14 <h3>Vyšší efektivita pro výrobce nástrojů díky automatizaci</h3> <p>Na veletrhu GrindTec v Augsburku společnost ZOLLER předvádí, jak mohou výrobci nástrojů a brusičské provozy automatizovat kontrolu nástrojů. »Systém roboSet 1« přebírá veškeré procesy manipulace s nástroji pro univerzální měřicí stroj »genius«. Celé série nástrojů jsou plně automaticky kontrolovány a výsledky jsou dokumentovány. </p> <p>Další novinkou jsou řešení pro plně automatické měření speciálních geometrií a typů vrtáků, jako jeKENtip, a software pro měření brusných kotoučů.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/4/csm_2014_00_ee8616f1bd.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/7/csm_2014_01_4b275c8266.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/4/csm_2014_02_8723403680.webp\" width=\"600\"/> <h4>Plynulý, automatizovaný přenos dat</h4> <p>Ruční zadávání dat o nástrojích patří minulosti. Na veletrhu EMO v Miláně představí společnost ZOLLER poprvé »zidCode«. Toto nové řešení společnosti ZOLLER přenáší data o nástrojích přímo, bezchybně a v souladu s řídicím systémem do CNC stroje. Stačí naskenovat kód na nástroji.</p> <p>Pro společnost ZOLLER je zidCode důležitou inovací, protože díky němu nyní probíhá výroba v celém procesu CAM-to-Part digitálně.</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/9/4/csm_2014_00_ee8616f1bd.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "808",
+     "html": "20<br/> 16 <h3>Velká aktualizace pro »smile« a »venturion«</h3> <p>Osvědčené nastavovací a měřicí přístroje řad »smile« a »venturion« procházejí modernizací. Ještě větší přesnost, ještě jednodušší ovládání, ještě větší pohodlí. Už téměř nezáleží na tom, zda tlačítka na přístroji »smile« nebo »venturion« mačká kvalifikovaný odborník nebo pouze zaškolený pracovník. </p> <p>Maximální podporu poskytuje CNC řízení, software »pilot«, autofokus, samostatná ovládací jednotka »cockpit«, asistenční software »elephant« a nová jednoruká rukojeť »eQ«. Společnost ZOLLER dokazuje, že nejuživatelštější přesná zařízení pocházejí z Pleidelsheimu.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/1/csm_2016_00_b30d8d238e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/3/csm_2016_01_94d97f1b9b.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/9/d/csm_2016_02_3b49344a7e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/9/csm_2016_03_23ec9d58b3.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/d/1/csm_2016_00_b30d8d238e.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "809",
+     "html": "20<br/> 17 <h3>Přesná analýza povrchu nástroje</h3> <p>Inспекční zařízení »mµFocus,« které se používá přímo v rámci výrobního procesu, umožňuje výrobcům nástrojů detailní pohled na drsnost povrchu na řezné hraně – a to bezkontaktně. Díky optickému systému s vysokým rozlišením a vynikajícímu zpracování obrazu od »společnosti pilot« vytváří »mµFocus« barevně kódované snímky. Ty zviditelňují i ty nejmenší vady a rýhy.</p> <h4>Hardware pro správu nástrojů rozšiřuje správu nástrojů </h4> <p>Mnoho zákazníků společnosti ZOLLER již využívá TMS Tool Management Solutions, modulární software pro správu nástrojů a nástrojových dat. Nyní přichází vhodný hardware: velká skříň na nástroje »keeper«, skříň na nástroje a drobné díly »toolOrganizer« a montážní stanice »toolStation«. Všechny lze přímo kombinovat se softwarem ZOLLER. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/f/csm_2017_00_887e40741c.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/8/csm_2017_01_8a326e2894.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/3/f/csm_2017_00_887e40741c.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "810",
+     "html": "20<br/> 18 <h3>Centrála v Ann Arbor, nová budova v Japonsku</h3> <p>Po více než 20 letech pronikání na americký trh se společnost ZOLLER Inc., americká pobočka firmy ZOLLER, stěhuje do nově vybudované centrály v Ann Arbor ve státě Michigan. Alexander Zoller tím pokládá základní kámen pro nový design společnosti ZOLLER ve stavebnictví. Velký a komplexně vybavený showroom se rychle stává centrem pro jednání se zákazníky, školení, prezentace, interní akce a úspěch v USA. </p> <p>Zoller posiluje svou přítomnost také v Japonsku. Společnost se stěhuje do vlastní budovy.</p> <h4>Nová automatizace pro modely řady »genius« </h4> <p>Po pouhých pěti letech přichází nástupce »roboSet 1«. S »roboSet 2« integruje ZOLLER do automatizačního řešení pro »genius« čisticí a popisovací stanici. Ještě více zásadních procesních kroků při kontrole a dokumentaci nástrojů tak může probíhat bez zásahu obsluhy.</p> <h4>Automatizace pro nástroje s upínacími kleštinami</h4> <p>Pro automatické měření a seřizování mimo jiné pro upínací kleštiny vyvíjí Zoller další světovou novinku: »torqueMatic«. Tento seřizovací a měřicí přístroj dokáže automaticky uvolnit upínací matici a po seřízení s kontrolou točivého momentu ji opět utáhnout. </p> <p>Doplněno o šroubovací stanici s kontrolou točivého momentu se »venturion 450« stává novým »screwMatic«. Uvolňování a utahování hydraulických upínacích sklíčidel typu Schunk TENDO tak probíhá automatizovaně. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/7/csm_2018_00_3b05fd742d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/8/csm_2018_01_30fd37ca38.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/4/csm_2018_02_6b7b90acfb.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/2/csm_2018_03_f2be83cd14.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/f/csm_2018_04_06fda817d9.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/7/csm_2018_00_3b05fd742d.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "811",
+     "html": "20<br/> 20 <h3>Nová budova se Smart Factory a akademií</h3> <p>Rozšířením firemního sídla v Pleidelsheimu otevírá společnost ZOLLER novou kapitolu. Vzniká zákaznické centrum zahrnující vývoj, montáž, expedici a administrativu. ZOLLER Academy získává v nových budovách moderní a prostorné prostory. Srdcem komplexu je Smart Factory, kde může společnost ZOLLER poprvé představit svá propojená řešení pro Průmysl 4.0.</p> <h4>Špičkový software ještě vylepšený</h4> <p>Software zařízení »pilot 3.0« s vynikajícím zpracováním obrazu je celosvětově považován za měřítko. Společnost ZOLLER si však klade za cíl vylepšit to, co se již osvědčilo. S nástupcem »pilot 4.0« přichází nové uživatelské rozhraní, které se orientuje na smartphony a tablety. Pohodlný koncept ovládání »pilot 3.0« zůstává zachován. Uživatel má nyní však možnost individuálně si přizpůsobit své pracovní prostředí a vyvolat ho na každém zařízení ZOLLER. »pilot 4.0« znamená maximální komfort, vysokou uživatelskou přívětivost a ještě jednodušší práci.</p> <h4>Nová platforma zařízení a nový design </h4> <p>Všechny měřicí stroje na nástroje ZOLLER řady »genius« jsou postaveny na nové platformě a od základu přepracovány. Kromě nejmodernější technologie, jedinečné ergonomie a odizolování od vibrací se »modely genius«, »threadCheck«, »edgeControl«, »3dCheck« a »titan« pyšní novým designem.</p> <h4>Rozšíření o technologii smršťování a ještě větší pohodlí při práci s daty</h4> <p>Produktová řada pro smršťování je obohacena o další technologii v podobě »redomatic mst«.</p> <p>S »zidCode 4.0« přichází na trh doplněk k »zidCode«. »zidCode 4.0« pracuje zcela v síti a obousměrně. Umí načítat data z centrální databáze z.One a přenášet je do řízení CNC stroje, ale také zapisovat aktualizovaná data, jako jsou životnosti, zpět do databáze.</p> <h4>Nová budova také v Číně</h4> <p>16 let poté, co Christoph Zoller zahájil podnikání v Číně, otevírá společnost ZOLLER novou budovu pro svou čínskou pobočku. Jedná se o milník na dlouhé, ale úspěšné cestě v mezinárodním obchodě. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/3/csm_2020_00_1463439bea.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/6/csm_2020_01_2b46d3f70f.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/5/csm_2020_02_4de4e4c5ee.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/6/csm_2020_03_02ba7d969e.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/c/6/csm_2020_04_4a68438d24.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/f/csm_2020_05_332915d9da.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/a/csm_2020_06_6b235cbb9a.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/c/csm_2020_07_b0ebae7512.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/8/csm_2020_08_6b194eb4bd.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/4/csm_2020_09_6e0fd677cf.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/3/csm_2020_00_1463439bea.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "812",
+     "html": "20<br/> 21 <h3>Automatizace nástrojů pro výrobu</h3> <p>Systémový dodavatel ZOLLER představuje nové produkty, díky nimž mohou zákazníci automatizovat procesy obrábění a postupně transformovat svou výrobu na inteligentní továrnu.</p> <p>»loadBox« automatizuje kompletaci nástrojů, »roboBox« je modulární automatizace pro montáž nástrojů, seřizování a měření, čištění, nasazování a sundávání, jakož i další úkoly. Všestranná řada »cora« pokrývá manipulaci s nástroji, asistenci cobotů a logistiku ve výrobě. </p> <p>Společnost ZOLLER těží z dlouhodobého zaměření svých řešení pro nastavování a měření, kontrolu a měření, správu nástrojů, software a přenos dat. V automatizaci vše dohromady funguje.</p> <h4>Nová generace držáků nástrojů – s »idChip« </h4> <p>To, co začalo již v roce 1948 držáky pro soustružnické nástroje, se po 73 letech znovu vrací: »Tooling«. Díky prvotřídním držákům nástrojů „Made in Germany“ a chytrému příslušenství získávají zákazníci po celém světě nyní také upínací prostředky v známé kvalitě ZOLLER. </p> <p>Rovněž nový »idChip« okamžitě připraví držáky nástrojů pro správu nástrojů se společností ZOLLER. Kódovaný plastový čip je integrován do držáků nástrojů a umožňuje jejich jednoznačnou identifikaci. Náklady jsou však mnohem nižší než u RFID transpondérů. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/4/9/csm_2021_00_b1855bd81f.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/c/csm_2021_02_4783ccf6d7.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/5/0/csm_2021_03_3269d32dbd.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/0/csm_2021_04_3db7f96f03.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/8/f/csm_2021_05_d78f69282a.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/4/csm_2021_06_9d5701d1b6.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/f/a/csm_2021_07_f8723cb7dc.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/9/csm_2021_00_b1855bd81f.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "813",
+     "html": "20<br/> 22 <h3>Inovace v oblasti vyvažování a smršťování</h3> <p>Společnost ZOLLER nabízí řešení pro vyvažování a smršťování již 20 let. Požadavky se však dále vyvíjely. Je čas na novinky. </p> <p>S »toolBalancerem« a »powerShrinkem« se společnosti ZOLLER podařilo vyvinout dvě novinky, díky nimž přesnost, energetická účinnost, bezpečnost a ergonomie dosahují dosud nedosažené úrovně kvality. </p> <p>Vyvažování nástrojů nikdy nebylo tak snadné a přesné. Nikdy předtím nemohli zaměstnanci ve výrobě provádět procesy nasazování a stahování tak rychle a efektivně. </p> <p>U obou řešení se společnost ZOLLER vydala technologicky zcela novými cestami a potvrdila tak svou vynikající inovační schopnost. Odborná veřejnost na veletrhu AMB ve Stuttgartu a na veletrhu IMTS v Chicagu žasne nad přesností, rychlostí, ergonomií a designem nových zařízení. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/a/csm_2022_00_a9077eb7ea.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_2022_01_9d28b009d5.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/3/b/csm_2022_02_248e734173.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/7/5/csm_2022_03_642b4ee4f4.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/a/csm_2022_00_a9077eb7ea.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "814",
+     "html": "20<br/> 23 <h3>»coraMeasure LG«: Portálové řešení pro automatické nastavení a měření</h3> <p>Automatizace obrábění pomocí kompaktního portálu bez robotického ramene – takový úkol dal Alexander Zoller svým vývojářům. Když společnost ZOLLER poprvé představila výsledek na veletrhu EMO 2023 v Německu, vzbudil okamžitě velký zájem. »coraMeasure LG« je dalším inovativním přístupem společnosti ZOLLER k rychlému řešení aktuální výzvy: nedostatku kvalifikovaných pracovníků.</p> <h4>Vstup do nového odvětví</h4> <p>Měřicí technika společnosti Zoller vstupuje do kamenického průmyslu. Nový »ConDiaZ« dělá z měření a optimalizace dat pro speciální formovací nástroje tohoto odvětví hračku. A to nejlepší na tom je: pomáhá s tím umělá inteligence!</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/d/1/csm_2023_00_5aebb5cd96.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/b/csm_2023_01_d984fc38e4.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/d/1/csm_2023_00_5aebb5cd96.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "815",
+     "html": "20<br/> 24 <h3>Nový měřicí stroj</h3> <p>Vítejte, »threadCheck I cc«. Nový měřicí stroj mimo jiné poprvé měří závitovací nástroje v plně uzavřené a od vibrací izolované jednotce. Ještě větší přesnost pro rozlišení rozhodujících detailů při měření. Integrovaný koník s CNC řízením lze automaticky osazovat.</p> <h4>Bezpečné skladování nástrojů</h4> <p>Skříň na nástroje »toolOrganizer« získává další možnost: »smartCompartments«. Tyto zámky přihrádek vyvinuté společností ZOLLER rozšiřují již tak vysokou funkčnost hardwaru pro správu nástrojů.</p> <h4>Pro kámen a dřevo</h4> <p>Díky systému »smile gbo« a nové optice s velkým zorným polem umožňuje společnost ZOLLER svým zákazníkům rychlé měření složitých geometrií nástrojů pro obrábění kamene a dřeva v jediném kroku. </p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/0/8/csm_2024_00_f953f5ad3d.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/e/5/csm_2024_01_11e8ff9e06.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/6/csm_2024_02_1b4af3f1bd.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/6/f/csm_2024_03_45c77f1de1.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/0/8/csm_2024_00_f953f5ad3d.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    },
+    {
+     "id": "816",
+     "html": "20<br/> 25 <h3>Komplexní údržba modelů »pom«</h3> <p>Společnost ZOLLER zásadně přepracovává úspěšnou řadu procesně orientovaných kontrolních přístrojů »pomBasic«. Přibývají nové modely: »pomBasic Compact« a »pomBasic MTI«. </p> <p>Zejména pro oblast mikro nástrojů do D=0,1 mm to znamená obrovský skok. Díky speciální optice a softwarovým funkcím se mikroskopicky malé geometrie stávají viditelnými a měřitelnými. Také jejich plně automatické měření se stává realitou díky »3dCheck micro«.</p> <h4>Zaměření na zkoušky opotřebení</h4> <p>Společnost ZOLLER se intenzivně věnuje komplexnímu tématu opotřebení. Vývoj »edgeControl« rychle postupuje. Tým vývojářů společnosti ZOLLER vyvíjí software optimalizovaný pro zkoušky opotřebení.</p> <h4>Automatizace ve skladu dílů</h4> <p>Na začátku ledna, v roce 80. výročí, se společnost ZOLLER dále orientuje na budoucnost. Ve druhém kalendářním týdnu je v montážním závodě v Pleidelsheimu uvedeno do provozu automatizované skladování drobných dílů. Systém automaticky spravuje více než 18 000 dílů a vydává do montáže to, co je potřeba. „To je pro společnost milník. I v 80 letech se držíme toho, že se neustále modernizujeme a jdeme s dobou,“ říká Eberhard Zoller.</p> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/b/d/csm_2025_00_bf3fc026d8.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/2/f/csm_2025_01_f37aa89108.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/1/3/csm_2025_02_55890fb3a6.webp\" width=\"600\"/> <img alt=\"\" height=\"600\" loading=\"lazy\" src=\"/fileadmin/_processed_/a/b/csm_2025_03_ab3d89c3cc.webp\" width=\"600\"/>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/d/csm_2025_00_bf3fc026d8.webp",
+      "alt": "",
+      "w": 600,
+      "h": 600
+     }
+    }
+   ]
+  }
+ ],
+ "src_path": "/cz/spolecnost/profil/historie",
+ "de_path": "/unternehmen/profil/historie"
+}

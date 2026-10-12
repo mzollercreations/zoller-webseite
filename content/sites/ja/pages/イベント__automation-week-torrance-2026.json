@@ -1,0 +1,496 @@
+{
+ "path": "/イベント/automation-week-torrance-2026",
+ "url": "/イベント/automation-week-torrance-2026",
+ "title": "ZOLLER Automation Week Torrance 2026",
+ "description": "2026年10月12日～16日、ZOLLER Inc. Pacific（カリフォルニア州トーランス）：»coraLogistic«、»coraVarion«、»loadBox« のライブデモ、講演、専門家との 1 対 1 の相談。",
+ "og_image": "/assets/video/automation-week-poster.jpg",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "event_hero",
+   "id": "event",
+   "kicker": "イベント · ZOLLER Inc. Pacific",
+   "title": "ZOLLER Automation Week",
+   "subtitle": "5 日間、自動化をライブで体験――»coraLogistic«、»coraVarion«、»loadBox« の稼働をご覧ください。",
+   "dates": "2026年10月12日～16日",
+   "place": "トーランス（カリフォルニア州）",
+   "hours": "毎日 9:00～17:00（太平洋時間）",
+   "images": [
+    {
+     "src": "/assets/showroom/img/hd/coralogistic.webp",
+     "alt": "»coraLogistic«"
+    },
+    {
+     "src": "/assets/showroom/img/hd/loadbox.webp",
+     "alt": "»loadBox«"
+    },
+    {
+     "src": "/assets/showroom/img/hd/micbox.webp",
+     "alt": "»micBox«"
+    }
+   ],
+   "buttons": [
+    {
+     "label": "プログラムを選ぶ",
+     "href": "#schedule"
+    },
+    {
+     "label": "招待動画を見る",
+     "href": "#video",
+     "ghost": true
+    }
+   ]
+  },
+  {
+   "type": "event_facts",
+   "id": "facts",
+   "bg": "yellow",
+   "items": [
+    {
+     "value": "5",
+     "label": "日間",
+     "text": "月曜日から金曜日まで、日ごとに異なるテーマ"
+    },
+    {
+     "value": "3",
+     "label": "ソリューションをライブで",
+     "text": "»coraLogistic«、»coraVarion«、»loadBox« が稼働"
+    },
+    {
+     "value": "25+",
+     "label": "プログラム",
+     "text": "ライブデモ、講演、ワークショップ、専門家との 1 対 1 の相談"
+    },
+    {
+     "value": "0 ドル",
+     "label": "入場料",
+     "text": "無料――各デモの席数には限りがあります"
+    }
+   ]
+  },
+  {
+   "type": "event_video",
+   "id": "video",
+   "bg": "black",
+   "kicker": "ご招待",
+   "title": "トーランスへのご招待",
+   "text": "<p>トーランスでお待ちしているもの――そして来場する価値がある理由。</p>",
+   "src": "/assets/video/zoller-automation-week-torrance.mp4",
+   "poster": "/assets/video/automation-week-poster.jpg"
+  },
+  {
+   "type": "event_products",
+   "id": "solutions",
+   "bg": "lightgray",
+   "title": "3 つのソリューション。1 つの自動化された工具サイクル。",
+   "text": "<p>工具倉庫から準備、そして CNC 工作機械まで：ZOLLER の自動化がどのように連携するのか、そしてそれがお客様の生産にとって何を意味するのかをご覧ください。</p>",
+   "items": [
+    {
+     "name": "»coraLogistic«",
+     "claim": "自動化された工場内物流",
+     "img": "/assets/showroom/img/hd/coralogistic.webp",
+     "href": "/produkte/automation/werkzeuglogistik/coralogistic",
+     "tag": "coralogistic",
+     "benefits": [
+      "工具がひとりでに移動：自律走行ロボット »coraExpress« が保管、準備、機械の間で工具を搬送",
+      "»smartPallet« システムが工具をしっかり保持――手動搬送にも自動搬送にも対応",
+      "webTMS のジョブ管理で数クリックで搬送指示を作成",
+      "歩き回ることも探すことも減り、工具が時間どおりに機械へ届きます"
+     ]
+    },
+    {
+     "name": "»coraVarion«",
+     "claim": "スローアウェイチップの自動組立、検査、測定",
+     "img": "/assets/showroom/img/hd/micbox.webp",
+     "href": "/produkte/automation/werkzeugvorbereitung/micbox",
+     "tag": "coravarion",
+     "benefits": [
+      "»micBox« なら、チップの回転、反転、交換を完全自動で行います",
+      "組立、検査、測定を 1 つの連続したプロセスで",
+      "すべての工具を完全に記録し、品質を安定化",
+      "無人で稼働――熟練スタッフは付加価値の高い業務に集中できます"
+     ]
+    },
+    {
+     "name": "»loadBox«",
+     "claim": "インテリジェントなツールセンター",
+     "img": "/assets/showroom/img/hd/loadbox.webp",
+     "href": "/produkte/automation/werkzeugbereitstellung/loadbox",
+     "tag": "loadbox",
+     "benefits": [
+      "指示に基づいて工具をピッキングし、物流に提供",
+      "FANUC 製 6 軸ロボットが入出庫口と倉庫の間で工具を確実に搬送",
+      "Kardex Shuttle 昇降システムによるコンパクトな工具保管",
+      "サーバーベースの制御――モニター、タブレット、スマートフォンから操作"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "agenda",
+   "id": "schedule",
+   "bg": "white",
+   "title": "プログラム",
+   "text": "<p>日程とデモをお選びください。ワンクリックで席を申し込んだり、カレンダーに追加したりできます。時刻はすべて太平洋時間（PT）です。講演とデモは英語で行います。</p>",
+   "email": "sales@zoller-usa.com",
+   "event": "ZOLLER Automation Week Torrance 2026",
+   "location": "ZOLLER Inc. Pacific, 3882 Del Amo Blvd., Suite #603, Torrance, CA 90503, USA",
+   "tz": "America/Los_Angeles",
+   "tzoffset": "-07:00",
+   "days": [
+    {
+     "date": "2026-10-12",
+     "label": "オープニングデー",
+     "focus": "3 つのソリューションの概要",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "受付と朝食",
+       "text": "到着後はコーヒーを片手に ZOLLER チームとお話しください。"
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "all",
+       "title": "基調講演：自動化された工具サイクル",
+       "text": "工具の準備、提供、物流がスマートファクトリーでどのようにつながるのか。"
+      },
+      {
+       "start": "10:30",
+       "end": "11:15",
+       "kind": "Live-Demo",
+       "tag": "coralogistic",
+       "title": "»coraLogistic« ライブ",
+       "text": "»coraExpress« が工具を受け取り、»smartPallet« に載せて機械へ届けます。",
+       "seats": 12
+      },
+      {
+       "start": "11:30",
+       "end": "12:15",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "»coraVarion« ライブ",
+       "text": "チップの交換、検査、測定を自動で。",
+       "seats": 12
+      },
+      {
+       "start": "12:15",
+       "end": "13:15",
+       "kind": "Networking",
+       "title": "昼食と交流"
+      },
+      {
+       "start": "13:15",
+       "end": "14:00",
+       "kind": "Live-Demo",
+       "tag": "loadbox",
+       "title": "»loadBox« ライブ",
+       "text": "ロボットと昇降システムによる指示ベースの工具ピッキング。",
+       "seats": 12
+      },
+      {
+       "start": "14:15",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "専門家との 1 対 1 の相談",
+       "text": "自動化の専門家と 45 分間――お客様の生産、工具、目標について。",
+       "seats": 3
+      },
+      {
+       "start": "16:30",
+       "end": "17:30",
+       "kind": "Networking",
+       "title": "ウェルカムレセプション",
+       "text": "1 週間の始まりを祝う交流会。"
+      }
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "label": "ロジスティクスデー",
+     "focus": "テーマ：»coraLogistic«",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "受付と朝食"
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "coralogistic",
+       "title": "無駄な移動のない工場内物流",
+       "text": "工具物流のどこで時間が失われているのか――そしてそれを取り戻す方法。"
+      },
+      {
+       "start": "10:30",
+       "end": "11:30",
+       "kind": "Live-Demo",
+       "tag": "coralogistic",
+       "title": "»coraLogistic« を詳しく",
+       "text": "搬送指示の一連の流れ：倉庫からプリセッティングを経て CNC 工作機械まで。",
+       "seats": 12
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Workshop",
+       "tag": "coralogistic",
+       "title": "実践：webTMS ジョブ管理",
+       "text": "搬送指示をご自身で作成：台車を選び、目的の機械を選んで、スタート。",
+       "seats": 8
+      },
+      {
+       "start": "12:30",
+       "end": "13:30",
+       "kind": "Networking",
+       "title": "昼食と交流"
+      },
+      {
+       "start": "13:30",
+       "end": "14:15",
+       "kind": "Live-Demo",
+       "tag": "loadbox",
+       "title": "»loadBox« と »coraLogistic« の連携",
+       "text": "ピッキングした工具はそのまま自動搬送へ。",
+       "seats": 12
+      },
+      {
+       "start": "14:30",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "専門家との 1 対 1 の相談",
+       "text": "物流に関するご質問に専門家がお答えします。",
+       "seats": 3
+      }
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "label": "工具準備デー",
+     "focus": "テーマ：»coraVarion«",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "受付と朝食"
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "coravarion",
+       "title": "チップ交換の自動化",
+       "text": "チップの取り扱いが自動化に非常に適している理由。"
+      },
+      {
+       "start": "10:30",
+       "end": "11:30",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "»coraVarion« を詳しく",
+       "text": "組立、検査、測定を一連の流れで――セルの横でライブ実演。",
+       "seats": 12
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "»micBox« を間近で",
+       "text": "回転、反転、交換：チップ交換の自動化を間近でご覧ください。",
+       "seats": 12
+      },
+      {
+       "start": "12:30",
+       "end": "13:30",
+       "kind": "Networking",
+       "title": "昼食と交流"
+      },
+      {
+       "start": "13:30",
+       "end": "14:15",
+       "kind": "Live-Demo",
+       "tag": "coralogistic",
+       "title": "»coraLogistic« ライブ",
+       "text": "工具搬送の概要。",
+       "seats": 12
+      },
+      {
+       "start": "14:30",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "専門家との 1 対 1 の相談",
+       "text": "お手持ちの工具とご質問をお持ちください。",
+       "seats": 3
+      }
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "label": "工具提供デー",
+     "focus": "テーマ：»loadBox«",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "受付と朝食"
+      },
+      {
+       "start": "09:30",
+       "end": "10:15",
+       "kind": "Vortrag",
+       "tag": "loadbox",
+       "title": "スマートファクトリーの工具ハブ",
+       "text": "探して集める代わりに、指示に基づいて工具をピッキング。"
+      },
+      {
+       "start": "10:30",
+       "end": "11:30",
+       "kind": "Live-Demo",
+       "tag": "loadbox",
+       "title": "»loadBox« を詳しく",
+       "text": "ロボット基本モジュール、昇降システム、入出庫モジュールの連携。",
+       "seats": 12
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Workshop",
+       "tag": "loadbox",
+       "title": "タブレットとスマートフォンによる操作",
+       "text": "サーバーベースの制御ソフトウェアをご自身でお試しください。",
+       "seats": 8
+      },
+      {
+       "start": "12:30",
+       "end": "13:30",
+       "kind": "Networking",
+       "title": "昼食と交流"
+      },
+      {
+       "start": "13:30",
+       "end": "14:15",
+       "kind": "Live-Demo",
+       "tag": "coravarion",
+       "title": "»coraVarion« ライブ",
+       "text": "チップの交換、検査、測定を自動で。",
+       "seats": 12
+      },
+      {
+       "start": "14:30",
+       "end": "16:30",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "専門家との 1 対 1 の相談",
+       "text": "お客様の自動化プロジェクトの採算を一緒に計算しましょう。",
+       "seats": 3
+      }
+     ]
+    },
+    {
+     "date": "2026-10-16",
+     "label": "オープンハウス",
+     "focus": "工具サイクルの全体像",
+     "slots": [
+      {
+       "start": "09:00",
+       "end": "09:30",
+       "kind": "Networking",
+       "title": "受付と朝食"
+      },
+      {
+       "start": "09:30",
+       "end": "10:30",
+       "kind": "Live-Demo",
+       "tag": "all",
+       "title": "倉庫から主軸まで",
+       "text": "3 つのソリューションを 1 つの連続したプロセスで：»loadBox« がピッキングし、»coraVarion« が準備し、»coraLogistic« が届けます。",
+       "seats": 20
+      },
+      {
+       "start": "10:45",
+       "end": "11:30",
+       "kind": "Workshop",
+       "tag": "all",
+       "title": "自社にとって採算は合うのか？",
+       "text": "工具準備における自動化の経済性――計算例付き。",
+       "seats": 15
+      },
+      {
+       "start": "11:45",
+       "end": "12:30",
+       "kind": "Live-Demo",
+       "tag": "all",
+       "title": "オープンデモ：お好きなソリューション",
+       "text": "何をご覧いただくかはお客様が決めてください。",
+       "seats": 20
+      },
+      {
+       "start": "12:30",
+       "end": "14:00",
+       "kind": "Networking",
+       "title": "カリフォルニア BBQ とお別れ会",
+       "text": "1 週間の締めくくりは BBQ で。ぜひご参加ください。"
+      },
+      {
+       "start": "14:00",
+       "end": "16:00",
+       "kind": "1:1",
+       "tag": "all",
+       "title": "専門家との 1 対 1 の相談",
+       "text": "個別相談の最後のチャンス。",
+       "seats": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "event_venue",
+   "id": "directions",
+   "bg": "black",
+   "title": "アクセス",
+   "name": "ZOLLER Inc. Pacific",
+   "lines": [
+    "3882 Del Amo Blvd., Suite #603",
+    "Torrance, CA 90503, USA"
+   ],
+   "map": "https://www.google.com/maps/search/?api=1&query=3882+Del+Amo+Blvd+Suite+603+Torrance+CA+90503",
+   "notes": [
+    "ロサンゼルスのサウスベイ、LAX 空港の近く",
+    "無料、事前登録が必要です",
+    "講演とデモは英語で行います"
+   ],
+   "contact": {
+    "label": "お申し込みとお問い合わせ",
+    "email": "sales@zoller-usa.com",
+    "phone": "+1 734 332 4851"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>10 月はご都合が合いませんか？</h3> <p><a class=\"btn\" href=\"https://myzoller.com/us/en/expert/booking\" rel=\"noopener\" target=\"_blank\">専門家との 1 対 1 の相談をオンラインで予約</a></p>",
+   "id": "experte",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "de_path": "/events/automation-week-torrance-2026",
+ "hand": true
+}

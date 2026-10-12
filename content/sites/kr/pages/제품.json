@@ -1,0 +1,438 @@
+{
+ "path": "/제품",
+ "url": "/kr/%EC%A0%9C%ED%92%88",
+ "title": "제품",
+ "description": "제품 - 제품 개요",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "제품",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "제품",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/02_Products/_Overview/zoller_solutions_header_02.mp4",
+     "title": "성공을 위한",
+     "kicker": "",
+     "text": "<p>ZOLLER 솔루션으로 실현하는 효율성 향상</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4402",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 제품 개요 </h2>",
+   "body": "<p>ZOLLER Solutions는 고객의 미래를 위한 솔루션입니다. 더 큰 성공을 실현할 수 있도록 지원합니다. 더 빠르고 효율적으로 생산할수록 경제성은 높아지고, 미래를 위한 투자가 가능해집니다. 경제적 성장을 목표로 한다면, ZOLLER가 함께하겠습니다.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4399",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "productlist",
+   "filters": {
+    "solutions": [
+     {
+      "value": "259",
+      "label": "프리세팅 및 측정",
+      "selected": false
+     },
+     {
+      "value": "251",
+      "label": "공구 관리",
+      "selected": false
+     },
+     {
+      "value": "254",
+      "label": "검사 및 측정",
+      "selected": false
+     },
+     {
+      "value": "253",
+      "label": "자동화",
+      "selected": false
+     },
+     {
+      "value": "250",
+      "label": "열박음 기술",
+      "selected": false
+     },
+     {
+      "value": "252",
+      "label": "공구 홀더",
+      "selected": false
+     },
+     {
+      "value": "249",
+      "label": "밸런싱 기술",
+      "selected": false
+     }
+    ],
+    "tool": [
+     {
+      "value": "1050",
+      "label": "드릴링 공구",
+      "selected": false
+     },
+     {
+      "value": "1170",
+      "label": "캡형 밀링 커터",
+      "selected": false
+     },
+     {
+      "value": "1122",
+      "label": "선삭 공구",
+      "selected": false
+     },
+     {
+      "value": "1242",
+      "label": "선삭·절삭 공구",
+      "selected": false
+     },
+     {
+      "value": "1134",
+      "label": "밀링 공구",
+      "selected": false
+     },
+     {
+      "value": "1146",
+      "label": "정밀 드릴링 공구",
+      "selected": false
+     },
+     {
+      "value": "1062",
+      "label": "나사 가공 공구",
+      "selected": false
+     },
+     {
+      "value": "1194",
+      "label": "고성능 공구",
+      "selected": false
+     },
+     {
+      "value": "1182",
+      "label": "크랭크축 밀링 커터",
+      "selected": false
+     },
+     {
+      "value": "1218",
+      "label": "정밀 공구",
+      "selected": false
+     },
+     {
+      "value": "1158",
+      "label": "평면 커터 헤드",
+      "selected": false
+     },
+     {
+      "value": "1110",
+      "label": "평면, 코너 및 정삭용 커터 헤드",
+      "selected": false
+     },
+     {
+      "value": "1074",
+      "label": "확공기",
+      "selected": false
+     },
+     {
+      "value": "1266",
+      "label": "연삭 휠",
+      "selected": false
+     },
+     {
+      "value": "1086",
+      "label": "톱날",
+      "selected": false
+     },
+     {
+      "value": "1230",
+      "label": "석재 가공 공구",
+      "selected": false
+     },
+     {
+      "value": "1098",
+      "label": "샤프트 공구",
+      "selected": false
+     },
+     {
+      "value": "1206",
+      "label": "톱니 가공 공구",
+      "selected": false
+     }
+    ]
+   },
+   "rows": [
+    {
+     "title": "",
+     "items": [
+      {
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95",
+       "title": "프리세팅 및 측정",
+       "text": "셋업 시간을 40% 이상 단축하세요.",
+       "img": {
+        "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC",
+       "title": "공구 관리",
+       "text": "프로세스를 연계하고, 품질을 보장하며, 생산 속도를 높입니다.",
+       "img": {
+        "src": "/fileadmin/_processed_/3/3/csm_toolmanagement_preview_7889eaddc9.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%B8%A1%EC%A0%95",
+       "title": "검사 및 측정",
+       "text": "품질을 문서화하고 디지털 트윈을 생성하세요.",
+       "img": {
+        "src": "/fileadmin/_processed_/0/d/csm_genius_1_5b500df8d2.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94",
+       "title": "자동화",
+       "text": "절삭 공구를 위한 유연하고 모듈식 자동화.",
+       "img": {
+        "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EC%88%98%EC%B6%95-%EA%B8%B0%EC%88%A0",
+       "title": "열박음 기술",
+       "text": "공구 열박음과 탈착을 빠르고 간편하게 수행합니다.",
+       "img": {
+        "src": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_506ab0ccb9.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94",
+       "title": "공구 홀더",
+       "text": "»idChip이« 탑재된 공구 홀더는 디지털 제조를 위한 완벽한 인터페이스입니다.",
+       "img": {
+        "src": "/fileadmin/_processed_/4/8/csm_ToolingSolutions_preview_7b8d14560e.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      },
+      {
+       "href": "/kr/%EC%A0%9C%ED%92%88/%EB%B0%B8%EB%9F%B0%EC%8B%B1-%EA%B8%B0%EC%88%A0",
+       "title": "밸런싱 기술",
+       "text": "최고 수준의 밸런싱 장비로 공구 밸런싱을 더욱 정밀하게 수행하세요.",
+       "img": {
+        "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 858
+       },
+       "full": false,
+       "kind": "solution"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "src_path": "/kr/제품",
+ "de_path": "/produkte"
+}

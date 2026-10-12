@@ -307,6 +307,14 @@ hr { border: 0; border-top: 1px solid currentColor; opacity: .15; margin: 2rem 0
 .lang-dialog .icon-btn:hover { background: var(--yellow); color: var(--black); }
 .lang-dialog__sub { font-size: .75rem; font-weight: 700; text-transform: uppercase; letter-spacing: .14em; color: var(--gray-500); margin: 0 0 .75rem; }
 .lang-dialog__sites { display: grid; gap: .5rem; margin-bottom: 2.25rem; }
+/* Länderseiten nach Kontinenten (Europa, Nordamerika, Lateinamerika, Asien) */
+.lang-dialog__region { display: grid; gap: .5rem; }
+.lang-dialog__region + .lang-dialog__region { margin-top: 1.1rem; }
+.lang-dialog__region h3 { margin: 0 0 .1rem; }
+.lang-dialog__group { display: grid; grid-template-columns: repeat(auto-fill, minmax(12.5rem, 1fr)); gap: .5rem; }
+.lang-dialog__group .lang-site { padding: .7rem .85rem; gap: .75rem; }
+.lang-dialog__group .lang-site b { font-size: .9375rem; }
+.lang-dialog__canvas.is-over-site { cursor: pointer; }
 .lang-site { position: relative; display: flex; align-items: center; gap: .9rem; padding: .85rem 1rem; border-radius: var(--radius-sm); background: rgba(255, 255, 255, .06);
   box-shadow: inset 0 0 0 1px rgba(255, 255, 255, .08); transition: box-shadow .25s var(--ease-out), background-color .25s, transform .35s var(--ease-out); }
 .lang-site:hover, .lang-site:focus-visible { box-shadow: inset 0 0 0 1.5px var(--yellow); background: rgba(255, 255, 255, .1); transform: translateX(-3px); outline: none; }
@@ -2057,3 +2065,8 @@ table.proto.proto-in td:first-child { animation: proto-tick 1.3s var(--ease-out)
   .zoomx__disc { clip-path: none !important; }
   .zoomx__line { opacity: 1 !important; transform: none !important; }
 }
+
+/* Chinesisch, Japanisch, Koreanisch: Zeilenumbruch an Wort-/Phrasengrenzen statt mitten im Wort (2026-10-12) */
+:lang(ja) :is(h1, h2, h3, .eyebrow, .lead), :lang(zh) :is(h1, h2, h3, .eyebrow, .lead) { word-break: auto-phrase; text-wrap: balance; line-break: strict; }
+:lang(ko) { word-break: keep-all; overflow-wrap: anywhere; }
+:lang(ko) :is(h1, h2, h3) { text-wrap: balance; }

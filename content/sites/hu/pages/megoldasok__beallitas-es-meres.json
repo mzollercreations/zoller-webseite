@@ -1,0 +1,450 @@
+{
+ "path": "/megoldasok/beallitas-es-meres",
+ "url": "/hu/megoldasok/beallitas-es-meres",
+ "title": "Beállítás és mérés",
+ "description": "Beállítás és mérés",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Megoldások /",
+   "href": "/hu/megoldasok"
+  },
+  {
+   "label": "Beállítás és mérés",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Megoldások /",
+   "href": "/hu/megoldasok"
+  },
+  {
+   "label": "Beállítás és mérés",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/einstellen-messen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/presetting-measuring",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/ajuste-y-medicion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/reglage-et-mesure",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/ajuste-e-medicao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/regolazione-e-misurazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/instaellning-och-maetning",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/einstellen-messen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/presetting-measuring",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/reglage-et-mesure",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/presetting-measuring",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/ajuste-y-medicion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/ajuste-e-medicao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/0/c/csm_header_presetting_8b840715e8.webp",
+     "video": null,
+     "title": "Beállítások &",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c622",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>Aki a CNC-gép fő működési idejével párhuzamosan végzi el a szerszámok méretellenőrzését, hatékonyabban gyárt. </h3>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c614",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>A CNC-gépen kívüli beállítás és mérés alapvetően megváltoztatja a gyártási folyamatot. Jelentősen lerövidíti a beállítási időket, csökkenti a selejtet, meghosszabbítja a szerszámok élettartamát és csökkenti a gyártási költségeket. Számos jó ok szól a ZOLLER beállító és mérőberendezései mellett. </strong></p> <p>A megmunkálás során a pontos szerszámmérési adatok elengedhetetlenek a biztonságos folyamatok és az első osztályú eredmények eléréséhez. A ZOLLER beállító és mérőberendezései ezeket az adatokat µm-es pontossággal szolgáltatják. A ZOLLER még egy lépéssel tovább megy. A berendezések kezelése olyan egyszerű, hogy minden mérés – a kezelőtől függetlenül – mindig pontos mérési eredményeket ad. </p> <p>A ZOLLER-rel történő beállítás és mérés azt jelenti, hogy az eredményért való felelősséget átruházza – az emberről a mérőeszközökre. A szakképzett munkaerőhiány és a gyártásban jelentkező nagy költségnyomás miatt a legjobb döntés, ha a szerszámokat egy ZOLLER-készülékkel méri. </p> <p><a class=\"btn\" href=\"/hu/termekek/beallitas-es-meres\">Termékek megtekintése</a> <a href=\"/hu/gazdasagossagi-kalkulator\">Megtakarítási lehetőségek felmérése</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c616",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c615",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> A beállítási idő több mint 40 %-kal csökken </h2>",
+   "body": "<p>Ha mindössze öt szerszámot mér meg egy ZOLLER beállító és mérőberendezésen, mielőtt a szerszámokat a gépre szerelné, több mint 40%-kal csökkentheti az átállási időt.</p> <p>A ZOLLER segítségével a főmunkaidővel párhuzamosan végzett beállítás jelentős megtakarítási lehetőségeket kínál. A szerszámcserék számától függően a költségcsökkentés műszakonként és CNC-gépenként akár 15 000 eurót is elérhet évente. A beállító és mérőeszköztől, valamint a konfigurációtól függően befektetése néhány hónap alatt megtérülhet. </p> <p><a class=\"btn\" href=\"/hu/megoldasok/beallitas-es-meres\">Most számolja ki a megtakarítási potenciált</a></p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c621",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Több adat, jobb munkadarab-minőség </h2>",
+   "body": "<p class=\"large-text\">A CNC-gép mérőtechnikája általában csak a szerszám hosszát méri. Ez nem elegendő a gép nagy pontossági potenciáljának teljes kihasználásához.</p> <p class=\"large-text\">A ZOLLER segítségével részletes geometriai adatokat kap, amelyekkel a CNC-gépek még pontosabban tudnak gyártani. A legmagasabb minőség az Ön gyártásából. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/d/csm_presetting_01_59fab0dfc1.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c620",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Nagyobb termelékenység </h2>",
+   "body": "<p class=\"large-text\">A gépleállás drága és felesleges. Ha a szerszámok előre beállítva kerülnek a gépre, hamarabb kezdheti el a következő megrendelést. Növelje termelékenységét a ZOLLER beállító és mérőműszerével!</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/5/csm_presetting_02_f4a2e05503.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c619",
+   "bg": "white",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> A szerszám élettartamának maximális kihasználása </h2>",
+   "body": "<p class=\"large-text\">A ZOLLER beállító és mérőműszereivel már a gyártási folyamat megkezdése előtt megtudhatja, hogy egy szerszám még ép-e vagy sem. A beállítás és a mérés segítségével rendszeresen ellenőrizheti a vágóélek minőségét. Ezzel elkerülheti a termelékenységet csökkentő szerszámcseréket, és teljes mértékben kihasználhatja a szerszám élettartamát. A ZOLLER beállító és mérőműszereinek használata növeli gyártásának gazdaságosságát. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/2/a/csm_presetting_03_f94d19dc0f.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c618",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "count",
+   "title": "Megtakarítási lehetőség CNC-gépenként évente*:",
+   "value": "15 000 €",
+   "note": "* 20 szerszámcserére számítva, egyenként 3 perces cserélési idővel,",
+   "ftype": "zoller_count-banner",
+   "id": "c617",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Beállító és mérőműszerek </h2>",
+   "items": [
+    {
+     "href": "/hu/termekek/beallitas-es-meres/fueggoleges-keszuelekek/smile",
+     "title": "»smile«",
+     "text": "<p>A strapabíró, mikrométeres pontosságú belépő szintű eszközök standard szerszámokhoz</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/4/3/csm_smile_preview_3dcddaf609.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/beallitas-es-meres/fueggoleges-keszuelekek/venturion",
+     "title": "»venturion«",
+     "text": "<p>Kiváló szerszámbeállítás és -mérés számos opcióval</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/d/csm_venturion_preview_cdaca59ebb.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/hu/termekek/beallitas-es-meres/vizszintes-gepek/hyperion",
+     "title": "»hyperion«",
+     "text": "<p>Vízszintes beállító és mérőműszer forgácsoláshoz</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/1/8/csm_hyperion_preview_37118ddf5b.webp",
+      "alt": "zoller hyperion",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c1621",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "large"
+   }
+  },
+  {
+   "type": "cta_strip",
+   "icon": {
+    "src": "/fileadmin/_processed_/0/0/csm_calculator_8806cc3f97.webp",
+    "alt": "",
+    "w": 50,
+    "h": 65
+   },
+   "text": "<p class=\"bold\">Termelékenységnövelés a ZOLLER beállító és mérőműszerekkel</p> <p>A ZOLLER megtérülési kalkulátor kiszámítja vállalkozása megtakarítási lehetőségeit.</p>",
+   "button": "<a class=\"btn\" href=\"/hu/gazdasagossagi-kalkulator\">Számítsa ki most a megtakarítási lehetőségeket</a>",
+   "ftype": "zoller_icon-button",
+   "id": "c4275",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_zoller_system_teaser_a6e5d69871.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Kezdje a megoldással – lépjen be a rendszerbe.",
+     "href": "/hu/a-rendszer",
+     "caption": "<figcaption> <h3>Kezdje a megoldással – lépjen be a rendszerbe.</h3> <p>Ügyfeleink élvezik azoknak a holisztikus megoldásoknak az előnyeit, amelyeket már évtizedek óta fejlesztünk. Az eredmény: kiváló hatékonyság. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 szakértői beszélgetés",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 szakértői beszélgetés</h3> <p>Személyre szabott megbeszélés az Ön céljairól és az azokhoz kapcsolódó ötleteinkről. A ZOLLER online tanácsadása közvetlenül a Smart Factory-ból. Foglaljon időpontot most! </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/hu/megoldasok/beallitas-es-meres",
+ "de_path": "/solutions/einstellen-messen"
+}

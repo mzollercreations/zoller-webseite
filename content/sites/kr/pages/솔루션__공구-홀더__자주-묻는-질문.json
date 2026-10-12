@@ -1,0 +1,606 @@
+{
+ "path": "/솔루션/공구-홀더/자주-묻는-질문",
+ "url": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8",
+ "title": "공구 솔루션 – 자주 묻는 질문",
+ "description": "자주 묻는 질문 - 공구 솔루션 – 자주 묻는 질문",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "솔루션 /",
+   "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98"
+  },
+  {
+   "label": "공구 홀더",
+   "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94"
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "솔루션 /",
+   "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98"
+  },
+  {
+   "label": "공구 홀더",
+   "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94"
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/werkzeugaufnahmen/faq",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/tooling-solutions/faq",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/portaherramientas/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/fixation-doutil/faq",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/porta-ferramentas/perguntas-frequentes",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/soluzioni-dutensileria/domande-frequenti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/verktygshaallare/vanliga-fraagor",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/werkzeugaufnahmen/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/tooling-solutions/faq",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/porte-outils/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B7%A5%E5%85%B7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/tooling-solutions/faq",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/porta-herramientas/preguntas-frecuentes",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/porta-ferramentas/perguntas-frequentes",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "공구 홀더",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "자주 묻는 질문",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8",
+     "current": false
+    },
+    {
+     "label": "정보 모음",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94/%EC%A0%95%EB%B3%B4-%EB%AA%A8%EC%9D%8C",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c1414",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> 자주 묻는 질문 </h1>",
+      "body": "<p>자주 묻는 질문</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c1426",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "»idChip«을 사용하려면 제 생산 시설이 어떤 요건을 충족해야 합니까?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>가장 먼저 필요한 것은 데이터매트릭스 코드를 스캔할 수 있는 적합한 스캐너입니다. 공구 데이터를 관리하려면 이에 맞는 소프트웨어가 필요합니다. ZOLLER는 »zidCode 4.0«과 TMS Tool Management Solutions 소프트웨어를 통해 이 두 가지를 모두 제공합니다.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1455",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "도구를 나중에 »idChip«으로 등록하는 것도 가능한가요?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>네, 언제든지 가능합니다. 공구에 ZOLLER »idChip을« 장착하고 싶으시면 저희 영업팀으로 문의해 주시기 바랍니다.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1453",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "»idChip«은 스티커 라벨을 이용한 코딩 방식에 비해 어떤 장점이 있나요?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>»idLabel은« 회전하지 않는 공구 및 고정 장치에 사용하는 것을 권장합니다. 회전하는 공구의 경우 »idChip이« 더 나은 선택입니다. idChip은 홀더에 고정되어 보호받으면서도 잘 식별할 수 있습니다. »idChip은« 2액형 접착제를 사용하여 간편하게 부착할 수 있습니다. 해당 접착제는 당사에서 구매하거나 다른 공급업체를 통해 구할 수 있습니다.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1451",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "졸러(ZOLLER)는 조정 및 측정 장비 제조사로 잘 알려져 있습니다. 졸러(ZOLLER)는 툴링 솔루션(Tooling Solutions) 공구 홀더도 직접 제조하나요?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>공구 홀더 분야에서 ZOLLER는 파트너사 Schüssler와 긴밀히 협력하고 있습니다. Schüssler는 공구 홀더를 제조하고, ZOLLER는 »idChip«을 공급하며, 새로운 ZOLLER 웹숍을 통해 공구 홀더 구매 과정을 간편하고 빠르며 편리하게 만들어 드립니다.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1449",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "열수축 홀더의 수명은 얼마나 됩니까? 홀더에 장착된 공구를 몇 번이나 열수축 및 복원할 수 있습니까?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>ZOLLER Tooling Solutions의 가열 및 냉각 공정을 올바르게 수행할 경우, 내경 6mm 이상의 공구 홀더에 대해 정밀도 저하 없이 10,000회 이상의 수축 사이클에 걸쳐 사용할 수 있습니다. 내경 5mm 이하의 경우 5,000회 사이클입니다.</p> <p>ZOLLER »actbyLight« 기술은 가열 및 냉각을 통한 올바른 가공을 지원하여 수축 사이클이 정확하고 안전하게 수행되도록 보장합니다.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c1447",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "왜 균형이 잡힌 공구 홀더를 사용해야 할까요?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>균형 조정된 공구 홀더는 생산성을 높여줍니다. 균형 조정된 공구 홀더를 사용했을 때의 긍정적인 효과는 가공 공정의 여러 단계에서 확인할 수 있습니다. 공구 및 스핀들의 수명 연장, 그리고 가공량 증가는 생산 비용을 획기적으로 절감할 수 있는 요인 중 일부에 불과합니다.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1445",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "ZOLLER Tooling Solutions는 최대 어떤 길이로 제공되나요?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>ZOLLER Tooling Solutions의 GPL 홀더 길이는 200 mm(오버행 길이 A)입니다.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1443",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "균형 조정이 완료된 ER 콜릿 척이 있나요?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>ZOLLER Tooling Solutions 제품군에는 밸런싱이 가능한 ER 콜릿 척도 포함되어 있습니다. 밸런싱 공정 시에는 잠금 너트를 장착하고, 절삭 공구를 모사하기 위해 마스터 핀을 사용합니다.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1441",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "수축 홀더의 재질은 무엇입니까?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>졸러(ZOLLER)는 ZOLLER Tooling Solutions 제품 제조에 내열성 공구강으로 만든 수축 홀더를 사용합니다.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1439",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "수축 척, 콜릿 척, 유압식 공구 클램핑 시스템의 차이점은 무엇인가요?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>어떤 클램핑 시스템도 수축 결합부의 고정력, 동심도 및 성능을 따라올 수 없습니다. 수축 결합부는 콜릿, 콜릿 너트 또는 조정 나사가 필요하지 않기 때문에 노즈 직경을 매우 얇게 만들 수 있어, 접근이 어려운 부위도 가공할 수 있습니다.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1437",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "수축식 홀더에 절삭 공구를 사용하기 위해서는 어떤 축 공차가 필요한가요?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>절삭 공구의 샤프트 공차는 h5 또는 h6이어야 합니다.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1435",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "ZOLLER Tooling Solutions 공구 홀더는 어디에서 구입할 수 있나요?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>주문은 ZOLLER <a class=\"link-arrow\" href=\"https://myzoller.com/de/de/shop/tooling/\" rel=\"noopener\" target=\"_blank\"><strong>MYZOLLER 포털</strong></a>을 통해 온라인으로 진행할 수 있습니다. 현재 온라인 주문은 독일과 미국에서 가능합니다. 그 외 국가에서는 MYZOLLER 포털을 통해 공구 홀더를 선택한 후, 생성된 품목 목록을 해당 지역의 ZOLLER 영업 담당자에게 전송하여 견적을 요청할 수 있습니다.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1433",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "ZOLLER idChip이나 다른 RFID 칩을 장착한 후 공구 홀더의 밸런스를 조정합니까?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>ZOLLER »idChip« 또는 기타 RFID 칩이 장착된 공구 홀더를 주문할 경우, 해당 칩이 장착된 상태로 공구 홀더의 밸런싱이 조정됩니다.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1431",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "모든 종류의 ZOLLER 툴링 솔루션의 배송 기간은 얼마나 걸리나요?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>웹숍을 통해 언제든지 ZOLLER Tooling Solutions 제품의 재고 현황을 온라인으로 확인할 수 있습니다.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1429",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "ZOLLER Tooling Solutions용 공구 홀더를 주문하기 전에 dxf, png, stp 형식의 디지털 파일을 받을 수 있나요?",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>디지털 트윈은 ZOLLER Tooling Solution 웹숍에서 이용 가능하며, 언제든지 다운로드하여 ZOLLER TMS Tool Management Solutions 소프트웨어 또는 기타 CAD/CAM 시스템에서 사용할 수 있습니다.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "text",
+          "id": "c1457",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c1427",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c1425",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 지금 ZOLLER 온라인 스토어에서 공구 클램핑 시스템을 만나보세요! </h2>",
+   "body": "<p>저희 온라인 스토어에서 이제 모든 종류의 공구 클램핑 시스템을 만나보실 수 있습니다. 간편하고 빠르며 편리하게 고객님께 딱 맞는 공구 홀더를 찾아보시고, 제공되는 디지털 트윈을 CAM 및 공구 관리 시스템에서 바로 활용해 보세요.</p> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/shop/tooling\" rel=\"noopener\" target=\"_blank\">툴링 샵으로 이동</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/d/csm_zum_myzoller_shop_704443f1bc.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c1458",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/kr/솔루션/공구-홀더/자주-묻는-질문",
+ "de_path": "/solutions/werkzeugaufnahmen/faq"
+}

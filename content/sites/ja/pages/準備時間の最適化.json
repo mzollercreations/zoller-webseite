@@ -1,0 +1,536 @@
+{
+ "path": "/準備時間の最適化",
+ "url": "/ja/%E6%BA%96%E5%82%99%E6%99%82%E9%96%93%E3%81%AE%E6%9C%80%E9%81%A9%E5%8C%96",
+ "title": "準備時間の最適化",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ja/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8"
+  },
+  {
+   "label": "準備時間の最適化",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ja/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8"
+  },
+  {
+   "label": "準備時間の最適化",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/ruestzeitoptimierung",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/setup-time-optimization",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/optimizacion-del-tiempo-de-preparacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/optimisation-du-temps-de-preparation",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/otimizacao-do-tempo-de-preparacao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/ottimizzazione-dei-tempi-di-attrezzaggio",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/optimering-av-foerberedelsetiden",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/ruestzeitoptimierung",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/setup-time-optimization",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/optimisation-des-temps-de-preparation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E6%BA%96%E5%82%99%E6%99%82%E9%96%93%E3%81%AE%E6%9C%80%E9%81%A9%E5%8C%96",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A4%80%EB%B9%84-%EC%8B%9C%EA%B0%84-%EC%B5%9C%EC%A0%81%ED%99%94",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/setup-time-optimization",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/optimizacion-del-tiempo-de-preparacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/otimizacao-do-tempo-de-preparacao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/2/3/csm_ruesten_header_8622b0d406.webp",
+     "video": null,
+     "title": "なぜ準備時間の最適化が必要なのか？",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8076",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">今日、単一の製品しか製造しない機械や設備はほとんどありません。通常、需要に応じて異なる製品に対応できるよう切り替えが行われます。その結果、機械が通常は何も生産していない「切り替え時間」が発生します。</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8048",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 「準備時間」とはどういう意味ですか？ </h2>",
+   "body": "<p>セットアップ時間とは、機械や設備が、ある製品の製造から別の製品の製造へと切り替えられるまでの期間を指します。例えば、個品を製造する場合、セットアップ時間の定義は、旧ロットの最後の製品から新ロットの最初の製品までの時間となります。</p> <p>したがって、セットアップ時間は厳密な意味での「無駄」ではありませんが、少なくとも部分的には機械の停止時間を意味するため、セットアップ時間が長くなると、当然ながら生産設備の生産性と効率は低下します。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/4/csm_tms_connected_3fe459a22a.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 900
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8049",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> セットアップ時間を最適化するにはどうすればよいでしょうか？ </h2>",
+      "body": "<p>セットアップ時間を最適化するということは、何よりもまずセットアップ時間を最小限に抑えることです。この目標を達成するためには、さまざまなアプローチがあります。</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c8051",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "セットアップ工程の分析",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>セットアップ時間の短縮を目指す改善プロセスでは、必ずセットアップ工程の分析が先行します。具体的には、どのような手順が必要か、現在どのような手順が行われており、それにどれだけの時間がかかっているか、手順はどのような順序で行われており、その順序を変更することは可能か、どの手順が本当に必要で、どの手順を最適化できるか、といった点を検討します。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8054",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "ロットサイズを最適化する",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>徹底的な分析には、設備全体の切り替え頻度を減らし、つまり製品切り替えの回数を減らすことは可能か、という問いも含まれます。 当然ながら、セットアップ作業の頻度が低くなれば、それに費やす時間も減り、結果としてコスト削減につながります。同時に、それによって節約できるコストと、在庫を可能な限り低く抑え、つまり商品の過剰生産を招かないようにしたいという要望とのバランスを明確に考慮する必要があります。そしてもちろん、これらすべてにおいて、設備稼働率は可能な限り高く維持されるべきです。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8056",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "外部セットアップ",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>セットアップ時間については、外部セットアップ（生産設備を稼働させたまま行える作業）と内部セットアップ（設備を停止させる必要がある作業）に区別されます。当然ながら、生産性の低下を招く内部セットアップは、可能な限り短く抑えることが貴社の利益となります。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8058",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "デジタル化と自動化",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>最新の機械を導入する上で、セットアップ工程の徹底的なデジタル化と自動化は極めて重要な施策です。例えば、工具プリセッターは、CNC工作機械に必要な工具データを事前に算出することができ、つまり工具を測定して適切な設定を直接行うことができます。これにより、内部のセットアップ時間が劇的に短縮されるだけでなく、電子データ転送によって転送時のエラーも防止されます。</p> <p>機械本体が別の加工を処理している間に、設定・測定装置上で外部測定を行うことができるため、さらなる時間の節約につながります。機械の準備が整い次第、工具を直ちにセットアップできます。レーザー測定のために機械の停止時間を不必要に延長する必要はありません。</p> <p><a class=\"btn\" href=\"/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A\"><strong>工具を測定し、即座に適切な設定を行う</strong></a></p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8060",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "研修",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>セットアップ作業全般において――手作業であれ電子化されていようが、外部であれ社内であれ――、十分な訓練を受けたセットアップ担当者の存在に勝るものはありません。セットアップワークショップやトレーニング用マシンでの訓練を十分に受けた従業員であれば、ミスが減り、生産性の低下につながる前に問題を早期に発見できるようになります。</p> <p><a class=\"btn\" href=\"/ja/%E4%BC%81%E6%A5%AD/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E7%A0%94%E4%BF%AE%E3%81%8A%E3%82%88%E3%81%B3%E8%AC%9B%E7%BF%92\">ZOLLERのトレーニングについて</a></p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8062",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c8052",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8050",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> セットアップ時間の最適化にはどのようなメリットがありますか？ </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c8064",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "効率と生産性の向上",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>準備時間が短ければ短いほど、従業員の労働時間におけるその割合が低くなり、機械は本来の役割である「生産」に費やす時間をより多く確保できます。これにより、プロセスの全体的な生産性が大幅に向上します。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8075",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "コスト削減",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>セットアップ時間の短縮は、効率の向上だけでなく、相互に関連するすべてのプロセスの最適化を通じて、コスト削減にもつながります。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8073",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "標準化",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>セットアップ時間とそれに必要な作業工程を徹底的に分析することで、個々の設備の枠を超えたプロセスの標準化が可能になります。これにより、従業員向けのより明確なガイドラインや研修資料を作成することができます。これは従業員にとってさらなる指針と安心感をもたらすだけでなく、まだ慣れていない設備への切り替えも円滑に進めることができます。</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8071",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c8065",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8063",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_zoller_system_teaser_a6e5d69871.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "「解決策から始める――システムを導入する。」",
+     "href": "/ja/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0",
+     "caption": "<figcaption> <h3>「解決策から始める――システムを導入する。」</h3> <p>当社のお客様は、当社が数十年にわたり推進してきた包括的なソリューションの恩恵を受けています。その結果、卓越した効率性を実現しています。 </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1対1の専門家との面談",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1対1の専門家との面談</h3> <p>お客様の目標と、それに対する当社の提案について、個別に話し合う機会です。スマートファクトリーから直接お届けする、ZOLLERのオンラインコンサルティング。今すぐご予約ください。 </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ja/準備時間の最適化",
+ "de_path": "/ruestzeitoptimierung"
+}

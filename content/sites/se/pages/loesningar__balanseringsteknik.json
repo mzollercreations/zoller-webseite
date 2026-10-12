@@ -1,0 +1,410 @@
+{
+ "path": "/loesningar/balanseringsteknik",
+ "url": "/se/loesningar/balanseringsteknik",
+ "title": "Balanseringsteknik",
+ "description": "Balanseringsteknik",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Lösningar /",
+   "href": "/se/loesningar"
+  },
+  {
+   "label": "Balanseringsteknik",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Lösningar /",
+   "href": "/se/loesningar"
+  },
+  {
+   "label": "Balanseringsteknik",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/wuchttechnik",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/balancing-technology",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/tecnologia-de-equilibrado",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/technique-dimpact",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/tecnologia-de-equilibragem",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/tecnologia-per-la-bilanciatura-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/balanseringsteknik",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/wuchttechnik",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/balancing-technology",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/technique-dequilibrage",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4%E6%8A%80%E8%A1%93",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EB%B0%B8%EB%9F%B0%EC%8B%B1-%EA%B8%B0%EC%88%A0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/balancing-technology",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/tecnologia-de-equilibrado",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/tecnologia-de-equilibragem",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/4/a/csm_header_balancing_029a95df55.webp",
+     "video": null,
+     "title": "Balanseringsteknik",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c703",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>Att balansera verktyg bör vara standard. Den som balanserar verktygen har bättre kontroll över prestandan – oavsett varvtal.</h3>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c705",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>Många precisionsslipare och bearbetningsföretag förknippar balansering enbart med mycket höga varvtal. I praktiken kan dock alla roterande verktyg ge upphov till obalans. Konsekvenserna märks ibland direkt genom försämrad bearbetningskvalitet, vibrationer och ökat verktygsslitage, men kan också utvecklas över tid och leda till höga kostnader, oplanerade driftstopp och minskad maskintillgänglighet. </strong></p> <p>Balansering bidrar till ökad lönsamhet genom att minska verktygsslitage och därmed sänka verktygskostnaderna. Samtidigt minskar risken för kostsamma driftstopp och reducerar antalet kvalitetsavvikelser och reklamationer. <br/>Med »toolBalancer«-serien introducerar ZOLLER en banbrytande teknik för verktygsbalansering. De nyutvecklade maskinerna kombinerar innovativa funktioner som höjer precision, säkerhet, ergonomi och användarvänlighet till en nivå som sätter nya branschstandarder.</p> <p>Minimera tillverkningsriskerna. Med ZOLLER – den mest avancerade balanseringstekniken på marknaden. </p> <p><a class=\"btn\" href=\"/se/produkter/balanseringsteknik/toolbalancer\">Visa produkter</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c706",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c704",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Exakt mätning med starkt sensorsignal </h2>",
+   "body": "<p>En av de utmärkande egenskaperna hos »toolBalancer«-serien är den innovativa mätmetoden. ZOLLER använder en specialutvecklad balanseringsadapter med centrumförskjutning, tvåpunktskontakt och tryckelement.</p> <p>Denna mättekniska lösning förstärker sensorsignalen och förbättrar därmed mätkvaliteten. <br/>Detta ger högre mätkvalitet och exceptionellt exakta balanseringsresultat.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c707",
+   "bg": "black",
+   "space": {
+    "before": "extra-large",
+    "after": "extra-large"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Eliminera vibrationer </h2>",
+   "body": "<p>Maximera gångstabiliteten med balanserade verktyg. Genom att minska centrifugalkrafterna i CNC-maskinernas drivsystem reduceras belastningen på spindlar och lager, vilket minskar behovet av underhåll och förebygger kostsamma skador.</p> <p>Med balanseringsresultat på mindre än 0,4 gmm bidrar ZOLLER:s balanseringsteknik till hög produktivitet och ökad driftsäkerhet. »toolBalancer« identifierar även mycket små obalanser som kan orsaka betydande belastningar på spindlar och lager samt förkorta komponenternas livslängd. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/8/csm_balancing_01_4186f932b3.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c708",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Ökad stabilitet och bearbetningstid </h2>",
+   "body": "<p>Regelbunden balansering med ZOLLER:s precisionsteknik bidrar till att bibehålla verktygens livslängd på en hög och stabil nivå. Det ger långsiktigt ökad lönsamhet och en snabb återbetalning av investeringen.</p> <p>Även en liten obalans i ett roterande verktyg kan utsätta skäreggen för extra belastningar. Följden blir kortare verktygslivslängd, ökade verktygskostnader och tätare verktygsbyten, vilket påverkar både produktivitet och ekonomi.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_balancing_02_aaf3ff5460.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c709",
+   "bg": "white",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2 class=\"headline-decor\"> Ytor av högsta kvalitet </h2>",
+   "body": "<p>Säkerställ en jämn och hög ytkvalitet genom att eliminera obalans i verktyg och slipskivor. ZOLLER:s balanseringsteknik hjälper dig att uppfylla kraven från även de mest kvalitetskrävande industrierna.</p> <p>Även små obalanser kan orsaka vibrationer som påverkar ytfinishen negativt. Problemen tillskrivs ofta skärparametrar eller verktygsslitage, medan den verkliga orsaken förblir oupptäckt. Under tiden riskerar produktionen att drabbas av onödiga kostnader i form av förlorad maskintid, ökat materialspill och kortare verktygslivslängd. </p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/8/csm_balancing_03_8d69d2b1ea.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c710",
+   "bg": "white",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "count",
+   "title": "Balanserar även tunga föremål med hög precision",
+   "value": "30 kg",
+   "note": "Maximal verktygsvikt för alla modeller i »toolBalancer«-serien",
+   "ftype": "zoller_count-banner",
+   "id": "c711",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Balanseringsteknik </h2>",
+   "items": [
+    {
+     "href": "/se/produkter/balanseringsteknik/toolbalancer",
+     "title": "»toolBalancer«",
+     "text": "<p>Balanseringssystemet med den senaste tekniken och ergonomisk design</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_0ae8e251ac.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c1640",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_zoller_system_teaser_a6e5d69871.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Börja med en lösning – gå in i ett system.",
+     "href": "/se/systemet",
+     "caption": "<figcaption> <h3>Börja med en lösning – gå in i ett system.</h3> <p>Våra kunder drar nytta av helhetsorienterade lösningar som vi har arbetat med i årtionden. Resultatet: enastående effektivitet. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1-samtal med en expert",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1-samtal med en expert</h3> <p>Ett personligt samtal om era mål och våra idéer för att uppnå dem. ZOLLER:s online-rådgivning direkt från Smart Factory. Boka en tid redan nu. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/se/loesningar/balanseringsteknik",
+ "de_path": "/solutions/wuchttechnik"
+}

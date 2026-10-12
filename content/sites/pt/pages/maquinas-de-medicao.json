@@ -1,0 +1,290 @@
+{
+ "path": "/maquinas-de-medicao",
+ "url": "/pt/maquinas-de-medicao",
+ "title": "Máquinas de medição",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pt/pagina-inicial"
+  },
+  {
+   "label": "Máquinas de medição",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pt/pagina-inicial"
+  },
+  {
+   "label": "Máquinas de medição",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/messmaschinen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/measuring-machines",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/maquinas-de-medicion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/machines-de-mesure",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/maquinas-de-medicao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/macchine-di-misura",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/maetmaskiner",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/messmaschinen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/machines-de-mesure",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E6%B8%AC%E5%AE%9A%E6%A9%9F",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%B8%A1%EC%A0%95%EA%B8%B0",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/measuring-machines",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/maquinas-de-medicion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/maquinas-de-medicao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/6/7/csm_messung_header_416ff4c8b2.webp",
+     "video": null,
+     "title": "Maior precisão",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8018",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Os aparelhos para medir e testar são tão importantes quanto o software correspondente. </h2>",
+   "body": "<p class=\"extra-large-text\">Para que as ferramentas façam exatamente aquilo para o qual foram planeadas e construídas, elas próprias têm de ser fabricadas com precisão. Com as nossas máquinas de medição universais, é possível medir ferramentas com precisão micrométrica e verificar se elas correspondem aos requisitos.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c8019",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Medir no sistema de medição de coordenadas </h2>",
+   "body": "<p>Os pontos de medição medidos são atribuídos pelas máquinas de medição a um determinado sistema de medição de comprimento ao longo de um determinado eixo de deslocamento. O software de medição processa essas informações e as atribui a pontos específicos em todo o sistema de medição de coordenadas.</p> <p>A partir das coordenadas assim determinadas, o software da MMC determina os valores para grandezas não medidas diretamente, como comprimentos, ângulos, distâncias entre dois pontos de medição, etc.</p> <p>Os pontos de medição (valores reais) determinados no sistema de medição de coordenadas (em inglês, «Coordinate Measuring System») são finalmente comparados com os valores resultantes das especificações, ou seja, os projetos para a ferramenta (valores nominais). Se estas não tiverem concordância, ou seja, se houver desvios de medição – seja por erros de produção, seja por desgaste –, é possível reagir de forma adequada.</p> <h4>O que são <strong>máquinas de medição 3D</strong>?</h4> <p>Como «máquinas de medição 3D», são geralmente máquinas de medição que podem medir a extensão tridimensional de um objeto de medição em um tempo relativamente curto, idealmente em tempo real. Com a utilização de câmeras lineares compactas ou de matriz, essas máquinas de teste podem, em alguns casos, ser até mesmo portáteis ou, pelo menos, transportáveis. No entanto, as máquinas de medição por coordenadas portáteis são geralmente um pouco menos precisas do que as máquinas de teste convencionais.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/d/csm_inspection-and-measuring_02_68ae6129c7.webp",
+     "alt": "",
+     "w": 1920,
+     "h": 1967
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8020",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Técnica de medição de coordenadas </h2>",
+   "body": "<p>Muitos aparelhos de medição funcionam com a chamada técnica de medição por coordenadas. O aparelho de medição (a designação completa é então «aparelho de medição por coordenadas», KMG) regista, com um sensor adequado, as coordenadas exatas em que se encontram determinados pontos na superfície da peça a trabalhar.</p> <p>Normalmente, o sistema de coordenadas é criado paralelamente aos eixos ortogonais dos sistemas de medição por coordenadas.</p> <h4><strong>Palpação sem contacto</strong></h4> <p>Por outro lado, a medição sem contacto funciona com câmeras, sensores de triangulação a laser e outros métodos, nos quais são utilizados, por exemplo, sensores óticos ou elétricos. Aqui, o processo de medição ocorre sem que a sonda entre em contacto com a peça a trabalhar. Em determinadas circunstâncias, isso pode acelerar significativamente o processo de medição.</p> <h4><strong>Palpação tátil</strong></h4> <p>Para a medição tátil (mecânica) das peças a trabalhar, são usados sensores de medição ou pontas de medição; normalmente|frequentemente, distingue-se entre sistemas de comutação (que só conseguem distinguir entre o estado de repouso e o toque) e sistemas de medição (que conseguem medir desvios numa área restrita).</p> <h4><strong>Tecnologia multi-sensor</strong></h4> <p>Os aparelhos de medição de coordenadas multissensor combinam diferentes métodos de palpação, não só para obter resultados sobretudo precisos, mas também para encontrar um método de medição especialmente adequado para cada requisito.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/6/csm_optik_8e5c836a3b.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8024",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/d/csm_teaser_inspection_small_3a55e21ba2.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Verificar e medir: as suas vantagens",
+     "href": "/pt/solutions/comprovacao-e-medicao",
+     "caption": "<figcaption> <h3>Verificar e medir: as suas vantagens</h3> <p>Descubra o que é possível fazer com a ZOLLER nas ferramentas de inspeção. Testes próximos ao processo ou análises de ponta, incluindo SKP, aspereza e criação de gémeos digitais.</p> <br/> Saber mais </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Conversa com especialistas",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Conversa com especialistas</h3> <p>A troca individual sobre os seus objetivos e as nossas ideias para os alcançar. A consultoria online da ZOLLER diretamente da Smart Factory. Marque já a sua consulta. </p> <br/> Saber mais </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3843",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/pt/maquinas-de-medicao",
+ "de_path": "/messmaschinen"
+}

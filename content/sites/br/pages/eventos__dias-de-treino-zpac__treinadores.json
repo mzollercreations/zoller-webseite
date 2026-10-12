@@ -1,0 +1,381 @@
+{
+ "path": "/eventos/dias-de-treino-zpac/treinadores",
+ "url": "/br/eventos/dias-de-treino-zpac/treinadores",
+ "title": "Treinadores",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/br/pagina-inicial"
+  },
+  {
+   "label": "Eventos /",
+   "href": "/br/eventos"
+  },
+  {
+   "label": "Treinadores",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/br/pagina-inicial"
+  },
+  {
+   "label": "Eventos /",
+   "href": "/br/eventos"
+  },
+  {
+   "label": "Treinadores",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/events/zpac-training-days/coaches",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/eventos/dias-de-entrenamiento-zpac/entrenadores",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/evenements/journees-de-formation-zpac/entraineurs",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/eventos/dias-de-treino-zpac/treinadores",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/eventi/giornate-di-formazione-zpac/allenatori",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/evenemang/zpac-utbildningsdagar/traenare",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/events/zpac-training-days/trainers",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/events/zpac-training-days/trainers",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/evenements/journees-de-formation-zpac/entraineurs",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/zpac-%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%87%E3%82%A4%E3%82%BA/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%96%89%EC%82%AC/zpac-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D-%EB%8D%B0%EC%9D%B4/%EC%BD%94%EC%B9%98",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/events/zpac-training-days/trainers",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/eventos/dias-de-entrenamiento-zpac/entrenadores",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/eventos/dias-de-treino-zpac/treinadores",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Treinadores",
+     "href": "/br/eventos/dias-de-treino-zpac/treinadores",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c7943",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/8/e/csm_csm_meet_zoller_599fe3f5ee_b8eb9cad0a.webp",
+     "video": null,
+     "title": "Conheça os especialistas",
+     "kicker": "",
+     "text": "<p>Open House &amp; Automation Summit da ZOLLER</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7941",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "tiles",
+   "header": "<h2> Apresentadores e equipa ZOLLER </h2>",
+   "cols": 4,
+   "tiles": [
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/e/csm_alexander_zoller_11_1138472629.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Alexander Zoller Presidente – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Alexander Zoller</h4> <p>Como presidente da ZOLLER Inc. desde 2004, Alexander Zoller tem sido uma força motriz na empresa familiar global de tecnologia e foi o visionário que executou o plano de expansão para a nova sede norte-americana e o Centro Tecnológico Indústria 4.0 em Ann Arbor, Michigan.</p> <p>A empresa posicionou-se e posicionou os seus clientes para se adaptarem à realidade da produção do futuro, onde hardware, software e automação funcionam perfeitamente para criar a mais alta eficiência na produção de peças.</p> <p>Zoller obteve o seu diploma de bacharel em tecnologia da informação pela Universidade de Educação Cooperativa em Estugarda em 2001 e assumiu o cargo de diretor-geral da E.Zoller GmbH com responsabilidade administrativa pela ZOLLER Inc. em 2004.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/3/d/csm_nicole_wolter_05_57f4404314.webp",
+      "alt": "",
+      "w": 815,
+      "h": 815
+     },
+     "label": "Nicole Wolter Mestre de cerimónias (CEO e presidente da HM Manufacturing)",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": null,
+     "label": "Max Egan CEO da Atlas Fibre",
+     "img": {
+      "src": "/fileadmin/_processed_/7/4/csm_speaker_egan_07_694bd08753.webp",
+      "alt": "",
+      "w": 860,
+      "h": 860
+     },
+     "text": "<h3>Max Egan</h3> <p>Max Egan é CEO da Atlas Fibre e da Accurate Composites. Empresas irmãs que, quando combinadas, representam a maior empresa de compósitos rígidos verticalmente integrada da América do Norte.</p> <p>A Atlas Fibre é a distribuidora proeminente de materiais compósitos termofixos e usinadora de materiais não metálicos, com especialização em compósitos termofixos, como G10, G11, FR4 e Canvas Phenolic, bem como plásticos avançados de alto desempenho, como PEEK, Vespel, Ultem, PPS e PVDF.</p> <p>Na Atlas Fibre, ele implementou o conceito Atlas Batch-Size-One. Uma abordagem enxuta que utiliza fixação flexível, padronização de processos e automação de ponta. O Atlas Batch-Size-One permite que a Atlas Fibre produza um único componente a um custo por peça quase igual ao de um lote de mais de 10.000 peças e mantenha essa vantagem de custo durante toda a produção. Isso, somado ao nosso maior estoque da América do Norte, permite que nossa empresa ofereça a combinação definitiva de prazo de entrega rápido e fornecimento constante.</p> <p>Max é licenciado em Ciências da Computação pela Duke University e possui um MBA pela Harvard Business School.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/3/b/csm_placeholder_square_img_grey_2d272b2636.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Peter Doyle Presidente da Hirsh Precision",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": null,
+     "label": "Frank Weisskopf Presidente e CEO - TTS",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/d/0/csm_tom_bassett_e33f269fc1.webp",
+      "alt": "",
+      "w": 1637,
+      "h": 1637
+     },
+     "label": "Tom Bassett Presidente - Pro-Cam LLC",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/1/d/csm_moll_17_3c77f9435c.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Dietmar Moll Diretor de Vendas – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Dietmar Moll</h4> <p>Dietmar Moll é diretor de vendas da ZOLLER Inc. e possui mestrado em engenharia pela Universidade Cooperativa Estadual de Estugarda.</p> <p>Moll tem uma longa carreira na ZOLLER, tendo desempenhado várias funções internacionais na área de vendas, bem como na gestão geral para a Índia, Tailândia e Estados Unidos.</p> <p>No total, ele tem mais de 18 anos de experiência na área de fabricação eficiente, com foco em aplicações de máquinas-ferramentas e ajudando empresas a compreender as capacidades de seus processos usando soluções de pré-ajuste, medição e inspeção de ferramentas, gestão de ferramentas e automação.</p> <p>A sua experiência de trabalho com empresas e parceiros em vários segmentos de produção, incluindo aeroespacial, petróleo e gás, automóvel e mineração, garante que a ZOLLER está alinhada na resolução de desafios reais de produção de peças, à medida que a produção inteligente, a análise e a Indústria 4.0 dão origem a uma nova geração de possibilidades em tecnologias integradas e práticas de produção avançadas.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/a/csm_rita_44_bf76963ef6.webp",
+      "alt": "",
+      "w": 800,
+      "h": 800
+     },
+     "label": "Rita Conroy-Martin Diretor de Marketing e Experiência do Cliente – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Rita Conroy-Martin</h4> <p>Rita Conroy-Martin é diretora de marketing e experiência do cliente na ZOLLER Inc. e é multilingue, com mais de 25 anos de experiência profissional internacional em vendas e desenvolvimento de negócios, marketing e compras, principalmente no setor de manufatura.</p> <p>Ela é apaixonada pelo alinhamento entre vendas e marketing em meio à dramática transformação que está a reescrever as regras de como empresas de grande e pequeno porte se relacionam com clientes potenciais e existentes.</p> <p>Na sua função atual na ZOLLER Inc., ela combina estratégias tradicionais e emergentes de marketing e desenvolvimento de negócios para educar, envolver, integrar e promover clientes e potenciais clientes a novos níveis de eficiência com as soluções da ZOLLER.</p> <p>É licenciada pela Universidade de Limerick, na Irlanda, com um bacharelato em negócios e alemão, e um mestrado em ciências políticas pela Université Libre de Bruxelles, na Bélgica. </p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/3/2/csm_werner_lueken_v4_28_bcac49f60f.webp",
+      "alt": "",
+      "w": 711,
+      "h": 711
+     },
+     "label": "Werner Lueken Diretor de Soluções de Inspeção de Ferramentas – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Werner Lueken</h4> <p>Werner Lueken é diretor de soluções de inspeção de ferramentas na ZOLLER Inc.</p> <p>Ele obteve o diploma de engenheiro em design industrial pela Universidade de Ciências Aplicadas de Kiel, Alemanha, em 1997. </p> <p>Lueken está na ZOLLER Inc. há 23 anos intensos e já desempenhou várias funções, mas sempre com foco no apoio aos clientes nas suas necessidades de inspeção de ferramentas.</p> <p>Ele é apaixonado por ajudar fabricantes de ferramentas de corte e utilizadores finais a resolver os seus desafios de geometria de ferramentas e a garantir a qualidade das ferramentas, sendo reconhecido como um especialista nesta área tanto nos EUA como globalmente.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/f/csm_brothers_10_2e640c257f.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Irmãos Matt Gerente do Centro Tecnológico Indústria 4.0 – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Matt Brothers</h4> <p>Matt Brother é o gestor do Centro de Tecnologia Indústria 4.0 da ZOLLER Inc.</p> <p>Com mais de 20 anos de experiência na inspeção e fabricação de ferramentas de corte de formas especiais, ele traz um conjunto único de competências para a ZOLLER, em particular a sua especialização no desenvolvimento de processos de inspeção de ferramentas de corte e na resolução de problemas.</p> <p>No passado, Brothers trabalhou com a Starcutter e a Northern Tool. Está na ZOLLER desde 2017.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/2/8/csm_nelu_13_add1496942.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Nelu Bilba Especialista em Produtividade de Fabricação – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Nelu Bilba</h4> <p>Nelu Bilba é especialista em produtividade de fabrico na ZOLLER Inc. Trabalha com clientes novos e existentes para melhorar os seus processos de fabrico, sugerindo soluções ZOLLER adequadas. É especialista em ferramentas de corte e porta-ferramentas.</p> <p>Antes de ser contratado pela ZOLLER Inc., foi cliente da ZOLLER em empresas nos EUA e na Alemanha. A sua formação técnica decorreu na Roménia e na Alemanha. Após os seus estudos avançados na Alemanha, ocupou várias posições na área da produção, desde a prototipagem à maquinação de cinco eixos e ao fabrico de ferramentas de corte.</p> <p>Desde que se mudou para os EUA em 2011, Bilba ocupou uma série de posições de liderança na área de produção, incluindo gerente de departamento e gerente de produção/fábrica.</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/f/9/csm_cedric_15_8519a48e1c.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Cedric Hasenfratz Gerente de vendas e parcerias na América do Norte para TMS – ZOLLER Inc.",
+     "img": null,
+     "text": "<h4>Cedric Hasenfratz</h4> <p>Cedric Hasenfratz é o gestor de vendas e parcerias na América do Norte para o portfólio de TMS Tool Management Solutions e é apaixonado por trazer soluções eficientes para a indústria transformadora.</p> <p>Antes de assumir a posição na ZOLLER, foi gestor de contas nos EUA para a divisão Manufacturing Intelligence da Hexagon, no segmento de vendas de software da empresa.</p> <p>Tem um profundo conhecimento e experiência em gestão digital de ferramentas e otimização de processos para a indústria transformadora moderna. </p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/9/7/csm_gaether_06_10e992158f.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 1000
+     },
+     "label": "Dietmar Gaertner Engenheiro de vendas e aplicações - ZOLLER Inc.",
+     "img": null,
+     "text": ""
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/7/e/csm_Clayton_Springer_o_logo_16_11847040e5.webp",
+      "alt": "",
+      "w": 1000,
+      "h": 954
+     },
+     "label": "Clayton Springer Especialista em produção de vídeo – ZOLLER INC.",
+     "img": null,
+     "text": "<h4>Clayton Springer</h4> <p>Clayton Springer é especialista em produção de vídeo para o departamento de marketing da ZOLLER Inc.</p> <p>Tem experiência em transmissões desportivas, noticiários televisivos ao vivo e marketing corporativo, produção de conteúdos para redes sociais, anúncios para televisão por cabo, materiais promocionais, vídeos de produtos e transmissões ao vivo.</p> <p>Formou-se na Ferris State University com uma licenciatura em produção de meios digitais televisivos.</p>"
+    }
+   ],
+   "ftype": "zoller_overlay-tiles",
+   "id": "c7939",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/br/eventos/dias-de-treino-zpac/treinadores",
+ "de_path": ""
+}

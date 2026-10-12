@@ -1,0 +1,436 @@
+{
+ "path": "/balansera-verktyg",
+ "url": "/se/balansera-verktyg",
+ "title": "Balansera verktyg",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Balansera verktyg",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/se/startsida"
+  },
+  {
+   "label": "Balansera verktyg",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeug-auswuchten",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/balance-the-tool",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/equilibrar-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/equilibrer-loutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/equilibrar-a-ferramenta",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/bilanciamento-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/balansera-verktyg",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeug-auswuchten",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/equilibrage-dun-outil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EB%B0%B8%EB%9F%B0%EC%8B%B1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/balancing-tools",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/equilibrar-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/equilibrar-a-ferramenta",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/c/f/csm_balancing_header_d7e77910f1.webp",
+     "video": null,
+     "title": "Enkel balansering av verktyg",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4378",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>Obalanser i dina verktyg blir snabbt ett problem på flera sätt: de går ojämnt, belastar spindeln och maskinen, försämrar bearbetningsprestandan och i slutändan hela din processäkerhet.</h4>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3932",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Vilka konsekvenser får obalansen i verktyget? </h2>",
+   "body": "<p>Verktyg som går ojämnt kan inte användas kontinuerligt med den precision som krävs för ditt arbete. De uppkomna vibrationerna minskar inte bara den totala bearbetningsprestandan, utan det uppstår dessutom defekter på arbetsstyckena, såsom skakmärken, som eventuellt måste efterbearbetas. Obalanser i verktyget leder därmed till konkreta kvalitetsförluster och äventyrar processäkerheten i dina arbetsflöden.</p> <p>Dessutom minskar obalanserna livslängden på spindeln och eventuellt även på maskinen – kostnaderna för detta överstiger snabbt de utgifter som uppstår genom att verktygen balanseras oftare.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3933",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Vad innebär obalans? </h2>",
+   "body": "<p>Begreppet ”obalans” används för att beskriva det vanligt förekommande fenomenet hos roterande kroppar att deras massa inte är rotationssymmetriskt fördelad över kroppen. Man skiljer i huvudsak mellan tre typer av obalans:</p><ul><li>Statisk obalans: Här ligger det roterande kroppens tyngdpunkt utanför rotationsaxeln. Detta kan mätas redan i stillastående läge.</li><li>Momentell obalans: Tyngdpunkten ligger på rotationsaxeln, men obalansen blir mätbar först vid rotationsrörelse.</li><li>Dynamisk obalans: Begreppet dynamisk obalans förenar de två andra formerna av obalans i en valfri kombination av statisk obalans och momentobalans. Detta är normalt för tekniska rotorer.</li></ul><p>Varje specifik form av obalans kan kompenseras genom lämpliga anpassningar av det roterande föremålet.</p> <p>Under rotationen märks en obalans desto tydligare ju större obalansen är (linjär tillväxt) och ju snabbare rotationsrörelsen är (kvadratisk tillväxt). Ju snabbare rotationsrörelsen är, desto viktigare blir balanseringen, desto viktigare är det att minska restobalansen så mycket som möjligt. Balanseringen bör därför systematiskt integreras i arbetsprocessen.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3934",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Vad orsakar obalanser vid verktygsdrift? </h2>",
+   "body": "<p>I roterande verktygssystem är obalanser ett välkänt och vanligt förekommande fenomen. Det finns flera möjliga orsaker till att de uppstår, till exempel:</p><ul><li>Ett verktyg bestående av flera delar har inte monterats korrekt – till exempel om verktygshållaren och verktyget inte är exakt i linje med varandra och avviker från rotationsaxeln.</li><li>Verktygets massfördelning var redan vid tillverkningen osymmetrisk – här måste tillverkarens tillverkningstoleranser beaktas och vid behov kontrolleras.</li><li>Rotorn själv eller verktygshållaren är asymmetriskt konstruerad på grund av sin konstruktion (t.ex. spännskruv i en fräsadapter (Weldon-hållare)).</li></ul><p>Även med finbalanserade verktygshållare kan en obalans uppstå igen genom kombinationen av hållarna och det specifika verktyget. Det är mycket viktigt att mäta och vid behov korrigera detta.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3935",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Varför är det så viktigt att balansera verktyg? </h2>",
+   "body": "<p>Vid höghastighetsbearbetning av arbetsstycken med roterande verktygssystem kan varje liten felaktighet och varje brist på precision under vissa omständigheter märkas mycket snabbt och tydligt. En obalans i verktyget kan orsaka vibrationer, men medför utan tvekan en ojämn gång.</p> <p>Båda dessa faktorer påverkar verktygets noggrannhet och ökar alltid risken för artefakter och skador på arbetsstycket: ytkvaliteten försämras och det kan uppstå kassation. Eftersom era processer är starkt beroende av att korrekt bearbetade slutresultat uppnås, kräver verktyg som inte är finbalanserade mer omfattande kvalitetskontroller. Eventuellt blir även efterbearbetningar nödvändiga, och i alla fall är processäkerheten inte garanterad.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3936",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Om man inte balanserar hjulen kostar det pengar </h2>",
+   "body": "<p>Detta kan leda till förseningar i produktionsprocessen, vilket i sin tur direkt påverkar er förmåga att leverera den beställda kvantiteten i rätt kvalitet i tid.</p> <p>Därtill kommer det faktum att verktyg som går ojämnt kan förkorta svarvspindelns livslängd, särskilt på grund av vibrationerna – även detta är en kostnadsfaktor som inte ska underskattas.</p> <p>Ett balanserat verktyg är alltså bra både för arbetsstyckena och för maskinerna.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3937",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Tumregel: Man gör det ofta, men ångrar det sällan! </h2>",
+   "body": "<p><strong>En tumregel är därför:</strong> Det är bättre att balansera i god tid och oftare än att få stå för kostnaderna i slutändan. Generellt sett bör ett verktyg balanseras om redan när det används med ändrat varvtal – eftersom även denna förändring kan orsaka märkbara skillnader i jämnheten.</p> <p>Regelbunden balansering ökar produktiviteten och kvaliteten på ditt arbete.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3938",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Balansera verktyg: Hur går det till? </h2>",
+   "body": "<p>I allmänhet finns det tre sätt att åtgärda eller eliminera en obalans:</p><ul><li>Lägga till massa på ett målinriktat sätt (t.ex. genom tilläggsvikt)</li><li>Ta bort massa (t.ex. genom borrning eller slipning)</li><li>Justera massan (t.ex. med lämpliga vridringar)</li></ul><p>För att underlätta processen specifikt för verktyg och kunna utföra den med precision rekommenderas användning av en balanseringsmaskin med lämplig programvara. Här sätts först verktyget in i en balanseringsspindel och sätts i rotation för att mäta de centrifugalkrafter som uppstår.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3939",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Automatisk kompensation för obalans </h2>",
+   "body": "<p>Utifrån dessa mätdata beräknar balanseringssystemet sedan hur obalansen ska korrigeras. Med en avancerad balanseringsmaskin kan åtgärderna sedan genomföras omedelbart, och finbalanseringen fortsätter tills ingen kvarvarande obalans längre kan mätas eller tills alla värden ligger inom ett acceptabelt toleransintervall.</p> <p>På detta sätt tar balanseringen inte ens särskilt lång tid, och den ojämnt fördelade massan kan snabbt utjämnas.</p> <p>Ett högprecist och i stort sett automatiskt balanseringssystem är också fördelaktigt eftersom det ger möjlighet att balansera verktygen på nytt och samtidigt snabbt vid varje omställning. Detta förhindrar att kvaliteten försämras på grund av ändrade krav, varvtal eller material, utan att arbetets hastighet påverkas negativt.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3940",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h3> Effektiv balansering med ZOLLER »toolBalancer« </h3>",
+      "body": "<p>Finkalibrerade verktyg även för arbete vid höga varvtal: ZOLLER »toolBalancer« är det perfekta balanseringssystemet för detta. Tack vare sin modulära konstruktion kan det inte bara anpassas individuellt efter just dina specifika behov, utan erbjuder även gott om utrymme för framtida utveckling.</p> <p>Det högprecisa balanseringssystemet är lämpligt för verktygshållare, slipskivor och rotorer och garanterar mätbart lägre kassationsandelar, maskinstilleståndstider, produktionskostnader och leveranstider.</p> <h3><br/>Fördelarna i korthet:</h3><ul><li><strong>Mindre slitage</strong> och högre bearbetningskapacitet tack vare högprecisionsbalanserade verktyg</li><li>Den<strong> modulära konstruktionen</strong> möjliggör individuella anpassningar</li><li>Systemets <strong>självförklarande användning</strong> förhindrar onödiga och kostsamma fel</li><li><strong>Bekväm användning</strong> med pekskärm, tangentbord och mus</li></ul><p><a class=\"btn\" href=\"/se/produkter/balanseringsteknik/toolbalancer\">Läs allt om möjligheterna med ZOLLER »toolBalancer«</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3943",
+      "bg": "",
+      "space": {
+       "before": "small",
+       "after": "small"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/f/6/csm_header_toolBalancer_df19c3c897.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 896
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "image",
+      "id": "c3945",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3941",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_teaser_balancing_small_e3b1b4fcf5.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Balanseringsteknik: Fördelarna",
+     "href": "/se/loesningar/balanseringsteknik",
+     "caption": "<figcaption> <h3>Balanseringsteknik: Fördelarna</h3> <p>Balansering underskattas. Ändå leder balansering till ökad lönsamhet, eftersom den minskar det kostnadstungt verktygsslitage och avlastar maskinspindlarna. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1-samtal med en expert",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1-samtal med en expert</h3> <p>Ett personligt samtal om era mål och våra idéer för att uppnå dem. ZOLLER:s online-rådgivning direkt från Smart Factory. Boka en tid redan nu. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3832",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/se/balansera-verktyg",
+ "de_path": "/werkzeug-auswuchten"
+}

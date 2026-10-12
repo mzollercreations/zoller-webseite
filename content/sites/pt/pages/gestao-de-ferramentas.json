@@ -1,0 +1,447 @@
+{
+ "path": "/gestao-de-ferramentas",
+ "url": "/pt/gestao-de-ferramentas",
+ "title": "Gestão de ferramentas",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pt/pagina-inicial"
+  },
+  {
+   "label": "Gestão de ferramentas",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/pt/pagina-inicial"
+  },
+  {
+   "label": "Gestão de ferramentas",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/tool-management",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/tool-management",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/gestion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/gestion-des-outils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/gestao-de-ferramentas",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/gestione-degli-strumenti",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verktygshantering",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/tool-management",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/gestion-des-outils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/tool-management",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/gestion-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/gestao-de-ferramentas",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/5/b/csm_toolmanagement_header_ab8ef9c82c.webp",
+     "video": null,
+     "title": "Gestão de ferramentas – mais do que apenas gestão de ferramentas",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8115",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">A gestão moderna de ferramentas envolve vários aspetos – trata-se da gestão de dados da ferramenta, do armazenamento, transporte e encomenda de ferramentas e peças de ferramentas, mas acima de tudo trata-se de uma coisa: processos de trabalho mais efetivos e melhores.</p> <p class=\"extra-large-text\">Com um bom sistema de gestão de ferramentas, tem todas as fases do ciclo de vida das suas ferramentas sob controlo e pode determinar o nível de detalhe e complexidade com que deseja manter a visão geral.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8116",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Gestão de ferramentas: armazenamento, planeamento, verificações </h2>",
+   "body": "<p>A gestão de ferramentas significa, por exemplo, registar e gerir todas as ferramentas e componentes de ferramentas de forma centralizada. Desta forma, obtém e mantém uma visão geral das suas ferramentas e componentes, mas também pode otimizar o seu armazenamento, planear e controlar a utilização das ferramentas – e realizar encomendas de novas ferramentas e componentes no momento certo, just-in-time.</p> <p>Com o software adequado, obtém total transparência sobre como e onde as suas ferramentas são usadas|utilizadas, ao longo de toda a cadeia de processos. Isso também significa: melhor controlo de custos, processos de trabalho otimizados e utilização mais efetiva das suas ferramentas.</p> <p>A gestão de ferramentas também significa que todos os dados da ferramenta são geridos centralmente e, idealmente, transferidos diretamente para os seus sistemas CAM através de interfaces adequadas. Isto simplifica e encurta o processo de configuração, tornando a instalação das suas ferramentas mais rápida e fiável.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/4/csm_tms_connected_3fe459a22a.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 900
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8117",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> Software de gestão de ferramentas adequado </h2>",
+      "body": "<p>O software modular TMS Tool Management Solutions da ZOLLER oferece todas as funções e interfaces que se pode esperar de um software moderno para gestão de ferramentas.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c8119",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "Perfeitamente organizado",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Registe todos os componentes individuais, ferramentas completas e folhas de processo numa base de dados central.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8122",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Interfaces sem perdas",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Com inúmeras interfaces, pode ligar o ZOLLER-TMS aos seus sistemas CAM – a transmissão digital sem erros dos dados da ferramenta poupa tempo, preocupações e dinheiro.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8124",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "gestão de armazenamento|gestão de armazém",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Cada peça encontra-se no seu lugar – com o ZOLLER-TMS, mantém sempre uma visão geral da localização dos seus componentes e ferramentas. Ao mesmo tempo, mantém uma visão geral eficiente dos seus stocks em armazém.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8126",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Monitorização de ferramentas",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Reúna o controlo de qualidade e a análise de desgaste num único local, controle a utilização das suas ferramentas e crie estatísticas sobre pedidos|encomendas individuais e os seus custos.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8128",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "Transparência e eficácia",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>Ligue a sua gestão aos processos de encomenda para encomendar sempre o que precisa, na exatidão da hora. Identifique problemas no processo de fabricação e garanta um funcionamento sem falhas.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8130",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c8120",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8118",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Software de gestão de ferramentas como componente central da gestão de ferramentas </h2>",
+   "body": "<p>Na realidade, a logística de ferramentas moderna já não é concebível sem um programa de gestão que corresponda. Com um programa adequado, garante que o fornecimento de ferramentas para cada operação de trabalho é assegurado, e a demorada procura de ferramentas passa a ser coisa do passado. Isto porque a sua lista de ferramentas também indica onde cada peça se encontra – e, se desejar, pode usar|utilizar Smart Cabinets, armários de armazém inteligentes, para garantir que tudo está realmente no seu lugar.</p> <h3>Dados da ferramenta sempre disponíveis</h3> <p>Mas a gestão de ferramentas é muito mais do que apenas armazenamento de ferramentas: o sistema mantém sempre os dados da ferramenta e as predefinições adequadas das ferramentas e permite a transmissão rápida e sem erros para os seus sistemas de ferramentas ou para o dispositivo de pré-definição. Isto evita erros, reduz o desperdício e acelera os processos de trabalho.</p> <p>Seja a utilização|aplicação de ferramentas de usinagem (normalmente falamos sempre de «ferramentas de usinagem», mas se «ferramentas de usinagem» for melhor do ponto de vista de SEO, também pode utilizar este termo) ou de dispositivos de uma classe de ferramentas completamente diferente: Certamente ainda há potencial de melhoria na sua logística, há opções|possibilidades de otimização – talvez na distribuição de ferramentas, no sistema de armazenamento ou na utilização|aplicação da base de dados de ferramentas.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/9/csm_digital_durchstarten_webTMS_16feff8d28.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8131",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Gestão de ferramentas: as suas vantagens",
+     "href": "/pt/solutions/gestao-de-ferramentas",
+     "caption": "<figcaption> <h3>Gestão de ferramentas: as suas vantagens</h3> <p>Descubra como a gestão de ferramentas da ZOLLER aumenta imediatamente a sua produtividade. Com os dados da ferramenta, os processos são mais rápidos e seguros – incluindo proteção contra colisões para as suas máquinas. </p> <br/> Saber mais </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Conversa com especialistas",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Conversa com especialistas</h3> <p>A troca individual sobre os seus objetivos e as nossas ideias para os alcançar. A consultoria online da ZOLLER diretamente da Smart Factory. Marque já a sua consulta. </p> <br/> Saber mais </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/pt/gestao-de-ferramentas",
+ "de_path": "/tool-management"
+}

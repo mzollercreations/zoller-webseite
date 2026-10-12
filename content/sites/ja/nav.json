@@ -1,0 +1,817 @@
+{
+ "meta": [
+  {
+   "label": "サービス",
+   "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E6%8B%85%E5%BD%93%E8%80%85"
+  },
+  {
+   "label": "メディア",
+   "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2"
+  },
+  {
+   "label": "キャリア",
+   "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2"
+  }
+ ],
+ "main": [
+  {
+   "label": "システム",
+   "href": "/ja/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0"
+  },
+  {
+   "label": "成功事例",
+   "href": "/ja/%E7%9A%86%E6%A7%98%E3%81%AE%E6%88%90%E5%8A%9F"
+  },
+  {
+   "label": "ソリューション",
+   "href": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+   "children": [
+    {
+     "label": "なぜZOLLER Solutionsなのか？",
+     "href": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3"
+    },
+    {
+     "label": "設定と測定",
+     "href": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A"
+    },
+    {
+     "label": "Toolmanagement",
+     "href": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/toolmanagement",
+     "children": [
+      {
+       "label": "概要",
+       "href": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/toolmanagement"
+      },
+      {
+       "label": "TMS Software",
+       "href": "/ja/solutions/toolmanagement/tms-software"
+      },
+      {
+       "label": "TMS Hardware",
+       "href": "/ja/solutions/toolmanagement/tms-hardware"
+      }
+     ]
+    },
+    {
+     "label": "検査・測定",
+     "href": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A"
+    },
+    {
+     "label": "自動化",
+     "href": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E8%87%AA%E5%8B%95%E5%8C%96",
+     "children": [
+      {
+       "label": "概要",
+       "href": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E8%87%AA%E5%8B%95%E5%8C%96"
+      },
+      {
+       "label": "物流",
+       "href": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E8%87%AA%E5%8B%95%E5%8C%96/%E7%89%A9%E6%B5%81"
+      },
+      {
+       "label": "工具の準備",
+       "href": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%BA%96%E5%82%99"
+      },
+      {
+       "label": "工具の提供",
+       "href": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%8F%90%E4%BE%9B"
+      },
+      {
+       "label": "工具の点検",
+       "href": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E7%82%B9%E6%A4%9C"
+      }
+     ]
+    },
+    {
+     "label": "収縮技術",
+     "href": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%8F%8E%E7%B8%AE%E6%8A%80%E8%A1%93"
+    },
+    {
+     "label": "工具ホルダー",
+     "href": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E5%B7%A5%E5%85%B7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC"
+    },
+    {
+     "label": "バランス調整技術",
+     "href": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4%E6%8A%80%E8%A1%93"
+    },
+    {
+     "label": "CNC石材加工",
+     "href": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/cnc%E7%9F%B3%E6%9D%90%E5%8A%A0%E5%B7%A5"
+    }
+   ]
+  },
+  {
+   "label": "製品",
+   "href": "/ja/%E8%A3%BD%E5%93%81",
+   "children": [
+    {
+     "label": "製品一覧",
+     "href": "/ja/%E8%A3%BD%E5%93%81"
+    },
+    {
+     "label": "プリセッティングと測定",
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A",
+     "children": [
+      {
+       "label": "縦型ツールプリセッター",
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A/%E7%B8%A6%E5%9E%8B%E6%A9%9F%E5%99%A8",
+       "children": [
+        {
+         "label": "»smile«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A/%E7%B8%A6%E5%9E%8B%E6%A9%9F%E5%99%A8/%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB",
+         "claim": "プロ仕様のプリセットと測定への第一歩",
+         "desc": "精度を妥協しないエントリーモデル。 標準工具の段取りを、ミクロン単位で確実に。耐久性も、ZOLLERの基準で。",
+         "img": "/fileadmin/_processed_/4/3/csm_smile_preview_6232033e55.webp"
+        },
+        {
+         "label": "»venturion«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A/%E7%B8%A6%E5%9E%8B%E6%A9%9F%E5%99%A8/%E3%83%99%E3%83%B3%E3%83%81%E3%83%A5%E3%83%AA%E3%82%AA%E3%83%B3",
+         "claim": "求められる精度に、必要な機能を、必要なだけ。 モジュラー設計だからこそ実現できる、プレミアムクラスの一台。",
+         "desc": "測定精度・段取り効率・拡張性。三拍子そろった主力モデル。",
+         "img": "/fileadmin/_processed_/7/d/csm_venturion_preview_7611e56f51.webp"
+        }
+       ]
+      },
+      {
+       "label": "横型ツールプリセッター",
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A/%E6%A8%AA%E5%9E%8B%E6%A9%9F%E5%99%A8",
+       "children": [
+        {
+         "label": "»hyperion«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A/%E6%A8%AA%E5%9E%8B%E6%A9%9F%E5%99%A8/%E3%83%8F%E3%82%A4%E3%83%9A%E3%83%AA%E3%82%AA%E3%83%B3",
+         "claim": "旋削工具をターゲットにしたツールプリセッター",
+         "desc": "旋盤工具向け横型ツールプリセッター",
+         "img": "/fileadmin/_processed_/1/8/csm_hyperion_preview_3b4c91eaf7.webp"
+        }
+       ]
+      },
+      {
+       "label": "自動化ソリューション",
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A/%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+       "children": [
+        {
+         "label": "»coraMeasure LG«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%BA%96%E5%82%99/corameasure-lg",
+         "claim": "工具の自動測定",
+         "desc": "ZOLLER »venturion«向け経済的な工具ハンドリング",
+         "img": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_b31336460f.webp"
+        },
+        {
+         "label": "»roboBox«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%BA%96%E5%82%99/robobox",
+         "claim": "工具室向けモジュール式自動化システム",
+         "desc": "組み立て、洗浄、測定、熱収縮などの作業用に、最大6つのモジュールを搭載可能",
+         "img": "/fileadmin/_processed_/7/a/csm_roboBox_preview_ae1a1aba4b.webp"
+        }
+       ]
+      },
+      {
+       "label": "CNC石材加工",
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A/cnc%E7%9F%B3%E6%9D%90%E5%8A%A0%E5%B7%A5",
+       "children": [
+        {
+         "label": "»smile | GBO«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A/cnc%E7%9F%B3%E6%9D%90%E5%8A%A0%E5%B7%A5/smile-gbo",
+         "claim": "石器と木製の道具を測定する",
+         "desc": "大口径光学系により、極めて高精度な高度測定を実現",
+         "img": "/fileadmin/_processed_/f/4/csm_smileGBO_preview_63b44ef4c9.webp"
+        },
+        {
+         "label": "»conDress«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A/cnc%E7%9F%B3%E6%9D%90%E5%8A%A0%E5%B7%A5/condress",
+         "claim": "ダイヤモンドチップ付き研磨面の洗浄",
+         "desc": "石材加工工具の洗浄および切削性能の回復",
+         "img": "/fileadmin/_processed_/8/5/csm_conDress_preview_7966236664.webp"
+        }
+       ]
+      },
+      {
+       "label": "特注ソリューション",
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A/%E7%89%B9%E6%B3%A8%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+       "children": [
+        {
+         "label": "特注ソリューション",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E8%A8%AD%E5%AE%9A%E3%81%A8%E6%B8%AC%E5%AE%9A/%E7%89%B9%E6%B3%A8%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E7%89%B9%E6%B3%A8%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+         "claim": "お客様の個別のニーズに合わせたソリューション"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "ツール管理",
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86",
+     "children": [
+      {
+       "label": "Software",
+       "href": "/ja/software",
+       "children": [
+        {
+         "label": "»TMS Core«",
+         "href": "/ja/software/tms-core",
+         "claim": "モジュール式システム",
+         "desc": "デジタル工具管理を始めるのに最適な出発点",
+         "img": "/fileadmin/_processed_/7/b/csm_TMSCore_product_664765c1fd.webp"
+        },
+        {
+         "label": "Add-on »z.Stock«",
+         "href": "/ja/software/add-on-zstock",
+         "claim": "正確な在庫数",
+         "desc": "金型倉庫の透明性を確保します",
+         "img": "/fileadmin/_processed_/6/a/csm_zStock_product_5160ca87bf.webp"
+        },
+        {
+         "label": "Add-on »z.CAM Integration«",
+         "href": "/ja/software/add-on-zcam-integration",
+         "claim": "効率的なワークフロー",
+         "desc": "システムに高性能なインターフェースを追加し、工具データをワークフローに直接統合します",
+         "img": "/fileadmin/_processed_/9/6/csm_zCAM_Integration_product_5dd5c4a531.webp"
+        },
+        {
+         "label": "Add-on »z.Resources«",
+         "href": "/ja/software/add-on-zresources",
+         "claim": "中枢機能",
+         "desc": "すべての追加設備を管理する",
+         "img": "/fileadmin/_processed_/b/9/csm_zResources_product_2eef7f49be.webp"
+        },
+        {
+         "label": "Add-on »z.Shopfloor«",
+         "href": "/ja/software/add-on-zshopfloor",
+         "claim": "デジタル上の透明性",
+         "desc": "現場で直接行われる、一貫性のある効率的な工具循環",
+         "img": "/fileadmin/_processed_/2/e/csm_zShopfloor_product_ccbeaa7b22.webp"
+        },
+        {
+         "label": "Add-on »z.Connectivity«",
+         "href": "/ja/software/add-on-zconnectivity",
+         "claim": "安全なデータ転送",
+         "desc": "工具測定、工具管理、および工作機械間のシームレスなデジタル連携",
+         "img": "/fileadmin/_processed_/d/a/csm_zConnectivity_product_8dec59a214.webp"
+        },
+        {
+         "label": "Add-on »z.Integration«",
+         "href": "/ja/software/add-on-zintegration",
+         "claim": "スマートなネットワーク化",
+         "desc": "大規模な製造環境向けの、ベンダーに依存しない工具管理ソリューション",
+         "img": "/fileadmin/_processed_/a/7/csm_zIntegration_product_5d9cbc0f19.webp"
+        }
+       ]
+      },
+      {
+       "label": "工具倉庫",
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%80%89%E5%BA%AB",
+       "children": [
+        {
+         "label": "»twister«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%80%89%E5%BA%AB/twister",
+         "claim": "収納キャビネット",
+         "desc": "工具部品および付属品",
+         "img": "/fileadmin/_processed_/0/1/csm_twister__preview_9c9c9e9f21.webp"
+        },
+        {
+         "label": "»autoLock«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%80%89%E5%BA%AB/autolock",
+         "claim": "収納キャビネット",
+         "desc": "試験機器、消耗品、および大型部品について",
+         "img": "/fileadmin/_processed_/2/7/csm_autolock__preview_89166f3498.webp"
+        },
+        {
+         "label": "»toolOrganizer«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%80%89%E5%BA%AB/toolorganizer",
+         "claim": "工具箱",
+         "desc": "切削工具および小部品用",
+         "img": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_bbf66a1054.webp"
+        },
+        {
+         "label": "»keeper«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%80%89%E5%BA%AB/keeper",
+         "claim": "工具箱",
+         "desc": "完成工具および工具ホルダー用",
+         "img": "/fileadmin/_processed_/b/a/csm_keeper_preview_f25bf71aa1.webp"
+        },
+        {
+         "label": "»z.Storage«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%80%89%E5%BA%AB/zstorage",
+         "claim": "工具倉庫の搬送",
+         "desc": "自動販売機の仕組みで商品をお渡しします",
+         "img": "/fileadmin/_processed_/f/5/csm_zStorage_preview_f2484908b6.webp"
+        }
+       ]
+      },
+      {
+       "label": "工具の取り付け",
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E3%81%AE%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91",
+       "children": [
+        {
+         "label": "»zTower«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E3%81%AE%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91/ztower",
+         "claim": "組立ライン",
+         "desc": "あらゆる工具の取り付けに",
+         "img": "/fileadmin/_processed_/2/6/csm_zTower_preview_03c8143f73.webp"
+        },
+        {
+         "label": "»toolStation«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E3%81%AE%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91/toolstation",
+         "claim": "作業台",
+         "desc": "工具の最適な取り付けのために",
+         "img": "/fileadmin/_processed_/a/f/csm_toolStation_preview_284869f711.webp"
+        }
+       ]
+      },
+      {
+       "label": "工具の搬送",
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%90%AC%E9%80%81",
+       "children": [
+        {
+         "label": "»toolCart«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%90%AC%E9%80%81/toolcart",
+         "claim": "工具台車",
+         "desc": "工具を快適に運搬するために",
+         "img": "/fileadmin/_processed_/e/b/csm_toolcart750__preview_f133269ad8.webp"
+        }
+       ]
+      },
+      {
+       "label": "データ転送",
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E3%83%87%E3%83%BC%E3%82%BF%E8%BB%A2%E9%80%81",
+       "children": [
+        {
+         "label": "»zidCode«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E3%83%87%E3%83%BC%E3%82%BF%E8%BB%A2%E9%80%81/zidcode",
+         "claim": "工具データを正確に転送する",
+         "desc": "ツールデータの簡単な管理により、安全性と効率性を向上",
+         "img": "/fileadmin/_processed_/e/c/csm_zidCode_preview_21aa224ca2.webp"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "工具検査・測定",
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A",
+     "children": [
+      {
+       "label": "汎用測定機",
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A/%E6%B1%8E%E7%94%A8%E6%B8%AC%E5%AE%9A%E6%A9%9F",
+       "children": [
+        {
+         "label": "»genius«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A/%E6%B1%8E%E7%94%A8%E6%B8%AC%E5%AE%9A%E6%A9%9F/genius",
+         "claim": "切削工具の非接触測定および検査",
+         "desc": "100以上のパラメータを超高精度で計測し、世界中で1000件以上の実績を誇ります",
+         "img": "/fileadmin/_processed_/0/d/csm_genius_1_d819caed90.webp"
+        },
+        {
+         "label": "»titan«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A/%E6%B1%8E%E7%94%A8%E6%B8%AC%E5%AE%9A%E6%A9%9F/titan",
+         "claim": "ハイエンド仕様の試験・測定機",
+         "desc": "あらゆることを知りたい専門家の方へ――切縁の処置を含めて",
+         "img": "/fileadmin/_processed_/3/b/csm_titan__preview_7e0a3aa7f3.webp"
+        },
+        {
+         "label": "»smartCheck«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A/%E6%B1%8E%E7%94%A8%E6%B8%AC%E5%AE%9A%E6%A9%9F/smartcheck",
+         "claim": "1台でセットアップ、測定、検査が可能",
+         "desc": "補助照明機能と高度な画像解析機能を備えた調整・測定装置",
+         "img": "/fileadmin/_processed_/e/f/csm_smartCheck_preview_ca2a5afc34.webp"
+        }
+       ]
+      },
+      {
+       "label": "プロセス重視の測定",
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A/%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E9%87%8D%E8%A6%96%E3%81%AE%E6%B8%AC%E5%AE%9A",
+       "children": [
+        {
+         "label": "»pomBasic«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A/%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E9%87%8D%E8%A6%96%E3%81%AE%E6%B8%AC%E5%AE%9A/pombasic",
+         "claim": "製造工程における精密な目視検査のために",
+         "desc": "加工工程に合わせて、工具の70以上のパラメータを測定する",
+         "img": "/fileadmin/_processed_/5/f/csm_pombasic__preview_2a4f915bf9.webp"
+        },
+        {
+         "label": "»mμFocus«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A/%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E9%87%8D%E8%A6%96%E3%81%AE%E6%B8%AC%E5%AE%9A/mmfocus",
+         "claim": "SKPおよび表面粗さ測定用の2-in-1装置",
+         "desc": "工具刃先の形状を解析し、3D画像を生成する",
+         "img": "/fileadmin/_processed_/c/0/csm_myFocus__preview_4b3d285137.webp"
+        }
+       ]
+      },
+      {
+       "label": "自動化ソリューション",
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A/%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+       "children": [
+        {
+         "label": "»roboSet 2«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E7%82%B9%E6%A4%9C/roboset-2",
+         "claim": "工具の検査と記録（24時間365日対応）",
+         "desc": "»genius«、»3dCheck«、»threadCheck«、»titan«、»edgeControl«用のツールハンドリング",
+         "img": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_354a6e7ab1.webp"
+        }
+       ]
+      },
+      {
+       "label": "CNC石材加工",
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A/cnc%E7%9F%B3%E6%9D%90%E5%8A%A0%E5%B7%A5",
+       "children": [
+        {
+         "label": "»conDiaZ«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A/cnc%E7%9F%B3%E6%9D%90%E5%8A%A0%E5%B7%A5/condiaz",
+         "claim": "数秒で正確な輪郭測定",
+         "desc": "ダイヤモンドコーティングされた石材加工工具の測定および検査専用の検査装置",
+         "img": "/fileadmin/_processed_/b/1/csm_conDiaz_preview_8d8faa8ebf.webp"
+        },
+        {
+         "label": "»conDress«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A/cnc%E7%9F%B3%E6%9D%90%E5%8A%A0%E5%B7%A5/condress",
+         "claim": "ダイヤモンドチップ付き研磨面の洗浄",
+         "desc": "石材加工工具の洗浄および切削性能の回復",
+         "img": "/fileadmin/_processed_/8/5/csm_conDress_preview_7966236664.webp"
+        }
+       ]
+      },
+      {
+       "label": "特注ソリューション",
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A/%E7%89%B9%E6%B3%A8%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+       "children": [
+        {
+         "label": "特注ソリューション",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E6%A4%9C%E6%9F%BB%E6%B8%AC%E5%AE%9A/%E7%89%B9%E6%B3%A8%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E7%89%B9%E6%B3%A8%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+         "claim": "お客様の個別のニーズに合わせたソリューション"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "自動化",
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96",
+     "children": [
+      {
+       "label": "工具物流",
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E7%89%A9%E6%B5%81",
+       "children": [
+        {
+         "label": "»coraLogistic«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E7%89%A9%E6%B5%81/coralogistic",
+         "claim": "自動化された現場物流",
+         "desc": "金型倉庫、金型準備工程、およびCNC工作機械間の搬送作業に",
+         "img": "/fileadmin/_processed_/c/0/csm_coraLogistics_preview_4e713a1c9b.webp"
+        },
+        {
+         "label": "»coraMachineLoad«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E7%89%A9%E6%B5%81/coramachineload",
+         "claim": "CNC工作機械へのワークの搬入・搬出を全自動で行う",
+         "desc": "物流部門と機械用マガジン間の、正確かつ時間厳守な工具の搬送",
+         "img": "/fileadmin/_processed_/e/e/csm_coraMaschineLoad_preview_f78fc031d8.webp"
+        }
+       ]
+      },
+      {
+       "label": "工具の準備",
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%BA%96%E5%82%99",
+       "children": [
+        {
+         "label": "»coraMeasure LG«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%BA%96%E5%82%99/corameasure-lg",
+         "claim": "工具の自動測定",
+         "desc": "ZOLLER »venturion«向け経済的な工具ハンドリング",
+         "img": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_b31336460f.webp"
+        },
+        {
+         "label": "»roboBox«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%BA%96%E5%82%99/robobox",
+         "claim": "工具室向けモジュール式自動化システム",
+         "desc": "組み立て、洗浄、測定、熱収縮などの作業用に、最大6つのモジュールを搭載可能",
+         "img": "/fileadmin/_processed_/7/a/csm_roboBox_preview_ae1a1aba4b.webp"
+        },
+        {
+         "label": "»micBox«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%BA%96%E5%82%99/micbox",
+         "claim": "インサートの効率的な取り扱い",
+         "desc": "インサートの回転、反転、交換を行います",
+         "img": "/fileadmin/_processed_/6/a/csm_micbox_preview_e6568b3640.webp"
+        }
+       ]
+      },
+      {
+       "label": "工具の提供",
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%8F%90%E4%BE%9B",
+       "children": [
+        {
+         "label": "»loadBox«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E6%8F%90%E4%BE%9B/loadbox",
+         "claim": "スマートツールセンター",
+         "desc": "注文に応じて工具をピッキングし、物流部門へ引き渡す",
+         "img": "/fileadmin/_processed_/5/3/csm_loadBox_preview_d9538dbfe3.webp"
+        }
+       ]
+      },
+      {
+       "label": "工具の点検",
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E7%82%B9%E6%A4%9C",
+       "children": [
+        {
+         "label": "»roboSet 2«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E5%B7%A5%E5%85%B7%E3%81%AE%E7%82%B9%E6%A4%9C/roboset-2",
+         "claim": "工具の検査と記録（24時間365日対応）",
+         "desc": "»genius«、»3dCheck«、»threadCheck«、»titan«、»edgeControl«用のツールハンドリング",
+         "img": "/fileadmin/_processed_/b/d/csm_genius_roboSet2__preview_354a6e7ab1.webp"
+        }
+       ]
+      },
+      {
+       "label": "レーザーマーキング",
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0",
+       "children": [
+        {
+         "label": "»roboMark«",
+         "href": "/ja/%E8%A3%BD%E5%93%81/%E8%87%AA%E5%8B%95%E5%8C%96/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0/robomark",
+         "claim": "レーザーマーキング装置",
+         "desc": "工具への迅速かつ正確なマーキング",
+         "img": "/fileadmin/_processed_/9/c/csm_roboMark_preview_ecf02129c4.webp"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "焼きばめ装置",
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E5%8F%8E%E7%B8%AE%E6%8A%80%E8%A1%93",
+     "children": [
+      {
+       "label": "»powerShrink«",
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E5%8F%8E%E7%B8%AE%E6%8A%80%E8%A1%93/powershrink",
+       "claim": "工具が縮む",
+       "desc": "最適なエネルギー効率と最高の安全性を実現した収縮システム",
+       "img": "/fileadmin/_processed_/1/7/csm_powerShrink_preview_8e31408c1d.webp"
+      },
+      {
+       "label": "»redomatic«",
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E5%8F%8E%E7%B8%AE%E6%8A%80%E8%A1%93/redomatic",
+       "claim": "収縮と測定",
+       "desc": "工具収縮システムを内蔵した汎用調整・測定装置",
+       "img": "/fileadmin/_processed_/f/b/csm_redomatic_preview_afc51b7ecf.webp"
+      }
+     ]
+    },
+    {
+     "label": "ツールホルダ",
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E5%B7%A5%E5%85%B7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC",
+     "children": [
+      {
+       "label": "Tooling Shop",
+       "href": "https://myzoller.com/de/de/shop/tooling",
+       "claim": "2500種類以上の工具ホルダー",
+       "desc": "オプションで»idChip«を搭載可能。最新の工具データにより、加工の信頼性を向上させます。ZOLLER TMS Tool Management Solutionsに対応しています。",
+       "img": "/fileadmin/_processed_/3/f/csm_ToolingSolutions4_preview_6c25bb2bd5.webp"
+      }
+     ]
+    },
+    {
+     "label": "ツールバランシング",
+     "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4%E6%8A%80%E8%A1%93",
+     "children": [
+      {
+       "label": "»toolBalancer«",
+       "href": "/ja/%E8%A3%BD%E5%93%81/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4%E6%8A%80%E8%A1%93/toolbalancer",
+       "claim": "工具のバランス調整",
+       "desc": "最先端の技術と人間工学に基づいたデザインを採用したバランス調整システム",
+       "img": "/fileadmin/_processed_/c/e/csm_toolBalancer_preview_c222571512.webp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "アカデミー",
+   "href": "/ja/%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC"
+  },
+  {
+   "label": "イベント",
+   "href": "/ja/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
+  },
+  {
+   "label": "企業",
+   "href": "/ja/%E4%BC%81%E6%A5%AD",
+   "children": [
+    {
+     "label": "一覧を表示",
+     "href": "/ja/%E4%BC%81%E6%A5%AD"
+    },
+    {
+     "label": "プロフィール",
+     "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB",
+     "children": [
+      {
+       "label": "ZOLLERについて",
+       "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB"
+      },
+      {
+       "label": "実績",
+       "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/%E5%AE%9F%E7%B8%BE"
+      },
+      {
+       "label": "パートナー",
+       "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC"
+      },
+      {
+       "label": "沿革",
+       "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/%E6%B2%BF%E9%9D%A9"
+      }
+     ]
+    },
+    {
+     "label": "お問い合わせ",
+     "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B",
+     "children": [
+      {
+       "label": "お問い合わせフォーム",
+       "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B"
+      },
+      {
+       "label": "拠点",
+       "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E6%8B%A0%E7%82%B9"
+      },
+      {
+       "label": "スマートファクトリー",
+       "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC"
+      },
+      {
+       "label": "担当者",
+       "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E6%8B%85%E5%BD%93%E8%80%85"
+      },
+      {
+       "label": "1対1の専門家相談",
+       "href": "https://myzoller.com/de/de/expert/booking"
+      },
+      {
+       "label": "研修および講習",
+       "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E7%A0%94%E4%BF%AE%E3%81%8A%E3%82%88%E3%81%B3%E8%AC%9B%E7%BF%92"
+      },
+      {
+       "label": "ニュースレター",
+       "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%BF%E3%83%BC"
+      }
+     ]
+    },
+    {
+     "label": "キャリア",
+     "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2",
+     "children": [
+      {
+       "label": "ゾラーでの仕事",
+       "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2"
+      },
+      {
+       "label": "求人情報",
+       "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2/%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1"
+      },
+      {
+       "label": "よくある質問",
+       "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F"
+      },
+      {
+       "label": "応募",
+       "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2/%E5%BF%9C%E5%8B%9F"
+      }
+     ]
+    },
+    {
+     "label": "レポート＆ストーリー",
+     "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC"
+    },
+    {
+     "label": "メディア",
+     "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2"
+    },
+    {
+     "label": "持続可能性",
+     "href": "/ja/%E4%BC%81%E6%A5%AD/%E6%8C%81%E7%B6%9A%E5%8F%AF%E8%83%BD%E6%80%A7"
+    },
+    {
+     "label": "品質管理",
+     "href": "/ja/%E4%BC%81%E6%A5%AD/%E5%93%81%E8%B3%AA%E7%AE%A1%E7%90%86"
+    },
+    {
+     "label": "コンプライアンス",
+     "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%82%B3%E3%83%B3%E3%83%97%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B9"
+    }
+   ]
+  }
+ ],
+ "footer_links": [
+  {
+   "label": "Go up",
+   "href": "#body"
+  },
+  {
+   "label": "システム",
+   "href": "/ja/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0"
+  },
+  {
+   "label": "成功事例",
+   "href": "/ja/%E7%9A%86%E6%A7%98%E3%81%AE%E6%88%90%E5%8A%9F"
+  },
+  {
+   "label": "ソリューション",
+   "href": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3"
+  },
+  {
+   "label": "製品",
+   "href": "/ja/%E8%A3%BD%E5%93%81"
+  },
+  {
+   "label": "アカデミー",
+   "href": "/ja/%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC"
+  },
+  {
+   "label": "イベント",
+   "href": "/ja/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
+  },
+  {
+   "label": "企業",
+   "href": "/ja/%E4%BC%81%E6%A5%AD"
+  },
+  {
+   "label": "サービス",
+   "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E6%8B%85%E5%BD%93%E8%80%85"
+  },
+  {
+   "label": "メディア",
+   "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2"
+  },
+  {
+   "label": "キャリア",
+   "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2"
+  },
+  {
+   "label": "採算計算ツール",
+   "href": "/ja/%E6%8E%A1%E7%AE%97%E8%A8%88%E7%AE%97%E3%83%84%E3%83%BC%E3%83%AB"
+  },
+  {
+   "label": "担当者",
+   "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E6%8B%85%E5%BD%93%E8%80%85"
+  },
+  {
+   "label": "メールを送信する",
+   "href": "mailto:info@zoller.info"
+  },
+  {
+   "label": "ゾラー・サービス",
+   "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E6%8B%85%E5%BD%93%E8%80%85"
+  },
+  {
+   "label": "ソフトウェアのアップデート",
+   "href": "/ja/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88"
+  },
+  {
+   "label": "オンラインサポート",
+   "href": "/ja/%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88"
+  },
+  {
+   "label": "事業分野",
+   "href": "/ja/%E4%BA%8B%E6%A5%AD%E5%88%86%E9%87%8E-1"
+  },
+  {
+   "label": "ニュースレターの登録",
+   "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%BF%E3%83%BC"
+  },
+  {
+   "label": "一般購入条件",
+   "href": "/ja/%E4%B8%80%E8%88%AC%E8%B3%BC%E5%85%A5%E6%9D%A1%E4%BB%B6"
+  },
+  {
+   "label": "資金調達オプション",
+   "href": "https://www.goleasing.com/zoller/"
+  },
+  {
+   "label": "LinkedIn",
+   "href": "https://www.linkedin.com/company/zoller-japan"
+  },
+  {
+   "label": "YouTube",
+   "href": "https://www.youtube.com/@ZOLLERJapan"
+  },
+  {
+   "label": "お問い合わせ",
+   "href": "/ja/%E4%BC%81%E6%A5%AD/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B"
+  },
+  {
+   "label": "プライバシーポリシー",
+   "href": "/ja/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC"
+  },
+  {
+   "label": "免責事項",
+   "href": "/ja/%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85"
+  },
+  {
+   "label": "サイト運営者情報",
+   "href": "/ja/%E3%82%B5%E3%82%A4%E3%83%88%E9%81%8B%E5%96%B6%E8%80%85%E6%83%85%E5%A0%B1"
+  },
+  {
+   "label": "Cookie settings",
+   "href": "#"
+  }
+ ]
+}

@@ -1,0 +1,332 @@
+{
+ "path": "/azienda/contatto/formazione-e-corsi-di-formazione",
+ "url": "/it/azienda/contatto/formazione-e-corsi-di-formazione",
+ "title": "Formazione e corsi di formazione",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/it/home-page"
+  },
+  {
+   "label": "Azienda /",
+   "href": "/it/azienda"
+  },
+  {
+   "label": "Contatti /",
+   "href": "/it/azienda/contatto"
+  },
+  {
+   "label": "Formazione e corsi di formazione",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/it/home-page"
+  },
+  {
+   "label": "Azienda /",
+   "href": "/it/azienda"
+  },
+  {
+   "label": "Contatti /",
+   "href": "/it/azienda/contatto"
+  },
+  {
+   "label": "Formazione e corsi di formazione",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/unternehmen/kontakt/training-und-schulungen",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/company/contact/training-and-courses",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/empresa/contacto/formacion-y-capacitacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/entreprise/contact/formation-et-formation",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/empresa/contacto/formacao-e-treino",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/azienda/contatto/formazione-e-corsi-di-formazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/foeretag/kontakt/utbildning-och-kurser",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/unternehmen/kontakt/training-und-schulungen",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/company/contact-us/training-and-courses",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/entreprises/contact/formation-et-perfectionnement",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BC%81%E6%A5%AD/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/%E7%A0%94%E4%BF%AE%E3%81%8A%E3%82%88%E3%81%B3%E8%AC%9B%E7%BF%92",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%9B%88%EB%A0%A8",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/company/contact-us/in-person-training-and-courses",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/empresa/contacto/capacitacion-y-formacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/empresa/contacto/formacao-e-treino",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Da persona a persona: siamo qui per aiutarti! </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3978",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p class=\"large-text\">Per garantire il miglior utilizzo possibile dei prodotti ZOLLER, il nostro personale altamente qualificato offre servizi di messa in funzione e corsi di formazione professionali per i tuoi dipendenti. La competenza e l'autonomia dei propri specialisti sono alla base del successo di ogni azienda.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c3979",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3977",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "small"
+   }
+  },
+  {
+   "type": "tiles",
+   "header": "<h3> Corsi su misura per i tuoi requisiti </h3>",
+   "cols": 4,
+   "tiles": [
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/4/1/csm_training_01_15e3d65362.webp",
+      "alt": "",
+      "w": 680,
+      "h": 490
+     },
+     "label": "Modulo 1 Messa in funzione / Formazione di base macchine di misura",
+     "img": null,
+     "text": "<h4><strong>Formazione di base</strong><br/><strong>sulle macchine di misura</strong></h4> <p>Installazione e messa in funzione della macchina di misura</p> <p>Spiegazione delle funzioni di base</p> <p>Semplice corso di formazione sul software per la misurazione e la regolazione degli utensili</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/c/5/csm_training_02_8b4cd3f636.webp",
+      "alt": "",
+      "w": 680,
+      "h": 490
+     },
+     "label": "Modulo 2 Installazione / Formazione di base programma di controllo e di misurazione",
+     "img": null,
+     "text": "<h4><strong>Formazione di base</strong><br/><strong>Programma di controllo e misurazione</strong></h4> <p>Installazione professionale del programma desiderato</p> <p>Formazione sulle funzioni di base del programma</p> <p>Considerazione individuale delle esigenze dell'utente</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/d/3/csm_training_03_210a4f667d.webp",
+      "alt": "",
+      "w": 680,
+      "h": 490
+     },
+     "label": "Modulo 3 Corso di formazione software TMS Tool Management Solutions",
+     "img": null,
+     "text": "<h4><strong>Corso di formazione</strong><br/><strong>sul software</strong></h4> <p>Insegnamento delle funzioni del software</p> <p>Considerazione delle domande specifiche dei dipendenti</p> <p>Durata dipendente dai pacchetti software selezionati</p>"
+    },
+    {
+     "logo": {
+      "src": "/fileadmin/_processed_/9/7/csm_training_04_f621e06a9e.webp",
+      "alt": "",
+      "w": 680,
+      "h": 490
+     },
+     "label": "Modulo 4 Contenuti formativi personalizzati in base ai vostri requisiti",
+     "img": null,
+     "text": "<h4><strong>Contenuti di formazione</strong><br/><strong>personalizzati</strong></h4> <p>Integrazione in rete</p> <p>Aggiornamento macchina di misura</p> <p>Adattamento del formato output</p> <p>Identificazione degli strumenti</p>"
+    }
+   ],
+   "ftype": "zoller_overlay-tiles",
+   "id": "c4172",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Aggiornamento adattato alle esigenze individuali </h2>",
+   "body": "<p>Desideri essere sempre aggiornato sulle ultime novità tecnologiche? Vuoi sfruttare al massimo la tecnologia ZOLLER? Hai bisogno di assistenza nell'esecuzione dei programmi di misurazione? Sei interessato ad un sistema di gestione degli utensili o vuoi semplicemente conoscere nuove possibilità? Allora partecipa a uno dei nostri corsi di formazione!</p> <p>I corsi di formazione si svolgono presso una filiale ZOLLER o presso la tua sede. Per garantire il massimo successo nell'apprendimento, il numero di partecipanti è limitato a un massimo di 5 persone.</p> <p><strong>Desideri ulteriori contenuti del corso?</strong><br/><a class=\"btn\" href=\"/it/azienda/contatto\" title=\"Kontakt zu ZOLLER\"><strong>Chiedi!</strong></a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/0/csm_training_05_55dada2a8d.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1010
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c4173",
+   "bg": "lightgray",
+   "space": {
+    "before": "medium",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>1:1 Colloquio con esperti</h3> <p><a class=\"btn\" href=\"https://myzoller.com/int/en/expert/booking/\" rel=\"noopener\" target=\"_blank\">Fissa subito un appuntamento</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/it/azienda/contatto/formazione-e-corsi-di-formazione",
+ "de_path": "/unternehmen/kontakt/training-und-schulungen"
+}

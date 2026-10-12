@@ -1,0 +1,475 @@
+{
+ "path": "/startseite",
+ "url": "/kr/%ED%99%88",
+ "title": "솔루션으로 시작하기 – 시스템에 진입하기",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/startseite",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/home",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/pagina-de-inicio",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/page-daccueil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/pagina-inicial",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/home-page",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/startsida",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/startseite",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/home-page",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/page-daccueil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%99%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/homepage",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/pagina-de-inicio",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/pagina-inicial",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/01_Pages/Startingpage/zollerinfo_header_animation_780.mp4",
+     "title": "체계적인 접근, 또한 극대화된 성과로",
+     "kicker": "",
+     "text": "<p><strong>ZOLLER의 기술 솔루션</strong>으로<br/><strong>공구 프로세스</strong>의 <strong>효율</strong>을 높이세요.</p> <p>기술을 선도하는 ZOLLER가<br/><strong>더 빠르고 정밀한 생산 환경</strong>을 지원합니다.</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c2274",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 모든 생산 현장을 위한 프리미엄 <br/>기술 </h2>",
+   "body": "<p>ZOLLER는 공구 프로세스 전반에서<br/><strong>높은 효율 개선 효과</strong>를 제공합니다.</p> <p>그렇기 때문에<br/>ZOLLER에 대한 투자로</p> <p>빠른 <strong>투자 효과</strong>를 누릴 수 있습니다.</p> <p><strong>CNC 장비 한 대</strong>만 사용하더라도<br/><strong>ZOLLER 솔루션</strong>은 시간과 비용,<br/>장비 <strong>비가동 시간</strong>을 <strong>효과적으로 줄여줍니다.</strong></p> <p>ZOLLER에게 프리미엄은<br/><strong>특권</strong>이 아니라 <strong>약속</strong>입니다.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/2/csm_az_cz_30f31cdd7e.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c539",
+   "bg": "yellow",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "kpis",
+   "title": "졸러(ZOLLER) 고객 성공 사례",
+   "subtitle": "생산성 향상, 리드타임 단축, 비용 절감까지, 졸러(ZOLLER)는 전 세계 제조 현장의 효율성과 경쟁력 향상에 기여하고 있습니다.",
+   "items": [
+    {
+     "label": "고속 공구 세팅 솔루션",
+     "value": "30%",
+     "text": "<p>졸러(ZOLLER) <strong>‘hyperion’</strong>을 도입한 </p> <p><strong>‘SycoTec’</strong>은 <strong>세팅 시간</strong>을 <strong>33% 단축</strong>했습니다.</p> <p><strong>수평형 공구 프리세팅</strong> 및 측정 장비 </p> <p><strong>‘hyperion’</strong>은 선삭 공구와 멀티 툴 홀더를 </p> <p>고정밀로 측정하여, 초고속 초소형 모터 생산 공정의 </p> <p><strong>생산성과 품질 향상</strong>에 기여하고 있습니다.</p> <p><a class=\"btn\" href=\"/kr/%EA%B7%80%ED%95%98%EC%9D%98-%EC%84%B1%EA%B3%B5/%EC%83%81%EC%84%B8-%EC%A0%95%EB%B3%B4?tx_news_pi1%5Bnews%5D=116&amp;cHash=421d313fd09bbdfb23f6ea4d752d4ee7\">성공 사례</a></p>"
+    },
+    {
+     "label": "운영 인력 비용 절감",
+     "value": "83%",
+     "text": "<p>3교대 생산 환경에서 자동화 솔루션 </p> <p><strong>'RoboSet 2'</strong> 를 활용해 공구 검사 공정의 </p> <p><strong>인건비</strong>를 <strong>약 83% 만큼 크게 절감</strong>할 수 있습니다.</p> <p><a class=\"btn\" href=\"/kr/%EC%A0%9C%ED%92%88/%EC%9E%90%EB%8F%99%ED%99%94/%EA%B3%B5%EA%B5%AC-%EA%B2%80%EC%82%AC/roboset-2\">»roboSet 2«에 대해 더 알아보기</a></p>"
+    },
+    {
+     "label": "신속한 투자비 회수",
+     "value": "9개월",
+     "text": "<p>공구 세팅 및 측정 장비 <strong>'Smile'</strong> 의 평균 투자 회수 </p> <p>기간입니다.</p> <p>기준:<strong> CNC 장비 1대 기준</strong>, 1교대 생산 환경 적용 시</p> <p>※ 장비 2대 운영 시 회수 기간은 </p> <p><strong>약 절반까지도 단축 시킬 수 있습니다.</strong></p>"
+    },
+    {
+     "label": "매출 증대",
+     "value": "100만달러",
+     "text": "<p>미국 미시간 주의 가족 경영 기업 <strong>ProCam</strong>은 </p> <p>'<strong>Smile 420'</strong> 도입 이후 2년 만에 </p> <p>약 100만 달러의 추가 매출을 달성했습니다.</p> <p><strong>작업 준비 시간 단축</strong>과 <strong>장비 가동 효율 향상</strong>을 </p> <p>통해 생산성을 높이고 더 많은 주문에 </p> <p>대응할 수 있게 되었습니다.</p>"
+    }
+   ],
+   "ftype": "zoller_content-scroller",
+   "id": "c537",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_strip",
+   "icon": {
+    "src": "/fileadmin/_processed_/0/0/csm_calculator_8806cc3f97.webp",
+    "alt": "",
+    "w": 50,
+    "h": 65
+   },
+   "text": "<p class=\"bold\">졸러(ZOLLER) 공구 측정·프리세팅 장비를 통한 생산성 향상</p> <p>졸러(ZOLLER) ROI 계산기를 통해 비용 절감 효과를 확인해 보십시오.</p>",
+   "button": "<a class=\"btn\" href=\"/kr/%EC%88%98%EC%9D%B5%EC%84%B1-%EA%B3%84%EC%82%B0%EA%B8%B0\">지금 절감 가능액을 확인해 보세요</a>",
+   "ftype": "zoller_icon-button",
+   "id": "c4326",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 밀링, 선반 가공 및 연삭 작업의 생산성 향상 </h2>",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/2/csm_teaser_milling_6f80026943.webp",
+     "alt": "",
+     "w": 633,
+     "h": 377,
+     "title": "밀링 (Milling)",
+     "href": "/kr/%EB%B0%80%EB%A7%81",
+     "caption": "<figcaption> <h3>밀링 (Milling)</h3> <p>정밀한 공구 프리세팅 및 측정을 통해 <br/> 밀링 가공의 생산성을 향상시켜보세요.<br/> 최첨단 밸런싱 기술과 열박음(슈링크) 시스템, <br/> 공구 관리 솔루션, 그리고 CAM부터 <br/> 가공까지의 원활한 연계를 통해<br/> 높은 정밀도와 효율성을 실현합니다.</p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/1/5/csm_teaser_turning_a68c271858.webp",
+     "alt": "tool turning process",
+     "w": 633,
+     "h": 377,
+     "title": "선반 (Turning)",
+     "href": "/kr/%ED%9A%8C%EC%A0%84",
+     "caption": "<figcaption> <h3>선반 (Turning)</h3> <p>고급 측정 기술로 선반 가공의 성과를 <br/> 극대화하여 생산 효율을 높여보세요.<br/> 선삭 공구 전용 측정 기술, 체계적인 <br/> 공구 관리 및 데이터 관리를 통해 <br/> 가공 정밀도와 공정 안정성을 향상시킵니다.</p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/f/csm_teaser_grinding_7de917acd6.webp",
+     "alt": "",
+     "w": 633,
+     "h": 377,
+     "title": "연삭 (Grinding)",
+     "href": "/kr/%EA%B3%B5%EA%B5%AC-%EC%97%B0%EB%A7%88",
+     "caption": "<figcaption> <h3>연삭 (Grinding)</h3> <p>연삭 공정의 품질과 생산성을 <br/> 한 단계 높여보세요.<br/> CAD와 연계된 측정 시스템을 <br/> 활용하여 CNC 연삭기에 <br/> 최적화된 데이터를 제공하고, <br/> 측정 시뮬레이션과 품질 검사 및 <br/> 문서화를 효율적으로 수행할 수 있습니다.</p> <br/> 자세히 알아보기 </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c540",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> “국제 시장에서<br/> 경쟁력을 갖추기<br/>위해서,<br/>자동화는<br/>필수적입니다.” </h3>",
+   "body": "<p class=\"large-text\">오버른도르프 소재<strong> Mauth Werkzeug-Schleiftechnik의 대표</strong>, <strong>Michael Mauth 마이클 마우트</strong></p> <p><a class=\"btn\" href=\"/kr/%EA%B7%80%ED%95%98%EC%9D%98-%EC%84%B1%EA%B3%B5/%EC%83%81%EC%84%B8-%EC%A0%95%EB%B3%B4?tx_news_pi1%5Bnews%5D=109&amp;cHash=edd71d398b779dcca094c57186138635\"> 사용자 후기</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/3/csm_teaser_roboSet2_8f949c1d6b.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034,
+     "href": "/kr/%EA%B7%80%ED%95%98%EC%9D%98-%EC%84%B1%EA%B3%B5/%EC%83%81%EC%84%B8-%EC%A0%95%EB%B3%B4?tx_news_pi1%5Bnews%5D=109&cHash=edd71d398b779dcca094c57186138635"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c4109",
+   "bg": "white",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> “졸러(ZOLLER)의 소프트웨어 시스템을 통한 디지털화는 생산 효율 향상에 핵심적인 역할을 했습니다.” </h2>",
+   "body": "<p class=\"large-text\">프랭크 셰퍼(Frank Schaefer) 공학사, 듐멘 소재 LIDU Maschinenbau Lienenbrügger GmbH 경영진</p> <p><a class=\"btn\" href=\"/kr/%EA%B7%80%ED%95%98%EC%9D%98-%EC%84%B1%EA%B3%B5/%EC%83%81%EC%84%B8-%EC%A0%95%EB%B3%B4?tx_news_pi1%5Bnews%5D=112&amp;cHash=5bd9e00bf990db26ead5dc36b56cb9be\">사용자 후기</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/1/csm_teaser_zoller_002_647c6fcfb2.webp",
+     "alt": "two men talking",
+     "w": 1155,
+     "h": 1034,
+     "href": "/kr/%EA%B7%80%ED%95%98%EC%9D%98-%EC%84%B1%EA%B3%B5/%EC%83%81%EC%84%B8-%EC%A0%95%EB%B3%B4?tx_news_pi1%5Bnews%5D=112&cHash=5bd9e00bf990db26ead5dc36b56cb9be"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c536",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> ZOLLER 시스템을 직접 체험해 보세요 </h2>",
+   "body": "<p>플라이델스하임에 위치한 ZOLLER 스마트 팩토리에서는 완전한 생산 현장 자동화에 이르기까지 모든 솔루션을 갖춘 ZOLLER 시스템을 선보입니다. CAM에서 부품 생산에 이르는 완벽한 공정의 높은 효율성과, 지속적으로 이용 가능한 공구 데이터가 제공하는 이점을 직접 확인해 보시기 바랍니다. </p> <p>방문 일정이나 1:1 전문가 상담을 예약하는 방법에 대해 지금 바로 자세히 알아보세요.</p> <p><a class=\"btn\" href=\"/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98/%EC%8A%A4%EB%A7%88%ED%8A%B8-%ED%8C%A9%ED%86%A0%EB%A6%AC\">스마트 팩토리로 이동</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/9/csm_smartfactory_teaser_4b2372736c.webp",
+     "alt": "",
+     "w": 1400,
+     "h": 1400
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c59554",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> <a href=\"/kr/%ED%99%88\">수축할 때 당당하게 행동하기</a> </h2>",
+   "body": "<p class=\"large-text\">»powerShrink는« 공구를 기록적인 속도로 수축시키면서도 에너지를 극히 효율적으로 사용합니다. 수축 척은 부드럽게 가열 및 냉각되어 수축 공정의 효율을 극대화합니다. </p> <p><a class=\"btn\" href=\"/kr/%EC%A0%9C%ED%92%88/%EC%88%98%EC%B6%95-%EA%B8%B0%EC%88%A0/powershrink\">»powerShrink«에 대해 더 알아보기</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/3/c/csm_teaser_powershrink_ff1b555a0d.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034,
+     "href": "/kr/%EC%A0%9C%ED%92%88/%EC%88%98%EC%B6%95-%EA%B8%B0%EC%88%A0/powershrink"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c752",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "newslist",
+   "header": "<h3> 최신 소식 </h3>",
+   "articles": [
+    {
+     "href": "/kr/%EA%B7%80%ED%95%98%EC%9D%98-%EC%84%B1%EA%B3%B5/%EC%83%81%EC%84%B8-%EC%A0%95%EB%B3%B4/%ED%85%80%EB%B8%94%EB%9F%AC-%EA%B0%80%EA%B2%A9-%EA%B8%89%EB%93%B1%EC%97%90-%EB%8C%80%EC%B2%98%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95",
+     "img": {
+      "src": "/fileadmin/_processed_/c/1/csm_wolfram_teaserimg_16c264143f.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "보도자료",
+      "공구 관리"
+     ],
+     "title": "텀블러 가격 급등에 대처하는 방법",
+     "teaser": "전경질금속 공구의 극심한 가격 상승에 대처하기 위한 두 가지 전략은 다음과 같습니다. 공구 사용 효율을 높이고, 재연마 공정에서 최고의 정밀도를 확보하는 것입니다.",
+     "date": ""
+    },
+    {
+     "href": "/kr/%EA%B7%80%ED%95%98%EC%9D%98-%EC%84%B1%EA%B3%B5/%EC%83%81%EC%84%B8-%EC%A0%95%EB%B3%B4/ausschliesslich-strom-aus-nachhaltigen-quellen",
+     "img": {
+      "src": "/typo3temp/assets/_processed_/6/6/csm_dummy-preview-image_fcd6db6a31.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "기업",
+      "지속 가능성"
+     ],
+     "title": "오로지 재생 가능 에너지원에서 생산된 전력",
+     "teaser": "당사는 재생에너지로 생산된 전기를 100% 사용하여 제품을 생산합니다. 자체 태양광 발전 설비를 통해 이에 기여하고 있습니다.",
+     "date": ""
+    },
+    {
+     "href": "/kr/%EA%B7%80%ED%95%98%EC%9D%98-%EC%84%B1%EA%B3%B5/%EC%83%81%EC%84%B8-%EC%A0%95%EB%B3%B4/500-quadratmeter-insektenflugplatz",
+     "img": {
+      "src": "/typo3temp/assets/_processed_/6/6/csm_dummy-preview-image_fcd6db6a31.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "기업",
+      "지속 가능성"
+     ],
+     "title": "500제곱미터 규모의 곤충 비행장",
+     "teaser": "ZOLLER 사의 활기 넘치는 웰빙 공간",
+     "date": ""
+    }
+   ],
+   "pages": [],
+   "ftype": "news_newsliststicky",
+   "id": "c749",
+   "bg": "lightgray",
+   "space": {
+    "before": "medium",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>1:1 전문가 상담</h3> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/expert/booking\" rel=\"noopener\" target=\"_blank\">지금 예약하기</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/kr/홈",
+ "de_path": "/startseite"
+}

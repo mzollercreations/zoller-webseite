@@ -1,0 +1,509 @@
+{
+ "path": "/software/add-on-zresources",
+ "url": "/it/software/add-on-zresources",
+ "title": "Add-on »z.Resources«",
+ "description": "Add-on »z.Resources« - Gestisce tutte le risorse aggiuntive - Capacità centrali",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/it/home-page"
+  },
+  {
+   "label": "Prodotti /",
+   "href": "/it/prodotti"
+  },
+  {
+   "label": "Tool management /",
+   "href": "/it/prodotti/tool-management"
+  },
+  {
+   "label": "Software /",
+   "href": "/it/software"
+  },
+  {
+   "label": "Add-on »z.Resources«",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/it/home-page"
+  },
+  {
+   "label": "Prodotti /",
+   "href": "/it/prodotti"
+  },
+  {
+   "label": "Tool management /",
+   "href": "/it/prodotti/tool-management"
+  },
+  {
+   "label": "Software /",
+   "href": "/it/software"
+  },
+  {
+   "label": "Add-on »z.Resources«",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/software/add-on-zresources",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/software/add-on-zresources",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/software/add-on-zresources",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/software/add-on-zresources",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/software/add-on-zresources",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/software/add-on-zresources",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/software/add-on-zresources",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/software/add-on-zresources",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/software/add-on-zresources",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/software/add-on-zresources",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/software/add-on-zresources",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/software/add-on-zresources",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/software/add-on-zresources",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/software/add-on-zresources",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/software/add-on-zresources",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "Software",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/it/software",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "»TMS Core«",
+     "href": "/it/software/tms-core",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Stock«",
+     "href": "/it/software/add-on-zstock",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.CAM Integration«",
+     "href": "/it/software/add-on-zcam-integration",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Resources«",
+     "href": "/it/software/add-on-zresources",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Shopfloor«",
+     "href": "/it/software/add-on-zshopfloor",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Connectivity«",
+     "href": "/it/software/add-on-zconnectivity",
+     "current": false
+    },
+    {
+     "label": "Add-on »z.Integration«",
+     "href": "/it/software/add-on-zintegration",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c164326",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Capacità centrali </h3> <h1> Add-on »z.Resources« </h1>",
+   "body": "<p>ZOLLER TMS, con il <strong>modulo</strong> <strong>aggiuntivo »z.Resources,«</strong> gestisce tutte le risorse operative aggiuntive: tutte le risorse operative rilevanti sono associate direttamente al componente e compaiono automaticamente nel foglio di configurazione – oltre agli strumenti di controllo, ai dispositivi e, opzionalmente, alla gestione dei programmi NC. La gestione opzionale dei programmi NC consente l’archiviazione centralizzata, correlata al componente e alla macchina, nonché il controllo delle versioni dei programmi NC, in modo che il programma corretto nella versione aggiornata sia sempre disponibile.</p> <p><a class=\"btn\" href=\"/it/azienda/contatto\">Richiedi ora</a> <a href=\"https://myzoller.com/de/de/expert/booking/\" rel=\"noopener\" target=\"_blank\">un colloquio con un esperto 1:1</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/9/csm_zResources_product_64dda2209d.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 852
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c164375",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Un sistema centralizzato per tutte le risorse operative ",
+    "Tracciabilità completa di ogni intervento ",
+    "Raggruppamento diretto di tutte le risorse operative nel foglio di configurazione"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c164380",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "table",
+   "header": "<h2> Add-on »z.Resources« </h2>",
+   "table": "<table> <tbody> <tr> <td> </td> <td class=\"text-center\"> Browser web </td> <td class=\"text-center\"> Desktop </td> </tr> <tr> <td> Dispositivi </td> <td class=\"text-center\"> ● </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Strumenti di verifica </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Componenti </td> <td class=\"text-center\"> ● </td> <td class=\"text-center\"> ● </td> </tr> <tr> <td> Interprete NC </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ⦿ </td> </tr> <tr> <td> Gestione programmi NC </td> <td class=\"text-center\"> ― </td> <td class=\"text-center\"> ⦿ </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c164385",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p>● Base ⦿ opzionale ― non disponibile </p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "text",
+   "id": "c164424",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "none"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/e/csm_TMS_Vorrichtungsverwaltung_24168c9a26.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>Gestione delle apparecchiature con intervalli di taratura documentati</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/d/c/csm_TMS_Pruefmittelverwaltung_32e31ed320.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>Gestione dei mezzi di controllo del foglio di configurazione e monitoraggio degli intervalli di taratura</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/c/csm_TMS_Teileverwaltung_c64f2f5374.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>Gestione di componenti singoli e moduli con fogli di configurazione, utensili e tempi di produzione</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_TMS_NC-Programmverwaltung_6190c9d218.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "caption": "<figcaption> <p>Gestione dei programmi NC, compresa la gestione delle versioni e la trasmissione dati bidirezionale da e verso la macchina</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164390",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> Add-on »z.Resources« </h3> <h2> Continuità </h2>",
+   "body": "<p class=\"large-text\">L'add-on garantisce che, durante la configurazione, tutte le risorse necessarie siano immediatamente disponibili, senza cercare, richiedere chiarimenti o ritardi.</p> <p class=\"large-text\">Si escludono esclusivamente mezzi di produzione errati, programmi obsoleti o risorse mancanti.</p> <p class=\"large-text\">Con questo add-on, ogni impiego di risorse è documentato in modo completo e tracciabile.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/5/csm_zResources_benefit_IT_d5b9568a5b.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 1200
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c164395",
+   "bg": "image",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/0/csm_zResources_Feature_01_a0a8c19750.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "title": "Accesso diretto",
+     "caption": "<figcaption> <h3>Accesso diretto</h3> <p>Accesso diretto durante l'esecuzione del processo</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/6/csm_zResources_Feature_02_637de1b463.webp",
+     "alt": "",
+     "w": 955,
+     "h": 513,
+     "title": "Organizzato a livello centrale",
+     "caption": "<figcaption> <h3>Organizzato a livello centrale</h3> <p>Attrezzi, strumenti di verifica e dispositivi organizzati a livello centrale</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164400",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Panoramica dell'hardware opzionale ZOLLER per il componente aggiuntivo »z.Resources« </h2>",
+   "items": [
+    {
+     "href": "/it/prodotti/tool-management/magazzino-utensili/toolorganizer",
+     "title": "»toolOrganizer«",
+     "text": "<p>Per utensili da taglio e minuteria</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/b/2/csm_toolOrganizer_preview_018ce796c6.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/it/prodotti/tool-management/magazzino-utensili/autolock",
+     "title": "»autoLock«",
+     "text": "<p>Per strumenti di verifica, sostanze di lavoro e componenti di grandi dimensioni</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/2/7/csm_autolock__preview_a71350a53a.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "",
+     "title": "»highTower«",
+     "text": "<p>»highTower« garantisce uno stoccaggio strutturato degli utensili e processi efficaci</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/0/csm_Teaser_hightower_preview_177dbd110e.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "",
+     "title": "»idLabel«",
+     "text": "<p>Tutti i dati rilevanti relativi agli utensili a colpo d’occhio con »idLabel«</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/a/6/csm_Teaser_idlabel_preview_ab0ad5993e.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c164404",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "large"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/9/csm_TMS_teaser_46de18cb11.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Tool management: i vostri vantaggi",
+     "href": "/it/solutions/tool-management",
+     "caption": "<figcaption> <h3>Tool management: i vostri vantaggi</h3> <p>Scoprite come il Tool management di ZOLLER aumenta immediatamente la vostra produttività. Grazie ai dati utensile, i processi procedono in modo più rapido e sicuro, con protezione antiurto inclusa per le vostre macchine. </p> <br/> Scopri di più </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Colloquio con esperti",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Colloquio con esperti</h3> <p>Un colloquio personalizzato sui vostri obiettivi e sulle nostre idee per raggiungerli. La consulenza online di ZOLLER direttamente dalla Smart Factory. Fissate subito un appuntamento. </p> <br/> Scopri di più </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c164343",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/it/software/add-on-zresources",
+ "de_path": "/produkte/toolmanagement/software/add-on-zresources"
+}

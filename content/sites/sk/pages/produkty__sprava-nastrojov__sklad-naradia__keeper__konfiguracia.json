@@ -1,0 +1,469 @@
+{
+ "path": "/produkty/sprava-nastrojov/sklad-naradia/keeper/konfiguracia",
+ "url": "/sk/produkty/sprava-nastrojov/sklad-naradia/keeper/konfiguracia",
+ "title": "»keeper« – konfigurácia",
+ "description": "Konfigurácia - »keeper« – konfigurácia",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/sk/domovska-stranka"
+  },
+  {
+   "label": "Produkty /",
+   "href": "/sk/produkty"
+  },
+  {
+   "label": "Správa nástrojov /",
+   "href": "/sk/produkty/sprava-nastrojov"
+  },
+  {
+   "label": "Sklad náradia /",
+   "href": "/sk/produkty/sprava-nastrojov/sklad-naradia"
+  },
+  {
+   "label": "»keeper« /",
+   "href": "/sk/produkty/sprava-nastrojov/sklad-naradia/keeper"
+  },
+  {
+   "label": "Konfigurácia",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/sk/domovska-stranka"
+  },
+  {
+   "label": "Produkty /",
+   "href": "/sk/produkty"
+  },
+  {
+   "label": "Správa nástrojov /",
+   "href": "/sk/produkty/sprava-nastrojov"
+  },
+  {
+   "label": "Sklad náradia /",
+   "href": "/sk/produkty/sprava-nastrojov/sklad-naradia"
+  },
+  {
+   "label": "»keeper« /",
+   "href": "/sk/produkty/sprava-nastrojov/sklad-naradia/keeper"
+  },
+  {
+   "label": "Konfigurácia",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/produkte/toolmanagement/werkzeuglager/keeper/konfiguration",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/products/tool-management/tool-storage/keeper/configuration",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/productos/gestion-de-herramientas/almacen-de-herramientas/portero/configuracion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/produits/gestion-des-outils/magasin-doutils/keeper/configuration",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/produtos/gestao-de-ferramentas/armazem-de-ferramentas/keeper/configuracao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/prodotti/tool-management/magazzino-utensili/keeper/configurazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/produkter/verktygshantering/verktygslager/maalvakt/konfiguration",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/produkte/toolmanagement/werkzeuglager/keeper/konfiguration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/products/tool-management/tool-storage/keeper/configuration",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/produits/gestion-des-outils/magasin-doutillage/gardien/configuration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%80%89%E5%BA%AB/keeper/%E8%A8%AD%E5%AE%9A",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/keeper/%EA%B5%AC%EC%84%B1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/products/tool-management/tool-storage/keeper/configuration",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/productos/gestion-de-herramientas/almacen-de-herramientas/keeper/configuracion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/produtos/gestao-de-ferramentas/armazem-de-ferramentas/keeper/configuracao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "subnav",
+   "title": "»keeper«",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "/sk/produkty/sprava-nastrojov/sklad-naradia/keeper",
+     "title": true,
+     "current": false
+    },
+    {
+     "label": "Konfigurácia",
+     "href": "/sk/produkty/sprava-nastrojov/sklad-naradia/keeper/konfiguracia",
+     "current": false
+    },
+    {
+     "label": "Softvér a integrácia",
+     "href": "/sk/produkty/sprava-nastrojov/sklad-naradia/keeper/softver-a-integracia",
+     "current": false
+    },
+    {
+     "label": "Často kladené otázky",
+     "href": "/sk/produkty/sprava-nastrojov/sklad-naradia/keeper/casto-kladene-otazky",
+     "current": false
+    },
+    {
+     "label": "Informačný portál",
+     "href": "/sk/produkty/sprava-nastrojov/sklad-naradia/keeper/informacny-portal",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c3071",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h1> Všetko na prvý pohľad </h1>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3069",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p class=\"extra-large-text\">Pri inteligentných skriniach máte slovo vy: vyberte si z ponuky a kontaktujte náš predajný tím ZOLLER – radi vám poradíme a nakonfigurujeme model podľa vašich predstáv.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3068",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3070",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Veľkosť skrine </h2>",
+   "table": "<table> <tbody> <tr> <td> 3 výsuvy, V x Š x H: 2000 x 1000 x 1050 mm, hĺbka výsuvu 810 mm </td> </tr> <tr> <td> 5 výsuvov, V x Š x H: 2000 x 1000 x 1050 mm, hĺbka výsuvu 810 mm </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3067",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "extra-small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> užitočné zaťaženie </h2>",
+   "table": "<table> <tbody> <tr> <td> Max. hmotnosť 1000 kg na jeden vertikálny výsuv </td> </tr> </tbody></table>",
+   "ftype": "table",
+   "id": "c3065",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Vyhotovenie </h2>",
+   "table": "<table> <tbody> <tr> <td> Mechanické vyhotovenie, 3 alebo 5 výsuvov </td> </tr> <tr> <td> Elektronické vyhotovenie, 3 alebo 5 výsuvov </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3063",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Ovládanie </h2>",
+   "table": "<table> <tbody> <tr> <td> Bočne umiestnený panelový počítač </td> </tr> <tr> <td> Samostatná ovládacie jednotka »Cockpit« s riadiacim softvérom »quickPick« </td> </tr> <tr> <td> TMS Tool Management Solutions – pracovná stanica </td> </tr> <tr> <td> Nastavovacie a meracie zariadenia ZOLLER – s softvérovým modulom Smart Cabinets </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3064",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Rozdelenie </h2>",
+   "table": "<table> <tbody> <tr> <td> Štandardne 6 rámov na náradie na jednu výsuvnú lištu </td> </tr> </tbody></table>",
+   "ftype": "table",
+   "id": "c3072",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Nástavce na náradie – verzia SK </h2>",
+   "table": "<table> <tbody> <tr> <td> SK 30, veľkosť S, šírka 72 mm, max. 14 ks na rám </td> </tr> <tr> <td> SK 40, veľkosť S, šírka 72 mm, max. 14 ks na rám </td> </tr> <tr> <td> SK 50, veľkosť L, šírka 95 mm, max. 8 ks na rám </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3073",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Vložky nástrojov – verzia HSK </h2>",
+   "table": "<table> <tbody> <tr> <td> HSK 25, 32, veľkosť S, šírka 72 mm, max. 14 na rám </td> </tr> <tr> <td> HSK 40, veľkosť S, šírka 72 mm, max. 14 na rám </td> </tr> <tr> <td> HSK 50, veľkosť S, šírka 72 mm, max. 14 na rám </td> </tr> <tr> <td> HSK 63, veľkosť S alebo L, šírka 72 alebo 95 mm, max. 14 alebo 8 na rám; </td> </tr> <tr> <td> HSK 80, veľkosť L, šírka 95 mm, max. 8 na rám; </td> </tr> <tr> <td> HSK 100, veľkosť L, šírka 95 mm, max. 8 na rám </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3079",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Nástrojové vložky – verzia VDI </h2>",
+   "table": "<table> <tbody> <tr> <td> VDI 30, veľkosť S, šírka 72 mm, max. 14 na rám </td> </tr> <tr> <td> VDI 40, veľkosť S, šírka 72 mm, max. 14 na rám </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3076",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Nástavce na náradie – verzia PSC </h2>",
+   "table": "<table> <tbody> <tr> <td> PSC 40, veľkosť S, šírka 72 mm, max. 14 ks na rám </td> </tr> <tr> <td> PSC 50, veľkosť S, šírka 72 mm, max. 14 ks na rám </td> </tr> <tr> <td> PSC 63, veľkosť S, šírka 72 mm, max. 14 ks na rám </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3074",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Nástrojové vložky – verzia polotovaru </h2>",
+   "table": "<table> <tbody> <tr> <td> B58, šírka 58 mm, max. 8 na rám </td> </tr> <tr> <td> B75, šírka 75 mm, max. 8 na rám </td> </tr> <tr> <td> B120, šírka 120 mm, max. 8 na rám </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3077",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Nástavce na náradie – verzia s upínacím držiakom </h2>",
+   "table": "<table> <tbody> <tr> <td> D 78 VSH veľkosť 1, šírka 95 mm, max. 8 ks na rám </td> </tr> </tbody></table>",
+   "ftype": "table",
+   "id": "c3078",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "table",
+   "header": "<h2> Nástavce na náradie – verzia pre drevo </h2>",
+   "table": "<table> <tbody> <tr> <td> Drevená vložka/polotovar, šírka 328 mm, max. 2 ks na rám </td> </tr> <tr> <td> D 42 14 otvorov, šírka 328 mm, max. 2 ks na rám </td> </tr> </tbody> </table>",
+   "ftype": "table",
+   "id": "c3075",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Správa nástrojov: Vaše výhody",
+     "caption": "<figcaption> <h3>Správa nástrojov: Vaše výhody</h3> <p>Zistite, ako systém správy nástrojov od spoločnosti ZOLLER okamžite zvýši vašu produktivitu. Vďaka údajom o nástrojoch prebiehajú procesy rýchlejšie a bezpečnejšie – vrátane ochrany pred kolíziou pre vaše stroje. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Rozhovor s odborníkom",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Rozhovor s odborníkom</h3> <p>Individuálna diskusia o vašich cieľoch a našich nápadoch, ako ich dosiahnuť. Online poradenstvo spoločnosti ZOLLER priamo zo Smart Factory. Dohodnite si termín už teraz. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/sk/produkty/sprava-nastrojov/sklad-naradia/keeper/konfiguracia",
+ "de_path": "/produkte/toolmanagement/werkzeuglager/keeper/konfiguration"
+}

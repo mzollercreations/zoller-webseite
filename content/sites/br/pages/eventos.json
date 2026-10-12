@@ -1,0 +1,314 @@
+{
+ "path": "/eventos",
+ "url": "/br/eventos",
+ "title": "Eventos",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/br/pagina-inicial"
+  },
+  {
+   "label": "Eventos",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/br/pagina-inicial"
+  },
+  {
+   "label": "Eventos",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/events",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/events",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/eventos",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/evenements",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/eventos",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/eventi",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/evenemang",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/events",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/events",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/evenements",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%96%89%EC%82%AC",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/events",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/eventos",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/eventos",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/3/2/csm_zoller_live_header_514548cdf4.webp",
+     "video": null,
+     "title": "EVENTOS",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": true
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c3101",
+   "bg": "white",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p>Confira nosso calendário de eventos e feiras comerciais para networking, aprendizado e inovação.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8258",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "events",
+   "months": [
+    {
+     "label": "outubro 2026",
+     "events": [
+      {
+       "month": "out.",
+       "day": "6",
+       "weekday": "terça-feira",
+       "img": {
+        "src": "/fileadmin/_processed_/4/8/csm_bener_d035e83f92.webp",
+        "alt": "",
+        "w": 171,
+        "h": 46
+       },
+       "date": "06.10.2026 - 08.10.2026",
+       "place": "TECH CENTER BENER • VINHEDO • SP",
+       "title": "ENCONTRO TECNOLÓGICO BENER 2026",
+       "text": "<p>O Encontro Tecnológico Bener 2026 acontece entre<strong> 6 e 8 de outubro em Vinhedo</strong> (SP) e reúne mais de 80 empresas parceiras do segmento de usinagem, automação e manufatura. A 13ª edição do evento será um ponto de encontro para profissionais que buscam inovação, apresentando máquinas em operação, lançamentos de ferramentas, softwares, soluções em gestão e conectividade industrial.</p> <p>Além da exposição, o evento oferece mais de 30 horas de palestras e workshops com especialistas abordando produtividade, digitalização, manutenção inteligente, sustentabilidade e indústria 4.0. A programação inclui ainda happy hours diários para networking e troca de experiências, em um ambiente acessível e também transmitido ao vivo pelas redes sociais da Bener. A participação é gratuita.</p> <br/>",
+       "buttons": [
+        {
+         "label": "Saber mais",
+         "href": "https://encontrotecnologico.com.br/",
+         "share": false
+        },
+        {
+         "label": "Compartilhar evento",
+         "href": "mailto:?subject=Event%3A%20ENCONTRO%20TECNOL%C3%93GICO%20BENER%202026&body=ENCONTRO%20TECNOL%C3%93GICO%20BENER%202026%20%40%20TECH%20CENTER%20BENER%20%E2%80%A2%20VINHEDO%20%E2%80%A2%20SP%20-%20https%3A%2F%2Fwww.zoller.info%2Fbr%2Feventos",
+         "share": true
+        }
+       ]
+      },
+      {
+       "month": "out.",
+       "day": "20",
+       "weekday": "terça-feira",
+       "img": {
+        "src": "/fileadmin/_processed_/9/f/csm_71e1c0bf6e6588ff8c0eee03958a15fd_4c4f11243f.webp",
+        "alt": "",
+        "w": 171,
+        "h": 117
+       },
+       "date": "20.10.2026 - 23.10.2026",
+       "place": "Caxias do Sul, Rio Grande do Sul, Brazil",
+       "title": "MERCOPAR 2026",
+       "text": "<p>A MERCOPAR é a maior feira de Inovação Industrial da América Latina e acontece anualmente em Caxias do Sul, na região da Serra Gaúcha, organizada pelo Sebrae RS em parceria com o Sistema FIERGS.<br/>O desejo mútuo de transformar a indústria por meio da tecnologia conecta expositores qualificados a visitantes interessados. A feira estimula ideias e oferece soluções, criando o ambiente ideal para trocas relevantes.</p> <br/>",
+       "buttons": [
+        {
+         "label": "Saber mais",
+         "href": "https://mercopar.com.br/",
+         "share": false
+        },
+        {
+         "label": "Compartilhar evento",
+         "href": "mailto:?subject=Event%3A%20MERCOPAR%202026&body=MERCOPAR%202026%20%40%20Caxias%20do%20Sul%2C%20Rio%20Grande%20do%20Sul%2C%20Brazil%20-%20https%3A%2F%2Fwww.zoller.info%2Fbr%2Feventos",
+         "share": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "novembro 2026",
+     "events": [
+      {
+       "month": "nov.",
+       "day": "10",
+       "weekday": "terça-feira",
+       "img": {
+        "src": "/fileadmin/_processed_/a/7/csm_Captura_de_tela_2026-06-16_082857_cf1f868160.webp",
+        "alt": "",
+        "w": 171,
+        "h": 58
+       },
+       "date": "10.11.2026 - 12.11.2026",
+       "place": "INDEX do Brasil - Sorocaba/SP",
+       "title": "OPEN HOUSE INDEX Brasil 2026",
+       "text": "<p>O Open House INDEX Brasil 2026 acontece de 10 a 12 de novembro, em Sorocaba (SP), e reúne profissionais, parceiros e empresas do setor industrial em torno do conceito \"INDEX as a Lifecycle Partner\". O evento apresenta tecnologias, soluções e aplicações que apoiam todas as etapas do ciclo produtivo, da manufatura ao suporte técnico.</p> <p>Ao longo de três dias, os visitantes terão a oportunidade de conhecer inovações, acompanhar demonstrações de equipamentos e trocar experiências com especialistas da indústria. Com foco em produtividade, tecnologia e geração de negócios, o Open House se consolida como um importante ponto de encontro para profissionais que buscam atualização e novas oportunidades no mercado.</p> <br/>",
+       "buttons": [
+        {
+         "label": "Saber mais",
+         "href": "https://conteudo.brazil.index-group.com/openhouse",
+         "share": false
+        },
+        {
+         "label": "Compartilhar evento",
+         "href": "mailto:?subject=Event%3A%20OPEN%20HOUSE%20INDEX%20Brasil%202026&body=OPEN%20HOUSE%20INDEX%20Brasil%202026%20%40%20INDEX%20do%20Brasil%20-%20Sorocaba%2FSP%20-%20https%3A%2F%2Fwww.zoller.info%2Fbr%2Feventos",
+         "share": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>Converse com um especialista</h3> <p><a class=\"btn\" href=\"https://myzoller.com/int/en/expert/booking/\" rel=\"noopener\" target=\"_blank\">Agende uma conversa agora</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/br/eventos",
+ "de_path": "/events"
+}

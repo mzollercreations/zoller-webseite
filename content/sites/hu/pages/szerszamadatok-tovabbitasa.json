@@ -1,0 +1,282 @@
+{
+ "path": "/szerszamadatok-tovabbitasa",
+ "url": "/hu/szerszamadatok-tovabbitasa",
+ "title": "Szerszámadatok továbbítása",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Szerszámadatok továbbítása",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/hu/fooldal"
+  },
+  {
+   "label": "Szerszámadatok továbbítása",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/uebermittlung-werkzeugdaten",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/transfer-of-tool-data",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/transmision-de-datos-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/transmission-des-donnees-doutils",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/transmissao-de-dados-da-ferramenta",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/trasmissione-dei-dati-utensile",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/oeverfoering-av-verktygsdata",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/uebermittlung-werkzeugdaten",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/transmission-of-tool-data",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/transmission-des-donnees-doutils",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%84%E3%83%BC%E3%83%AB%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E9%80%81%E4%BF%A1",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%86%A1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/transmission-of-tool-data",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/transmision-de-datos-de-herramientas",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/transmissao-de-dados-da-ferramenta",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/e/a/csm_toolmanagement_intro_e7e8908938.webp",
+     "video": null,
+     "title": "Szerszámadatok továbbítása",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c7948",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Az adatátvitel biztonságos és bármikor nagy sebességgel történő biztosítása </h2>",
+   "body": "<p><strong>Az egyes gyártási elemek közötti adatcsere elengedhetetlen a mai ipari gyártásban. A ZOLLER szoftvermegoldásai révén a szerszámadatok folyamatbiztos, gyors átvitele bármikor garantált – gyártótól és platformtól teljesen függetlenül.</strong></p> <p>A szerszámadatok kezelése összetett feladat. Az összes rendszer és komponens zökkenőmentes együttműködése központi jelentőségű az „Ipar 4.0” szempontjából – és egyáltalán nem magától értetődő. Ugyanis gyakran fordul elő, hogy különböző gyártók rendszereit és gépeit használják, amelyek viszont különböző átviteli technikákkal működnek. Ilyen esetben a szerszámkezelés digitális támogatással is gyorsan kihívássá válik.</p> <p>Az olyan szabványok, mint például a DIN 4000 tulajdonságsor-struktúra, arra szolgálnak, hogy lehetővé tegyék a különböző komponensek közötti adatcserét; a DIN-szabványnak köszönhetően lehetősége van az egyes komponenseket a szabványnak megfelelően, és így cserélhető módon definiálni. Ez lehetővé teszi a különböző rendszerek közötti zökkenőmentes információcserét (például CAD/CAM- vagy NC-szimulációhoz).</p> <p>Az egységes és szabványosított adatbázis tehát az automatikus szerszámadat-import alapja, amely gyártóktól függetlenül is megbízhatóan működik. Ez nem csak azért fontos, mert így az átvitel során nem keletkeznek késések, amelyek viszont a gépek leállását és a gyártási folyamatok megszakítását eredményeznék, és egy művelet nem hajtható végre a tervek szerint.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7950",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Adatátvitel biztosítása gyártótól függetlenül eszközkezelő szoftver segítségével </h2>",
+   "body": "<p>Kifejezetten az előbeállító készülékről a gépre vagy gépekre történő adatátvitelhez manapság számos megbízható és gyors módszer áll rendelkezésre. A ZOLLER mérőműszer-szoftvere már ma is lehetővé teszi a szerszámadatok biztonságos átvitelét, gyártótól függetlenül.</p> <p>Legyen szó RFID-chipről, utómunkáló processzorról (DNC-rendszer: Distributed Numerical Control) vagy akár felettes gyártásirányító rendszerekről: szinte minden gyártási környezethez kínálunk megfelelő adatátviteli megoldást. Egy másik, nagyon hatékony változat a tényleges adatok titkosítása egy Datamatrix-kódban, amelyet a CNC-gép vezérlőjéhez csatlakoztatott leolvasóval lehet beolvasni.</p> <p>De ennél is jobb: a vezető gyártók szerszámadatai gyakran elérhetők a felhőben, és a ZOLLER TMS Tool Management Solutions szoftverével egyszerűen, egyetlen egérkattintással letölthetők.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/9/f/csm_toolmanagement_01_ac672b9feb.webp",
+     "alt": "",
+     "w": 1220,
+     "h": 1250
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c7951",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> A TMS Tool Management Solutions további funkciói </h2>",
+   "body": "<ul><li>Szerszámok, alkatrészek és beállítási adatlapok, kiegészítők, gépi adatok és egyéb elemek importálása és exportálása a különböző ZOLLER-termékek között</li><li>Platform- és gyártófüggetlen szerszámadatok importálása és exportálása (szükség esetén beolvasási szűrők vagy utómunkáló programok segítségével)</li><li>Mobil hozzáférés az összes szerszámadathoz és szerszámlistához</li><li>Szerszámadatok kezelése grafikákkal, darab- és tartozéklistákkal, valamint tulajdonságsávval</li><li>Kódolvasó a valós szerszámok azonosításához és adatainak megjelenítéséhez</li></ul><h4><strong>Előnyök:</strong></h4><ul><li>Opcionális kapcsolódás külső rendszerekhez</li><li>Folyamatbiztonság a hibák elkerülésével</li><li>Egyszerű és gyors kezelés az egyszerű struktúráknak köszönhetően</li></ul><p>Itt mindent megtudhat a ZOLLER TMS szerszámkezelési megoldásokról</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c7952",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Eszközkezelés: az Ön előnyei",
+     "caption": "<figcaption> <h3>Eszközkezelés: az Ön előnyei</h3> <p>Tudja meg, hogyan növeli a ZOLLER szerszámkezelési rendszere azonnal a termelékenységét! A szerszámadatoknak köszönhetően a folyamatok gyorsabban és biztonságosabban zajlanak – beleértve a gépei ütközésvédelmét is. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 szakértői beszélgetés",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 szakértői beszélgetés</h3> <p>Személyre szabott megbeszélés az Ön céljairól és az azok eléréséhez kapcsolódó ötleteinkről. A ZOLLER online tanácsadása közvetlenül a Smart Factory-ból. Foglaljon időpontot most! </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3845",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/hu/szerszamadatok-tovabbitasa",
+ "de_path": "/uebermittlung-werkzeugdaten"
+}

@@ -1,0 +1,493 @@
+{
+ "path": "/reseni/automatizace",
+ "url": "/cz/reseni/automatizace",
+ "title": "Automatizace",
+ "description": "Automatizace",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Řešení /",
+   "href": "/cz/reseni"
+  },
+  {
+   "label": "Automatizace",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/cz/uvodni-stranka"
+  },
+  {
+   "label": "Řešení /",
+   "href": "/cz/reseni"
+  },
+  {
+   "label": "Automatizace",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/solutions/automation",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/solutions/automation",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/solutions/automatizacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/solutions/automatisation",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/solutions/automacao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/solutions/automazione",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/loesningar/automatisering",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/solutions/automation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/solutions/automation",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/solutions/automatisation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E8%87%AA%E5%8B%95%E5%8C%96",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%86%94%EB%A3%A8%EC%85%98/%EC%9E%90%EB%8F%99%ED%99%94",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/solutions/automation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/solutions/automatizacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/solutions/automacao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/01_Pages/Solutions/Automation/zoller_automation_komp.mp4",
+     "title": "Automatizace",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c2805",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "subnav",
+   "title": "Automatizace",
+   "items": [
+    {
+     "label": "Übersicht",
+     "href": "",
+     "title": true,
+     "current": true
+    },
+    {
+     "label": "Transport nástrojů",
+     "href": "/cz/reseni/automatizace/logistika",
+     "current": false
+    },
+    {
+     "label": "Příprava nástrojů",
+     "href": "/cz/reseni/automatizace/priprava-nastroju",
+     "current": false
+    },
+    {
+     "label": "Zajištění nástrojů",
+     "href": "/cz/reseni/automatizace/zajisteni-nastroju",
+     "current": false
+    },
+    {
+     "label": "Kontrola nástrojů",
+     "href": "/cz/reseni/automatizace/kontrola-nastroju",
+     "current": false
+    }
+   ],
+   "ftype": "menu_subpages",
+   "id": "c2273",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<h3>Řešení ZOLLER Automation Solutions dělají některé věci jinak a mnohé lépe. Posouvají efektivitu procesů obrábění na nejvyšší úroveň.</h3>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2271",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "<p><strong>Řešení ZOLLER Automation Solutions automatizují všechny procesy související s nástroji. Od asistenčního robota u měřicího a seřizovacího přístroje přes nové portálové řešení »coraMeasure LG« až po kompletní automatizaci výrobní haly včetně nakládání strojů – se společností ZOLLER je možné vše. Vybudujte si nyní krok za krokem svou inteligentní továrnu.</strong></p> <p>Automatizace zvyšuje ekonomickou efektivitu. Odlehčuje odbornému personálu při montáži nástrojů nebo při jejich přepravě k CNC stroji. Snižuje náklady, zajišťuje dostupnost nástrojů a zvyšuje produktivitu. </p> <p>S řešením ZOLLER Automation Solutions automatizujete flexibilně. Všechna řešení na sebe navazují a zohledňuje se celá úroveň výroby se všemi CNC stroji. </p> <p><a class=\"btn\" href=\"/cz/produkty/automatizace\">Zobrazit produkty</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c2270",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c2272",
+   "bg": "",
+   "space": {
+    "before": "extra-small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "quotes",
+   "header": "",
+   "slides": [
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/8/5/csm_toolBalancer_Alexander_Zoller2_7bc76f629f.webp",
+      "alt": ""
+     },
+     "text": "<p class=\"extra-large-text\">Je nejvyšší čas modernizovat způsob přípravy nástrojů ve výrobních procesech. Modulární koncept automatizace společnosti ZOLLER otevírá každé výrobě cestu ke Smart Factory. </p> <p><strong>Alexander Zoller, jednatel</strong></p>",
+     "right": true,
+     "quote": true,
+     "dark": true
+    },
+    {
+     "img": {
+      "src": "/fileadmin/_processed_/2/7/csm_toolBalancer_Christoph_Zoller2_490ea1f2a5.webp",
+      "alt": ""
+     },
+     "text": "<p class=\"extra-large-text\">Řešení ZOLLER Automation Solutions jsou dalším logickým krokem pro Vaši firmu. Zvyšte efektivitu své výroby díky inovativním technologiím.</p> <p><strong>Christoph Zoller, jednatel</strong></p>",
+     "right": false,
+     "quote": true,
+     "dark": true
+    }
+   ],
+   "ftype": "zoller_slider-full-width",
+   "id": "c2269",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "none"
+   }
+  },
+  {
+   "type": "highlight",
+   "items": [
+    "Pro Vaši efektivní výrobu ",
+    "Pro maximální produktivitu strojů ",
+    "Pro spolehlivou dostupnost nástrojů 24 hodin denně, 7 dní v týdnu"
+   ],
+   "header": "",
+   "ftype": "zoller_highlight",
+   "id": "c2268",
+   "bg": "",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Náskok díky vyšší hospodárnosti </h2>",
+   "body": "<p><strong>Produktivita mnoha výrobních firem klesá, protože velmi dobře vyškolení zaměstnanci musí vykonávat rutinní úkoly. Pokud automatizujete montáž, kompletaci a přepravu nástrojů pomocí řešení ZOLLER Automation Solutions, snížíte tuto nákladnou časovou zátěž.</strong></p> <p>Využijte čas svých odborných pracovníků optimálně. Zapojte své odborníky produktivně tím, že jejich znalosti a zkušenosti uplatníte tam, kde jsou nepostradatelné. Produktivita a zisk Vaší výroby porostou.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/1/csm_kosteneffizienz_einzel_en_01_a17aa14a5e.webp",
+     "alt": "",
+     "w": 1097,
+     "h": 1097
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c2267",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Automatizace pomocí nástrojových dat </h2>",
+   "body": "<p>Naše promyšlená Správa nástrojů s mnoha rozhraními a funkcemi výrazně usnadňuje automatizaci řízenou daty. Díky perfektně uspořádaným údajům o nástrojích v databázi ZOLLER z.One a softwaru ZOLLER webTMS můžete plánovat a spravovat automatizované procesy ve Vaší výrobě z počítače i z mobilního zařízení.</p> <p>Zjistěte více</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/c/6/csm_software_automation_en_7ad0d9045a.webp",
+     "alt": "",
+     "w": 1454,
+     "h": 1454
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c2266",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "products",
+   "header": "<h2> Řešení automatizace </h2>",
+   "items": [
+    {
+     "href": "/cz/produkty/automatizace/logistika-nastroju/coralogistic",
+     "title": "»coraLogistic«",
+     "text": "<p>Pro přepravu mezi skladem nástrojů, přípravou nástrojů a CNC strojem</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/c/0/csm_coraLogistics_preview_8cd4f5bccb.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/cz/produkty/automatizace/priprava-nastroju/corameasure-lg",
+     "title": "»coraMeasure LG«",
+     "text": "<p>Ekonomická manipulace s nástroji pro ZOLLER »venturion«</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/8/a/csm_corameasureLG_preview_396e5fa239.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/cz/produkty/automatizace/zajisteni-nastroju/loadbox",
+     "title": "»loadBox«",
+     "text": "<p>Vybírá nářadí podle objednávek a připravuje je pro logistiku</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/5/3/csm_loadBox_preview_c2695dfc22.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/cz/produkty/automatizace/priprava-nastroju/robobox",
+     "title": "»roboBox«",
+     "text": "<p>Až šest modulů pro běžné úkony, jako je montáž, čištění, měření, smršťování a další</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/7/a/csm_roboBox_preview_f71dd04107.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/cz/produkty/automatizace/logistika-nastroju/coramachineload",
+     "title": "»coraMachineLoad«",
+     "text": "<p>Přesná a včasná manipulace s nástroji mezi logistikou a zásobníkem strojů</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/e/e/csm_coraMaschineLoad_preview_7ffc6574e3.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    },
+    {
+     "href": "/cz/produkty/automatizace/priprava-nastroju/micbox",
+     "title": "»micBox«",
+     "text": "<p>Zajišťuje otáčení, obracení a výměnu otočných břitových destiček</p>",
+     "img": {
+      "src": "/fileadmin/_processed_/6/a/csm_micbox_preview_ff03cd31af.webp",
+      "alt": "",
+      "w": 1080,
+      "h": 858
+     }
+    }
+   ],
+   "ftype": "menu_pages",
+   "id": "c2265",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_zoller_system_teaser_a6e5d69871.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "Začněte s řešením ZOLLER – vstupte do systému.",
+     "href": "/cz/system",
+     "caption": "<figcaption> <h3>Začněte s řešením ZOLLER – vstupte do systému.</h3> <p>Naši zákazníci těží z komplexních řešení, která prosazujeme již po desetiletí. Výsledek: vynikající efektivita. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Individuální konzultace s odborníky",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>Individuální konzultace s odborníky</h3> <p>Individuální rozhovor o Vašich cílech a našich nápadech, jak jich dosáhnout. Online poradenství společnosti ZOLLER přímo ze Smart Factory. Domluvte si termín ještě dnes. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/cz/reseni/automatizace",
+ "de_path": "/solutions/automation"
+}

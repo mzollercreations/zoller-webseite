@@ -1,0 +1,498 @@
+{
+ "path": "/startseite",
+ "url": "/pl/strona-glowna",
+ "title": "Zacznij od rozwiązania – wprowadź system.",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/startseite",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/home",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/pagina-de-inicio",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/page-daccueil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/pagina-inicial",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/home-page",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/startsida",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/startseite",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/home-page",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/page-daccueil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%ED%99%88",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/homepage",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/pagina-de-inicio",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/pagina-inicial",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "",
+     "video": "/fileadmin/01_Pages/Startingpage/zollerinfo_header_animation_780.mp4",
+     "title": "Systemowo ku maksymalnemu wynikowi",
+     "kicker": "",
+     "text": "<p>Zwiększ wydajność procesów obróbki przy użyciu narzędzi<br/>dzięki rozwiązaniom lidera technologicznego: firmy ZOLLER. </p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c2274",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> ZOLLER »wearCheck« </h3> <h2> Pomiar zużycia narzędzia z analizą opartą na sztucznej inteligencji </h2>",
+   "body": "<p>Firma ZOLLER oferuje niezawodną funkcję opartą na sztucznej inteligencji, służącą do oceny trwałości narzędzia. Celem jest wydajne wykorzystanie narzędzi aż do technicznie uzasadnionej granicy zużycia – przy wsparciu systemowej oceny prawdziwych danych dotyczących narzędzi. </p> <p>Na tej podstawie można podejmować jasne decyzje dotyczące dalszego użytkowania. Pozwala to unikać nieplanowanych przestojów maszyn spowodowanych awarią narzędzi.</p> <p><a class=\"btn\" href=\"/fileadmin/03_Media_Press/Downloads/Automation/ZOLLER_Flyer_KI_wearCheck_FLWEARCHECK_00_DE_02.pdf\" rel=\"noopener\" target=\"_blank\">Dowiedz się więcej o »wearCheck«</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/3/csm_teaser_wearCheck_6ef55a1f36.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 1080
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c99110",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Najnowocześniejsza technologia dla każdej gałęzi produkcji </h2>",
+   "body": "<p class=\"extra-large-text\"><br/>Rozwiązania firmy ZOLLER zapewniają znaczną poprawę wydajności procesów obróbki narzędzi. Dzięki temu każda inwestycja szybko się zwraca. Już w przypadku jednej maszyny CNC rozwiązania firmy ZOLLER pozwalają skrócić czas obróbki, obniżyć koszty i zmniejszyć liczbę przestojów maszyn.</p> <p class=\"extra-large-text\"><br/>W firmie ZOLLER „Premium” to obietnica, a nie przywilej.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/5/2/csm_az_cz_30f31cdd7e.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c539",
+   "bg": "yellow",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "kpis",
+   "title": "Sukcesy klientów dzięki firmie ZOLLER",
+   "subtitle": "Wyższe zyski, więcej zleceń, mniejsze nakłady czasowe, niższe koszty produkcji – firma ZOLLER zwiększa wydajność swoich klientów na całym świecie.",
+   "items": [
+    {
+     "label": "Przygotowanie do Highspeed",
+     "value": "30 %",
+     "text": "<p>Dzięki urządzeniu ZOLLER »hyperion« firma SycoTec skraca czas przezbrajania o tę wartość. Na tym poziomym urządzeniu do ustawiania i pomiaru mierzone są narzędzia tokarskie oraz wieloelementowe uchwyty tokarskie. Dzięki temu firma SycoTec produkuje mikrosilniki o dużej prędkości obrotowej. </p> <p><a class=\"btn\" href=\"/pl/przedsiebiorstwa/raporty-i-artykuly/szczegoly?tx_news_pi1%5Bnews%5D=116&amp;cHash=af4114be70126277ca6ed6d8f381beca\">Historia sukcesu</a></p>"
+    },
+    {
+     "label": "Mniejsze nakłady na personel",
+     "value": "83 %",
+     "text": "<p>O tyle można potencjalnie zmniejszyć nakłady kadrowe związane z kontrolą narzędzi w trybie trzyzmianowym, korzystając z rozwiązania automatyzacyjnego »roboSet 2«. </p> <p><a class=\"btn\" href=\"/pl/produkty/automatyzacja/kontrola-narzedzi/roboset-2\">Więcej informacji o »roboSet 2«</a></p>"
+    },
+    {
+     "label": "Szybka amortyzacja",
+     "value": "9 miesięcy",
+     "text": "<p>Tyle średnio trwa, zanim urządzenie do ustawiania i pomiaru »smile« się zwróci. Założenie: produkcja w systemie jednoszybowym na jednej maszynie CNC. W przypadku dwóch maszyn czas ten zmniejsza się o połowę. </p> <p><a class=\"btn\" href=\"/pl/produkty/ustawianie-i-pomiary/urzadzenia-pionowe/smile\">Więcej o »smile«</a></p>"
+    },
+    {
+     "label": "Znaczny wzrost obrotów",
+     "value": "1 mln $",
+     "text": "<p>Rodzinna firma ProCam z Michigan w USA zwiększyła obroty o 1 mln USD w ciągu dwóch lat od zakupu maszyny »smile 420«. Dzięki skróceniu czasu przezbrajania i zmniejszeniu przestojów maszyn firma ProCam mogła zrealizować więcej zleceń.</p> <p><a class=\"btn\" href=\"/pl/panstwa-sukces/szczegoly?tx_news_pi1%5Bnews%5D=37&amp;cHash=992d0db4f33082f4543da88c75286a33\">Historia sukcesu</a></p>"
+    }
+   ],
+   "ftype": "zoller_content-scroller",
+   "id": "c537",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_strip",
+   "icon": {
+    "src": "/fileadmin/_processed_/0/0/csm_calculator_8806cc3f97.webp",
+    "alt": "",
+    "w": 50,
+    "h": 65
+   },
+   "text": "<p class=\"bold\">Wzrost wydajności dzięki urządzeniom do regulacji i pomiaru firmy ZOLLER</p> <p>Kalkulator opłacalności firmy ZOLLER oblicza potencjał oszczędności w Państwa przedsiębiorstwie.</p>",
+   "button": "<a class=\"btn\" href=\"/pl/kalkulator-rentownosci\">Oblicz teraz potencjał oszczędności</a>",
+   "ftype": "zoller_icon-button",
+   "id": "c4326",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Większa wydajność podczas frezowania, toczenia i szlifowania </h2>",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/2/csm_teaser_milling_6f80026943.webp",
+     "alt": "",
+     "w": 633,
+     "h": 377,
+     "title": "Milling",
+     "href": "/pl/frezowanie",
+     "caption": "<figcaption> <h3>Milling</h3> <p>Access precise tool presetting and measuring with the best balancing technology on the market — including tool heat shrinking, unshrinking, and every interface you'll need for a seamless CAM-to-part process. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/1/5/csm_teaser_turning_a68c271858.webp",
+     "alt": "tool turning process",
+     "w": 633,
+     "h": 377,
+     "title": "Turning",
+     "href": "/pl/obracanie",
+     "caption": "<figcaption> <h3>Turning</h3> <p>Unlock success with special measuring technology for turning tools, tool management, and data handling.</p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/f/csm_teaser_grinding_7de917acd6.webp",
+     "alt": "",
+     "w": 633,
+     "h": 377,
+     "title": "Grinding",
+     "href": "/pl/ostrzenie-narzedzi",
+     "caption": "<figcaption> <h3>Grinding</h3> <p>Achieve documented quality with machines that interface with CAD design. Use control-compatible data for your CNC grinding machine, simulate measuring runs, and process-related inspection and documentation.</p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c540",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> „Automatyzacja jest niezbędna, aby móc działać w sposób konkurencyjny na arenie międzynarodowej.” </h3>",
+   "body": "<p class=\"large-text\">Michael Mauth, dyrektor firmy Mauth Werkzeug-Schleiftechnik w Oberndorfie</p> <p><a class=\"btn\" href=\"/pl/panstwa-sukces/szczegoly?tx_news_pi1%5Bnews%5D=109&amp;cHash=edd71d398b779dcca094c57186138635\"> Przejdź do relacji użytkownika</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/3/csm_teaser_roboSet2_8f949c1d6b.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034,
+     "href": "/pl/panstwa-sukces/szczegoly?tx_news_pi1%5Bnews%5D=109&cHash=edd71d398b779dcca094c57186138635"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c4109",
+   "bg": "white",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> „Cyfryzacja z wykorzystaniem oprogramowania firmy ZOLLER w decydujący sposób przyczyniła się do znacznego zwiększenia rentowności produkcji”. </h2>",
+   "body": "<p class=\"large-text\">Frank Schaefer, inż., członek zarządu firmy LIDU Maschinenbau Lienenbrügger GmbH w Dülmen</p> <p><a class=\"btn\" href=\"/pl/panstwa-sukces/szczegoly?tx_news_pi1%5Bnews%5D=112&amp;cHash=5bd9e00bf990db26ead5dc36b56cb9be\">Przejdź do relacji użytkownika</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/1/csm_teaser_zoller_002_647c6fcfb2.webp",
+     "alt": "two men talking",
+     "w": 1155,
+     "h": 1034,
+     "href": "/pl/panstwa-sukces/szczegoly?tx_news_pi1%5Bnews%5D=112&cHash=5bd9e00bf990db26ead5dc36b56cb9be"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c536",
+   "bg": "",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> Poznaj system ZOLLER na żywo </h2>",
+   "body": "<p>W ZOLLER Smart Factory w Pleidelsheim prezentujemy system ZOLLER wraz ze wszystkimi rozwiązaniami, aż po pełną Automatykę hali produkcyjnej. Przekonajcie się Państwo o wysokiej wydajności spójnych procesów od CAM do gotowej części oraz o zaletach stałej dostępności danych narzędzia. </p> <p>Dowiedz się już teraz, jak umówić się na wizytę lub indywidualną rozmowę z ekspertem.</p> <p><a class=\"btn\" href=\"/pl/przedsiebiorstwa/kontakt/inteligentna-fabryka\">Do Smart Factory</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/9/csm_smartfactory_teaser_4b2372736c.webp",
+     "alt": "",
+     "w": 1400,
+     "h": 1400
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c59554",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> <a href=\"/pl/strona-glowna\">Wyważanie narzędzi na najwyższym poziomie</a> </h2>",
+   "body": "<p>»Urządzenie toolBalancer« firmy ZOLLER stanowi światowy szczyt technologii w dziedzinie wyważania narzędzi. Pozwala ono osiągać wyniki wyważania poniżej 0,4 gmm, zapewniając jednocześnie wysoką ergonomię i prostotę obsługi. Wszystkie »urządzenia toolBalancer« posiadają certyfikaty TÜV oraz UL/CSA.</p> <p><a class=\"btn\" href=\"/pl/produkty/technika-wywazania/toolbalancer\">Więcej informacji o »toolBalancer«</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/a/csm_teaser_toolbalancer_e584d45648.webp",
+     "alt": "",
+     "w": 1155,
+     "h": 1034,
+     "href": "/pl/produkty/technika-wywazania/toolbalancer"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c750",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  },
+  {
+   "type": "newslist",
+   "header": "<h3> Najnowsze wiadomości </h3>",
+   "articles": [
+    {
+     "href": "/pl/panstwa-sukces/szczegoly/fuenf-irrtuemer-zur-digitalisierung",
+     "img": {
+      "src": "/fileadmin/_processed_/0/7/csm_fuenf_irrtuermer_teaserimg_f37f1b5058.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Komunikat prasowy"
+     ],
+     "title": "Pięć błędnych przekonań dotyczących cyfryzacji",
+     "teaser": "Szczególnie małe przedsiębiorstwa wahają się przed cyfryzacją produkcji, tracąc w ten sposób korzyści wynikające z większej wydajności. Często przyczyną są uprzedzenia. Najwyższy czas rozwiać te błędne przekonania i wskazać odpowiednie rozwiązania dla małych i średnich zakładów produkcyjnych.",
+     "date": ""
+    },
+    {
+     "href": "/pl/panstwa-sukces/szczegoly/jak-poradzic-sobie-z-gwaltownym-wzrostem-cen-wolframu",
+     "img": {
+      "src": "/fileadmin/_processed_/c/1/csm_wolfram_teaserimg_16c264143f.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Komunikat prasowy",
+      "Zarządzanie narzędziami"
+     ],
+     "title": "Jak poradzić sobie z gwałtownym wzrostem cen wolframu",
+     "teaser": "Na radę z ekstremalnym wzrostem cen narzędzi z węglików spiekanych można sobie poradzić dzięki dwóm strategiom: większej efektywności w wykorzystaniu narzędzi oraz najwyższej precyzji podczas procesów ponownego ostrzenia.",
+     "date": ""
+    },
+    {
+     "href": "/pl/panstwa-sukces/szczegoly/80-jahre-zoller-blick-nach-vorne",
+     "img": {
+      "src": "/fileadmin/_processed_/d/d/csm_interview_emo_x-technik_teaserimg_1bca8d87d2.webp",
+      "alt": "",
+      "w": 680,
+      "h": 406
+     },
+     "tags": [
+      "Komunikat prasowy",
+      "Event"
+     ],
+     "title": "80 lat firmy ZOLLER – spojrzenie w przyszłość",
+     "teaser": "W ramach targów EMO 2025 Christoph Zoller rozmawiał z inż. Robertem Fraunbergerem, redaktorem naczelnym czasopisma branżowego „x-technik Fertigungstechnik”.",
+     "date": ""
+    }
+   ],
+   "pages": [],
+   "ftype": "news_newsliststicky",
+   "id": "c749",
+   "bg": "lightgray",
+   "space": {
+    "before": "medium",
+    "after": "medium"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>Indywidualna rozmowa z ekspertem</h3> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/expert/booking\" rel=\"noopener\" target=\"_blank\">Umów się na wizytę już teraz</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/pl/strona-glowna",
+ "de_path": "/startseite"
+}

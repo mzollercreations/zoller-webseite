@@ -1,0 +1,536 @@
+{
+ "path": "/준비-시간-최적화",
+ "url": "/kr/%EC%A4%80%EB%B9%84-%EC%8B%9C%EA%B0%84-%EC%B5%9C%EC%A0%81%ED%99%94",
+ "title": "준비 시간 최적화",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "준비 시간 최적화",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/kr/%ED%99%88"
+  },
+  {
+   "label": "준비 시간 최적화",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/ruestzeitoptimierung",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/setup-time-optimization",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/optimizacion-del-tiempo-de-preparacion",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/optimisation-du-temps-de-preparation",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/otimizacao-do-tempo-de-preparacao",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/ottimizzazione-dei-tempi-di-attrezzaggio",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/optimering-av-foerberedelsetiden",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/ruestzeitoptimierung",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "https://www.zoller.info/us/setup-time-optimization",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/optimisation-des-temps-de-preparation",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E6%BA%96%E5%82%99%E6%99%82%E9%96%93%E3%81%AE%E6%9C%80%E9%81%A9%E5%8C%96",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%A4%80%EB%B9%84-%EC%8B%9C%EA%B0%84-%EC%B5%9C%EC%A0%81%ED%99%94",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/setup-time-optimization",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/optimizacion-del-tiempo-de-preparacion",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/otimizacao-do-tempo-de-preparacao",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/2/3/csm_ruesten_header_8622b0d406.webp",
+     "video": null,
+     "title": "왜 준비 시간 최적화인가?",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8076",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">오늘날 단 하나의 제품만 생산하는 기계나 설비는 거의 없습니다. 대개는 필요에 따라 다양한 제품 생산으로 설비를 전환합니다. 이로 인해 기계가 일반적으로 생산을 중단하는 전환 시간이 발생합니다.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8048",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> ‘준비 시간’이란 무엇을 의미하나요? </h2>",
+   "body": "<p>설비 전환 시간은 기계나 설비가 한 제품의 생산에서 다른 제품의 생산으로 전환되는 기간을 말합니다. 예를 들어 단품 생산의 경우, 설비 전환 시간은 기존 배치의 마지막 제품부터 새로운 배치의 첫 번째 제품까지의 시간으로 정의됩니다.</p> <p>따라서 세팅 시간은 엄밀히 말해 '낭비'는 아니지만, 적어도 부분적으로는 기계 가동 중단 시간을 의미하므로 세팅 시간이 길어질수록 생산 설비의 생산성과 효율성은 당연히 저하됩니다.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/b/4/csm_tms_connected_3fe459a22a.webp",
+     "alt": "",
+     "w": 1200,
+     "h": 900
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8049",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> 준비 시간을 어떻게 최적화할 수 있을까요? </h2>",
+      "body": "<p>준비 시간을 최적화한다는 것은 무엇보다도 준비 시간을 최소화하는 것을 의미합니다! 이 목표를 달성하기 위한 다양한 방법이 있습니다.</p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c8051",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "준비 작업 분석",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>세팅 시간 단축을 위한 모든 개선 과정은 반드시 세팅 공정에 대한 분석을 선행합니다. 어떤 단계가 필요한가? 현재 어떤 단계가 수행되고 있으며, 이에 얼마나 많은 시간이 소요되는가? 각 단계는 어떤 순서로 진행되며, 이 순서를 변경할 수 있는가? 어떤 단계가 정말로 필수적인지, 어떤 단계는 최적화할 수 있는가?</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8054",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "로트 크기를 최적화하다",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>철저한 분석에는 다음과 같은 질문도 포함되어야 합니다. 설비를 전체적으로 전환하는 횟수를 줄여, 즉 제품 교체 횟수를 줄일 수 있을까요? 당연히 설비 전환 횟수가 줄어들면 소요 시간도 줄어들어 실질적인 비용 절감으로 이어집니다. 동시에, 이를 통해 절감되는 비용은 재고를 최대한 낮게 유지하고자 하는 목표, 즉 상품의 과잉 생산을 방지하려는 필요성과 명확히 균형을 맞춰야 합니다. 그리고 물론 이 모든 과정에서 설비 가동률은 가능한 한 높게 유지되어야 합니다.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8056",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "외부 세팅",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>설비 준비 시간의 맥락에서, 외부 준비(생산 설비가 가동 중일 때도 수행 가능한 작업)와 내부 준비(설비를 정지시켜야만 수행할 수 있는 작업)로 구분합니다. 당연히 생산성 저하를 초래하는 내부 준비 시간은 가능한 한 짧게 유지하는 것이 귀사의 이익에 부합합니다.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8058",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "디지털화와 자동화",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>최신 기계의 경우, 세팅 공정의 철저한 디지털화와 자동화는 필수적인 조치입니다. 예를 들어, 공구 사전 설정 장치는 CNC 공작 기계에 필요한 공구 데이터를 사전에 파악할 수 있어, 공구를 측정하고 바로 올바른 설정을 적용할 수 있습니다. 이를 통해 내부 세팅 시간이 획기적으로 단축될 뿐만 아니라, 전자적 데이터 전송을 통해 전송 오류도 방지할 수 있습니다.</p> <p>기계 본체가 다른 작업을 수행하는 동안 설정 및 측정 장치에서 외부 측정을 수행할 수 있으므로 추가적인 시간을 절약할 수 있습니다. 기계가 준비되는 즉시 공구를 바로 사용할 수 있습니다. 레이저 측정을 위해 기계의 가동 중지 시간을 불필요하게 연장할 필요가 없습니다.</p> <p><a class=\"btn\" href=\"/kr/%EC%A0%9C%ED%92%88/%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%B8%A1%EC%A0%95\"><strong>공구를 측정하고 바로 올바른 설정을 적용</strong></a></p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8060",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "교육",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>수동적이든 전자적이든, 외부 작업이든 내부 작업이든 모든 설비 준비 작업에서 잘 훈련된 작업자만큼 중요한 것은 없습니다. 직원들이 설비 준비 워크숍과 훈련용 장비에서 제대로 교육을 받으면 실수가 줄어들고, 생산성 저하로 이어지기 전에 문제를 조기에 파악할 수 있습니다.</p> <p><a class=\"btn\" href=\"/kr/%EA%B8%B0%EC%97%85/%EC%97%B0%EB%9D%BD%EC%B2%98/%EA%B5%90%EC%9C%A1-%EB%B0%8F-%ED%9B%88%EB%A0%A8\">ZOLLER 교육 과정</a></p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8062",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c8052",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8050",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "33-66",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> 준비 시간 최적화의 장점은 무엇인가요? </h2>",
+      "body": "",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c8064",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "accordion",
+      "header": "",
+      "items": [
+       {
+        "title": "효율성과 생산성 향상",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>준비 시간이 짧을수록, 즉 직원들의 근무 시간에서 차지하는 비중이 낮을수록, 기계는 본래의 역할인 생산에 더 많은 시간을 할애할 수 있습니다. 이를 통해 프로세스의 전체 생산성이 크게 향상됩니다.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8075",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "비용 절감",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>설비 전환 시간을 단축하면 비용도 절감됩니다. 이는 효율성 향상뿐만 아니라 상호 연계된 모든 공정의 최적화를 통해서도 이루어집니다.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8073",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       },
+       {
+        "title": "표준화",
+        "blocks": [
+         {
+          "type": "textmedia",
+          "header": "",
+          "body": "<p>설비 가동 준비 시간과 이에 필요한 작업 단계를 철저히 분석하면, 개별 설비를 넘어 프로세스를 표준화할 수 있습니다. 이를 통해 직원들을 위한 보다 명확한 지침과 교육 자료를 마련할 수 있습니다. 이는 직원들에게 추가적인 지침과 안정감을 제공할 뿐만 아니라, 아직 익숙하지 않은 설비로 전환할 때도 적응을 용이하게 해줍니다.</p>",
+          "images": [],
+          "videos": [],
+          "pos": "text",
+          "cols": 1,
+          "valign": "top",
+          "ftype": "textmedia",
+          "id": "c8071",
+          "bg": "",
+          "space": {
+           "before": "default",
+           "after": "default"
+          }
+         }
+        ]
+       }
+      ],
+      "ftype": "accordion",
+      "id": "c8065",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8063",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_zoller_system_teaser_a6e5d69871.webp",
+     "alt": "",
+     "w": 955,
+     "h": 503,
+     "title": "해결책부터 시작하세요 – 시스템에 접속하세요.",
+     "href": "/kr/%EC%8B%9C%EC%8A%A4%ED%85%9C",
+     "caption": "<figcaption> <h3>해결책부터 시작하세요 – 시스템에 접속하세요.</h3> <p>당사의 고객들은 당사가 수십 년간 추진해 온 종합적인 솔루션 접근 방식의 혜택을 누리고 있습니다. 그 결과, 탁월한 효율성을 달성하고 있습니다. </p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/e/a/csm_teaser_expert_meeting_small_324f3c6f4a.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 전문가 상담",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 전문가 상담</h3> <p>고객님의 목표와 이에 대한 당사의 아이디어를 바탕으로 한 맞춤형 상담. 스마트 팩토리에서 직접 제공되는 ZOLLER의 온라인 상담. 지금 바로 상담 일정을 예약하세요. </p> <br/> 자세히 알아보기 </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c4390",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/kr/준비-시간-최적화",
+ "de_path": "/ruestzeitoptimierung"
+}

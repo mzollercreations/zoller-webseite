@@ -1,0 +1,437 @@
+{
+ "path": "/业务领域",
+ "url": "/ch/%E4%B8%9A%E5%8A%A1%E9%A2%86%E5%9F%9F",
+ "title": "业务领域",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "业务领域",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "业务领域",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/geschaeftsfelder",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/business-areas-1",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/areas-de-negocio-1",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/domaines-dactivite-1",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/areas-de-negocio-1",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/settori-di-attivita-1",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/verksamhetsomraaden-1",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/geschaeftsfelder-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/secteurs-dactivite-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E4%BA%8B%E6%A5%AD%E5%88%86%E9%87%8E-1",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EC%82%AC%EC%97%85-%EB%B6%84%EC%95%BC-1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/business-areas-1",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/areas-de-negocio-1",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/areas-de-negocio-1",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/c/4/csm_smartfactory_header_4a3f7f359c.webp",
+     "video": null,
+     "title": "ZOLLER 概览：我们的业务领域",
+     "kicker": "",
+     "text": "<p>助力降本增效</p>",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c8150",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<p class=\"extra-large-text\">凭借我们的产品、设备和软件，我们将助您加快生产流程，减少废品率。</p> <p class=\"extra-large-text\">我们针对您的具体挑战量身定制解决方案。点击此处，了解更多我们的软件和设备为您带来的可能性。</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c8151",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> 预调和测量 </h3> <h2> 通过刀具预调降低成本并提高安全性 </h2>",
+   "body": "<p>为了精确加工零件，现代数控机床需要精确的刀具几何数据。借助刀具预调仪，您可以在机床外测定刀具数据，从而节省大量设置时间。 将刀具装入后，即可立即从刀具预调仪中读取刀具数据。数据通过电子方式传输至机床，完全杜绝了输入错误和传输失误，因此确保零差错。</p> <p><a class=\"btn\" href=\"/ch/%E9%A2%84%E8%AE%BE%E8%A3%85%E7%BD%AE\">了解更多关于刀具预调和测量设备的信息</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/3/5/csm_smile_header_c846e8a6b4.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8153",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> 刀具管理 </h3> <h2> 实现更具经济效益的生产的充分理由 </h2>",
+   "body": "<ul><li>缩短设置时间：合适的工具总能在正确的时间出现在正确的位置。以控制器格式输出数据可避免在机器上输入错误，从而减少由此产生的成本。</li><li>“查找”而非“搜索”：您始终清楚哪些工具可用于哪些机器，以及它们的具体位置<br/>。</li><li>优化组织：通过可预测的单件加工时间和高效的监控来规划流程，确保高效的生产管理，从而缩短响应时间。可将自给自足的生产单元进行整合和组织。</li><li>避免设备停机：所有刀具全天候 24 小时随时可用。通过在设备上使用正确的刀具，可防止碰撞并避免刀具断裂。</li><li>保证质量：高系统可用性以及透明、稳定的生产流程，确保了最高质量。</li><li>节省仓储成本：您可以清楚地看到每种工具的使用频率，并仅订购实际所需的工具。</li><li>充分发挥刀具潜力：最佳的切削速度和进给速度可延长刀具使用寿命。</li><li>提高生产率：优化的刀具周转确保了短的周转时间和机器满负荷运转，从而提高生产率，降低制造成本。</li></ul><p><a class=\"btn\" href=\"/ch/%E5%B7%A5%E5%85%B7%E7%AE%A1%E7%90%86\">经济高效的刀具管理</a><br/><a class=\"btn\" href=\"/ch/%E5%B7%A5%E5%85%B7%E7%BB%84%E7%BB%87\">高效的仓储管理与生产数据管理</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/0/8/csm_keeper_header_fc94668ac2.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8165",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> 数据传输 </h3> <h2> 更安全、更快捷的数据传输 </h2>",
+   "body": "<p>在当今的工业制造中，各个生产环节之间的数据交换至关重要。借助 ZOLLER 的软件解决方案，无论制造商和平台如何，都能随时确保刀具数据的安全、快速传输。</p> <p><a class=\"btn\" href=\"/ch/%E4%BC%A0%E8%BE%93%E5%88%80%E5%85%B7%E6%95%B0%E6%8D%AE\">刀具数据传输</a> <a class=\"btn\" href=\"/ch/%E5%88%80%E5%85%B7%E7%9B%91%E6%B5%8B\">完善的刀具管理和生产组织</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/8/5/csm_zidCode_kombi_header_8e15ec79e7.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8164",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> 检测和测量 </h3> <h2> 测量机确保了精密制造 </h2>",
+   "body": "<p>为了确保模具能够完全按照设计和制造要求发挥作用，模具本身必须经过精密加工。借助我们的通用测量机，可以对模具进行微米级精度测量，并检验其是否符合要求。</p> <p><a class=\"btn\" href=\"/ch/%E6%B5%8B%E9%87%8F%E6%9C%BA\">借助测量机实现更高精度</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_genius_header_fd8701f3c0.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8161",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> 自动化 </h3> <h2> 模具测量自动化解决方案 </h2>",
+   "body": "<p>无论是在刀具磨削车间，还是在刀具的准备、供应和装夹过程中——将日常工作自动化将是应对这一挑战的答案。 针对每项任务，ZOLLER 都能提供合适的自动化刀具处理解决方案。根据具体需求，该方案可以是配备附加模块的封闭式系统、复杂的自动化方案，或是刀具室中的协作机器人辅助系统。</p> <p><a class=\"btn\" href=\"/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E8%87%AA%E5%8A%A8%E5%8C%96\">关于切削刀具模块化自动化的所有信息</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/c/7/csm_corameasureLG_header_89e9e61ae5.webp",
+     "alt": "",
+     "w": 1428,
+     "h": 930
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8162",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> 刀具热缩技术 </h3> <h2> 通过使用热缩机实现快速设置时间 </h2>",
+   "body": "<p>对于许多钻头和铣刀而言，热缩安装是夹持刀具最快且最精确的方法。 使用相应的热缩工作站，可以轻松完成必要的操作步骤；热缩机不仅能将这些步骤在很大程度上自动化，还能通过相应的测量确保工艺可靠性。</p> <p><a class=\"btn\" href=\"/ch/%E5%B7%A5%E5%85%B7%E6%94%B6%E7%BC%A9\">热缩夹紧带来的优势</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/6/9/csm_header_powershrink_fda54c16eb.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 896
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8163",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3> 刀具平衡技术 </h3> <h2> 砂轮和工具需要平衡吗？这很重要，而且很简单！ </h2>",
+   "body": "<p>对于现代切削机床而言，精密平衡的刀具至关重要。砂轮、刀具及刀具系统中的不平衡会导致主轴和电机磨损甚至损坏，更重要的是，还会导致工件报废。 定期进行动平衡可防止设备停机，确保质量，并全面降低您的成本。</p> <p><a class=\"btn\" href=\"/ch/%E5%B9%B3%E8%A1%A1%E5%B7%A5%E5%85%B7\">我们的平衡系统可延长刀具使用寿命</a><a class=\"btn\" href=\"/ch/%E7%A0%82%E8%BD%AE%E5%8A%A8%E5%B9%B3%E8%A1%A1\">经过平衡的砂轮运行更平稳，切削性能更优</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_header_toolBalancer_df19c3c897.webp",
+     "alt": "",
+     "w": 1080,
+     "h": 896
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "ftype": "textmedia",
+   "id": "c8160",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> 优化您的刀具使用寿命 </h2>",
+      "body": "<p>切削工具的使用寿命越长，其成本就越低，工作效率也就越高。如果您了解影响使用寿命的主要因素，就更容易对其进行优化。</p> <p><a class=\"btn\" href=\"/ch/%E5%88%80%E5%85%B7%E5%AF%BF%E5%91%BD\">如何控制和优化刀具的使用寿命</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "center",
+      "ftype": "textmedia",
+      "id": "c8166",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "<h2> 优化设置时间——<br/>如何做以及为什么？ </h2>",
+      "body": "<p>如今，几乎没有哪台机器或生产线只生产一种产品——通常它们会根据需求进行调整以生产不同的产品。这会导致设置时间，在此期间机器通常处于停产状态。</p> <p><a class=\"btn\" href=\"/ch/%E6%8D%A2%E7%BA%BF%E6%97%B6%E9%97%B4%E4%BC%98%E5%8C%96\">为何要优化换线时间？</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "textmedia",
+      "id": "c8168",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c8167",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cta_banner",
+   "img": {
+    "src": "/fileadmin/_processed_/5/c/csm_teaser_expert_meeting_v02_d5cbafbfbe.webp",
+    "alt": ""
+   },
+   "text": "<h3>一对一专业咨询</h3> <p><a class=\"btn\" href=\"https://myzoller.com/de/de/expert/booking\" rel=\"noopener\" target=\"_blank\">立即预约</a></p>",
+   "ftype": "zoller_cta-banner",
+   "id": "c712",
+   "bg": "",
+   "space": {}
+  }
+ ],
+ "src_path": "/ch/业务领域",
+ "de_path": "/geschaeftsfelder"
+}

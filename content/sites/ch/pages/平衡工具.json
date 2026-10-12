@@ -1,0 +1,436 @@
+{
+ "path": "/平衡工具",
+ "url": "/ch/%E5%B9%B3%E8%A1%A1%E5%B7%A5%E5%85%B7",
+ "title": "平衡工具",
+ "description": "",
+ "og_image": "",
+ "breadcrumb": [
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "刀具平衡",
+   "href": ""
+  },
+  {
+   "label": "ZOLLER.info /",
+   "href": "/ch/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "label": "刀具平衡",
+   "href": ""
+  }
+ ],
+ "languages": [
+  {
+   "region": "Europe",
+   "links": [
+    {
+     "label": "Deutschland - deutsch",
+     "href": "https://www.zoller.info/werkzeug-auswuchten",
+     "active": true
+    },
+    {
+     "label": "International - english",
+     "href": "https://www.zoller.info/en_DE/balance-the-tool",
+     "active": true
+    },
+    {
+     "label": "UK - english",
+     "href": "https://zoller-uk.com/",
+     "active": false
+    },
+    {
+     "label": "Spain - español",
+     "href": "https://www.zoller.info/es/equilibrar-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "France - french",
+     "href": "https://www.zoller.info/fr/equilibrer-loutil",
+     "active": false
+    },
+    {
+     "label": "Portugal - Português",
+     "href": "https://www.zoller.info/pt/equilibrar-a-ferramenta",
+     "active": false
+    },
+    {
+     "label": "Italia - italiano",
+     "href": "https://www.zoller.info/it/bilanciamento-degli-utensili",
+     "active": false
+    },
+    {
+     "label": "Sweden - Svenska",
+     "href": "https://www.zoller.info/se/balansera-verktyg",
+     "active": false
+    },
+    {
+     "label": "Russia - Русский",
+     "href": "https://global.zoller.info/ru/domashnjajastranica",
+     "active": false
+    },
+    {
+     "label": "Turkey - Türkçe",
+     "href": "https://global.zoller.info/tr/anasayfa",
+     "active": false
+    },
+    {
+     "label": "Poland - Polski",
+     "href": "https://zoller.net.pl/",
+     "active": false
+    },
+    {
+     "label": "Slovenia - Slovenščina",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/Slowenien-ZOLLER-AT-2019.pdf",
+     "active": false
+    },
+    {
+     "label": "Czech - Čeština",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Hungarian - Magyar",
+     "href": "https://global.zoller.info/fileadmin/DATA/_AT/at_hungarian.pdf",
+     "active": false
+    },
+    {
+     "label": "Slovakia - Slovenčina",
+     "href": "https://www.zoller.cz/",
+     "active": false
+    },
+    {
+     "label": "Austria - deutsch",
+     "href": "https://www.zoller.info/at/werkzeug-auswuchten",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "North America",
+   "links": [
+    {
+     "label": "USA - english",
+     "href": "",
+     "active": false
+    },
+    {
+     "label": "Canada - french",
+     "href": "https://www.zoller.info/ca-fr/equilibrage-dun-outil",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Asia",
+   "links": [
+    {
+     "label": "China - 简体中文",
+     "href": "http://www.zoller-cn.com/",
+     "active": false
+    },
+    {
+     "label": "Japan - 日本",
+     "href": "https://www.zoller.info/ja/%E5%B7%A5%E5%85%B7%E3%81%AE%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%BF%E6%95%B4",
+     "active": false
+    },
+    {
+     "label": "Korea - 한국인",
+     "href": "https://www.zoller.info/kr/%EA%B3%B5%EA%B5%AC-%EB%B0%B8%EB%9F%B0%EC%8B%B1",
+     "active": false
+    },
+    {
+     "label": "India - हिन्दी",
+     "href": "https://www.zoller.info/in/balancing-tools",
+     "active": false
+    }
+   ]
+  },
+  {
+   "region": "Latin America",
+   "links": [
+    {
+     "label": "Mexiko - español",
+     "href": "https://www.zoller.info/mx/equilibrar-la-herramienta",
+     "active": false
+    },
+    {
+     "label": "Brazil - Português",
+     "href": "https://www.zoller.info/br/equilibrar-a-ferramenta",
+     "active": false
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "hero",
+   "slides": [
+    {
+     "img": "/fileadmin/_processed_/c/f/csm_balancing_header_d7e77910f1.webp",
+     "video": null,
+     "title": "轻松实现刀具动平衡",
+     "kicker": "",
+     "text": "",
+     "buttons": [],
+     "light": false
+    }
+   ],
+   "ftype": "zoller_hero-slider",
+   "id": "c4378",
+   "bg": "lightgray",
+   "space": {}
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "<h4>刀具的不平衡会迅速在多个方面引发问题：导致刀具运行不平稳，增加主轴和机床的负荷，影响切削性能，最终危及整个加工过程的安全性。</h4>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3932",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 刀具的不平衡会带来什么后果？ </h2>",
+   "body": "<p>运行不平稳的刀具无法长期保持您在工作中所需的精度。 产生的振动不仅会降低整体切削效率，还会在工件上产生诸如振纹等缺陷，这些缺陷可能需要进行后续修整。 因此，刀具的不平衡会导致非常具体的质量损失，并危及您生产流程的可靠性。</p> <p>此外，不平衡还会缩短主轴甚至整台机器的使用寿命 — 由此产生的成本很快就会超过因更频繁地对刀具进行平衡而产生的费用。</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3933",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 什么是不平衡？ </h2>",
+   "body": "<p>“不平衡”这一术语用于描述旋转物体中普遍存在的一种现象，即其质量在物体上分布不具有旋转对称性。在此，主要区分三种不平衡类型：</p><ul><li>静态不平衡：旋转物体的重心位于旋转轴之外。这种不平衡在静止状态下即可测得。</li><li>力矩不平衡：重心位于旋转轴上，只有在旋转运动中才能测得不平衡。</li><li>动态不平衡：动态不平衡的概念将前两种不平衡形式结合在一起，即静态不平衡与力矩不平衡的任意组合。这是技术转子中的常见情况。</li></ul><p>每种特定的不平衡形式，都可以通过对旋转体进行相应的调整来加以补偿。</p> <p>在旋转过程中，不平衡越大（线性增长），且旋转速度越快（平方增长），不平衡现象就越明显。旋转速度越快，平衡就越重要，尽可能地减少残余不平衡也就越重要。 因此，平衡工作应系统地纳入生产流程中。</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3934",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 在刀具加工过程中，不平衡现象是如何产生的？ </h2>",
+   "body": "<p>在旋转刀具系统中，不平衡是一种常见且经常出现的现象。其产生可能有多种原因，例如：</p><ul><li>由多个部件组成的刀具未正确组装 — 例如，当刀柄与刀具未精确对齐且存在旋转轴线偏差时。</li><li>刀具在制造时的质量分布就不对称 — 在此情况下，必须注意制造商的制造公差，并在必要时进行核查。</li><li>转子本身或刀柄因结构设计而具有不对称性（例如铣削适配器（韦尔登刀柄）中的夹紧螺钉）。</li></ul><p>即使使用经过精密动平衡的刀柄，当刀柄与具体刀具组合使用时，仍可能再次产生不平衡。测量并酌情校正这一点至关重要。</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3935",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 为什么刀具的动平衡如此重要？ </h2>",
+   "body": "<p>在使用旋转刀具系统对工件进行高速加工时，任何微小的误差或精度不足，在某些情况下都会迅速且明显地显现出来。刀具的不平衡会引起振动，并必然导致运行不平稳。</p> <p>这两者都会影响刀具的加工精度，并增加工件产生伪影和受损的风险：表面质量下降，甚至可能导致废品。 然而，由于您的生产流程高度依从于最终成品的精确加工，未经过精细动平衡的刀具将迫使您进行更严格的质量控制。可能还需要进行二次加工，而且无论如何，工艺可靠性都无法得到保障。</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3936",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 不进行动平衡会造成经济损失 </h2>",
+   "body": "<p>这可能会导致生产过程出现延误，进而直接影响您按时交付订购数量且符合质量要求的能力。</p> <p>此外，运行不平稳的刀具（尤其是其产生的振动）可能会缩短车削主轴的使用寿命——这也是一个不容忽视的成本因素。</p> <p>因此，经过动平衡处理的刀具对工件和机床都有好处。</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3937",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 经验法则：多试少悔！ </h2>",
+   "body": "<p><strong>因此，一个经验法则是：</strong>与其最后承担高昂的维修费用，不如及时且频繁地进行动平衡校正。通常来说，当刀具在转速发生变化时，就应重新进行动平衡校正 — 因为这种变化也会导致运行平稳度出现显著差异。</p> <p>定期进行动平衡校正，可提高生产效率并提升工作质量。</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3938",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 刀具动平衡：怎么做？ </h2>",
+   "body": "<p>一般而言，有三种方法可以纠正或消除不平衡：</p><ul><li>有针对性地增加质量（例如通过添加配重）</li><li>去除质量（例如通过钻孔或磨削）</li><li>调整质量（例如使用合适的旋转环）</li></ul><p>为了专门针对刀具简化该过程并确保操作精准，建议使用配备合适软件的动平衡机。在此过程中，首先将刀具装入动平衡主轴并使其旋转，以测量产生的离心力。</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3939",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2> 自动计算的不平衡补偿 </h2>",
+   "body": "<p>平衡系统会根据这些测量数据计算出平衡量。对于先进的平衡机而言，相关措施可立即实施，并持续进行精细平衡，直至无法测得任何残余不平衡，或所有数值均处于可接受的公差范围内。</p> <p>因此，平衡过程并不需要特别长的时间，质量分布不均的问题可以迅速得到解决。</p> <p>采用高精度且高度自动化的平衡系统还具有另一优势：每次更换工件时，都能迅速重新进行平衡。 这样既能防止因要求、转速或材料的变化导致质量下降，又不会影响工作效率。</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3940",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "cols",
+   "layout": "50-50",
+   "columns": [
+    [
+     {
+      "type": "textmedia",
+      "header": "<h3> 使用 ZOLLER »toolBalancer«实现高效动平衡 </h3>",
+      "body": "<p>即使在高转速工况下，也能实现精密平衡的刀具：ZOLLER »toolBalancer« 正是为此量身打造的完美平衡系统。凭借其模块化设计，该系统不仅能根据您的特殊需求进行个性化调整，还为未来的发展留有充足的空间。</p> <p>这款高精度平衡系统适用于刀柄、砂轮和转子，可显著降低废品率、减少设备停机时间、降低生产成本并缩短交货周期。</p> <h3><br/>优势概览：</h3><ul><li>通过高精度平衡的刀具<strong>，减少磨损</strong>并提高切削性能</li><li><strong>模块化设计</strong>支持个性化定制</li><li><strong>直观易懂的操作</strong>界面可避免不必要且代价高昂的错误</li><li>通过触摸屏、键盘和鼠标<strong>实现便捷操作</strong></li></ul><p><a class=\"btn\" href=\"/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E5%B9%B3%E8%A1%A1%E6%8A%80%E6%9C%AF/toolbalancer\">全面了解 ZOLLER »toolBalancer« 的各项功能</a></p>",
+      "images": [],
+      "videos": [],
+      "pos": "text",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "text",
+      "id": "c3943",
+      "bg": "",
+      "space": {
+       "before": "small",
+       "after": "small"
+      }
+     }
+    ],
+    [
+     {
+      "type": "textmedia",
+      "header": "",
+      "body": "",
+      "images": [
+       {
+        "src": "/fileadmin/_processed_/f/6/csm_header_toolBalancer_df19c3c897.webp",
+        "alt": "",
+        "w": 1080,
+        "h": 896
+       }
+      ],
+      "videos": [],
+      "pos": "above",
+      "cols": 1,
+      "valign": "top",
+      "ftype": "image",
+      "id": "c3945",
+      "bg": "",
+      "space": {
+       "before": "default",
+       "after": "default"
+      }
+     }
+    ]
+   ],
+   "ftype": "container-2cols",
+   "id": "c3941",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/b/csm_teaser_balancing_small_e3b1b4fcf5.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "刀具平衡技术：其优势",
+     "href": "/ch/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/%E5%88%80%E5%85%B7%E5%B9%B3%E8%A1%A1%E6%8A%80%E6%9C%AF",
+     "caption": "<figcaption> <h3>刀具平衡技术：其优势</h3> <p>动平衡的重要性常被低估。然而，动平衡能提高经济效益，因为它既能减少导致成本上升的刀具磨损，又能减轻机床主轴的负荷。 </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "一对一专家咨询",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>一对一专家咨询</h3> <p>针对您的目标以及我们为此提出的方案，进行一对一的交流。ZOLLER 直接从“智能工厂”为您提供的在线咨询服务。立即预约。 </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "c3832",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ch/平衡工具",
+ "de_path": "/werkzeug-auswuchten"
+}
