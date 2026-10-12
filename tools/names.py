@@ -237,8 +237,8 @@ RENAMES = json.load(open(os.path.join(ROOT, "content", "renames.json"), encoding
 
 def rename_path(src, path):
     """Neue Adresse einer Seite der Sprachfassung src (content/renames.json, auch für Unterseiten):
-    …/titanium -> …/titan. Pfade ohne Sprachpräfix, andere Pfade bleiben unverändert."""
-    for old, new in RENAMES.get(src, {}).items():
+    …/titanium -> …/titan. Pfade ohne Sprachpräfix, andere Pfade bleiben unverändert. Deutsche Seite: src "" -> "de"."""
+    for old, new in RENAMES.get(src or "de", {}).items():
         if path == old or path.startswith(old + "/"):
             return new + path[len(old):]
     return path

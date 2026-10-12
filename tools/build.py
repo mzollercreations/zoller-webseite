@@ -70,7 +70,7 @@ def strip_locale(href):
     path = href.split("#")[0].split("?")[0].rstrip("/")
     if path in ALIASES:
         href = HOME + href[len(path):]
-    elif src and path:
+    elif path:
         new = names.rename_path(src, path)   # umbenannte Adresse (content/renames.json): …/titanium -> …/titan
         if new != path:
             href = new + href[len(path):]
@@ -1335,7 +1335,7 @@ def r_event_detail(ctx, b):
     extra = []
     if e.get("website"):
         extra.append(f'<a class="link-arrow" href="{esc(e["website"], quote=True)}" target="_blank" rel="noopener">{_("Offizielle Website")}</a>')
-    extra.append(f'<a class="link-arrow" href="{ev_ics(e)}" download="{e["id"]}.ics">{_("In den Kalender")}</a>')
+    extra.append(f'<a class="link-arrow" href="{ev_ics(e)}" download="{(e.get("slug") or {}).get(LANG, e["id"])}.ics">{_("In den Kalender")}</a>')
     if LANG == "de" and e.get("myzoller"):
         extra.append(f'<a class="link-arrow" href="https://myzoller.com/de/de/live/detail/{e["myzoller"]}" target="_blank" rel="noopener">Auf MYZOLLER ansehen</a>')
     aside = (f'<aside class="ev-detail__facts" data-reveal><h3>{_("Auf einen Blick")}</h3><dl>{dl}</dl>'
@@ -1359,16 +1359,19 @@ def r_event_detail(ctx, b):
     return hero + body + more
 
 
-def event_pages(pages, lang):
+def event_pages(pages, lang, src=""):
     """Eigene Seite für jedes Event aus content/events.json ohne handgebaute Seite (»page«), unterhalb der Eventseite
-    der Sprachfassung: /events/siane-2026, /evenements/siane-2026, /eventos/siane-2026 …"""
+    der Sprachfassung: /events/siane-2026, /evenements/siane-2026, /eventos/siane-2026 … Ist die ID deutsch, gibt »slug«
+    je Sprache die Adresse vor; die Adresse mit der ID leitet dann weiter."""
     base = next((path for path, p in pages.items() if (p.get("de_path") or path) == "/events"), None)
     if not base:
         return
     for e in EVENTS.get("events", []):
         if e.get("page"):
             continue
-        path = f'{base}/{e["id"]}'
+        path = f'{base}/{(e.get("slug") or {}).get(lang, e["id"])}'
+        if path != f'{base}/{e["id"]}':
+            RENAMED[(src, path)] = f'{base}/{e["id"]}'
         pages.setdefault(path, {
             "path": path, "de_path": "/events/" + e["id"], "title": ev_text(e["title"], lang),
             "description": ev_text(e.get("text", ""), lang), "og_image": e.get("img") if (e.get("img") or "").startswith("/fileadmin/") else "",
@@ -2457,14 +2460,14 @@ def load_pages(src, overlay=""):
     pages = {}
     for f in files:
         p = json.load(open(f, encoding="utf-8"))
-        if src and names.rename_path(src, p["path"].rstrip("/")) != p["path"].rstrip("/"):
+        if names.rename_path(src, p["path"].rstrip("/")) != p["path"].rstrip("/"):
             RENAMED[(src, names.rename_path(src, p["path"].rstrip("/")))] = p["path"].rstrip("/")
             p["path"] = names.rename_path(src, p["path"].rstrip("/"))
         path = p["path"].rstrip("/") or HOME
         if path in SKIP or (src and p.get("de_path") in SKIP) or re.search(r"/(details?|detalle)$", path):
             continue
         pages[path] = p
-    event_pages(pages, next((l["lang"] for s_ in SITES.values() for l in s_["locales"] if l["src"] == src), "de"))
+    event_pages(pages, next((l["lang"] for s_ in SITES.values() for l in s_["locales"] if l["src"] == src), "de"), src)
     return pages
 
 

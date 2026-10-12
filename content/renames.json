@@ -1,5 +1,5 @@
 {
- "_info": "Umbenannte Seitenadressen je Sprachfassung (Pfad ohne Sprachpräfix, gilt auch für alle Unterseiten). Die Übersetzung von zoller.info hatte Produktnamen in den Adressen mitübersetzt. Die alten Adressen bleiben als Weiterleitung erhalten (tools/build.py), der 3D-Showroom nutzt dieselbe Liste.",
+ "_info": "Umbenannte Seitenadressen je Sprachfassung (de = deutsche Seite) (Pfad ohne Sprachpräfix, gilt auch für alle Unterseiten). Die Übersetzung von zoller.info hatte Produktnamen in den Adressen mitübersetzt. Die alten Adressen bleiben als Weiterleitung erhalten (tools/build.py), der 3D-Showroom nutzt dieselbe Liste.",
  "ca": {
   "/products/inspection-measuring/universal-measuring-machine/titanium": "/products/inspection-measuring/universal-measuring-machine/titan",
   "/products/tool-management/tms-tool-management-solutions/software-packages/gold-store-management": "/products/tool-management/tms-tool-management-solutions/software-packages/gold-shop-floor-management",
@@ -26,5 +26,11 @@
   "/productos/gestion-de-herramientas/tms-tool-management-solutions/paquetes-de-software/organizacion-operativa-de-silver": "/productos/gestion-de-herramientas/tms-tool-management-solutions/paquetes-de-software/silver-organizacion-operativa",
   "/solutions": "/soluciones",
   "/eventos/dias-de-entrenamiento-zpac/entrenadores": "/eventos/dias-de-entrenamiento-zpac/instructores"
+ },
+ "de": {
+  "/produkte/pruefen-messen/prozessorientertes-messen": "/produkte/pruefen-messen/prozessorientiertes-messen",
+  "/produkte/pruefen-messen/universal-messmaschinen/genius/software-integration-1": "/produkte/pruefen-messen/universal-messmaschinen/smartcheck/software-integration",
+  "/werkzeugorganistation": "/werkzeugorganisation",
+  "/bestaetiguns": "/bestaetigung"
  }
 }

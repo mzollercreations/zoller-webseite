@@ -1,5 +1,5 @@
 {
- "_info": "Alle ZOLLER-Events weltweit. REGEL: Jedes Event muss in allen Sprachen (de, en, fr, es) vorhanden sein – Titel, Ort, Kurztext (text) und Beschreibung (about) –, damit jede Länderseite es in ihrer Sprache zeigt; nie auf die deutsche Seite verlinken. build.py erzeugt daraus auf jeder Länderseite eine eigene Eventseite (Pfad: Eventseite der Sprache + /<id>). Events mit eigener, handgebauter Seite haben »page« (deutscher Pfad); diese Seite muss es in jeder Sprachfassung geben (content/pages, content/sites/ca|ca-fr|mx/pages mit de_path). Felder: kind (fair, workshop, training, openhouse, networking, zoller), country (englischer Name wie in locations.json), city, venue, hours (Ortszeit), lang (Veranstaltungssprache, wenn nicht für alle verständlich), website (offizielle Seite), myzoller (ID, nur auf der deutschen Seite verlinkt, MYZOLLER zeigt diese Events nur auf Deutsch), register (Anmeldelink je Sprache), agenda, topics. Vergangene Events blendet build.py aus, im Browser zusätzlich main.js. Quellen Stand 09.10.2026: zoller.info/events, myzoller.com/de/de/live, zoller-usa.com/events, eigene Seiten.",
+ "_info": "Alle ZOLLER-Events weltweit. REGEL: Jedes Event muss in allen Sprachen (de, en, fr, es) vorhanden sein – Titel, Ort, Kurztext (text) und Beschreibung (about) –, damit jede Länderseite es in ihrer Sprache zeigt; nie auf die deutsche Seite verlinken. build.py erzeugt daraus auf jeder Länderseite eine eigene Eventseite (Pfad: Eventseite der Sprache + /<id>). Events mit eigener, handgebauter Seite haben »page« (deutscher Pfad); diese Seite muss es in jeder Sprachfassung geben (content/pages, content/sites/ca|ca-fr|mx/pages mit de_path). Felder: kind (fair, workshop, training, openhouse, networking, zoller), country (englischer Name wie in locations.json), city, venue, hours (Ortszeit), lang (Veranstaltungssprache, wenn nicht für alle verständlich), website (offizielle Seite), myzoller (ID, nur auf der deutschen Seite verlinkt, MYZOLLER zeigt diese Events nur auf Deutsch), register (Anmeldelink je Sprache), agenda, topics. Vergangene Events blendet build.py aus, im Browser zusätzlich main.js. Quellen Stand 09.10.2026: zoller.info/events, myzoller.com/de/de/live, zoller-usa.com/events, eigene Seiten. Ist die ID deutsch, legt »slug« die Adresse je Sprache fest (en/fr/es); die alte Adresse leitet weiter.",
  "events": [
   {
    "id": "automation-week-torrance-2026",
@@ -464,6 +464,7 @@
   },
   {
    "id": "tms-fortbildung-lehrkraefte-2026",
+   "slug": {"en": "tms-training-for-teachers-2026", "fr": "formation-tms-enseignants-2026", "es": "formacion-tms-docentes-2026"},
    "start": "2026-11-23",
    "end": "2026-11-24",
    "country": "Germany",
