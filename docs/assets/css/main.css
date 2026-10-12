@@ -488,6 +488,9 @@ main.has-hero { padding-top: 0; }
 .homefilm__pill { translate: var(--shift, 0) 0; display: grid; gap: .1rem; padding: .5rem .85rem .55rem; border-radius: .75rem; background: rgba(12, 12, 14, .5); border: 1px solid rgba(255, 255, 255, .16); -webkit-backdrop-filter: blur(14px) saturate(150%); backdrop-filter: blur(14px) saturate(150%); white-space: nowrap; text-align: center; transition: background .2s, border-color .2s; }
 .homefilm__pill b { font-weight: 500; font-size: .875rem; letter-spacing: .01em; }
 .homefilm__pill small { font-size: .6875rem; color: rgba(255, 255, 255, .66); letter-spacing: .02em; }
+/* Prozessschritt über dem Namen: »01 Lagern« … »06 An die Maschine« (Werkzeugkreislauf) */
+.homefilm__pill small:first-child { font-size: .625rem; text-transform: uppercase; letter-spacing: .09em; color: rgba(255, 255, 255, .72); }
+.homefilm__pill small em { font-style: normal; font-weight: 500; color: var(--yellow); margin-right: .3em; font-variant-numeric: tabular-nums; }
 .homefilm__tag:hover .homefilm__pill { background: rgba(12, 12, 14, .75); border-color: var(--yellow); }
 .homefilm__tag i { display: block; width: 1px; height: 1.6rem; background: linear-gradient(180deg, rgba(255, 255, 255, .55), var(--yellow)); }
 .homefilm__tag i::after { content: ""; display: block; width: 7px; height: 7px; margin: 1.6rem 0 0 -3px; border-radius: 50%; background: var(--yellow); box-shadow: 0 0 0 4px rgba(240, 230, 0, .22), 0 0 14px rgba(240, 230, 0, .7); transform: translateY(-3px); }
