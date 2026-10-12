@@ -1,0 +1,250 @@
+{
+ "path": "/产品/刀具夹头/idchip",
+ "url": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E5%A4%B9%E5%A4%B4/idchip",
+ "title": "»idChip«",
+ "description": "»idChip« - 唯一识别刀柄 - 刀具识别",
+ "og_image": "",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "»idChip«",
+   "text": "<p>唯一识别每一把刀柄——贯穿生产的每一个环节</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">立即询价</a></p>",
+   "img": {
+    "src": "/fileadmin/02_Products/idChip/zoller_idchip_werkzeughalter.webp",
+    "w": 331,
+    "h": 689,
+    "alt": "配备»idChip«的刀柄"
+   },
+   "id": "idchip-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3>刀具识别</h3> <h2>刀柄的数字身份</h2>",
+   "body": "<p><strong>ZOLLER »idChip«是一枚由极其坚固的塑料制成的编码芯片，牢固集成在刀柄中。其DataMatrix码使每一把刀柄都能被唯一识别——无论是在预调测量仪、热缩设备上，还是在刀具库和CNC机床上。</strong></p> <p>这样，您可以随时掌握刀柄的全部信息：加热次数、在机使用次数等等。使用寿命、数字孪生及其他信息随时随地可用——而成本远低于RFID应答器。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/7/csm_zoller_smarte_solutions_171a2dc46c.webp",
+     "w": 1454,
+     "h": 1454,
+     "alt": "配备»idChip«的刀柄"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-intro",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>牢固集成，在刀柄中受到保护</h2>",
+   "body": "<p>»idChip«安装在刀柄的芯片孔中，并使用双组分胶粘剂粘接固定。芯片孔中的3槽技术与胶粘剂共同形成形状配合，实现安全牢固的连接。芯片因此受到保护，同时依然清晰可见。</p> <p>在采用HSK-A空心锥、SK锥和PSC多边形锥的ZOLLER Tooling刀柄上，芯片孔为标准配置，可安装»idChip«或RFID芯片等其他数据载体。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/9/csm_chip_edd3e9cbeb.webp",
+     "w": 1524,
+     "h": 887,
+     "alt": "芯片孔中带DataMatrix码的»idChip«"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-fix",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>扫描一次，尽知一切</h2>",
+   "body": "<p>只需扫描一次DataMatrix码：刀具即被唯一识别，相关刀具数据直接来自数据库。输入错误和混淆从此成为过去。</p> <p>为此，您需要一台可读取DataMatrix码的扫描器，以及一套管理刀具数据的软件。ZOLLER通过»zidCode 4.0«和TMS Tool Management Solutions为您提供这两者。</p> <p>在TMS Tool Management Solutions中，每把刀柄都通过其ID进行管理。»idChip«是»z.Shopfloor«和»z.Connectivity«附加模块的可选硬件。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/7/csm_software_idchip_9694061981.webp",
+     "w": 1000,
+     "h": 563,
+     "alt": "使用手持扫描器扫描»idChip«"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-scan",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>一个代码，贯穿整个刀具循环</h2>",
+   "body": "<p>»idChip«伴随刀柄经过每一个环节——ZOLLER的各项解决方案都能随处识别它。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/4/csm_venturion_header_2a53427792.webp",
+     "w": 1080,
+     "h": 930,
+     "alt": "",
+     "title": "预调和测量",
+     "caption": "<figcaption> <h3>预调和测量</h3> <p>在预调测量仪上扫描：直接调取刀具数据，自动加载测量参数。每把刀具始终以相同方式测量。</p> </figcaption>",
+     "href": "/produkte/einstellen-messen"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/f/csm_option_zidcode_01_45e04f3e38.webp",
+     "w": 792,
+     "h": 457,
+     "alt": "",
+     "title": "刀具热缩技术",
+     "caption": "<figcaption> <h3>刀具热缩技术</h3> <p>在»powerShrink«上扫描：所有热缩参数立即在»pilot«软件中可用。系统按热缩刀柄统计每一次加热，并可设定警告极限和磨损极限。</p> </figcaption>",
+     "href": "/produkte/schrumpftechnik/powershrink"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/b/csm_software_zidCode4_7a2e75321f.webp",
+     "w": 1920,
+     "h": 1690,
+     "alt": "",
+     "title": "在机床上",
+     "caption": "<figcaption> <h3>在机床上</h3> <p>在CNC机床上使用»zidCode 4.0«扫描：刀具数据从数据库快速、无误地传输到机床控制系统。</p> </figcaption>",
+     "href": "/produkte/toolmanagement/zidcode"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 4,
+   "valign": "top",
+   "id": "idchip-cycle",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>»idChip«还是»idLabel«？</h2>",
+   "body": "<p>两者都带有DataMatrix码，均可唯一识别刀具。选择哪种方案取决于具体应用。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/02_Products/idChip/zoller_idchip_vergleich_idchip.webp",
+     "w": 1390,
+     "h": 869,
+     "alt": "»idChip«",
+     "title": "»idChip«",
+     "caption": "<figcaption> <h3>»idChip«</h3> <p>旋转刀具的更佳选择：牢固集成在刀柄中，受到保护，同时清晰可见。</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/02_Products/idChip/zoller_idchip_vergleich_idlabel.webp",
+     "w": 1385,
+     "h": 866,
+     "alt": "»idLabel«",
+     "title": "»idLabel«",
+     "caption": "<figcaption> <h3>»idLabel«</h3> <p>推荐用于不旋转使用的车削刀具和夹具：带树脂涂层的标签可牢固、安全地贴附在刀柄上。</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "id": "idchip-vs",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>出厂预装或后期加装</h2>",
+   "body": "<p>根据您的要求，我们可为所有ZOLLER Tooling刀柄牢固集成»idChip«和DataMatrix码——连同芯片一起完成动平衡，并直接送至您的生产现场。</p> <p>现有刀具也可随时加装»idChip«。只需联系我们的销售部门即可。</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">立即询价</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/8/csm_zShopfloor_Feature_01_969ecbcfca.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "配备»idChip«的刀柄"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-retro",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "downloads",
+   "header": "<h2>下载</h2>",
+   "files": [
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Broschuere_Tooling_BRTOSO-00_US_01.pdf",
+     "name": "Tooling Solutions",
+     "size": "2 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/6/2/csm_ZOLLER_Broschuere_Tooling_BRTOSO-00_US_01_a9c6bb127e.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Tooling Solutions"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Smarte_Fertigung/ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_EN_02.pdf",
+     "name": "Smart Manufacturing",
+     "size": "804 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/2/b/csm_ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_EN_02_dea61a226f.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Smart Manufacturing"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/zidCode/info-pool/ZOLLER_Flyer_TMS_zidCode_FLTMSZC_00_EN_13.pdf",
+     "name": "Efficient tool handling",
+     "size": "1,000 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/c/0/csm_ZOLLER_Flyer_TMS_zidCode_FLTMSZC_00_EN_13_58cf71a344.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Efficient tool handling"
+     }
+    }
+   ],
+   "id": "idchip-downloads",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E5%A4%B9%E5%A4%B4/idchip",
+ "de_path": "/produkte/werkzeugaufnahmen/idchip"
+}

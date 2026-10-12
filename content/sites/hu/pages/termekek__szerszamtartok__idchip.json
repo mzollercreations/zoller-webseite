@@ -1,0 +1,250 @@
+{
+ "path": "/termekek/szerszamtartok/idchip",
+ "url": "/hu/termekek/szerszamtartok/idchip",
+ "title": "»idChip«",
+ "description": "»idChip« - Szerszámtartók egyértelmű azonosítása - Szerszámazonosítás",
+ "og_image": "",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "»idChip«",
+   "text": "<p>Minden szerszámtartó egyértelmű azonosítása – a gyártás minden állomásán</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Ajánlatkérés</a></p>",
+   "img": {
+    "src": "/fileadmin/02_Products/idChip/zoller_idchip_werkzeughalter.webp",
+    "w": 331,
+    "h": 689,
+    "alt": "Szerszámtartók »idChip«-pel"
+   },
+   "id": "idchip-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3>Szerszámazonosítás</h3> <h2>Szerszámtartóinak digitális identitása</h2>",
+   "body": "<p><strong>A ZOLLER »idChip« rendkívül strapabíró műanyagból készült, kódolt chip, amely tartósan be van építve a szerszámtartóba. DataMatrix-kódja révén minden szerszámtartó egyértelműen azonosítható – a beállító- és mérőkészüléken, a zsugorbefogó készüléken, a szerszámraktárban és a CNC-gépen.</strong></p> <p>Így mindig mindent tud a szerszámtartóiról: a fűtési ciklusok számát, a gépen való használatokat és még sok mást. Az élettartam, a digitális iker és további információk bármikor és bárhol elérhetők – az RFID-transzponderek költségeinél jóval alacsonyabb áron.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/7/csm_zoller_smarte_solutions_171a2dc46c.webp",
+     "w": 1454,
+     "h": 1454,
+     "alt": "Szerszámtartók »idChip«-pel"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-intro",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Szilárdan beépítve. Védve a tartóban.</h2>",
+   "body": "<p>Az »idChip« a szerszámtartó chipfuratában helyezkedik el, és kétkomponensű ragasztóval rögzítik. A chipfurat 3 hornyos technológiája a ragasztóval együtt alakzáró kapcsolatot hoz létre – a biztos és szilárd rögzítésért. Így a chip védett helyen van, mégis jól látható.</p> <p>A HSK-A üreges kúpos, SK meredek kúpos és PSC sokszögletű kúpos ZOLLER Tooling szerszámtartóknál a chipfurat alapfelszereltség. Ebbe kerül az »idChip« vagy más adathordozó, például RFID-chip.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/9/csm_chip_edd3e9cbeb.webp",
+     "w": 1524,
+     "h": 887,
+     "alt": "»idChip« DataMatrix-kóddal a chipfuratban"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-fix",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Egy szkennelés. Minden információ.</h2>",
+   "body": "<p>Elég egyszer beszkennelni a DataMatrix-kódot: a szerszám egyértelműen azonosítva van, a hozzá tartozó szerszámadatok pedig közvetlenül az adatbázisból érkeznek. A beviteli hibák és a tévesztések így a múlté.</p> <p>Ehhez egy DataMatrix-kódot olvasó szkennerre és egy szerszámadatokat kezelő szoftverre van szükség. A ZOLLER mindkettőt kínálja: a »zidCode 4.0« rendszert és a TMS Tool Management Solutions szoftvert.</p> <p>A TMS Tool Management Solutions szoftverben minden szerszámtartót az azonosítója alapján kezelnek. Az »idChip« opcionális hardverként szolgál a »z.Shopfloor« és a »z.Connectivity« kiegészítőkhöz.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/7/csm_software_idchip_9694061981.webp",
+     "w": 1000,
+     "h": 563,
+     "alt": "Az »idChip« beolvasása kézi szkennerrel"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-scan",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Egy kód a teljes szerszámkörforgáshoz</h2>",
+   "body": "<p>Az »idChip« minden állomáson elkíséri a szerszámtartót – a ZOLLER-megoldások pedig mindenhol felismerik.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/4/csm_venturion_header_2a53427792.webp",
+     "w": 1080,
+     "h": 930,
+     "alt": "",
+     "title": "Beállítás és mérés",
+     "caption": "<figcaption> <h3>Beállítás és mérés</h3> <p>Szkennelés a beállító- és mérőkészüléken: a szerszámadatok közvetlenül lehívhatók, a mérési paraméterek automatikusan betöltődnek. Így minden szerszámot mindig ugyanúgy mérnek.</p> </figcaption>",
+     "href": "/produkte/einstellen-messen"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/f/csm_option_zidcode_01_45e04f3e38.webp",
+     "w": 792,
+     "h": 457,
+     "alt": "",
+     "title": "Zsugorbefogási technika",
+     "caption": "<figcaption> <h3>Zsugorbefogási technika</h3> <p>Szkennelés a »powerShrink« készüléken: minden zsugorbefogási paraméter azonnal rendelkezésre áll a »pilot« szoftverben. Minden fűtési ciklust zsugortokmányonként számlál a rendszer, és figyelmeztetési, illetve kopási határértékek adhatók meg.</p> </figcaption>",
+     "href": "/produkte/schrumpftechnik/powershrink"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/b/csm_software_zidCode4_7a2e75321f.webp",
+     "w": 1920,
+     "h": 1690,
+     "alt": "",
+     "title": "A gépnél",
+     "caption": "<figcaption> <h3>A gépnél</h3> <p>Szkennelés a »zidCode 4.0« rendszerrel a CNC-gépnél: a szerszámadatok az adatbázisból gyorsan és hibamentesen jutnak el a gépvezérlésbe.</p> </figcaption>",
+     "href": "/produkte/toolmanagement/zidcode"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 4,
+   "valign": "top",
+   "id": "idchip-cycle",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>»idChip« vagy »idLabel«?</h2>",
+   "body": "<p>Mindkettő DataMatrix-kódot hordoz, és egyértelműen azonosíthatóvá teszi a szerszámokat. Hogy melyik a megfelelő, az alkalmazástól függ.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/02_Products/idChip/zoller_idchip_vergleich_idchip.webp",
+     "w": 1390,
+     "h": 869,
+     "alt": "»idChip«",
+     "title": "»idChip«",
+     "caption": "<figcaption> <h3>»idChip«</h3> <p>A jobb választás forgó szerszámokhoz: szilárdan beépítve a tartóba, ott védve, mégis jól látható.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/02_Products/idChip/zoller_idchip_vergleich_idlabel.webp",
+     "w": 1385,
+     "h": 866,
+     "alt": "»idLabel«",
+     "title": "»idLabel«",
+     "caption": "<figcaption> <h3>»idLabel«</h3> <p>Olyan esztergaszerszámokhoz és készülékekhez ajánlott, amelyek használat közben nem forognak: a gyantabevonatú címke szilárdan és biztonságosan rögzíthető a szerszámtartón.</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "id": "idchip-vs",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Gyárilag vagy utólag</h2>",
+   "body": "<p>Kérésre minden ZOLLER Tooling szerszámtartót tartósan beépített »idChip«-pel és DataMatrix-kóddal szállítunk – a chippel együtt kiegyensúlyozva, közvetlenül a gyártásába.</p> <p>A meglévő szerszámok is bármikor utólag felszerelhetők »idChip«-pel. Forduljon bizalommal értékesítési osztályunkhoz.</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Ajánlatkérés</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/8/csm_zShopfloor_Feature_01_969ecbcfca.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "Szerszámtartók »idChip«-pel"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-retro",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "downloads",
+   "header": "<h2>Letöltések</h2>",
+   "files": [
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Broschuere_Tooling_BRTOSO-00_US_01.pdf",
+     "name": "ZOLLER Tooling Solutions",
+     "size": "2 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/6/2/csm_ZOLLER_Broschuere_Tooling_BRTOSO-00_US_01_a9c6bb127e.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ZOLLER Tooling Solutions"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Smarte_Fertigung/ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_EN_02.pdf",
+     "name": "Smart Manufacturing",
+     "size": "804 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/2/b/csm_ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_EN_02_dea61a226f.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Smart Manufacturing"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/zidCode/info-pool/ZOLLER_Flyer_TMS_zidCode_FLTMSZC_00_EN_13.pdf",
+     "name": "Efficient tool handling",
+     "size": "1,000 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/c/0/csm_ZOLLER_Flyer_TMS_zidCode_FLTMSZC_00_EN_13_58cf71a344.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Efficient tool handling"
+     }
+    }
+   ],
+   "id": "idchip-downloads",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/hu/termekek/szerszamtartok/idchip",
+ "de_path": "/produkte/werkzeugaufnahmen/idchip"
+}

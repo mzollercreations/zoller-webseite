@@ -1,0 +1,286 @@
+{
+ "path": "/prodotti/soluzioni-dutensileria/idchip",
+ "url": "/it/prodotti/soluzioni-dutensileria/idchip",
+ "title": "»idChip«",
+ "description": "»idChip« - Identificare i portautensili in modo univoco - Identificazione utensili",
+ "og_image": "",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "»idChip«",
+   "text": "<p>Identificare ogni portautensile in modo univoco – in ogni fase della vostra produzione</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Richiedi un’offerta</a></p>",
+   "img": {
+    "src": "/fileadmin/02_Products/idChip/zoller_idchip_werkzeughalter.webp",
+    "w": 331,
+    "h": 689,
+    "alt": "Portautensili con »idChip«"
+   },
+   "id": "idchip-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3>Identificazione utensili</h3> <h2>L’identità digitale dei vostri portautensili</h2>",
+   "body": "<p><strong>Lo ZOLLER »idChip« è un chip codificato in plastica estremamente robusta, integrato in modo permanente nel portautensile. Il suo codice DataMatrix rende ogni portautensile identificabile in modo univoco: sull’apparecchio di regolazione e misurazione, sull’apparecchio per il calettamento a caldo, nel magazzino utensili e sulla macchina CNC.</strong></p> <p>Così sapete sempre tutto dei vostri portautensili: numero di cicli di riscaldamento, impieghi in macchina e molto altro. Durata del prodotto, gemello digitale e altre informazioni sono disponibili sempre e ovunque, a costi nettamente inferiori a quelli dei transponder RFID.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/7/csm_zoller_smarte_solutions_171a2dc46c.webp",
+     "w": 1454,
+     "h": 1454,
+     "alt": "Portautensili con »idChip«"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-intro",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Integrato saldamente. Protetto nel portautensile.</h2>",
+   "body": "<p>L’»idChip« è alloggiato nel foro per chip del portautensile e viene incollato con un adesivo bicomponente. Insieme all’adesivo, la tecnologia a 3 scanalature del foro crea un accoppiamento geometrico per un collegamento sicuro e saldo. In questo modo il chip è protetto, ma resta ben visibile.</p> <p>Sui portautensili ZOLLER Tooling con cono cavo HSK-A, cono SK e cono poligonale PSC il foro per chip è di serie. Accoglie l’»idChip« o altri supporti dati come i chip RFID.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/9/csm_chip_edd3e9cbeb.webp",
+     "w": 1524,
+     "h": 887,
+     "alt": "»idChip« con codice DataMatrix nel foro per chip"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-fix",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Una scansione. Tutte le informazioni.</h2>",
+   "body": "<p>Basta una scansione del codice DataMatrix: l’utensile è identificato in modo univoco e i relativi dati utensile arrivano direttamente dal database. Errori di inserimento e scambi diventano un ricordo del passato.</p> <p>Servono solo uno scanner che legga il codice DataMatrix e un software che gestisca i vostri dati utensile. ZOLLER vi offre entrambi con »zidCode 4.0« e TMS Tool Management Solutions.</p> <p>In TMS Tool Management Solutions ogni portautensile è gestito tramite il suo ID. L’»idChip« è previsto come hardware opzionale per gli add-on »z.Shopfloor« e »z.Connectivity«.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/7/csm_software_idchip_9694061981.webp",
+     "w": 1000,
+     "h": 563,
+     "alt": "Scansione dell’»idChip« con lo scanner manuale"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-scan",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Un codice per l’intero ciclo dell’utensile</h2>",
+   "body": "<p>L’»idChip« accompagna il portautensile in ogni fase e le soluzioni ZOLLER lo riconoscono ovunque.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/4/csm_venturion_header_2a53427792.webp",
+     "w": 1080,
+     "h": 930,
+     "alt": "",
+     "title": "Regolazione e misurazione",
+     "caption": "<figcaption> <h3>Regolazione e misurazione</h3> <p>Scansione sull’apparecchio di regolazione e misurazione: i dati utensile vengono richiamati direttamente e i parametri di misura caricati automaticamente. Così ogni utensile viene misurato sempre allo stesso modo.</p> </figcaption>",
+     "href": "/produkte/einstellen-messen"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/f/csm_option_zidcode_01_45e04f3e38.webp",
+     "w": 792,
+     "h": 457,
+     "alt": "",
+     "title": "Tecnologia per il calettamento a caldo",
+     "caption": "<figcaption> <h3>Tecnologia per il calettamento a caldo</h3> <p>Scansione sul »powerShrink«: tutti i parametri di calettamento sono subito disponibili nel software »pilot«. Ogni ciclo di riscaldamento viene contato per ciascun mandrino a calettamento ed è possibile impostare limiti di avviso e di usura.</p> </figcaption>",
+     "href": "/produkte/schrumpftechnik/powershrink"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/b/csm_software_zidCode4_7a2e75321f.webp",
+     "w": 1920,
+     "h": 1690,
+     "alt": "",
+     "title": "In macchina",
+     "caption": "<figcaption> <h3>In macchina</h3> <p>Scansione con »zidCode 4.0« sulla macchina CNC: i dati utensile arrivano dal database al controllo della macchina in modo rapido e senza errori.</p> </figcaption>",
+     "href": "/produkte/toolmanagement/zidcode"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 4,
+   "valign": "top",
+   "id": "idchip-cycle",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>»idChip« o »idLabel«?</h2>",
+   "body": "<p>Entrambi riportano un codice DataMatrix e rendono gli utensili identificabili in modo univoco. La soluzione giusta dipende dall’impiego.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/02_Products/idChip/zoller_idchip_vergleich_idchip.webp",
+     "w": 1390,
+     "h": 869,
+     "alt": "»idChip«",
+     "title": "»idChip«",
+     "caption": "<figcaption> <h3>»idChip«</h3> <p>La scelta migliore per gli utensili rotanti: integrato saldamente nel portautensile, protetto e comunque ben visibile.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/02_Products/idChip/zoller_idchip_vergleich_idlabel.webp",
+     "w": 1385,
+     "h": 866,
+     "alt": "»idLabel«",
+     "title": "»idLabel«",
+     "caption": "<figcaption> <h3>»idLabel«</h3> <p>Consigliato per utensili da tornitura e attrezzature che non lavorano in rotazione: l’etichetta rivestita in resina si applica in modo saldo e sicuro sul portautensile.</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "id": "idchip-vs",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Di fabbrica o in un secondo momento</h2>",
+   "body": "<p>Su richiesta forniamo tutti i portautensili ZOLLER Tooling con »idChip« integrato e codice DataMatrix, bilanciati con il chip e consegnati direttamente nella vostra produzione.</p> <p>Anche gli utensili esistenti possono essere dotati dell’»idChip« in qualsiasi momento. Basta contattare il nostro reparto vendite.</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Richiedi un’offerta</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/8/csm_zShopfloor_Feature_01_969ecbcfca.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "Portautensili con »idChip«"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-retro",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "downloads",
+   "header": "<h2>Download</h2>",
+   "files": [
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Broschuere_Tooling_BRTOSO-00_IT.pdf",
+     "name": "ZOLLER Tooling Solutions",
+     "size": "2 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/5/3/csm_ZOLLER_Broschuere_Tooling_BRTOSO-00_IT_958ff7850a.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ZOLLER Tooling Solutions"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Smarte_Fertigung/ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_IT.pdf",
+     "name": "Produzione intelligente",
+     "size": "810 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/b/1/csm_ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_IT_8b04042f67.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Produzione intelligente"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/zidCode/info-pool/Zoller_flyer_tms_zidcode_fltmszc_00_it.pdf",
+     "name": "Gestione efficiente degli utensili",
+     "size": "1 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/5/1/csm_Zoller_flyer_tms_zidcode_fltmszc_00_it_6d34c6cfbc.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Gestione efficiente degli utensili"
+     }
+    }
+   ],
+   "id": "idchip-downloads",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Gestione degli utensili: i vostri vantaggi",
+     "href": "/it/solutions/tool-management",
+     "caption": "<figcaption> <h3>Gestione degli utensili: i vostri vantaggi</h3> <p>Scoprite come la gestione degli utensili di ZOLLER aumenta immediatamente la vostra produttività. Con i dati utensile, i processi sono più veloci e sicuri, compresa la protezione anticollisione per le vostre macchine. </p> <br/> Scopri di più </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Colloquio con esperti",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Colloquio con esperti</h3> <p>Uno scambio individuale sui vostri obiettivi e sulle nostre idee per raggiungerli. La consulenza online di ZOLLER direttamente dalla Smart Factory. Fissate subito un appuntamento. </p> <br/> Scopri di più </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "idchip-teaser",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/it/prodotti/soluzioni-dutensileria/idchip",
+ "de_path": "/produkte/werkzeugaufnahmen/idchip"
+}

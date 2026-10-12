@@ -1,0 +1,250 @@
+{
+ "path": "/produkty/uchwyty-narzedziowe/idchip",
+ "url": "/pl/produkty/uchwyty-narzedziowe/idchip",
+ "title": "»idChip«",
+ "description": "»idChip« - Jednoznaczna identyfikacja uchwytów narzędziowych - Identyfikacja narzędzi",
+ "og_image": "",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "»idChip«",
+   "text": "<p>Jednoznaczna identyfikacja każdego uchwytu narzędziowego – na każdym etapie produkcji</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Zapytaj o ofertę</a></p>",
+   "img": {
+    "src": "/fileadmin/02_Products/idChip/zoller_idchip_werkzeughalter.webp",
+    "w": 331,
+    "h": 689,
+    "alt": "Uchwyty narzędziowe z chipem »idChip«"
+   },
+   "id": "idchip-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3>Identyfikacja narzędzi</h3> <h2>Cyfrowa tożsamość Państwa uchwytów narzędziowych</h2>",
+   "body": "<p><strong>ZOLLER »idChip« to kodowany chip z wyjątkowo wytrzymałego tworzywa sztucznego, na stałe zintegrowany z uchwytem narzędziowym. Jego kod DataMatrix sprawia, że każdy uchwyt można jednoznacznie zidentyfikować – na urządzeniu do ustawiania i pomiaru narzędzi, na urządzeniu do termokurczliwego mocowania narzędzi, w magazynie narzędzi i na obrabiarce CNC.</strong></p> <p>Dzięki temu w każdej chwili wiedzą Państwo wszystko o swoich uchwytach narzędziowych: liczbę cykli nagrzewania, zastosowania na maszynie i wiele więcej. Okres eksploatacji, cyfrowy bliźniak i inne informacje są dostępne zawsze i wszędzie – przy kosztach znacznie niższych niż w przypadku transponderów RFID.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/7/csm_zoller_smarte_solutions_171a2dc46c.webp",
+     "w": 1454,
+     "h": 1454,
+     "alt": "Uchwyty narzędziowe z chipem »idChip«"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-intro",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Trwale zintegrowany. Chroniony w uchwycie.</h2>",
+   "body": "<p>Chip »idChip« umieszcza się w otworze na chip w uchwycie narzędziowym i wkleja klejem dwuskładnikowym. Technologia 3 rowków w otworze na chip wraz z klejem zapewnia połączenie kształtowe – bezpieczne i trwałe. Dzięki temu chip jest chroniony, a jednocześnie dobrze widoczny.</p> <p>W uchwytach narzędziowych ZOLLER Tooling ze stożkiem HSK-A, SK i PSC otwór na chip jest standardem. Mieści chip »idChip« lub inne nośniki danych, np. chipy RFID.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/9/csm_chip_edd3e9cbeb.webp",
+     "w": 1524,
+     "h": 887,
+     "alt": "»idChip« z kodem DataMatrix w otworze na chip"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-fix",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Jedno skanowanie. Pełna wiedza.</h2>",
+   "body": "<p>Wystarczy zeskanować kod DataMatrix: narzędzie zostaje jednoznacznie zidentyfikowane, a powiązane dane narzędzia trafiają prosto z bazy danych. Błędy wprowadzania i pomyłki należą do przeszłości.</p> <p>Potrzebny jest do tego skaner odczytujący kod DataMatrix oraz oprogramowanie do zarządzania danymi narzędzi. ZOLLER oferuje jedno i drugie: »zidCode 4.0« oraz TMS Tool Management Solutions.</p> <p>W TMS Tool Management Solutions każdy uchwyt jest zarządzany za pomocą swojego ID. Chip »idChip« przewidziano jako opcjonalny sprzęt dla dodatków »z.Shopfloor« i »z.Connectivity«.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/7/csm_software_idchip_9694061981.webp",
+     "w": 1000,
+     "h": 563,
+     "alt": "Skanowanie chipa »idChip« skanerem ręcznym"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-scan",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Jeden kod dla całego obiegu narzędzia</h2>",
+   "body": "<p>Chip »idChip« towarzyszy uchwytowi na każdym etapie – a rozwiązania ZOLLER rozpoznają go wszędzie.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/4/csm_venturion_header_2a53427792.webp",
+     "w": 1080,
+     "h": 930,
+     "alt": "",
+     "title": "Ustawianie i pomiary",
+     "caption": "<figcaption> <h3>Ustawianie i pomiary</h3> <p>Skanowanie na urządzeniu do ustawiania i pomiaru: dane narzędzia są pobierane bezpośrednio, a parametry pomiaru ładowane automatycznie. Dzięki temu każde narzędzie jest zawsze mierzone w ten sam sposób.</p> </figcaption>",
+     "href": "/produkte/einstellen-messen"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/f/csm_option_zidcode_01_45e04f3e38.webp",
+     "w": 792,
+     "h": 457,
+     "alt": "",
+     "title": "Technika termokurczliwego mocowania narzędzi",
+     "caption": "<figcaption> <h3>Technika termokurczliwego mocowania narzędzi</h3> <p>Skanowanie na urządzeniu »powerShrink«: wszystkie parametry mocowania termokurczliwego są od razu dostępne w oprogramowaniu »pilot«. Każdy cykl nagrzewania jest liczony dla każdej oprawki termokurczliwej, a progi ostrzegawcze i graniczne zużycia można zapisać.</p> </figcaption>",
+     "href": "/produkte/schrumpftechnik/powershrink"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/b/csm_software_zidCode4_7a2e75321f.webp",
+     "w": 1920,
+     "h": 1690,
+     "alt": "",
+     "title": "Na maszynie",
+     "caption": "<figcaption> <h3>Na maszynie</h3> <p>Skanowanie za pomocą »zidCode 4.0« na obrabiarce CNC: dane narzędzia trafiają z bazy danych do sterowania maszyny szybko i bez błędów.</p> </figcaption>",
+     "href": "/produkte/toolmanagement/zidcode"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 4,
+   "valign": "top",
+   "id": "idchip-cycle",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>»idChip« czy »idLabel«?</h2>",
+   "body": "<p>Oba rozwiązania mają kod DataMatrix i umożliwiają jednoznaczną identyfikację narzędzi. Wybór zależy od zastosowania.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/02_Products/idChip/zoller_idchip_vergleich_idchip.webp",
+     "w": 1390,
+     "h": 869,
+     "alt": "»idChip«",
+     "title": "»idChip«",
+     "caption": "<figcaption> <h3>»idChip«</h3> <p>Lepszy wybór dla narzędzi obrotowych: trwale zintegrowany z uchwytem, chroniony, a mimo to dobrze widoczny.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/02_Products/idChip/zoller_idchip_vergleich_idlabel.webp",
+     "w": 1385,
+     "h": 866,
+     "alt": "»idLabel«",
+     "title": "»idLabel«",
+     "caption": "<figcaption> <h3>»idLabel«</h3> <p>Zalecana do narzędzi tokarskich i przyrządów, które nie pracują w ruchu obrotowym: etykieta pokryta żywicą jest mocno i bezpiecznie mocowana na uchwycie narzędziowym.</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "id": "idchip-vs",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Fabrycznie lub jako doposażenie</h2>",
+   "body": "<p>Na życzenie dostarczamy wszystkie uchwyty narzędziowe ZOLLER Tooling z trwale zintegrowanym chipem »idChip« i kodem DataMatrix – wyważone razem z chipem, bezpośrednio do Państwa zakładu.</p> <p>Istniejące narzędzia również można w każdej chwili wyposażyć w chip »idChip«. Wystarczy skontaktować się z naszym działem sprzedaży.</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Zapytaj o ofertę</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/8/csm_zShopfloor_Feature_01_969ecbcfca.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "Uchwyty narzędziowe z chipem »idChip«"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-retro",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "downloads",
+   "header": "<h2>Do pobrania</h2>",
+   "files": [
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Broschuere_Tooling_BRTOSO-00_US_01.pdf",
+     "name": "ZOLLER Tooling Solutions",
+     "size": "2 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/6/2/csm_ZOLLER_Broschuere_Tooling_BRTOSO-00_US_01_a9c6bb127e.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ZOLLER Tooling Solutions"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Smarte_Fertigung/ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_EN_02.pdf",
+     "name": "Smart Manufacturing",
+     "size": "804 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/2/b/csm_ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_EN_02_dea61a226f.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Smart Manufacturing"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/zidCode/info-pool/ZOLLER_Flyer_TMS_zidCode_FLTMSZC_00_EN_13.pdf",
+     "name": "Efficient tool handling",
+     "size": "1,000 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/c/0/csm_ZOLLER_Flyer_TMS_zidCode_FLTMSZC_00_EN_13_58cf71a344.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Efficient tool handling"
+     }
+    }
+   ],
+   "id": "idchip-downloads",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/pl/produkty/uchwyty-narzedziowe/idchip",
+ "de_path": "/produkte/werkzeugaufnahmen/idchip"
+}

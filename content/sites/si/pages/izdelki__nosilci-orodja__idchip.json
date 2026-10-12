@@ -1,0 +1,250 @@
+{
+ "path": "/izdelki/nosilci-orodja/idchip",
+ "url": "/si/izdelki/nosilci-orodja/idchip",
+ "title": "»idChip«",
+ "description": "»idChip« - Nedvoumna identifikacija držal orodja - Identifikacija orodij",
+ "og_image": "",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "»idChip«",
+   "text": "<p>Nedvoumno prepoznajte vsako držalo orodja – na vsaki postaji vaše proizvodnje</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Pošljite povpraševanje</a></p>",
+   "img": {
+    "src": "/fileadmin/02_Products/idChip/zoller_idchip_werkzeughalter.webp",
+    "w": 331,
+    "h": 689,
+    "alt": "Držala orodja s čipom »idChip«"
+   },
+   "id": "idchip-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3>Identifikacija orodij</h3> <h2>Digitalna identiteta vaših držal orodja</h2>",
+   "body": "<p><strong>ZOLLER »idChip« je kodiran čip iz izjemno robustne plastike, ki je trajno vgrajen v držalo orodja. Njegova koda DataMatrix omogoča nedvoumno identifikacijo vsakega držala – na napravi za nastavitev in merjenje, na napravi za krčenje, v skladišču orodij in na stroju CNC.</strong></p> <p>Tako o svojih držalih orodja vedno veste vse: število ciklov segrevanja, uporabe na stroju in še veliko več. Življenjska doba, digitalni dvojček in druge informacije so na voljo kadarkoli in kjerkoli – s stroški, ki so precej nižji od stroškov RFID-transponderjev.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/7/csm_zoller_smarte_solutions_171a2dc46c.webp",
+     "w": 1454,
+     "h": 1454,
+     "alt": "Držala orodja s čipom »idChip«"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-intro",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Trdno vgrajen. Zaščiten v držalu.</h2>",
+   "body": "<p>Čip »idChip« je nameščen v izvrtini za čip na držalu orodja in prilepljen z dvokomponentnim lepilom. Tehnologija treh utorov v izvrtini za čip skupaj z lepilom zagotavlja oblikovno povezavo – za varno in trdno pritrditev. Tako je čip zaščiten, a kljub temu dobro viden.</p> <p>Pri držalih orodja ZOLLER Tooling s stožci HSK-A, SK in PSC je izvrtina za čip standardna. Vanjo se namesti čip »idChip« ali drug nosilec podatkov, na primer RFID-čip.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/9/csm_chip_edd3e9cbeb.webp",
+     "w": 1524,
+     "h": 887,
+     "alt": "»idChip« s kodo DataMatrix v izvrtini za čip"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-fix",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Eno skeniranje. Vse informacije.</h2>",
+   "body": "<p>Dovolj je eno skeniranje kode DataMatrix: orodje je nedvoumno identificirano, pripadajoči podatki o orodju pa pridejo neposredno iz baze podatkov. Napake pri vnosu in zamenjave so tako preteklost.</p> <p>Za to potrebujete skener, ki prebere kodo DataMatrix, in programsko opremo za upravljanje podatkov o orodjih. Oboje vam ZOLLER ponuja z »zidCode 4.0« in TMS Tool Management Solutions.</p> <p>V TMS Tool Management Solutions se vsako držalo upravlja prek svojega ID-ja. Čip »idChip« je predviden kot izbirna strojna oprema za dodatka »z.Shopfloor« in »z.Connectivity«.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/7/csm_software_idchip_9694061981.webp",
+     "w": 1000,
+     "h": 563,
+     "alt": "Skeniranje čipa »idChip« z ročnim skenerjem"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-scan",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Ena koda za celoten krog orodja</h2>",
+   "body": "<p>Čip »idChip« spremlja držalo orodja na vsaki postaji – rešitve ZOLLER pa ga prepoznajo povsod.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/4/csm_venturion_header_2a53427792.webp",
+     "w": 1080,
+     "h": 930,
+     "alt": "",
+     "title": "Nastavitev in merjenje",
+     "caption": "<figcaption> <h3>Nastavitev in merjenje</h3> <p>Skeniranje na napravi za nastavitev in merjenje: podatki o orodju se prikličejo neposredno, merilni parametri pa se naložijo samodejno. Tako je vsako orodje vedno izmerjeno enako.</p> </figcaption>",
+     "href": "/produkte/einstellen-messen"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/f/csm_option_zidcode_01_45e04f3e38.webp",
+     "w": 792,
+     "h": 457,
+     "alt": "",
+     "title": "Tehnika krčenja",
+     "caption": "<figcaption> <h3>Tehnika krčenja</h3> <p>Skeniranje na napravi »powerShrink«: vsi parametri krčenja so takoj na voljo v programski opremi »pilot«. Vsak cikel segrevanja se šteje za vsako krčno vpenjalo, nastaviti pa je mogoče tudi opozorilne meje in meje obrabe.</p> </figcaption>",
+     "href": "/produkte/schrumpftechnik/powershrink"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/b/csm_software_zidCode4_7a2e75321f.webp",
+     "w": 1920,
+     "h": 1690,
+     "alt": "",
+     "title": "Na stroju",
+     "caption": "<figcaption> <h3>Na stroju</h3> <p>Skeniranje z »zidCode 4.0« na stroju CNC: podatki o orodju pridejo iz baze podatkov hitro in brez napak v krmilje stroja.</p> </figcaption>",
+     "href": "/produkte/toolmanagement/zidcode"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 4,
+   "valign": "top",
+   "id": "idchip-cycle",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>»idChip« ali »idLabel«?</h2>",
+   "body": "<p>Oba imata kodo DataMatrix in omogočata nedvoumno identifikacijo orodij. Prava rešitev je odvisna od uporabe.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/02_Products/idChip/zoller_idchip_vergleich_idchip.webp",
+     "w": 1390,
+     "h": 869,
+     "alt": "»idChip«",
+     "title": "»idChip«",
+     "caption": "<figcaption> <h3>»idChip«</h3> <p>Boljša izbira za rotirajoča orodja: trdno vgrajen v držalo, tam zaščiten in vendar dobro viden.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/02_Products/idChip/zoller_idchip_vergleich_idlabel.webp",
+     "w": 1385,
+     "h": 866,
+     "alt": "»idLabel«",
+     "title": "»idLabel«",
+     "caption": "<figcaption> <h3>»idLabel«</h3> <p>Priporočena za stružna orodja in priprave, ki med uporabo ne rotirajo: etiketa s smolnim premazom se trdno in varno namesti na držalo orodja.</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "id": "idchip-vs",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Tovarniško ali naknadno</h2>",
+   "body": "<p>Na željo vsa držala orodja ZOLLER Tooling dobavimo s trdno vgrajenim čipom »idChip« in kodo DataMatrix – uravnotežena skupaj s čipom in neposredno v vašo proizvodnjo.</p> <p>Tudi obstoječa orodja lahko kadarkoli naknadno opremite s čipom »idChip«. Preprosto se obrnite na našo prodajno službo.</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Pošljite povpraševanje</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/8/csm_zShopfloor_Feature_01_969ecbcfca.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "Držala orodja s čipom »idChip«"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-retro",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "downloads",
+   "header": "<h2>Prenosi</h2>",
+   "files": [
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Broschuere_Tooling_BRTOSO-00_US_01.pdf",
+     "name": "ZOLLER Tooling Solutions",
+     "size": "2 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/6/2/csm_ZOLLER_Broschuere_Tooling_BRTOSO-00_US_01_a9c6bb127e.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ZOLLER Tooling Solutions"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Smarte_Fertigung/ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_EN_02.pdf",
+     "name": "Smart Manufacturing",
+     "size": "804 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/2/b/csm_ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_EN_02_dea61a226f.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Smart Manufacturing"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/zidCode/info-pool/ZOLLER_Flyer_TMS_zidCode_FLTMSZC_00_EN_13.pdf",
+     "name": "Efficient tool handling",
+     "size": "1,000 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/c/0/csm_ZOLLER_Flyer_TMS_zidCode_FLTMSZC_00_EN_13_58cf71a344.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Efficient tool handling"
+     }
+    }
+   ],
+   "id": "idchip-downloads",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/si/izdelki/nosilci-orodja/idchip",
+ "de_path": "/produkte/werkzeugaufnahmen/idchip"
+}

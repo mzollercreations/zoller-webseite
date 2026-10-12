@@ -1,0 +1,286 @@
+{
+ "path": "/produkte/werkzeugaufnahmen/idchip",
+ "url": "/at/produkte/werkzeugaufnahmen/idchip",
+ "title": "»idChip«",
+ "description": "»idChip« - Werkzeughalter eindeutig identifizieren - Werkzeugidentifikation",
+ "og_image": "",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "»idChip«",
+   "text": "<p>Werkzeughalter eindeutig identifizieren – an jeder Station Ihrer Fertigung</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Jetzt anfragen</a></p>",
+   "img": {
+    "src": "/fileadmin/02_Products/idChip/zoller_idchip_werkzeughalter.webp",
+    "w": 331,
+    "h": 689,
+    "alt": "Werkzeugaufnahmen mit »idChip«"
+   },
+   "id": "idchip-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3>Werkzeugidentifikation</h3> <h2>Die digitale Identität Ihrer Werkzeughalter</h2>",
+   "body": "<p><strong>Der ZOLLER »idChip« ist ein codierter Chip aus äußerst robustem Kunststoff, fest integriert in den Werkzeughalter. Sein DataMatrix-Code macht jeden Halter eindeutig identifizierbar – am Einstell- und Messgerät, am Schrumpfgerät, im Werkzeuglager und an der CNC-Maschine.</strong></p> <p>So wissen Sie zu jeder Zeit alles über Ihre Werkzeughalter: Anzahl der Heizvorgänge, Einsätze an der Maschine und vieles mehr. Produktlebenszeit, digitaler Zwilling und weitere Informationen sind jederzeit und überall verfügbar – zu Kosten weit unter denen von RFID-Transpondern.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/7/csm_zoller_smarte_solutions_171a2dc46c.webp",
+     "w": 1454,
+     "h": 1454,
+     "alt": "Werkzeugaufnahmen mit »idChip«"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-intro",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Fest integriert. Geschützt im Halter.</h2>",
+   "body": "<p>Der »idChip« sitzt in der Chip-Bohrung der Werkzeugaufnahme und wird mit 2-Komponenten-Kleber eingeklebt. Die 3-Rillen-Technologie in der Chip-Bohrung sorgt zusammen mit dem Kleber für einen Formschluss – für eine sichere und feste Verbindung. So ist der Chip geschützt und bleibt trotzdem gut erkennbar.</p> <p>Bei den ZOLLER Tooling Werkzeugaufnahmen mit Hohlschaftkegel HSK-A, Steilkegel SK und Polygonschaftkegel PSC ist die Chip-Bohrung Standard. Sie nimmt den »idChip« oder andere Datenträger wie RFID-Chips auf.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/9/csm_chip_edd3e9cbeb.webp",
+     "w": 1524,
+     "h": 887,
+     "alt": "»idChip« mit DataMatrix-Code in der Chip-Bohrung"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-fix",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Einmal scannen. Alles wissen.</h2>",
+   "body": "<p>Ein Scan des DataMatrix-Codes genügt: Das Werkzeug ist eindeutig identifiziert, die zugehörigen Werkzeugdaten kommen direkt aus der Datenbank. Eingabefehler und Verwechslungen gehören damit der Vergangenheit an.</p> <p>Dafür brauchen Sie einen Scanner, der den DataMatrix-Code liest, und eine Software, die Ihre Werkzeugdaten verwaltet. Beides bietet Ihnen ZOLLER mit »zidCode 4.0« und TMS Tool Management Solutions.</p> <p>In TMS Tool Management Solutions wird jeder Halter über seine ID verwaltet. Für die Add-ons »z.Shopfloor« und »z.Connectivity« ist der »idChip« als optionale Hardware vorgesehen.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/7/csm_software_idchip_9694061981.webp",
+     "w": 1000,
+     "h": 563,
+     "alt": "Der »idChip« wird mit dem Hand-Scanner gescannt"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-scan",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Ein Code für den ganzen Werkzeugkreislauf</h2>",
+   "body": "<p>Der »idChip« begleitet den Werkzeughalter durch alle Stationen – und die ZOLLER-Lösungen erkennen ihn überall.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/4/csm_venturion_header_2a53427792.webp",
+     "w": 1080,
+     "h": 930,
+     "alt": "",
+     "title": "Einstellen & Messen",
+     "caption": "<figcaption> <h3>Einstellen & Messen</h3> <p>Scan am Einstell- und Messgerät: Die Werkzeugdaten werden direkt abgerufen, die Messparameter automatisch geladen. So wird jedes Werkzeug jederzeit gleich vermessen.</p> </figcaption>",
+     "href": "/produkte/einstellen-messen"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/f/csm_option_zidcode_01_45e04f3e38.webp",
+     "w": 792,
+     "h": 457,
+     "alt": "",
+     "title": "Schrumpftechnik",
+     "caption": "<figcaption> <h3>Schrumpftechnik</h3> <p>Scan am »powerShrink«: Alle Schrumpfparameter stehen sofort in der Software »pilot« bereit. Jeder Heizvorgang wird pro Schrumpffutter gezählt, Warn- und Verschleißgrenzen lassen sich hinterlegen.</p> </figcaption>",
+     "href": "/produkte/schrumpftechnik/powershrink"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/b/csm_software_zidCode4_7a2e75321f.webp",
+     "w": 1920,
+     "h": 1690,
+     "alt": "",
+     "title": "An der Maschine",
+     "caption": "<figcaption> <h3>An der Maschine</h3> <p>Scan mit »zidCode 4.0« an der CNC-Maschine: Die Werkzeugdaten kommen aus der Datenbank und gehen schnell und fehlerfrei in die Maschinensteuerung.</p> </figcaption>",
+     "href": "/produkte/toolmanagement/zidcode"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 4,
+   "valign": "top",
+   "id": "idchip-cycle",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>»idChip« oder »idLabel«?</h2>",
+   "body": "<p>Beide tragen einen DataMatrix-Code und machen Werkzeuge eindeutig identifizierbar. Welche Lösung passt, hängt vom Einsatz ab.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/02_Products/idChip/zoller_idchip_vergleich_idchip.webp",
+     "w": 1390,
+     "h": 869,
+     "alt": "»idChip«",
+     "title": "»idChip«",
+     "caption": "<figcaption> <h3>»idChip«</h3> <p>Die bessere Wahl für rotierende Werkzeuge: fest im Halter integriert, dort geschützt und dennoch gut erkennbar.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/02_Products/idChip/zoller_idchip_vergleich_idlabel.webp",
+     "w": 1385,
+     "h": 866,
+     "alt": "»idLabel«",
+     "title": "»idLabel«",
+     "caption": "<figcaption> <h3>»idLabel«</h3> <p>Empfohlen für Drehwerkzeuge und Vorrichtungen, die nicht rotierend im Einsatz sind: Das mit Harz beschichtete Etikett wird fest und sicher am Werkzeughalter angebracht.</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "id": "idchip-vs",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Ab Werk oder nachgerüstet</h2>",
+   "body": "<p>Auf Wunsch liefern wir alle ZOLLER Tooling Werkzeughalter mit fest integriertem »idChip« und DataMatrix-Code – mit dem Chip ausgewuchtet, direkt in Ihre Fertigung.</p> <p>Auch vorhandene Werkzeuge lassen sich jederzeit nachträglich mit dem »idChip« ausstatten. Sprechen Sie einfach unseren Vertrieb an.</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Jetzt anfragen</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/8/csm_zShopfloor_Feature_01_969ecbcfca.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "Werkzeugaufnahmen mit »idChip«"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-retro",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "downloads",
+   "header": "<h2>Downloads</h2>",
+   "files": [
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Broschuere_Tooling_BRTOSO-00_DE.pdf",
+     "name": "Broschüre ZOLLER Tooling Solutions",
+     "size": "2 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/b/a/csm_ZOLLER_Broschuere_Tooling_BRTOSO-00_DE_dfa165c084.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Broschüre ZOLLER Tooling Solutions"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Smarte_Fertigung/ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_DE_07.pdf",
+     "name": "Smarte Fertigung",
+     "size": "803 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/f/f/csm_ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_DE_07_462bd18b81.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Smarte Fertigung"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/zidCode/info-pool/ZOLLER_Flyer_TMS_zidCode_FLTMSZC_00_DE_04.pdf",
+     "name": "Effizientes Werkzeughandling",
+     "size": "1,003 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/f/6/csm_ZOLLER_Flyer_TMS_zidCode_FLTMSZC_00_DE_04_2b5b62e093.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Effizientes Werkzeughandling"
+     }
+    }
+   ],
+   "id": "idchip-downloads",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Toolmanagement: Ihre Vorteile",
+     "href": "/at/solutions/toolmanagement",
+     "caption": "<figcaption> <h3>Toolmanagement: Ihre Vorteile</h3> <p>Erfahren Sie, wie Toolmanagement von ZOLLER Ihre Produktivität sofort steigert. Mit Werkzeugdaten laufen Prozesse schneller und sicherer – inklusive Crash-Schutz für Ihre Maschinen. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "idchip-teaser",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/at/produkte/werkzeugaufnahmen/idchip",
+ "de_path": "/produkte/werkzeugaufnahmen/idchip"
+}

@@ -1,0 +1,286 @@
+{
+ "path": "/produits/porte-outils/idchip",
+ "url": "/ca-fr/produits/porte-outils/idchip",
+ "title": "»idChip«",
+ "description": "»idChip« - Identifier clairement les porte-outils - Identification des outils",
+ "og_image": "",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "»idChip«",
+   "text": "<p>Identifier clairement chaque porte-outil – à chaque étape de votre production</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Demander une offre</a></p>",
+   "img": {
+    "src": "/fileadmin/02_Products/idChip/zoller_idchip_werkzeughalter.webp",
+    "w": 331,
+    "h": 689,
+    "alt": "Porte-outils avec »idChip«"
+   },
+   "id": "idchip-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3>Identification des outils</h3> <h2>L’identité numérique de vos porte-outils</h2>",
+   "body": "<p><strong>La puce ZOLLER »idChip« est une puce codée en plastique extrêmement robuste, intégrée de façon permanente dans le porte-outil. Son code DataMatrix rend chaque porte-outil identifiable de manière unique – sur l’appareil de réglage et de mesure, sur l’appareil de frettage, dans le magasin d’outils et sur la machine CNC.</strong></p> <p>Vous savez ainsi à tout moment tout de vos porte-outils : nombre de cycles de chauffage, utilisations sur la machine et bien plus encore. Durée de vie, jumeau numérique et autres informations sont disponibles à tout moment et partout – pour un coût bien inférieur à celui des transpondeurs RFID.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/7/csm_zoller_smarte_solutions_171a2dc46c.webp",
+     "w": 1454,
+     "h": 1454,
+     "alt": "Porte-outils avec »idChip«"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-intro",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Solidement intégrée. Protégée dans le porte-outil.</h2>",
+   "body": "<p>La puce »idChip« se loge dans le perçage pour puce du porte-outil, où elle est collée avec une colle à deux composants. Associée à la colle, la technologie à 3 rainures du perçage assure une liaison par complémentarité de forme – pour une fixation sûre et solide. La puce est ainsi protégée tout en restant bien visible.</p> <p>Sur les porte-outils ZOLLER Tooling à cône creux HSK-A, à cône SK et à cône polygonal PSC, le perçage pour puce est standard. Il accueille la puce »idChip« ou d’autres supports de données comme les puces RFID.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/9/csm_chip_edd3e9cbeb.webp",
+     "w": 1524,
+     "h": 887,
+     "alt": "»idChip« avec code DataMatrix dans le perçage pour puce"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-fix",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Scanner une fois. Tout savoir.</h2>",
+   "body": "<p>Un seul scan du code DataMatrix suffit : l’outil est identifié de manière unique et les données d’outil associées proviennent directement de la base de données. Les erreurs de saisie et les confusions appartiennent au passé.</p> <p>Il vous faut pour cela un scanner capable de lire le code DataMatrix et un logiciel qui gère vos données d’outils. ZOLLER vous offre les deux avec »zidCode 4.0« et TMS Tool Management Solutions.</p> <p>Dans TMS Tool Management Solutions, chaque porte-outil est géré par son identifiant. La puce »idChip« est prévue comme matériel optionnel pour les add-ons »z.Shopfloor« et »z.Connectivity«.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/7/csm_software_idchip_9694061981.webp",
+     "w": 1000,
+     "h": 563,
+     "alt": "Lecture de la puce »idChip« avec le scanner manuel"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-scan",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Un code pour tout le cycle de l’outil</h2>",
+   "body": "<p>La puce »idChip« accompagne le porte-outil à chaque étape – et les solutions ZOLLER la reconnaissent partout.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/4/csm_venturion_header_2a53427792.webp",
+     "w": 1080,
+     "h": 930,
+     "alt": "",
+     "title": "Réglage et mesure",
+     "caption": "<figcaption> <h3>Réglage et mesure</h3> <p>Scan sur l’appareil de réglage et de mesure : les données d’outil sont appelées directement et les paramètres de mesure chargés automatiquement. Chaque outil est ainsi toujours mesuré de la même manière.</p> </figcaption>",
+     "href": "/produkte/einstellen-messen"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/f/csm_option_zidcode_01_45e04f3e38.webp",
+     "w": 792,
+     "h": 457,
+     "alt": "",
+     "title": "Technique de frettage",
+     "caption": "<figcaption> <h3>Technique de frettage</h3> <p>Scan sur le »powerShrink« : tous les paramètres de frettage sont immédiatement disponibles dans le logiciel »pilot«. Chaque cycle de chauffage est compté par mandrin de frettage, et des limites d’alerte et d’usure peuvent être définies.</p> </figcaption>",
+     "href": "/produkte/schrumpftechnik/powershrink"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/b/csm_software_zidCode4_7a2e75321f.webp",
+     "w": 1920,
+     "h": 1690,
+     "alt": "",
+     "title": "Sur la machine",
+     "caption": "<figcaption> <h3>Sur la machine</h3> <p>Scan avec »zidCode 4.0« sur la machine CNC : les données d’outil proviennent de la base de données et sont transmises rapidement et sans erreur à la commande de la machine.</p> </figcaption>",
+     "href": "/produkte/toolmanagement/zidcode"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 4,
+   "valign": "top",
+   "id": "idchip-cycle",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>»idChip« ou »idLabel« ?</h2>",
+   "body": "<p>Les deux portent un code DataMatrix et rendent les outils identifiables de manière unique. Le bon choix dépend de l’utilisation.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/02_Products/idChip/zoller_idchip_vergleich_idchip.webp",
+     "w": 1390,
+     "h": 869,
+     "alt": "»idChip«",
+     "title": "»idChip«",
+     "caption": "<figcaption> <h3>»idChip«</h3> <p>Le meilleur choix pour les outils rotatifs : solidement intégrée dans le porte-outil, protégée et pourtant bien visible.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/02_Products/idChip/zoller_idchip_vergleich_idlabel.webp",
+     "w": 1385,
+     "h": 866,
+     "alt": "»idLabel«",
+     "title": "»idLabel«",
+     "caption": "<figcaption> <h3>»idLabel«</h3> <p>Recommandée pour les outils de tournage et les dispositifs qui ne tournent pas en service : l’étiquette revêtue de résine se fixe solidement et durablement sur le porte-outil.</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "id": "idchip-vs",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Montée en usine ou ajoutée ultérieurement</h2>",
+   "body": "<p>Sur demande, nous livrons tous les porte-outils ZOLLER Tooling avec puce »idChip« intégrée et code DataMatrix – équilibrés avec la puce et livrés directement dans votre production.</p> <p>Les outils existants peuvent eux aussi être équipés à tout moment de la puce »idChip«. Il vous suffit de contacter notre service commercial.</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Demander une offre</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/8/csm_zShopfloor_Feature_01_969ecbcfca.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "Porte-outils avec »idChip«"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-retro",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "downloads",
+   "header": "<h2>Téléchargements</h2>",
+   "files": [
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Broschuere_Tooling_BRTOSO-00_US_01.pdf",
+     "name": "Tooling Solutions",
+     "size": "2 Mo",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/6/2/csm_ZOLLER_Broschuere_Tooling_BRTOSO-00_US_01_a9c6bb127e.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Tooling Solutions"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Smarte_Fertigung/ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_EN_02.pdf",
+     "name": "Smart Manufacturing",
+     "size": "804 Ko",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/2/b/csm_ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_EN_02_dea61a226f.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Smart Manufacturing"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/zidCode/info-pool/ZOLLER_Flyer_TMS_zidCode_FLTMSZC_00_EN_13.pdf",
+     "name": "Efficient tool handling",
+     "size": "1,000 Ko",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/c/0/csm_ZOLLER_Flyer_TMS_zidCode_FLTMSZC_00_EN_13_58cf71a344.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Efficient tool handling"
+     }
+    }
+   ],
+   "id": "idchip-downloads",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Gestion des outils : vos avantages",
+     "href": "/ca-fr/solutions/gestion-des-outils",
+     "caption": "<figcaption> <h3>Gestion des outils : vos avantages</h3> <p>Découvrez comment la gestion des outils de ZOLLER augmente immédiatement votre productivité. Grâce aux données d'outils, les processus sont plus rapides et plus sûrs, avec une protection anti-collision pour vos machines. </p> <br/> En savoir plus </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "Entretien individuel avec un expert",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>Entretien individuel avec un expert</h3> <p>Échange individuel sur vos objectifs et nos idées pour les atteindre. Conseil en ligne de ZOLLER directement depuis la Smart Factory. Prenez rendez-vous dès maintenant. </p> <br/> En savoir plus </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "idchip-teaser",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ca-fr/produits/porte-outils/idchip",
+ "de_path": "/produkte/werkzeugaufnahmen/idchip"
+}

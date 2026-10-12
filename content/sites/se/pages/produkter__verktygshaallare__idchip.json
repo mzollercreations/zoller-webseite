@@ -1,0 +1,286 @@
+{
+ "path": "/produkter/verktygshaallare/idchip",
+ "url": "/se/produkter/verktygshaallare/idchip",
+ "title": "»idChip«",
+ "description": "»idChip« - Entydig identifiering av verktygshållare - Verktygsidentifiering",
+ "og_image": "",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "»idChip«",
+   "text": "<p>Identifiera varje verktygshållare entydigt – vid varje station i din produktion</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Begär offert</a></p>",
+   "img": {
+    "src": "/fileadmin/02_Products/idChip/zoller_idchip_werkzeughalter.webp",
+    "w": 331,
+    "h": 689,
+    "alt": "Verktygshållare med »idChip«"
+   },
+   "id": "idchip-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3>Verktygsidentifiering</h3> <h2>Den digitala identiteten för dina verktygshållare</h2>",
+   "body": "<p><strong>ZOLLER »idChip« är ett kodat chip av extremt robust plast som integreras permanent i verktygshållaren. Dess DataMatrix-kod gör varje hållare entydigt identifierbar – vid inställnings- och mätmaskinen, vid krympmaskinen, i verktygsförrådet och vid CNC-maskinen.</strong></p> <p>Så vet du alltid allt om dina verktygshållare: antal uppvärmningscykler, användningar i maskinen och mycket mer. Livslängd, digital tvilling och annan information finns tillgänglig när och var som helst – till en kostnad långt under den för RFID-transpondrar.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/7/csm_zoller_smarte_solutions_171a2dc46c.webp",
+     "w": 1454,
+     "h": 1454,
+     "alt": "Verktygshållare med »idChip«"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-intro",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Fast integrerat. Skyddat i hållaren.</h2>",
+   "body": "<p>»idChip« sitter i chiphålet på verktygshållaren och limmas fast med tvåkomponentslim. Tillsammans med limmet ger 3-spårstekniken i chiphålet ett formlåst förband – för en säker och fast förbindelse. Så är chipet skyddat men ändå väl synligt.</p> <p>På ZOLLER Tooling-verktygshållare med HSK-A-hålkona, SK-brantkona och PSC-polygonkona är chiphålet standard. Det rymmer »idChip« eller andra databärare som RFID-chip.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/9/csm_chip_edd3e9cbeb.webp",
+     "w": 1524,
+     "h": 887,
+     "alt": "»idChip« med DataMatrix-kod i chiphålet"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-fix",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Skanna en gång. Vet allt.</h2>",
+   "body": "<p>En skanning av DataMatrix-koden räcker: verktyget är entydigt identifierat och tillhörande verktygsdata hämtas direkt från databasen. Inmatningsfel och förväxlingar hör därmed till det förflutna.</p> <p>Allt du behöver är en skanner som läser DataMatrix-koden och en programvara som hanterar dina verktygsdata. ZOLLER erbjuder båda med »zidCode 4.0« och TMS Tool Management Solutions.</p> <p>I TMS Tool Management Solutions hanteras varje hållare via sitt ID. »idChip« är avsett som tillvalshårdvara för tilläggen »z.Shopfloor« och »z.Connectivity«.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/7/csm_software_idchip_9694061981.webp",
+     "w": 1000,
+     "h": 563,
+     "alt": "Skanning av »idChip« med handskannern"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-scan",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>En kod för hela verktygscykeln</h2>",
+   "body": "<p>»idChip« följer verktygshållaren genom varje station – och ZOLLER-lösningarna känner igen det överallt.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/4/csm_venturion_header_2a53427792.webp",
+     "w": 1080,
+     "h": 930,
+     "alt": "",
+     "title": "Inställning och mätning",
+     "caption": "<figcaption> <h3>Inställning och mätning</h3> <p>Skanning vid inställnings- och mätmaskinen: verktygsdata hämtas direkt och mätparametrarna laddas automatiskt. Så mäts varje verktyg alltid på samma sätt.</p> </figcaption>",
+     "href": "/produkte/einstellen-messen"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/f/csm_option_zidcode_01_45e04f3e38.webp",
+     "w": 792,
+     "h": 457,
+     "alt": "",
+     "title": "Krympteknik",
+     "caption": "<figcaption> <h3>Krympteknik</h3> <p>Skanning vid »powerShrink«: alla krympparametrar finns direkt tillgängliga i programvaran »pilot«. Varje uppvärmningscykel räknas per krymphållare, och varnings- och slitagegränser kan anges.</p> </figcaption>",
+     "href": "/produkte/schrumpftechnik/powershrink"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/b/csm_software_zidCode4_7a2e75321f.webp",
+     "w": 1920,
+     "h": 1690,
+     "alt": "",
+     "title": "Vid maskinen",
+     "caption": "<figcaption> <h3>Vid maskinen</h3> <p>Skanning med »zidCode 4.0« vid CNC-maskinen: verktygsdata hämtas från databasen och går snabbt och felfritt in i maskinens styrsystem.</p> </figcaption>",
+     "href": "/produkte/toolmanagement/zidcode"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 4,
+   "valign": "top",
+   "id": "idchip-cycle",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>»idChip« eller »idLabel«?</h2>",
+   "body": "<p>Båda har en DataMatrix-kod och gör verktygen entydigt identifierbara. Vilken lösning som passar beror på användningen.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/02_Products/idChip/zoller_idchip_vergleich_idchip.webp",
+     "w": 1390,
+     "h": 869,
+     "alt": "»idChip«",
+     "title": "»idChip«",
+     "caption": "<figcaption> <h3>»idChip«</h3> <p>Det bättre valet för roterande verktyg: fast integrerat i hållaren, skyddat där och ändå väl synligt.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/02_Products/idChip/zoller_idchip_vergleich_idlabel.webp",
+     "w": 1385,
+     "h": 866,
+     "alt": "»idLabel«",
+     "title": "»idLabel«",
+     "caption": "<figcaption> <h3>»idLabel«</h3> <p>Rekommenderas för svarvverktyg och fixturer som inte används roterande: den hartsbelagda etiketten fästs stadigt och säkert på verktygshållaren.</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "id": "idchip-vs",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Fabriksmonterat eller i efterhand</h2>",
+   "body": "<p>På begäran levererar vi alla ZOLLER Tooling-verktygshållare med fast integrerat »idChip« och DataMatrix-kod – balanserade med chipet och direkt till din produktion.</p> <p>Även befintliga verktyg kan när som helst förses med »idChip« i efterhand. Kontakta bara vår försäljningsavdelning.</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Begär offert</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/8/csm_zShopfloor_Feature_01_969ecbcfca.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "Verktygshållare med »idChip«"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-retro",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "downloads",
+   "header": "<h2>Nedladdningar</h2>",
+   "files": [
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Broschuere_Tooling_BRTOSO-00_US_01.pdf",
+     "name": "Tooling Solutions",
+     "size": "2 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/6/2/csm_ZOLLER_Broschuere_Tooling_BRTOSO-00_US_01_a9c6bb127e.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Tooling Solutions"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Smarte_Fertigung/ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_EN_02.pdf",
+     "name": "Smart Manufacturing",
+     "size": "804 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/2/b/csm_ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_EN_02_dea61a226f.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Smart Manufacturing"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/zidCode/info-pool/ZOLLER_Flyer_TMS_zidCode_FLTMSZC_00_EN_13.pdf",
+     "name": "Efficient tool handling",
+     "size": "1,000 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/c/0/csm_ZOLLER_Flyer_TMS_zidCode_FLTMSZC_00_EN_13_58cf71a344.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Efficient tool handling"
+     }
+    }
+   ],
+   "id": "idchip-downloads",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Verktygshantering: Fördelarna för er",
+     "href": "/se/loesningar/tool-management",
+     "caption": "<figcaption> <h3>Verktygshantering: Fördelarna för er</h3> <p>Upptäck hur ZOLLER:s verktygshantering omedelbart ökar din produktivitet. Med verktygsdata går processerna snabbare och säkrare – inklusive kollisionsskydd för dina maskiner. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1-samtal med en expert",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1-samtal med en expert</h3> <p>Ett personligt samtal om era mål och våra idéer för att uppnå dem. ZOLLER:s online-rådgivning direkt från Smart Factory. Boka en tid redan nu. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "idchip-teaser",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/se/produkter/verktygshaallare/idchip",
+ "de_path": "/produkte/werkzeugaufnahmen/idchip"
+}

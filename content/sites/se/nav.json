@@ -341,6 +341,13 @@
          "claim": "Överför verktygsdata utan fel",
          "desc": "Ökad säkerhet och effektivitet tack vare enkel hantering av verktygsdata",
          "img": "/fileadmin/_processed_/e/c/csm_zidCode_preview_21aa224ca2.webp"
+        },
+        {
+         "label": "»idChip«",
+         "href": "/se/produkter/verktygshaallare/idchip",
+         "claim": "Identifiera verktygshållare entydigt",
+         "desc": "Kodat chip med DataMatrix-kod, permanent integrerat i verktygshållaren",
+         "img": "/fileadmin/02_Products/idChip/zoller_idchip_werkzeughalter.webp"
         }
        ]
       }
@@ -559,6 +566,13 @@
      "label": "Verktygshållare",
      "href": "/se/produkter/verktygshaallare",
      "children": [
+      {
+       "label": "»idChip«",
+       "href": "/se/produkter/verktygshaallare/idchip",
+       "claim": "Identifiera verktygshållare entydigt",
+       "desc": "Kodat chip med DataMatrix-kod, permanent integrerat i verktygshållaren",
+       "img": "/fileadmin/02_Products/idChip/zoller_idchip_werkzeughalter.webp"
+      },
       {
        "label": "Verktygsverkstad",
        "href": "https://myzoller.com/de/de/shop/tooling",

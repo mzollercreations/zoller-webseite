@@ -355,6 +355,13 @@
          "claim": "Werkzeugdaten fehlerfrei übertragen",
          "desc": "Mehr Sicherheit und Effizienz durch einfaches Werkzeugdaten-Handling",
          "img": "/fileadmin/_processed_/e/c/csm_zidCode_preview_21aa224ca2.webp"
+        },
+        {
+         "label": "»idChip«",
+         "href": "/produkte/werkzeugaufnahmen/idchip",
+         "claim": "Werkzeughalter eindeutig identifizieren",
+         "desc": "Codierter Chip mit DataMatrix-Code, fest im Werkzeughalter integriert",
+         "img": "/fileadmin/02_Products/idChip/zoller_idchip_werkzeughalter.webp"
         }
        ]
       }
@@ -573,6 +580,13 @@
      "label": "Werkzeugaufnahmen",
      "href": "/produkte/werkzeugaufnahmen",
      "children": [
+      {
+       "label": "»idChip«",
+       "href": "/produkte/werkzeugaufnahmen/idchip",
+       "claim": "Werkzeughalter eindeutig identifizieren",
+       "desc": "Codierter Chip mit DataMatrix-Code, fest im Werkzeughalter integriert",
+       "img": "/fileadmin/02_Products/idChip/zoller_idchip_werkzeughalter.webp"
+      },
       {
        "label": "Tooling-Shop",
        "href": "https://myzoller.com/de/de/shop/tooling",

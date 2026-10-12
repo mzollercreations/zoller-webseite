@@ -1,0 +1,286 @@
+{
+ "path": "/제품/공구-홀더/idchip",
+ "url": "/kr/%EC%A0%9C%ED%92%88/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94/idchip",
+ "title": "»idChip«",
+ "description": "»idChip« - 공구 홀더의 명확한 식별 - 공구 식별",
+ "og_image": "",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "»idChip«",
+   "text": "<p>모든 공구 홀더를 명확하게 식별 – 생산의 모든 단계에서</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">지금 문의하기</a></p>",
+   "img": {
+    "src": "/fileadmin/02_Products/idChip/zoller_idchip_werkzeughalter.webp",
+    "w": 331,
+    "h": 689,
+    "alt": "»idChip«이 장착된 공구 홀더"
+   },
+   "id": "idchip-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3>공구 식별</h3> <h2>공구 홀더의 디지털 아이덴티티</h2>",
+   "body": "<p><strong>ZOLLER »idChip«은 매우 견고한 플라스틱으로 만든 코드 칩으로, 공구 홀더에 영구적으로 통합됩니다. DataMatrix 코드 덕분에 프리세터, 열박음 장비, 공구 보관함, CNC 공작기계 어디에서든 각 홀더를 명확하게 식별할 수 있습니다.</strong></p> <p>이를 통해 공구 홀더에 관한 모든 정보를 언제든 파악할 수 있습니다. 가열 횟수, 기계에서의 사용 횟수 등 다양한 정보입니다. 제품 수명, 디지털 트윈 및 기타 정보를 언제 어디서나 이용할 수 있으며, 비용은 RFID 트랜스폰더보다 훨씬 저렴합니다.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/7/csm_zoller_smarte_solutions_171a2dc46c.webp",
+     "w": 1454,
+     "h": 1454,
+     "alt": "»idChip«이 장착된 공구 홀더"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-intro",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>견고하게 통합. 홀더 안에서 보호.</h2>",
+   "body": "<p>»idChip«은 공구 홀더의 칩 구멍에 장착되며 2액형 접착제로 고정됩니다. 칩 구멍의 3홈 기술이 접착제와 함께 형상 결합을 만들어 안전하고 견고한 연결을 보장합니다. 덕분에 칩은 보호되면서도 잘 보입니다.</p> <p>HSK-A 중공 생크 테이퍼, SK 테이퍼, PSC 폴리곤 생크 테이퍼를 갖춘 ZOLLER Tooling 공구 홀더에는 칩 구멍이 기본으로 제공됩니다. 여기에 »idChip«이나 RFID 칩 같은 다른 데이터 캐리어를 장착할 수 있습니다.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/9/csm_chip_edd3e9cbeb.webp",
+     "w": 1524,
+     "h": 887,
+     "alt": "칩 구멍에 장착된 DataMatrix 코드 »idChip«"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-fix",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>한 번의 스캔으로 모든 정보를.</h2>",
+   "body": "<p>DataMatrix 코드를 한 번 스캔하는 것으로 충분합니다. 공구가 명확하게 식별되고, 해당 공구 데이터가 데이터베이스에서 바로 전달됩니다. 입력 오류와 혼동은 이제 과거의 일입니다.</p> <p>필요한 것은 DataMatrix 코드를 읽는 스캐너와 공구 데이터를 관리하는 소프트웨어뿐입니다. ZOLLER는 »zidCode 4.0«과 TMS Tool Management Solutions로 두 가지를 모두 제공합니다.</p> <p>TMS Tool Management Solutions에서는 모든 홀더를 ID로 관리합니다. »idChip«은 »z.Shopfloor« 및 »z.Connectivity« 애드온의 옵션 하드웨어로 제공됩니다.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/d/7/csm_software_idchip_9694061981.webp",
+     "w": 1000,
+     "h": 563,
+     "alt": "핸드 스캐너로 »idChip« 스캔"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-scan",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>전체 공구 사이클을 위한 하나의 코드</h2>",
+   "body": "<p>»idChip«은 모든 단계에서 공구 홀더와 함께하며, ZOLLER 솔루션은 어디서나 이를 인식합니다.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/e/4/csm_venturion_header_2a53427792.webp",
+     "w": 1080,
+     "h": 930,
+     "alt": "",
+     "title": "프리세팅 및 측정",
+     "caption": "<figcaption> <h3>프리세팅 및 측정</h3> <p>프리세터에서 스캔: 공구 데이터를 바로 불러오고 측정 파라미터가 자동으로 로드됩니다. 모든 공구를 항상 같은 방식으로 측정합니다.</p> </figcaption>",
+     "href": "/produkte/einstellen-messen"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/f/csm_option_zidcode_01_45e04f3e38.webp",
+     "w": 792,
+     "h": 457,
+     "alt": "",
+     "title": "열박음 기술",
+     "caption": "<figcaption> <h3>열박음 기술</h3> <p>»powerShrink«에서 스캔: 모든 열박음 파라미터를 »pilot« 소프트웨어에서 즉시 사용할 수 있습니다. 가열 횟수는 열박음 홀더별로 집계되며, 경고 한계와 마모 한계를 설정할 수 있습니다.</p> </figcaption>",
+     "href": "/produkte/schrumpftechnik/powershrink"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/b/csm_software_zidCode4_7a2e75321f.webp",
+     "w": 1920,
+     "h": 1690,
+     "alt": "",
+     "title": "공작기계에서",
+     "caption": "<figcaption> <h3>공작기계에서</h3> <p>CNC 공작기계에서 »zidCode 4.0«으로 스캔: 공구 데이터가 데이터베이스에서 기계 컨트롤러로 빠르고 오류 없이 전달됩니다.</p> </figcaption>",
+     "href": "/produkte/toolmanagement/zidcode"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 4,
+   "valign": "top",
+   "id": "idchip-cycle",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>»idChip«과 »idLabel«, 무엇을 선택할까요?</h2>",
+   "body": "<p>둘 다 DataMatrix 코드를 갖추고 있어 공구를 명확하게 식별할 수 있습니다. 어떤 솔루션이 적합한지는 용도에 따라 다릅니다.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/02_Products/idChip/zoller_idchip_vergleich_idchip.webp",
+     "w": 1390,
+     "h": 869,
+     "alt": "»idChip«",
+     "title": "»idChip«",
+     "caption": "<figcaption> <h3>»idChip«</h3> <p>회전 공구에 더 적합한 선택: 홀더에 견고하게 통합되어 보호되면서도 잘 보입니다.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/02_Products/idChip/zoller_idchip_vergleich_idlabel.webp",
+     "w": 1385,
+     "h": 866,
+     "alt": "»idLabel«",
+     "title": "»idLabel«",
+     "caption": "<figcaption> <h3>»idLabel«</h3> <p>회전하지 않고 사용하는 선삭 공구와 고정구에 권장: 수지 코팅 라벨을 공구 홀더에 단단하고 안전하게 부착합니다.</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "id": "idchip-vs",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>출고 시 장착 또는 추후 장착</h2>",
+   "body": "<p>요청 시 모든 ZOLLER Tooling 공구 홀더에 »idChip«과 DataMatrix 코드를 영구적으로 통합하여 공급합니다. 칩을 포함해 밸런싱을 마친 상태로 고객의 생산 현장에 바로 배송합니다.</p> <p>기존 공구에도 언제든지 »idChip«을 추후 장착할 수 있습니다. 영업팀에 문의해 주십시오.</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">지금 문의하기</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/8/csm_zShopfloor_Feature_01_969ecbcfca.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "»idChip«이 장착된 공구 홀더"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "idchip-retro",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "downloads",
+   "header": "<h2>다운로드</h2>",
+   "files": [
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Broschuere_Tooling_BRTOSO-00_US_01.pdf",
+     "name": "ZOLLER Tooling Solutions",
+     "size": "2 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/6/2/csm_ZOLLER_Broschuere_Tooling_BRTOSO-00_US_01_a9c6bb127e.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ZOLLER Tooling Solutions"
+     }
+    },
+    {
+     "href": "/fileadmin/03_Media_Press/Downloads/Smarte_Fertigung/ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_EN_02.pdf",
+     "name": "Smart Manufacturing",
+     "size": "804 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/2/b/csm_ZOLLER_Flyer_SmarteFertigung_FLSMAFE_00_EN_02_dea61a226f.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Smart Manufacturing"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/zidCode/info-pool/ZOLLER_Flyer_TMS_zidCode_FLTMSZC_00_EN_13.pdf",
+     "name": "Efficient tool handling",
+     "size": "1,000 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/c/0/csm_ZOLLER_Flyer_TMS_zidCode_FLTMSZC_00_EN_13_58cf71a344.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Efficient tool handling"
+     }
+    }
+   ],
+   "id": "idchip-downloads",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "공구 관리: 귀사가 누릴 수 있는 이점",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/toolmanagement",
+     "caption": "<figcaption> <h3>공구 관리: 귀사가 누릴 수 있는 이점</h3> <p>ZOLLER의 공구 관리 솔루션이 어떻게 생산성을 즉시 향상시키는지 확인해 보세요. 공구 데이터를 활용하면 공정이 더 빠르고 안전하게 진행되며, 여기에는 기계의 충돌 방지 기능도 포함됩니다. </p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 전문가 상담",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 전문가 상담</h3> <p>고객님의 목표와 이에 대한 당사의 아이디어를 바탕으로 한 맞춤형 상담. 스마트 팩토리에서 직접 제공되는 ZOLLER의 온라인 상담. 지금 바로 상담 일정을 예약하세요. </p> <br/> 자세히 알아보기 </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "idchip-teaser",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/kr/%EC%A0%9C%ED%92%88/%EA%B3%B5%EA%B5%AC-%ED%99%80%EB%8D%94/idchip",
+ "de_path": "/produkte/werkzeugaufnahmen/idchip"
+}
