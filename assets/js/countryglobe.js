@@ -1,7 +1,8 @@
 /* ZOLLER – Globus im Länderdialog (Three.js)
    Öffnet sich mit dem Länder-Knopf (Weltkugel + Flagge). Jedes Land mit eigener
    ZOLLER-Länderseite ist auf dem Globus zart gelb umrandet, das aktuelle Land leuchtet,
-   der Hauptsitz steht als kleine gelbe Markierung darin. Zeigen auf ein Land (auf dem
+   der Hauptsitz steht als kleine gelbe Markierung darin, weitere Standorte im Land als
+   kleinere gelbe Punkte (data.sites[].pts, build.py country_points). Zeigen auf ein Land (auf dem
    Globus oder in der Liste) lässt es aufleuchten und blendet die Route vom aktuellen
    Land ein; ein Klick fliegt als Lichtpunkt über den Bogen dorthin, rahmt das ganze
    Land ein, lässt es gelb aufleuchten und öffnet dann dieselbe Seite im anderen Land.
@@ -57,14 +58,20 @@ export function mount(dialog) {
     if (m) focus.set(m.tex, m.box, m.wrap);
   }
 
-  // --- Hauptsitze: kleine gelbe Markierungen, weitere ZOLLER-Seiten weiß
+  // --- Hauptsitze: kleine gelbe Markierungen, weitere Standorte im Land (s.pts) als gelbe Punkte, weitere ZOLLER-Seiten weiß
   const marks = [];
   for (const s of data.sites) {
     const mk = createMarker(s.lat, s.lng, YELLOW, 0.7);
-    const size = s.id === cur.id ? 0.011 : 0.008, h = s.id === cur.id ? 0.14 : 0.08;
+    const size = s.id === cur.id ? 0.0085 : 0.006, h = s.id === cur.id ? 0.12 : 0.07;
     mk.head.scale.setScalar(size); mk.beam.scale.set(size * 0.2, h, size * 0.2);
     earth.add(mk.g);
     marks.push({ s, ...mk, size, h, phase: Math.random(), hi: 0 });
+    for (const [lat, lng] of s.pts || []) {
+      const pt = createMarker(lat, lng, YELLOW, 0.5);
+      pt.head.scale.setScalar(0.0045); pt.beam.scale.set(0.0009, 0.035, 0.0009);
+      earth.add(pt.g);
+      marks.push({ s, sub: true, ...pt, size: 0.0045, h: 0.035, phase: Math.random(), hi: 0 });
+    }
   }
   for (const e of data.ext) {
     const mk = createMarker(e.lat, e.lng, WHITE, 0.45);
@@ -72,7 +79,7 @@ export function mount(dialog) {
     earth.add(mk.g);
     marks.push({ s: e, ext: true, ...mk, size: 0.008, h: 0.05, phase: Math.random(), hi: 0 });
   }
-  const markOf = Object.fromEntries(marks.filter((m) => !m.ext).map((m) => [m.s.id, m]));
+  const markOf = Object.fromEntries(marks.filter((m) => !m.ext && !m.sub).map((m) => [m.s.id, m]));
 
   // --- Routen von der Mitte des aktuellen Landes zu den anderen Ländern
   const routes = {};
@@ -292,8 +299,8 @@ export function mount(dialog) {
       m.head.scale.setScalar(m.size * zoomK * (1 + m.hi * 0.6));
       m.beam.scale.y = m.h * (1 + m.hi * 1.2) * zoomK;
       const p = (time * 0.55 + m.phase) % 1;
-      m.pulse.scale.setScalar(m.size * zoomK * (1.2 + p * (m.ext ? 2.6 : 3.4) + m.hi * 2));
-      m.pulse.material.opacity = (1 - p) * (m.ext ? 0.4 : 0.6);
+      m.pulse.scale.setScalar(m.size * zoomK * (1.2 + p * (m.ext || m.sub ? 2.6 : 3.4) + m.hi * 2));
+      m.pulse.material.opacity = (1 - p) * (m.ext ? 0.4 : m.sub ? 0.35 : 0.6);
     }
     for (const [id, r] of Object.entries(routes)) {
       const fl = flight && flight.s.id === id;

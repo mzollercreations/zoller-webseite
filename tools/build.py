@@ -2177,6 +2177,46 @@ GLOBE_ICON = ('<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke
               '<path d="M3 12h18M12 3c2.8 3 2.8 15 0 18M12 3c-2.8 3-2.8 15 0 18"/></svg>')
 
 
+@functools.lru_cache(maxsize=1)
+def country_shapes():
+    """Ländergrenzen aus assets/js/globe-countries.js (tools/make_countries.py): {Land: [[Länge, Breite, …], …]}."""
+    src = open(os.path.join(ROOT, "assets", "js", "globe-countries.js"), encoding="utf-8").read()
+    data = json.loads(src[src.index("{", src.index("COUNTRIES")):].rstrip().rstrip(";"))
+    return {k: v["p"] for k, v in data.items()}
+
+
+def in_country(country, lat, lng):
+    """Punkt in den Umrissen des Landes (gerade/ungerade Regel über alle Ringe)."""
+    inside = False
+    for ring in country_shapes().get(country, []):
+        xs, ys = ring[0::2], ring[1::2]
+        x = lng + 360 if lng < 0 and max(xs) > 180 else lng
+        j = len(xs) - 1
+        for i in range(len(xs)):
+            if (ys[i] > lat) != (ys[j] > lat) and x < (xs[j] - xs[i]) * (lat - ys[i]) / (ys[j] - ys[i]) + xs[i]:
+                inside = not inside
+            j = i
+    return inside
+
+
+def country_points(g):
+    """Weitere ZOLLER-Standorte im Land der Länderseite (content/locations.json) als gelbe Punkte auf dem Globus;
+    nur Standorte, die wirklich im Land liegen, ohne den Hauptsitz und ohne doppelte Punkte."""
+    pts = [(g["lat"], g["lng"])]
+    for l in LOCATIONS:
+        try:
+            lat, lng = float(l["lat"]), float(l["lng"])
+        except (KeyError, TypeError, ValueError):
+            continue
+        if l.get("country") != g["country"] or not in_country(g["country"], lat, lng):
+            continue
+        if g["city"] in " ".join(l.get("lines", [])):    # Hauptsitz (steht schon als eigene Markierung)
+            continue
+        if all(abs(lat - a) + abs(lng - b) > 0.15 for a, b in pts):
+            pts.append((round(lat, 4), round(lng, 4)))
+    return [list(p) for p in pts[1:]]
+
+
 def lang_dialog(ctx, page):
     """Länderdialog: links der Globus (assets/js/countryglobe.js, lädt beim ersten Öffnen), rechts die Liste der Länderseiten.
     Klick auf ein Land: der Globus fliegt vom aktuellen Land dorthin und öffnet dann dieselbe Seite im anderen Land."""
@@ -2194,7 +2234,8 @@ def lang_dialog(ctx, page):
         if g:
             gs = gsites.setdefault(sid, {"id": sid, "name": loc["name"] if sid != "de" else SITES["de"]["locales"][0]["name"],
                                          "country": site["country"] or loc["name"], "cc": g["country"], "city": g["city"],
-                                         "lat": g["lat"], "lng": g["lng"], "view": g["view"], "side": g.get("side", "ne"), "locs": []})
+                                         "lat": g["lat"], "lng": g["lng"], "view": g["view"], "side": g.get("side", "ne"),
+                                         "pts": country_points(g), "locs": []})
             gs["locs"].append({"code": loc["code"], "lang": loc["lang"], "label": loc["label"], "href": href, "cur": cur})
     # Länderseiten nach Kontinenten (Reihenfolge wie im Länderdialog von zoller.info)
     order = ["Europa", "Nordamerika", "Lateinamerika", "Asien"]
@@ -2640,6 +2681,47 @@ def translate(obj, tr, key="", skip=None):
     return node(obj, False)
 
 
+ALT_BAR = re.compile(r"(?<=[^\s|<>])\|(?=[^\s|<>])")
+
+
+def _alt_word(w):
+    return w.strip(".,;:()«»\"“”'").lower()
+
+
+def _drop_alt_text(text):
+    """»A|B« -> »A«. Länge von B: beginnt B wie A (»sistema de control|sistema de mando«) so lang wie A,
+    endet B wie A (»luz anular LED|anillo de luz LED«) bis zu diesem Wort, sonst ein Wort. 01|2026 bleibt."""
+    for _ in range(8):
+        for m in ALT_BAR.finditer(text):
+            left, right = text[:m.start()], text[m.end():]
+            if re.search(r"\d$", left) and re.match(r"\d", right):
+                continue
+            before, after = left.split(" "), right.split(" ")
+            n = next((k for k in range(1, 5) if len(before) >= k and _alt_word(after[0]) == _alt_word(before[-k])), None)
+            if n is None:
+                n = next((k + 1 for k in range(1, 5) if len(after) > k and _alt_word(after[k]) == _alt_word(before[-1])), 1)
+            n = min(n, len(after))
+            tail = re.search(r"[.,;:)»«\"”]+$", after[n - 1])
+            rest = " ".join(after[n:])
+            text = left + (tail.group(0) if tail else "") + (" " + rest if rest else "")
+            break
+        else:
+            return text
+    return text
+
+
+def drop_alternatives(o):
+    """_drop_alt_text() auf alle sichtbaren Texte (nicht in HTML-Tags, nicht in Links/IDs)."""
+    if isinstance(o, dict):
+        return {k: (v if k in TEXT_SKIP else drop_alternatives(v)) for k, v in o.items()}
+    if isinstance(o, list):
+        return [drop_alternatives(v) for v in o]
+    if isinstance(o, str) and "|" in o:
+        parts = re.split(r"(<[^>]*>)", o)
+        return "".join(p if p.startswith("<") else _drop_alt_text(p) for p in parts)
+    return o
+
+
 def use_locale(loc):
     """Globale Daten auf eine Sprachfassung umstellen."""
     global NAV, LOC, LANG, IS_DE, SHOWROOM_URL
@@ -2676,6 +2758,12 @@ def use_locale(loc):
         for path in list(PAGES):
             PAGES[path] = sub(PAGES[path])
         NAV = sub(NAV)
+    # Übersetzungsalternativen von zoller.info (»basculante|orientable«) auf die erste Alternative bringen;
+    # Sonderfälle stehen vorher als ganze Wendung in replace.json
+    if loc["src"]:
+        for path in list(PAGES):
+            PAGES[path] = drop_alternatives(PAGES[path])
+        NAV = drop_alternatives(NAV)
     # Produktnamen der maschinellen Übersetzung reparieren (»titanium« -> »titan«, »« cockpit »« -> »cockpit«)
     if loc["src"]:
         for path in list(PAGES):

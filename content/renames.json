@@ -34,7 +34,8 @@
   "/bestaetiguns": "/bestaetigung"
  },
  "en_DE": {
-  "/products/presetting-measuring/special-solutions/custom-solutions/zenith": "/products/presetting-measuring/special-solutions/custom-solutions/zenit"
+  "/products/presetting-measuring/special-solutions/custom-solutions/zenith": "/products/presetting-measuring/special-solutions/custom-solutions/zenit",
+  "/products/tool-management/tms-tool-management-solutions/software-packages/gold-store-management": "/products/tool-management/tms-tool-management-solutions/software-packages/gold-shop-floor-management"
  },
  "es": {
   "/productos/ajuste-y-medicion/dispositivos-verticales/venturion/modelos/torquematico": "/productos/ajuste-y-medicion/dispositivos-verticales/venturion/modelos/torquematic",
@@ -46,50 +47,85 @@
   "/productos/gestion-de-herramientas/almacen-de-herramientas/tornado": "/productos/gestion-de-herramientas/almacen-de-herramientas/twister"
  },
  "fr": {
-  "/produits/reglage-et-mesure/appareils-verticals/venturion/modeles/torquematique": "/produits/reglage-et-mesure/appareils-verticals/venturion/modeles/torquematic"
+  "/produits/reglage-et-mesure/appareils-verticals/venturion/modeles/torquematique": "/produits/reglage-et-mesure/appareils-verticals/venturion/modeles/torquematic",
+  "/produits/gestion-des-outils/tms-tool-management-solutions/progiciels/starter-gestion-du-stockgestion-des-stocks": "/produits/gestion-des-outils/tms-tool-management-solutions/progiciels/starter-gestion-des-stocks"
  },
  "pt": {
-  "/produtos/ajuste-e-medicao/dispositivos-verticais/venturion/modelos/torquematico": "/produtos/ajuste-e-medicao/dispositivos-verticais/venturion/modelos/torquematic"
+  "/produtos/ajuste-e-medicao/dispositivos-verticais/venturion/modelos/torquematico": "/produtos/ajuste-e-medicao/dispositivos-verticais/venturion/modelos/torquematic",
+  "/produtos/gestao-de-ferramentas/tms-tool-management-solutions/pacotes-de-software/starter-gestao-de-armazenamentogestao-de-armazem": "/produtos/gestao-de-ferramentas/tms-tool-management-solutions/pacotes-de-software/starter-gestao-de-armazem"
  },
  "it": {
   "/prodotti/regolazione-e-misurazione/soluzioni-speciali/soluzioni-speciali/fenice": "/prodotti/regolazione-e-misurazione/soluzioni-speciali/soluzioni-speciali/phoenix",
-  "/prodotti/regolazione-e-misurazione/soluzioni-speciali/soluzioni-speciali/gemelli": "/prodotti/regolazione-e-misurazione/soluzioni-speciali/soluzioni-speciali/gemini"
+  "/prodotti/regolazione-e-misurazione/soluzioni-speciali/soluzioni-speciali/gemelli": "/prodotti/regolazione-e-misurazione/soluzioni-speciali/soluzioni-speciali/gemini",
+  "/prodotti/tool-management/tms-tool-management-solutions/pacchetti-software/gold-gestione-dellarea-vendita": "/prodotti/tool-management/tms-tool-management-solutions/pacchetti-software/gold-gestione-dellofficina"
  },
  "se": {
   "/produkter/instaellning-och-maetning/specialanpassade-loesningar/specialanpassade-loesningar/fenix": "/produkter/instaellning-och-maetning/specialanpassade-loesningar/specialanpassade-loesningar/phoenix",
   "/produkter/instaellning-och-maetning/specialanpassade-loesningar/specialanpassade-loesningar/tvillingarna": "/produkter/instaellning-och-maetning/specialanpassade-loesningar/specialanpassade-loesningar/gemini",
   "/produkter/kontrollera-maeta/specialanpassade-loesningar/specialanpassade-loesningar/traadkontroll": "/produkter/kontrollera-maeta/specialanpassade-loesningar/specialanpassade-loesningar/threadcheck",
   "/produkter/kontrollera-maeta/universella-maetmaskiner/geni": "/produkter/kontrollera-maeta/universella-maetmaskiner/genius",
-  "/produkter/verktygshantering/verktygslager/maalvakt": "/produkter/verktygshantering/verktygslager/keeper"
+  "/produkter/verktygshantering/verktygslager/maalvakt": "/produkter/verktygshantering/verktygslager/keeper",
+  "/produkter/verktygshantering/tms-verktygshanteringsloesningar/programvarupaket/gold-butikschefsarbete": "/produkter/verktygshantering/tms-tool-management-solutions/programvarupaket/gold-verkstadsstyrning",
+  "/produkter/verktygshantering/tms-verktygshanteringsloesningar": "/produkter/verktygshantering/tms-tool-management-solutions"
  },
  "pl": {
   "/produkty/kontrola-i-pomiary/uniwersalne-maszyny-pomiarowe/geniusz": "/produkty/kontrola-i-pomiary/uniwersalne-maszyny-pomiarowe/genius",
   "/produkty/kontrola-i-pomiary/uniwersalne-maszyny-pomiarowe/tytan": "/produkty/kontrola-i-pomiary/uniwersalne-maszyny-pomiarowe/titan",
-  "/produkty/zarzadzanie-narzedziami/magazyn-narzedzi/bramkarz": "/produkty/zarzadzanie-narzedziami/magazyn-narzedzi/keeper"
+  "/produkty/zarzadzanie-narzedziami/magazyn-narzedzi/bramkarz": "/produkty/zarzadzanie-narzedziami/magazyn-narzedzi/keeper",
+  "/produkty/zarzadzanie-narzedziami/tms-rozwiazania-w-zakresie-zarzadzania-narzedziami/pakiety-oprogramowania/gold-zarzadzanie-sklepem": "/produkty/zarzadzanie-narzedziami/tms-tool-management-solutions/pakiety-oprogramowania/gold-zarzadzanie-hala-produkcyjna",
+  "/produkty/zarzadzanie-narzedziami/tms-rozwiazania-w-zakresie-zarzadzania-narzedziami": "/produkty/zarzadzanie-narzedziami/tms-tool-management-solutions"
  },
  "ch": {
-  "/产品/检测和测量/通用测量机/天才": "/产品/检测和测量/通用测量机/genius"
+  "/产品/检测和测量/通用测量机/天才": "/产品/检测和测量/通用测量机/genius",
+  "/产品/刀具管理/tms-工具管理解决方案/软件套件/gold-门店管理": "/产品/刀具管理/tms-tool-management-solutions/软件套件/gold-车间管理",
+  "/产品/刀具管理/tms-工具管理解决方案": "/产品/刀具管理/tms-tool-management-solutions"
  },
  "ja": {
   "/製品/設定と測定/横型機器/ハイペリオン": "/製品/設定と測定/横型機器/hyperion",
   "/製品/設定と測定/縦型機器/スマイル": "/製品/設定と測定/縦型機器/smile",
   "/製品/設定と測定/縦型機器/ベンチュリオン": "/製品/設定と測定/縦型機器/venturion",
   "/製品/設定と測定/縦型機器/ベンチュリオン/モデル/トリボス": "/製品/設定と測定/縦型機器/venturion/モデル/tribos",
-  "/製品/設定と測定/縦型機器/ベンチュリオン/モデル/トルクマティック": "/製品/設定と測定/縦型機器/venturion/モデル/torquematic"
+  "/製品/設定と測定/縦型機器/ベンチュリオン/モデル/トルクマティック": "/製品/設定と測定/縦型機器/venturion/モデル/torquematic",
+  "/製品/ツール管理/tms-ツール管理ソリューション/ソフトウェアパッケージ/gold-店舗運営管理": "/製品/ツール管理/tms-tool-management-solutions/ソフトウェアパッケージ/gold-生産現場管理",
+  "/製品/ツール管理/tms-ツール管理ソリューション": "/製品/ツール管理/tms-tool-management-solutions"
  },
  "kr": {
   "/제품/검사-및-측정/범용-측정기/smartcheck/모델/스마트체크-450": "/제품/검사-및-측정/범용-측정기/smartcheck/모델/smartcheck-450",
   "/제품/설정-및-측정/수직형-장비/venturion/모델/토크매틱": "/제품/설정-및-측정/수직형-장비/venturion/모델/torquematic",
-  "/제품/설정-및-측정/수직형-장비/venturion/모델/트리보스": "/제품/설정-및-측정/수직형-장비/venturion/모델/tribos"
+  "/제품/설정-및-측정/수직형-장비/venturion/모델/트리보스": "/제품/설정-및-측정/수직형-장비/venturion/모델/tribos",
+  "/제품/도구-관리/tms-도구-관리-솔루션/소프트웨어-패키지/gold-매장-관리": "/제품/도구-관리/tms-tool-management-solutions/소프트웨어-패키지/gold-생산-현장-관리",
+  "/제품/도구-관리/tms-도구-관리-솔루션": "/제품/도구-관리/tms-tool-management-solutions"
  },
  "br": {
   "/produtos/ajuste-e-medicao/dispositivos-verticais/venturion/modelos/torquematico": "/produtos/ajuste-e-medicao/dispositivos-verticais/venturion/modelos/torquematic",
-  "/produtos/ajuste-e-medicao/solucoes-especiais/solucoes-especiais/zenite": "/produtos/ajuste-e-medicao/solucoes-especiais/solucoes-especiais/zenit"
+  "/produtos/ajuste-e-medicao/solucoes-especiais/solucoes-especiais/zenite": "/produtos/ajuste-e-medicao/solucoes-especiais/solucoes-especiais/zenit",
+  "/produtos/gestao-de-ferramentas/tms-tool-management-solutions/pacotes-de-software/starter-gestao-de-armazenamentogestao-de-armazem": "/produtos/gestao-de-ferramentas/tms-tool-management-solutions/pacotes-de-software/starter-gestao-de-armazem"
  },
  "ru": {
-  "/products/presetting-measuring/special-solutions/custom-solutions/zenith": "/products/presetting-measuring/special-solutions/custom-solutions/zenit"
+  "/products/presetting-measuring/special-solutions/custom-solutions/zenith": "/products/presetting-measuring/special-solutions/custom-solutions/zenit",
+  "/products/tool-management/tms-tool-management-solutions/software-packages/gold-store-management": "/products/tool-management/tms-tool-management-solutions/software-packages/gold-shop-floor-management"
  },
  "tr": {
-  "/products/presetting-measuring/special-solutions/custom-solutions/zenith": "/products/presetting-measuring/special-solutions/custom-solutions/zenit"
+  "/products/presetting-measuring/special-solutions/custom-solutions/zenith": "/products/presetting-measuring/special-solutions/custom-solutions/zenit",
+  "/products/tool-management/tms-tool-management-solutions/software-packages/gold-store-management": "/products/tool-management/tms-tool-management-solutions/software-packages/gold-shop-floor-management"
+ },
+ "cz": {
+  "/produkty/sprava-nastroju/tms-reseni-pro-spravu-nastroju/softwarove-balicky/gold-rizeni-prodejny": "/produkty/sprava-nastroju/tms-tool-management-solutions/softwarove-balicky/gold-rizeni-dilny",
+  "/produkty/sprava-nastroju/tms-reseni-pro-spravu-nastroju": "/produkty/sprava-nastroju/tms-tool-management-solutions"
+ },
+ "in": {
+  "/products/tool-management/tms-tool-management-solutions/software-packages/gold-store-floor-management": "/products/tool-management/tms-tool-management-solutions/software-packages/gold-shop-floor-management"
+ },
+ "hu": {
+  "/termekek/eszkoezkezeles/tms-eszkoezkezelesi-megoldasok/szoftvercsomagok/gold-uezletvezetes": "/termekek/eszkoezkezeles/tms-tool-management-solutions/szoftvercsomagok/gold-muehelyiranyitas",
+  "/termekek/eszkoezkezeles/tms-eszkoezkezelesi-megoldasok": "/termekek/eszkoezkezeles/tms-tool-management-solutions"
+ },
+ "si": {
+  "/izdelki/upravljanje-orodij/tms-resitve-za-upravljanje-orodij/programski-paketi/gold-upravljanje-trgovine": "/izdelki/upravljanje-orodij/tms-tool-management-solutions/programski-paketi/gold-upravljanje-proizvodnje",
+  "/izdelki/upravljanje-orodij/tms-resitve-za-upravljanje-orodij": "/izdelki/upravljanje-orodij/tms-tool-management-solutions"
+ },
+ "sk": {
+  "/produkty/sprava-nastrojov/tms-riesenia-pre-spravu-nastrojov/softverove-baliky/gold-riadenie-predajne": "/produkty/sprava-nastrojov/tms-tool-management-solutions/softverove-baliky/gold-riadenie-dielne",
+  "/produkty/sprava-nastrojov/tms-riesenia-pre-spravu-nastrojov": "/produkty/sprava-nastrojov/tms-tool-management-solutions"
  }
 }
