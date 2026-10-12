@@ -22,7 +22,9 @@
   if (hasGSAP) {
     gsap.registerPlugin(ScrollTrigger);
     if (window.Lenis && !matchMedia('(pointer: coarse)').matches) {
-      lenis = new Lenis({ duration: 1.15, easing: t => Math.min(1, 1.001 - Math.pow(2, -10 * t)), smoothWheel: true });
+      // allowNestedScroll: eigene Scrollbereiche (Länderliste, Mega-Menü, Handy-Menü, Suche, Modale) scrollen mit dem
+      // Mausrad selbst – sonst schluckt Lenis das Rad, besonders bei offenem Dialog (lenis.stop())
+      lenis = new Lenis({ duration: 1.15, easing: t => Math.min(1, 1.001 - Math.pow(2, -10 * t)), smoothWheel: true, allowNestedScroll: true });
       lenis.on('scroll', ScrollTrigger.update);
       window.__lenis = lenis;
       gsap.ticker.add(t => lenis.raf(t * 1000));

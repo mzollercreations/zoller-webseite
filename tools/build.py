@@ -2278,7 +2278,7 @@ def lang_dialog(ctx, page):
     return f'''<dialog class="lang-dialog" data-lang-dialog aria-labelledby="lang-title">
 <div class="lang-dialog__globe" data-cglobe><canvas class="lang-dialog__canvas" aria-hidden="true"></canvas><div class="lang-dialog__pins" data-cglobe-pins aria-hidden="true"></div>
 <div class="lang-dialog__loading" aria-hidden="true"><i></i></div><p class="lang-dialog__hint" aria-hidden="true">{GLOBE_ICON}{_("Land wählen – der Globus fliegt Sie hin")}</p></div>
-<div class="lang-dialog__inner">
+<div class="lang-dialog__inner" data-lenis-prevent>
 <div class="lang-dialog__head"><h2 id="lang-title">{_("Land und Sprache wählen")}</h2><button class="icon-btn" type="button" data-close aria-label="{_("Schließen")}">{close}</button></div>
 <p class="lang-dialog__sub">{_("Länderseiten")}</p>
 <div class="lang-dialog__sites">{"".join(sites)}</div>
