@@ -1,0 +1,10 @@
+{
+ "_info": "HubSpot (Content Hub): Domain je Länderseite eintragen, sobald sie in HubSpot verbunden ist (z. B. \"us.zoller-beispiel.com\"). Leer = Links auf diese Länderseite zeigen weiter auf GitHub Pages. files_folder = Ordner im HubSpot-Dateimanager für Bilder, Videos, PDFs, CSS, JS (gemeinsam für alle Länderseiten). theme = Ordner im Design-Manager.",
+ "files_folder": "zoller",
+ "sites": {
+  "us": {"label": "ZOLLER USA", "theme": "zoller-usa", "domain": ""},
+  "ca": {"label": "ZOLLER Canada", "theme": "zoller-canada", "domain": ""},
+  "mx": {"label": "ZOLLER México", "theme": "zoller-mexico", "domain": ""},
+  "de": {"label": "ZOLLER Deutschland", "theme": "zoller-deutschland", "domain": ""}
+ }
+}

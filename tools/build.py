@@ -206,13 +206,20 @@ def _file_version(rel):
 
 # Hochkant-Fassung vorhanden? Sonst zeigen auch Smartphones das Querformat (Ausschnitt)
 HAS_PORT = os.path.exists(os.path.join(ROOT, "assets", "video", "home", "port-720.mp4"))
-# Geräte im Startseiten-Video (Reihenfolge wie im Video) – Name, Gerätetyp, deutsche Produktseite
+# Geräte im Startseiten-Video (»idealer Werkzeugraum«, Reihenfolge des Werkzeugkreislaufs) – Name, Prozessschritt,
+# deutsche Produktseite. Die Schritte stehen als Kicker über dem Namen (Vorbild: Toolroom-Bild TMS auf zoller.info).
+HOMEFILM_STEPS = {1: "Lagern", 2: "Montieren", 3: "Schrumpfen", 4: "Wuchten", 5: "Einstellen & Messen", 6: "An die Maschine"}
 HOMEFILM_DEVICES = (
-    ("venturion", "»venturion«", "Einstell- und Messgerät", "/produkte/einstellen-messen/vertikale-geraete/venturion"),
-    ("smile", "»smile«", "Einstell- und Messgerät", "/produkte/einstellen-messen/vertikale-geraete/smile"),
-    ("keeper", "»keeper«", "Werkzeugschrank für Komplettwerkzeuge", "/produkte/toolmanagement/werkzeuglager/keeper"),
-    ("toolorganizer", "»toolOrganizer«", "Werkzeugschrank", "/produkte/toolmanagement/werkzeuglager/toolorganizer"),
-    ("toolstation", "»toolStation«", "Werkbank für die Werkzeugmontage", "/produkte/toolmanagement/smart-cabinets/toolstation"),
+    ("keeper", "»keeper«", 1, "/produkte/toolmanagement/werkzeuglager/keeper"),
+    ("toolorganizer", "»toolOrganizer«", 1, "/produkte/toolmanagement/werkzeuglager/toolorganizer"),
+    ("toolstation", "»toolStation«", 2, "/produkte/toolmanagement/smart-cabinets/toolstation"),
+    ("powershrink400", "»powerShrink 400«", 3, "/produkte/schrumpftechnik/powershrink/modelle/powershrink-400"),
+    ("toolbalancer", "»toolBalancer«", 4, "/produkte/wuchttechnik/toolbalancer"),
+    ("redomatic600", "»redomatic 600«", 5, "/produkte/schrumpftechnik/redomatic"),
+    ("venturion800", "»venturion 800«", 5, "/produkte/einstellen-messen/vertikale-geraete/venturion"),
+    ("venturion", "»venturion 450«", 5, "/produkte/einstellen-messen/vertikale-geraete/venturion"),
+    ("smile", "»smile«", 5, "/produkte/einstellen-messen/vertikale-geraete/smile"),
+    ("zidcode", "»zidCode«", 6, "/produkte/toolmanagement/zidcode"),
 )
 
 esc = html.escape
@@ -1741,22 +1748,22 @@ def zoom_mask(ctx, b, word, kicker=""):
 
 
 def homefilm(ctx, hero, sub, p1, p2):
-    """Startseite oben: Kamerafahrt durch eine Showroom-Gasse mit den Geräten links und rechts
-    (Video aus video/home-hero, assets/js/homefilm.js). Drei Text-Panels wechseln beim Scrollen."""
+    """Startseite oben: Kamerafahrt durch einen Werkzeugraum, die Geräte links und rechts in der Reihenfolge des
+    Werkzeugkreislaufs (Video aus video/home-hero, assets/js/homefilm.js). Drei Text-Panels wechseln beim Scrollen."""
     v = f"{ctx.prefix}assets/video/home/"
     tags = []
-    for dev, name, kind, de_path in HOMEFILM_DEVICES:
+    for dev, name, step, de_path in HOMEFILM_DEVICES:
         href = ctx.url(L(de_path)) if L(de_path) else ""
         attr = f' href="{esc(href, quote=True)}"' if href else ""
-        tags.append(f'<a class="homefilm__tag" data-dev="{dev}"{attr} tabindex="-1"><span class="homefilm__pill"><b>{esc(name)}</b>'
-                    f'<small>{esc(_(kind))}</small></span><i></i></a>')
+        tags.append(f'<a class="homefilm__tag" data-dev="{dev}"{attr} tabindex="-1"><span class="homefilm__pill">'
+                    f'<small><em>{step:02d}</em> {esc(_(HOMEFILM_STEPS[step]))}</small><b>{esc(name)}</b></span><i></i></a>')
     p2t = p2[0].upper() + p2[1:] if p2 else ""
     return f'''
 <section class="homefilm" data-homefilm aria-label="{_("Einleitung")}">
   <div class="homefilm__sticky">
     <div class="homefilm__media">
       <picture>{f'<source media="(max-aspect-ratio: 9/10)" srcset="{v}poster-port.jpg?v={VIDEO_VER}">' if HAS_PORT else ""}<img src="{v}poster-land.jpg?v={VIDEO_VER}" alt="" fetchpriority="high" decoding="async"></picture>
-      <video class="homefilm__video" muted playsinline loop preload="none" data-base="{v}" data-ver="{VIDEO_VER}"{' data-port' if HAS_PORT else ""} aria-label="{_("Kamerafahrt durch den ZOLLER Showroom")}"></video>
+      <video class="homefilm__video" muted playsinline loop preload="none" data-base="{v}" data-ver="{VIDEO_VER}"{' data-port' if HAS_PORT else ""} aria-label="{_("Kamerafahrt durch einen Werkzeugraum mit ZOLLER-Geräten")}"></video>
     </div>
     <div class="homefilm__shade homefilm__shade--top" aria-hidden="true"></div>
     <div class="homefilm__shade homefilm__shade--l" aria-hidden="true"></div>

@@ -101,6 +101,33 @@ Alle vier Seiten (Deutschland, Kanada, Mexiko, USA) funktionieren ohne zoller.in
 - **Übersetzungen**: Was auf zoller.info in der Landessprache fehlt, steht in `content/sites/<sprachpfad>/translations.json` (Text → Übersetzung, auch für Bildtexte und Tooltips) und wird beim Bauen ersetzt.
 - **3D-Showroom**: Jede Sprachfassung verlinkt den Showroom in ihrer Sprache (`zoller-produktumgebung-3d/en-ca/`, `/fr-ca/`, `/es-mx/`, `/en-us/`, erzeugt dort mit `tools/build_locale.py`). Auch dort wechselt ein Knopf mit Weltkugel und Flagge Land und Sprache.
 
+## HubSpot (Content Hub)
+
+Alle Länderseiten lassen sich 1:1 auf HubSpot betreiben – gleiche Inhalte, gleiche Effekte, eigene Domains. `tools/hubspot.py` macht aus der gebauten Seite ein HubSpot-Paket und lädt es über die HubSpot-API hoch (nur Python-Standardbibliothek, keine HubSpot-CLI nötig).
+
+| Teil in HubSpot | Inhalt |
+|---|---|
+| Dateimanager `/zoller/…` | Bilder, PDFs, Videos, Schriften, CSS und JS aller Länderseiten (gemeinsam, Ordnerstruktur bleibt). CSS/JS liegen bewusst nicht im Design-Manager: dort minifiziert und benennt HubSpot die Dateien um, das bricht die 3D-Module (ES-Module, Importmap). |
+| Design-Manager `zoller-usa/` … | ein Theme je Länderseite: `templates/layouts/base.html` (Kopf mit `standard_header_includes`/`standard_footer_includes`), je Seite ein Template `templates/pages/<pfad>.html`, `templates/system/404.html` |
+| Website-Seiten | eine Seite je Template, Slug = Pfad der Länderseite (ohne `/` am Ende), Titel und Beschreibung in den Seiteneinstellungen |
+
+```bash
+python3 tools/build.py --site us          # wie bisher bauen
+python3 tools/hubspot.py export us        # -> dist/hubspot/us/ (Theme + pages.json) und dist/hubspot/files/zoller/
+python3 tools/hubspot.py preview us       # lokal wie auf HubSpot: http://localhost:8795/ (launch.json: hubspot-us/-ca/-mx)
+python3 tools/hubspot.py status           # Token, Portal, verbundene Domains
+python3 tools/hubspot.py upload us --test # erster Test: nur Startseite, »venturion«, Standorte, 404 – als Entwurf, nicht öffentlich
+python3 tools/hubspot.py upload us        # Dateien + Theme + Seiten (neue Seiten als Entwurf)
+python3 tools/hubspot.py upload us pages --publish   # Entwürfe veröffentlichen
+python3 tools/hubspot.py check us         # Live-Seite und Dateitypen auf der Domain prüfen
+```
+
+- **Einmalig in HubSpot**: Domains verbinden (z. B. `us.`, `ca.`, `mx.` einer Domain) und in `content/hubspot.json` eintragen, dann neu exportieren – erst damit zeigen Länderwechsel, Globus und `hreflang` auf die HubSpot-Domains statt auf GitHub Pages. Unter Einstellungen > Inhalte > Seiten > SEO & Crawler die Standard-Hostingdomain des Dateimanagers („Default File Manager Hosting Domain“) auf eine verbundene Domain stellen (sonst liefert HubSpot JavaScript als `text/plain`, und die 3D-Module laden nicht). 404-Template unter Systemseiten zuweisen.
+- **Zugang**: Private App (heute unter Entwicklung > Legacy-Apps > Privat) mit den Scopes `content` und `files`; Token in `~/.config/zoller/hubspot-token` (außerhalb des Repos) oder `HUBSPOT_TOKEN`.
+- **Pflege**: Inhalte bleiben in `content/`. Nach jeder Änderung `build.py` → `hubspot.py export` → `hubspot.py upload`. Hochgeladen wird nur, was sich geändert hat (Stand in `dist/hubspot/.state-*.json`); Templates sind sofort live. Änderungen im HubSpot-Seiteneditor werden beim nächsten Upload überschrieben. Seiten, die es im Build nicht mehr gibt (vergangene Events), meldet `upload` zum Archivieren.
+- **Dateinamen** mit Umlauten oder Sonderzeichen werden für HubSpot umgeschrieben (`für` → `fuer`, `μ` → `mu`), die Links passen sich an. `export` prüft danach jede Seite: keine relativen Pfade, keine fehlenden Dateien, keine toten internen Links.
+- **Datenschutz**: HubSpot fügt über `standard_footer_includes` seinen Tracking-Code und ggf. das Cookie-Banner ein – die Seite ist auf HubSpot also nicht mehr „ohne Tracker und Cookies“. Cookie-Banner (Einwilligung vor Tracking) unter Einstellungen > Datenschutz und Einwilligung einrichten und die Datenschutzerklärung anpassen.
+
 ## Scroll-Effekte & 3D
 
 - **Startseite**: Kamerafahrt durch eine Showroom-Gasse, links und rechts die Geräte aus den offiziellen CAD-Daten (»venturion«, »smile«, »keeper«, »toolOrganizer«, »toolStation«), in Blender/Cycles gerendert (`../video/home-hero`, CAD-Bibliothek `../cad`). Das Video ist eine nahtlose Schleife (20 s), quer für Desktop/Tablet und hochkant für Smartphones und Tablets im Hochformat. Darüber wechseln beim Scrollen drei Texte; kleine Beschriftungen hängen an den Geräten im Video und führen zur Produktseite (Bildpositionen pro Frame aus Blender). Pause-Knopf unten rechts; bei „Bewegung reduzieren“ oder Datensparmodus bleibt das Standbild stehen.

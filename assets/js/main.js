@@ -7,6 +7,8 @@
   const doc = document.documentElement;
   const body = document.body;
   const ROOT = body.dataset.root || './';
+  // Dateien (assets/…) können getrennt von den Seiten liegen, z. B. im HubSpot-Dateimanager (data-assets="/hubfs/zoller/")
+  const ASSETS = body.dataset.assets || ROOT;
   const ASSET_V = ((document.currentScript && document.currentScript.src) || '').split('?v=')[1] || '';
   // Übersetzungen der Länderseiten (window.ZI18N, deutscher Text als Schlüssel)
   const T = (s) => (window.ZI18N && window.ZI18N[s]) || s;
@@ -118,7 +120,7 @@
   let index = null;
   const loadIndex = async () => {
     if (index) return index;
-    try { index = await fetch(ROOT + (body.dataset.index || 'assets/search-index.json')).then(r => r.json()); } catch (e) { index = []; }
+    try { index = await fetch(ASSETS + (body.dataset.index || 'assets/search-index.json')).then(r => r.json()); } catch (e) { index = []; }
     return index;
   };
   const norm = s => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[»«„“"]/g, '');
@@ -172,7 +174,7 @@
   let cglobe = null;
   const loadGlobe = () => {
     if (!cglobe && langDialog) {
-      const url = new URL(ROOT + 'assets/js/countryglobe.js' + (ASSET_V ? '?v=' + ASSET_V : ''), document.baseURI).href;
+      const url = new URL(ASSETS + 'assets/js/countryglobe.js' + (ASSET_V ? '?v=' + ASSET_V : ''), document.baseURI).href;
       cglobe = import(url).then(m => m.mount(langDialog)).catch((e) => {
         console.warn('Länderglobus deaktiviert:', e); langDialog.classList.add('is-static'); return null;
       });
