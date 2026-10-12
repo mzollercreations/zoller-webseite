@@ -291,3 +291,40 @@ def fix_all(obj, lang, skip=()):
     if isinstance(obj, list):
         return [fix_all(v, lang, skip) for v in obj]
     return fix(obj, lang)
+
+
+ALT_BAR = re.compile(r"(?<=[^\s|<>])\|(?=[^\s|<>])")
+
+
+def _alt_word(w):
+    return w.strip(".,;:()«»\"“”'").lower()
+
+
+def _drop_alt_text(text):
+    """»A|B« -> »A«. Länge von B: beginnt B wie A (»sistema de control|sistema de mando«) so lang wie A,
+    endet B wie A (»luz anular LED|anillo de luz LED«) bis zu diesem Wort, sonst ein Wort. 01|2026 bleibt."""
+    for _ in range(8):
+        for m in ALT_BAR.finditer(text):
+            left, right = text[:m.start()], text[m.end():]
+            if re.search(r"\d$", left) and re.match(r"\d", right):
+                continue
+            before, after = left.split(" "), right.split(" ")
+            n = next((k for k in range(1, 5) if len(before) >= k and _alt_word(after[0]) == _alt_word(before[-k])), None)
+            if n is None:
+                n = next((k + 1 for k in range(1, 5) if len(after) > k and _alt_word(after[k]) == _alt_word(before[-1])), 1)
+            n = min(n, len(after))
+            tail = re.search(r"[.,;:)»«\"”]+$", after[n - 1])
+            rest = " ".join(after[n:])
+            text = left + (tail.group(0) if tail else "") + (" " + rest if rest else "")
+            break
+        else:
+            return text
+    return text
+
+
+def drop_alternatives(s):
+    """Übersetzungsalternativen der maschinellen Übersetzung von zoller.info (»basculante|orientable«) auf die erste
+    Alternative bringen – nur im sichtbaren Text, nicht in HTML-Tags. Sonderfälle stehen vorher in replace.json."""
+    if not isinstance(s, str) or "|" not in s:
+        return s
+    return "".join(p if p.startswith("<") else _drop_alt_text(p) for p in re.split(r"(<[^>]*>)", s))
