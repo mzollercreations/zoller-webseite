@@ -213,9 +213,22 @@ export function mount(dialog) {
   canvas.addEventListener('pointercancel', () => { endDrag(); down = null; });
   canvas.addEventListener('pointerleave', (e) => { if (e.pointerType === 'mouse' && !drag) canvas.classList.remove('is-over-site'); });
 
-  // Zeigen auf Länderseiten (Liste und Beschriftungen) -> Route; Klick -> Flug
+  // Zeigen auf Länderseiten (Liste und Beschriftungen) -> Route; Klick -> Flug.
+  // Nur echte Mausbewegung zählt: Beim Scrollen der Liste mit dem Mausrad gleiten die Einträge unter dem
+  // stillstehenden Zeiger durch – das darf den Globus nicht von Land zu Land schicken.
   const siteOf = (el) => el?.closest('[data-site]')?.dataset.site;
-  dialog.addEventListener('pointerover', (e) => { if (e.pointerType === 'mouse' && e.target !== canvas) { const id = siteOf(e.target); if (id) preview(id); } });
+  let scrolled = 0, lastXY = null;
+  const scrolling = () => { scrolled = performance.now(); };
+  dialog.addEventListener('scroll', scrolling, true);
+  dialog.addEventListener('wheel', scrolling, { passive: true });
+  dialog.addEventListener('pointermove', (e) => {
+    if (e.pointerType !== 'mouse' || e.target === canvas) return;
+    const moved = !lastXY || Math.hypot(e.clientX - lastXY[0], e.clientY - lastXY[1]) > 2;
+    lastXY = [e.clientX, e.clientY];
+    if (!moved || performance.now() - scrolled < 300) return;
+    const id = siteOf(e.target);
+    if (id && id !== (hover ?? cur.id)) preview(id);
+  });
   dialog.querySelector('.lang-dialog__inner').addEventListener('pointerleave', (e) => { if (e.pointerType === 'mouse') preview(null); });
   dialog.addEventListener('focusin', (e) => { const id = siteOf(e.target); if (id) preview(id); });
   dialog.addEventListener('click', (e) => {
