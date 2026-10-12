@@ -192,6 +192,29 @@
       loadGlobe()?.then(g => g && langDialog.open && g.open());
     });
   });
+  // Mausrad irgendwo im Länderdialog (über dem Globus, den Beschriftungen, dem Rand) scrollt die Länderliste.
+  // Der Globus selbst hat kein Rad, und Lenis verwirft es bei offenem Dialog – sonst rollt nur direkt über der Liste etwas.
+  const langList = langDialog && $('.lang-dialog__inner', langDialog);
+  if (langList) {
+    let pos = 0, goal = null, wRaf = 0;
+    const stop = () => { cancelAnimationFrame(wRaf); wRaf = 0; goal = null; };
+    const glide = () => {
+      pos += (goal - pos) * 0.2;
+      if (reduced || Math.abs(goal - pos) < 0.5) { pos = goal; langList.scrollTop = pos; wRaf = 0; goal = null; return; }
+      langList.scrollTop = pos;
+      wRaf = requestAnimationFrame(glide);
+    };
+    langDialog.addEventListener('wheel', (e) => {
+      if (langList.contains(e.target)) { if (wRaf) stop(); return; }   // über der Liste scrollt der Browser selbst
+      if (e.ctrlKey || !e.deltaY || langDialog.classList.contains('is-flying')) return;
+      e.preventDefault();
+      const dy = e.deltaY * (e.deltaMode === 1 ? 40 : e.deltaMode === 2 ? langList.clientHeight : 1);
+      if (goal === null) pos = langList.scrollTop;
+      goal = Math.max(0, Math.min(langList.scrollHeight - langList.clientHeight, (goal ?? pos) + dy));
+      if (!wRaf) wRaf = requestAnimationFrame(glide);
+    }, { passive: false });
+    langDialog.addEventListener('close', stop);
+  }
   $$('dialog').forEach(d => {
     d.addEventListener('click', (e) => {
       if (e.target === d || e.target.closest('[data-close]')) d.close();
