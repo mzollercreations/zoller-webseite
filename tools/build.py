@@ -2066,7 +2066,7 @@ def footer_html(ctx):
                        link(_("Karriere"), L("/unternehmen/karriere")), link("MYZOLLER", "https://myzoller.com/", True)])
     useful = "".join([link(_("Wirtschaftlichkeitsrechner"), L("/wirtschaftlichkeitsrechner")), link(_("Ansprechpartner"), L("/unternehmen/kontakt/ansprechpartner")),
                       link(_("E-Mail senden"), "mailto:" + co["email"]), link(_("ZOLLER Service"), L("/unternehmen/kontakt/ansprechpartner")),
-                      link(_("Software-Updates"), L("/software-updates")), link(_("Online Support"), L("/online-support")),
+                      link(_("Software-Updates"), L("/software-updates")), link(_("Online-Support"), L("/online-support")),
                       link(_("Geschäftsfelder"), L("/geschaeftsfelder")), link(_("Newsletteranmeldung"), L("/unternehmen/kontakt/newsletter")),
                       link(_("Allgemeine Einkaufsbedingungen"), L("/allgemeine-einkaufsbedingungen"))])
     crumbs = breadcrumb(ctx)
