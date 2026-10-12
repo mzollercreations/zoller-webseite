@@ -40,6 +40,7 @@ ALIASES = {}     # alte Startseiten-Pfade (/accueil …) -> HOME
 OTHER = {}       # Sprachpfad -> Seitenpfade der anderen Sprachfassung derselben Länderseite
 ALT = {}         # deutscher Pfad -> [(hreflang, absolute URL)] über alle Länderseiten
 TR = {}          # Übersetzungen der aktuellen Sprachfassung (translations.json)
+CORR = {}        # Korrektorat der aktuellen Sprachfassung (corrections.json, ganze Texte)
 QUERIES = {}     # alte News-Abfrage-Links (…/details?tx_news_pi1…) -> Pfad des übernommenen Artikels
 MISSING = set()  # fehlende Übersetzungen (Hinweis am Ende)
 US_PATHS = set()  # Seitenpfade der USA-Seite (Ziel für alte Links auf zoller.info/us/…)
@@ -1525,6 +1526,19 @@ MONTHS_EN = ["January", "February", "March", "April", "May", "June", "July", "Au
 ACADEMY_DATE = re.compile(r"(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)\.,\s*(\d{1,2})\.\s*(" + "|".join(MONTHS_EN) + r")\s+(\d{4})")
 
 
+def academy_tags(rest, flt):
+    """Kategorie und Lösung eines Academy-Eintrags (»prodotto tecnica di impatto«) wie die Filter korrigieren
+    (corrections.json) und mit · trennen: »Prodotto · Bilanciatura«."""
+    for a, b in sorted(CORR.items(), key=lambda kv: -len(kv[0])):
+        if a and len(a) < 60 and a in rest:
+            rest = re.sub(r"(?<!\w)" + re.escape(a) + r"(?!\w)", b, rest)
+    for opts in flt.values():
+        for o in sorted(opts, key=len, reverse=True):
+            if rest.lower().startswith(o.lower() + " "):
+                return o + " · " + rest[len(o) + 1:]
+    return rest
+
+
 def r_academy(ctx, b):
     flt = b.get("filters", {})
     selects = []
@@ -1543,8 +1557,9 @@ def r_academy(ctx, b):
         m = ACADEMY_DATE.match(body)   # Datum kommt von zoller.info immer englisch (»Wed., 30. September 2026«)
         if m:
             day = i18n.fmt_date(LANG, m.group(3), MONTHS_EN.index(m.group(2)) + 1, m.group(1), LOC["code"] if LOC["src"] else "")
-            rest = body[m.end():].strip()
+            rest = academy_tags(body[m.end():].strip(), flt)
             body = day + (" · " + rest if rest else "")
+            txt = f'{it.get("title", "")} {m.group(0)} {rest}'   # Filter vergleicht mit den korrigierten Kategorien
         cards.append(f'<article class="card" data-reveal data-text="{esc(txt.lower(), quote=True)}"><div class="card__media">{img_tag(ctx, it.get("img"), alt="")}</div>'
                      f'<div class="card__body"><h3>{esc(it.get("title", ""))}</h3><p>{esc(body[:220])}</p><span class="card__more">{_("Ansehen")}</span></div>'
                      f'<a class="card__link" href="{esc(href, quote=True)}" target="_blank" rel="noopener" aria-label="{esc(it.get("title", ""), quote=True)}"></a></article>')
@@ -2739,8 +2754,10 @@ def use_locale(loc):
         NAV = names.fix_all(NAV, LANG, TEXT_SKIP)
     # Korrekturgelesene Texte: ganzer sichtbarer Textknoten -> korrigierte Fassung (zuletzt, nach allen Ersetzungen)
     corr_file = os.path.join(ROOT, "content", "sites", loc["src"], "corrections.json") if loc["src"] else os.path.join(ROOT, "content", "corrections.json")
+    CORR.clear()
     if os.path.exists(corr_file):
         corr = json.load(open(corr_file, encoding="utf-8"))
+        CORR.clear(); CORR.update(corr)
         for path in list(PAGES):
             PAGES[path] = translate(PAGES[path], corr, skip=TEXT_SKIP)
         NAV = translate(NAV, corr, skip=TEXT_SKIP)
