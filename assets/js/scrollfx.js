@@ -47,7 +47,7 @@
   /* ------------------------------------------- Farbwechsel als Karte (Unfold) */
   // erst alle Farben lesen, dann umbauen – sonst sähe ein Abschnitt schon den umgebauten Nachbarn
   const footer = $('.site-footer');
-  const SKIP = '.hero, .ev-hero, .homefilm, .worldflight, .hscroll, .immersive, .globe, .product-hero, .subnav, .band, .breadcrumb';
+  const SKIP = '.hero, .ev-hero, .homefilm, .worldflight, .hscroll, .immersive, .zoomx, .globe, .product-hero, .subnav, .band, .breadcrumb';
   const curtain = $('main > :is(.hero, .ev-hero):first-child');
   const unfolds = [];
   [...main.children, footer].forEach((el) => {

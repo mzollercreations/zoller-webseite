@@ -2006,3 +2006,51 @@ table.proto.proto-in td:first-child { animation: proto-tick 1.3s var(--ease-out)
 @media print {
   .scan, .bp-grid, .intro { display: none !important; }
 }
+
+/* ---------- Zoom-Through, Iris-Blende, Text-Maske (zoomfx.js, build.py zoom_iris / zoom_mask) ---------- */
+/* Ohne Bewegung (kein JS, »Bewegung reduzieren«): Satz auf Weiß bzw. Vollbild mit Karte */
+.zoomx { position: relative; }
+.zoomx__big { display: none; margin: 0; font-weight: 800; line-height: .92; letter-spacing: -.045em; white-space: nowrap; text-align: center; color: var(--black); }
+.zoomx__big > span { display: inline-block; }
+.zoomx__big.is-stacked .zoomx__w { display: block; }
+.zoomx--iris { background: var(--white); padding-block: clamp(5rem, 4rem + 6vw, 10rem); }
+.zoomx--iris .zoomx__disc { padding-inline: var(--gutter); }
+.zoomx__line { margin: 0 auto; max-width: 13em; text-align: center; text-wrap: balance; font-size: clamp(2.125rem, 1rem + 4.4vw, 6rem); line-height: 1.08; font-weight: 500; letter-spacing: -.035em; color: var(--black); }
+.zoomx__line em { font-style: normal; padding-inline: .06em; background: linear-gradient(var(--yellow), var(--yellow)) 0 92% / var(--mk, 100%) .34em no-repeat; -webkit-box-decoration-break: clone; box-decoration-break: clone; }
+.zoomx__ring, .zoomx__reticle, .zoomx__veil, .zoomx__kicker { display: none; }
+.zoomx--mask { min-height: 100vh; display: flex; align-items: flex-end; color: var(--white); background: var(--black); isolation: isolate; overflow: clip; }
+.zoomx--mask .zoomx__stage { position: absolute; inset: 0; z-index: 0; overflow: hidden; }
+.zoomx__media { position: absolute; inset: 0; overflow: hidden; background: var(--gray-900); }
+.zoomx__media img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 30%; transform-origin: 50% 40%; }
+.zoomx__shade { position: absolute; inset: 0; pointer-events: none; background: linear-gradient(180deg, rgba(0, 0, 0, .12) 25%, rgba(0, 0, 0, .78) 100%); }
+.zoomx__content { position: relative; z-index: 1; width: 100%; padding-block: 8rem 6rem; }
+
+/* Mit Bewegung */
+.js:not(.reduced-motion) .zoomx__big { display: block; }
+.js:not(.reduced-motion) .zoomx__stage { position: sticky; top: 0; height: 100vh; height: 100svh; overflow: hidden; }
+.js:not(.reduced-motion) .zoomx--iris { height: 270vh; padding: 0; background: var(--yellow); }
+.js:not(.reduced-motion) .zoomx--iris .zoomx__stage { display: grid; place-items: center; }
+.js:not(.reduced-motion) .zoomx--iris .zoomx__big { position: relative; }
+.js:not(.reduced-motion) .zoomx--iris .zoomx__disc { position: absolute; inset: 0; display: grid; place-items: center; background: var(--white); clip-path: circle(0 at 50% 50%); }
+.js:not(.reduced-motion) .zoomx--iris .zoomx__line { opacity: 0; --mk: 0%; }
+.js:not(.reduced-motion) .zoomx__ring { display: block; position: absolute; inset: 0; width: 100%; height: 100%; overflow: visible; pointer-events: none; opacity: 0; fill: none; stroke: var(--black); }
+.zoomx__ticks { stroke-width: 14; }
+.zoomx__major { stroke-width: 22; }
+.js:not(.reduced-motion) .zoomx__reticle { display: block; position: absolute; left: 0; top: 0; width: 0; height: 0; opacity: 0; pointer-events: none; }
+.zoomx__reticle::before, .zoomx__reticle::after { content: ""; position: absolute; background: rgba(0, 0, 0, .32); }
+.zoomx__reticle::before { left: -100vmax; width: 200vmax; top: -.5px; height: 1px; }
+.zoomx__reticle::after { top: -100vmax; height: 200vmax; left: -.5px; width: 1px; }
+/* Text-Maske: weiße Fläche mit schwarzer Schrift im Modus »screen« – Weiß bleibt weiß, in den Buchstaben erscheint das Bild */
+.js:not(.reduced-motion) .zoomx--mask { display: block; min-height: 0; overflow: visible; }
+.js:not(.reduced-motion) .zoomx--mask .zoomx__stage { inset: 0 auto auto 0; width: 100%; isolation: isolate; }
+.js:not(.reduced-motion) .zoomx--mask .zoomx__shade { opacity: 0; }
+.js:not(.reduced-motion) .zoomx--mask .zoomx__content { margin-top: 150vh; }
+.js:not(.reduced-motion) .zoomx__veil { display: grid; place-items: center; position: absolute; inset: 0; background: var(--white); mix-blend-mode: screen; }
+.js:not(.reduced-motion) .zoomx__kicker { display: block; position: absolute; left: 0; right: 0; top: 30%; text-align: center; color: var(--black); font-size: clamp(.8125rem, .7rem + .3vw, 1rem); font-weight: 500; letter-spacing: .16em; text-transform: uppercase; }
+@media print {
+  .zoomx--iris { height: auto !important; background: none !important; }
+  .zoomx__big, .zoomx__ring, .zoomx__reticle, .zoomx__veil, .zoomx__kicker { display: none !important; }
+  .zoomx__stage { position: relative !important; height: auto !important; }
+  .zoomx__disc { clip-path: none !important; }
+  .zoomx__line { opacity: 1 !important; transform: none !important; }
+}

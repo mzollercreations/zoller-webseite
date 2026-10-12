@@ -163,7 +163,7 @@ def _asset_version():
     import hashlib
     h = hashlib.md5()
     for rel in ("assets/css/main.css", "assets/js/main.js", "assets/js/scrollfx.js", "assets/js/homefilm.js", "assets/js/productstage.js",
-                "assets/js/worldflight.js", "assets/js/world.js", "assets/js/eventagenda.js",
+                "assets/js/worldflight.js", "assets/js/world.js", "assets/js/eventagenda.js", "assets/js/zoomfx.js",
                 "assets/js/globe.js", "assets/js/globe-land.js"):
         if not os.path.exists(os.path.join(ROOT, rel)):
             continue
@@ -1701,6 +1701,40 @@ def solution_band(ctx):
     return f'<section class="band bg-white" data-band aria-label="{esc(sol["label"], quote=True)}">{"".join(rows)}</section>'
 
 
+def zoom_iris(ctx, word, line):
+    """Zoom-Through mit Iris-Blende (assets/js/zoomfx.js): ein großes Wort wächst beim Scrollen, bis man zwischen den
+    Buchstaben hindurchfliegt; dort öffnet sich ein weißer Kreis mit Messskala am Rand und zeigt den Satz.
+    Der Teil nach dem Zeilenumbruch bekommt den gelben Marker. Ohne Bewegung steht nur der Satz da."""
+    ctx.has_zoom = True
+    m = re.search(r"<br\s*/?>", line)
+    if m and strip_tags(line[m.end():]).strip():
+        line = f'{line[:m.start()].strip()}<br><em>{line[m.end():].strip()}</em>'
+    return f'''<section class="zoomx zoomx--iris" data-zoomx="iris">
+  <div class="zoomx__stage">
+    <p class="zoomx__big" aria-hidden="true"><span>{esc(word)}</span></p>
+    <div class="zoomx__disc"><i class="zoomx__reticle" aria-hidden="true"></i><p class="zoomx__line">{line}</p></div>
+    <svg class="zoomx__ring" aria-hidden="true"><circle class="zoomx__ticks"/><circle class="zoomx__major"/></svg>
+  </div>
+</section>'''
+
+
+def zoom_mask(ctx, b, word, kicker=""):
+    """Text-Maske (assets/js/zoomfx.js): das Bild der nächsten Szene ist zuerst nur in den Buchstaben eines großen
+    Schriftzugs zu sehen; die Schrift wächst, bis man durch einen Buchstaben ins Bild fliegt, dann schiebt sich die
+    Karte mit dem Text darüber. Ohne Bewegung: Vollbild mit Karte (wie .immersive)."""
+    ctx.has_zoom = True
+    words = " ".join(f'<span class="zoomx__w">{esc(w)}</span>' for w in word.split())
+    return f'''<section class="zoomx zoomx--mask" id="{b["id"]}" data-zoomx="mask">
+  <div class="zoomx__stage">
+    <div class="zoomx__media">{img_tag(ctx, (b.get("images") or [None])[0], alt="")}</div>
+    <div class="zoomx__shade" aria-hidden="true"></div>
+    <div class="zoomx__veil" aria-hidden="true"><p class="zoomx__big"><span>{words}</span></p></div>
+    {f'<span class="zoomx__kicker" aria-hidden="true">{esc(kicker)}</span>' if kicker else ""}
+  </div>
+  <div class="wrap zoomx__content"><div class="immersive__card" data-reveal>{ctx.rewrite(b["header"])}{rte(ctx, b["body"])}</div></div>
+</section>'''
+
+
 def homefilm(ctx, hero, sub, p1, p2):
     """Startseite oben: Kamerafahrt durch eine Showroom-Gasse mit den Geräten links und rechts
     (Video aus video/home-hero, assets/js/homefilm.js). Drei Text-Panels wechseln beim Scrollen."""
@@ -1806,8 +1840,10 @@ def render_home(ctx, page):
     <div class="premium__text"><div data-reveal>{ctx.rewrite(premium["header"])}</div><div data-reveal>{rte(ctx, body)}</div></div>
     <div class="premium__img reveal-mask"><div class="media-frame" data-parallax-img>{img}</div></div>
   </div>
-  {f'<p class="statement statement--wide" data-words>{ctx.rewrite(statement)}</p>' if statement else ""}
 </div></section>''')
+        # 3a) Schluss-Statement als Zoom-Through: »Premium.« wächst, bis man hindurchfliegt, ein Kreis öffnet sich mit dem Satz
+        if statement:
+            out.append(zoom_iris(ctx, _("Premium."), ctx.rewrite(statement)))
     # 4) Kennzahlen
     for b in by.get("kpis", []):
         out.append(r_kpis(ctx, b))
@@ -1842,8 +1878,10 @@ def render_home(ctx, page):
         out.append(f'''<section class="section {bg}" id="{q["id"]}"><div class="wrap"><div class="big-quote{" big-quote--rev" if i else ""}">
   <div class="big-quote__img reveal-mask"><div class="media-frame" style="height:100%">{img_tag(ctx, (q.get("images") or [None])[0], extra=" data-parallax")}</div></div>
   <div data-reveal><blockquote><p data-words>{esc(quote)}</p></blockquote><cite>{esc(cite)}</cite>{rte(ctx, rest)}</div></div></div></section>''')
-    # 8) Smart Factory (Vollbild)
-    if smart:
+    # 8) Smart Factory: das Gebäude erscheint in den Buchstaben »Smart Factory«, man fliegt hindurch ins Vollbild
+    if smart and (smart.get("images") or [None])[0]:
+        out.append(zoom_mask(ctx, smart, "Smart Factory", "ZOLLER · Pleidelsheim"))
+    elif smart:
         img = img_tag(ctx, (smart.get("images") or [None])[0], extra=" data-parallax")
         out.append(f'''<section class="immersive" id="{smart["id"]}"><div class="immersive__media">{img}</div>
   <div class="wrap immersive__content"><div class="immersive__card" data-reveal>{ctx.rewrite(smart["header"])}{rte(ctx, smart["body"])}</div></div></section>''')
@@ -2235,6 +2273,7 @@ def render_page(page):
     ctx.has_worldflight = False
     ctx.has_agenda = False
     ctx.has_globe = False
+    ctx.has_zoom = False
     is_home = page["path"] == HOME
     if is_home:
         body = render_home(ctx, page)
@@ -2332,6 +2371,9 @@ try{{var za=JSON.parse(sessionStorage.getItem('zoller-arrive')||'null');sessionS
     if ctx.has_agenda:
         scripts += f'''
 <script src="{ctx.prefix}assets/js/eventagenda.js?v={ASSET_VER}" defer></script>'''
+    if ctx.has_zoom:
+        scripts += f'''
+<script src="{ctx.prefix}assets/js/zoomfx.js?v={ASSET_VER}" defer></script>'''
     modules = []
     if is_home:
         modules.append("homefilm.js")
