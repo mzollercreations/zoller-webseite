@@ -70,12 +70,17 @@ def strip_locale(href):
     path = href.split("#")[0].split("?")[0].rstrip("/")
     if path in ALIASES:
         href = HOME + href[len(path):]
+    elif src and path:
+        new = names.rename_path(src, path)   # umbenannte Adresse (content/renames.json): …/titanium -> …/titan
+        if new != path:
+            href = new + href[len(path):]
     return href
 
 
 ZI_LOCALES = ("ca", "ca-fr", "mx", "en_DE", "us", "es", "fr", "it", "pt", "se", "ru", "tr", "ja", "kr", "in",
               "br", "at", "ch", "cz", "pl", "si", "hu", "sk")
 SLUGS = {}       # eindeutige Pfadteile (Produktnamen wie »genius«) -> lokaler Pfad
+RENAMED = {}     # (Sprachfassung, neue Adresse) -> alte Adresse (content/renames.json, Weiterleitungen)
 
 
 def equivalent(path):
@@ -261,7 +266,7 @@ class Ctx:
             o = other["src"]
             if other is not LOC and o and (href == "/" + o or href.startswith("/" + o + "/")):
                 p, _sep, frag = href[len(o) + 1:].partition("#")
-                p = p.split("?")[0].rstrip("/")
+                p = names.rename_path(o, p.split("?")[0].rstrip("/"))
                 p = HOME if not p or p == other["home"][len(o) + 1:] else p
                 if p in OTHER.get(o, ()):
                     target = "" if p == HOME else p.strip("/") + "/"
@@ -2445,6 +2450,9 @@ def load_pages(src, overlay=""):
     pages = {}
     for f in files:
         p = json.load(open(f, encoding="utf-8"))
+        if src and names.rename_path(src, p["path"].rstrip("/")) != p["path"].rstrip("/"):
+            RENAMED[(src, names.rename_path(src, p["path"].rstrip("/")))] = p["path"].rstrip("/")
+            p["path"] = names.rename_path(src, p["path"].rstrip("/"))
         path = p["path"].rstrip("/") or HOME
         if path in SKIP or (src and p.get("de_path") in SKIP) or re.search(r"/(details?|detalle)$", path):
             continue
@@ -2539,13 +2547,14 @@ TR_SKIP = {"src", "href", "id", "ftype", "bg", "space", "pos", "type", "kind", "
 TEXT_SKIP = TR_SKIP - {"value"}
 
 
-def translate(obj, tr, key=""):
+def translate(obj, tr, key="", skip=None):
     """Unübersetzte Texte der Sprachfassung ersetzen (content/sites/<sprachpfad>/translations.json):
     ganze Texte oder einzelne Textstellen zwischen HTML-Tags, Schlüssel ohne Leerraum am Rand."""
+    skip = TR_SKIP if skip is None else skip
     if isinstance(obj, dict):
-        return {k: (v if k in TR_SKIP else translate(v, tr, k)) for k, v in obj.items()}
+        return {k: (v if k in skip else translate(v, tr, k, skip)) for k, v in obj.items()}
     if isinstance(obj, list):
-        return [translate(v, tr, key) for v in obj]
+        return [translate(v, tr, key, skip) for v in obj]
     if not isinstance(obj, str) or not obj.strip():
         return obj
 
@@ -2602,6 +2611,13 @@ def use_locale(loc):
         for path in list(PAGES):
             PAGES[path] = names.fix_all(PAGES[path], LANG, TEXT_SKIP)
         NAV = names.fix_all(NAV, LANG, TEXT_SKIP)
+    # Korrekturgelesene Texte: ganzer sichtbarer Textknoten -> korrigierte Fassung (zuletzt, nach allen Ersetzungen)
+    corr_file = os.path.join(ROOT, "content", "sites", loc["src"], "corrections.json") if loc["src"] else os.path.join(ROOT, "content", "corrections.json")
+    if os.path.exists(corr_file):
+        corr = json.load(open(corr_file, encoding="utf-8"))
+        for path in list(PAGES):
+            PAGES[path] = translate(PAGES[path], corr, skip=TEXT_SKIP)
+        NAV = translate(NAV, corr, skip=TEXT_SKIP)
     for d in (DE_OF, LOC_OF, ALIASES, OTHER, NAV_LABELS, QUERIES, SLUGS):
         d.clear()
     qfile = os.path.join(ROOT, "content", "sites", loc["src"], "queries.json") if loc["src"] else os.path.join(ROOT, "content", "queries.json")
@@ -2628,6 +2644,24 @@ def use_locale(loc):
         seg = path.rstrip("/").split("/")[-1]
         seen[seg] = None if seg in seen else path
     SLUGS.update({k: v for k, v in seen.items() if v and len(k) > 3})
+    for (src, new), old in RENAMED.items():
+        if src == loc["src"] and new in PAGES:
+            SLUGS.setdefault(old.rsplit("/", 1)[-1], new)
+
+
+def write_redirect(old, new):
+    """Alte Adresse einer umbenannten Seite (content/renames.json) leitet auf die neue weiter."""
+    base = os.path.join(OUT, LOC["dir"]) if LOC["dir"] else OUT
+    src_dir, dst_dir = os.path.join(base, old.strip("/")), os.path.join(base, new.strip("/"))
+    rel = os.path.relpath(dst_dir, src_dir).replace(os.sep, "/") + "/"
+    url = SITE["url"] + (LOC["dir"] + "/" if LOC["dir"] else "") + new.strip("/") + "/"
+    os.makedirs(src_dir, exist_ok=True)
+    with open(os.path.join(src_dir, "index.html"), "w", encoding="utf-8") as fh:
+        fh.write(f'<!doctype html><html lang="{LOC["code"]}"><meta charset="utf-8"><title>ZOLLER</title>'
+                 f'<meta name="robots" content="noindex"><link rel="canonical" href="{esc(url, quote=True)}">'
+                 f'<meta http-equiv="refresh" content="0; url={esc(rel, quote=True)}">'
+                 f'<script>location.replace({json.dumps(rel)} + location.search + location.hash)</script>'
+                 f'<a href="{esc(rel, quote=True)}">{esc(url)}</a></html>')
 
 
 def write_page(path, doc):
@@ -2677,6 +2711,8 @@ def main():
         for path, p in PAGES.items():
             write_page(path, render_page(p))
             count += 1
+            if (loc["src"], path) in RENAMED:
+                write_redirect(RENAMED[(loc["src"], path)], path)
         if i == 0:
             if SITE_ID == "de":
                 # /startseite/ als Weiterleitung

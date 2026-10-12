@@ -232,6 +232,18 @@ def fix(s, lang):
     return _balance(s, strict=lang == "en" or ("<" not in s and len(s) <= 120))
 
 
+RENAMES = json.load(open(os.path.join(ROOT, "content", "renames.json"), encoding="utf-8"))
+
+
+def rename_path(src, path):
+    """Neue Adresse einer Seite der Sprachfassung src (content/renames.json, auch für Unterseiten):
+    …/titanium -> …/titan. Pfade ohne Sprachpräfix, andere Pfade bleiben unverändert."""
+    for old, new in RENAMES.get(src, {}).items():
+        if path == old or path.startswith(old + "/"):
+            return new + path[len(old):]
+    return path
+
+
 def fix_all(obj, lang, skip=()):
     """fix() rekursiv auf alle Texte einer Seite/Navigation (Schlüssel aus skip, z. B. Links, bleiben unberührt)."""
     if isinstance(obj, dict):

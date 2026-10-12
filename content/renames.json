@@ -1,0 +1,30 @@
+{
+ "_info": "Umbenannte Seitenadressen je Sprachfassung (Pfad ohne Sprachpräfix, gilt auch für alle Unterseiten). Die Übersetzung von zoller.info hatte Produktnamen in den Adressen mitübersetzt. Die alten Adressen bleiben als Weiterleitung erhalten (tools/build.py), der 3D-Showroom nutzt dieselbe Liste.",
+ "ca": {
+  "/products/inspection-measuring/universal-measuring-machine/titanium": "/products/inspection-measuring/universal-measuring-machine/titan",
+  "/products/tool-management/tms-tool-management-solutions/software-packages/gold-store-management": "/products/tool-management/tms-tool-management-solutions/software-packages/gold-shop-floor-management",
+  "/products/tool-management/tms-tool-management-solutions/software-packages/bronze-cad/cam-module": "/products/tool-management/tms-tool-management-solutions/software-packages/bronze-cad-cam-module",
+  "/rotate": "/turning"
+ },
+ "ca-fr": {
+  "/produits/controle-et-mesure/machines-de-mesure-universelles/genie": "/produits/controle-et-mesure/machines-de-mesure-universelles/genius",
+  "/produits/controle-et-mesure/machines-de-mesure-universelles/titane": "/produits/controle-et-mesure/machines-de-mesure-universelles/titan",
+  "/produits/gestion-des-outils/magasin-doutillage/gardien": "/produits/gestion-des-outils/magasin-doutillage/keeper",
+  "/produits/reglage-et-mesure/solutions-sur-mesure/solutions-sur-mesure/zenith": "/produits/reglage-et-mesure/solutions-sur-mesure/solutions-sur-mesure/zenit",
+  "/produits/gestion-des-outils/tms-tool-management-solutions/progiciels/gold-gestion-des-magasins": "/produits/gestion-des-outils/tms-tool-management-solutions/progiciels/gold-gestion-de-latelier",
+  "/produits/gestion-des-outils/tms-tool-management-solutions/progiciels/module-cad/cam-bronze": "/produits/gestion-des-outils/tms-tool-management-solutions/progiciels/bronze-module-cao-fao",
+  "/produits/technique-de-retraction": "/produits/technique-de-frettage",
+  "/solutions/technique-de-retraction": "/solutions/technique-de-frettage",
+  "/retrecissement-de-loutil": "/frettage-des-outils",
+  "/tourner": "/tournage",
+  "/evenements/journees-de-formation-zpac/entraineurs": "/evenements/journees-de-formation-zpac/formateurs"
+ },
+ "mx": {
+  "/girar": "/torneado",
+  "/productos/ammare-termico-de-herramientas": "/productos/tecnica-de-contraccion",
+  "/productos/gestion-de-herramientas/tms-tool-management-solutions/paquetes-de-software/modulo-cad/cam-bronze": "/productos/gestion-de-herramientas/tms-tool-management-solutions/paquetes-de-software/bronze-modulo-cad-cam",
+  "/productos/gestion-de-herramientas/tms-tool-management-solutions/paquetes-de-software/organizacion-operativa-de-silver": "/productos/gestion-de-herramientas/tms-tool-management-solutions/paquetes-de-software/silver-organizacion-operativa",
+  "/solutions": "/soluciones",
+  "/eventos/dias-de-entrenamiento-zpac/entrenadores": "/eventos/dias-de-entrenamiento-zpac/instructores"
+ }
+}
