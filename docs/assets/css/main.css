@@ -469,11 +469,12 @@ main.has-hero { padding-top: 0; }
 .homefilm.is-playing .homefilm__video { opacity: 1; }
 .homefilm__shade { position: absolute; inset: 0; pointer-events: none; }
 .homefilm__shade--top { background: linear-gradient(180deg, rgba(0, 0, 0, .55) 0%, rgba(0, 0, 0, 0) 22%), linear-gradient(0deg, rgba(0, 0, 0, .5) 0%, rgba(0, 0, 0, 0) 26%); }
-.homefilm__shade--l { background: linear-gradient(90deg, rgba(0, 0, 0, .78) 0%, rgba(0, 0, 0, .5) 32%, rgba(0, 0, 0, 0) 60%); }
-.homefilm__shade--r { opacity: 0; background: linear-gradient(270deg, rgba(0, 0, 0, .78) 0%, rgba(0, 0, 0, .5) 32%, rgba(0, 0, 0, 0) 60%); }
+/* Texte stehen unten links/rechts (oben sitzen die Schilder an den Geräten): Abdunklung aus der unteren Ecke */
+.homefilm__shade--l { background: radial-gradient(130% 95% at 0% 100%, rgba(0, 0, 0, .8) 0%, rgba(0, 0, 0, .5) 38%, rgba(0, 0, 0, 0) 70%); }
+.homefilm__shade--r { opacity: 0; background: radial-gradient(130% 95% at 100% 100%, rgba(0, 0, 0, .8) 0%, rgba(0, 0, 0, .5) 38%, rgba(0, 0, 0, 0) 70%); }
 .homefilm__copy { position: absolute; inset: 0; display: flex; align-items: center; pointer-events: none; z-index: 2; }
 .homefilm__copy .wrap { position: relative; height: 100%; }
-.homefilm__panel { position: absolute; left: var(--gutter); right: var(--gutter); top: 50%; transform: translateY(-50%); max-width: 40rem; opacity: 0; will-change: opacity, transform; text-shadow: 0 2px 24px rgba(0, 0, 0, .45); }
+.homefilm__panel { position: absolute; left: var(--gutter); right: var(--gutter); bottom: clamp(5.25rem, 11vh, 8.5rem); max-width: 40rem; opacity: 0; will-change: opacity, transform; text-shadow: 0 2px 24px rgba(0, 0, 0, .45); }
 .homefilm__panel:first-child { opacity: 1; }
 .homefilm__panel--right { left: auto; text-align: right; }
 .homefilm__panel h1, .homefilm__panel h2 { font-size: var(--fs-display); line-height: 1; letter-spacing: -0.035em; margin-bottom: 1.25rem; }

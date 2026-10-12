@@ -21,7 +21,6 @@ function init() {
   const ctrl = stage.querySelector('.homefilm__ctrl');
   const tags = Object.fromEntries([...stage.querySelectorAll('[data-dev]')].map(el => [el.dataset.dev, el]));
   const base = video.dataset.base, ver = video.dataset.ver ? `?v=${video.dataset.ver}` : '';
-  const mobileLayout = () => matchMedia('(max-width: 860px)').matches;
 
   /* ---------- Text-Panels per Scroll ---------- */
   let panelVis = [1, 0, 0];
@@ -47,7 +46,6 @@ function init() {
     updateExit();
     const p = progress();
     const seg = [0, 0.34, 0.67, 1.0001];
-    const mob = mobileLayout();
     panels.forEach((el, i) => {
       const a = seg[i], b = seg[i + 1];
       const fadeIn = i === 0 ? 1 : smooth(a - 0.02, a + 0.08, p);
@@ -56,7 +54,7 @@ function init() {
       const dy = (1 - fadeIn) * 40 - (1 - fadeOut) * 40;
       panelVis[i] = o;
       el.style.opacity = o.toFixed(3);
-      el.style.transform = mob ? `translate3d(0, ${dy.toFixed(1)}px, 0)` : `translate3d(0, calc(-50% + ${dy.toFixed(1)}px), 0)`;
+      el.style.transform = `translate3d(0, ${dy.toFixed(1)}px, 0)`;    // Panels stehen unten (CSS), die Geräte-Schilder oben
       el.style.filter = o < 0.99 ? `blur(${((1 - o) * 8).toFixed(1)}px)` : 'none';
       el.style.visibility = o < 0.01 ? 'hidden' : 'visible';
     });
@@ -129,7 +127,9 @@ function init() {
     video.requestVideoFrameCallback(onFrame);
   }
   const hasVFC = 'requestVideoFrameCallback' in HTMLVideoElement.prototype;
-  let sideFade = null;
+  // Textflächen der sichtbaren Panels: ein Schild tritt nur zurück, wenn es wirklich über dem Text läge
+  // (die Panels stehen unten, die Schilder sitzen oben an den Geräten – so bekommt jedes Gerät sein Schild)
+  const textRects = () => panels.map((el, i) => panelVis[i] > 0.02 ? el.getBoundingClientRect() : null).filter(Boolean);
 
   function frame(now) {
     requestAnimationFrame(frame);
@@ -140,11 +140,8 @@ function init() {
     const W = sticky.clientWidth, H = sticky.clientHeight;
     const vw = track.w, vh = track.h, s = Math.max(W / vw, H / vh);
     const ox = (W - vw * s) / 2, oy = (H - vh * s) / 2;
-    const mob = mobileLayout();
-    // auf dem Desktop keine Beschriftung unter dem Text: Seite des sichtbaren Panels ausblenden
-    const want = { '-1': mob ? 1 : 1 - Math.max(panelVis[0], panelVis[2] || 0), '1': mob ? 1 : 1 - (panelVis[1] || 0) };
-    if (!sideFade) sideFade = { ...want };          // erster Frame: sofort richtig, kein Aufblitzen
-    else for (const k of ['-1', '1']) sideFade[k] += (want[k] - sideFade[k]) * 0.15;
+    const sRect = sticky.getBoundingClientRect();
+    const rects = textRects().map(r => ({ l: r.left - sRect.left - 14, r: r.right - sRect.left + 14, t: r.top - sRect.top - 14, b: r.bottom - sRect.top + 14 }));
     // 1) Lage und Grund-Deckkraft aller Schilder
     const list = [];
     for (const dev in tags) {
@@ -158,13 +155,17 @@ function init() {
       const y = jump ? d[i0 * 3 + 1] : d[i0 * 3 + 1] + (d[i1 * 3 + 1] - d[i0 * 3 + 1]) * a;
       if (jump) o = Math.min(o0, o1);
       const px = ox + x * vw * s, py = oy + y * vh * s;
-      o *= sideFade[String(track.side[dev])];
       if (py < 70 || px < 0 || px > W) o = 0;           // nicht unter den Header schieben
       // Schild am Bildrand nach innen schieben, Strich und Punkt bleiben am Gerät
       const pill = el.firstElementChild;
       if (!el._w) { el._w = pill.offsetWidth; el._ph = pill.offsetHeight; el._h = el.offsetHeight; }
       const hw = el._w / 2 + 12;
       const shift = clamp(px, hw, Math.max(hw, W - hw)) - px;
+      // über dem Text eines Panels? (ganzes Schild samt Strich bis zum Gerät)
+      const L = px + shift - el._w / 2, R = px + shift + el._w / 2, T = py - el._h, B = py;
+      const covered = rects.some(q => L < q.r && R > q.l && T < q.b && B > q.t);
+      el._c = (el._c ?? (covered ? 1 : 0)) + ((covered ? 1 : 0) - (el._c ?? 0)) * 0.2;
+      o *= 1 - el._c;
       list.push({ el, o, px, py, shift, lose: false });
     }
     // 2) Überdecken sich zwei Schilder (Geräte hintereinander, v. a. im Hochformat), tritt das weiter entfernte
