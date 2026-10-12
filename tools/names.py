@@ -266,7 +266,13 @@ def fix(s, lang):
     s = _fix_names(s, rx, canon, cjk=lang in ("zh", "ja", "ko"))
     s = _extend(s.replace("»»", "»").replace("««", "«"), canon)
     # streng: Englisch, Chinesisch, Japanisch, Koreanisch (keine »«-Zitate) und kurze Texte ohne HTML (Tabellenzellen, Titel)
-    return _balance(s, strict=lang in ("en", "zh", "ja", "ko") or ("<" not in s and len(s) <= 120))
+    s = _balance(s, strict=lang in ("en", "zh", "ja", "ko") or ("<" not in s and len(s) <= 120))
+    if lang == "hu":   # ungarische Endung hängt mit Bindestrich am Namen: »powerShrink« ről -> »powerShrink«-ről
+        s = re.sub(r"«\s(" + HU_SUFFIX + r")(?![a-záéíóöőúüű])", r"«-\1", s)
+    return s
+
+
+HU_SUFFIX = "ről|ról|ba|ban|ben|nek|nak|hez|hoz|höz|val|vel|ből|ból|tól|től|nál|nél|ért|ként|ra|re|t|ot|et|at|öt|on|ön|n"
 
 
 RENAMES = json.load(open(os.path.join(ROOT, "content", "renames.json"), encoding="utf-8"))
