@@ -186,7 +186,8 @@ def _asset_version():
     h = hashlib.md5()
     for rel in ("assets/css/main.css", "assets/js/main.js", "assets/js/scrollfx.js", "assets/js/homefilm.js", "assets/js/productstage.js",
                 "assets/js/worldflight.js", "assets/js/world.js", "assets/js/eventagenda.js", "assets/js/zoomfx.js",
-                "assets/js/globe.js", "assets/js/globe-land.js", "assets/js/traycalc.js"):
+                "assets/js/globe.js", "assets/js/globe-land.js", "assets/js/traycalc.js", "assets/js/arview.js",
+                "content/ar_models.json"):
         if not os.path.exists(os.path.join(ROOT, rel)):
             continue
         with open(os.path.join(ROOT, rel), "rb") as fh:
@@ -561,7 +562,8 @@ def r_product_header(ctx, b):
     img = img_tag(ctx, b.get("img"), eager=True, alt=b.get("title", ""))
     return (f'<section class="product-hero" id="{esc(b.get("id", ""))}"><div class="wrap"><div class="product-hero__grid">'
             f'<div class="product-hero__copy" data-hero-copy><h1 class="product-hero__name">{esc(b.get("title", ""))}</h1>'
-            f'<div class="product-hero__claim">{rte(ctx, b.get("text", ""))}</div></div>'
+            f'<div class="product-hero__claim">{rte(ctx, b.get("text", ""))}</div>'
+            f'{"<div class=product-hero__actions>" + ar_hero_btn(ctx) + "</div>" if ar_ids(ctx.path) else ""}</div>'
             f'<div class="product-hero__img" data-product-img>{img}</div></div></div></section>')
 
 
@@ -580,7 +582,7 @@ def product_stage(ctx, b, p):
             f'<div class="product-hero__copy" data-hero-copy><span class="product-hero__eyebrow">{eyebrow}</span>'
             f'<h1 class="product-hero__name">{esc(title)}</h1>'
             f'<div class="product-hero__claim">{rte(ctx, b.get("text", ""))}</div>'
-            f'<div class="product-hero__actions">{showroom}</div></div>'
+            f'<div class="product-hero__actions">{ar_hero_btn(ctx)}{showroom}</div></div>'
             f'<div class="product-hero__img" data-product-img>{ZSYMBOL_SVG}'
             f'<img class="product-hero__cutout" src="{esc(cut, quote=True)}" alt="{esc(title, quote=True)}" fetchpriority="high" decoding="async">'
             f'<canvas class="product-hero__canvas" aria-hidden="true"></canvas></div>'
@@ -594,6 +596,131 @@ def showroom_strip(ctx, cat):
             f'<p class="bold"><strong>{esc(_("Themenwelt »{}« in 3D erleben").format(cat_name(cat["id"])))}</strong></p>'
             f'<p>{esc(_("{} {} auf einer Bühne im 3D-Showroom – drehen, zoomen und zu Fuß durch die Halle gehen.").format(n, _("Produkt") if n == 1 else _("Produkte")))}</p></div></div>'
             f'<a class="btn" href="{SHOWROOM_URL}#themenwelt/{cat["id"]}">{_("3D-Showroom öffnen")}</a></div></div></section>')
+
+
+# ==================================================== AR-/3D-Ansicht ====
+# Echte CAD-Modelle (tools/ar_models.py -> assets/ar/<id>.glb|.usdz|.webp) auf den Produktseiten: 3D-Ansicht mit Maßen,
+# AR in Originalgröße (iPhone/iPad: Quick Look, Android: WebXR/Scene Viewer), am Rechner QR-Code fürs Handy.
+# Seiten, Gerätenamen und Texte: content/ar.json, Maße: content/ar_models.json, Browser: assets/js/arview.js
+AR = {}
+AR_MODELS = {}
+AR_ICON = ('<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
+           '<path d="M3 8V5a2 2 0 0 1 2-2h3M16 3h3a2 2 0 0 1 2 2v3M21 16v3a2 2 0 0 1-2 2h-3M8 21H5a2 2 0 0 1-2-2v-3"/>'
+           '<path d="M12 6.8 16.5 9.4v5.2L12 17.2l-4.5-2.6V9.4z"/><path d="M7.5 9.4 12 12l4.5-2.6M12 12v5.2"/></svg>')
+
+
+def ar_t(key, **kw):
+    """Text der AR-Ansicht in der Sprache der Seite (Sprachcode -> Sprache -> Deutsch)."""
+    tx = AR.get("texts", {})
+    s = tx.get(LOC["code"], {}).get(key) or tx.get(LANG, {}).get(key) or tx["de"][key]
+    return s.format(**kw) if kw else s
+
+
+def ar_ids(path):
+    """AR-Modelle der Seite (deutscher Pfad in content/ar.json), sonst None."""
+    return AR.get("pages", {}).get(de_of(path)) if AR else None
+
+
+def ar_root(path):
+    """Produktseite mit AR-Ansicht, zu der eine (Unter-)Seite gehört – Ziel des AR-Knopfs in der Produktnavigation."""
+    dp = de_of(path)
+    best = None
+    for p in AR.get("pages", {}):
+        if p.startswith("/produkte/") and (dp == p or dp.startswith(p + "/")) and (best is None or len(p) > len(best)):
+            best = p
+    return best
+
+
+def ar_m(mm):
+    """Millimeter -> Meter im Zahlformat der Sprache (»2,32« / »2.32«)."""
+    return num(f"{mm / 1000:.2f}".replace(".", ","))
+
+
+def ar_ft(mm):
+    inch = round(mm / 25.4)
+    return f"{inch // 12}′ {inch % 12}″"
+
+
+def ar_dims(mm, full=False):
+    """B × T × H in Metern (USA zusätzlich Fuß/Zoll)."""
+    s = " × ".join(ar_m(v) for v in mm) + " m"
+    if LOC["code"] == "en-US" and full:
+        s += " (" + " × ".join(ar_ft(v) for v in mm) + ")"
+    return s
+
+
+def ar_model_cfg(ctx, mid):
+    m = AR_MODELS[mid]
+    mm = m["size_mm"]
+    area = mm[0] * mm[1] / 1e6
+    us = LOC["code"] == "en-US"      # USA: Fuß/Zoll zusätzlich
+    name = AR["devices"][mid]
+    cfg = {"id": mid, "name": name,
+           "glb": f"{ctx.prefix}assets/ar/{mid}.glb?v={ASSET_VER}", "usdz": f"{ctx.prefix}assets/ar/{mid}.usdz?v={ASSET_VER}",
+           "poster": f"{ctx.prefix}assets/ar/{mid}.webp?v={ASSET_VER}", "mm": mm,
+           "area": num(f"{area:.2f}".replace(".", ",")) + " m²", "area2": f"{area * 10.7639:.0f} sq ft" if us else "",
+           "title": ar_t("title", name=name), "full": ar_t("full", dims=ar_dims(mm)), "label": ar_t("viewer", name=name)}
+    for k, v in zip(("w", "d", "h"), mm):
+        cfg[k] = ar_m(v) + " m"
+        cfg[k + "2"] = ar_ft(v) if us else ""
+        cfg["lab_" + k] = cfg[k] + (f" ({ar_ft(v)})" if us else "")
+    return cfg
+
+
+def ar_hero_btn(ctx):
+    if not ar_ids(ctx.path):
+        return ""
+    return f'<a class="btn btn--ghost btn--ar" href="#ar" data-ar-hero>{AR_ICON}<span>{esc(ar_t("ar"))}</span></a>'
+
+
+def r_ar(ctx, b):
+    ctx.has_ar = True
+    ms = [ar_model_cfg(ctx, i) for i in b["models"] if i in AR_MODELS]
+    if not ms:
+        return ""
+    m = ms[0]
+    shown = (f'<p class="ar__shown">{esc(ar_t("shown", name=m["name"]))}</p>'
+             if de_of(ctx.path) in AR.get("family", []) else "")
+    chips = ""
+    if len(ms) > 1:
+        chips = (f'<div class="ar__chips" role="radiogroup" aria-label="{esc(ar_t("model"), quote=True)}">'
+                 + "".join(f'<button type="button" class="ar__chip" role="radio" aria-checked="{"true" if i == 0 else "false"}" '
+                           f'data-ar-model="{x["id"]}">{esc(x["name"])}</button>' for i, x in enumerate(ms)) + '</div>')
+    dl = ""
+    for k in ("w", "d", "h", "area"):
+        imp = f'<small data-ar-out="{k}2">{esc(m[k + "2"])}</small>' if m[k + "2"] else ""
+        dl += f'<div><dt>{esc(ar_t(k))}</dt><dd><span data-ar-out="{k}">{esc(m[k])}</span>{imp}</dd></div>'
+
+    contact = ctx.url(L("/unternehmen/kontakt") or HOME)
+    planer = (f'<a class="btn btn--ghost ar__plan" href="{esc(PLANER_URL, quote=True)}">{PLAN_ICON}<span>{esc(_("Werkzeugraum-Planer"))}</span></a>')
+    t = {k: ar_t(k) for k in ("ar", "dims", "reset", "zoom_in", "zoom_out", "fullscreen", "drag", "loading", "noar", "arfail", "ar_hint")}
+    cfg = {"models": ms, "t": t, "cta": _("Jetzt anfragen"), "contact": contact, "page": de_of(ctx.path),
+           "mv": f"{ctx.prefix}assets/vendor/model-viewer.min.js?v={ASSET_VER}", "draco": f"{ctx.prefix}assets/vendor/draco/",
+           "qr": f"{ctx.prefix}assets/vendor/qrcode.js?v={ASSET_VER}"}
+    tool = lambda k, path: (f'<button type="button" class="ar__tool" data-ar-tool="{k}" aria-label="{esc(t[k], quote=True)}" title="{esc(t[k], quote=True)}">'
+                            f'<svg viewBox="0 0 24 24" aria-hidden="true">{path}</svg></button>')
+    tools = (f'<button type="button" class="ar__tool ar__tool--dims" data-ar-tool="dims" aria-pressed="false">'
+             f'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 17h18M3 14v6M21 14v6M7 17v-2M11 17v-3M15 17v-2M19 17v-1"/></svg>'
+             f'<span>{esc(t["dims"])}</span></button>'
+             + tool("zoom_out", '<path d="M5 12h14"/>') + tool("zoom_in", '<path d="M5 12h14M12 5v14"/>')
+             + tool("reset", '<path d="M4 12a8 8 0 1 0 2.4-5.7"/><path d="M4 4v4h4"/>')
+             + tool("fullscreen", '<path d="M4 9V4h5M15 4h5v5M20 15v5h-5M9 20H4v-5"/>'))
+    copy = (f'<div class="ar__copy" data-reveal><span class="eyebrow">{esc(ar_t("eyebrow"))}</span>'
+            f'<h2 class="ar__title" data-ar-out="title">{esc(m["title"])}</h2>{shown}'
+            f'<p class="ar__lead">{esc(ar_t("lead"))}</p>{chips}'
+            f'<dl class="ar__dims">{dl}</dl><p class="ar__note">{esc(ar_t("note"))}</p>'
+            f'<div class="ar__actions"><button type="button" class="btn ar__go" data-ar-go hidden>{AR_ICON}<span>{esc(t["ar"])}</span></button>{planer}</div>'
+            f'<p class="ar__msg" data-ar-msg role="status" hidden></p>'
+            f'<div class="ar__qr" data-ar-qr hidden><div class="ar__qrcode" data-ar-qrcode aria-hidden="true"></div>'
+            f'<div><b>{esc(ar_t("qr_title"))}</b><p>{esc(ar_t("qr_text"))}</p></div></div></div>')
+    stage = (f'<div class="ar__stage" data-ar-stage aria-label="{esc(m["label"], quote=True)}">'
+             f'<img class="ar__poster" data-ar-poster src="{esc(m["poster"], quote=True)}" alt="{esc(m["label"], quote=True)}" loading="lazy" decoding="async">'
+             f'<div class="ar__loading" data-ar-loading hidden><i></i><span>{esc(t["loading"])}</span></div>'
+             f'<span class="ar__hint" data-ar-hint hidden>{esc(t["drag"])}</span>'
+             f'<div class="ar__tools" data-ar-tools hidden>{tools}</div></div>')
+    cfg_json = esc(json.dumps(cfg, ensure_ascii=False, separators=(",", ":")), quote=False).replace("'", "&#39;")
+    return (f'<section class="section ar-section" id="ar" data-ar=\'{cfg_json}\'><div class="wrap"><div class="ar">'
+            f'{copy}{stage}</div></div></section>')
 
 
 def r_subnav(ctx, b):
@@ -615,8 +742,13 @@ def r_subnav(ctx, b):
     t = f'<a class="subnav__title" href="{esc(title_href, quote=True)}">{title}</a>' if title_href else f'<span class="subnav__title">{title}</span>'
     ctx.after_subnav = True
     ctx.has_subnav = True
+    root = ar_root(ctx.path)
+    ar = ""
+    if root and L(root):
+        href = "#ar" if de_of(ctx.path) == root else ctx.url(L(root)) + "#ar"
+        ar = f'<a class="subnav__ar" href="{esc(href, quote=True)}" title="{esc(ar_t("ar"), quote=True)}">{AR_ICON}<span>AR</span></a>'
     return (f'<nav class="subnav" aria-label="{title}"><div class="wrap subnav__inner">{t}'
-            f'<ul class="subnav__list">{"".join(lis)}</ul>'
+            f'<ul class="subnav__list">{"".join(lis)}</ul>{ar}'
             f'<a class="btn" href="{esc(ctx.url(L("/unternehmen/kontakt")), quote=True)}">{_("Jetzt anfragen")}</a></div></nav>')
 
 
@@ -788,6 +920,8 @@ def product_card(ctx, it, i=0):
     text = it.get("text", "")
     text_html = rte(ctx, text) if text.startswith("<") else (f"<p>{esc(text)}</p>" if text else "")
     go = '<span class="product-card__go" aria-hidden="true"></span>' if href else ""
+    if it.get("href") and ar_ids(it["href"]):
+        img += f'<span class="product-card__ar" title="{esc(ar_t("ar"), quote=True)}">{AR_ICON}AR</span>'
     inner = f'<div class="product-card__text"><h3>{title}</h3>{text_html}</div><div class="product-card__img">{img}</div>{go}'
     if href:
         tgt = ' target="_blank" rel="noopener"' if href.startswith("http") and "zoller.info" not in href else ""
@@ -1692,7 +1826,7 @@ RENDER = {
     "locations": r_locations, "events": r_events, "academy": r_academy, "search": r_search,
     "event_hero": r_event_hero, "event_facts": r_event_facts, "event_video": r_event_video, "event_products": r_event_products,
     "agenda": r_agenda, "event_venue": r_event_venue, "event_teaser": r_event_teaser, "events_world": r_events_world, "event_detail": r_event_detail,
-    "article": r_article, "traycalc": r_traycalc, "raw": r_raw,
+    "article": r_article, "traycalc": r_traycalc, "ar": r_ar, "raw": r_raw,
 }
 
 
@@ -2465,6 +2599,7 @@ def render_page(page):
     ctx.has_globe = False
     ctx.has_zoom = False
     ctx.has_traycalc = False
+    ctx.has_ar = False
     is_home = page["path"] == HOME
     if is_home:
         body = render_home(ctx, page)
@@ -2490,6 +2625,14 @@ def render_page(page):
                 nxt = dict(nxt)
                 nxt["header"] = nxt["header"].replace("<h1", "<h2").replace("</h1>", "</h2>")
                 blocks[at + 1] = nxt
+        if ar_ids(page["path"]):
+            # AR-/3D-Ansicht nach dem Produktkopf und dem ersten Abschnitt (Seiten ohne Kopf: nach dem ersten Abschnitt)
+            at = next((i for i, b in enumerate(blocks) if b["type"] == "product_header"), None)
+            if at is None:
+                at = next((i for i, b in enumerate(blocks) if b["type"] != "subnav"), len(blocks) - 1)
+            else:
+                at += 1
+            blocks = list(blocks[:at + 1]) + [{"type": "ar", "models": ar_ids(page["path"])}] + list(blocks[at + 1:])
         dp = de_of(page["path"])
         cat_id = dp.split("/")[-1] if dp.count("/") == 2 and dp.startswith("/produkte/") else None
         if dp == "/events" and EVENTS.get("events"):
@@ -2568,6 +2711,9 @@ try{{var za=JSON.parse(sessionStorage.getItem('zoller-arrive')||'null');sessionS
     if ctx.has_traycalc:
         scripts += f'''
 <script src="{ctx.prefix}assets/js/traycalc.js?v={ASSET_VER}" defer></script>'''
+    if ctx.has_ar:
+        scripts += f'''
+<script src="{ctx.prefix}assets/js/arview.js?v={ASSET_VER}" defer></script>'''
     modules = []
     if is_home:
         modules.append("homefilm.js")
@@ -2904,6 +3050,10 @@ def main():
     ev_file = os.path.join(ROOT, "content", "events.json")
     if os.path.exists(ev_file):
         EVENTS.update(json.load(open(ev_file, encoding="utf-8")))
+    for name, target in (("ar.json", AR), ("ar_models.json", AR_MODELS)):
+        f_ = os.path.join(ROOT, "content", name)
+        if os.path.exists(f_):
+            target.update(json.load(open(f_, encoding="utf-8")))
     loc_file = os.path.join(ROOT, "content", "locations.json")
     if os.path.exists(loc_file):
         LOCATIONS = json.load(open(loc_file, encoding="utf-8"))

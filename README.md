@@ -191,6 +191,16 @@ python3 tools/hubspot.py check us         # Live-Seite und Dateitypen auf der Do
 - **Produktkarten** kippen in 3D zum Mauszeiger, mit Lichtreflex; **Buttons** ziehen magnetisch zum Zeiger; **Überschriften** gleiten Wort für Wort aus einer Maske; in dunklen Bereichen folgt ein gelber Lichtschein dem Zeiger.
 - **Showroom-Links**: gelber Header-Button, Eintrag im Handy-Menü, Teaser auf der Produktübersicht, „Themenwelt in 3D erleben" auf den Kategorieseiten und „Im 3D-Showroom ansehen" auf jeder Produktseite (Deep-Link auf das Gerät).
 
+## AR- und 3D-Ansicht der Produktseiten
+
+Elf Geräte mit offiziellen ZOLLER-CAD-Daten (`~/Claude/ZOLLER/cad/original`) stehen auf ihren Produktseiten als echtes 3D-Modell und in Augmented Reality in Originalgröße: »venturion« 450/600/800 (Auswahl), »smile«, »redomatic 600«, »powerShrink 400«, »toolBalancer 550«, »keeper«, »toolOrganizer«, »toolStation«, »zidCode 4.0« – auf 11 Produktseiten je Sprachfassung und auf den passenden Vorführ- und Gebrauchtgeräten (deutsche Seite).
+
+- **Abschnitt `#ar`** (`r_ar` in `tools/build.py`, `assets/js/arview.js`): drehbares CAD-Modell (Google model-viewer, lokal in `assets/vendor/`, lädt erst in der Nähe des Abschnitts), Maße B × T × H und Stellfläche (USA zusätzlich Fuß/Zoll), einblendbare Maßlinien am Modell, Zoom (Strg/⌘ + Rad, Knöpfe), Vollbild. Das Mausrad scrollt über dem Modell weiter die Seite.
+- **AR**: iPhone/iPad öffnen AR Quick Look direkt mit der USDZ-Datei (feste Originalgröße, Banner »Jetzt anfragen« führt zur Kontaktseite); Android startet WebXR im Browser bzw. Google Scene Viewer; am Rechner erscheint stattdessen ein QR-Code, der die Seite am Handy öffnet.
+- **Einstiege**: Knopf »In AR ansehen« im Produktkopf (am Handy startet er AR sofort), »AR« in der Produktnavigation jeder Unterseite, gelbes AR-Abzeichen auf den Produktkarten.
+- **Modelle neu erzeugen** (nach neuen CAD-Dateien): `.venv/bin/python tools/ar_models.py` (GLB mit Draco + USDZ, Materialien wie im Werkzeugraum-Planer, zweiseitige Flächen für Quick Look, Innenteile von Schränken entfernt, Prüfung mit `UsdValidation`), dann `.venv/bin/python tools/ar_posters.py` (Vorschaubilder). Die venv braucht `DracoPy pygltflib pyfqmr usd-core numpy Pillow playwright`.
+- **Seiten und Texte**: `content/ar.json` (deutscher Pfad → Modelle, Gerätenamen, Texte in allen Sprachen); Maße und Dateigrößen schreibt `tools/ar_models.py` nach `content/ar_models.json`.
+
 ## Header, Abstände & Globus
 
 - **Header-Leiste**: Logo, direkt daneben die Hauptnavigation, rechts Suche, Sprache und der gelbe 3D-Showroom-Button. Die Leiste passt sich stufenweise an: Meta-Links (Service, Medien, Karriere) ab 1500 px, MYZOLLER ab 1300 px, kompakte Navigation mit „3D“-Button ab 1024 px (iPad quer), darunter Burger-Menü mit allen Werkzeugen rechtsbündig.
