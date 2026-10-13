@@ -1,0 +1,260 @@
+{
+ "path": "/prodotti/tool-management/magazzino-utensili/hightower",
+ "url": "/it/prodotti/tool-management/magazzino-utensili/hightower",
+ "title": "»highTower«",
+ "description": "»highTower« - Magazzino verticale automatico per utensili - Magazzino verticale",
+ "og_image": "",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "»highTower«",
+   "text": "<p>Il magazzino verticale automatico per i vostri utensili – sfrutta l’altezza del locale invece della superficie</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Richiedi un’offerta</a> <a class=\"btn btn--ghost\" href=\"#calcolatore\">Calcola i cassetti</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/e/0/csm_Teaser_hightower_preview_177dbd110e.webp",
+    "w": 1080,
+    "h": 858,
+    "alt": "Magazzino verticale automatico"
+   },
+   "id": "hightower-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3>Magazzino verticale automatico</h3> <h2>È l’utensile a venire da voi</h2>",
+   "body": "<p class=\"extra-large-text\"><strong>Il »highTower« di ZOLLER è un magazzino verticale automatico per utensili, componenti di utensili e risorse operative. Premendo un tasto porta il cassetto giusto alla baia di prelievo – a un’altezza di lavoro ergonomica.</strong></p> <p>I cassetti sono stoccati in due colonne, sul lato anteriore e su quello posteriore dell’apparecchio. Un estrattore al centro preleva il cassetto richiesto, lo mette a disposizione e poi lo riporta in una posizione libera. Niente più ricerche né spostamenti – i vostri utensili restano puliti, sicuri e ordinati.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "id": "hightower-intro",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "goals",
+   "tiles": [
+    {
+     "value": "30 m",
+     "text": "<p>altezza massima dell’apparecchio</p>",
+     "foot": "<p>Da 2550 mm, adattata al vostro locale a passi di 100 mm</p>"
+    },
+    {
+     "value": "555 kg",
+     "text": "<p>portata per cassetto</p>",
+     "foot": "<p>Anche utensili completi pesanti e attrezzature vengono stoccati in sicurezza</p>"
+    },
+    {
+     "value": "25 mm",
+     "text": "<p>passo delle posizioni di stoccaggio</p>",
+     "foot": "<p>Un sensore misura l’altezza su ogni cassetto – ognuno riceve esattamente lo spazio di cui ha bisogno</p>"
+    }
+   ],
+   "id": "hightower-facts",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "traycalc",
+   "header": "<h2>Quanti cassetti entrano nel vostro »highTower«?</h2>",
+   "intro": "<p class=\"subheader\">Dipende da due fattori: l’altezza dell’apparecchio e l’altezza dei vostri utensili. Impostateli entrambi – il calcolatore mostra subito quanti cassetti e posti utensile otterrete all’incirca.</p>",
+   "t": {
+    "g_tools": "I vostri utensili",
+    "g_tower": "Il vostro »highTower«",
+    "holder": "Portautensile",
+    "h": "Altezza dell’utensile sul cassetto",
+    "h_hint": "Portautensile con utensile – l’utensile più lungo determina l’altezza della posizione del cassetto.",
+    "dia": "Diametro massimo dell’utensile",
+    "kg": "Peso per utensile",
+    "H": "Altezza dell’apparecchio",
+    "H_hint": "A passi di 100 mm da 2550 a 30.050 mm – pianificate in base all’altezza libera del locale.",
+    "w": "Larghezza del cassetto",
+    "d": "Profondità del cassetto",
+    "tray": "Dimensioni del cassetto",
+    "k_trays": "Cassetti",
+    "k_tools": "Posti utensile",
+    "k_area": "m² di superficie di stoccaggio",
+    "approx": "ca.",
+    "upto": "fino a",
+    "pitch": "Distanza tra i cassetti",
+    "per_tray": "Utensili per cassetto",
+    "lim_space": "limitato dalla superficie del cassetto",
+    "lim_weight": "limitato dalla portata di 555 kg",
+    "foot": "Ingombro a terra ca.",
+    "svg": "Sezione del »highTower«: cassetti nelle colonne posteriore e anteriore, baia di prelievo e una persona come riferimento dimensionale",
+    "lg_trays": "Cassetti con utensili",
+    "lg_open": "Cassetto nella baia di prelievo",
+    "lg_man": "Persona, 1,75 m",
+    "note": "Valore indicativo senza garanzia. Il dimensionamento vincolante – disposizione dei cassetti, inserti per utensili e dimensioni dell’apparecchio – lo elabora ZOLLER insieme a voi.",
+    "cta": "Richiedi un dimensionamento",
+    "mail_subject": "»highTower« – richiesta di dimensionamento",
+    "mail_intro": "Buongiorno team ZOLLER,\n\nvi chiedo di preparare un dimensionamento per un »highTower« con questi dati:",
+    "mail_result": "Valore indicativo del calcolatore",
+    "how_t": "Come calcola il calcolatore",
+    "how": [
+     "Il »highTower« stocca i cassetti in due colonne, davanti e dietro. Dall’altezza dell’apparecchio si sottraggono la base in basso (150 mm) e la testa con l’azionamento in alto (500 mm); nella colonna anteriore anche la baia di prelievo a 900 mm di altezza di lavoro, architrave compreso.",
+     "Distanza tra i cassetti = cassetto (55 mm) + altezza dell’utensile + 20 mm di gioco, arrotondata per eccesso al passo di 25 mm delle posizioni di stoccaggio.",
+     "Posti utensile per cassetto: passo degli inserti per utensili ZOLLER (72 mm; 95 mm per HSK-A100 e SK 50) oppure diametro dell’utensile + 10 mm, con 40 mm di bordo – al massimo tanti utensili quanti ne consente la portata di 555 kg.",
+     "Ingombro secondo le dimensioni dell’apparecchio: larghezza = larghezza del cassetto + 330 mm, profondità = 2 × profondità del cassetto + 1092 mm.",
+     "Base, testa e baia di prelievo sono ipotesi. Altezze miste degli utensili, inserti per utensili speciali e più baie di prelievo li pianifica ZOLLER con voi nel dettaglio."
+    ],
+    "sep": "",
+    "u_mm": "mm",
+    "u_kg": "kg"
+   },
+   "id": "calcolatore",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "header": "<h2>Sicuro. Ergonomico. Adattabile.</h2>",
+   "items": [
+    "Baia di prelievo a un’altezza di lavoro ergonomica",
+    "Una barriera fotoelettrica arresta l’apparecchio non appena qualcuno interviene",
+    "Baie di prelievo davanti, dietro o su più piani",
+    "Adattabile in qualsiasi momento a nuovi utensili e scorte"
+   ],
+   "id": "hightower-safe",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Parte del vostro tool management</h2>",
+   "body": "<p><strong>In ZOLLER TMS Tool Management Solutions il »highTower« è previsto come hardware opzionale per i moduli aggiuntivi »z.Stock« e »z.Resources«.</strong></p> <p>»z.Stock« mostra giacenze e ubicazioni nella gestione 3D delle ubicazioni di stoccaggio, rende visibili in ogni momento la disponibilità e i luoghi di impiego e genera automaticamente le proposte d’ordine. »z.Resources« organizza in modo centralizzato strumenti di controllo, calibri e attrezzature – in relazione al componente e al foglio di configurazione.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_TMS_komponenten_a4f7077982.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "Gestione 3D delle ubicazioni di stoccaggio in ZOLLER TMS"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-tms",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/a/csm_zStock_Feature_01_1c6bb75d1a.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "Add-on »z.Stock«",
+     "caption": "<figcaption> <h3>Add-on »z.Stock«</h3> <p>Giacenze esatte: gestione 3D delle ubicazioni, controllo della rotazione e ordini per il vostro magazzino utensili</p> </figcaption>",
+     "href": "/produkte/toolmanagement/software/add-on-zstock"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/6/csm_zResources_Feature_02_637de1b463.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "Add-on »z.Resources«",
+     "caption": "<figcaption> <h3>Add-on »z.Resources«</h3> <p>Capacità centralizzate: strumenti di controllo, calibri e attrezzature gestiti direttamente con il componente</p> </figcaption>",
+     "href": "/produkte/toolmanagement/software/add-on-zresources"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "id": "hightower-addons",
+   "bg": "black",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>In uso presso la stessa ZOLLER</h2>",
+   "body": "<p>Nella sede di ZOLLER Inc. ad Ann Arbor, nel Michigan, lavorano tre magazzini verticali alti circa 8 m ciascuno. Custodiscono utensili grandi e pesanti – i pezzi più piccoli si trovano negli armadi portautensili ZOLLER – e i ricambi che ogni giorno partono verso i clienti.</p> <p>Il magazzino porta il cassetto con il pezzo giusto direttamente all’operatore. Su scaffali, i soli ricambi richiederebbero il doppio della superficie.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/9/csm_csm_automation_fest_travel_header_03_df68e82b27_24c41ac058.webp",
+     "w": 1920,
+     "h": 700,
+     "alt": "Sede di ZOLLER Inc. ad Ann Arbor, Michigan"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-ref",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Gestione degli utensili: i vostri vantaggi",
+     "href": "/it/solutions/tool-management",
+     "caption": "<figcaption> <h3>Gestione degli utensili: i vostri vantaggi</h3> <p>Scoprite come la gestione degli utensili di ZOLLER aumenta immediatamente la vostra produttività. Con i dati utensile, i processi sono più veloci e sicuri, compresa la protezione anticollisione per le vostre macchine. </p> <br/> Scopri di più </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Colloquio con esperti",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Colloquio con esperti</h3> <p>Uno scambio individuale sui vostri obiettivi e sulle nostre idee per raggiungerli. La consulenza online di ZOLLER direttamente dalla Smart Factory. Fissate subito un appuntamento. </p> <br/> Scopri di più </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "hightower-teaser",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/it/prodotti/tool-management/magazzino-utensili/hightower",
+ "de_path": "/produkte/toolmanagement/werkzeuglager/hightower"
+}

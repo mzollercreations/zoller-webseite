@@ -1,0 +1,260 @@
+{
+ "path": "/produkter/verktygshantering/verktygslager/hightower",
+ "url": "/se/produkter/verktygshantering/verktygslager/hightower",
+ "title": "»highTower«",
+ "description": "»highTower« - Automatisk vertikal lagerhiss för verktyg - Vertikal lagerhiss",
+ "og_image": "",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "»highTower«",
+   "text": "<p>Den automatiska vertikala lagerhissen för dina verktyg – den utnyttjar takhöjden i stället för golvytan</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Begär offert</a> <a class=\"btn btn--ghost\" href=\"#kalkylator\">Beräkna hyllplan</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/e/0/csm_Teaser_hightower_preview_177dbd110e.webp",
+    "w": 1080,
+    "h": 858,
+    "alt": "Automatisk vertikal lagerhiss"
+   },
+   "id": "hightower-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3>Automatisk vertikal lagerhiss</h3> <h2>Verktyget kommer till dig</h2>",
+   "body": "<p class=\"extra-large-text\"><strong>ZOLLER »highTower« är en automatisk vertikal lagerhiss för verktyg, verktygskomponenter och driftsresurser. Med ett knapptryck tar den rätt hyllplan till uttagsöppningen – i ergonomisk arbetshöjd.</strong></p> <p>Hyllplanen lagras i två kolumner på maskinens fram- och baksida. En extraktor i mitten hämtar det begärda hyllplanet, ställer fram det och lämnar sedan tillbaka det på en ledig lagerplats. Inget letande, inga gångvägar – verktygen förblir rena, säkra och ordnade.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "id": "hightower-intro",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "goals",
+   "tiles": [
+    {
+     "value": "30 m",
+     "text": "<p>maximal maskinhöjd</p>",
+     "foot": "<p>Från 2 550 mm, anpassad till ditt rum i steg om 100 mm</p>"
+    },
+    {
+     "value": "555 kg",
+     "text": "<p>lastkapacitet per hyllplan</p>",
+     "foot": "<p>Även tunga kompletta verktyg och fixturer lagras säkert</p>"
+    },
+    {
+     "value": "25 mm",
+     "text": "<p>lagerplatsraster</p>",
+     "foot": "<p>En sensor mäter höjden på varje hyllplan – varje hyllplan får exakt det utrymme det behöver</p>"
+    }
+   ],
+   "id": "hightower-facts",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "traycalc",
+   "header": "<h2>Hur många hyllplan får plats i din »highTower«?</h2>",
+   "intro": "<p class=\"subheader\">Det beror på två saker: maskinens höjd och dina verktygs höjd. Ställ in båda – kalkylatorn visar direkt ungefär hur många hyllplan och verktygsplatser du får.</p>",
+   "t": {
+    "g_tools": "Dina verktyg",
+    "g_tower": "Din »highTower«",
+    "holder": "Verktygshållare",
+    "h": "Verktygshöjd på hyllplanet",
+    "h_hint": "Hållare med verktyg – det längsta verktyget avgör höjden på hyllplanets plats.",
+    "dia": "Största verktygsdiameter",
+    "kg": "Vikt per verktyg",
+    "H": "Maskinhöjd",
+    "H_hint": "I steg om 100 mm från 2 550 till 30 050 mm – planera efter den fria takhöjden.",
+    "w": "Hyllplanets bredd",
+    "d": "Hyllplanets djup",
+    "tray": "Hyllplanets storlek",
+    "k_trays": "Hyllplan",
+    "k_tools": "Verktygsplatser",
+    "k_area": "m² lageryta",
+    "approx": "ca",
+    "upto": "upp till",
+    "pitch": "Avstånd mellan hyllplan",
+    "per_tray": "Verktyg per hyllplan",
+    "lim_space": "begränsat av hyllplanets yta",
+    "lim_weight": "begränsat av lastkapaciteten 555 kg",
+    "foot": "Golvyta ca",
+    "svg": "Snitt genom »highTower«: hyllplan i den bakre och främre kolumnen, uttagsöppning och en person som storleksjämförelse",
+    "lg_trays": "Hyllplan med verktyg",
+    "lg_open": "Hyllplan i uttagsöppningen",
+    "lg_man": "Person, 1,75 m",
+    "note": "Riktvärde utan garanti. ZOLLER tar fram den bindande dimensioneringen – hyllplanens beläggning, verktygsinsatser och maskinmått – tillsammans med dig.",
+    "cta": "Begär dimensionering",
+    "mail_subject": "»highTower« – förfrågan om dimensionering",
+    "mail_intro": "Hej ZOLLER-teamet,\n\nkan ni ta fram en dimensionering för en »highTower« med dessa nyckeldata:",
+    "mail_result": "Riktvärde från kalkylatorn",
+    "how_t": "Så räknar kalkylatorn",
+    "how": [
+     "»highTower« lagrar hyllplanen i två kolumner, fram och bak. Från maskinhöjden dras sockeln nedtill (150 mm) och toppen med drivningen upptill (500 mm) av, i den främre kolumnen även uttagsöppningen i 900 mm arbetshöjd inklusive överstycke.",
+     "Avstånd mellan hyllplan = hyllplan (55 mm) + verktygshöjd + 20 mm spel, avrundat uppåt till lagerplatsrastret på 25 mm.",
+     "Verktygsplatser per hyllplan: rastret för ZOLLER verktygsinsatser (72 mm; 95 mm för HSK-A100 och SK 50) eller verktygsdiameter + 10 mm, med 40 mm kant – högst så många verktyg som lastkapaciteten 555 kg tillåter.",
+     "Golvyta enligt maskinmåtten: bredd = hyllplanets bredd + 330 mm, djup = 2 × hyllplanets djup + 1 092 mm.",
+     "Sockel, topp och uttagsöppning är antaganden. Blandade verktygshöjder, insatser för specialverktyg och flera uttagsöppningar planerar ZOLLER i detalj tillsammans med dig."
+    ],
+    "sep": " ",
+    "u_mm": "mm",
+    "u_kg": "kg"
+   },
+   "id": "kalkylator",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "header": "<h2>Säker. Ergonomisk. Anpassningsbar.</h2>",
+   "items": [
+    "Uttagsöppning i ergonomisk arbetshöjd",
+    "En ljusridå stoppar maskinen så fort någon griper in",
+    "Uttagsöppningar fram, bak eller över flera våningar",
+    "Kan när som helst anpassas till nya verktyg och lagerbestånd"
+   ],
+   "id": "hightower-safe",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>En del av din verktygshantering</h2>",
+   "body": "<p><strong>I ZOLLER TMS Tool Management Solutions är »highTower« avsedd som tillvalshårdvara för tilläggsprogrammen »z.Stock« och »z.Resources«.</strong></p> <p>»z.Stock« visar lagerbestånd och lagerplatser i 3D-lagerplatshanteringen, gör tillgänglighet och användningsplatser synliga när som helst och genererar beställningsförslag automatiskt. »z.Resources« organiserar mätutrustning, mätdon och fixturer centralt – kopplat till komponenten och inställningsbladet.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_TMS_komponenten_a4f7077982.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "3D-lagerplatshantering i ZOLLER TMS"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-tms",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/a/csm_zStock_Feature_01_1c6bb75d1a.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "Add-on »z.Stock«",
+     "caption": "<figcaption> <h3>Add-on »z.Stock«</h3> <p>Exakta lagerbestånd: 3D-lagerplatshantering, cirkulationskontroll och beställningar för ditt verktygslager</p> </figcaption>",
+     "href": "/produkte/toolmanagement/software/add-on-zstock"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/6/csm_zResources_Feature_02_637de1b463.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "Add-on »z.Resources«",
+     "caption": "<figcaption> <h3>Add-on »z.Resources«</h3> <p>Centrala kapaciteter: mätutrustning, mätdon och fixturer hanteras direkt vid komponenten</p> </figcaption>",
+     "href": "/produkte/toolmanagement/software/add-on-zresources"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "id": "hightower-addons",
+   "bg": "black",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>I drift hos ZOLLER själv</h2>",
+   "body": "<p>På huvudkontoret för ZOLLER Inc. i Ann Arbor, Michigan, arbetar tre vertikala lagerhissar på vardera cirka 8 m höjd. De lagrar stora och tunga verktyg – mindre delar ligger i ZOLLER verktygsskåp – och de reservdelar som varje dag skickas till kunder.</p> <p>Hissen tar hyllplanet med rätt del direkt till medarbetaren. På hyllor skulle enbart reservdelarna kräva dubbel golvyta.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/9/csm_csm_automation_fest_travel_header_03_df68e82b27_24c41ac058.webp",
+     "w": 1920,
+     "h": 700,
+     "alt": "Huvudkontoret för ZOLLER Inc. i Ann Arbor, Michigan"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-ref",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Verktygshantering: Fördelarna för er",
+     "href": "/se/loesningar/tool-management",
+     "caption": "<figcaption> <h3>Verktygshantering: Fördelarna för er</h3> <p>Upptäck hur ZOLLER:s verktygshantering omedelbart ökar din produktivitet. Med verktygsdata går processerna snabbare och säkrare – inklusive kollisionsskydd för dina maskiner. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1-samtal med en expert",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1-samtal med en expert</h3> <p>Ett personligt samtal om era mål och våra idéer för att uppnå dem. ZOLLER:s online-rådgivning direkt från Smart Factory. Boka en tid redan nu. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "hightower-teaser",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/se/produkter/verktygshantering/verktygslager/hightower",
+ "de_path": "/produkte/toolmanagement/werkzeuglager/hightower"
+}

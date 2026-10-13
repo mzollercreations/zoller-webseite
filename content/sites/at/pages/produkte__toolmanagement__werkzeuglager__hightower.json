@@ -1,0 +1,260 @@
+{
+ "path": "/produkte/toolmanagement/werkzeuglager/hightower",
+ "url": "/at/produkte/toolmanagement/werkzeuglager/hightower",
+ "title": "»highTower«",
+ "description": "»highTower« - Automatischer Lagerlift für Werkzeuge - Lagerlift",
+ "og_image": "",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "»highTower«",
+   "text": "<p>Der automatische Lagerlift für Ihre Werkzeuge – er nutzt die Raumhöhe statt der Hallenfläche</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Jetzt anfragen</a> <a class=\"btn btn--ghost\" href=\"#rechner\">Tablare berechnen</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/e/0/csm_Teaser_hightower_preview_177dbd110e.webp",
+    "w": 1080,
+    "h": 858,
+    "alt": "Automatischer Lagerlift"
+   },
+   "id": "hightower-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3>Automatischer Lagerlift</h3> <h2>Das Werkzeug kommt zu Ihnen</h2>",
+   "body": "<p class=\"extra-large-text\"><strong>Der ZOLLER »highTower« ist ein automatischer Lagerlift für Werkzeuge, Werkzeugkomponenten und Betriebsmittel. Auf Knopfdruck bringt er das richtige Tablar an die Bedienöffnung – in ergonomischer Arbeitshöhe.</strong></p> <p>Die Tablare lagern in zwei Säulen an der Vorder- und Rückseite des Geräts. Ein Extraktor in der Mitte holt das angeforderte Tablar, stellt es bereit und bringt es danach auf einen freien Lagerplatz zurück. Suchen und Laufwege entfallen – die Werkzeuge bleiben sauber, sicher und geordnet.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "id": "hightower-intro",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "goals",
+   "tiles": [
+    {
+     "value": "30 m",
+     "text": "<p>maximale Gerätehöhe</p>",
+     "foot": "<p>Ab 2.550 mm, in 100-mm-Schritten an Ihren Raum angepasst</p>"
+    },
+    {
+     "value": "555 kg",
+     "text": "<p>Nutzlast je Tablar</p>",
+     "foot": "<p>Auch schwere Komplettwerkzeuge und Vorrichtungen lagern sicher</p>"
+    },
+    {
+     "value": "25 mm",
+     "text": "<p>Lagerplatzraster</p>",
+     "foot": "<p>Ein Sensor misst die Höhe auf jedem Tablar – es bekommt genau den Platz, den es braucht</p>"
+    }
+   ],
+   "id": "hightower-facts",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "traycalc",
+   "header": "<h2>Wie viele Tablare passen in Ihren »highTower«?</h2>",
+   "intro": "<p class=\"subheader\">Das hängt von zwei Dingen ab: von der Höhe des Geräts und von der Höhe Ihrer Werkzeuge. Stellen Sie beides ein – der Rechner zeigt sofort, wie viele Tablare und Werkzeugplätze Sie ungefähr erhalten.</p>",
+   "t": {
+    "g_tools": "Ihre Werkzeuge",
+    "g_tower": "Ihr »highTower«",
+    "holder": "Werkzeugaufnahme",
+    "h": "Werkzeughöhe auf dem Tablar",
+    "h_hint": "Aufnahme mit Werkzeug – das längste Werkzeug bestimmt die Höhe des Tablarplatzes.",
+    "dia": "Größter Werkzeugdurchmesser",
+    "kg": "Gewicht je Werkzeug",
+    "H": "Gerätehöhe",
+    "H_hint": "In 100-mm-Schritten von 2.550 bis 30.050 mm – planen Sie nach der lichten Raumhöhe.",
+    "w": "Tablarbreite",
+    "d": "Tablartiefe",
+    "tray": "Tablargröße",
+    "k_trays": "Tablare",
+    "k_tools": "Werkzeugplätze",
+    "k_area": "m² Lagerfläche",
+    "approx": "ca.",
+    "upto": "bis zu",
+    "pitch": "Tablarabstand",
+    "per_tray": "Werkzeuge je Tablar",
+    "lim_space": "begrenzt durch die Tablarfläche",
+    "lim_weight": "begrenzt durch 555 kg Nutzlast",
+    "foot": "Stellfläche ca.",
+    "svg": "Schnitt durch den »highTower«: Tablare in der hinteren und vorderen Säule, Bedienöffnung und ein Mensch zum Größenvergleich",
+    "lg_trays": "Tablare mit Werkzeugen",
+    "lg_open": "Tablar in der Bedienöffnung",
+    "lg_man": "Mensch, 1,75 m",
+    "note": "Richtwert ohne Gewähr. Die verbindliche Auslegung – Tablarbelegung, Werkzeugeinsätze und Gerätemaße – erstellt ZOLLER gemeinsam mit Ihnen.",
+    "cta": "Auslegung anfragen",
+    "mail_subject": "»highTower« – Anfrage zur Auslegung",
+    "mail_intro": "Hallo ZOLLER-Team,\n\nbitte erstellen Sie mir eine Auslegung für einen »highTower« mit diesen Eckdaten:",
+    "mail_result": "Richtwert aus dem Rechner",
+    "how_t": "So rechnet der Rechner",
+    "how": [
+     "Der »highTower« lagert die Tablare in zwei Säulen, vorne und hinten. Von der Gerätehöhe gehen unten der Sockel (150 mm) und oben der Kopf mit dem Antrieb (500 mm) ab, in der vorderen Säule zusätzlich die Bedienöffnung in 900 mm Arbeitshöhe samt Sturz.",
+     "Tablarabstand = Tablar (55 mm) + Werkzeughöhe + 20 mm Luft, aufgerundet auf das 25-mm-Lagerplatzraster.",
+     "Werkzeugplätze je Tablar: Raster der ZOLLER Werkzeugeinsätze (72 mm, für HSK-A100 und SK 50 95 mm) oder Werkzeugdurchmesser + 10 mm, mit 40 mm Rand – höchstens so viele Werkzeuge, wie die 555 kg Nutzlast erlauben.",
+     "Stellfläche nach den Gerätemaßen: Breite = Tablarbreite + 330 mm, Tiefe = 2 × Tablartiefe + 1.092 mm.",
+     "Sockel, Kopf und Bedienöffnung sind Annahmen. Gemischte Werkzeughöhen, Einsätze für Sonderwerkzeuge und mehrere Bedienöffnungen plant ZOLLER mit Ihnen im Detail."
+    ],
+    "sep": ".",
+    "u_mm": "mm",
+    "u_kg": "kg"
+   },
+   "id": "rechner",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "header": "<h2>Sicher. Ergonomisch. Anpassbar.</h2>",
+   "items": [
+    "Bedienöffnung in ergonomischer Arbeitshöhe",
+    "Lichtvorhang stoppt das Gerät, sobald jemand eingreift",
+    "Bedienöffnungen vorne, hinten oder über mehrere Etagen",
+    "Jederzeit an neue Werkzeuge und Bestände anpassbar"
+   ],
+   "id": "hightower-safe",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Teil Ihres Toolmanagements</h2>",
+   "body": "<p><strong>In ZOLLER TMS Tool Management Solutions ist der »highTower« als optionale Hardware für die Add-ons »z.Stock« und »z.Resources« vorgesehen.</strong></p> <p>»z.Stock« zeigt Bestände und Lagerorte in der 3D-Lagerortverwaltung, macht Verfügbarkeit und Einsatzorte jederzeit sichtbar und erzeugt Bestellvorschläge automatisch. »z.Resources« organisiert Prüfmittel, Lehren und Vorrichtungen zentral – passend zum Bauteil und zum Einrichteblatt.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_TMS_komponenten_a4f7077982.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "3D-Lagerortverwaltung in ZOLLER TMS"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-tms",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/a/csm_zStock_Feature_01_1c6bb75d1a.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "Add-on »z.Stock«",
+     "caption": "<figcaption> <h3>Add-on »z.Stock«</h3> <p>Exakte Bestände: 3D-Lagerortverwaltung, Umlaufkontrolle und Bestellwesen für Ihr Werkzeuglager</p> </figcaption>",
+     "href": "/produkte/toolmanagement/software/add-on-zstock"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/6/csm_zResources_Feature_02_637de1b463.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "Add-on »z.Resources«",
+     "caption": "<figcaption> <h3>Add-on »z.Resources«</h3> <p>Zentrale Kapazitäten: Prüfmittel, Lehren und Vorrichtungen direkt am Bauteil verwaltet</p> </figcaption>",
+     "href": "/produkte/toolmanagement/software/add-on-zresources"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "id": "hightower-addons",
+   "bg": "black",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Bei ZOLLER selbst im Einsatz</h2>",
+   "body": "<p>Im Hauptsitz von ZOLLER Inc. in Ann Arbor, Michigan, arbeiten drei Lagerlifte mit je rund 8 m Höhe. Sie lagern große und schwere Werkzeuge – kleinere Teile liegen in ZOLLER Werkzeugschränken – und die Ersatzteile, die täglich an Kunden gehen.</p> <p>Der Lift bringt das Tablar mit dem richtigen Teil direkt zum Mitarbeiter. Im Regal bräuchten allein die Ersatzteile die doppelte Stellfläche.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/9/csm_csm_automation_fest_travel_header_03_df68e82b27_24c41ac058.webp",
+     "w": 1920,
+     "h": 700,
+     "alt": "Hauptsitz von ZOLLER Inc. in Ann Arbor, Michigan"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-ref",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Toolmanagement: Ihre Vorteile",
+     "href": "/at/solutions/toolmanagement",
+     "caption": "<figcaption> <h3>Toolmanagement: Ihre Vorteile</h3> <p>Erfahren Sie, wie Toolmanagement von ZOLLER Ihre Produktivität sofort steigert. Mit Werkzeugdaten laufen Prozesse schneller und sicherer – inklusive Crash-Schutz für Ihre Maschinen. </p> <br/> Mehr erfahren </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expertengespräch",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expertengespräch</h3> <p>Der individuelle Austausch über Ihre Ziele und unsere Ideen dafür. Die Online-Beratung von ZOLLER direkt aus der Smart Factory. Vereinbaren Sie jetzt Ihren Termin. </p> <br/> Mehr erfahren </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "hightower-teaser",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/at/produkte/toolmanagement/werkzeuglager/hightower",
+ "de_path": "/produkte/toolmanagement/werkzeuglager/hightower"
+}

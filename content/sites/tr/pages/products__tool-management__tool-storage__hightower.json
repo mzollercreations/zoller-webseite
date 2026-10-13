@@ -1,0 +1,260 @@
+{
+ "path": "/products/tool-management/tool-storage/hightower",
+ "url": "/tr/products/tool-management/tool-storage/hightower",
+ "title": "»highTower«",
+ "description": "»highTower« - Takımlar için otomatik dikey asansörlü depo - Dikey asansörlü depo",
+ "og_image": "",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "»highTower«",
+   "text": "<p>Takımlarınız için otomatik dikey asansörlü depo – hol alanı yerine tavan yüksekliğini kullanır</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Teklif isteyin</a> <a class=\"btn btn--ghost\" href=\"#hesaplayici\">Tepsileri hesapla</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/e/0/csm_Teaser_hightower_preview_177dbd110e.webp",
+    "w": 1080,
+    "h": 858,
+    "alt": "Otomatik dikey asansörlü depo"
+   },
+   "id": "hightower-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3>Otomatik dikey asansörlü depo</h3> <h2>Takım size gelir</h2>",
+   "body": "<p class=\"extra-large-text\"><strong>ZOLLER »highTower«; takımlar, takım bileşenleri ve işletme malzemeleri için otomatik bir dikey asansörlü depodur. Bir düğmeye basıldığında doğru tepsiyi ergonomik çalışma yüksekliğindeki erişim açıklığına getirir.</strong></p> <p>Tepsiler, cihazın ön ve arka tarafındaki iki sütunda depolanır. Ortadaki ekstraktör istenen tepsiyi alır, hazır eder ve ardından boş bir depolama yerine geri götürür. Arama ve yürüme yolları ortadan kalkar; takımlar temiz, güvenli ve düzenli kalır.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "id": "hightower-intro",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "goals",
+   "tiles": [
+    {
+     "value": "30 m",
+     "text": "<p>azami cihaz yüksekliği</p>",
+     "foot": "<p>2.550 mm'den itibaren, 100 mm'lik adımlarla mekânınıza uyarlanır</p>"
+    },
+    {
+     "value": "555 kg",
+     "text": "<p>tepsi başına taşıma kapasitesi</p>",
+     "foot": "<p>Ağır komple takımlar ve aparatlar da güvenle depolanır</p>"
+    },
+    {
+     "value": "25 mm",
+     "text": "<p>depolama yeri aralığı</p>",
+     "foot": "<p>Bir sensör her tepsideki yüksekliği ölçer; her tepsi tam ihtiyaç duyduğu kadar yer alır</p>"
+    }
+   ],
+   "id": "hightower-facts",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "traycalc",
+   "header": "<h2>»highTower« cihazınıza kaç tepsi sığar?</h2>",
+   "intro": "<p class=\"subheader\">Bu iki şeye bağlıdır: cihazın yüksekliğine ve takımlarınızın yüksekliğine. İkisini de ayarlayın; hesaplayıcı yaklaşık kaç tepsi ve takım yeri elde edeceğinizi hemen gösterir.</p>",
+   "t": {
+    "g_tools": "Takımlarınız",
+    "g_tower": "»highTower« cihazınız",
+    "holder": "Takım tutucu",
+    "h": "Tepsideki takım yüksekliği",
+    "h_hint": "Tutucu ile birlikte takım; en uzun takım, tepsi yerinin yüksekliğini belirler.",
+    "dia": "En büyük takım çapı",
+    "kg": "Takım başına ağırlık",
+    "H": "Cihaz yüksekliği",
+    "H_hint": "2.550 ile 30.050 mm arasında 100 mm'lik adımlarla; mekânın serbest tavan yüksekliğine göre planlayın.",
+    "w": "Tepsi genişliği",
+    "d": "Tepsi derinliği",
+    "tray": "Tepsi boyutu",
+    "k_trays": "Tepsiler",
+    "k_tools": "Takım yerleri",
+    "k_area": "m² depolama alanı",
+    "approx": "yakl.",
+    "upto": "en fazla",
+    "pitch": "Tepsi aralığı",
+    "per_tray": "Tepsi başına takım",
+    "lim_space": "tepsi alanıyla sınırlı",
+    "lim_weight": "555 kg taşıma kapasitesiyle sınırlı",
+    "foot": "Kapladığı alan yakl.",
+    "svg": "»highTower« kesiti: arka ve ön sütundaki tepsiler, erişim açıklığı ve boyut karşılaştırması için bir insan",
+    "lg_trays": "Takımlı tepsiler",
+    "lg_open": "Erişim açıklığındaki tepsi",
+    "lg_man": "İnsan, 1,75 m",
+    "note": "Garanti verilmeyen yaklaşık değerdir. Bağlayıcı tasarımı – tepsi yerleşimi, takım yuvaları ve cihaz ölçüleri – ZOLLER sizinle birlikte hazırlar.",
+    "cta": "Tasarım talep edin",
+    "mail_subject": "»highTower« – tasarım talebi",
+    "mail_intro": "Merhaba ZOLLER ekibi,\n\nlütfen aşağıdaki verilerle bir »highTower« tasarımı hazırlayın:",
+    "mail_result": "Hesaplayıcının yaklaşık değeri",
+    "how_t": "Hesaplayıcı nasıl hesaplar?",
+    "how": [
+     "»highTower«, tepsileri önde ve arkada olmak üzere iki sütunda depolar. Cihaz yüksekliğinden alttaki kaide (150 mm) ve üstteki tahrikli başlık (500 mm), ön sütunda ise ayrıca 900 mm çalışma yüksekliğindeki erişim açıklığı ile üstündeki lento düşülür.",
+     "Tepsi aralığı = tepsi (55 mm) + takım yüksekliği + 20 mm boşluk; 25 mm'lik depolama yeri aralığına yukarı yuvarlanır.",
+     "Tepsi başına takım yeri: ZOLLER takım yuvalarının aralığı (72 mm; HSK-A100 ve SK 50 için 95 mm) veya takım çapı + 10 mm, 40 mm kenar payıyla; en fazla 555 kg taşıma kapasitesinin izin verdiği kadar takım.",
+     "Kapladığı alan cihaz ölçülerine göre: genişlik = tepsi genişliği + 330 mm, derinlik = 2 × tepsi derinliği + 1.092 mm.",
+     "Kaide, başlık ve erişim açıklığı varsayımdır. Karışık takım yüksekliklerini, özel takımlar için yuvaları ve birden fazla erişim açıklığını ZOLLER sizinle ayrıntılı olarak planlar."
+    ],
+    "sep": ".",
+    "u_mm": "mm",
+    "u_kg": "kg"
+   },
+   "id": "hesaplayici",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "header": "<h2>Güvenli. Ergonomik. Uyarlanabilir.</h2>",
+   "items": [
+    "Ergonomik çalışma yüksekliğinde erişim açıklığı",
+    "Biri elini içeri uzattığı anda ışık perdesi cihazı durdurur",
+    "Önde, arkada veya birden fazla katta erişim açıklıkları",
+    "Yeni takımlara ve stoklara her an uyarlanabilir"
+   ],
+   "id": "hightower-safe",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Takım yönetiminizin bir parçası</h2>",
+   "body": "<p><strong>ZOLLER TMS Tool Management Solutions'ta »highTower«, »z.Stock« ve »z.Resources« eklentileri için isteğe bağlı donanım olarak öngörülmüştür.</strong></p> <p>»z.Stock« stokları ve depolama yerlerini 3D depolama yeri yönetiminde gösterir, kullanılabilirliği ve kullanım yerlerini her an görünür kılar ve sipariş önerilerini otomatik oluşturur. »z.Resources« ise ölçüm aletlerini, mastarları ve aparatları merkezi olarak düzenler; parçaya ve ayar föyüne bağlı olarak.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_TMS_komponenten_a4f7077982.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "ZOLLER TMS'te 3D depolama yeri yönetimi"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-tms",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/a/csm_zStock_Feature_01_1c6bb75d1a.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "Eklenti »z.Stock«",
+     "caption": "<figcaption> <h3>Eklenti »z.Stock«</h3> <p>Kesin stoklar: takım deponuz için 3D depolama yeri yönetimi, dolaşım kontrolü ve sipariş</p> </figcaption>",
+     "href": "/produkte/toolmanagement/software/add-on-zstock"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/6/csm_zResources_Feature_02_637de1b463.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "Eklenti »z.Resources«",
+     "caption": "<figcaption> <h3>Eklenti »z.Resources«</h3> <p>Merkezi kapasiteler: ölçüm aletleri, mastarlar ve aparatlar doğrudan parça üzerinden yönetilir</p> </figcaption>",
+     "href": "/produkte/toolmanagement/software/add-on-zresources"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "id": "hightower-addons",
+   "bg": "black",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>ZOLLER'in kendisinde de kullanımda</h2>",
+   "body": "<p>ZOLLER Inc.'in Ann Arbor, Michigan'daki genel merkezinde her biri yaklaşık 8 m yüksekliğinde üç dikey asansörlü depo çalışıyor. Bu depolarda büyük ve ağır takımlar – küçük parçalar ZOLLER takım dolaplarında durur – ve her gün müşterilere gönderilen yedek parçalar saklanıyor.</p> <p>Asansör, doğru parçanın bulunduğu tepsiyi doğrudan çalışana getirir. Raflarda yalnızca yedek parçalar bile iki kat taban alanı gerektirirdi.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/9/csm_csm_automation_fest_travel_header_03_df68e82b27_24c41ac058.webp",
+     "w": 1920,
+     "h": 700,
+     "alt": "ZOLLER Inc.'in Ann Arbor, Michigan'daki genel merkezi"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-ref",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Tool Management: Your Advantages",
+     "href": "/tr/solutions/tool-management",
+     "caption": "<figcaption> <h3>Tool Management: Your Advantages</h3> <p>Find out how tool management from ZOLLER immediately increases your productivity. Processes run faster and more reliably with tool data—including crash protection for your machines. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/int/en/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "hightower-teaser",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/tr/products/tool-management/tool-storage/hightower",
+ "de_path": "/produkte/toolmanagement/werkzeuglager/hightower"
+}

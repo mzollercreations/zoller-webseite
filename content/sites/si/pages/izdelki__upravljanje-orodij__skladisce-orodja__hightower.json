@@ -1,0 +1,222 @@
+{
+ "path": "/izdelki/upravljanje-orodij/skladisce-orodja/hightower",
+ "url": "/si/izdelki/upravljanje-orodij/skladisce-orodja/hightower",
+ "title": "»highTower«",
+ "description": "»highTower« - Avtomatsko vertikalno skladišče za orodja - Vertikalno skladišče",
+ "og_image": "",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "»highTower«",
+   "text": "<p>Avtomatsko vertikalno skladišče za vaša orodja – izkorišča višino prostora namesto talne površine</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Pošljite povpraševanje</a> <a class=\"btn btn--ghost\" href=\"#kalkulator\">Izračun pladnjev</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/e/0/csm_Teaser_hightower_preview_177dbd110e.webp",
+    "w": 1080,
+    "h": 858,
+    "alt": "Avtomatsko vertikalno skladišče"
+   },
+   "id": "hightower-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3>Avtomatsko vertikalno skladišče</h3> <h2>Orodje pride k vam</h2>",
+   "body": "<p class=\"extra-large-text\"><strong>ZOLLER »highTower« je avtomatsko vertikalno skladišče za orodja, sestavne dele orodij in obratna sredstva. S pritiskom na gumb pripelje pravi pladenj do dostopne odprtine – na ergonomski delovni višini.</strong></p> <p>Pladnji so shranjeni v dveh stolpcih, na sprednji in zadnji strani naprave. Ekstraktor na sredini prevzame zahtevani pladenj, ga pripravi in ga nato vrne na prosto skladiščno mesto. Ni več iskanja in hoje – orodja ostanejo čista, varna in urejena.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "id": "hightower-intro",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "goals",
+   "tiles": [
+    {
+     "value": "30 m",
+     "text": "<p>največja višina naprave</p>",
+     "foot": "<p>Od 2.550 mm, prilagojena vašemu prostoru v korakih po 100 mm</p>"
+    },
+    {
+     "value": "555 kg",
+     "text": "<p>nosilnost na pladenj</p>",
+     "foot": "<p>Varno se shranijo tudi težka kompletna orodja in vpenjalne priprave</p>"
+    },
+    {
+     "value": "25 mm",
+     "text": "<p>raster skladiščnih mest</p>",
+     "foot": "<p>Senzor izmeri višino na vsakem pladnju – vsak dobi točno toliko prostora, kot ga potrebuje</p>"
+    }
+   ],
+   "id": "hightower-facts",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "traycalc",
+   "header": "<h2>Koliko pladnjev gre v vaš »highTower«?</h2>",
+   "intro": "<p class=\"subheader\">To je odvisno od dveh stvari: od višine naprave in od višine vaših orodij. Nastavite oboje – kalkulator takoj pokaže, koliko pladnjev in mest za orodja približno dobite.</p>",
+   "t": {
+    "g_tools": "Vaša orodja",
+    "g_tower": "Vaš »highTower«",
+    "holder": "Nosilec orodja",
+    "h": "Višina orodja na pladnju",
+    "h_hint": "Nosilec z orodjem – najdaljše orodje določa višino mesta pladnja.",
+    "dia": "Največji premer orodja",
+    "kg": "Teža orodja",
+    "H": "Višina naprave",
+    "H_hint": "V korakih po 100 mm od 2.550 do 30.050 mm – načrtujte glede na svetlo višino prostora.",
+    "w": "Širina pladnja",
+    "d": "Globina pladnja",
+    "tray": "Velikost pladnja",
+    "k_trays": "Pladnji",
+    "k_tools": "Mesta za orodja",
+    "k_area": "m² skladiščne površine",
+    "approx": "pribl.",
+    "upto": "do",
+    "pitch": "Razmik med pladnji",
+    "per_tray": "Orodja na pladenj",
+    "lim_space": "omejeno s površino pladnja",
+    "lim_weight": "omejeno z nosilnostjo 555 kg",
+    "foot": "Talna površina pribl.",
+    "svg": "Prerez naprave »highTower«: pladnji v zadnjem in sprednjem stolpcu, dostopna odprtina in človek za primerjavo velikosti",
+    "lg_trays": "Pladnji z orodji",
+    "lg_open": "Pladenj v dostopni odprtini",
+    "lg_man": "Človek, 1,75 m",
+    "note": "Okvirna vrednost brez jamstva. Zavezujočo zasnovo – razporeditev na pladnjih, vložke za orodja in mere naprave – ZOLLER pripravi skupaj z vami.",
+    "cta": "Zahtevajte zasnovo",
+    "mail_subject": "»highTower« – povpraševanje za zasnovo",
+    "mail_intro": "Pozdravljena, ekipa ZOLLER,\n\nprosim, pripravite zasnovo za »highTower« s temi podatki:",
+    "mail_result": "Okvirna vrednost iz kalkulatorja",
+    "how_t": "Kako računa kalkulator",
+    "how": [
+     "»highTower« shranjuje pladnje v dveh stolpcih, spredaj in zadaj. Od višine naprave se odštejeta podstavek spodaj (150 mm) in glava s pogonom zgoraj (500 mm), v sprednjem stolpcu pa še dostopna odprtina na delovni višini 900 mm skupaj s prekladom.",
+     "Razmik med pladnji = pladenj (55 mm) + višina orodja + 20 mm zračnosti, zaokroženo navzgor na raster skladiščnih mest 25 mm.",
+     "Mesta za orodja na pladnju: raster vložkov za orodja ZOLLER (72 mm; 95 mm za HSK-A100 in SK 50) ali premer orodja + 10 mm, z 40 mm roba – največ toliko orodij, kot dovoljuje nosilnost 555 kg.",
+     "Talna površina po merah naprave: širina = širina pladnja + 330 mm, globina = 2 × globina pladnja + 1.092 mm.",
+     "Podstavek, glava in dostopna odprtina so predpostavke. Mešane višine orodij, vložke za posebna orodja in več dostopnih odprtin ZOLLER podrobno načrtuje skupaj z vami."
+    ],
+    "sep": ".",
+    "u_mm": "mm",
+    "u_kg": "kg"
+   },
+   "id": "kalkulator",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "header": "<h2>Varno. Ergonomsko. Prilagodljivo.</h2>",
+   "items": [
+    "Dostopna odprtina na ergonomski delovni višini",
+    "Svetlobna zavesa ustavi napravo, takoj ko kdo seže noter",
+    "Dostopne odprtine spredaj, zadaj ali v več nadstropjih",
+    "Kadar koli prilagodljivo novim orodjem in zalogam"
+   ],
+   "id": "hightower-safe",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Del vašega upravljanja orodij</h2>",
+   "body": "<p><strong>V rešitvi ZOLLER TMS Tool Management Solutions je »highTower« predviden kot izbirna strojna oprema za dodatka »z.Stock« in »z.Resources«.</strong></p> <p>»z.Stock« prikazuje zaloge in skladiščna mesta v 3D-upravljanju skladiščnih mest, ves čas prikazuje razpoložljivost in mesta uporabe ter samodejno ustvarja predloge naročil. »z.Resources« centralno organizira merilna sredstva, kalibre in vpenjalne priprave – povezano z obdelovancem in nastavitvenim listom.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_TMS_komponenten_a4f7077982.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "3D-upravljanje skladiščnih mest v ZOLLER TMS"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-tms",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/a/csm_zStock_Feature_01_1c6bb75d1a.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "Dodatek »z.Stock«",
+     "caption": "<figcaption> <h3>Dodatek »z.Stock«</h3> <p>Natančne zaloge: 3D-upravljanje skladiščnih mest, nadzor kroženja in naročanje za vaše skladišče orodja</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/6/csm_zResources_Feature_02_637de1b463.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "Dodatek »z.Resources«",
+     "caption": "<figcaption> <h3>Dodatek »z.Resources«</h3> <p>Osrednje zmogljivosti: merilna sredstva, kalibri in vpenjalne priprave, upravljani neposredno pri obdelovancu</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "id": "hightower-addons",
+   "bg": "black",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>V uporabi pri samem podjetju ZOLLER</h2>",
+   "body": "<p>Na sedežu podjetja ZOLLER Inc. v Ann Arborju v Michiganu delujejo tri vertikalna skladišča, vsako visoko približno 8 m. V njih so shranjena velika in težka orodja – manjši deli so v ZOLLER omarah za orodja – ter rezervni deli, ki vsak dan odhajajo k strankam.</p> <p>Skladišče pripelje pladenj s pravim delom neposredno do zaposlenega. Na policah bi samo rezervni deli potrebovali dvakrat več talne površine.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/9/csm_csm_automation_fest_travel_header_03_df68e82b27_24c41ac058.webp",
+     "w": 1920,
+     "h": 700,
+     "alt": "Sedež podjetja ZOLLER Inc. v Ann Arborju, Michigan"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-ref",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/si/izdelki/upravljanje-orodij/skladisce-orodja/hightower",
+ "de_path": "/produkte/toolmanagement/werkzeuglager/hightower"
+}

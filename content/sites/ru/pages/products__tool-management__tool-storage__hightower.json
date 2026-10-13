@@ -1,0 +1,260 @@
+{
+ "path": "/products/tool-management/tool-storage/hightower",
+ "url": "/ru/products/tool-management/tool-storage/hightower",
+ "title": "»highTower«",
+ "description": "»highTower« - Автоматический лифтовый склад для инструмента - Лифтовый склад",
+ "og_image": "",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "»highTower«",
+   "text": "<p>Автоматический лифтовый склад для вашего инструмента – использует высоту помещения вместо площади цеха</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Отправить запрос</a> <a class=\"btn btn--ghost\" href=\"#kalkulyator\">Рассчитать лотки</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/e/0/csm_Teaser_hightower_preview_177dbd110e.webp",
+    "w": 1080,
+    "h": 858,
+    "alt": "Автоматический лифтовый склад"
+   },
+   "id": "hightower-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3>Автоматический лифтовый склад</h3> <h2>Инструмент приезжает к вам</h2>",
+   "body": "<p class=\"extra-large-text\"><strong>ZOLLER »highTower« – это автоматический лифтовый склад для инструмента, компонентов инструмента и производственных ресурсов. Нажатием кнопки он подаёт нужный лоток к окну доступа – на эргономичной рабочей высоте.</strong></p> <p>Лотки хранятся в двух колоннах – у передней и у задней стенки устройства. Экстрактор в центре забирает нужный лоток, подаёт его, а затем возвращает на свободное место хранения. Никаких поисков и лишних хождений – инструмент остаётся чистым, защищённым и упорядоченным.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "id": "hightower-intro",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "goals",
+   "tiles": [
+    {
+     "value": "30 м",
+     "text": "<p>максимальная высота устройства</p>",
+     "foot": "<p>От 2550 мм, подбирается под ваше помещение с шагом 100 мм</p>"
+    },
+    {
+     "value": "555 кг",
+     "text": "<p>грузоподъёмность лотка</p>",
+     "foot": "<p>Даже тяжёлый собранный инструмент и приспособления хранятся надёжно</p>"
+    },
+    {
+     "value": "25 мм",
+     "text": "<p>шаг мест хранения</p>",
+     "foot": "<p>Датчик измеряет высоту на каждом лотке – каждый получает ровно столько места, сколько нужно</p>"
+    }
+   ],
+   "id": "hightower-facts",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "traycalc",
+   "header": "<h2>Сколько лотков поместится в ваш »highTower«?</h2>",
+   "intro": "<p class=\"subheader\">Это зависит от двух величин: высоты устройства и высоты вашего инструмента. Задайте обе – калькулятор сразу покажет, сколько примерно лотков и мест для инструмента вы получите.</p>",
+   "t": {
+    "g_tools": "Ваш инструмент",
+    "g_tower": "Ваш »highTower«",
+    "holder": "Инструментальная оправка",
+    "h": "Высота инструмента на лотке",
+    "h_hint": "Оправка с инструментом – самый длинный инструмент определяет высоту места лотка.",
+    "dia": "Наибольший диаметр инструмента",
+    "kg": "Масса одного инструмента",
+    "H": "Высота устройства",
+    "H_hint": "С шагом 100 мм от 2550 до 30 050 мм – планируйте по высоте помещения в свету.",
+    "w": "Ширина лотка",
+    "d": "Глубина лотка",
+    "tray": "Размер лотка",
+    "k_trays": "Лотки",
+    "k_tools": "Места для инструмента",
+    "k_area": "м² площади хранения",
+    "approx": "ок.",
+    "upto": "до",
+    "pitch": "Шаг лотков",
+    "per_tray": "Инструментов на лоток",
+    "lim_space": "ограничено площадью лотка",
+    "lim_weight": "ограничено грузоподъёмностью 555 кг",
+    "foot": "Занимаемая площадь ок.",
+    "svg": "Разрез »highTower«: лотки в задней и передней колоннах, окно доступа и человек для сравнения размеров",
+    "lg_trays": "Лотки с инструментом",
+    "lg_open": "Лоток в окне доступа",
+    "lg_man": "Человек, 1,75 м",
+    "note": "Ориентировочное значение без гарантии. Окончательную конфигурацию – раскладку лотков, вставки для инструмента и размеры устройства – ZOLLER разрабатывает вместе с вами.",
+    "cta": "Запросить конфигурацию",
+    "mail_subject": "»highTower« – запрос конфигурации",
+    "mail_intro": "Здравствуйте, команда ZOLLER!\n\nПрошу подготовить конфигурацию »highTower« по следующим данным:",
+    "mail_result": "Ориентировочное значение из калькулятора",
+    "how_t": "Как считает калькулятор",
+    "how": [
+     "»highTower« хранит лотки в двух колоннах – спереди и сзади. Из высоты устройства вычитаются цоколь внизу (150 мм) и верхняя часть с приводом (500 мм), а в передней колонне – ещё и окно доступа на рабочей высоте 900 мм вместе с перемычкой.",
+     "Шаг лотков = лоток (55 мм) + высота инструмента + 20 мм зазора, с округлением вверх до шага мест хранения 25 мм.",
+     "Места для инструмента на лотке: шаг вставок для инструмента ZOLLER (72 мм; 95 мм для HSK-A100 и SK 50) или диаметр инструмента + 10 мм, с краем 40 мм – не больше инструментов, чем позволяет грузоподъёмность 555 кг.",
+     "Занимаемая площадь по габаритам устройства: ширина = ширина лотка + 330 мм, глубина = 2 × глубина лотка + 1092 мм.",
+     "Цоколь, верхняя часть и окно доступа – допущения. Смешанные высоты инструмента, вставки для специального инструмента и несколько окон доступа ZOLLER детально планирует вместе с вами."
+    ],
+    "sep": "",
+    "u_mm": "мм",
+    "u_kg": "кг"
+   },
+   "id": "kalkulyator",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "header": "<h2>Безопасно. Эргономично. Гибко.</h2>",
+   "items": [
+    "Окно доступа на эргономичной рабочей высоте",
+    "Световая завеса останавливает устройство, как только кто-то протягивает руку",
+    "Окна доступа спереди, сзади или на нескольких этажах",
+    "В любой момент адаптируется к новому инструменту и запасам"
+   ],
+   "id": "hightower-safe",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Часть вашего управления инструментом</h2>",
+   "body": "<p><strong>В ZOLLER TMS Tool Management Solutions »highTower« предусмотрен как дополнительное оборудование для дополнений »z.Stock« и »z.Resources«.</strong></p> <p>»z.Stock« показывает запасы и места хранения в 3D-управлении местами хранения, в любой момент делает видимыми наличие и места использования и автоматически формирует предложения по заказу. »z.Resources« централизованно организует контрольно-измерительные средства, калибры и приспособления – с привязкой к детали и наладочному листу.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_TMS_komponenten_a4f7077982.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "3D-управление местами хранения в ZOLLER TMS"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-tms",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/a/csm_zStock_Feature_01_1c6bb75d1a.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "Дополнение »z.Stock«",
+     "caption": "<figcaption> <h3>Дополнение »z.Stock«</h3> <p>Точные запасы: 3D-управление местами хранения, контроль оборота и заказы для вашего склада инструмента</p> </figcaption>",
+     "href": "/produkte/toolmanagement/software/add-on-zstock"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/6/csm_zResources_Feature_02_637de1b463.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "Дополнение »z.Resources«",
+     "caption": "<figcaption> <h3>Дополнение »z.Resources«</h3> <p>Централизованные ресурсы: контрольно-измерительные средства, калибры и приспособления управляются прямо у детали</p> </figcaption>",
+     "href": "/produkte/toolmanagement/software/add-on-zresources"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "id": "hightower-addons",
+   "bg": "black",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Используется в самой компании ZOLLER</h2>",
+   "body": "<p>В штаб-квартире ZOLLER Inc. в Анн-Арборе (штат Мичиган) работают три лифтовых склада высотой около 8 м каждый. В них хранятся крупный и тяжёлый инструмент – мелкие детали лежат в инструментальных шкафах ZOLLER – и запасные части, которые ежедневно отправляются клиентам.</p> <p>Лифт подаёт лоток с нужной деталью прямо сотруднику. На стеллажах одни только запасные части заняли бы вдвое большую площадь.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/9/csm_csm_automation_fest_travel_header_03_df68e82b27_24c41ac058.webp",
+     "w": 1920,
+     "h": 700,
+     "alt": "Штаб-квартира ZOLLER Inc. в Анн-Арборе, Мичиган"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-ref",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Tool Management: Your Advantages",
+     "href": "/ru/solutions/tool-management",
+     "caption": "<figcaption> <h3>Tool Management: Your Advantages</h3> <p>Find out how tool management from ZOLLER immediately increases your productivity. Processes run faster and more reliably with tool data—including crash protection for your machines. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/int/en/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "hightower-teaser",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ru/products/tool-management/tool-storage/hightower",
+ "de_path": "/produkte/toolmanagement/werkzeuglager/hightower"
+}

@@ -1,0 +1,260 @@
+{
+ "path": "/products/tool-management/tool-storage/hightower",
+ "url": "/ca/products/tool-management/tool-storage/hightower",
+ "title": "»highTower«",
+ "description": "»highTower« - Automatic vertical lift module for tools - Vertical lift module",
+ "og_image": "",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "»highTower«",
+   "text": "<p>The automatic vertical lift module for your tools – it uses the room height instead of the floor space</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Request a quote</a> <a class=\"btn btn--ghost\" href=\"#calculator\">Calculate trays</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/e/0/csm_Teaser_hightower_preview_177dbd110e.webp",
+    "w": 1080,
+    "h": 858,
+    "alt": "Automatic vertical lift module"
+   },
+   "id": "hightower-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3>Automatic vertical lift module</h3> <h2>The tool comes to you</h2>",
+   "body": "<p class=\"extra-large-text\"><strong>The ZOLLER »highTower« is an automatic vertical lift module for tools, tool components and operating resources. At the push of a button, it brings the right tray to the access opening – at an ergonomic working height.</strong></p> <p>The trays are stored in two columns at the front and rear of the unit. An extractor in the middle retrieves the requested tray, presents it and then returns it to a free storage location. No more searching or walking – your tools stay clean, secure and organized.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "id": "hightower-intro",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "goals",
+   "tiles": [
+    {
+     "value": "30 m",
+     "text": "<p>maximum unit height</p>",
+     "foot": "<p>From 2,550 mm, adapted to your room in 100 mm steps</p>"
+    },
+    {
+     "value": "555 kg",
+     "text": "<p>payload per tray</p>",
+     "foot": "<p>Even heavy complete tools and fixtures are stored safely</p>"
+    },
+    {
+     "value": "25 mm",
+     "text": "<p>storage location grid</p>",
+     "foot": "<p>A sensor measures the height on every tray – each tray gets exactly the space it needs</p>"
+    }
+   ],
+   "id": "hightower-facts",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "traycalc",
+   "header": "<h2>How many trays fit into your »highTower«?</h2>",
+   "intro": "<p class=\"subheader\">That depends on two things: the height of the unit and the height of your tools. Set both – the calculator instantly shows roughly how many trays and tool positions you get.</p>",
+   "t": {
+    "g_tools": "Your tools",
+    "g_tower": "Your »highTower«",
+    "holder": "Tool holder",
+    "h": "Tool height on the tray",
+    "h_hint": "Holder with tool – the longest tool determines the height of the tray position.",
+    "dia": "Largest tool diameter",
+    "kg": "Weight per tool",
+    "H": "Unit height",
+    "H_hint": "In 100 mm steps from 2,550 to 30,050 mm – plan according to the clear room height.",
+    "w": "Tray width",
+    "d": "Tray depth",
+    "tray": "Tray size",
+    "k_trays": "Trays",
+    "k_tools": "Tool positions",
+    "k_area": "m² storage area",
+    "approx": "approx.",
+    "upto": "up to",
+    "pitch": "Tray spacing",
+    "per_tray": "Tools per tray",
+    "lim_space": "limited by the tray area",
+    "lim_weight": "limited by the 555 kg payload",
+    "foot": "Footprint approx.",
+    "svg": "Section through the »highTower«: trays in the rear and front columns, access opening and a person for scale",
+    "lg_trays": "Trays with tools",
+    "lg_open": "Tray in the access opening",
+    "lg_man": "Person, 1.75 m",
+    "note": "Guide value without guarantee. ZOLLER works out the binding design – tray layout, tool inserts and unit dimensions – together with you.",
+    "cta": "Request a design",
+    "mail_subject": "»highTower« – design request",
+    "mail_intro": "Hello ZOLLER team,\n\nplease prepare a design for a »highTower« with these key data:",
+    "mail_result": "Guide value from the calculator",
+    "how_t": "How the calculator works",
+    "how": [
+     "The »highTower« stores the trays in two columns, front and rear. The base (150 mm) at the bottom and the head with the drive (500 mm) at the top are deducted from the unit height; in the front column, so is the access opening at a working height of 900 mm, including the lintel.",
+     "Tray spacing = tray (55 mm) + tool height + 20 mm clearance, rounded up to the 25 mm storage location grid.",
+     "Tool positions per tray: grid of the ZOLLER tool inserts (72 mm; 95 mm for HSK-A100 and SK 50) or tool diameter + 10 mm, with a 40 mm margin – at most as many tools as the 555 kg payload allows.",
+     "Footprint from the unit dimensions: width = tray width + 330 mm, depth = 2 × tray depth + 1,092 mm.",
+     "The base, head and access opening are assumptions. ZOLLER plans mixed tool heights, inserts for special tools and multiple access openings with you in detail."
+    ],
+    "sep": ",",
+    "u_mm": "mm",
+    "u_kg": "kg"
+   },
+   "id": "calculator",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "header": "<h2>Safe. Ergonomic. Adaptable.</h2>",
+   "items": [
+    "Access opening at an ergonomic working height",
+    "A light curtain stops the unit as soon as someone reaches in",
+    "Access openings at the front, rear or on several floors",
+    "Can be adapted to new tools and stock levels at any time"
+   ],
+   "id": "hightower-safe",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Part of your tool management</h2>",
+   "body": "<p><strong>In ZOLLER TMS Tool Management Solutions, the »highTower« is intended as optional hardware for the add-ons »z.Stock« and »z.Resources«.</strong></p> <p>»z.Stock« shows stocks and storage locations in the 3D storage location management, makes availability and usage locations visible at all times and generates order proposals automatically. »z.Resources« organizes test equipment, gauges and fixtures centrally – matched to the component and the setup sheet.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_TMS_komponenten_a4f7077982.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "3D storage location management in ZOLLER TMS"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-tms",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/a/csm_zStock_Feature_01_1c6bb75d1a.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "Add-on »z.Stock«",
+     "caption": "<figcaption> <h3>Add-on »z.Stock«</h3> <p>Exact stocks: 3D storage location management, inventory control and ordering for your tool storage</p> </figcaption>",
+     "href": "/produkte/toolmanagement/software/add-on-zstock"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/6/csm_zResources_Feature_02_637de1b463.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "Add-on »z.Resources«",
+     "caption": "<figcaption> <h3>Add-on »z.Resources«</h3> <p>Central capacities: test equipment, gauges and fixtures managed directly with the component</p> </figcaption>",
+     "href": "/produkte/toolmanagement/software/add-on-zresources"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "id": "hightower-addons",
+   "bg": "black",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>In use at ZOLLER itself</h2>",
+   "body": "<p>At the headquarters of ZOLLER Inc. in Ann Arbor, Michigan, three vertical lift modules, each around 8 m (26 ft) tall, are in operation. They store large and heavy tools – smaller parts are kept in ZOLLER tool cabinets – and the spare parts that are shipped to customers every day.</p> <p>The lift brings the tray with the right part directly to the employee. On shelves, the spare parts alone would need twice the floor space.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/9/csm_csm_automation_fest_travel_header_03_df68e82b27_24c41ac058.webp",
+     "w": 1920,
+     "h": 700,
+     "alt": "Headquarters of ZOLLER Inc. in Ann Arbor, Michigan"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-ref",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Tool Management: Your Advantages",
+     "href": "/ca/solutions/toolmanagement",
+     "caption": "<figcaption> <h3>Tool Management: Your Advantages</h3> <p>Find out how tool management from ZOLLER immediately increases your productivity. Processes run faster and more reliably with tool data - including crash protection for your machines. </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Expert Meeting",
+     "href": "https://myzoller.com/us/en/expert/booking",
+     "caption": "<figcaption> <h3>1:1 Expert Meeting</h3> <p>The individual exchange about your goals and our ideas for achieving them. Online advice from ZOLLER directly from the Smart Factory. Arrange your appointment now. </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "hightower-teaser",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ca/products/tool-management/tool-storage/hightower",
+ "de_path": "/produkte/toolmanagement/werkzeuglager/hightower"
+}

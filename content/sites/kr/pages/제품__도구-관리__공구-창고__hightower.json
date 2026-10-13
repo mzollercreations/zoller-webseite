@@ -1,0 +1,260 @@
+{
+ "path": "/제품/도구-관리/공구-창고/hightower",
+ "url": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/hightower",
+ "title": "»highTower«",
+ "description": "»highTower« - 공구용 수직 리프트형 자동창고 - 수직 리프트형 자동창고",
+ "og_image": "",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "»highTower«",
+   "text": "<p>공구를 위한 수직 리프트형 자동창고 – 바닥 면적 대신 천장 높이를 활용합니다</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">지금 문의하기</a> <a class=\"btn btn--ghost\" href=\"#calculator\">트레이 수 계산</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/e/0/csm_Teaser_hightower_preview_177dbd110e.webp",
+    "w": 1080,
+    "h": 858,
+    "alt": "수직 리프트형 자동창고"
+   },
+   "id": "hightower-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3>수직 리프트형 자동창고</h3> <h2>공구가 작업자에게 옵니다</h2>",
+   "body": "<p class=\"extra-large-text\"><strong>ZOLLER »highTower«는 공구, 공구 부품 및 운영 자원을 위한 수직 리프트형 자동창고입니다. 버튼 하나로 필요한 트레이를 인체공학적인 작업 높이의 취출구까지 가져옵니다.</strong></p> <p>트레이는 장비 앞쪽과 뒤쪽의 두 열에 보관됩니다. 가운데의 익스트랙터가 요청된 트레이를 꺼내 제공한 뒤, 다시 빈 보관 위치로 돌려놓습니다. 찾아다니거나 오갈 필요가 없으며, 공구는 깨끗하고 안전하게 정돈된 상태로 유지됩니다.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "id": "hightower-intro",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "goals",
+   "tiles": [
+    {
+     "value": "30 m",
+     "text": "<p>최대 장비 높이</p>",
+     "foot": "<p>2,550 mm부터 100 mm 단위로 설치 공간에 맞게 조정</p>"
+    },
+    {
+     "value": "555 kg",
+     "text": "<p>트레이당 적재 하중</p>",
+     "foot": "<p>무거운 완성 공구와 고정구도 안전하게 보관</p>"
+    },
+    {
+     "value": "25 mm",
+     "text": "<p>보관 위치 간격</p>",
+     "foot": "<p>센서가 각 트레이의 높이를 측정해 필요한 만큼의 공간만 할당합니다</p>"
+    }
+   ],
+   "id": "hightower-facts",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "traycalc",
+   "header": "<h2>»highTower«에 트레이가 몇 개나 들어갈까요?</h2>",
+   "intro": "<p class=\"subheader\">트레이 수는 장비 높이와 공구 높이, 두 가지에 따라 달라집니다. 두 값을 설정하면 계산기가 대략적인 트레이 수와 공구 보관 위치 수를 바로 보여줍니다.</p>",
+   "t": {
+    "g_tools": "보유 공구",
+    "g_tower": "»highTower« 설정",
+    "holder": "공구 홀더",
+    "h": "트레이 위 공구 높이",
+    "h_hint": "홀더를 포함한 공구 높이 – 가장 긴 공구가 트레이 위치의 높이를 결정합니다.",
+    "dia": "최대 공구 직경",
+    "kg": "공구 1개당 무게",
+    "H": "장비 높이",
+    "H_hint": "2,550~30,050 mm 범위에서 100 mm 단위 – 공간의 유효 천장 높이에 맞춰 계획하십시오.",
+    "w": "트레이 폭",
+    "d": "트레이 깊이",
+    "tray": "트레이 크기",
+    "k_trays": "트레이",
+    "k_tools": "공구 보관 위치",
+    "k_area": "m² 보관 면적",
+    "approx": "약",
+    "upto": "최대",
+    "pitch": "트레이 간격",
+    "per_tray": "트레이당 공구 수",
+    "lim_space": "트레이 면적에 의한 제한",
+    "lim_weight": "적재 하중 555 kg에 의한 제한",
+    "foot": "설치 면적 약",
+    "svg": "»highTower« 단면도: 뒤쪽 열과 앞쪽 열의 트레이, 취출구 및 크기 비교용 사람",
+    "lg_trays": "공구가 놓인 트레이",
+    "lg_open": "취출구의 트레이",
+    "lg_man": "사람, 1.75 m",
+    "note": "참고값이며 보증하지 않습니다. 트레이 배치, 공구 인서트, 장비 치수를 포함한 확정 설계는 ZOLLER가 고객과 함께 작성합니다.",
+    "cta": "설계 문의하기",
+    "mail_subject": "»highTower« – 설계 문의",
+    "mail_intro": "ZOLLER 팀 안녕하세요.\n\n다음 조건으로 »highTower« 설계를 검토해 주십시오.",
+    "mail_result": "계산기 참고값",
+    "how_t": "계산 방법",
+    "how": [
+     "»highTower«는 트레이를 앞뒤 두 열에 보관합니다. 장비 높이에서 아래쪽 베이스(150 mm)와 위쪽 구동부가 있는 헤드(500 mm)를 빼고, 앞쪽 열에서는 작업 높이 900 mm에 있는 취출구와 그 위의 상인방도 뺍니다.",
+     "트레이 간격 = 트레이(55 mm) + 공구 높이 + 여유 20 mm를 25 mm 보관 위치 간격으로 올림한 값.",
+     "트레이당 공구 보관 위치: ZOLLER 공구 인서트 간격(72 mm, HSK-A100 및 SK 50은 95 mm) 또는 공구 직경 + 10 mm, 가장자리 여유 40 mm – 단, 적재 하중 555 kg이 허용하는 개수까지.",
+     "설치 면적은 장비 치수 기준: 폭 = 트레이 폭 + 330 mm, 깊이 = 2 × 트레이 깊이 + 1,092 mm.",
+     "베이스, 헤드, 취출구 치수는 가정값입니다. 혼합된 공구 높이, 특수 공구용 인서트, 여러 개의 취출구는 ZOLLER가 고객과 함께 상세히 계획합니다."
+    ],
+    "sep": ",",
+    "u_mm": "mm",
+    "u_kg": "kg"
+   },
+   "id": "calculator",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "header": "<h2>안전하게. 인체공학적으로. 유연하게.</h2>",
+   "items": [
+    "인체공학적인 작업 높이의 취출구",
+    "누군가 손을 넣는 즉시 라이트 커튼이 장비를 정지",
+    "앞쪽, 뒤쪽 또는 여러 층에 취출구 설치 가능",
+    "새로운 공구와 재고에 언제든지 맞게 조정 가능"
+   ],
+   "id": "hightower-safe",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>공구 관리의 일부</h2>",
+   "body": "<p><strong>ZOLLER TMS Tool Management Solutions에서 »highTower«는 애드온 »z.Stock« 및 »z.Resources«용 선택 하드웨어로 제공됩니다.</strong></p> <p>»z.Stock«은 3D 보관 위치 관리에서 재고와 보관 위치를 보여주고, 가용성과 사용 위치를 언제든지 확인할 수 있게 하며, 주문 제안을 자동으로 생성합니다. »z.Resources«는 검사 장비, 게이지, 고정구를 중앙에서 관리하며 부품 및 설정 시트와 연결합니다.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_TMS_komponenten_a4f7077982.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "ZOLLER TMS의 3D 보관 위치 관리"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-tms",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/a/csm_zStock_Feature_01_1c6bb75d1a.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "Add-on »z.Stock«",
+     "caption": "<figcaption> <h3>Add-on »z.Stock«</h3> <p>정확한 재고: 공구 창고를 위한 3D 보관 위치 관리, 순환 관리 및 주문</p> </figcaption>",
+     "href": "/produkte/toolmanagement/software/add-on-zstock"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/6/csm_zResources_Feature_02_637de1b463.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "Add-on »z.Resources«",
+     "caption": "<figcaption> <h3>Add-on »z.Resources«</h3> <p>중앙 집중식 관리: 검사 장비, 게이지, 고정구를 부품과 직접 연결해 관리</p> </figcaption>",
+     "href": "/produkte/toolmanagement/software/add-on-zresources"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "id": "hightower-addons",
+   "bg": "black",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>ZOLLER에서도 직접 사용합니다</h2>",
+   "body": "<p>미국 미시간주 앤아버에 있는 ZOLLER Inc. 본사에서는 높이 약 8 m의 수직 리프트형 자동창고 3대가 가동 중입니다. 크고 무거운 공구(작은 부품은 ZOLLER 공구 캐비닛에 보관)와 매일 고객에게 발송되는 예비 부품을 보관합니다.</p> <p>자동창고는 필요한 부품이 담긴 트레이를 작업자에게 바로 가져옵니다. 선반에 보관했다면 예비 부품만으로도 두 배의 면적이 필요했을 것입니다.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/9/csm_csm_automation_fest_travel_header_03_df68e82b27_24c41ac058.webp",
+     "w": 1920,
+     "h": 700,
+     "alt": "미시간주 앤아버의 ZOLLER Inc. 본사"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-ref",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "공구 관리: 귀사가 누릴 수 있는 이점",
+     "href": "/kr/%EC%86%94%EB%A3%A8%EC%85%98/toolmanagement",
+     "caption": "<figcaption> <h3>공구 관리: 귀사가 누릴 수 있는 이점</h3> <p>ZOLLER의 공구 관리 솔루션이 어떻게 생산성을 즉시 향상시키는지 확인해 보세요. 공구 데이터를 활용하면 공정이 더 빠르고 안전하게 진행되며, 여기에는 기계의 충돌 방지 기능도 포함됩니다. </p> <br/> 자세히 알아보기 </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 전문가 상담",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1:1 전문가 상담</h3> <p>고객님의 목표와 이에 대한 당사의 아이디어를 바탕으로 한 맞춤형 상담. 스마트 팩토리에서 직접 제공되는 ZOLLER의 온라인 상담. 지금 바로 상담 일정을 예약하세요. </p> <br/> 자세히 알아보기 </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "hightower-teaser",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/kr/%EC%A0%9C%ED%92%88/%EB%8F%84%EA%B5%AC-%EA%B4%80%EB%A6%AC/%EA%B3%B5%EA%B5%AC-%EC%B0%BD%EA%B3%A0/hightower",
+ "de_path": "/produkte/toolmanagement/werkzeuglager/hightower"
+}

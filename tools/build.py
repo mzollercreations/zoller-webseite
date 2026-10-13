@@ -186,7 +186,7 @@ def _asset_version():
     h = hashlib.md5()
     for rel in ("assets/css/main.css", "assets/js/main.js", "assets/js/scrollfx.js", "assets/js/homefilm.js", "assets/js/productstage.js",
                 "assets/js/worldflight.js", "assets/js/world.js", "assets/js/eventagenda.js", "assets/js/zoomfx.js",
-                "assets/js/globe.js", "assets/js/globe-land.js"):
+                "assets/js/globe.js", "assets/js/globe-land.js", "assets/js/traycalc.js"):
         if not os.path.exists(os.path.join(ROOT, rel)):
             continue
         with open(os.path.join(ROOT, rel), "rb") as fh:
@@ -1614,6 +1614,69 @@ def r_article(ctx, b):
             f'<div class="article-foot">{share}{back}</div></div></div></article>')
 
 
+TRAY_HOLDERS = (("hsk40", "HSK-A40"), ("hsk63", "HSK-A63"), ("hsk100", "HSK-A100"),
+                ("sk30", "SK 30 / BT 30"), ("sk40", "SK 40 / BT 40"), ("sk50", "SK 50 / BT 50"))
+TRAY_WIDTHS = (1250, 1650, 1850, 2450, 3050, 3650, 4050)
+TRAY_DEPTHS = (610, 813, 864)
+
+
+def r_traycalc(ctx, b):
+    """»highTower«: Tablar-Rechner (assets/js/traycalc.js). Texte im Block (content/hightower.json), gerechnet wird im
+    Browser – Richtwert aus Gerätehöhe, Werkzeughöhe und Tablargröße, die verbindliche Auslegung macht ZOLLER."""
+    ctx.has_traycalc = True
+    t = b.get("t", {})
+    num = lambda v: f"{v:,}".replace(",", t.get("sep", "."))
+    uid = ctx.next_id("tc")
+
+    def chips(name, items, cur, label):
+        opts = "".join(f'<label class="traycalc__chip"><input type="radio" name="{uid}-{name}" value="{v}"'
+                       f'{" checked" if v == cur else ""}><span>{esc(lab)}</span></label>' for v, lab in items)
+        unit = f' <span class="traycalc__unit">{esc(t.get("u_mm", "mm"))}</span>' if name in ("w", "d") else ""
+        return (f'<div class="traycalc__field" role="radiogroup" aria-labelledby="{uid}-{name}-l">'
+                f'<span class="traycalc__label" id="{uid}-{name}-l">{esc(label)}{unit}</span><div class="traycalc__chips">{opts}</div></div>')
+
+    def slider(name, label, unit, lo, hi, step, val, hint=""):
+        h = f'<p class="traycalc__hint">{esc(hint)}</p>' if hint else ""
+        return (f'<div class="traycalc__field traycalc__field--range"><div class="traycalc__row">'
+                f'<label class="traycalc__label" for="{uid}-{name}">{esc(label)}</label>'
+                f'<span class="traycalc__val"><input class="traycalc__num" type="number" inputmode="decimal" name="{name}" '
+                f'min="{lo}" max="{hi}" step="{step}" value="{val}" aria-label="{esc(label, quote=True)}"><span>{unit}</span></span></div>'
+                f'<input class="traycalc__range" id="{uid}-{name}" type="range" name="{name}" min="{lo}" max="{hi}" step="{step}" value="{val}">{h}</div>')
+
+    mm, kg = esc(t.get("u_mm", "mm")), esc(t.get("u_kg", "kg"))
+    tools = (chips("holder", TRAY_HOLDERS, "hsk63", t["holder"])
+             + slider("h", t["h"], mm, 50, 600, 5, 250, t["h_hint"])
+             + slider("dia", t["dia"], mm, 10, 250, 1, 63)
+             + slider("kg", t["kg"], kg, 0.2, 30, 0.1, 2.5))
+    tower = (slider("H", t["H"], mm, 2550, 30050, 100, 4950, t["H_hint"])
+             + chips("w", [(w, num(w)) for w in TRAY_WIDTHS], 3050, t["w"])
+             + chips("d", [(d, num(d)) for d in TRAY_DEPTHS], 864, t["d"]))
+    form = (f'<form class="traycalc__form" novalidate>'
+            f'<fieldset class="traycalc__group"><legend>{esc(t["g_tools"])}</legend>{tools}</fieldset>'
+            f'<fieldset class="traycalc__group"><legend>{ctx.rewrite(t["g_tower"])}</legend>{tower}</fieldset></form>')
+    kpi = lambda key, cls="": (f'<div class="traycalc__kpi{cls}"><span class="traycalc__kpi-pre" data-pre="{key}"></span>'
+                                f'<b data-out="{key}">–</b><span class="traycalc__kpi-lab" data-lab="{key}">{esc(t["k_" + key])}</span></div>')
+    out = (f'<div class="traycalc__out" aria-live="polite">'
+           f'<div class="traycalc__kpis">{kpi("trays", " traycalc__kpi--main")}{kpi("tools")}{kpi("area")}</div>'
+           f'<p class="traycalc__detail" data-out="detail"></p>'
+           f'<figure class="traycalc__fig"><svg class="traycalc__svg" role="img" aria-label="{esc(t["svg"], quote=True)}"></svg>'
+           f'<figcaption class="traycalc__legend">'
+           + "".join(f'<span><i class="traycalc__sw traycalc__sw--{k}"></i>{esc(t["lg_" + k])}</span>' for k in ("trays", "open", "man"))
+           + '</figcaption></figure>'
+           f'<p class="traycalc__note">{esc(t["note"])}</p>'
+           f'<a class="btn" data-out="mail" href="mailto:{esc(SITE["company"]["email"], quote=True)}">{esc(t["cta"])}</a></div>')
+    how = "".join(f"<li>{esc(x)}</li>" for x in t.get("how", []))
+    how = (f'<div class="accordion traycalc__how"><details><summary>{esc(t["how_t"])}<span class="acc-icon" aria-hidden="true"></span></summary>'
+           f'<div class="accordion__body rte"><ol>{how}</ol></div></details></div>') if how else ""
+    cfg = {"mail": SITE["company"]["email"], "t": {k: v for k, v in t.items() if k not in ("how", "how_t")}}
+    head = f'<div class="section-head" data-reveal>{ctx.rewrite(b.get("header", ""))}{rte(ctx, b.get("intro", ""))}</div>'
+    # Handy: kurze Ergebniszeile, die beim Einstellen am unteren Rand mitläuft (das große Ergebnis steht unter dem Formular)
+    bar = (f'<div class="traycalc__bar" aria-hidden="true"><span>{esc(t["k_trays"])}: {esc(t["approx"])} <b data-bar="trays">–</b></span>'
+           f'<span>{esc(t["k_tools"])}: {esc(t["upto"])} <b data-bar="tools">–</b></span></div>')
+    return section(ctx, b, head + f'<div class="traycalc" data-traycalc=\'{esc(json.dumps(cfg, ensure_ascii=False), quote=False)}\'>'
+                   f'{form}{bar}{out}</div>{how}')
+
+
 def r_raw(ctx, b):
     return section(ctx, b, rte(ctx, b.get("html", "")))
 
@@ -1629,7 +1692,7 @@ RENDER = {
     "locations": r_locations, "events": r_events, "academy": r_academy, "search": r_search,
     "event_hero": r_event_hero, "event_facts": r_event_facts, "event_video": r_event_video, "event_products": r_event_products,
     "agenda": r_agenda, "event_venue": r_event_venue, "event_teaser": r_event_teaser, "events_world": r_events_world, "event_detail": r_event_detail,
-    "article": r_article, "raw": r_raw,
+    "article": r_article, "traycalc": r_traycalc, "raw": r_raw,
 }
 
 
@@ -2401,6 +2464,7 @@ def render_page(page):
     ctx.has_agenda = False
     ctx.has_globe = False
     ctx.has_zoom = False
+    ctx.has_traycalc = False
     is_home = page["path"] == HOME
     if is_home:
         body = render_home(ctx, page)
@@ -2501,6 +2565,9 @@ try{{var za=JSON.parse(sessionStorage.getItem('zoller-arrive')||'null');sessionS
     if ctx.has_zoom:
         scripts += f'''
 <script src="{ctx.prefix}assets/js/zoomfx.js?v={ASSET_VER}" defer></script>'''
+    if ctx.has_traycalc:
+        scripts += f'''
+<script src="{ctx.prefix}assets/js/traycalc.js?v={ASSET_VER}" defer></script>'''
     modules = []
     if is_home:
         modules.append("homefilm.js")

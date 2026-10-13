@@ -1,0 +1,260 @@
+{
+ "path": "/製品/ツール管理/工具倉庫/hightower",
+ "url": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%80%89%E5%BA%AB/hightower",
+ "title": "»highTower«",
+ "description": "»highTower« - 工具用垂直昇降式自動倉庫 - 垂直昇降式自動倉庫",
+ "og_image": "",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "»highTower«",
+   "text": "<p>工具のための垂直昇降式自動倉庫 – 床面積ではなく天井高さを活用します</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">お問い合わせ</a> <a class=\"btn btn--ghost\" href=\"#calculator\">トレイ数を計算</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/e/0/csm_Teaser_hightower_preview_177dbd110e.webp",
+    "w": 1080,
+    "h": 858,
+    "alt": "垂直昇降式自動倉庫"
+   },
+   "id": "hightower-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3>垂直昇降式自動倉庫</h3> <h2>工具のほうからやって来ます</h2>",
+   "body": "<p class=\"extra-large-text\"><strong>ZOLLER »highTower« は、工具、工具コンポーネント、生産補助具のための垂直昇降式自動倉庫です。ボタンを押すだけで、必要なトレイを人間工学に配慮した作業高さの取出し口まで運びます。</strong></p> <p>トレイは装置の前面側と背面側の2列に保管されます。中央のエクストラクターが要求されたトレイを取り出して供給し、その後、空いている保管位置に戻します。探し回ったり歩き回ったりする必要はありません。工具は清潔かつ安全に、整然と保管されます。</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "id": "hightower-intro",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "goals",
+   "tiles": [
+    {
+     "value": "30 m",
+     "text": "<p>最大装置高さ</p>",
+     "foot": "<p>2,550 mm から、100 mm 単位で設置場所に合わせて調整</p>"
+    },
+    {
+     "value": "555 kg",
+     "text": "<p>トレイあたりの積載量</p>",
+     "foot": "<p>重いコンプリートツールや治具も安全に保管</p>"
+    },
+    {
+     "value": "25 mm",
+     "text": "<p>保管位置ピッチ</p>",
+     "foot": "<p>センサーが各トレイの高さを測定 – 各トレイに必要なスペースだけを割り当てます</p>"
+    }
+   ],
+   "id": "hightower-facts",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "traycalc",
+   "header": "<h2>お使いの »highTower« には何枚のトレイが入りますか？</h2>",
+   "intro": "<p class=\"subheader\">トレイの枚数は、装置の高さと工具の高さの2つで決まります。両方を設定すると、計算ツールがおおよそのトレイ数と工具収納数をすぐに表示します。</p>",
+   "t": {
+    "g_tools": "お使いの工具",
+    "g_tower": "お使いの »highTower«",
+    "holder": "ツールホルダ",
+    "h": "トレイ上の工具高さ",
+    "h_hint": "ホルダと工具を合わせた高さ – 最も長い工具がトレイ位置の高さを決めます。",
+    "dia": "最大工具径",
+    "kg": "工具1本あたりの重量",
+    "H": "装置高さ",
+    "H_hint": "2,550～30,050 mm の範囲で 100 mm 単位 – 部屋の有効天井高さに合わせて計画してください。",
+    "w": "トレイ幅",
+    "d": "トレイ奥行き",
+    "tray": "トレイサイズ",
+    "k_trays": "トレイ",
+    "k_tools": "工具収納数",
+    "k_area": "m² 保管面積",
+    "approx": "約",
+    "upto": "最大",
+    "pitch": "トレイ間隔",
+    "per_tray": "トレイあたりの工具数",
+    "lim_space": "トレイ面積による制限",
+    "lim_weight": "積載量 555 kg による制限",
+    "foot": "設置面積 約",
+    "svg": "»highTower« の断面図：背面列と前面列のトレイ、取出し口、大きさ比較用の人物",
+    "lg_trays": "工具を載せたトレイ",
+    "lg_open": "取出し口のトレイ",
+    "lg_man": "人物、1.75 m",
+    "note": "目安の値であり、保証するものではありません。トレイの配置、工具インサート、装置寸法を含む正式な仕様は、ZOLLER がお客様と一緒に作成します。",
+    "cta": "仕様の検討を依頼",
+    "mail_subject": "»highTower« – 仕様検討のご依頼",
+    "mail_intro": "ZOLLER ご担当者様\n\n以下の条件で »highTower« の仕様をご検討ください。",
+    "mail_result": "計算ツールによる目安",
+    "how_t": "計算方法",
+    "how": [
+     "»highTower« はトレイを前後2列に保管します。装置高さから、下部のベース（150 mm）と上部の駆動部を含むヘッド（500 mm）を差し引きます。前面列ではさらに、作業高さ 900 mm にある取出し口とその上部の梁を差し引きます。",
+     "トレイ間隔 = トレイ（55 mm）+ 工具高さ + すき間 20 mm を、25 mm の保管位置ピッチに切り上げた値。",
+     "トレイあたりの工具収納数：ZOLLER 工具インサートのピッチ（72 mm、HSK-A100 と SK 50 は 95 mm）または工具径 + 10 mm、周囲 40 mm の余白 – ただし積載量 555 kg を超えない本数まで。",
+     "設置面積は装置寸法から算出：幅 = トレイ幅 + 330 mm、奥行き = 2 × トレイ奥行き + 1,092 mm。",
+     "ベース、ヘッド、取出し口の寸法は仮定値です。工具高さの混在、特殊工具用インサート、複数の取出し口については、ZOLLER がお客様と詳細に計画します。"
+    ],
+    "sep": ",",
+    "u_mm": "mm",
+    "u_kg": "kg"
+   },
+   "id": "calculator",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "header": "<h2>安全。人間工学。柔軟な対応。</h2>",
+   "items": [
+    "人間工学に配慮した作業高さの取出し口",
+    "誰かが手を入れるとライトカーテンが装置を停止",
+    "取出し口は前面、背面、複数階にも設置可能",
+    "新しい工具や在庫にいつでも合わせて変更可能"
+   ],
+   "id": "hightower-safe",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>工具管理の一部として</h2>",
+   "body": "<p><strong>ZOLLER TMS Tool Management Solutions において、»highTower« はアドオン »z.Stock« と »z.Resources« 用のオプションハードウェアとして位置付けられています。</strong></p> <p>»z.Stock« は3D保管場所管理で在庫と保管場所を表示し、利用可能状況や使用場所をいつでも把握できるようにして、発注提案を自動的に作成します。»z.Resources« は検査機器、ゲージ、治具を一元管理し、部品やセットアップシートに紐付けます。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_TMS_komponenten_a4f7077982.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "ZOLLER TMS の3D保管場所管理"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-tms",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/a/csm_zStock_Feature_01_1c6bb75d1a.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "Add-on »z.Stock«",
+     "caption": "<figcaption> <h3>Add-on »z.Stock«</h3> <p>正確な在庫：工具倉庫のための3D保管場所管理、流通管理、発注</p> </figcaption>",
+     "href": "/produkte/toolmanagement/software/add-on-zstock"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/6/csm_zResources_Feature_02_637de1b463.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "Add-on »z.Resources«",
+     "caption": "<figcaption> <h3>Add-on »z.Resources«</h3> <p>設備の一元管理：検査機器、ゲージ、治具を部品に直接紐付けて管理</p> </figcaption>",
+     "href": "/produkte/toolmanagement/software/add-on-zresources"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "id": "hightower-addons",
+   "bg": "black",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>ZOLLER 自身も活用しています</h2>",
+   "body": "<p>米国ミシガン州アナーバーにある ZOLLER Inc. の本社では、高さ約 8 m の垂直昇降式自動倉庫が3台稼働しています。大型で重い工具（小さな部品は ZOLLER 工具キャビネットに保管）と、毎日お客様へ発送される交換部品を保管しています。</p> <p>倉庫は必要な部品を載せたトレイを作業者のもとへ直接運びます。棚で保管した場合、交換部品だけでも2倍の床面積が必要になります。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/9/csm_csm_automation_fest_travel_header_03_df68e82b27_24c41ac058.webp",
+     "w": 1920,
+     "h": 700,
+     "alt": "ミシガン州アナーバーの ZOLLER Inc. 本社"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-ref",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "工具管理ソフト：そのメリット",
+     "href": "/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/toolmanagement",
+     "caption": "<figcaption> <h3>工具管理ソフト：そのメリット</h3> <p>ZOLLERの工具管理ソフトが、どのように生産性を即座に向上させるかをご覧ください。工具データを活用することで、プロセスがより迅速かつ安全に進行します。これには、お使いの機械のための衝突防止機能も含まれています。 </p> <br/> Learn more </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1対1の専門家との面談",
+     "href": "https://myzoller.com/de/de/expert/booking",
+     "caption": "<figcaption> <h3>1対1の専門家との面談</h3> <p>お客様の目標と、それに対する当社の提案について、個別に話し合う機会です。スマートファクトリーから直接お届けする、ZOLLERのオンラインコンサルティング。今すぐご予約ください。 </p> <br/> Learn more </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "hightower-teaser",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/ja/%E8%A3%BD%E5%93%81/%E3%83%84%E3%83%BC%E3%83%AB%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E5%80%89%E5%BA%AB/hightower",
+ "de_path": "/produkte/toolmanagement/werkzeuglager/hightower"
+}

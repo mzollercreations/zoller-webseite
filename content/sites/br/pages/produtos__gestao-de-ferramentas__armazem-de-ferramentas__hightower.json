@@ -1,0 +1,260 @@
+{
+ "path": "/produtos/gestao-de-ferramentas/armazem-de-ferramentas/hightower",
+ "url": "/br/produtos/gestao-de-ferramentas/armazem-de-ferramentas/hightower",
+ "title": "»highTower«",
+ "description": "»highTower« - Armazém vertical automático para ferramentas - Armazém vertical",
+ "og_image": "",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "»highTower«",
+   "text": "<p>O armazém vertical automático para suas ferramentas – ele aproveita o pé-direito em vez da área do galpão</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Solicitar orçamento</a> <a class=\"btn btn--ghost\" href=\"#calculadora\">Calcular bandejas</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/e/0/csm_Teaser_hightower_preview_177dbd110e.webp",
+    "w": 1080,
+    "h": 858,
+    "alt": "Armazém vertical automático"
+   },
+   "id": "hightower-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3>Armazém vertical automático</h3> <h2>A ferramenta vem até você</h2>",
+   "body": "<p class=\"extra-large-text\"><strong>O »highTower« da ZOLLER é um armazém vertical automático para ferramentas, componentes de ferramentas e recursos operacionais. Com o toque de um botão, ele leva a bandeja certa até a abertura de acesso – em uma altura de trabalho ergonômica.</strong></p> <p>As bandejas ficam armazenadas em duas colunas, na frente e atrás do equipamento. Um extrator no centro busca a bandeja solicitada, a disponibiliza e depois a devolve a uma posição livre. Chega de procurar e de se deslocar – suas ferramentas ficam limpas, seguras e organizadas.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "id": "hightower-intro",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "goals",
+   "tiles": [
+    {
+     "value": "30 m",
+     "text": "<p>altura máxima do equipamento</p>",
+     "foot": "<p>A partir de 2.550 mm, ajustada ao seu ambiente em etapas de 100 mm</p>"
+    },
+    {
+     "value": "555 kg",
+     "text": "<p>carga útil por bandeja</p>",
+     "foot": "<p>Até ferramentas completas pesadas e dispositivos de fixação ficam armazenados com segurança</p>"
+    },
+    {
+     "value": "25 mm",
+     "text": "<p>grade de posições de armazenamento</p>",
+     "foot": "<p>Um sensor mede a altura em cada bandeja – cada uma recebe exatamente o espaço de que precisa</p>"
+    }
+   ],
+   "id": "hightower-facts",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "traycalc",
+   "header": "<h2>Quantas bandejas cabem no seu »highTower«?</h2>",
+   "intro": "<p class=\"subheader\">Depende de duas coisas: da altura do equipamento e da altura das suas ferramentas. Ajuste as duas – a calculadora mostra na hora quantas bandejas e posições de ferramenta você obtém, aproximadamente.</p>",
+   "t": {
+    "g_tools": "Suas ferramentas",
+    "g_tower": "Seu »highTower«",
+    "holder": "Porta-ferramentas",
+    "h": "Altura da ferramenta na bandeja",
+    "h_hint": "Porta-ferramentas com ferramenta – a ferramenta mais longa define a altura da posição da bandeja.",
+    "dia": "Maior diâmetro de ferramenta",
+    "kg": "Peso por ferramenta",
+    "H": "Altura do equipamento",
+    "H_hint": "Em etapas de 100 mm, de 2.550 a 30.050 mm – planeje de acordo com o pé-direito livre.",
+    "w": "Largura da bandeja",
+    "d": "Profundidade da bandeja",
+    "tray": "Tamanho da bandeja",
+    "k_trays": "Bandejas",
+    "k_tools": "Posições de ferramenta",
+    "k_area": "m² de área de armazenagem",
+    "approx": "aprox.",
+    "upto": "até",
+    "pitch": "Distância entre bandejas",
+    "per_tray": "Ferramentas por bandeja",
+    "lim_space": "limitado pela área da bandeja",
+    "lim_weight": "limitado pela carga útil de 555 kg",
+    "foot": "Área ocupada aprox.",
+    "svg": "Corte do »highTower«: bandejas nas colunas traseira e dianteira, abertura de acesso e uma pessoa como referência de tamanho",
+    "lg_trays": "Bandejas com ferramentas",
+    "lg_open": "Bandeja na abertura de acesso",
+    "lg_man": "Pessoa, 1,75 m",
+    "note": "Valor de referência sem garantia. A ZOLLER elabora com você o dimensionamento definitivo – distribuição das bandejas, insertos para ferramentas e dimensões do equipamento.",
+    "cta": "Solicitar dimensionamento",
+    "mail_subject": "»highTower« – solicitação de dimensionamento",
+    "mail_intro": "Olá, equipe ZOLLER,\n\npeço que preparem um dimensionamento para um »highTower« com estes dados:",
+    "mail_result": "Valor de referência da calculadora",
+    "how_t": "Como a calculadora funciona",
+    "how": [
+     "O »highTower« armazena as bandejas em duas colunas, na frente e atrás. Da altura do equipamento são descontados a base embaixo (150 mm) e o cabeçote com o acionamento em cima (500 mm); na coluna da frente, também a abertura de acesso a 900 mm de altura de trabalho, incluindo a verga.",
+     "Distância entre bandejas = bandeja (55 mm) + altura da ferramenta + 20 mm de folga, arredondada para cima na grade de 25 mm das posições de armazenamento.",
+     "Posições de ferramenta por bandeja: grade dos insertos para ferramentas ZOLLER (72 mm; 95 mm para HSK-A100 e SK 50) ou diâmetro da ferramenta + 10 mm, com 40 mm de margem – no máximo tantas ferramentas quanto a carga útil de 555 kg permite.",
+     "Área ocupada conforme as dimensões do equipamento: largura = largura da bandeja + 330 mm, profundidade = 2 × profundidade da bandeja + 1.092 mm.",
+     "A base, o cabeçote e a abertura de acesso são premissas. A ZOLLER planeja com você em detalhe alturas de ferramenta mistas, insertos para ferramentas especiais e várias aberturas de acesso."
+    ],
+    "sep": ".",
+    "u_mm": "mm",
+    "u_kg": "kg"
+   },
+   "id": "calculadora",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "header": "<h2>Seguro. Ergonômico. Adaptável.</h2>",
+   "items": [
+    "Abertura de acesso em altura de trabalho ergonômica",
+    "Uma cortina de luz para o equipamento assim que alguém interfere",
+    "Aberturas de acesso na frente, atrás ou em vários andares",
+    "Adaptável a qualquer momento a novas ferramentas e estoques"
+   ],
+   "id": "hightower-safe",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Parte do seu gerenciamento de ferramentas</h2>",
+   "body": "<p><strong>No ZOLLER TMS Tool Management Solutions, o »highTower« está previsto como hardware opcional para os complementos »z.Stock« e »z.Resources«.</strong></p> <p>O »z.Stock« mostra estoques e posições no gerenciamento de locais de armazenagem em 3D, deixa a disponibilidade e os locais de uso visíveis a qualquer momento e gera sugestões de pedido automaticamente. O »z.Resources« organiza de forma centralizada instrumentos de inspeção, calibradores e dispositivos de fixação – vinculados à peça e à folha de preparação.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_TMS_komponenten_a4f7077982.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "Gerenciamento de locais de armazenagem em 3D no ZOLLER TMS"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-tms",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/a/csm_zStock_Feature_01_1c6bb75d1a.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "Add-on »z.Stock«",
+     "caption": "<figcaption> <h3>Add-on »z.Stock«</h3> <p>Estoques exatos: gerenciamento de locais em 3D, controle de circulação e pedidos para sua armazenagem de ferramentas</p> </figcaption>",
+     "href": "/produkte/toolmanagement/software/add-on-zstock"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/6/csm_zResources_Feature_02_637de1b463.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "Add-on »z.Resources«",
+     "caption": "<figcaption> <h3>Add-on »z.Resources«</h3> <p>Capacidades centralizadas: instrumentos de inspeção, calibradores e dispositivos de fixação gerenciados diretamente com a peça</p> </figcaption>",
+     "href": "/produkte/toolmanagement/software/add-on-zresources"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "id": "hightower-addons",
+   "bg": "black",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Em uso na própria ZOLLER</h2>",
+   "body": "<p>Na sede da ZOLLER Inc. em Ann Arbor, Michigan, operam três armazéns verticais com cerca de 8 m de altura cada um. Eles guardam ferramentas grandes e pesadas – as peças menores ficam em armários de ferramentas ZOLLER – e as peças de reposição enviadas todos os dias aos clientes.</p> <p>O armazém leva a bandeja com a peça certa diretamente ao colaborador. Em prateleiras, só as peças de reposição precisariam do dobro da área.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/9/csm_csm_automation_fest_travel_header_03_df68e82b27_24c41ac058.webp",
+     "w": 1920,
+     "h": 700,
+     "alt": "Sede da ZOLLER Inc. em Ann Arbor, Michigan"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-ref",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_teaser_toolmanagement_small_3a7744fa81.webp",
+     "alt": "",
+     "w": 955,
+     "h": 502,
+     "title": "Gestão de ferramentas: as suas vantagens",
+     "href": "/br/solutions/gestao-de-ferramentas",
+     "caption": "<figcaption> <h3>Gestão de ferramentas: as suas vantagens</h3> <p>Descubra como a gestão de ferramentas da ZOLLER aumenta imediatamente a sua produtividade. Com os dados da ferramenta, os processos são mais rápidos e seguros – incluindo proteção contra colisões para as suas máquinas. </p> <br/> Saber mais </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/f/6/csm_Teaser-2Colume-1zu1-Expert_222328b94b.webp",
+     "alt": "Christoph Zoller",
+     "w": 955,
+     "h": 502,
+     "title": "1:1 Conversa com especialistas",
+     "href": "https://myzoller.com/int/en/expert/booking/",
+     "caption": "<figcaption> <h3>1:1 Conversa com especialistas</h3> <p>A troca individual sobre os seus objetivos e as nossas ideias para os alcançar. A consultoria online da ZOLLER diretamente da Smart Factory. Marque já a sua consulta. </p> <br/> Saber mais </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "ftype": "textmedia",
+   "id": "hightower-teaser",
+   "bg": "lightgray",
+   "space": {
+    "before": "small",
+    "after": "small"
+   }
+  }
+ ],
+ "src_path": "/br/produtos/gestao-de-ferramentas/armazem-de-ferramentas/hightower",
+ "de_path": "/produkte/toolmanagement/werkzeuglager/hightower"
+}

@@ -1,0 +1,222 @@
+{
+ "path": "/produkty/zarzadzanie-narzedziami/magazyn-narzedzi/hightower",
+ "url": "/pl/produkty/zarzadzanie-narzedziami/magazyn-narzedzi/hightower",
+ "title": "»highTower«",
+ "description": "»highTower« - Automatyczny regał windowy na narzędzia - Regał windowy",
+ "og_image": "",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "»highTower«",
+   "text": "<p>Automatyczny regał windowy na Twoje narzędzia – wykorzystuje wysokość pomieszczenia zamiast powierzchni hali</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Zapytaj o ofertę</a> <a class=\"btn btn--ghost\" href=\"#kalkulator\">Oblicz liczbę tac</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/e/0/csm_Teaser_hightower_preview_177dbd110e.webp",
+    "w": 1080,
+    "h": 858,
+    "alt": "Automatyczny regał windowy"
+   },
+   "id": "hightower-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3>Automatyczny regał windowy</h3> <h2>To narzędzie przychodzi do Ciebie</h2>",
+   "body": "<p class=\"extra-large-text\"><strong>ZOLLER »highTower« to automatyczny regał windowy na narzędzia, komponenty narzędzi i środki produkcji. Po naciśnięciu przycisku dostarcza właściwą tacę do okna dostępowego – na ergonomicznej wysokości roboczej.</strong></p> <p>Tace są składowane w dwóch kolumnach, z przodu i z tyłu urządzenia. Ekstraktor pośrodku pobiera żądaną tacę, udostępnia ją, a następnie odstawia na wolne miejsce składowania. Koniec z szukaniem i chodzeniem – narzędzia pozostają czyste, bezpieczne i uporządkowane.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "id": "hightower-intro",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "goals",
+   "tiles": [
+    {
+     "value": "30 m",
+     "text": "<p>maksymalna wysokość urządzenia</p>",
+     "foot": "<p>Od 2550 mm, dopasowana do pomieszczenia w krokach co 100 mm</p>"
+    },
+    {
+     "value": "555 kg",
+     "text": "<p>udźwig na tacę</p>",
+     "foot": "<p>Nawet ciężkie narzędzia kompletne i przyrządy są składowane bezpiecznie</p>"
+    },
+    {
+     "value": "25 mm",
+     "text": "<p>raster miejsc składowania</p>",
+     "foot": "<p>Czujnik mierzy wysokość na każdej tacy – każda dostaje dokładnie tyle miejsca, ile potrzebuje</p>"
+    }
+   ],
+   "id": "hightower-facts",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "traycalc",
+   "header": "<h2>Ile tac zmieści się w Twoim »highTower«?</h2>",
+   "intro": "<p class=\"subheader\">Zależy to od dwóch rzeczy: od wysokości urządzenia i od wysokości Twoich narzędzi. Ustaw obie – kalkulator od razu pokaże, ile mniej więcej tac i miejsc na narzędzia otrzymasz.</p>",
+   "t": {
+    "g_tools": "Twoje narzędzia",
+    "g_tower": "Twój »highTower«",
+    "holder": "Uchwyt narzędziowy",
+    "h": "Wysokość narzędzia na tacy",
+    "h_hint": "Uchwyt z narzędziem – najdłuższe narzędzie określa wysokość miejsca tacy.",
+    "dia": "Największa średnica narzędzia",
+    "kg": "Masa narzędzia",
+    "H": "Wysokość urządzenia",
+    "H_hint": "W krokach co 100 mm od 2550 do 30 050 mm – planuj według wysokości w świetle pomieszczenia.",
+    "w": "Szerokość tacy",
+    "d": "Głębokość tacy",
+    "tray": "Rozmiar tacy",
+    "k_trays": "Tace",
+    "k_tools": "Miejsca na narzędzia",
+    "k_area": "m² powierzchni składowania",
+    "approx": "ok.",
+    "upto": "do",
+    "pitch": "Odstęp między tacami",
+    "per_tray": "Narzędzia na tacę",
+    "lim_space": "ograniczone powierzchnią tacy",
+    "lim_weight": "ograniczone udźwigiem 555 kg",
+    "foot": "Powierzchnia zabudowy ok.",
+    "svg": "Przekrój »highTower«: tace w tylnej i przedniej kolumnie, okno dostępowe i człowiek dla porównania wielkości",
+    "lg_trays": "Tace z narzędziami",
+    "lg_open": "Taca w oknie dostępowym",
+    "lg_man": "Człowiek, 1,75 m",
+    "note": "Wartość orientacyjna bez gwarancji. Wiążący projekt – rozmieszczenie na tacach, wkładki na narzędzia i wymiary urządzenia – ZOLLER przygotuje razem z Tobą.",
+    "cta": "Zapytaj o projekt",
+    "mail_subject": "»highTower« – zapytanie o projekt",
+    "mail_intro": "Dzień dobry, zespole ZOLLER,\n\nproszę o przygotowanie projektu »highTower« dla tych danych:",
+    "mail_result": "Wartość orientacyjna z kalkulatora",
+    "how_t": "Jak liczy kalkulator",
+    "how": [
+     "»highTower« składuje tace w dwóch kolumnach, z przodu i z tyłu. Od wysokości urządzenia odejmowany jest cokół na dole (150 mm) i głowica z napędem na górze (500 mm), a w przedniej kolumnie także okno dostępowe na wysokości roboczej 900 mm wraz z nadprożem.",
+     "Odstęp między tacami = taca (55 mm) + wysokość narzędzia + 20 mm luzu, zaokrąglone w górę do rastra miejsc składowania 25 mm.",
+     "Miejsca na narzędzia na tacy: raster wkładek narzędziowych ZOLLER (72 mm; 95 mm dla HSK-A100 i SK 50) lub średnica narzędzia + 10 mm, z marginesem 40 mm – najwyżej tyle narzędzi, ile pozwala udźwig 555 kg.",
+     "Powierzchnia zabudowy według wymiarów urządzenia: szerokość = szerokość tacy + 330 mm, głębokość = 2 × głębokość tacy + 1092 mm.",
+     "Cokół, głowica i okno dostępowe to założenia. Mieszane wysokości narzędzi, wkładki na narzędzia specjalne i kilka okien dostępowych ZOLLER zaplanuje z Tobą szczegółowo."
+    ],
+    "sep": "",
+    "u_mm": "mm",
+    "u_kg": "kg"
+   },
+   "id": "kalkulator",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "header": "<h2>Bezpiecznie. Ergonomicznie. Elastycznie.</h2>",
+   "items": [
+    "Okno dostępowe na ergonomicznej wysokości roboczej",
+    "Kurtyna świetlna zatrzymuje urządzenie, gdy tylko ktoś sięgnie do środka",
+    "Okna dostępowe z przodu, z tyłu lub na kilku kondygnacjach",
+    "W każdej chwili można je dostosować do nowych narzędzi i zapasów"
+   ],
+   "id": "hightower-safe",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Część Twojego zarządzania narzędziami</h2>",
+   "body": "<p><strong>W ZOLLER TMS Tool Management Solutions »highTower« jest przewidziany jako opcjonalny sprzęt dla dodatków »z.Stock« i »z.Resources«.</strong></p> <p>»z.Stock« pokazuje stany magazynowe i miejsca składowania w zarządzaniu lokalizacjami 3D, w każdej chwili uwidacznia dostępność i miejsca użycia oraz automatycznie generuje propozycje zamówień. »z.Resources« centralnie organizuje przyrządy pomiarowe, sprawdziany i przyrządy mocujące – w powiązaniu z detalem i kartą ustawczą.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_TMS_komponenten_a4f7077982.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "Zarządzanie lokalizacjami 3D w ZOLLER TMS"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-tms",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/a/csm_zStock_Feature_01_1c6bb75d1a.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "Dodatek »z.Stock«",
+     "caption": "<figcaption> <h3>Dodatek »z.Stock«</h3> <p>Dokładne stany: zarządzanie lokalizacjami 3D, kontrola obiegu i zamówienia dla Twojego magazynu narzędzi</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/6/csm_zResources_Feature_02_637de1b463.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "Dodatek »z.Resources«",
+     "caption": "<figcaption> <h3>Dodatek »z.Resources«</h3> <p>Centralne zasoby: przyrządy pomiarowe, sprawdziany i przyrządy mocujące zarządzane bezpośrednio przy detalu</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "id": "hightower-addons",
+   "bg": "black",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>W użyciu w samej firmie ZOLLER</h2>",
+   "body": "<p>W siedzibie ZOLLER Inc. w Ann Arbor w stanie Michigan pracują trzy regały windowe, każdy o wysokości ok. 8 m. Przechowują duże i ciężkie narzędzia – mniejsze części leżą w szafach narzędziowych ZOLLER – oraz części zamienne, które codziennie trafiają do klientów.</p> <p>Regał dostarcza tacę z właściwą częścią bezpośrednio do pracownika. Na regałach półkowych same części zamienne zajęłyby dwa razy więcej powierzchni.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/9/csm_csm_automation_fest_travel_header_03_df68e82b27_24c41ac058.webp",
+     "w": 1920,
+     "h": 700,
+     "alt": "Siedziba ZOLLER Inc. w Ann Arbor, Michigan"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-ref",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/pl/produkty/zarzadzanie-narzedziami/magazyn-narzedzi/hightower",
+ "de_path": "/produkte/toolmanagement/werkzeuglager/hightower"
+}

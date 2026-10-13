@@ -1,0 +1,222 @@
+{
+ "path": "/产品/刀具管理/工具仓库/hightower",
+ "url": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E4%BB%93%E5%BA%93/hightower",
+ "title": "»highTower«",
+ "description": "»highTower« - 刀具自动垂直升降库 - 垂直升降库",
+ "og_image": "",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "»highTower«",
+   "text": "<p>为您的刀具打造的自动垂直升降库——利用空间高度，而不是占用车间面积</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">立即询价</a> <a class=\"btn btn--ghost\" href=\"#calculator\">计算托盘数量</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/e/0/csm_Teaser_hightower_preview_177dbd110e.webp",
+    "w": 1080,
+    "h": 858,
+    "alt": "自动垂直升降库"
+   },
+   "id": "hightower-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3>自动垂直升降库</h3> <h2>刀具主动送到您面前</h2>",
+   "body": "<p class=\"extra-large-text\"><strong>ZOLLER »highTower« 是用于刀具、刀具组件和生产辅助资源的自动垂直升降库。只需按下按钮，它便将正确的托盘送到取货口——处于符合人体工学的工作高度。</strong></p> <p>托盘存放在设备前侧和后侧的两列中。位于中间的提取器取出所需托盘并送出，随后再将其送回空闲的存储位置。无需寻找，无需走动——刀具始终保持清洁、安全、井然有序。</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "id": "hightower-intro",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "goals",
+   "tiles": [
+    {
+     "value": "30 m",
+     "text": "<p>最大设备高度</p>",
+     "foot": "<p>从 2,550 mm 起，以 100 mm 为步长适配您的厂房</p>"
+    },
+    {
+     "value": "555 kg",
+     "text": "<p>每个托盘的承载能力</p>",
+     "foot": "<p>即使是较重的整套刀具和夹具，也能安全存放</p>"
+    },
+    {
+     "value": "25 mm",
+     "text": "<p>存储位置间距</p>",
+     "foot": "<p>传感器测量每个托盘上物品的高度——每个托盘都恰好获得所需的空间</p>"
+    }
+   ],
+   "id": "hightower-facts",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "traycalc",
+   "header": "<h2>您的 »highTower« 能放多少个托盘？</h2>",
+   "intro": "<p class=\"subheader\">这取决于两点：设备高度和刀具高度。设置这两项后，计算器会立即显示您大约能获得多少个托盘和刀具位。</p>",
+   "t": {
+    "g_tools": "您的刀具",
+    "g_tower": "您的 »highTower«",
+    "holder": "刀柄",
+    "h": "托盘上的刀具高度",
+    "h_hint": "刀柄连同刀具——最长的刀具决定托盘位置的高度。",
+    "dia": "最大刀具直径",
+    "kg": "单把刀具重量",
+    "H": "设备高度",
+    "H_hint": "以 100 mm 为步长，从 2,550 mm 到 30,050 mm——请按厂房净高进行规划。",
+    "w": "托盘宽度",
+    "d": "托盘深度",
+    "tray": "托盘尺寸",
+    "k_trays": "托盘",
+    "k_tools": "刀具位",
+    "k_area": "m² 存储面积",
+    "approx": "约",
+    "upto": "最多",
+    "pitch": "托盘间距",
+    "per_tray": "每个托盘的刀具数",
+    "lim_space": "受托盘面积限制",
+    "lim_weight": "受 555 kg 承载能力限制",
+    "foot": "占地面积约",
+    "svg": "»highTower« 剖面图：后列和前列中的托盘、取货口以及用于比例参照的人物",
+    "lg_trays": "装有刀具的托盘",
+    "lg_open": "位于取货口的托盘",
+    "lg_man": "人物，1.75 m",
+    "note": "参考值，不作保证。具有约束力的方案——托盘布局、刀具插座和设备尺寸——由 ZOLLER 与您共同制定。",
+    "cta": "申请方案设计",
+    "mail_subject": "»highTower« – 方案设计申请",
+    "mail_intro": "ZOLLER 团队您好：\n\n请根据以下关键数据为一台 »highTower« 制定方案：",
+    "mail_result": "计算器给出的参考值",
+    "how_t": "计算器的计算方法",
+    "how": [
+     "»highTower« 将托盘存放在前后两列中。设备高度需减去底部的底座（150 mm）和顶部带驱动装置的顶部单元（500 mm）；前列还需减去位于 900 mm 工作高度的取货口及其上方横梁。",
+     "托盘间距 = 托盘（55 mm）+ 刀具高度 + 20 mm 间隙，并向上取整到 25 mm 的存储位置间距。",
+     "每个托盘的刀具位：按 ZOLLER 刀具插座的间距（72 mm；HSK-A100 和 SK 50 为 95 mm）或刀具直径 + 10 mm 计算，四周留 40 mm 边距——刀具数量不超过 555 kg 承载能力所允许的数量。",
+     "占地面积按设备尺寸计算：宽度 = 托盘宽度 + 330 mm，深度 = 2 × 托盘深度 + 1,092 mm。",
+     "底座、顶部单元和取货口均为假设值。混合刀具高度、特殊刀具插座以及多个取货口，将由 ZOLLER 与您详细规划。"
+    ],
+    "sep": ",",
+    "u_mm": "mm",
+    "u_kg": "kg"
+   },
+   "id": "calculator",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "header": "<h2>安全。人体工学。灵活可调。</h2>",
+   "items": [
+    "取货口位于符合人体工学的工作高度",
+    "一旦有人伸手进入，光幕立即使设备停止",
+    "取货口可设在前侧、后侧或跨越多个楼层",
+    "可随时适配新刀具和新库存"
+   ],
+   "id": "hightower-safe",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>您刀具管理的一部分</h2>",
+   "body": "<p><strong>在 ZOLLER TMS Tool Management Solutions 中，»highTower« 作为可选硬件，用于附加模块 »z.Stock« 和 »z.Resources«。</strong></p> <p>»z.Stock« 在三维存储位置管理中显示库存和存储位置，随时展示可用性和使用地点，并自动生成订购建议。»z.Resources« 集中管理检测器具、量规和夹具——与零件和调整单相关联。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_TMS_komponenten_a4f7077982.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "ZOLLER TMS 中的三维存储位置管理"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-tms",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/a/csm_zStock_Feature_01_1c6bb75d1a.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "附加模块 »z.Stock«",
+     "caption": "<figcaption> <h3>附加模块 »z.Stock«</h3> <p>库存精确：为您的刀具仓库提供三维存储位置管理、流转控制和订购功能</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/6/csm_zResources_Feature_02_637de1b463.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "附加模块 »z.Resources«",
+     "caption": "<figcaption> <h3>附加模块 »z.Resources«</h3> <p>集中管理：检测器具、量规和夹具直接与零件关联管理</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "id": "hightower-addons",
+   "bg": "black",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>ZOLLER 自身也在使用</h2>",
+   "body": "<p>在位于密歇根州安娜堡的 ZOLLER Inc. 总部，三台高约 8 m 的垂直升降库正在运行。它们存放大型和重型刀具（较小的零件存放在 ZOLLER 刀具柜中），以及每天发往客户的备件。</p> <p>升降库将装有所需零件的托盘直接送到员工面前。如果使用货架，仅备件就需要两倍的占地面积。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/9/csm_csm_automation_fest_travel_header_03_df68e82b27_24c41ac058.webp",
+     "w": 1920,
+     "h": 700,
+     "alt": "ZOLLER Inc. 位于密歇根州安娜堡的总部"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-ref",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E7%AE%A1%E7%90%86/%E5%B7%A5%E5%85%B7%E4%BB%93%E5%BA%93/hightower",
+ "de_path": "/produkte/toolmanagement/werkzeuglager/hightower"
+}

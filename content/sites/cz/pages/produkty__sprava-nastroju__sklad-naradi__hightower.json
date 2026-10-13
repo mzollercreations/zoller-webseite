@@ -1,0 +1,222 @@
+{
+ "path": "/produkty/sprava-nastroju/sklad-naradi/hightower",
+ "url": "/cz/produkty/sprava-nastroju/sklad-naradi/hightower",
+ "title": "»highTower«",
+ "description": "»highTower« - Automatický výtahový zakladač pro nástroje - Výtahový zakladač",
+ "og_image": "",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "»highTower«",
+   "text": "<p>Automatický výtahový zakladač pro vaše nástroje – využívá výšku místnosti místo plochy haly</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Poptat nyní</a> <a class=\"btn btn--ghost\" href=\"#kalkulacka\">Spočítat police</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/e/0/csm_Teaser_hightower_preview_177dbd110e.webp",
+    "w": 1080,
+    "h": 858,
+    "alt": "Automatický výtahový zakladač"
+   },
+   "id": "hightower-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3>Automatický výtahový zakladač</h3> <h2>Nástroj přijede k vám</h2>",
+   "body": "<p class=\"extra-large-text\"><strong>ZOLLER »highTower« je automatický výtahový zakladač pro nástroje, komponenty nástrojů a provozní prostředky. Stisknutím tlačítka přiveze správnou polici k výdejnímu otvoru – v ergonomické pracovní výšce.</strong></p> <p>Police jsou uloženy ve dvou sloupcích na přední a zadní straně zařízení. Extraktor uprostřed vyzvedne požadovanou polici, připraví ji a poté ji vrátí na volné skladovací místo. Žádné hledání ani chození – nástroje zůstávají čisté, bezpečně uložené a v pořádku.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "id": "hightower-intro",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "goals",
+   "tiles": [
+    {
+     "value": "30 m",
+     "text": "<p>maximální výška zařízení</p>",
+     "foot": "<p>Od 2 550 mm, přizpůsobená vaší místnosti v krocích po 100 mm</p>"
+    },
+    {
+     "value": "555 kg",
+     "text": "<p>nosnost na polici</p>",
+     "foot": "<p>Bezpečně se uloží i těžké kompletní nástroje a přípravky</p>"
+    },
+    {
+     "value": "25 mm",
+     "text": "<p>rastr skladovacích míst</p>",
+     "foot": "<p>Senzor měří výšku na každé polici – každá dostane přesně tolik místa, kolik potřebuje</p>"
+    }
+   ],
+   "id": "hightower-facts",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "traycalc",
+   "header": "<h2>Kolik polic se vejde do vašeho »highTower«?</h2>",
+   "intro": "<p class=\"subheader\">Záleží na dvou věcech: na výšce zařízení a na výšce vašich nástrojů. Nastavte obojí – kalkulačka hned ukáže, kolik polic a míst pro nástroje přibližně získáte.</p>",
+   "t": {
+    "g_tools": "Vaše nástroje",
+    "g_tower": "Váš »highTower«",
+    "holder": "Upínač nástroje",
+    "h": "Výška nástroje na polici",
+    "h_hint": "Upínač s nástrojem – nejdelší nástroj určuje výšku místa police.",
+    "dia": "Největší průměr nástroje",
+    "kg": "Hmotnost nástroje",
+    "H": "Výška zařízení",
+    "H_hint": "V krocích po 100 mm od 2 550 do 30 050 mm – plánujte podle světlé výšky místnosti.",
+    "w": "Šířka police",
+    "d": "Hloubka police",
+    "tray": "Velikost police",
+    "k_trays": "Police",
+    "k_tools": "Místa pro nástroje",
+    "k_area": "m² skladovací plochy",
+    "approx": "cca",
+    "upto": "až",
+    "pitch": "Rozestup polic",
+    "per_tray": "Nástroje na polici",
+    "lim_space": "omezeno plochou police",
+    "lim_weight": "omezeno nosností 555 kg",
+    "foot": "Zastavěná plocha cca",
+    "svg": "Řez zařízením »highTower«: police v zadním a předním sloupci, výdejní otvor a člověk pro srovnání velikosti",
+    "lg_trays": "Police s nástroji",
+    "lg_open": "Police ve výdejním otvoru",
+    "lg_man": "Člověk, 1,75 m",
+    "note": "Orientační hodnota bez záruky. Závazný návrh – obsazení polic, vložky pro nástroje a rozměry zařízení – připraví ZOLLER společně s vámi.",
+    "cta": "Vyžádat návrh",
+    "mail_subject": "»highTower« – poptávka návrhu",
+    "mail_intro": "Dobrý den, týme ZOLLER,\n\nprosím o přípravu návrhu »highTower« s těmito údaji:",
+    "mail_result": "Orientační hodnota z kalkulačky",
+    "how_t": "Jak kalkulačka počítá",
+    "how": [
+     "»highTower« ukládá police ve dvou sloupcích, vpředu a vzadu. Od výšky zařízení se odečítá sokl dole (150 mm) a hlava s pohonem nahoře (500 mm), v předním sloupci navíc výdejní otvor v pracovní výšce 900 mm včetně nadpraží.",
+     "Rozestup polic = police (55 mm) + výška nástroje + 20 mm vůle, zaokrouhleno nahoru na rastr skladovacích míst 25 mm.",
+     "Místa pro nástroje na polici: rastr vložek pro nástroje ZOLLER (72 mm; 95 mm pro HSK-A100 a SK 50) nebo průměr nástroje + 10 mm, s okrajem 40 mm – nejvýše tolik nástrojů, kolik dovolí nosnost 555 kg.",
+     "Zastavěná plocha podle rozměrů zařízení: šířka = šířka police + 330 mm, hloubka = 2 × hloubka police + 1 092 mm.",
+     "Sokl, hlava a výdejní otvor jsou předpoklady. Smíšené výšky nástrojů, vložky pro speciální nástroje a více výdejních otvorů naplánuje ZOLLER s vámi podrobně."
+    ],
+    "sep": " ",
+    "u_mm": "mm",
+    "u_kg": "kg"
+   },
+   "id": "kalkulacka",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "header": "<h2>Bezpečný. Ergonomický. Přizpůsobivý.</h2>",
+   "items": [
+    "Výdejní otvor v ergonomické pracovní výšce",
+    "Světelná závora zastaví zařízení, jakmile někdo sáhne dovnitř",
+    "Výdejní otvory vpředu, vzadu nebo ve více podlažích",
+    "Kdykoli přizpůsobitelný novým nástrojům a zásobám"
+   ],
+   "id": "hightower-safe",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Součást vaší správy nástrojů</h2>",
+   "body": "<p><strong>V ZOLLER TMS Tool Management Solutions je »highTower« určen jako volitelný hardware pro doplňky »z.Stock« a »z.Resources«.</strong></p> <p>»z.Stock« zobrazuje zásoby a skladovací místa ve 3D správě skladovacích míst, kdykoli zviditelní dostupnost a místa použití a automaticky vytváří návrhy objednávek. »z.Resources« centrálně organizuje měřidla, kalibry a přípravky – v návaznosti na díl a seřizovací list.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_TMS_komponenten_a4f7077982.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "3D správa skladovacích míst v ZOLLER TMS"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-tms",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/a/csm_zStock_Feature_01_1c6bb75d1a.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "Doplněk »z.Stock«",
+     "caption": "<figcaption> <h3>Doplněk »z.Stock«</h3> <p>Přesné zásoby: 3D správa skladovacích míst, kontrola oběhu a objednávky pro váš sklad nářadí</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/6/csm_zResources_Feature_02_637de1b463.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "Doplněk »z.Resources«",
+     "caption": "<figcaption> <h3>Doplněk »z.Resources«</h3> <p>Centrální kapacity: měřidla, kalibry a přípravky spravované přímo u dílu</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "id": "hightower-addons",
+   "bg": "black",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>V provozu přímo u společnosti ZOLLER</h2>",
+   "body": "<p>V sídle společnosti ZOLLER Inc. v Ann Arbor ve státě Michigan pracují tři výtahové zakladače, každý vysoký přibližně 8 m. Ukládají velké a těžké nástroje – menší díly leží v nástrojových skříních ZOLLER – a náhradní díly, které každý den odcházejí zákazníkům.</p> <p>Zakladač přiveze polici se správným dílem přímo k pracovníkovi. V regálech by jen náhradní díly potřebovaly dvojnásobnou plochu.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/9/csm_csm_automation_fest_travel_header_03_df68e82b27_24c41ac058.webp",
+     "w": 1920,
+     "h": 700,
+     "alt": "Sídlo společnosti ZOLLER Inc. v Ann Arbor, Michigan"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-ref",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/cz/produkty/sprava-nastroju/sklad-naradi/hightower",
+ "de_path": "/produkte/toolmanagement/werkzeuglager/hightower"
+}

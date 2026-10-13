@@ -1,0 +1,222 @@
+{
+ "path": "/termekek/eszkoezkezeles/szerszamraktar/hightower",
+ "url": "/hu/termekek/eszkoezkezeles/szerszamraktar/hightower",
+ "title": "»highTower«",
+ "description": "»highTower« - Automata liftes tároló szerszámokhoz - Liftes tároló",
+ "og_image": "",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "»highTower«",
+   "text": "<p>Automata liftes tároló az Ön szerszámaihoz – a belmagasságot használja ki a csarnok alapterülete helyett</p> <p><a class=\"btn\" href=\"/unternehmen/kontakt\">Ajánlatkérés</a> <a class=\"btn btn--ghost\" href=\"#kalkulator\">Tálcák kiszámítása</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/e/0/csm_Teaser_hightower_preview_177dbd110e.webp",
+    "w": 1080,
+    "h": 858,
+    "alt": "Automata liftes tároló"
+   },
+   "id": "hightower-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h3>Automata liftes tároló</h3> <h2>A szerszám jön Önhöz</h2>",
+   "body": "<p class=\"extra-large-text\"><strong>A ZOLLER »highTower« automata liftes tároló szerszámokhoz, szerszámalkatrészekhez és üzemi eszközökhöz. Egy gombnyomásra a megfelelő tálcát a kiszolgálónyíláshoz hozza – ergonomikus munkamagasságban.</strong></p> <p>A tálcák két oszlopban, a berendezés elején és hátulján tárolódnak. Középen egy extraktor kiveszi a kért tálcát, kiadja, majd visszaviszi egy szabad tárolóhelyre. Nincs többé keresgélés és gyaloglás – a szerszámok tiszták, biztonságban és rendezettek maradnak.</p>",
+   "images": [],
+   "videos": [],
+   "pos": "text",
+   "cols": 1,
+   "valign": "top",
+   "id": "hightower-intro",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "small"
+   }
+  },
+  {
+   "type": "goals",
+   "tiles": [
+    {
+     "value": "30 m",
+     "text": "<p>maximális berendezésmagasság</p>",
+     "foot": "<p>2550 mm-től, 100 mm-es lépésekben az Ön helyiségéhez igazítva</p>"
+    },
+    {
+     "value": "555 kg",
+     "text": "<p>terhelhetőség tálcánként</p>",
+     "foot": "<p>A nehéz komplett szerszámok és készülékek is biztonságosan tárolhatók</p>"
+    },
+    {
+     "value": "25 mm",
+     "text": "<p>tárolóhely-raszter</p>",
+     "foot": "<p>Egy érzékelő minden tálcán megméri a magasságot – mindegyik pontosan annyi helyet kap, amennyire szüksége van</p>"
+    }
+   ],
+   "id": "hightower-facts",
+   "bg": "",
+   "space": {
+    "before": "small",
+    "after": "default"
+   }
+  },
+  {
+   "type": "traycalc",
+   "header": "<h2>Hány tálca fér el az Ön »highTower« berendezésében?</h2>",
+   "intro": "<p class=\"subheader\">Ez két dologtól függ: a berendezés magasságától és a szerszámai magasságától. Állítsa be mindkettőt – a kalkulátor azonnal megmutatja, nagyjából hány tálcát és szerszámhelyet kap.</p>",
+   "t": {
+    "g_tools": "Az Ön szerszámai",
+    "g_tower": "Az Ön »highTower« berendezése",
+    "holder": "Szerszámtartó",
+    "h": "Szerszámmagasság a tálcán",
+    "h_hint": "Szerszámtartó szerszámmal – a leghosszabb szerszám határozza meg a tálcahely magasságát.",
+    "dia": "Legnagyobb szerszámátmérő",
+    "kg": "Tömeg szerszámonként",
+    "H": "Berendezésmagasság",
+    "H_hint": "100 mm-es lépésekben 2550 és 30 050 mm között – a helyiség szabad belmagassága alapján tervezzen.",
+    "w": "Tálcaszélesség",
+    "d": "Tálcamélység",
+    "tray": "Tálcaméret",
+    "k_trays": "Tálcák",
+    "k_tools": "Szerszámhelyek",
+    "k_area": "m² tárolófelület",
+    "approx": "kb.",
+    "upto": "legfeljebb",
+    "pitch": "Tálcatávolság",
+    "per_tray": "Szerszám tálcánként",
+    "lim_space": "a tálca felülete korlátozza",
+    "lim_weight": "az 555 kg-os terhelhetőség korlátozza",
+    "foot": "Alapterület kb.",
+    "svg": "A »highTower« metszete: tálcák a hátsó és az első oszlopban, kiszolgálónyílás és egy ember a méretek összehasonlításához",
+    "lg_trays": "Tálcák szerszámokkal",
+    "lg_open": "Tálca a kiszolgálónyílásban",
+    "lg_man": "Ember, 1,75 m",
+    "note": "Tájékoztató érték, garancia nélkül. A kötelező érvényű méretezést – tálcakiosztás, szerszámbetétek és berendezésméretek – a ZOLLER Önnel közösen készíti el.",
+    "cta": "Méretezés kérése",
+    "mail_subject": "»highTower« – méretezési ajánlatkérés",
+    "mail_intro": "Kedves ZOLLER csapat!\n\nKérem, készítsenek méretezést egy »highTower« berendezéshez az alábbi adatokkal:",
+    "mail_result": "Tájékoztató érték a kalkulátorból",
+    "how_t": "Így számol a kalkulátor",
+    "how": [
+     "A »highTower« két oszlopban, elöl és hátul tárolja a tálcákat. A berendezés magasságából levonódik alul a talapzat (150 mm) és felül a hajtást tartalmazó fej (500 mm), az első oszlopban ezenfelül a 900 mm-es munkamagasságban lévő kiszolgálónyílás a szemöldökkel együtt.",
+     "Tálcatávolság = tálca (55 mm) + szerszámmagasság + 20 mm hézag, felfelé kerekítve a 25 mm-es tárolóhely-raszterre.",
+     "Szerszámhelyek tálcánként: a ZOLLER szerszámbetétek rasztere (72 mm; HSK-A100 és SK 50 esetén 95 mm) vagy a szerszámátmérő + 10 mm, 40 mm-es szegéllyel – legfeljebb annyi szerszám, amennyit az 555 kg-os terhelhetőség megenged.",
+     "Alapterület a berendezés méretei alapján: szélesség = tálcaszélesség + 330 mm, mélység = 2 × tálcamélység + 1092 mm.",
+     "A talapzat, a fej és a kiszolgálónyílás feltételezések. A vegyes szerszámmagasságokat, a különleges szerszámok betéteit és a több kiszolgálónyílást a ZOLLER részletesen megtervezi Önnel."
+    ],
+    "sep": "",
+    "u_mm": "mm",
+    "u_kg": "kg"
+   },
+   "id": "kalkulator",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "highlight",
+   "header": "<h2>Biztonságos. Ergonomikus. Alkalmazkodó.</h2>",
+   "items": [
+    "Kiszolgálónyílás ergonomikus munkamagasságban",
+    "Fényfüggöny állítja le a berendezést, amint valaki benyúl",
+    "Kiszolgálónyílások elöl, hátul vagy több szinten",
+    "Bármikor hozzáigazítható új szerszámokhoz és készletekhez"
+   ],
+   "id": "hightower-safe",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Az Ön szerszámkezelésének része</h2>",
+   "body": "<p><strong>A ZOLLER TMS Tool Management Solutions rendszerben a »highTower« opcionális hardverként szolgál a »z.Stock« és a »z.Resources« kiegészítőkhöz.</strong></p> <p>A »z.Stock« a 3D tárolóhely-kezelésben mutatja a készleteket és a tárolóhelyeket, bármikor láthatóvá teszi a rendelkezésre állást és a felhasználási helyeket, és automatikusan rendelési javaslatokat készít. A »z.Resources« központilag szervezi a mérőeszközöket, idomszereket és készülékeket – az alkatrészhez és a beállítólaphoz kapcsolva.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/7/7/csm_TMS_komponenten_a4f7077982.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "3D tárolóhely-kezelés a ZOLLER TMS-ben"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-tms",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "",
+   "body": "",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/a/csm_zStock_Feature_01_1c6bb75d1a.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "»z.Stock« kiegészítő",
+     "caption": "<figcaption> <h3>»z.Stock« kiegészítő</h3> <p>Pontos készletek: 3D tárolóhely-kezelés, forgáskövetés és rendelés az Ön szerszámraktárához</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/6/csm_zResources_Feature_02_637de1b463.webp",
+     "w": 955,
+     "h": 513,
+     "alt": "",
+     "title": "»z.Resources« kiegészítő",
+     "caption": "<figcaption> <h3>»z.Resources« kiegészítő</h3> <p>Központi kapacitások: mérőeszközök, idomszerek és készülékek közvetlenül az alkatrésznél kezelve</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 2,
+   "valign": "top",
+   "id": "hightower-addons",
+   "bg": "black",
+   "space": {
+    "before": "none",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Magánál a ZOLLER-nél is használatban</h2>",
+   "body": "<p>A ZOLLER Inc. Ann Arbor-i (Michigan) központjában három, egyenként mintegy 8 m magas liftes tároló működik. Ezek tárolják a nagy és nehéz szerszámokat – a kisebb alkatrészek ZOLLER szerszámszekrényekben vannak – és azokat a pótalkatrészeket, amelyek naponta mennek az ügyfelekhez.</p> <p>A lift a megfelelő alkatrészt tartalmazó tálcát közvetlenül a munkatárshoz hozza. Polcokon csak a pótalkatrészek kétszer akkora alapterületet igényelnének.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/9/csm_csm_automation_fest_travel_header_03_df68e82b27_24c41ac058.webp",
+     "w": 1920,
+     "h": 700,
+     "alt": "A ZOLLER Inc. központja Ann Arborban, Michiganben"
+    }
+   ],
+   "videos": [],
+   "pos": "left",
+   "cols": 1,
+   "valign": "center",
+   "id": "hightower-ref",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  }
+ ],
+ "src_path": "/hu/termekek/eszkoezkezeles/szerszamraktar/hightower",
+ "de_path": "/produkte/toolmanagement/werkzeuglager/hightower"
+}
