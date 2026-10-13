@@ -114,6 +114,39 @@
     if (lenis) open ? lenis.stop() : lenis.start();
   });
 
+  /* ------------------------------------------------- Unterleiste (Produkte) */
+  // Wird es eng (iPad hochkant, lange Übersetzungen), weicht zuerst der Titel – er steht ohnehin groß auf der Seite.
+  // Passt die Liste dann noch nicht, blendet sie rechts weich aus (wischbar) und der aktive Punkt rückt ins Bild.
+  $$('.subnav').forEach((sn) => {
+    const list = $('.subnav__list', sn);
+    if (!list) return;
+    const over = () => list.scrollWidth > list.clientWidth + 1;
+    const fit = () => {
+      sn.classList.remove('is-tight', 'is-scroll');
+      if (over()) sn.classList.add('is-tight');
+      if (over()) {
+        sn.classList.add('is-scroll');
+        const cur = $('[aria-current]', list);
+        if (cur) list.scrollLeft = Math.max(0, cur.offsetLeft - list.offsetLeft - 16);
+      }
+    };
+    fit();
+    addEventListener('resize', fit);
+    document.fonts?.ready.then(fit);
+  });
+
+  // Produktnamen sind ein Wort (»coraMachineLoad«) und werden nicht getrennt: passt der Name nicht in die Zeile, wird die Schrift kleiner
+  $$('.product-hero__name').forEach((h) => {
+    const fit = () => {
+      h.style.fontSize = '';
+      const over = h.scrollWidth / Math.max(1, h.clientWidth);
+      if (over > 1.005) h.style.fontSize = `${(parseFloat(getComputedStyle(h).fontSize) / over * 0.97).toFixed(1)}px`;
+    };
+    fit();
+    addEventListener('resize', fit);
+    document.fonts?.ready.then(fit);
+  });
+
   /* ---------------------------------------------------------------- Suche */
   const search = $('[data-search]');
   const sInput = $('[data-search-input]');
