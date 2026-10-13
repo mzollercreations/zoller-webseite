@@ -166,6 +166,10 @@ def globe_regions_attr():
     return f" data-regions='{esc(json.dumps(m, ensure_ascii=False), quote=False)}'"
 SHOWROOM_BASE = "https://mzollercreations.github.io/zoller-produktumgebung-3d/"
 SHOWROOM_URL = SHOWROOM_BASE   # je Sprachfassung: …/en-ca/, …/fr-ca/, …/es-mx/ (siehe use_locale)
+PLANER_BASE = "https://mzollercreations.github.io/zoller-werkzeugraum-planer/"   # Werkzeugraum-Planer (eigenes Repo)
+PLANER_URL = PLANER_BASE       # je Sprachfassung wie der Showroom: …/en-us/, …/fr-ca/ …
+PLAN_ICON = ('<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true">'
+             '<path d="M3.5 3.5h7v7h-7zM13.5 3.5h7v4h-7zM13.5 10.5h7v10h-7zM3.5 13.5h7v7h-7z"/></svg>')
 CUBE_ICON = ('<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true">'
              '<path d="M12 2.8 20 7.4v9.2l-8 4.6-8-4.6V7.4z"/><path d="M4 7.4l8 4.6 8-4.6M12 12v9.2"/></svg>')
 
@@ -2078,6 +2082,7 @@ def header_html(ctx):
     {lang_toggle(ctx)}<button class="icon-btn" type="button" data-search-open aria-label="{_("Suche öffnen")}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg></button>
     <button class="icon-btn lang-btn" type="button" data-lang-open aria-label="{_("Land und Sprache wählen")}: {esc(LOC["name"])}, {esc(LOC["label"])}" title="{_("Land und Sprache wählen")}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.8 3 2.8 15 0 18M12 3c-2.8 3-2.8 15 0 18"/></svg>{FLAGS.get(SITE["flag"], "")}</button>
     <a class="showroom-link" href="{SHOWROOM_URL}" title="{_("Alle Produkte in der 3D-Produktumgebung erleben")}">{CUBE_ICON}<span class="showroom-link__full">{_("3D-Showroom")}</span><span class="showroom-link__short">3D</span></a>
+    <a class="planer-link" href="{PLANER_URL}" title="{_("Ihren Werkzeugraum planen – Fertigung beschreiben, 3D-Werkzeugraum und Gewinn sehen")}">{PLAN_ICON}<span class="planer-link__full">{_("Werkzeugraum-Planer")}</span><span class="planer-link__short">{_("Planer")}</span></a>
     <button class="icon-btn burger" type="button" data-burger aria-label="{_("Menü öffnen")}" aria-expanded="false"><svg class="burger__open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 8h16M4 16h16"/></svg><svg class="burger__close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
   </div>
 </div>
@@ -2105,7 +2110,9 @@ def mobile_nav(ctx):
             top.append(f'<a href="{esc(ctx.url(n["href"]), quote=True)}">{esc(n["label"])}</a>')
     meta = "".join(f'<a href="{esc(ctx.url(m["href"]), quote=True)}">{esc(m["label"])}</a>' for m in NAV["meta"])
     showroom = (f'<a class="mobile-nav__showroom" href="{SHOWROOM_URL}">{CUBE_ICON}<span>{_("Produktumgebung 3D")}'
-                f'<small>{_("Alle Produkte im 3D-Showroom erleben")}</small></span></a>')
+                f'<small>{_("Alle Produkte im 3D-Showroom erleben")}</small></span></a>'
+                f'<a class="mobile-nav__planer" href="{PLANER_URL}">{PLAN_ICON}<span>{_("Werkzeugraum-Planer")}'
+                f'<small>{_("Fertigung beschreiben, Werkzeugraum in 3D planen, Gewinn sehen")}</small></span></a>')
     toggle = lang_toggle(ctx, "mobile-nav__lang")
     return (f'<nav class="mobile-nav" aria-label="{_("Mobile Navigation")}" data-mobile-nav>{showroom}{"".join(top)}'
             f'<div class="mobile-nav__meta">{meta}<a href="https://myzoller.com/" target="_blank" rel="noopener">MYZOLLER</a>{toggle}</div></nav>')
@@ -2707,9 +2714,10 @@ def drop_alternatives(o):
 
 def use_locale(loc):
     """Globale Daten auf eine Sprachfassung umstellen."""
-    global NAV, LOC, LANG, IS_DE, SHOWROOM_URL
+    global NAV, LOC, LANG, IS_DE, SHOWROOM_URL, PLANER_URL
     LOC, LANG, IS_DE = loc, loc["lang"], not loc["src"]
     SHOWROOM_URL = SHOWROOM_BASE + (loc["code"].lower() + "/" if loc["src"] else "")
+    PLANER_URL = PLANER_BASE + (loc["code"].lower() + "/" if loc["src"] else "")
     PAGES.clear()
     PAGES.update(load_pages(loc["src"], loc.get("overlay", "")))
     nav_file = os.path.join(ROOT, "content", "sites", loc["src"], "nav.json") if loc["src"] else os.path.join(ROOT, "content", "nav.json")
