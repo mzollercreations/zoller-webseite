@@ -299,6 +299,26 @@
     show(new URLSearchParams(location.search).get('events') === 'all' ? '' : box.dataset.home, false);
   });
 
+  // Datumsfeld: lange Wochentage (»ПОНЕДЕЛЬНИК«) werden so weit verkleinert, dass sie ins gelbe Feld passen.
+  // ResizeObserver, weil die Events anderer Länder erst beim Umschalten sichtbar und damit messbar werden.
+  if ('ResizeObserver' in window) {
+    const fitDay = (box) => {
+      const wd = box.lastElementChild;
+      if (!wd || wd.nodeName !== 'SPAN' || !box.clientWidth) return;
+      wd.style.fontSize = ''; wd.style.letterSpacing = '';
+      const cs = getComputedStyle(box);
+      const room = box.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight);
+      const w = wd.offsetWidth;   // Layoutbreite – das Feld dreht sich beim Einblenden (rotate), getBoundingClientRect wäre verzerrt
+      if (!w || w <= room + .5) return;
+      wd.style.letterSpacing = '.02em';
+      const w2 = wd.offsetWidth;
+      if (w2 > room + .5) wd.style.fontSize = `${Math.max(8, parseFloat(getComputedStyle(wd).fontSize) * room / w2 * .98).toFixed(1)}px`;
+    };
+    const ro = new ResizeObserver((entries) => entries.forEach((en) => fitDay(en.target)));
+    $$('.event__date').forEach((d) => ro.observe(d));
+    document.fonts?.ready.then(() => $$('.event__date').forEach(fitDay));
+  }
+
   /* ------------------------------------------------------------- Hotspots */
   $$('.hotspots').forEach(hs => $$('.hotspot', hs).forEach((h, i) => h.style.setProperty('--i', i)));   // Reihenfolge beim Aufspringen
   $$('.hotspot').forEach(h => {

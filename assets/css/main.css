@@ -79,6 +79,7 @@ h3 { font-size: var(--fs-h3); line-height: 1.25; }
 /* Lange Wörter (»Datenschutzerklärung«, »Photovoltaikanlage«, »Qualitätssicherung/Abnahme«) ragen nie aus dem Bild:
    auf schmalen Bildschirmen mit Bindestrich trennen, notfalls irgendwo umbrechen. Produktnamen nicht – die passt main.js ein. */
 h1, h2, h3, h4, h5, h6 { overflow-wrap: break-word; }
+p, li, dd { overflow-wrap: break-word; }   /* z. B. JA »coraLogistic«、»coraVarion«、»loadBox« ohne Leerzeichen = ein einziges Wort */
 @media (max-width: 760px) {
   h1, h2, h3, h4, .large-text, .extra-large-text, .icon-item__value, .accordion summary { -webkit-hyphens: auto; hyphens: auto; overflow-wrap: anywhere; }
   .product-hero__name { -webkit-hyphens: manual; hyphens: manual; overflow-wrap: normal; }
