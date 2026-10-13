@@ -76,6 +76,13 @@ h1, h2, h3, h4, h5, h6 { margin: 0 0 .5em; font-weight: 500; line-height: 1.12; 
 h1 { font-size: var(--fs-h1); }
 h2 { font-size: var(--fs-h2); }
 h3 { font-size: var(--fs-h3); line-height: 1.25; }
+/* Lange Wörter (»Datenschutzerklärung«, »Photovoltaikanlage«, »Qualitätssicherung/Abnahme«) ragen nie aus dem Bild:
+   auf schmalen Bildschirmen mit Bindestrich trennen, notfalls irgendwo umbrechen. Produktnamen nicht – die passt main.js ein. */
+h1, h2, h3, h4, h5, h6 { overflow-wrap: break-word; }
+@media (max-width: 760px) {
+  h1, h2, h3, h4, .large-text, .extra-large-text, .icon-item__value, .accordion summary { -webkit-hyphens: auto; hyphens: auto; overflow-wrap: anywhere; }
+  .product-hero__name { -webkit-hyphens: manual; hyphens: manual; overflow-wrap: normal; }
+}
 h4 { font-size: var(--fs-h4); line-height: 1.35; }
 h5, h6 { font-size: var(--fs-body); }
 p { margin: 0 0 1em; text-wrap: pretty; }
@@ -572,6 +579,9 @@ figcaption { font-size: var(--fs-small); color: var(--gray-600); margin-top: .6r
 .cols--33-66 { grid-template-columns: 1fr 2fr; }
 .cols--3 { grid-template-columns: repeat(3, 1fr); }
 .cols--4 { grid-template-columns: repeat(4, 1fr); }
+/* Spalten dürfen schmaler werden als ihr breitester Inhalt (Slider, lange Wörter) – sonst drückt eine Spalte die ganze Seite seitlich auf */
+.cols > *, .textmedia > *, .textmedia__media > *, .product-hero__grid > * { min-width: 0; }
+.rte a { overflow-wrap: anywhere; }   /* lange Adressen im Fließtext (Datenschutz) */
 .cols .section, .cols .section--tight { padding-block: 0 !important; background: transparent; }
 .cols .wrap { padding-inline: 0; max-width: none; }
 .cols > .col > .block + .block { margin-top: 1.5rem; }
@@ -777,6 +787,9 @@ tr:hover td { background: rgba(240, 230, 0, .08); }
 .subnav__list a { display: block; padding: .35rem .8rem; font-size: .875rem; border-radius: 999px; color: var(--gray-700); white-space: nowrap; }
 .subnav__list a:hover { color: var(--black); background: rgba(0, 0, 0, .05); }
 .subnav__list a[aria-current] { color: var(--black); background: var(--yellow); }
+.subnav.is-tight .subnav__title { display: none; }   /* main.js: zu eng → Titel weicht, dann wischbare Liste mit weichem Rand */
+.subnav.is-tight .subnav__list > li:first-child { margin-left: 0; }
+.subnav.is-scroll .subnav__list { padding-right: 1.5rem; -webkit-mask-image: linear-gradient(90deg, #000 calc(100% - 1.5rem), transparent); mask-image: linear-gradient(90deg, #000 calc(100% - 1.5rem), transparent); }
 .subnav .btn { padding: .45em 1em; font-size: .8125rem; margin: 0; flex: none; }
 .subnav .btn::after { display: none; }
 
@@ -829,6 +842,13 @@ tr:hover td { background: rgba(240, 230, 0, .08); }
 .hotspot--left .hotspot__panel { left: auto; right: -1rem; translate: 0 0; }
 .hotspot--right .hotspot__panel { left: -1rem; translate: 0 0; }
 .hotspots__list { display: none; }
+/* Mit Beschriftung (ab 861 px): der gelbe Punkt sitzt genau auf der Stelle, die Beschriftung läuft zur Bildmitte –
+   zentriert lag der Punkt um eine halbe Pillenbreite daneben und am Bildrand ragte die Pille hinaus */
+@media (min-width: 861px) {
+  .hotspot { --dot: calc(.35rem + 11px); translate: calc(-1 * var(--dot)) -50%; transform-origin: var(--dot) 50%; }
+  .hotspot--left { translate: calc(var(--dot) - 100%) -50%; transform-origin: calc(100% - var(--dot)) 50%; }
+  .hotspot--left .hotspot__btn { flex-direction: row-reverse; padding: .35rem .35rem .35rem .85rem; }
+}
 
 /* Spalten Bild + Text (Werte) */
 .value-tiles { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem; }
@@ -1047,6 +1067,13 @@ tr:hover td { background: rgba(240, 230, 0, .08); }
 .worldflight__loading { position: absolute; left: 50%; bottom: 2.2rem; transform: translateX(-50%); z-index: 3; display: flex; flex-direction: column; align-items: center; gap: .5rem; font-size: .8125rem; color: var(--black); transition: opacity .6s; }
 .worldflight__loading i { display: block; width: 160px; height: 3px; border-radius: 3px; background: var(--black); transform-origin: left; transform: scaleX(0); transition: transform .3s; }
 .worldflight.is-ready .worldflight__loading, .worldflight.is-static .worldflight__loading { opacity: 0; pointer-events: none; }
+/* Tablet hochkant: Karte unten wie auf dem Handy, die Szene bekommt die volle Breite (worldflight.js, applyInset) */
+@media (min-width: 861px) and (max-aspect-ratio: 1/1) {
+  .worldflight__shade { background: linear-gradient(0deg, rgba(8, 8, 10, .72) 0%, rgba(8, 8, 10, .25) 40%, rgba(8, 8, 10, 0) 60%); }
+  .wf-chapter { top: auto; bottom: 2rem; transform: translate3d(0, 24px, 0); }
+  .wf-chapter.is-active { transform: none; }
+  .wf-chapter--intro, .wf-chapter--outro { bottom: 3rem; }
+}
 .worldflight.is-static { height: auto; }
 .worldflight.is-static .worldflight__sticky { position: relative; height: auto; padding: 6rem 0; }
 .worldflight.is-static .worldflight__shade { background: rgba(8, 8, 10, .7); }
@@ -1379,6 +1406,11 @@ p[data-words] .w.is-lit { color: inherit; }
 .icon-item__head img { width: 96px; height: 96px; object-fit: contain; flex: none; }
 .icon-item__sub { font-size: .875rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--gray-500); }
 .icon-item__value { font-size: clamp(2.5rem, 1.5rem + 4vw, 5rem); font-weight: 500; letter-spacing: -0.04em; line-height: 1; color: #3f8f3a; }
+@media (max-width: 600px) {   /* Handy: Symbol über den Wert, sonst bleibt für ganze Sätze (»Photovoltaikanlage auf dem …«) nur eine schmale Spalte */
+  .icon-item__head { flex-direction: column; align-items: flex-start; gap: .9rem; }
+  .icon-item__head img { width: 64px; height: 64px; }
+  .icon-item__value { font-size: 2.1rem; line-height: 1.05; }
+}
 .goals { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 260px), 1fr)); gap: 1rem; }
 .goal { padding: 1.75rem; border-radius: var(--radius); background: var(--gray-50); display: flex; flex-direction: column; gap: .5rem; }
 .bg-lightgray .goal { background: var(--white); }
@@ -1410,7 +1442,8 @@ p[data-words] .w.is-lit { color: inherit; }
 .event__date b { font-size: 2.5rem; font-weight: 500; letter-spacing: -0.03em; }
 .event__date span { font-size: .75rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; }
 .event__meta { display: flex; flex-wrap: wrap; gap: .25rem 1rem; font-size: .875rem; color: var(--gray-600); margin-bottom: .35rem; }
-.event__body h3 { font-size: 1.5rem; margin-bottom: .35rem; }
+.event__body { min-width: 0; }   /* lange Komposita (»Werkzeugverwaltungssystemen«) dürfen die Spalte nicht aufdrücken */
+.event__body h3 { font-size: 1.5rem; margin-bottom: .35rem; overflow-wrap: break-word; -webkit-hyphens: auto; hyphens: auto; }
 .event__btns { margin-top: .75rem; }
 .event__btns .btn { font-size: .875rem; padding: .6em 1.1em; }
 .event__img img { max-height: 90px; width: auto; margin-left: auto; object-fit: contain; }
@@ -1519,13 +1552,20 @@ img.is-broken { display: none; }
   .feature--rev .feature__media { order: 0; }
   .timeline__nav { position: static; flex-direction: row; overflow-x: auto; max-height: none; padding-bottom: .5rem; }
   .timeline__nav a { flex: none; grid-template-columns: auto; }
-  .event { grid-template-columns: 80px 1fr; }
+  .event { grid-template-columns: 110px 1fr; gap: 1.5rem; }
   .event__img { display: none; }
   .immersive { min-height: 90vh; }
   .pfilter select, .pfilter input { min-width: 0; width: 100%; }
   .pfilter { flex: 1 1 100%; }
   .pfilter__reset { margin-left: 0; }
   .footer-wide { grid-column: auto; }
+}
+/* Handy: schmales Datumsfeld nur mit Monat und Tag – lange Wochentage (DONNERSTAG, ПОНЕДЕЛЬНИК) passen nicht hinein, das Datum steht daneben */
+@media (max-width: 600px) {
+  .event { grid-template-columns: 76px 1fr; gap: 1.1rem; align-items: start; }
+  .event__date { padding: .5rem; }
+  .event__date b { font-size: 2.1rem; }
+  .event__date span:last-child { display: none; }
 }
 .ms-gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 180px), 1fr)); gap: .75rem; margin: 1.25rem 0 1.5rem; }
 .ms-fig img { width: 100% !important; margin: 0 !important; aspect-ratio: 1; object-fit: cover; border-radius: var(--radius-sm); }
@@ -2008,17 +2048,6 @@ table.proto.proto-in td:first-child { animation: proto-tick 1.3s var(--ease-out)
 }
 @keyframes ring-fill { to { stroke-dashoffset: 0; } }
 
-/* Scan beim Hereinscrollen: gelbe Messlinie, darunter das Bild noch grau im Messraster */
-.scan { position: absolute; inset: 0; z-index: 2; pointer-events: none; will-change: transform;
-  background-color: rgba(8, 10, 12, .16);
-  background-image: linear-gradient(rgba(255, 255, 255, .16) 1px, transparent 1px), linear-gradient(90deg, rgba(255, 255, 255, .16) 1px, transparent 1px);
-  background-size: 28px 28px; background-position: -1px -1px;
-  -webkit-backdrop-filter: grayscale(1) contrast(1.12) brightness(.8); backdrop-filter: grayscale(1) contrast(1.12) brightness(.8); }
-.scan::before { content: ""; position: absolute; left: 0; right: 0; top: -1px; height: 2px; background: var(--yellow); box-shadow: 0 0 16px 2px rgba(240, 230, 0, .75); opacity: 0; transition: opacity .3s; }
-.scan::after { content: ""; position: absolute; left: 0; right: 0; bottom: 100%; height: 72px; background: linear-gradient(0deg, rgba(240, 230, 0, .2), rgba(240, 230, 0, 0)); opacity: 0; transition: opacity .3s; }
-.scan.is-live::before, .scan.is-live::after { opacity: 1; }
-.media-frame--contain .scan { background-color: transparent; }
-
 /* Produktkarten: beim Überfahren fährt einmal die Messlinie über das Gerät */
 .product-card__img::before { content: ""; position: absolute; left: 8%; right: 8%; top: 4%; z-index: 2; height: 2px; border-radius: 2px; background: var(--yellow); box-shadow: 0 0 14px 2px rgba(240, 230, 0, .7); opacity: 0; pointer-events: none; }
 .product-card:hover .product-card__img::before { animation: card-scan 1.2s var(--ease-in-out) both; }
@@ -2034,11 +2063,11 @@ table.proto.proto-in td:first-child { animation: proto-tick 1.3s var(--ease-out)
 .uf-bg > .bp-grid { z-index: auto; }
 
 @media (prefers-reduced-motion: reduce) {
-  .scan, .bp-grid, .intro, .to-top__ring { display: none !important; }
+  .bp-grid, .intro, .to-top__ring { display: none !important; }
   .product-card:hover .product-card__img::before { animation: none; }
 }
 @media print {
-  .scan, .bp-grid, .intro { display: none !important; }
+  .bp-grid, .intro { display: none !important; }
 }
 
 /* ---------- Zoom-Through, Iris-Blende, Text-Maske (zoomfx.js, build.py zoom_iris / zoom_mask) ---------- */

@@ -70,11 +70,13 @@ function setup() {
   }, { rootMargin: '120% 0px 120% 0px' });
   io.observe(sec);
 
-  // Szene neben die Textkarte schieben (Desktop) bzw. über die Karte (Handy)
+  // Szene neben die Textkarte schieben (Desktop, Tablet quer) bzw. über die Karte (Handy, Tablet hoch –
+  // sonst bleibt neben der Karte nur ein schmaler Streifen und die Themenwelt-Schilder werden abgeschnitten)
+  const stacked = matchMedia('(max-width: 860px), (max-aspect-ratio: 1/1)');   // wie in main.css
   function applyInset() {
     if (!world) return;
     const card = sec.querySelector('.wf-chapter:not(.wf-chapter--intro):not(.wf-chapter--outro)');
-    if (window.innerWidth > 860) {
+    if (!stacked.matches) {
       const r = card ? card.getBoundingClientRect() : { right: 520 };
       world.setInset(-Math.min(window.innerWidth * 0.45, r.right + 24), 0);
     } else {

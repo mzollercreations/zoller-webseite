@@ -1,7 +1,6 @@
 /* ZOLLER – Bewegung im Stil der Messtechnik
    Ergänzt main.js und scrollfx.js um Effekte, die aus der Welt der Einstell- und Messgeräte kommen:
    - Intro der Startseite (einmal pro Sitzung): Fadenkreuz, Logo, Messschieber öffnet sich (CSS, hier nur Überspringen)
-   - Scan beim Hereinscrollen: eine gelbe Messlinie fährt über jedes Bild, darunter liegt es noch grau im Messraster
    - Messwert-Anzeige: kleine Überschriften (Kicker, Eyebrows, Footer) laufen wie eine Digitalanzeige auf ihren Text
    - Hero-Titel Buchstabe für Buchstabe, Text-Hervorhebungen mit gelbem Marker, technische Daten als Messprotokoll
    - Raster im Hintergrund dunkler Abschnitte (Parallaxe), Tiefe zwischen Bild und Text, Fortschrittsring am »Nach oben«-Knopf
@@ -155,19 +154,6 @@
     if (!(window.CSS && CSS.supports('animation-timeline: scroll()'))) ring = $('.to-top__ring circle', toTop);
   }
 
-  /* ----------------------------------------------------- Scan der Bilder */
-  // Jede Bildmaske (.reveal-mask) bekommt pro Bild eine Messlinie. Die Linie steht wie die Zeile eines Scanners fest bei 86 %
-  // der Fensterhöhe, das Bild wandert beim Scrollen hindurch: darüber in Farbe, darunter noch grau im Messraster.
-  const scans = $$('.reveal-mask').map((m) => {
-    const frames = m.matches('.media-frame') ? [m] : $$('.media-frame', m);
-    const list = (frames.length ? frames : [m]).map((f) => {
-      const s = document.createElement('i'); s.className = 'scan'; s.setAttribute('aria-hidden', 'true');
-      f.append(s);
-      return s;
-    });
-    return { m, list, p: -1 };
-  });
-
   /* ----------------------------------------- Messraster in dunklen Abschnitten */
   // Bei Abschnitten, die sich als Karte aufklappen (scrollfx.js), liegt das Raster in der Karte und wird mit ihr beschnitten.
   // Das Muster wiederholt sich alle 192 px – es wandert nur innerhalb einer Periode, die Maske bleibt stehen.
@@ -189,22 +175,10 @@
   const frame = () => {
     queued = false;
     // erst messen …
-    const sR = scans.map((s) => s.m.getBoundingClientRect());
     const gR = grids.map((g) => g.sec.getBoundingClientRect());
     const dR = depthOn() ? depths.map((d) => d.el.getBoundingClientRect()) : null;
     const docH = root.scrollHeight;
     // … dann schreiben
-    scans.forEach((s, i) => {
-      const r = sR[i];
-      const p = clamp((vh * 0.86 - r.top) / Math.max(1, r.height));   // feste Scannerebene bei 86 % Höhe: das Bild wandert hindurch
-      if (Math.abs(p - s.p) < 0.002) return;
-      s.p = p;
-      s.list.forEach((el) => {
-        el.style.transform = `translate3d(0, ${(p * 100).toFixed(2)}%, 0)`;
-        el.classList.toggle('is-live', p > 0.004 && p < 0.996);
-        el.hidden = p >= 0.999;
-      });
-    });
     grids.forEach((g, i) => {
       const r = gR[i];
       if (r.bottom < -200 || r.top > vh + 200) return;
@@ -230,7 +204,7 @@
   addEventListener('scroll', request, { passive: true });
   addEventListener('resize', () => {
     vh = innerHeight; vw = innerWidth;
-    scans.forEach((s) => { s.p = -1; }); grids.forEach((g) => { g.y = NaN; });
+    grids.forEach((g) => { g.y = NaN; });
     depths.forEach((d) => { if (!depthOn()) { d.el.style.translate = ''; d.el.style.willChange = ''; d.layer = false; d.y = NaN; } });
     request();
   });
