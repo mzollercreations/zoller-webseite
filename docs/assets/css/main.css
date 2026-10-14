@@ -79,6 +79,7 @@ h3 { font-size: var(--fs-h3); line-height: 1.25; }
 /* Lange Wörter (»Datenschutzerklärung«, »Photovoltaikanlage«, »Qualitätssicherung/Abnahme«) ragen nie aus dem Bild:
    auf schmalen Bildschirmen mit Bindestrich trennen, notfalls irgendwo umbrechen. Produktnamen nicht – die passt main.js ein. */
 h1, h2, h3, h4, h5, h6 { overflow-wrap: break-word; }
+p, li, dd { overflow-wrap: break-word; }   /* z. B. JA »coraLogistic«、»coraVarion«、»loadBox« ohne Leerzeichen = ein einziges Wort */
 @media (max-width: 760px) {
   h1, h2, h3, h4, .large-text, .extra-large-text, .icon-item__value, .accordion summary { -webkit-hyphens: auto; hyphens: auto; overflow-wrap: anywhere; }
   .product-hero__name { -webkit-hyphens: manual; hyphens: manual; overflow-wrap: normal; }
@@ -2288,6 +2289,12 @@ table.proto.proto-in td:first-child { animation: proto-tick 1.3s var(--ease-out)
 .subnav__ar svg { width: 17px; height: 17px; }
 .product-card__ar { position: absolute; left: 1.1rem; top: .9rem; z-index: 3; display: inline-flex; align-items: center; gap: .3rem; padding: .25rem .55rem .25rem .4rem; border-radius: 999px; background: var(--yellow); color: var(--black); font-size: .6875rem; font-weight: 700; letter-spacing: .06em; line-height: 1; }
 .product-card__ar svg { width: 14px; height: 14px; }
+/* Abzeichen startet auf Touch-Geräten AR direkt (arview.js) – größere Tippfläche */
+@media (pointer: coarse) {
+  .product-card__ar { padding: .4rem .7rem .4rem .5rem; font-size: .75rem; }
+  .product-card__ar svg { width: 16px; height: 16px; }
+  .product-card__ar::after { content: ""; position: absolute; inset: -10px -12px; }
+}
 
 @media (max-width: 1023px) {
   .ar { grid-template-columns: 1fr; }

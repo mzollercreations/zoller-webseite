@@ -667,10 +667,24 @@ def ar_model_cfg(ctx, mid):
     return cfg
 
 
+def ar_launch(ctx, ids, page):
+    """data-ar-launch für Knöpfe außerhalb der 3D-Ansicht (Produktkopf, Produktkarten, Produktnavigation):
+    auf Handy/Tablet startet arview.js damit sofort AR, am Rechner geht es zur 3D-Ansicht `page` (…#ar)."""
+    ids = [i for i in (ids or []) if i in AR_MODELS]
+    if not ids:
+        return ""
+    ctx.has_ar = True
+    m = ar_model_cfg(ctx, ids[0])
+    cfg = {k: m[k] for k in ("id", "name", "full", "usdz", "glb")}
+    cfg.update(cta=_("Jetzt anfragen"), contact=ctx.url(L("/unternehmen/kontakt") or HOME), page=page)
+    return " data-ar-launch='" + esc(json.dumps(cfg, ensure_ascii=False, separators=(",", ":")), quote=False).replace("'", "&#39;") + "'"
+
+
 def ar_hero_btn(ctx):
     if not ar_ids(ctx.path):
         return ""
-    return f'<a class="btn btn--ghost btn--ar" href="#ar" data-ar-hero>{AR_ICON}<span>{esc(ar_t("ar"))}</span></a>'
+    return (f'<a class="btn btn--ghost btn--ar" href="#ar" data-ar-hero{ar_launch(ctx, ar_ids(ctx.path), "#ar")}>'
+            f'{AR_ICON}<span>{esc(ar_t("ar"))}</span></a>')
 
 
 def r_ar(ctx, b):
@@ -746,7 +760,8 @@ def r_subnav(ctx, b):
     ar = ""
     if root and L(root):
         href = "#ar" if de_of(ctx.path) == root else ctx.url(L(root)) + "#ar"
-        ar = f'<a class="subnav__ar" href="{esc(href, quote=True)}" title="{esc(ar_t("ar"), quote=True)}">{AR_ICON}<span>AR</span></a>'
+        ar = (f'<a class="subnav__ar" href="{esc(href, quote=True)}" title="{esc(ar_t("ar"), quote=True)}"{ar_launch(ctx, AR["pages"][root], href)}>'
+              f'{AR_ICON}<span>AR</span></a>')
     return (f'<nav class="subnav" aria-label="{title}"><div class="wrap subnav__inner">{t}'
             f'<ul class="subnav__list">{"".join(lis)}</ul>{ar}'
             f'<a class="btn" href="{esc(ctx.url(L("/unternehmen/kontakt")), quote=True)}">{_("Jetzt anfragen")}</a></div></nav>')
@@ -921,7 +936,8 @@ def product_card(ctx, it, i=0):
     text_html = rte(ctx, text) if text.startswith("<") else (f"<p>{esc(text)}</p>" if text else "")
     go = '<span class="product-card__go" aria-hidden="true"></span>' if href else ""
     if it.get("href") and ar_ids(it["href"]):
-        img += f'<span class="product-card__ar" title="{esc(ar_t("ar"), quote=True)}">{AR_ICON}AR</span>'
+        img += (f'<span class="product-card__ar" title="{esc(ar_t("ar"), quote=True)}"{ar_launch(ctx, ar_ids(it["href"]), href + "#ar")}>'
+                f'{AR_ICON}AR</span>')
     inner = f'<div class="product-card__text"><h3>{title}</h3>{text_html}</div><div class="product-card__img">{img}</div>{go}'
     if href:
         tgt = ' target="_blank" rel="noopener"' if href.startswith("http") and "zoller.info" not in href else ""

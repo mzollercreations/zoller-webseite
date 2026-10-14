@@ -1,17 +1,21 @@
 /* AR-/3D-Ansicht der Produktseiten (build.py r_ar, Texte content/ar.json, Modelle tools/ar_models.py).
    - iPhone/iPad: AR Quick Look direkt mit der USDZ-Datei (Banner »Jetzt anfragen« führt zum Kontakt)
-   - Android: im Abschnitt WebXR über model-viewer (sonst Scene Viewer), im Produktkopf Scene Viewer direkt
+   - Android: im Abschnitt WebXR über model-viewer (sonst Scene Viewer), sonst Scene Viewer direkt
    - Rechner: drehbares CAD-Modell mit Maßlinien, QR-Code fürs Handy
+   - AR-Knöpfe außerhalb des Abschnitts (Produktkopf, AR-Abzeichen der Produktkarten, AR in der Produktnavigation,
+     build.py ar_launch → data-ar-launch): auf Handy/Tablet sofort AR, ohne Umweg über die Produktseite
    model-viewer (assets/vendor, enthält three.js) wird erst geladen, wenn der Abschnitt in die Nähe kommt. */
 (function () {
   'use strict';
   const secs = [...document.querySelectorAll('[data-ar]')];
-  if (!secs.length) return;
+  if (!secs.length && !document.querySelector('[data-ar-launch]')) return;
 
   const ua = navigator.userAgent;
   const IOS = /iPad|iPhone|iPod/.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
   const probe = document.createElement('a');
-  const QL = IOS && !!(probe.relList && probe.relList.supports && probe.relList.supports('ar'));
+  // Safari meldet rel="ar"; Chrome, Firefox, Edge … auf iOS (WKWebView) nicht, öffnen Quick Look aber ebenso (wie model-viewer)
+  const QL = IOS && (!!(probe.relList && probe.relList.supports && probe.relList.supports('ar')) ||
+    /CriOS\/|EdgiOS\/|FxiOS\/|GSA\/|DuckDuckGo\//.test(ua));
   const ANDROID = /Android/i.test(ua);
   const MOBILE = QL || ANDROID;
   const FINE = matchMedia('(pointer: fine)').matches && !matchMedia('(pointer: coarse)').matches;
@@ -36,42 +40,45 @@
   }
 
   // ---------------------------------------------------------------- AR starten ohne model-viewer
-  function quickLookUrl(st, m) {
+  // m: Modell (usdz, glb, name, full), o: Banner und Ziele (cta, contact)
+  function quickLookUrl(m, o) {
     const u = new URL(m.usdz, location.href);
     const enc = encodeURIComponent;
-    u.hash = `callToAction=${enc(st.cfg.cta)}&checkoutTitle=${enc(m.name)}&checkoutSubtitle=${enc(m.full)}&allowsContentScaling=0`;
+    u.hash = `callToAction=${enc(o.cta)}&checkoutTitle=${enc(m.name)}&checkoutSubtitle=${enc(m.full)}&allowsContentScaling=0`;
     return u.href;
   }
 
-  function quickLook(st) {
+  let qlAnchor = null, qlContact = '';
+  function quickLook(m, o) {
     // <a rel="ar"> mit <img> als erstem Kind, Klick noch in der Nutzergeste (kein await davor)
-    let a = st.qlAnchor;
-    if (!a) {
-      a = st.qlAnchor = document.createElement('a');
-      a.rel = 'ar';
-      a.style.display = 'none';
-      a.appendChild(document.createElement('img'));
-      a.addEventListener('message', e => { if (e.data === '_apple_ar_quicklook_button_tapped') location.href = st.cfg.contact; });
-      document.body.appendChild(a);
+    if (!qlAnchor) {
+      qlAnchor = document.createElement('a');
+      qlAnchor.rel = 'ar';
+      qlAnchor.style.display = 'none';
+      qlAnchor.appendChild(document.createElement('img'));
+      qlAnchor.addEventListener('message', e => { if (e.data === '_apple_ar_quicklook_button_tapped' && qlContact) location.href = qlContact; });
+      document.body.appendChild(qlAnchor);
     }
-    a.href = quickLookUrl(st, st.model);
-    a.click();
+    qlContact = o.contact;
+    qlAnchor.href = quickLookUrl(m, o);
+    qlAnchor.click();
   }
 
-  function sceneViewer(st) {
-    const m = st.model;
+  // page: Produktseite für »zurück« aus Scene Viewer bzw. ohne ARCore (dann deren 3D-Ansicht)
+  function sceneViewer(m, page) {
     const glb = new URL(m.glb, location.href);
     glb.search = '';
-    const p = new URLSearchParams({ mode: 'ar_preferred', resizable: 'false', disable_occlusion: 'true', title: m.name, link: here() });
+    const back = new URL(page || here(), location.href).href.split('#')[0];
+    const p = new URLSearchParams({ mode: 'ar_preferred', resizable: 'false', disable_occlusion: 'true', title: m.name, link: back });
     location.href = `intent://arvr.google.com/scene-viewer/1.2?${p}&file=${encodeURIComponent(glb.href)}` +
       `#Intent;scheme=https;package=com.google.android.googlequicksearchbox;action=android.intent.action.VIEW;` +
-      `S.browser_fallback_url=${encodeURIComponent(here() + '#ar')};end;`;
+      `S.browser_fallback_url=${encodeURIComponent(back + '#ar')};end;`;
   }
 
   function startAR(st) {
-    if (QL) return quickLook(st);
+    if (QL) return quickLook(st.model, st.cfg);
     if (st.mv && st.mv.canActivateAR) return st.mv.activateAR();
-    if (ANDROID) return sceneViewer(st);
+    if (ANDROID) return sceneViewer(st.model);
   }
 
   // ---------------------------------------------------------------- Maßlinien
@@ -202,7 +209,7 @@
     if (st.mv) {
       // das bisherige Modell bleibt stehen, bis das neue geladen ist (model-viewer tauscht dann)
       st.mv.src = m.glb;
-      st.mv.iosSrc = quickLookUrl(st, m);
+      st.mv.iosSrc = quickLookUrl(m, st.cfg);
       st.mv.alt = m.label;
       st.dimKey = '';
       dimLabels(st);
@@ -247,7 +254,7 @@
     loadMV(cfg.mv, cfg.draco).then(() => {
       const mv = st.mv = document.createElement('model-viewer');
       const attrs = {
-        src: st.model.glb, 'ios-src': quickLookUrl(st, st.model), alt: st.model.label,
+        src: st.model.glb, 'ios-src': quickLookUrl(st.model, st.cfg), alt: st.model.label,
         ar: '', 'ar-modes': 'webxr scene-viewer quick-look', 'ar-scale': 'fixed', 'ar-placement': 'floor',
         'camera-controls': '', 'touch-action': 'pan-y', 'interaction-prompt': 'none',
         'environment-image': 'legacy', exposure: '1.1', 'tone-mapping': 'neutral',
@@ -373,13 +380,27 @@
   }, { rootMargin: '900px 0px' });
   secs.forEach(s => io.observe(s));
 
-  // Knopf im Produktkopf: auf Handy/Tablet sofort AR, am Rechner zur 3D-Ansicht scrollen (main.js, Anker #ar)
-  document.querySelectorAll('[data-ar-hero]').forEach(a => a.addEventListener('click', e => {
-    const st = ensure(secs[0]);
-    if (!st || !MOBILE) return;
-    e.preventDefault();
-    e.stopPropagation();
-    if (QL) quickLook(st);
-    else sceneViewer(st);
-  }));
+  // AR-Knöpfe außerhalb des Abschnitts: auf Handy/Tablet sofort AR; am Rechner zur 3D-Ansicht – Links folgen ihrem
+  // Ziel (#ar, main.js scrollt), das Abzeichen in der Produktkarte führt statt an den Seitenanfang direkt zu …#ar.
+  // Capture-Phase: vor dem Anker-Scrollen von main.js und vor dem Kartenlink.
+  document.addEventListener('click', e => {
+    const el = e.target.closest('[data-ar-launch]');
+    if (!el) return;
+    let o;
+    try { o = JSON.parse(el.dataset.arLaunch); } catch (err) { return; }
+    const page = new URL(o.page, location.href);
+    if (MOBILE) {
+      e.preventDefault();
+      e.stopPropagation();
+      // Knopf auf der Produktseite selbst: das dort gewählte Modell (z. B. »venturion 800«)
+      const st = page.href.split('#')[0] === here() && secs[0] ? ensure(secs[0]) : null;
+      const m = st ? st.model : o;
+      if (QL) quickLook(m, o);
+      else sceneViewer(m, page.href);
+    } else if (!el.matches('a[href]')) {
+      e.preventDefault();
+      e.stopPropagation();
+      location.href = page.href;
+    }
+  }, true);
 })();
