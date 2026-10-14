@@ -374,7 +374,7 @@
   // Zahl im Text finden, mit Tausender- und Dezimaltrennern im Format der Seite (de/fr 1.000 bzw. 1 000 und 0,4 · en/es-MX 1,000 und 0.4)
   const dotDecimal = /^(en|es-MX)/i.test(document.documentElement.lang || 'de-DE');
   const parseCount = (txt) => {
-    const m = txt.match(dotDecimal ? /(\d{1,3}(?:[,\s\u00a0\u202f]\d{3})+|\d+(?:[.,]\d+)?)/ : /(\d{1,3}(?:[.\s\u00a0\u202f]\d{3})+|\d+(?:[.,]\d+)?)/);
+    const m = txt.match(dotDecimal ? /(\d{1,3}(?:[,\s\u00a0\u202f]\d{3})+|\d+(?:[.,]\d+)?)/ : /(\d{1,3}(?:[.\s\u00a0\u202f]\d{3})+|\d{1,3}(?:,\d{3}){2,}|\d+(?:[.,]\d+)?)/);
     if (!m) return null;
     return { raw: m[1], before: txt.slice(0, m.index), after: txt.slice(m.index + m[1].length) };
   };
@@ -405,7 +405,10 @@
     requestAnimationFrame(() => requestAnimationFrame(() => cols.forEach(([d, n], i) => {
       d.lastChild.style.transform = `translate3d(0, ${-(n + 10 * (1 + Math.min(1, i))) * h}px, 0)`;
     })));
-    setTimeout(() => { el.textContent = c.before + c.raw + c.after; }, 2500 + cols.length * 90);
+    setTimeout(() => {
+      el.textContent = c.before + c.raw + c.after;
+      if (el.dataset.eur && window.ZCurrency) window.ZCurrency.apply(el.parentNode);   // Währung inzwischen umgestellt?
+    }, 2500 + cols.length * 90);
   };
   if ('IntersectionObserver' in window) {
     const io = new IntersectionObserver((entries) => entries.forEach(en => { if (en.isIntersecting) { runCount(en.target); io.unobserve(en.target); } }), { threshold: .6 });
@@ -643,30 +646,40 @@
   });
 
   /* ------------------------------------------------- Wirtschaftlichkeitsrechner */
+  // Währung = Währung der Seite (Standort des Besuchers oder Währungs-Knopf, assets/js/currency.js). Die Vorgaben
+  // (75 €/h, 20.000 € Investition) werden umgerechnet und aufgerundet, eigene Eingaben beim Wechsel umgerechnet.
   $$('[data-economy]').forEach(root => {
-    const subMoney = '{0} CNC-Maschinen x {1} Werkzeugwechsel x {2} Min x {3} Arbeitstage/Jahr x {4} Schichten/Tag x {5} {6} Std.-Satz';
-    const subSavings = '{0} CNC-Maschinen x {1} Arbeitstage/Jahr x {2} Schichten/Tag x {3} Maschinenstunden/Tag x {4} {5} Std.-Satz x {6} %';
-    const subRoi = '{0} {1} Investitionskosten / {2} {3} Einsparung pro Jahr.';
+    const Z = window.ZCurrency;
+    const subMoney = T('{0} CNC-Maschinen × {1} Werkzeugwechsel × {2} Min. × {3} Arbeitstage/Jahr × {4} Schichten/Tag × {5}/Std.');
+    const subSavings = T('{0} CNC-Maschinen × {1} Arbeitstage/Jahr × {2} Schichten/Tag × {3} Maschinenstunden/Tag × {4}/Std. × {5} %');
+    const subRoi = T('{0} Investition / {1} Einsparung pro Jahr');
     const format = (t, ...a) => a.reduce((s, v, i) => s.replace('{' + i + '}', v), t);
+    const lang = document.documentElement.lang || 'de-DE';
     const cur = root.querySelector('#calculator_currency');
     const fields = $$('select[id]:not(#calculator_currency), input[type="text"].number-only', root);
-    let sym = '', iso = '', pos = 'after';
-    const updateCurrency = () => {
-      if (!cur) return;
-      const o = cur.options[cur.selectedIndex];
-      sym = o.getAttribute('data-symbol') || ''; iso = o.getAttribute('data-iso-currency') || ''; pos = o.getAttribute('data-position') || 'after';
-      $$('span.currency', root).forEach(s => { s.innerHTML = pos === 'before' ? sym + '&nbsp;' : '&nbsp;' + sym; });
-      ['.calc_result3', '.calc_result5', '.calc_result_total'].forEach(sel => {
-        const r = root.querySelector(sel); if (!r) return;
-        const c = r.parentElement.querySelector('span.currency'); if (!c) return;
-        pos === 'before' ? r.parentElement.insertBefore(c, r) : r.parentElement.appendChild(c);
+    const moneyIn = ['#calculator_machine_costs', '#calculator_invest_costs'].map(s => root.querySelector(s)).filter(Boolean);
+    let code = Z ? Z.get() : 'EUR';
+    const money = (v) => Z ? Z.format(v, code) : Math.round(v).toLocaleString(lang) + ' €';
+    const fmtN = (n, dec = false) => n.toLocaleString(lang, { maximumFractionDigits: dec ? 2 : 0, minimumFractionDigits: dec ? 2 : 0 });
+    moneyIn.forEach(i => { i.dataset.eurDefault = i.value; i.addEventListener('input', () => { i.dataset.touched = '1'; }); });
+    const setCode = (next) => {
+      if (Z) moneyIn.forEach(i => {
+        const v = parseFloat(i.value);
+        if (!i.dataset.touched) i.value = Z.amount(+i.dataset.eurDefault, next);
+        else if (!isNaN(v) && next !== code) i.value = Math.round(v / Z.rates[code] * Z.rates[next]);
       });
+      code = next;
+      if (cur) cur.value = code;
+      // Beschriftungen »Maschinenstundensatz (€)« bekommen das Zeichen, die Ergebnisse zeigen den ganzen Betrag
+      $$('span.currency', root).forEach(s => { s.textContent = s.closest('label') ? (Z ? Z.symbol(code) : '€') : ''; });
     };
-    const fmtN = (n, dec = false) => {
-      const locale = (iso === '€' || iso === 'EUR') ? 'de-DE' : 'en-US';
-      return (dec ? n : Math.round(n)).toLocaleString(locale, { maximumFractionDigits: dec ? 2 : 0, minimumFractionDigits: dec ? 2 : 0 });
-    };
-    const fmtC = (v) => pos === 'before' ? sym + fmtN(v) : fmtN(v) + ' ' + sym;
+    if (cur && Z) {
+      const main = Z.main.filter(c => Z.rates[c]);
+      const rest = Z.list().filter(c => !main.includes(c)).sort((a, b) => Z.name(a).localeCompare(Z.name(b), lang));
+      cur.innerHTML = [...main, ...rest].map(c => `<option value="${c}">${c} – ${Z.name(c)}</option>`).join('');
+      cur.addEventListener('change', () => Z.set(cur.value));   // gilt für die ganze Seite (Knopf im Kopf, Beträge im Text)
+      window.addEventListener(Z.event, () => { setCode(Z.get()); calc(false); });
+    }
     const calc = (warn) => {
       const d = {};
       for (const f of fields) {
@@ -682,15 +695,14 @@
       const r3 = r2 * d.machine_costs;
       const r5 = (d.days_work_year * d.shifts * d.machine_costs * d.machine_count * d.hour_day) * (d.productivity / 100);
       const r4 = d.invest_costs / r3;
-      const set = (sel, v) => { const el = root.querySelector(sel); if (el) el.innerHTML = v; };
-      set('.calc_result3', fmtN(r3)); set('.calc_result5', fmtN(r5)); set('.calc_result_total', fmtN(r3 + r5)); set('.calc_result4', fmtN(r4, true));
-      set('.sub_money_lost', format(subMoney, d.machine_count, d.tool_changes, d.saving_toolchange_minutes, d.days_work_year, d.shifts, d.machine_costs, sym));
-      set('.sub_savings', format(subSavings, d.machine_count, d.days_work_year, d.shifts, d.hour_day, d.machine_costs, sym, d.productivity));
-      set('.sub_roi', format(subRoi, fmtC(d.invest_costs), '', fmtC(r3), ''));
+      const set = (sel, v) => { const el = root.querySelector(sel); if (el) el.textContent = v; };
+      set('.calc_result3', money(r3)); set('.calc_result5', money(r5)); set('.calc_result_total', money(r3 + r5)); set('.calc_result4', fmtN(r4, true));
+      set('.sub_money_lost', format(subMoney, d.machine_count, d.tool_changes, d.saving_toolchange_minutes, d.days_work_year, d.shifts, money(d.machine_costs)));
+      set('.sub_savings', format(subSavings, d.machine_count, d.days_work_year, d.shifts, d.hour_day, money(d.machine_costs), d.productivity));
+      set('.sub_roi', format(subRoi, money(d.invest_costs), money(r3)));
     };
-    updateCurrency(); calc(false);
+    setCode(code); calc(false);
     root.querySelector('#calc-submit')?.addEventListener('click', (e) => { e.preventDefault(); calc(true); });
-    cur?.addEventListener('change', () => { updateCurrency(); calc(false); });
     fields.forEach(f => f.addEventListener('change', () => calc(false)));
     $$('input.number-only', root).forEach(i => i.addEventListener('input', () => { i.value = i.value.replace(/[^0-9.]/g, ''); }));
   });

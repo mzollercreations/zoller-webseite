@@ -186,7 +186,7 @@ def _asset_version():
     h = hashlib.md5()
     for rel in ("assets/css/main.css", "assets/js/main.js", "assets/js/scrollfx.js", "assets/js/homefilm.js", "assets/js/productstage.js",
                 "assets/js/worldflight.js", "assets/js/world.js", "assets/js/eventagenda.js", "assets/js/zoomfx.js",
-                "assets/js/globe.js", "assets/js/globe-land.js", "assets/js/traycalc.js", "assets/js/arview.js",
+                "assets/js/globe.js", "assets/js/globe-land.js", "assets/js/traycalc.js", "assets/js/arview.js", "assets/js/currency.js",
                 "content/ar_models.json"):
         if not os.path.exists(os.path.join(ROOT, rel)):
             continue
@@ -2293,6 +2293,7 @@ def header_html(ctx):
   <div class="site-header__tools">
     <div class="site-header__meta">{meta}<a class="meta-link myzoller-link" href="https://myzoller.com/" target="_blank" rel="noopener" aria-label="MYZOLLER"><img src="{ctx.prefix}assets/img/myzoller.svg" alt="MYZOLLER" width="90" height="15"></a></div>
     {lang_toggle(ctx)}<button class="icon-btn" type="button" data-search-open aria-label="{_("Suche öffnen")}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg></button>
+    {'<button class="cur-btn" type="button" data-currency-btn><span data-currency-code></span></button>' if de_of(ctx.path) in MONEY_PAGES else ""}
     <button class="icon-btn lang-btn" type="button" data-lang-open aria-label="{_("Land und Sprache wählen")}: {esc(LOC["name"])}, {esc(LOC["label"])}" title="{_("Land und Sprache wählen")}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.8 3 2.8 15 0 18M12 3c-2.8 3-2.8 15 0 18"/></svg>{FLAGS.get(SITE["flag"], "")}</button>
     <a class="showroom-link" href="{SHOWROOM_URL}" title="{_("Alle Produkte in der 3D-Produktumgebung erleben")}">{CUBE_ICON}<span class="showroom-link__full">{_("3D-Showroom")}</span><span class="showroom-link__short">3D</span></a>
     <a class="planer-link" href="{PLANER_URL}" title="{_("Ihren Werkzeugraum planen – Fertigung beschreiben, 3D-Werkzeugraum und Gewinn sehen")}">{PLAN_ICON}<span class="planer-link__full">{_("Werkzeugraum-Planer")}</span><span class="planer-link__short">{_("Planer")}</span></a>
@@ -2328,7 +2329,8 @@ def mobile_nav(ctx):
                 f'<small>{_("Fertigung beschreiben, Werkzeugraum in 3D planen, Gewinn sehen")}</small></span></a>')
     toggle = lang_toggle(ctx, "mobile-nav__lang")
     return (f'<nav class="mobile-nav" aria-label="{_("Mobile Navigation")}" data-mobile-nav>{showroom}{"".join(top)}'
-            f'<div class="mobile-nav__meta">{meta}<a href="https://myzoller.com/" target="_blank" rel="noopener">MYZOLLER</a>{toggle}</div></nav>')
+            f'<div class="mobile-nav__meta">{meta}<a href="https://myzoller.com/" target="_blank" rel="noopener">MYZOLLER</a>{toggle}'
+            f'<button class="mobile-nav__cur" type="button" data-currency-btn><span data-currency-title></span> <b data-currency-code></b></button></div></nav>')
 
 
 def footer_html(ctx):
@@ -2715,6 +2717,7 @@ try{{var za=JSON.parse(sessionStorage.getItem('zoller-arrive')||'null');sessionS
     scripts = f'''<script src="{ctx.prefix}assets/vendor/gsap.min.js" defer></script>
 <script src="{ctx.prefix}assets/vendor/ScrollTrigger.min.js" defer></script>
 <script src="{ctx.prefix}assets/vendor/lenis.min.js" defer></script>
+<script src="{ctx.prefix}assets/js/currency.js?v={ASSET_VER}" defer></script>
 <script src="{ctx.prefix}assets/js/main.js?v={ASSET_VER}" defer></script>
 <script src="{ctx.prefix}assets/js/scrollfx.js?v={ASSET_VER}" defer></script>
 <script src="{ctx.prefix}assets/js/motion.js?v={ASSET_VER}" defer></script>'''
@@ -2758,7 +2761,66 @@ try{{var za=JSON.parse(sessionStorage.getItem('zoller-arrive')||'null');sessionS
 </html>'''
     # Doppelte Guillemets aus einigen Sprachfassungen von zoller.info (»»venturion««) bereinigen
     doc = doc.replace("»»", "»").replace("««", "«")
+    if not is_home and de_of(page["path"]) in MONEY_PAGES:
+        doc = money_wrap(doc)
     return strip_zoller_links(doc, page["path"])
+
+
+# ============================================================ Währung ====
+# ZOLLER-Zahlen (Einsparung, Stundensatz der Beispielrechnung) zeigt assets/js/currency.js in der Währung des Landes,
+# in dem die Seite aufgerufen wird – umgerechnet und aufgerundet. Nur auf diesen Seiten: Anwenderberichte, Rechtstexte
+# und Events nennen echte Beträge in ihrer Originalwährung (»1 Mio. USD Umsatzplus«, »5 Mio. Euro Deckungssumme«).
+MONEY_PAGES = ("/fraesen", "/solutions/einstellen-messen", "/wirtschaftlichkeitsrechner")
+# Wert im Text -> Betrag in Euro. Alle stammen aus der deutschen Rechnung 20 Wechsel × 3 Min. × 200 Tage = 200 h × 75 €/h.
+# zoller.info hat in manchen Sprachfassungen falsch übersetzt (EN/IN/UK/RU »$15,000«, »долларов США«) oder umgerechnet
+# (BR »R$162.000,00«, »R$32.400,00« für 15.000 €).
+MONEY_EUR = {15000: (15000, 75), 162000: (15000, 75), 32400: (15000, 75), 75: (75, None)}
+_MONEY_NUM = r"\d{1,3}(?:[.,\u00a0\u202f ]\d{3})+(?:,\d{2})?|\d+"
+_MONEY_WORD = (r"(?:€|EUR\b|[Ee]uros?\b|[Ee]ura?\b|euró\b|evrov\b|欧元|ユーロ|유로|евро|долларов(?:\s+США)?|ABD\s+doları\b|dollars?\b|USD\b|\$)")
+# Gebeugte Währungswörter (»eurót«, »dolarına«) verlören ihre Endung, wenn der Betrag als »17 000 USD« erscheint:
+# diese Sätze so umstellen, dass der Betrag ungebeugt steht (vor money_wrap, im fertigen Text der Seite)
+MONEY_REWORD = {
+    "legalább 15 000 eurót takarít meg": "legalább 15 000 euró összeget takarít meg",                 # hu
+    "yılda 15.000 ABD dolarına ulaşabilir": "yılda 15.000 ABD doları seviyesine ulaşabilir",          # tr
+}
+MONEY_RE = re.compile(rf"(?:R\$|US\$|\$|€)\s?(?:{_MONEY_NUM})(?![\d]|[.,]\d)|(?<!\d)(?<!\d[.,])(?:{_MONEY_NUM})\s?{_MONEY_WORD}")
+
+
+def money_wrap(doc):
+    """Beträge im Hauptinhalt in <span data-eur> fassen (nur Text, nicht in Formularen/Skripten/Attributen);
+    der Zählerwert der Count-Banner bekommt data-eur direkt, weil das Zählwerk seinen Inhalt ersetzt."""
+    a, b = doc.find("<main"), doc.find("</main>")
+    if a < 0 or b < 0:
+        return doc
+    for old, new in MONEY_REWORD.items():
+        doc = doc.replace(old, new)
+    a, b = doc.find("<main"), doc.find("</main>")
+    out, skip = [], 0
+    for part in re.split(r"(<[^>]+>)", doc[a:b]):
+        if part.startswith("<"):
+            t = re.match(r"</?(\w+)", part)
+            if t and t.group(1).lower() in ("script", "style", "select", "textarea", "button"):
+                skip += -1 if part.startswith("</") else (0 if part.endswith("/>") else 1)
+            out.append(part)
+            continue
+        if skip > 0 or not part.strip():
+            out.append(part)
+            continue
+
+        def wrap(m):
+            v = int(re.sub(r"[^\d]", "", re.sub(r",\d{2}$", "", re.search(_MONEY_NUM, m.group(0)).group(0))) or 0)
+            if v not in MONEY_EUR:
+                return m.group(0)
+            eur, base = MONEY_EUR[v]
+            return (f'<span class="money" data-eur="{eur}"' + (f' data-eur-base="{base}"' if base else "") + f'>{m.group(0)}</span>')
+        out.append(MONEY_RE.sub(wrap, part))
+    main = "".join(out)
+    main = re.sub(r'(data-count)>\s*<span class="money"((?: data-eur(?:-base)?="[^"]*")+)>([^<]*)</span>\s*<', r"\1\2>\3<", main)
+    # Zählerwert mit Währungsknopf darunter (»USD ⌄«), damit man die Währung gleich dort umstellen kann
+    main = re.sub(r'(<div class="count-banner__value" data-count data-eur[^>]*>[^<]*</div>)',
+                  r'<div class="count-banner__side">\1<button class="cur-chip" type="button" data-currency-btn><span data-currency-code></span>'
+                  r'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></button></div>', main)
+    return doc[:a] + main + doc[b:]
 
 
 # ============================================================ Search ====
