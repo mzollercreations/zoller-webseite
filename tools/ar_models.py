@@ -41,7 +41,16 @@ DEVICES = {
     "redomatic600":   ("XXXXXXX_752865_ZOLLER »redomatic 600«.glb", "screen_pilot4_measure.png", 80000, False),
     "powershrink400": ("XXXXXXX_752398_ZOLLER »powerShrink 400«.glb", "screen_pilot4_contour.png", 52000, False),
     "toolbalancer":   ("XXXXXXX_720749_ZOLLER »toolBalancer«.glb", "screen_pilot4_contour.png", 70000, False),
+    "toolcart":       ("XXXXXXX_740892_ZOLLER »toolCart 750«.glb", None, 100000, False),
 }
+# Drehung um die Hochachse (Grad), damit die Schauseite nach +Z zeigt: der »toolCart« steht im CAD mit der Stirnwand
+# (ZOLLER-Logo) vorn – gezeigt wird er wie auf den Produktfotos von der Längsseite mit Schriftzug, Griff rechts
+ROT_Y = {"toolcart": -90}
+# Materialklasse je Gerät umdeuten: »toolCart«-Gestell und Werkzeugwechselrahmen sind im CAD »verzinkt«, auf den
+# Fotos hell gebürstet (als Vollmetall wirkt es in model-viewer dunkel, der Schriftzug »toolCart 750« verschwindet)
+CLASS_MAP = {"toolcart": {"zinc": "brushed"}}
+# Materialgruppen ohne Vereinfachung (Budget gilt für den Rest): Lochraster der Seitenwände und Rahmen fiele sonst weg
+KEEP = {"toolcart": {"brushed"}}
 # zidCode: Display teilt sich das Material mit dem Gehäuse -> nur große, nach vorn oben zeigende Flächen sind Bildschirm
 SCREEN_FACES = {"zidcode": dict(mat="plastik-schwarz", normal=(0, .41, .91), ymin=.8)}
 # »keeper«: der Monitor ist ein Material ohne Namen in reinem Weiß (2 Dreiecke) -> Bildschirm
@@ -82,6 +91,7 @@ MAT = dict(
     blackoxide=("#2a2826", .35, .9, 0), brass=("#c9a14a", .25, 1, 0), glossblack=("#0d0e10", .16, 0, 1),
     zinc=("#9da6ab", .33, 1, 0), red=("#c8140f", .3, 0, .5), chrome=("#9a9e9c", .12, .95, 0),
     teal=("#1fa58a", .4, 0, 0), blue=("#1a3fae", .35, 0, .4), led=("#3ccf6a", .3, 0, 0),
+    brushed=("#c3c6c7", .4, .6, 0),
 )
 LED_GLOW = (.12, .9, .32)
 
@@ -285,6 +295,10 @@ def collect(dev):
     Liefert (prims, Größe B×H×T in m, CAD-Dreiecke)."""
     file, _, budget, lo = DEVICES[dev]
     parts = read_parts(os.path.join(CAD, "original", file))
+    if dev in ROT_Y:
+        a = np.radians(ROT_Y[dev])
+        R = np.array([[np.cos(a), 0, np.sin(a)], [0, 1, 0], [-np.sin(a), 0, np.cos(a)]])
+        parts = [(mat, pts @ R.T, fc) for mat, pts, fc in parts]
     cad_tris = sum(len(f) for _, _, f in parts)
     allp = np.vstack([p for _, p, _ in parts]) * .001
     if dev in INTERIOR_DROP:
@@ -299,6 +313,7 @@ def collect(dev):
     for mat, pts, fc in parts:
         p = pts * .001 + off
         c = classify(mat)
+        c = CLASS_MAP.get(dev, {}).get(c, c)
         if dev in SCREEN_WHITE and mat is not None and mat.name is None and mat.pbrMetallicRoughness \
                 and min(mat.pbrMetallicRoughness.baseColorFactor[:3]) > .99:
             c = "screen"
@@ -315,7 +330,10 @@ def collect(dev):
             screens.append((p, fc))
             continue
         groups.setdefault(c, []).append((p, fc))
-    tgt = budgets({c: sum(len(f) for _, f in lst) for c, lst in groups.items()}, budget)
+    sizes = {c: sum(len(f) for _, f in lst) for c, lst in groups.items()}
+    keep = {c: n for c, n in sizes.items() if c in KEEP.get(dev, ())}
+    tgt = budgets({c: n for c, n in sizes.items() if c not in keep}, budget - sum(keep.values()))
+    tgt.update(keep)
     prims = []
     for c, lst in sorted(groups.items(), key=lambda kv: -sum(len(f) for _, f in kv[1])):
         offs = np.cumsum([0] + [len(p) for p, _ in lst])

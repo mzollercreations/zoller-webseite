@@ -11,7 +11,8 @@
   "zidcode": "»zidCode 4.0«",
   "redomatic600": "»redomatic 600«",
   "powershrink400": "»powerShrink 400«",
-  "toolbalancer": "»toolBalancer 550«"
+  "toolbalancer": "»toolBalancer 550«",
+  "toolcart": "»toolCart 750«"
  },
  "chips": {
   "venturion": "450",
@@ -28,6 +29,7 @@
   "/produkte/toolmanagement/werkzeuglager/keeper": ["keeper"],
   "/produkte/toolmanagement/werkzeuglager/toolorganizer": ["toolorganizer"],
   "/produkte/toolmanagement/smart-cabinets/toolstation": ["toolstation"],
+  "/produkte/toolmanagement/smart-cabinets/toolcart": ["toolcart"],
   "/produkte/toolmanagement/zidcode": ["zidcode"],
   "/produkte/toolmanagement/zidcode/zidcode-40": ["zidcode"],
   "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/einstellen-messen/venturion-450-pilot-40": ["venturion"],
@@ -35,9 +37,10 @@
   "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/schrumpftechnik/powershrink-400": ["powershrink400"],
   "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/datentransfer/zidcode-40": ["zidcode"],
   "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/wuchttechnik/toolbalancer-550": ["toolbalancer"],
-  "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/smart-cabinets/toolstation": ["toolstation"]
+  "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/smart-cabinets/toolstation": ["toolstation"],
+  "/vorfuehr-und-gebrauchtgeraete/angebotsuebersicht/smart-cabinets/toolcart-750": ["toolcart"]
  },
- "family": ["/produkte/schrumpftechnik/powershrink"],
+ "family": ["/produkte/schrumpftechnik/powershrink", "/produkte/toolmanagement/smart-cabinets/toolcart"],
  "texts": {
   "de": {
    "eyebrow": "Augmented Reality · 3D",
