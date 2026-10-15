@@ -11,6 +11,13 @@
     const ifaces = step2.querySelector('.toolfinder__ifaces');
     const out = (k) => root.querySelector(`[data-out="${k}"]`);
     const picked = (name) => form.querySelector(`input[name$="-${name}"]:checked`);
+    // Kategorienamen werden nicht getrennt (»Werkzeugaufnah-men«): passt das längste Wort nicht in die Box, wird die Schrift kleiner
+    const fit = () => {
+      const h = out('cat');
+      h.style.fontSize = '';
+      const over = h.scrollWidth / Math.max(1, h.clientWidth);
+      if (over > 1.005) h.style.fontSize = `${(parseFloat(getComputedStyle(h).fontSize) / over * 0.97).toFixed(1)}px`;
+    };
 
     function update() {
       const cat = picked('cat');
@@ -26,9 +33,12 @@
       out('link').href = url.toString();
       out('cat').textContent = cat && cat.value ? cat.nextElementSibling.textContent : cfg.all_cats;
       out('iface').textContent = !needsIface ? cfg.s2_none : iface && iface.value ? iface.value : cfg.all_ifaces;
+      fit();
     }
     form.addEventListener('change', update);
     form.addEventListener('submit', (e) => e.preventDefault());
     update();
+    addEventListener('resize', fit);
+    document.fonts?.ready.then(fit);
   });
 })();

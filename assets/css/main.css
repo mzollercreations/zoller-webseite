@@ -2140,9 +2140,11 @@ table.proto.proto-in td:first-child { animation: proto-tick 1.3s var(--ease-out)
 /* ---------- »highTower«: Tablar-Rechner (assets/js/traycalc.js) ---------- */
 .traycalc { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: clamp(1.25rem, .5rem + 2vw, 2.5rem); align-items: start; }
 .traycalc__form { display: grid; gap: 1rem; }
-.traycalc__group { margin: 0; padding: clamp(1.25rem, 1rem + 1vw, 1.75rem); border: 0; border-radius: var(--radius); background: var(--white); display: grid; gap: 1.35rem; min-width: 0; }
-.traycalc__group legend { float: left; width: 100%; padding: 0; margin-bottom: .1rem; font-size: var(--fs-h4); font-weight: 500; line-height: 1.3; }
-.traycalc__group legend + * { clear: both; }
+/* Fieldset als Block, nicht als Grid: Safari/WebKit ignoriert sonst das float der Legende und setzt sie auf die Kartenkante */
+.traycalc__group { margin: 0; padding: clamp(1.25rem, 1rem + 1vw, 1.75rem); border: 0; border-radius: var(--radius); background: var(--white); display: block; min-width: 0; }
+.traycalc__group legend { float: left; width: 100%; padding: 0; margin-bottom: 1.45rem; font-size: var(--fs-h4); font-weight: 500; line-height: 1.3; }
+.traycalc__group legend ~ * { clear: both; }
+.traycalc__group legend ~ * + * { margin-top: 1.35rem; }
 .traycalc__field { display: grid; gap: .55rem; min-width: 0; }
 .traycalc__label { font-size: .9375rem; font-weight: 500; line-height: 1.3; }
 .traycalc__row { display: flex; align-items: center; justify-content: space-between; gap: .75rem; }
@@ -2231,13 +2233,15 @@ table.proto.proto-in td:first-child { animation: proto-tick 1.3s var(--ease-out)
 /* ---------- Tooling-Shop: Werkzeugaufnahme finden (assets/js/toolfinder.js) und Bestellschritte (build.py r_steps) ---------- */
 .toolfinder { display: grid; grid-template-columns: minmax(0, 8fr) minmax(0, 4fr); gap: clamp(1.25rem, .5rem + 2vw, 2.5rem); align-items: start; }
 .toolfinder__form { display: grid; gap: 1rem; min-width: 0; }
-.toolfinder__group { margin: 0; padding: clamp(1.25rem, 1rem + 1vw, 1.75rem); border: 0; border-radius: var(--radius); background: var(--white); display: grid; gap: 1.1rem; min-width: 0; transition: opacity .3s; }
-.toolfinder__group legend { float: left; width: 100%; padding: 0; display: flex; align-items: center; gap: .65rem; font-size: var(--fs-h4); font-weight: 500; line-height: 1.3; }
-.toolfinder__group legend + * { clear: both; }
+/* Fieldset als Block wie beim Tablar-Rechner (WebKit: Legende sonst auf der Kartenkante) */
+.toolfinder__group { margin: 0; padding: clamp(1.25rem, 1rem + 1vw, 1.75rem); border: 0; border-radius: var(--radius); background: var(--white); display: block; min-width: 0; transition: opacity .3s; }
+.toolfinder__group legend { float: left; width: 100%; padding: 0; margin-bottom: 1.1rem; display: flex; align-items: center; gap: .65rem; font-size: var(--fs-h4); font-weight: 500; line-height: 1.3; }
+.toolfinder__group legend ~ * { clear: both; }
 .toolfinder__no { display: grid; place-items: center; flex: none; width: 1.9em; height: 1.9em; border-radius: 50%; background: var(--black); color: var(--yellow); font-size: .8125rem; font-weight: 700; }
 .toolfinder__group.is-off .toolfinder__no { background: var(--gray-100); color: var(--gray-600); }
 .toolfinder__chips { display: flex; flex-wrap: wrap; gap: .45rem; min-width: 0; }
 .toolfinder__ifaces { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 15rem), 1fr)); gap: .9rem 1.25rem; align-items: start; }
+.toolfinder__ifaces[hidden] { display: none; }
 .toolfinder__ifaces > .tf-chip { grid-column: 1 / -1; justify-self: start; }
 .toolfinder__fam { display: grid; grid-template-columns: 3.6rem minmax(0, 1fr); gap: .6rem; align-items: center; min-width: 0; }
 .toolfinder__famname { font-size: .8125rem; font-weight: 700; letter-spacing: .04em; color: var(--gray-600); white-space: nowrap; }
@@ -2249,7 +2253,7 @@ table.proto.proto-in td:first-child { animation: proto-tick 1.3s var(--ease-out)
 .tf-chip input:checked + span { background: var(--yellow); box-shadow: inset 0 0 0 1.5px var(--yellow); }
 .tf-chip input:focus-visible + span { outline: 2px solid var(--black); outline-offset: 2px; }
 .toolfinder__out { position: sticky; top: calc(var(--header-h) + 1rem); display: grid; gap: .6rem; align-content: start; padding: clamp(1.25rem, 1rem + 1.2vw, 2rem); border-radius: var(--radius); background: var(--black); color: var(--white); min-width: 0; }
-.toolfinder__sum { font-size: clamp(1.5rem, 1.1rem + 1.2vw, 2.25rem); font-weight: 500; line-height: 1.1; letter-spacing: -0.02em; color: var(--yellow); overflow-wrap: break-word; hyphens: auto; }
+.toolfinder__sum { font-size: clamp(1.5rem, 1.1rem + 1.2vw, 2.25rem); font-weight: 500; line-height: 1.1; letter-spacing: -0.02em; color: var(--yellow); -webkit-hyphens: manual; hyphens: manual; overflow-wrap: normal; min-width: 0; }   /* nicht trennen – toolfinder.js verkleinert die Schrift */
 .toolfinder__sub { font-size: 1rem; color: var(--gray-300); font-variant-numeric: tabular-nums; }
 .toolfinder__out .btn { justify-self: start; margin: .6rem 0 .2rem; }
 .toolfinder__note { margin: 0; font-size: .8125rem; line-height: 1.45; color: var(--gray-400); }
