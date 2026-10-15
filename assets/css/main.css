@@ -2228,6 +2228,50 @@ table.proto.proto-in td:first-child { animation: proto-tick 1.3s var(--ease-out)
 }
 @media (prefers-reduced-motion: reduce) { .traycalc__kpi.is-bump b { animation: none; } }
 
+/* ---------- Tooling-Shop: Werkzeugaufnahme finden (assets/js/toolfinder.js) und Bestellschritte (build.py r_steps) ---------- */
+.toolfinder { display: grid; grid-template-columns: minmax(0, 8fr) minmax(0, 4fr); gap: clamp(1.25rem, .5rem + 2vw, 2.5rem); align-items: start; }
+.toolfinder__form { display: grid; gap: 1rem; min-width: 0; }
+.toolfinder__group { margin: 0; padding: clamp(1.25rem, 1rem + 1vw, 1.75rem); border: 0; border-radius: var(--radius); background: var(--white); display: grid; gap: 1.1rem; min-width: 0; transition: opacity .3s; }
+.toolfinder__group legend { float: left; width: 100%; padding: 0; display: flex; align-items: center; gap: .65rem; font-size: var(--fs-h4); font-weight: 500; line-height: 1.3; }
+.toolfinder__group legend + * { clear: both; }
+.toolfinder__no { display: grid; place-items: center; flex: none; width: 1.9em; height: 1.9em; border-radius: 50%; background: var(--black); color: var(--yellow); font-size: .8125rem; font-weight: 700; }
+.toolfinder__group.is-off .toolfinder__no { background: var(--gray-100); color: var(--gray-600); }
+.toolfinder__chips { display: flex; flex-wrap: wrap; gap: .45rem; min-width: 0; }
+.toolfinder__ifaces { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 15rem), 1fr)); gap: .9rem 1.25rem; align-items: start; }
+.toolfinder__ifaces > .tf-chip { grid-column: 1 / -1; justify-self: start; }
+.toolfinder__fam { display: grid; grid-template-columns: 3.6rem minmax(0, 1fr); gap: .6rem; align-items: center; min-width: 0; }
+.toolfinder__famname { font-size: .8125rem; font-weight: 700; letter-spacing: .04em; color: var(--gray-600); white-space: nowrap; }
+.toolfinder__none { margin: 0; color: var(--gray-600); }
+.tf-chip { position: relative; cursor: pointer; min-width: 0; }
+.tf-chip input { position: absolute; opacity: 0; inset: 0; margin: 0; cursor: pointer; }
+.tf-chip span { display: block; padding: .5rem .9rem; border-radius: 999px; font-size: .9375rem; font-weight: 500; line-height: 1.25; font-variant-numeric: tabular-nums; box-shadow: inset 0 0 0 1.5px var(--gray-300); transition: background .2s, box-shadow .2s; }
+.tf-chip:hover span { box-shadow: inset 0 0 0 1.5px var(--black); }
+.tf-chip input:checked + span { background: var(--yellow); box-shadow: inset 0 0 0 1.5px var(--yellow); }
+.tf-chip input:focus-visible + span { outline: 2px solid var(--black); outline-offset: 2px; }
+.toolfinder__out { position: sticky; top: calc(var(--header-h) + 1rem); display: grid; gap: .6rem; align-content: start; padding: clamp(1.25rem, 1rem + 1.2vw, 2rem); border-radius: var(--radius); background: var(--black); color: var(--white); min-width: 0; }
+.toolfinder__sum { font-size: clamp(1.5rem, 1.1rem + 1.2vw, 2.25rem); font-weight: 500; line-height: 1.1; letter-spacing: -0.02em; color: var(--yellow); overflow-wrap: break-word; hyphens: auto; }
+.toolfinder__sub { font-size: 1rem; color: var(--gray-300); font-variant-numeric: tabular-nums; }
+.toolfinder__out .btn { justify-self: start; margin: .6rem 0 .2rem; }
+.toolfinder__note { margin: 0; font-size: .8125rem; line-height: 1.45; color: var(--gray-400); }
+.step-cards { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: clamp(.75rem, .4rem + 1vw, 1.5rem); }
+.step-card { display: grid; align-content: start; gap: .6rem; padding: clamp(1.25rem, 1rem + 1vw, 1.75rem); border-radius: var(--radius); background: var(--gray-900); min-width: 0; }
+.step-card__no { display: grid; place-items: center; width: 2.4rem; height: 2.4rem; border-radius: 50%; background: var(--yellow); color: var(--black); font-weight: 700; margin-bottom: .4rem; }
+.step-card h3 { margin: 0; font-size: var(--fs-h4); line-height: 1.25; overflow-wrap: break-word; hyphens: auto; }
+.step-card p { margin: 0; color: var(--gray-300); font-size: .9375rem; line-height: 1.5; }
+.bg-white .step-card, .bg-lightgray .step-card { background: var(--white); }
+.bg-white .step-card p, .bg-lightgray .step-card p { color: var(--gray-700); }
+.step-actions { margin-top: clamp(1.25rem, 1rem + 1vw, 2rem); display: flex; flex-wrap: wrap; gap: .25rem; }
+@media (max-width: 1023px) {
+  .toolfinder { grid-template-columns: minmax(0, 1fr) minmax(0, .8fr); gap: 1rem; }
+  .step-cards { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 760px) {
+  .toolfinder { grid-template-columns: 1fr; }
+  .toolfinder__out { position: static; }
+  .tf-chip span { padding: .45rem .8rem; font-size: .875rem; }
+  .step-cards { grid-template-columns: 1fr; }
+}
+
 /* ---------- AR-/3D-Ansicht der Produktseiten (assets/js/arview.js, build.py r_ar) ---------- */
 .ar-section { background: linear-gradient(180deg, var(--gray-50) 0%, #fff 100%); }
 .ar { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: clamp(1.5rem, .5rem + 3vw, 4rem); align-items: center; }

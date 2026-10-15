@@ -1,0 +1,611 @@
+{
+ "path": "/productos/porta-herramientas/tooling-shop",
+ "url": "/mx/productos/porta-herramientas/tooling-shop",
+ "title": "Tooling Shop",
+ "description": "Tooling Shop - Más de 2500 portaherramientas ZOLLER: encontrar, pedir en MYZOLLER, gemelo digital incluido",
+ "og_image": "/fileadmin/_processed_/d/c/csm_header_tooling_79126defc9.webp",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "Tooling Shop",
+   "id": "tooling-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "text": "<p>Más de 2500 portaherramientas: equilibrados con precisión, mejores que la norma DIN y, si lo desea, con »idChip«. Encuentre su portaherramientas y pídalo directamente en MYZOLLER.</p> <p><a class=\"btn\" href=\"#finder\">Encontrar portaherramientas</a> <a class=\"btn btn--ghost\" href=\"myzoller:/shop?kind=tooling\">Abrir la tienda</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/d/c/csm_header_tooling_79126defc9.webp",
+    "w": 1428,
+    "h": 896,
+    "alt": "Portaherramientas ZOLLER Tooling Solutions"
+   }
+  },
+  {
+   "type": "toolfinder",
+   "id": "finder",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>Encuentre el portaherramientas adecuado</h2>",
+   "intro": "<p>Elija el tipo de portaherramientas y la interfaz de su máquina: la tienda muestra todos los portaherramientas adecuados con dimensiones, disponibilidad y precios.</p>",
+   "t": {
+    "s1": "Tipo de portaherramientas",
+    "s2": "Interfaz de su máquina",
+    "s2_none": "Válido para cualquier interfaz.",
+    "all_cats": "Todos los portaherramientas",
+    "all_ifaces": "Todas las interfaces",
+    "cta": "Ver en la tienda",
+    "note": "La tienda funciona en MYZOLLER, el portal de clientes de ZOLLER. Verá los precios al iniciar sesión; si aún no tiene número de cliente, creamos su cuenta con el primer pedido."
+   },
+   "cats": [
+    {
+     "key": "shrink_chuck",
+     "name": "Portaherramientas de contracción térmica",
+     "iface": true
+    },
+    {
+     "key": "collet_chuck",
+     "name": "Portapinzas",
+     "iface": true
+    },
+    {
+     "key": "hawk_eye",
+     "name": "HAWK EYE®",
+     "iface": true
+    },
+    {
+     "key": "weldon",
+     "name": "Portaherramientas Weldon",
+     "iface": true
+    },
+    {
+     "key": "whistle_notch",
+     "name": "Portaherramientas Whistle Notch",
+     "iface": true
+    },
+    {
+     "key": "screw_in",
+     "name": "Adaptadores para fresas roscadas",
+     "iface": true
+    },
+    {
+     "key": "shell_mill",
+     "name": "Portafresas para planear",
+     "iface": true
+    },
+    {
+     "key": "combi_shell_mill",
+     "name": "Portafresas combinados",
+     "iface": true
+    },
+    {
+     "key": "morse_taper",
+     "name": "Adaptadores de cono Morse",
+     "iface": true
+    },
+    {
+     "key": "drill_chuck",
+     "name": "Portabrocas cortos",
+     "iface": true
+    },
+    {
+     "key": "er_collet",
+     "name": "Pinzas ER",
+     "iface": false
+    },
+    {
+     "key": "shrink_extension",
+     "name": "Extensiones de contracción térmica",
+     "iface": false
+    },
+    {
+     "key": "tooling_accessory",
+     "name": "Accesorios",
+     "iface": false
+    }
+   ],
+   "ifaces": [
+    {
+     "family": "HSK-A",
+     "items": [
+      "HSK-A40",
+      "HSK-A50",
+      "HSK-A63",
+      "HSK-A80",
+      "HSK-A100"
+     ]
+    },
+    {
+     "family": "HSK-E",
+     "items": [
+      "HSK-E25",
+      "HSK-E32",
+      "HSK-E40",
+      "HSK-E50"
+     ]
+    },
+    {
+     "family": "HSK-F",
+     "items": [
+      "HSK-F63",
+      "HSK-F80"
+     ]
+    },
+    {
+     "family": "SK",
+     "items": [
+      "SK 40",
+      "SK 50"
+     ]
+    },
+    {
+     "family": "BT",
+     "items": [
+      "BT 30",
+      "BT 40",
+      "BT 50"
+     ]
+    },
+    {
+     "family": "BTD",
+     "items": [
+      "BTD 30",
+      "BTD 40"
+     ]
+    },
+    {
+     "family": "PSC",
+     "items": [
+      "PSC 40",
+      "PSC 50",
+      "PSC 63",
+      "PSC 80"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>La gama</h2>",
+   "body": "<p>Todos los portaherramientas ZOLLER Tooling están equilibrados con precisión y son siempre mejores que la norma DIN. Un clic abre la categoría en la tienda.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/a/7/csm_ts_schrumpffutter_06c2dea98b.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Portaherramientas de contracción térmica",
+     "title": "Portaherramientas de contracción térmica",
+     "href": "myzoller:/shop?kind=tooling&category=shrink_chuck",
+     "caption": "<figcaption> <h3>Portaherramientas de contracción térmica</h3> <p>Para la sujeción de herramientas con zanco cilíndrico de carburo o HSS.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/7/csm_ts_spannzangenfutter_eb7fca68dc.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Portapinzas",
+     "title": "Portapinzas",
+     "href": "myzoller:/shop?kind=tooling&category=collet_chuck",
+     "caption": "<figcaption> <h3>Portapinzas</h3> <p>Para la sujeción de herramientas con mango cilíndrico en pinzas ER.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/5/1/csm_ts_hawk_eye_07abe1a0d5.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "HAWK EYE®",
+     "title": "HAWK EYE®",
+     "href": "myzoller:/shop?kind=tooling&category=hawk_eye",
+     "caption": "<figcaption> <h3>HAWK EYE®</h3> <p>Portapinzas ER de precisión HPC para mecanizado de alto rendimiento.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_ts_weldonaufnahmen_9c7a361d17.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Portaherramientas Weldon",
+     "title": "Portaherramientas Weldon",
+     "href": "myzoller:/shop?kind=tooling&category=weldon",
+     "caption": "<figcaption> <h3>Portaherramientas Weldon</h3> <p>Para herramientas con plano Weldon; ideal sin refrigeración interna.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_ts_whistle-notch-aufnahmen_b74918fa98.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Portaherramientas Whistle Notch",
+     "title": "Portaherramientas Whistle Notch",
+     "href": "myzoller:/shop?kind=tooling&category=whistle_notch",
+     "caption": "<figcaption> <h3>Portaherramientas Whistle Notch</h3> <p>Para herramientas con mango cilíndrico y plano inclinado Whistle Notch.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_ts_fuer_einschraubfraeser_e7d8ee83f6.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Adaptadores para fresas roscadas",
+     "title": "Adaptadores para fresas roscadas",
+     "href": "myzoller:/shop?kind=tooling&category=screw_in",
+     "caption": "<figcaption> <h3>Adaptadores para fresas roscadas</h3> <p>Para cabezales de fresado con conexión roscada.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/2/csm_ts_messerkopfaufnahmen_b76fed0d9d.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Portafresas para planear",
+     "title": "Portafresas para planear",
+     "href": "myzoller:/shop?kind=tooling&category=shell_mill",
+     "caption": "<figcaption> <h3>Portafresas para planear</h3> <p>Para fresas con chavetero transversal, con refrigeración hasta los filos.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/a/csm_ts_kombidorne_48f13a98c4.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Portafresas combinados",
+     "title": "Portafresas combinados",
+     "href": "myzoller:/shop?kind=tooling&category=combi_shell_mill",
+     "caption": "<figcaption> <h3>Portafresas combinados</h3> <p>Para fresas con chavetero longitudinal y transversal.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/f/csm_ts_morsekegelaufnahme_6909dcbe8a.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Adaptadores de cono Morse",
+     "title": "Adaptadores de cono Morse",
+     "href": "myzoller:/shop?kind=tooling&category=morse_taper",
+     "caption": "<figcaption> <h3>Adaptadores de cono Morse</h3> <p>Para herramientas de cono Morse con lengüeta según DIN 2288.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/2/csm_ts_kurzbohrfutter_3c9582d0e0.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Portabrocas cortos",
+     "title": "Portabrocas cortos",
+     "href": "myzoller:/shop?kind=tooling&category=drill_chuck",
+     "caption": "<figcaption> <h3>Portabrocas cortos</h3> <p>Para la sujeción de brocas y herramientas con mango cilíndrico.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/2/csm_ts_er_collet_a62fe34c96.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Pinzas ER",
+     "title": "Pinzas ER",
+     "href": "myzoller:/shop?kind=tooling&category=er_collet",
+     "caption": "<figcaption> <h3>Pinzas ER</h3> <p>ER y ER «Mini» para portapinzas y HAWK EYE®.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/a/b/csm_Schrumpfverlaenerungen_category_0b63e58178.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Extensiones de contracción térmica",
+     "title": "Extensiones de contracción térmica",
+     "href": "myzoller:/shop?kind=tooling&category=shrink_extension",
+     "caption": "<figcaption> <h3>Extensiones de contracción térmica</h3> <p>Para herramientas con zanco cilíndrico: más alcance para maquinados profundos.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/c/csm_ts_accessories_651f0aa893.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Accesorios",
+     "title": "Accesorios",
+     "href": "myzoller:/shop?kind=tooling&category=tooling_accessory",
+     "caption": "<figcaption> <h3>Accesorios</h3> <p>Discos de estanqueidad, tuercas de apriete y más.</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "id": "sortiment"
+  },
+  {
+   "type": "steps",
+   "id": "bestellen",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>Cómo hacer su pedido</h2>",
+   "items": [
+    {
+     "title": "Encontrar el portaherramientas",
+     "text": "Con el buscador o directamente en la tienda: por tipo, interfaz y diámetro de sujeción."
+    },
+    {
+     "title": "Iniciar sesión en MYZOLLER",
+     "text": "Los clientes ven sus condiciones personales y compran con factura; compras y técnica en el mismo equipo."
+    },
+    {
+     "title": "¿Nuevo en ZOLLER?",
+     "text": "También sin número de cliente ni máquina ZOLLER: indique los datos de su empresa al finalizar la compra y creamos su cuenta de cliente, normalmente el mismo día hábil."
+    },
+    {
+     "title": "Gemelo digital incluido",
+     "text": "Cada pedido incluye los gemelos digitales: con un clic en ZOLLER TMS y en su sistema CAM. Siga el estado de su pedido en tiempo real en MYZOLLER."
+    }
+   ],
+   "actions": [
+    {
+     "label": "Abrir la tienda",
+     "href": "myzoller:/shop?kind=tooling"
+    },
+    {
+     "label": "Crear una cuenta",
+     "href": "myzoller:/registrieren?weiter=%2Fshop%3Fkind%3Dtooling",
+     "ghost": true
+    }
+   ]
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> Fiabilidad para una máxima precisión </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/7/6/csm_ts_pin_modul_03_be3bbbf942.webp",
+    "alt": "",
+    "w": 1540,
+    "h": 630
+   },
+   "spots": [
+    {
+     "x": 23.533,
+     "y": 10.226,
+     "label": "Orificio de chips",
+     "text": "<h3>Orificio de chips</h3> <h4>Orificio para chip</h4> <p>Para fijar soportes de datos como chips RFID o ZOLLER »idChip« a los portaherramientas ZOLLER Tooling. De forma estándar en conos huecos HSK-A, conos rectos SK y conos poligonales PSC.</p> <h4>ZOLLER »idChip«</h4> <p>Para la identificación inequívoca de sus soportes de herramienta y para una vida útil máxima del producto. Si lo desea, le suministramos los soportes de herramienta equilibrados con chip fijo integrado directamente en su planta de producción.</p> <h4>Tecnología de 3 ranuras</h4> <p>En el orificio del chip del portaherramientas, el adhesivo garantiza un ajuste perfecto para una conexión|unión segura y fija.</p>"
+    },
+    {
+     "x": 48.478,
+     "y": 43.161,
+     "label": "Cuatro roscas",
+     "text": "<h3>Cuatro roscas</h3> <h4>Cuatro roscas</h4> <p>Para el equilibrado a posteriori de portaherramientas térmicos estándar.</p>"
+    },
+    {
+     "x": 71.685,
+     "y": 51.793,
+     "label": "Ajuste por contracción largo",
+     "text": "<h3>Ajuste por contracción largo</h3> <h4>Ajuste por contracción largo con radio de introducción</h4> <p>Garantiza la máxima fuerza de contracción gracias a la tensión de la herramienta en toda la longitud del vástago|mango.</p>"
+    },
+    {
+     "x": 13.641,
+     "y": 52.722,
+     "label": "Hombro de entrada",
+     "text": "<h3>Hombro de entrada</h3> <h4>Hombro de sujeción con acabado duro</h4> <p>Garantiza un deslizamiento óptimo de los segmentos de sujeción en el hombro de sujeción y una tensión excelente en el husillo. El resultado es una concentricidad en el hombro de sujeción de un máximo de 10 μm (5 veces más precisa que la norma DIN).</p>"
+    },
+    {
+     "x": 82.12,
+     "y": 56.972,
+     "label": "Tolerancias de concentricidad",
+     "text": "<h3>Tolerancias de concentricidad</h3> <h4>Las tolerancias de concentricidad</h4> <p>Las soluciones de herramientas garantizan una concentricidad &lt; 3 µm.</p>"
+    },
+    {
+     "x": 24.674,
+     "y": 82.47,
+     "label": "Equilibrado con precisión",
+     "text": "<h3>Equilibrado con precisión</h3> <h4>Equilibrado con precisión</h4> <p><strong>Todos los portaherramientas ZOLLER Tooling están equilibrados con precisión</strong>: G2,5 a 25 000 rpm o desequilibrio residual máximo ≤ 1 gmm. Esto garantiza un funcionamiento silencioso del husillo durante el mecanizado, lo que protege los cojinetes. Usted se beneficia de una mayor vida útil del husillo, una superficie óptima de la pieza de trabajo y una mayor durabilidad de las herramientas.</p>"
+    },
+    {
+     "x": 8.533,
+     "y": 36.919,
+     "label": "Chavetero",
+     "text": "<h3>Chavetero</h3> <h4>Chaveteros con acabado duro</h4> <p>Garantizan un centrado del 100 % de las ranuras, un ajuste perfecto en el husillo y una excelente transmisión del par.</p>"
+    },
+    {
+     "x": 23.478,
+     "y": 36.521,
+     "label": "área de emisión",
+     "text": "<h3>área de emisión</h3> <h4>Superficie de expulsión con acabado duro</h4> <p>Garantiza que se pueda soltar de forma segura el portaherramientas HSK al cambiar de herramienta.</p>"
+    },
+    {
+     "x": 75.707,
+     "y": 75.697,
+     "label": "»coolTool«",
+     "text": "<h3>»coolTool«</h3> <h4>»coolTool«</h4> <p>Para un filo de herramienta refrigerado perfecto, un control óptimo de la viruta y para evitar la acumulación de virutas en el filo de la herramienta. La disposición inclinada de los orificios para el refrigerante garantiza que este llegue donde se necesita: al filo de la herramienta. De este modo, se obtienen resultados de mecanizado óptimos y se aumenta la vida útil de las herramientas.</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "qualitaet",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Portaherramientas, »idChip« y gemelo digital: todo de un mismo proveedor</h2>",
+   "body": "<p>Si lo desea, entregamos cada portaherramientas equilibrado y con »idChip« pegado directamente en su producción. El alojamiento para el chip es estándar en los conos HSK-A, SK y PSC.</p> <p>El código DataMatrix identifica cada portaherramientas de forma inequívoca: en el banco de preajuste, en el »powerShrink« y en la máquina. En ZOLLER, medición, contracción y equilibrado están adaptados a los portaherramientas.</p> <p><a class=\"btn\" href=\"/mx/productos/porta-herramientas/idchip\">Más sobre »idChip«</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/7/csm_zoller_smarte_solutions_171a2dc46c.webp",
+     "w": 1454,
+     "h": 1454,
+     "alt": "Portaherramientas ZOLLER Tooling Solutions"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "id": "idchip"
+  },
+  {
+   "type": "accordion",
+   "id": "faq",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>Preguntas frecuentes</h2>",
+   "items": [
+    {
+     "title": "¿Puedo pedir sin número de cliente ZOLLER?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>Sí. Cree una cuenta en MYZOLLER e indique los datos de su empresa al finalizar la compra. Los revisamos, creamos su cuenta de cliente (normalmente el mismo día hábil) y transmitimos su pedido automáticamente. Es vinculante con nuestra confirmación de pedido.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "¿Qué precios veo?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>Al iniciar sesión verá los precios de lista; como cliente, las condiciones personales de su cuenta. Todos los precios son netos, más IVA.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "¿Necesito una máquina ZOLLER?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>No. Los portaherramientas sirven para cualquier máquina con la interfaz correspondiente. Con los bancos de preajuste y los equipos de contracción y equilibrado de ZOLLER les sacará el máximo partido.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "¿Qué es el gemelo digital?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>Los datos geométricos y maestros completos de cada portaherramientas. Los recibe con su pedido y los transfiere con un clic a ZOLLER TMS Tool Management Solutions o a su sistema CAM.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "¿Puedo pedir portaherramientas con »idChip«?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>Sí. El alojamiento para el chip es estándar en HSK-A, SK y PSC: añada el »idChip«, pegado y equilibrado, directamente al artículo en la tienda.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "¿Cómo sigo mi pedido?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>En MYZOLLER, en «Pedidos»: confirmación, fecha de entrega y rastreo del envío, en tiempo real desde nuestro sistema.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "downloads",
+   "id": "downloads",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>Folletos</h2>",
+   "files": [
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Broschuere_Tooling_BRTOSO-00_ES.pdf",
+     "name": "ZOLLER Tooling Solutions",
+     "size": "2 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/5/5/csm_ZOLLER_Broschuere_Tooling_BRTOSO-00_ES_4181debc58.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ZOLLER Tooling Solutions"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Tooling_Solutions_Hawk-Eye-EN.pdf",
+     "name": "Sistemas de sujeción de herramientas HAWK EYE®",
+     "size": "577 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/6/7/csm_ZOLLER_Tooling_Solutions_Hawk-Eye-EN_3f13651cae.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Sistemas de sujeción de herramientas HAWK EYE®"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Tooling_Solutions_Spannzangenfutter_EN.pdf",
+     "name": "Sistemas de sujeción de herramientas ER & ER »Mini«",
+     "size": "645 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/f/c/csm_ZOLLER_Tooling_Solutions_Spannzangenfutter_EN_60729ce89b.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Sistemas de sujeción de herramientas ER & ER »Mini«"
+     }
+    }
+   ]
+  }
+ ],
+ "src_path": "/mx/productos/porta-herramientas/tooling-shop",
+ "de_path": "/produkte/werkzeugaufnahmen/tooling-shop"
+}

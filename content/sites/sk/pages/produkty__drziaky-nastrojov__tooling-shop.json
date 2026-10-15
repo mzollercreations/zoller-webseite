@@ -1,0 +1,611 @@
+{
+ "path": "/produkty/drziaky-nastrojov/tooling-shop",
+ "url": "/sk/produkty/drziaky-nastrojov/tooling-shop",
+ "title": "Tooling Shop",
+ "description": "Tooling Shop - Viac ako 2 500 nástrojových upínačov ZOLLER: nájsť, objednať v MYZOLLER, digitálne dvojča v cene",
+ "og_image": "/fileadmin/_processed_/d/c/csm_header_tooling_79126defc9.webp",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "Tooling Shop",
+   "id": "tooling-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "text": "<p>Viac ako 2 500 nástrojových upínačov – jemne vyvážených, lepších ako DIN, na želanie s »idChip«. Nájdite svoj upínač a objednajte ho priamo v MYZOLLER.</p> <p><a class=\"btn\" href=\"#finder\">Nájsť upínač</a> <a class=\"btn btn--ghost\" href=\"myzoller:/shop?kind=tooling\">Otvoriť obchod</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/d/c/csm_header_tooling_79126defc9.webp",
+    "w": 1428,
+    "h": 896,
+    "alt": "Nástrojové upínače ZOLLER Tooling Solutions"
+   }
+  },
+  {
+   "type": "toolfinder",
+   "id": "finder",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>Nájdite správny upínač</h2>",
+   "intro": "<p>Zvoľte druh upínača a rozhranie svojho stroja – obchod zobrazí všetky vhodné upínače s rozmermi, dostupnosťou a cenami.</p>",
+   "t": {
+    "s1": "Druh upínača",
+    "s2": "Rozhranie stroja",
+    "s2_none": "Hodí sa pre akékoľvek rozhranie.",
+    "all_cats": "Všetky upínače",
+    "all_ifaces": "Všetky rozhrania",
+    "cta": "Zobraziť v obchode",
+    "note": "Obchod beží v MYZOLLER, zákazníckom portáli spoločnosti ZOLLER. Ceny uvidíte po prihlásení – bez zákazníckeho čísla vám zákaznícky účet založíme s prvou objednávkou."
+   },
+   "cats": [
+    {
+     "key": "shrink_chuck",
+     "name": "Tepelné upínače",
+     "iface": true
+    },
+    {
+     "key": "collet_chuck",
+     "name": "Klieštinové upínače",
+     "iface": true
+    },
+    {
+     "key": "hawk_eye",
+     "name": "HAWK EYE®",
+     "iface": true
+    },
+    {
+     "key": "weldon",
+     "name": "Upínače Weldon",
+     "iface": true
+    },
+    {
+     "key": "whistle_notch",
+     "name": "Upínače Whistle Notch",
+     "iface": true
+    },
+    {
+     "key": "screw_in",
+     "name": "Upínače pre skrutkovacie frézy",
+     "iface": true
+    },
+    {
+     "key": "shell_mill",
+     "name": "Nástrčné frézovacie tŕne",
+     "iface": true
+    },
+    {
+     "key": "combi_shell_mill",
+     "name": "Kombinované frézovacie tŕne",
+     "iface": true
+    },
+    {
+     "key": "morse_taper",
+     "name": "Upínače s Morseovým kužeľom",
+     "iface": true
+    },
+    {
+     "key": "drill_chuck",
+     "name": "Krátke vŕtacie skľučovadlá",
+     "iface": true
+    },
+    {
+     "key": "er_collet",
+     "name": "Klieštiny ER",
+     "iface": false
+    },
+    {
+     "key": "shrink_extension",
+     "name": "Tepelné predĺženia",
+     "iface": false
+    },
+    {
+     "key": "tooling_accessory",
+     "name": "Príslušenstvo",
+     "iface": false
+    }
+   ],
+   "ifaces": [
+    {
+     "family": "HSK-A",
+     "items": [
+      "HSK-A40",
+      "HSK-A50",
+      "HSK-A63",
+      "HSK-A80",
+      "HSK-A100"
+     ]
+    },
+    {
+     "family": "HSK-E",
+     "items": [
+      "HSK-E25",
+      "HSK-E32",
+      "HSK-E40",
+      "HSK-E50"
+     ]
+    },
+    {
+     "family": "HSK-F",
+     "items": [
+      "HSK-F63",
+      "HSK-F80"
+     ]
+    },
+    {
+     "family": "SK",
+     "items": [
+      "SK 40",
+      "SK 50"
+     ]
+    },
+    {
+     "family": "BT",
+     "items": [
+      "BT 30",
+      "BT 40",
+      "BT 50"
+     ]
+    },
+    {
+     "family": "BTD",
+     "items": [
+      "BTD 30",
+      "BTD 40"
+     ]
+    },
+    {
+     "family": "PSC",
+     "items": [
+      "PSC 40",
+      "PSC 50",
+      "PSC 63",
+      "PSC 80"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Sortiment</h2>",
+   "body": "<p>Všetky upínače ZOLLER Tooling sú jemne vyvážené a trvalo lepšie ako DIN. Jedným kliknutím otvoríte kategóriu v obchode.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/a/7/csm_ts_schrumpffutter_06c2dea98b.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Tepelné upínače",
+     "title": "Tepelné upínače",
+     "href": "myzoller:/shop?kind=tooling&category=shrink_chuck",
+     "caption": "<figcaption> <h3>Tepelné upínače</h3> <p>Na upínanie nástrojov s valcovou stopkou zo spekaného karbidu alebo HSS.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/7/csm_ts_spannzangenfutter_eb7fca68dc.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Klieštinové upínače",
+     "title": "Klieštinové upínače",
+     "href": "myzoller:/shop?kind=tooling&category=collet_chuck",
+     "caption": "<figcaption> <h3>Klieštinové upínače</h3> <p>Na upínanie nástrojov s valcovou stopkou v klieštinách ER.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/5/1/csm_ts_hawk_eye_07abe1a0d5.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "HAWK EYE®",
+     "title": "HAWK EYE®",
+     "href": "myzoller:/shop?kind=tooling&category=hawk_eye",
+     "caption": "<figcaption> <h3>HAWK EYE®</h3> <p>Presné klieštinové upínače ER HPC na vysokovýkonné obrábanie.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_ts_weldonaufnahmen_9c7a361d17.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Upínače Weldon",
+     "title": "Upínače Weldon",
+     "href": "myzoller:/shop?kind=tooling&category=weldon",
+     "caption": "<figcaption> <h3>Upínače Weldon</h3> <p>Pre nástroje s plochou Weldon – ideálne bez vnútorného prívodu chladiva.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_ts_whistle-notch-aufnahmen_b74918fa98.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Upínače Whistle Notch",
+     "title": "Upínače Whistle Notch",
+     "href": "myzoller:/shop?kind=tooling&category=whistle_notch",
+     "caption": "<figcaption> <h3>Upínače Whistle Notch</h3> <p>Pre nástroje s valcovou stopkou a šikmou plochou Whistle Notch.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_ts_fuer_einschraubfraeser_e7d8ee83f6.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Upínače pre skrutkovacie frézy",
+     "title": "Upínače pre skrutkovacie frézy",
+     "href": "myzoller:/shop?kind=tooling&category=screw_in",
+     "caption": "<figcaption> <h3>Upínače pre skrutkovacie frézy</h3> <p>Pre frézovacie hlavy so závitovým pripojením.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/2/csm_ts_messerkopfaufnahmen_b76fed0d9d.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Nástrčné frézovacie tŕne",
+     "title": "Nástrčné frézovacie tŕne",
+     "href": "myzoller:/shop?kind=tooling&category=shell_mill",
+     "caption": "<figcaption> <h3>Nástrčné frézovacie tŕne</h3> <p>Pre frézy s priečnou drážkou, s prívodom chladiva k britom.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/a/csm_ts_kombidorne_48f13a98c4.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Kombinované frézovacie tŕne",
+     "title": "Kombinované frézovacie tŕne",
+     "href": "myzoller:/shop?kind=tooling&category=combi_shell_mill",
+     "caption": "<figcaption> <h3>Kombinované frézovacie tŕne</h3> <p>Pre frézy s pozdĺžnou a priečnou drážkou.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/f/csm_ts_morsekegelaufnahme_6909dcbe8a.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Upínače s Morseovým kužeľom",
+     "title": "Upínače s Morseovým kužeľom",
+     "href": "myzoller:/shop?kind=tooling&category=morse_taper",
+     "caption": "<figcaption> <h3>Upínače s Morseovým kužeľom</h3> <p>Pre nástroje s Morseovým kužeľom a plochým unášacím koncom podľa DIN 2288.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/2/csm_ts_kurzbohrfutter_3c9582d0e0.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Krátke vŕtacie skľučovadlá",
+     "title": "Krátke vŕtacie skľučovadlá",
+     "href": "myzoller:/shop?kind=tooling&category=drill_chuck",
+     "caption": "<figcaption> <h3>Krátke vŕtacie skľučovadlá</h3> <p>Na upínanie vrtákov a nástrojov s valcovou stopkou.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/2/csm_ts_er_collet_a62fe34c96.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Klieštiny ER",
+     "title": "Klieštiny ER",
+     "href": "myzoller:/shop?kind=tooling&category=er_collet",
+     "caption": "<figcaption> <h3>Klieštiny ER</h3> <p>ER a ER «Mini» pre klieštinové upínače a HAWK EYE®.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/a/b/csm_Schrumpfverlaenerungen_category_0b63e58178.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Tepelné predĺženia",
+     "title": "Tepelné predĺženia",
+     "href": "myzoller:/shop?kind=tooling&category=shrink_extension",
+     "caption": "<figcaption> <h3>Tepelné predĺženia</h3> <p>Pre nástroje s valcovou stopkou – väčšie vyloženie pri hlbokom obrábaní.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/c/csm_ts_accessories_651f0aa893.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Príslušenstvo",
+     "title": "Príslušenstvo",
+     "href": "myzoller:/shop?kind=tooling&category=tooling_accessory",
+     "caption": "<figcaption> <h3>Príslušenstvo</h3> <p>Tesniace podložky, upínacie matice a ďalšie.</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "id": "sortiment"
+  },
+  {
+   "type": "steps",
+   "id": "bestellen",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>Ako objednať</h2>",
+   "items": [
+    {
+     "title": "Nájdite upínač",
+     "text": "Pomocou vyhľadávača vyššie alebo priamo v obchode – podľa druhu, rozhrania a upínacieho priemeru."
+    },
+    {
+     "title": "Prihláste sa do MYZOLLER",
+     "text": "Zákazníci vidia svoje individuálne podmienky a objednávajú na faktúru – nákup aj technika v jednom tíme."
+    },
+    {
+     "title": "Noví v ZOLLER?",
+     "text": "Aj bez zákazníckeho čísla alebo stroja ZOLLER: v pokladni zadajte údaje o firme a my vám založíme zákaznícky účet – zvyčajne ešte v ten istý pracovný deň."
+    },
+    {
+     "title": "Digitálne dvojča v cene",
+     "text": "Každá objednávka obsahuje digitálne dvojčatá – jedným kliknutím do ZOLLER TMS a vášho systému CAM. Stav objednávky sledujete naživo v MYZOLLER."
+    }
+   ],
+   "actions": [
+    {
+     "label": "Otvoriť obchod",
+     "href": "myzoller:/shop?kind=tooling"
+    },
+    {
+     "label": "Vytvoriť účet",
+     "href": "myzoller:/registrieren?weiter=%2Fshop%3Fkind%3Dtooling",
+     "ghost": true
+    }
+   ]
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> Spoľahlivosť pre najvyššiu presnosť </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/7/6/csm_ts_pin_modul_03_be3bbbf942.webp",
+    "alt": "",
+    "w": 1540,
+    "h": 630
+   },
+   "spots": [
+    {
+     "x": 23.533,
+     "y": 10.226,
+     "label": "Otvor pre čip",
+     "text": "<h3>Otvor pre čip</h3> <h4>Otvor pre čip</h4> <p>Na upevnenie dátových nosičov, ako sú RFID čipy alebo ZOLLER »idChip,« na upínacie hlavy nástrojov ZOLLER Tooling. Štandardne pri dutých kužeľoch HSK-A, strmých kužeľoch SK a polygónových kužeľoch PSC.</p> <h4>ZOLLER »idChip«</h4> <p>Na jednoznačnú identifikáciu vašich držiakov nástrojov a pre maximálnu životnosť produktu. Na vaše želanie dodávame držiaky nástrojov vyvážené s pevne integrovaným čipom priamo do vašej výroby.</p> <h4>Technológia 3 drážok</h4> <p>V otvore pre čip v upínacom držiaku zaručuje spoj s lepidlom tvarové spojenie pre bezpečné a pevné uchytenie.</p>"
+    },
+    {
+     "x": 48.478,
+     "y": 43.161,
+     "label": "Štyri závity",
+     "text": "<h3>Štyri závity</h3> <h4>Štyri závity</h4> <p>Na dodatočné jemné vyvažovanie štandardných upínacích puzdier.</p>"
+    },
+    {
+     "x": 71.685,
+     "y": 51.793,
+     "label": "Dlhé zúžené strihy",
+     "text": "<h3>Dlhé zúžené strihy</h3> <h4>Dlhé zúženie s vkladacím polomerom</h4> <p>Zaručuje maximálnu sťahovaciu silu vďaka napätiu nástroja po celej dĺžke hriadeľa.</p>"
+    },
+    {
+     "x": 13.641,
+     "y": 52.722,
+     "label": "zarážka",
+     "text": "<h3>zarážka</h3> <h4>Tvrdá povrchová úprava upínacieho ramienka</h4> <p>Zaručuje optimálny pohyb upínacích segmentov na upínacom ramene a vynikajúce napätie vo vretene. Výsledkom je maximálna excentricita na upínacom ramene 10 μm (5x presnejšia ako DIN).</p>"
+    },
+    {
+     "x": 82.12,
+     "y": 56.972,
+     "label": "Tolerancie kruhovej presnosti",
+     "text": "<h3>Tolerancie kruhovej presnosti</h3> <h4>Tolerancie kruhovej presnosti</h4> <p>Riešenia pre nástroje zaručujú kruhovú presnosť &lt; 3 µm.</p>"
+    },
+    {
+     "x": 24.674,
+     "y": 82.47,
+     "label": "Presne vyvážené",
+     "text": "<h3>Presne vyvážené</h3> <h4>Presne vyvážené</h4> <p><strong>Všetky upínacie systémy ZOLLER Tooling sú jemne vyvážené</strong> – G2,5 pri 25 000 ot<sup>./</sup>min alebo max. zvyškové nevyváženie ≤ 1 gmm. Výsledkom je plynulý chod vretena pri obrábaní, ktorý šetrí ložiská. Ľahko tak dosiahnete dlhšiu životnosť vretena, optimálny povrch obrobku a vyššiu životnosť nástrojov.</p>"
+    },
+    {
+     "x": 8.533,
+     "y": 36.919,
+     "label": "drážky pre hnacie kolieska",
+     "text": "<h3>drážky pre hnacie kolieska</h3> <h4>Drážky pre hnacie prvky s tvrdou povrchovou úpravou</h4> <p>Zaručujú 100 % stredové umiestnenie drážok, perfektné usadenie vo vretene a vynikajúci prenos krútiaceho momentu.</p>"
+    },
+    {
+     "x": 23.478,
+     "y": 36.521,
+     "label": "emisná plocha",
+     "text": "<h3>emisná plocha</h3> <h4>Povrch vyhadzovača s tvrdou povrchovou úpravou</h4> <p>Zaručuje bezpečné uvoľnenie upínania nástroja HSK pri výmene nástroja.</p>"
+    },
+    {
+     "x": 75.707,
+     "y": 75.697,
+     "label": "»coolTool«",
+     "text": "<h3>»coolTool«</h3> <h4>»coolTool«</h4> <p>Pre dokonalé ochladenie rezných hrán nástroja, optimálne odvádzanie triesok a zabránenie ich hromadeniu na rezných hranách. Šikmé umiestnenie otvorov na chladenie zaručuje, že chladiaca kvapalina sa dostane tam, kde je potrebná: na reznú hranu vášho nástroja. Tým dosiahnete optimálne výsledky obrábania a predĺžite životnosť vašich nástrojov.</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "qualitaet",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Upínač, »idChip« a digitálne dvojča – všetko od jedného dodávateľa</h2>",
+   "body": "<p>Na želanie dodáme každý upínač vyvážený a s pevne vlepeným »idChip« priamo do vašej výroby. Otvor pre čip je štandardom pri HSK-A, SK a PSC.</p> <p>Kód DataMatrix jednoznačne identifikuje každý upínač – na nastavovacom prístroji, na »powerShrink« aj na stroji. V ZOLLER sú meranie, tepelné upínanie a vyvažovanie zladené s upínačmi.</p> <p><a class=\"btn\" href=\"/sk/produkty/drziaky-nastrojov/idchip\">Viac o »idChip«</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/7/csm_zoller_smarte_solutions_171a2dc46c.webp",
+     "w": 1454,
+     "h": 1454,
+     "alt": "Nástrojové upínače ZOLLER Tooling Solutions"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "id": "idchip"
+  },
+  {
+   "type": "accordion",
+   "id": "faq",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>Časté otázky</h2>",
+   "items": [
+    {
+     "title": "Môžem objednať bez zákazníckeho čísla ZOLLER?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>Áno. Vytvorte si účet v MYZOLLER a v pokladni zadajte údaje o firme. Skontrolujeme ich, založíme vám zákaznícky účet – zvyčajne ešte v ten istý pracovný deň – a potom vašu objednávku automaticky odovzdáme ďalej. Záväznou sa stáva naším potvrdením objednávky.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "Aké ceny uvidím?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>Po prihlásení vidíte cenníkové ceny, ako zákazník individuálne podmienky svojho zákazníckeho účtu. Všetky ceny sú bez DPH.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "Potrebujem stroj ZOLLER?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>Nie. Upínače sa hodia ku každému stroju s príslušným rozhraním. S prístrojmi ZOLLER na nastavovanie, tepelné upínanie a vyvažovanie z nich vyťažíte maximum.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "Čo je digitálne dvojča?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>Úplné geometrické a kmeňové údaje každého upínača. Dostanete ich s objednávkou a jedným kliknutím ich prevezmete do ZOLLER TMS Tool Management Solutions alebo svojho systému CAM.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "Môžem objednať upínače s »idChip«?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>Áno. Otvor pre čip je štandardom pri HSK-A, SK a PSC – v obchode k položke jednoducho pridajte »idChip«, vlepený a vyvážený.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "Ako sledujem svoju objednávku?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>V MYZOLLER v časti „Zákazky“: potvrdenie objednávky, termín dodania a sledovanie zásielky – naživo z nášho systému.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "downloads",
+   "id": "downloads",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>Brožúry</h2>",
+   "files": [
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Broschuere_Tooling_BRTOSO-00_US_01.pdf",
+     "name": "Tooling Solutions",
+     "size": "2 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/6/2/csm_ZOLLER_Broschuere_Tooling_BRTOSO-00_US_01_a9c6bb127e.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Tooling Solutions"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Tooling_Solutions_Hawk-Eye-EN.pdf",
+     "name": "HAWK EYE®",
+     "size": "577 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/6/7/csm_ZOLLER_Tooling_Solutions_Hawk-Eye-EN_3f13651cae.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "HAWK EYE®"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Tooling_Solutions_Spannzangenfutter_EN.pdf",
+     "name": "ER & ER »Mini«",
+     "size": "645 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/f/c/csm_ZOLLER_Tooling_Solutions_Spannzangenfutter_EN_60729ce89b.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ER & ER »Mini«"
+     }
+    }
+   ]
+  }
+ ],
+ "src_path": "/sk/produkty/drziaky-nastrojov/tooling-shop",
+ "de_path": "/produkte/werkzeugaufnahmen/tooling-shop"
+}

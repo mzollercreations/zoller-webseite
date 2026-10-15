@@ -186,7 +186,7 @@ def _asset_version():
     h = hashlib.md5()
     for rel in ("assets/css/main.css", "assets/js/main.js", "assets/js/scrollfx.js", "assets/js/homefilm.js", "assets/js/productstage.js",
                 "assets/js/worldflight.js", "assets/js/world.js", "assets/js/eventagenda.js", "assets/js/zoomfx.js",
-                "assets/js/globe.js", "assets/js/globe-land.js", "assets/js/traycalc.js", "assets/js/arview.js", "assets/js/currency.js",
+                "assets/js/globe.js", "assets/js/globe-land.js", "assets/js/traycalc.js", "assets/js/toolfinder.js", "assets/js/arview.js", "assets/js/currency.js",
                 "content/ar_models.json"):
         if not os.path.exists(os.path.join(ROOT, rel)):
             continue
@@ -242,6 +242,24 @@ HOMEFILM_DEVICES = (
 
 esc = html.escape
 
+# Tooling-Shop (content/tooling.json, tools/tooling.py): Shop-Links zeigen auf MYZOLLER – »myzoller:/shop?…« in den Inhalten,
+# alte Links auf myzoller.com/…/shop/tooling[#category:…] werden umgebogen (Kategorie → Shop, sonst → Tooling-Shop-Seite).
+_TOOLING_FILE = os.path.join(ROOT, "content", "tooling.json")
+TOOLING = json.load(open(_TOOLING_FILE, encoding="utf-8")) if os.path.exists(_TOOLING_FILE) else {}
+TOOLING_DE_PATH = "/produkte/werkzeugaufnahmen/tooling-shop"
+OLD_SHOP = re.compile(r"^https?://(?:www\.)?myzoller\.com/[^#?]*/shop/tooling/?(?:#category:(.+))?$", re.I)
+OLD_SHOP_CATS = {old: c["key"] for c in TOOLING.get("categories", []) for old in c.get("old", [])}
+
+
+def myzoller_url(rel):
+    """»myzoller:/shop?kind=tooling&category=…« -> Adresse im Kundenportal (shop.base) mit Sprache der Länderseite."""
+    shop = TOOLING.get("shop", {})
+    path, _sep, query = rel.partition("?")
+    params = urllib.parse.parse_qsl(query, keep_blank_values=False)
+    lang = LANG if LANG in shop.get("langs", ["de", "en"]) else "en"
+    params = [(k, v) for k, v in params if k != "lang"] + [("lang", lang)]
+    return shop.get("base", "https://myzoller.com").rstrip("/") + "/" + path.lstrip("/") + "?" + urllib.parse.urlencode(params)
+
 
 # =============================================================== URLs ====
 class Ctx:
@@ -266,6 +284,15 @@ class Ctx:
         href = html.unescape(href)
         if href.startswith(("mailto:", "tel:", "#", "javascript:", "data:")):
             return href
+        if href.startswith("myzoller:"):
+            return myzoller_url(href[len("myzoller:"):])
+        m = OLD_SHOP.match(href)
+        if m and TOOLING:
+            key = OLD_SHOP_CATS.get(urllib.parse.unquote(m.group(1) or "").lower())
+            if key:
+                return myzoller_url(f"/shop?kind=tooling&category={key}")
+            hub = L(TOOLING_DE_PATH)
+            return self.url(hub) if hub else myzoller_url("/shop?kind=tooling")
         if href.startswith("//"):
             return "https:" + href
         if re.match(r"https?://(www\.)?zoller\.info(/|$)", href):
@@ -1827,6 +1854,52 @@ def r_traycalc(ctx, b):
                    f'{form}{bar}{out}</div>{how}')
 
 
+def r_toolfinder(ctx, b):
+    """Tooling-Shop: Werkzeugaufnahme finden (assets/js/toolfinder.js) – Art der Aufnahme und Schnittstelle der Maschine
+    wählen, der Knopf öffnet den MYZOLLER-Shop mit diesen Filtern. Ohne JavaScript öffnet er alle Werkzeugaufnahmen."""
+    ctx.has_toolfinder = True
+    t = b.get("t", {})
+    uid = ctx.next_id("tf")
+    base = myzoller_url("/shop?kind=tooling")
+
+    def chip(name, value, label, extra="", aria=""):
+        return (f'<label class="tf-chip"><input type="radio" name="{uid}-{name}" value="{esc(value, quote=True)}"{extra}'
+                f'{f" aria-label={chr(34)}{esc(aria, quote=True)}{chr(34)}" if aria else ""}><span>{esc(label)}</span></label>')
+    cats = chip("cat", "", t.get("all_cats", ""), " checked") + "".join(
+        chip("cat", c["key"], c["name"], f' data-iface="{1 if c.get("iface") else 0}"') for c in b.get("cats", []))
+    fams = "".join(
+        f'<div class="toolfinder__fam"><span class="toolfinder__famname">{esc(f["family"])}</span><div class="toolfinder__chips">'
+        + "".join(chip("if", it, it[len(f["family"]):].strip() or it, aria=it) for it in f["items"]) + '</div></div>'
+        for f in b.get("ifaces", []))
+    form = (f'<form class="toolfinder__form" novalidate>'
+            f'<fieldset class="toolfinder__group"><legend><span class="toolfinder__no">1</span>{esc(t.get("s1", ""))}</legend>'
+            f'<div class="toolfinder__chips">{cats}</div></fieldset>'
+            f'<fieldset class="toolfinder__group" data-step="iface"><legend><span class="toolfinder__no">2</span>{esc(t.get("s2", ""))}</legend>'
+            f'<p class="toolfinder__none" hidden>{esc(t.get("s2_none", ""))}</p>'
+            f'<div class="toolfinder__ifaces">{chip("if", "", t.get("all_ifaces", ""), " checked")}{fams}</div></fieldset></form>')
+    out = (f'<div class="toolfinder__out" aria-live="polite">'
+           f'<b class="toolfinder__sum" data-out="cat">{esc(t.get("all_cats", ""))}</b>'
+           f'<span class="toolfinder__sub" data-out="iface">{esc(t.get("all_ifaces", ""))}</span>'
+           f'<a class="btn" data-out="link" href="{esc(base, quote=True)}" target="_blank" rel="noopener">{esc(t.get("cta", ""))}</a>'
+           f'<p class="toolfinder__note">{esc(t.get("note", ""))}</p></div>')
+    cfg = {"shop": base, "all_cats": t.get("all_cats", ""), "all_ifaces": t.get("all_ifaces", ""), "s2_none": t.get("s2_none", "")}
+    head = f'<div class="section-head" data-reveal>{ctx.rewrite(b.get("header", ""))}{rte(ctx, b.get("intro", ""))}</div>'
+    return section(ctx, b, head + f'<div class="toolfinder" data-toolfinder=\'{esc(json.dumps(cfg, ensure_ascii=False), quote=False)}\'>{form}{out}</div>')
+
+
+def r_steps(ctx, b):
+    """Nummerierte Schritte (z. B. »So bestellen Sie« im Tooling-Shop) mit Knöpfen darunter."""
+    items = "".join(f'<li class="step-card" data-reveal style="--d:{i * 0.08}s"><span class="step-card__no" aria-hidden="true">{i + 1}</span>'
+                    f'<h3>{esc(it.get("title", ""))}</h3><p>{esc(it.get("text", ""))}</p></li>' for i, it in enumerate(b.get("items", [])))
+    acts = ""
+    for a in b.get("actions", []):
+        href = ctx.url(a.get("href", ""))
+        tgt = ' target="_blank" rel="noopener"' if href.startswith("http") else ""
+        acts += f'<a class="btn{" btn--ghost" if a.get("ghost") else ""}" href="{esc(href, quote=True)}"{tgt}>{esc(a.get("label", ""))}</a>'
+    head = f'<div class="section-head" data-reveal>{ctx.rewrite(b.get("header", ""))}</div>' if b.get("header") else ""
+    return section(ctx, b, f'{head}<ol class="step-cards">{items}</ol>' + (f'<div class="step-actions" data-reveal>{acts}</div>' if acts else ""))
+
+
 def r_raw(ctx, b):
     return section(ctx, b, rte(ctx, b.get("html", "")))
 
@@ -1842,7 +1915,7 @@ RENDER = {
     "locations": r_locations, "events": r_events, "academy": r_academy, "search": r_search,
     "event_hero": r_event_hero, "event_facts": r_event_facts, "event_video": r_event_video, "event_products": r_event_products,
     "agenda": r_agenda, "event_venue": r_event_venue, "event_teaser": r_event_teaser, "events_world": r_events_world, "event_detail": r_event_detail,
-    "article": r_article, "traycalc": r_traycalc, "ar": r_ar, "raw": r_raw,
+    "article": r_article, "traycalc": r_traycalc, "ar": r_ar, "toolfinder": r_toolfinder, "steps": r_steps, "raw": r_raw,
 }
 
 
@@ -2617,6 +2690,7 @@ def render_page(page):
     ctx.has_globe = False
     ctx.has_zoom = False
     ctx.has_traycalc = False
+    ctx.has_toolfinder = False
     ctx.has_ar = False
     is_home = page["path"] == HOME
     if is_home:
@@ -2730,6 +2804,9 @@ try{{var za=JSON.parse(sessionStorage.getItem('zoller-arrive')||'null');sessionS
     if ctx.has_traycalc:
         scripts += f'''
 <script src="{ctx.prefix}assets/js/traycalc.js?v={ASSET_VER}" defer></script>'''
+    if ctx.has_toolfinder:
+        scripts += f'''
+<script src="{ctx.prefix}assets/js/toolfinder.js?v={ASSET_VER}" defer></script>'''
     if ctx.has_ar:
         scripts += f'''
 <script src="{ctx.prefix}assets/js/arview.js?v={ASSET_VER}" defer></script>'''

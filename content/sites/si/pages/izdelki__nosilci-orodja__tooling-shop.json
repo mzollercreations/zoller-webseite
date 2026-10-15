@@ -1,0 +1,611 @@
+{
+ "path": "/izdelki/nosilci-orodja/tooling-shop",
+ "url": "/si/izdelki/nosilci-orodja/tooling-shop",
+ "title": "Tooling Shop",
+ "description": "Tooling Shop - Več kot 2500 držal za orodje ZOLLER: poiščite, naročite v MYZOLLER, digitalni dvojček vključen",
+ "og_image": "/fileadmin/_processed_/d/c/csm_header_tooling_79126defc9.webp",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "Tooling Shop",
+   "id": "tooling-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "text": "<p>Več kot 2500 držal za orodje – fino uravnotežena, boljša od DIN, na željo z »idChip«. Poiščite svoje držalo in ga naročite neposredno v MYZOLLER.</p> <p><a class=\"btn\" href=\"#finder\">Poišči držalo</a> <a class=\"btn btn--ghost\" href=\"myzoller:/shop?kind=tooling\">Odpri trgovino</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/d/c/csm_header_tooling_79126defc9.webp",
+    "w": 1428,
+    "h": 896,
+    "alt": "Držala za orodje ZOLLER Tooling Solutions"
+   }
+  },
+  {
+   "type": "toolfinder",
+   "id": "finder",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>Poiščite pravo držalo za orodje</h2>",
+   "intro": "<p>Izberite vrsto držala in vmesnik svojega stroja – trgovina prikaže vsa ustrezna držala z merami, razpoložljivostjo in cenami.</p>",
+   "t": {
+    "s1": "Vrsta držala",
+    "s2": "Vmesnik stroja",
+    "s2_none": "Ustreza ne glede na vmesnik.",
+    "all_cats": "Vsa držala za orodje",
+    "all_ifaces": "Vsi vmesniki",
+    "cta": "Prikaži v trgovini",
+    "note": "Trgovina deluje v MYZOLLER, portalu za stranke podjetja ZOLLER. Cene vidite po prijavi – brez številke stranke vam ob prvem naročilu odpremo račun stranke."
+   },
+   "cats": [
+    {
+     "key": "shrink_chuck",
+     "name": "Krčna držala",
+     "iface": true
+    },
+    {
+     "key": "collet_chuck",
+     "name": "Vpenjalne glave za puše",
+     "iface": true
+    },
+    {
+     "key": "hawk_eye",
+     "name": "HAWK EYE®",
+     "iface": true
+    },
+    {
+     "key": "weldon",
+     "name": "Držala Weldon",
+     "iface": true
+    },
+    {
+     "key": "whistle_notch",
+     "name": "Držala Whistle Notch",
+     "iface": true
+    },
+    {
+     "key": "screw_in",
+     "name": "Držala za privijačna rezkala",
+     "iface": true
+    },
+    {
+     "key": "shell_mill",
+     "name": "Držala za rezkalne glave",
+     "iface": true
+    },
+    {
+     "key": "combi_shell_mill",
+     "name": "Kombinirani trni",
+     "iface": true
+    },
+    {
+     "key": "morse_taper",
+     "name": "Držala z Morsejevim stožcem",
+     "iface": true
+    },
+    {
+     "key": "drill_chuck",
+     "name": "Kratke vrtalne glave",
+     "iface": true
+    },
+    {
+     "key": "er_collet",
+     "name": "Vpenjalne puše ER",
+     "iface": false
+    },
+    {
+     "key": "shrink_extension",
+     "name": "Krčni podaljški",
+     "iface": false
+    },
+    {
+     "key": "tooling_accessory",
+     "name": "Dodatna oprema",
+     "iface": false
+    }
+   ],
+   "ifaces": [
+    {
+     "family": "HSK-A",
+     "items": [
+      "HSK-A40",
+      "HSK-A50",
+      "HSK-A63",
+      "HSK-A80",
+      "HSK-A100"
+     ]
+    },
+    {
+     "family": "HSK-E",
+     "items": [
+      "HSK-E25",
+      "HSK-E32",
+      "HSK-E40",
+      "HSK-E50"
+     ]
+    },
+    {
+     "family": "HSK-F",
+     "items": [
+      "HSK-F63",
+      "HSK-F80"
+     ]
+    },
+    {
+     "family": "SK",
+     "items": [
+      "SK 40",
+      "SK 50"
+     ]
+    },
+    {
+     "family": "BT",
+     "items": [
+      "BT 30",
+      "BT 40",
+      "BT 50"
+     ]
+    },
+    {
+     "family": "BTD",
+     "items": [
+      "BTD 30",
+      "BTD 40"
+     ]
+    },
+    {
+     "family": "PSC",
+     "items": [
+      "PSC 40",
+      "PSC 50",
+      "PSC 63",
+      "PSC 80"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Ponudba</h2>",
+   "body": "<p>Vsa držala ZOLLER Tooling so fino uravnotežena in vedno boljša od zahtev DIN. Klik odpre kategorijo v trgovini.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/a/7/csm_ts_schrumpffutter_06c2dea98b.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Krčna držala",
+     "title": "Krčna držala",
+     "href": "myzoller:/shop?kind=tooling&category=shrink_chuck",
+     "caption": "<figcaption> <h3>Krčna držala</h3> <p>Za vpenjanje orodij s cilindričnim steblom iz karbidne trdine ali HSS.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/7/csm_ts_spannzangenfutter_eb7fca68dc.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Vpenjalne glave za puše",
+     "title": "Vpenjalne glave za puše",
+     "href": "myzoller:/shop?kind=tooling&category=collet_chuck",
+     "caption": "<figcaption> <h3>Vpenjalne glave za puše</h3> <p>Za vpenjanje orodij s cilindričnim steblom v vpenjalnih pušah ER.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/5/1/csm_ts_hawk_eye_07abe1a0d5.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "HAWK EYE®",
+     "title": "HAWK EYE®",
+     "href": "myzoller:/shop?kind=tooling&category=hawk_eye",
+     "caption": "<figcaption> <h3>HAWK EYE®</h3> <p>Precizne vpenjalne glave ER HPC za visokozmogljivo obdelavo.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_ts_weldonaufnahmen_9c7a361d17.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Držala Weldon",
+     "title": "Držala Weldon",
+     "href": "myzoller:/shop?kind=tooling&category=weldon",
+     "caption": "<figcaption> <h3>Držala Weldon</h3> <p>Za orodja s ploskvijo Weldon – idealna brez notranjega dovoda hladilnega sredstva.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_ts_whistle-notch-aufnahmen_b74918fa98.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Držala Whistle Notch",
+     "title": "Držala Whistle Notch",
+     "href": "myzoller:/shop?kind=tooling&category=whistle_notch",
+     "caption": "<figcaption> <h3>Držala Whistle Notch</h3> <p>Za orodja s cilindričnim steblom in poševno ploskvijo Whistle Notch.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_ts_fuer_einschraubfraeser_e7d8ee83f6.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Držala za privijačna rezkala",
+     "title": "Držala za privijačna rezkala",
+     "href": "myzoller:/shop?kind=tooling&category=screw_in",
+     "caption": "<figcaption> <h3>Držala za privijačna rezkala</h3> <p>Za rezkalne glave z navojnim priključkom.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/2/csm_ts_messerkopfaufnahmen_b76fed0d9d.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Držala za rezkalne glave",
+     "title": "Držala za rezkalne glave",
+     "href": "myzoller:/shop?kind=tooling&category=shell_mill",
+     "caption": "<figcaption> <h3>Držala za rezkalne glave</h3> <p>Za rezkala s prečnim utorom, z dovodom hladilnega sredstva do rezil.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/a/csm_ts_kombidorne_48f13a98c4.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Kombinirani trni",
+     "title": "Kombinirani trni",
+     "href": "myzoller:/shop?kind=tooling&category=combi_shell_mill",
+     "caption": "<figcaption> <h3>Kombinirani trni</h3> <p>Za rezkala z vzdolžnim in prečnim utorom.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/f/csm_ts_morsekegelaufnahme_6909dcbe8a.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Držala z Morsejevim stožcem",
+     "title": "Držala z Morsejevim stožcem",
+     "href": "myzoller:/shop?kind=tooling&category=morse_taper",
+     "caption": "<figcaption> <h3>Držala z Morsejevim stožcem</h3> <p>Za orodja z Morsejevim stožcem in izbijalnim jezičkom po DIN 2288.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/2/csm_ts_kurzbohrfutter_3c9582d0e0.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Kratke vrtalne glave",
+     "title": "Kratke vrtalne glave",
+     "href": "myzoller:/shop?kind=tooling&category=drill_chuck",
+     "caption": "<figcaption> <h3>Kratke vrtalne glave</h3> <p>Za vpenjanje svedrov in orodij s cilindričnim steblom.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/2/csm_ts_er_collet_a62fe34c96.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Vpenjalne puše ER",
+     "title": "Vpenjalne puše ER",
+     "href": "myzoller:/shop?kind=tooling&category=er_collet",
+     "caption": "<figcaption> <h3>Vpenjalne puše ER</h3> <p>ER in ER «Mini» za vpenjalne glave in HAWK EYE®.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/a/b/csm_Schrumpfverlaenerungen_category_0b63e58178.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Krčni podaljški",
+     "title": "Krčni podaljški",
+     "href": "myzoller:/shop?kind=tooling&category=shrink_extension",
+     "caption": "<figcaption> <h3>Krčni podaljški</h3> <p>Za orodja s cilindričnim steblom – večji doseg pri globoki obdelavi.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/c/csm_ts_accessories_651f0aa893.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Dodatna oprema",
+     "title": "Dodatna oprema",
+     "href": "myzoller:/shop?kind=tooling&category=tooling_accessory",
+     "caption": "<figcaption> <h3>Dodatna oprema</h3> <p>Tesnilne ploščice, vpenjalne matice in več.</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "id": "sortiment"
+  },
+  {
+   "type": "steps",
+   "id": "bestellen",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>Kako naročiti</h2>",
+   "items": [
+    {
+     "title": "Poiščite držalo",
+     "text": "Z iskalnikom zgoraj ali neposredno v trgovini – po vrsti, vmesniku in premeru vpenjanja."
+    },
+    {
+     "title": "Prijavite se v MYZOLLER",
+     "text": "Stranke vidijo svoje pogoje in naročajo na račun – nabava in tehnika v isti ekipi."
+    },
+    {
+     "title": "Novi pri ZOLLER?",
+     "text": "Tudi brez številke stranke ali stroja ZOLLER: ob naročilu vnesite podatke podjetja in odpremo vam račun stranke – običajno še isti delovni dan."
+    },
+    {
+     "title": "Digitalni dvojček vključen",
+     "text": "Vsako naročilo vključuje digitalne dvojčke – z enim klikom v ZOLLER TMS in vaš sistem CAM. Stanje naročila spremljate v živo v MYZOLLER."
+    }
+   ],
+   "actions": [
+    {
+     "label": "Odpri trgovino",
+     "href": "myzoller:/shop?kind=tooling"
+    },
+    {
+     "label": "Ustvari račun",
+     "href": "myzoller:/registrieren?weiter=%2Fshop%3Fkind%3Dtooling",
+     "ghost": true
+    }
+   ]
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> Zanesljivost za največjo natančnost </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/7/6/csm_ts_pin_modul_03_be3bbbf942.webp",
+    "alt": "",
+    "w": 1540,
+    "h": 630
+   },
+   "spots": [
+    {
+     "x": 23.533,
+     "y": 10.226,
+     "label": "izvrtina za čip",
+     "text": "<h3>izvrtina za čip</h3> <h4>Izvrtina za čip</h4> <p>Za namestitev nosilcev podatkov, kot so RFID-čipi ali ZOLLER »idChip,« na držala orodja ZOLLER Tooling. Standardno pri stožcih z votlim držalom HSK-A, strmih stožcih SK in poligonalnih stožcih PSC.</p> <h4>ZOLLER »idChip«</h4> <p>Za nedvoumno identifikacijo vaših držal orodja in za maksimalno življenjsko dobo izdelka. Na vašo željo vam držala orodja dobavimo uravnotežena s trdno vgrajenim čipom tudi neposredno v vašo proizvodnjo.</p> <h4>Tehnologija 3-žlebov</h4> <p>V izvrtini za čip na držalu orodja lepilo zagotavlja oblikovno zaporo za varno in trdno povezavo.</p>"
+    },
+    {
+     "x": 48.478,
+     "y": 43.161,
+     "label": "Štirje navoji",
+     "text": "<h3>Štirje navoji</h3> <h4>Štirje navoji</h4> <p>Za naknadno natančno uravnoteženje standardnih skrčljivih vpenjal.</p>"
+    },
+    {
+     "x": 71.685,
+     "y": 51.793,
+     "label": "Dolga krčljiva oblika",
+     "text": "<h3>Dolga krčljiva oblika</h3> <h4>Dolga krčljiva vgradnja z vstavnim polmerom</h4> <p>Zagotavlja maksimalne sile krčenja zaradi napetosti orodja po celotni dolžini greda.</p>"
+    },
+    {
+     "x": 13.641,
+     "y": 52.722,
+     "label": "vlečno ramo",
+     "text": "<h3>vlečno ramo</h3> <h4>Trdo obdelano vstavno ramo</h4> <p>Zagotavlja optimalno drsenje napenjalnih segmentov po napenjalnem ramenskem delu in odlično napetost v vretenu. Rezultat tega je osrednji izstopek na napenjalnem ramenskem delu največ 10 μm (5-krat natančnejši od DIN).</p>"
+    },
+    {
+     "x": 82.12,
+     "y": 56.972,
+     "label": "Tolerance pri krožni natančnosti",
+     "text": "<h3>Tolerance pri krožni natančnosti</h3> <h4>Tolerance pri krožnem gibanju</h4> <p>Rešitve za orodja zagotavljajo rotacijsko natančnost &lt; 3 µm.</p>"
+    },
+    {
+     "x": 24.674,
+     "y": 82.47,
+     "label": "Natančno uravnoteženo",
+     "text": "<h3>Natančno uravnoteženo</h3> <h4>Fino uravnoteženo</h4> <p><strong>Vsi nosilci orodja ZOLLER Tooling so natančno uravnoteženi</strong> – G2,5 pri 25.000 min<sup>-1</sup> ali maks. preostala neuravnoteženost ≤ 1 gmm. Posledica tega je mirno delovanje vretena med obdelavo, ki ščiti ležaje. Koristite od daljše življenjske dobe vretena, optimalne površine obdelovanca in daljše življenjske dobe orodja.</p>"
+    },
+    {
+     "x": 8.533,
+     "y": 36.919,
+     "label": "utori za pogonske elemente",
+     "text": "<h3>utori za pogonske elemente</h3> <h4>Urejen z utori za vodila</h4> <p>Zagotavljajo 100-odstotno osrednjo lego utorov, popoln vgrad v vreteno ter odličen prenos navora.</p>"
+    },
+    {
+     "x": 23.478,
+     "y": 36.521,
+     "label": "izpustna površina",
+     "text": "<h3>izpustna površina</h3> <h4>Površina za izmet, obdelana s trdo obdelavo</h4> <p>Zagotavlja varno sprostitev HSK-nosilca orodja pri menjavi orodja.</p>"
+    },
+    {
+     "x": 75.707,
+     "y": 75.697,
+     "label": "»coolTool«",
+     "text": "<h3>»coolTool«</h3> <h4>»coolTool«</h4> <p>Za popolnoma ohlajeno rezilo orodja, optimalno usmerjanje odrezkov in preprečevanje kopičenja odrezkov na rezilu orodja. Poševna namestitev lukenj za hladilno tekočino zagotavlja, da hladilna tekočina pride tja, kjer je potrebna: na rezilo orodja. S tem dosežete optimalne rezultate obdelave in podaljšate življenjsko dobo vaših orodij.</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "qualitaet",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Držalo, »idChip« in digitalni dvojček – vse od enega dobavitelja</h2>",
+   "body": "<p>Na željo vsako držalo dobavimo uravnoteženo in s trdno vlepljenim »idChip« neposredno v vašo proizvodnjo. Izvrtina za čip je standard pri HSK-A, SK in PSC.</p> <p>Koda DataMatrix vsako držalo nedvoumno označi – na napravi za nastavljanje orodij, na »powerShrink« in na stroju. Pri ZOLLER so merjenje, krčenje in uravnoteženje prilagojeni držalom.</p> <p><a class=\"btn\" href=\"/si/izdelki/nosilci-orodja/idchip\">Več o »idChip«</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/7/csm_zoller_smarte_solutions_171a2dc46c.webp",
+     "w": 1454,
+     "h": 1454,
+     "alt": "Držala za orodje ZOLLER Tooling Solutions"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "id": "idchip"
+  },
+  {
+   "type": "accordion",
+   "id": "faq",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>Pogosta vprašanja</h2>",
+   "items": [
+    {
+     "title": "Ali lahko naročim brez številke stranke ZOLLER?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>Da. V MYZOLLER ustvarite račun in ob naročilu vnesite podatke podjetja. Preverimo jih, odpremo vaš račun stranke – običajno še isti delovni dan – in nato samodejno posredujemo vaše naročilo. Zavezujoče postane z našo potrditvijo naročila.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "Katere cene vidim?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>Po prijavi vidite cenikovne cene, kot stranka pa osebne pogoje svojega računa stranke. Vse cene so neto, brez DDV.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "Ali potrebujem stroj ZOLLER?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>Ne. Držala ustrezajo vsakemu stroju z ustreznim vmesnikom. Z napravami ZOLLER za nastavljanje, krčenje in uravnoteženje jih izkoristite najbolje.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "Kaj je digitalni dvojček?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>Popolni geometrijski in osnovni podatki vsakega držala. Prejmete jih z naročilom in jih z enim klikom prenesete v ZOLLER TMS Tool Management Solutions ali svoj sistem CAM.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "Ali lahko naročim držala z »idChip«?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>Da. Izvrtina za čip je standard pri HSK-A, SK in PSC – v trgovini artiklu preprosto dodajte »idChip«, vlepljen in uravnotežen.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "Kako spremljam svoje naročilo?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>V MYZOLLER pod »Naročila«: potrditev naročila, rok dobave in sledenje pošiljki – v živo iz našega sistema.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "downloads",
+   "id": "downloads",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>Brošure</h2>",
+   "files": [
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Broschuere_Tooling_BRTOSO-00_US_01.pdf",
+     "name": "ZOLLER Tooling Solutions",
+     "size": "2 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/6/2/csm_ZOLLER_Broschuere_Tooling_BRTOSO-00_US_01_a9c6bb127e.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ZOLLER Tooling Solutions"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Tooling_Solutions_Hawk-Eye-EN.pdf",
+     "name": "HAWK EYE®",
+     "size": "577 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/6/7/csm_ZOLLER_Tooling_Solutions_Hawk-Eye-EN_3f13651cae.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "HAWK EYE®"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Tooling_Solutions_Spannzangenfutter_EN.pdf",
+     "name": "ER & ER »Mini«",
+     "size": "645 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/f/c/csm_ZOLLER_Tooling_Solutions_Spannzangenfutter_EN_60729ce89b.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ER & ER »Mini«"
+     }
+    }
+   ]
+  }
+ ],
+ "src_path": "/si/izdelki/nosilci-orodja/tooling-shop",
+ "de_path": "/produkte/werkzeugaufnahmen/tooling-shop"
+}

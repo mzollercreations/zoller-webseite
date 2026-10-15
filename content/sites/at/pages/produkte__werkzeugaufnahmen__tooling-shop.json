@@ -1,0 +1,611 @@
+{
+ "path": "/produkte/werkzeugaufnahmen/tooling-shop",
+ "url": "/at/produkte/werkzeugaufnahmen/tooling-shop",
+ "title": "Tooling-Shop",
+ "description": "Tooling-Shop - Über 2.500 Werkzeugaufnahmen von ZOLLER: finden, in MYZOLLER bestellen, digitaler Zwilling inklusive",
+ "og_image": "/fileadmin/_processed_/d/c/csm_header_tooling_79126defc9.webp",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "Tooling-Shop",
+   "id": "tooling-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "text": "<p>Über 2.500 Werkzeugaufnahmen – feingewuchtet, besser als DIN, auf Wunsch mit »idChip«. Finden Sie Ihre Aufnahme und bestellen Sie direkt in MYZOLLER.</p> <p><a class=\"btn\" href=\"#finder\">Werkzeugaufnahme finden</a> <a class=\"btn btn--ghost\" href=\"myzoller:/shop?kind=tooling\">Shop öffnen</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/d/c/csm_header_tooling_79126defc9.webp",
+    "w": 1428,
+    "h": 896,
+    "alt": "ZOLLER Tooling Solutions Werkzeugaufnahmen"
+   }
+  },
+  {
+   "type": "toolfinder",
+   "id": "finder",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>Die passende Werkzeugaufnahme finden</h2>",
+   "intro": "<p>Wählen Sie die Art der Aufnahme und die Schnittstelle Ihrer Maschine – der Shop zeigt alle passenden Aufnahmen mit Maßen, Verfügbarkeit und Preisen.</p>",
+   "t": {
+    "s1": "Art der Aufnahme",
+    "s2": "Schnittstelle Ihrer Maschine",
+    "s2_none": "Passt unabhängig von der Schnittstelle.",
+    "all_cats": "Alle Werkzeugaufnahmen",
+    "all_ifaces": "Alle Schnittstellen",
+    "cta": "Im Shop anzeigen",
+    "note": "Der Shop läuft in MYZOLLER, dem Kundenportal von ZOLLER. Preise sehen Sie nach der Anmeldung – ohne Kundennummer legen wir Ihr Kundenkonto mit der ersten Bestellung an."
+   },
+   "cats": [
+    {
+     "key": "shrink_chuck",
+     "name": "Schrumpffutter",
+     "iface": true
+    },
+    {
+     "key": "collet_chuck",
+     "name": "Spannzangenfutter",
+     "iface": true
+    },
+    {
+     "key": "hawk_eye",
+     "name": "HAWK EYE®",
+     "iface": true
+    },
+    {
+     "key": "weldon",
+     "name": "Weldonaufnahmen",
+     "iface": true
+    },
+    {
+     "key": "whistle_notch",
+     "name": "Whistle-Notch-Aufnahmen",
+     "iface": true
+    },
+    {
+     "key": "screw_in",
+     "name": "Aufnahmen für Einschraubfräser",
+     "iface": true
+    },
+    {
+     "key": "shell_mill",
+     "name": "Messerkopfaufnahmen",
+     "iface": true
+    },
+    {
+     "key": "combi_shell_mill",
+     "name": "Kombidorne",
+     "iface": true
+    },
+    {
+     "key": "morse_taper",
+     "name": "Morsekegelaufnahmen",
+     "iface": true
+    },
+    {
+     "key": "drill_chuck",
+     "name": "Kurzbohrfutter",
+     "iface": true
+    },
+    {
+     "key": "er_collet",
+     "name": "ER-Spannzangen",
+     "iface": false
+    },
+    {
+     "key": "shrink_extension",
+     "name": "Schrumpfverlängerungen",
+     "iface": false
+    },
+    {
+     "key": "tooling_accessory",
+     "name": "Zubehör",
+     "iface": false
+    }
+   ],
+   "ifaces": [
+    {
+     "family": "HSK-A",
+     "items": [
+      "HSK-A40",
+      "HSK-A50",
+      "HSK-A63",
+      "HSK-A80",
+      "HSK-A100"
+     ]
+    },
+    {
+     "family": "HSK-E",
+     "items": [
+      "HSK-E25",
+      "HSK-E32",
+      "HSK-E40",
+      "HSK-E50"
+     ]
+    },
+    {
+     "family": "HSK-F",
+     "items": [
+      "HSK-F63",
+      "HSK-F80"
+     ]
+    },
+    {
+     "family": "SK",
+     "items": [
+      "SK 40",
+      "SK 50"
+     ]
+    },
+    {
+     "family": "BT",
+     "items": [
+      "BT 30",
+      "BT 40",
+      "BT 50"
+     ]
+    },
+    {
+     "family": "BTD",
+     "items": [
+      "BTD 30",
+      "BTD 40"
+     ]
+    },
+    {
+     "family": "PSC",
+     "items": [
+      "PSC 40",
+      "PSC 50",
+      "PSC 63",
+      "PSC 80"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Das Sortiment</h2>",
+   "body": "<p>Alle ZOLLER Tooling Werkzeugaufnahmen sind feingewuchtet und konstant besser als DIN. Ein Klick öffnet die Kategorie im Shop.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/a/7/csm_ts_schrumpffutter_06c2dea98b.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Schrumpffutter",
+     "title": "Schrumpffutter",
+     "href": "myzoller:/shop?kind=tooling&category=shrink_chuck",
+     "caption": "<figcaption> <h3>Schrumpffutter</h3> <p>Zum Spannen von Werkzeugen mit Zylinderschaft aus Hartmetall oder HSS.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/7/csm_ts_spannzangenfutter_eb7fca68dc.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Spannzangenfutter",
+     "title": "Spannzangenfutter",
+     "href": "myzoller:/shop?kind=tooling&category=collet_chuck",
+     "caption": "<figcaption> <h3>Spannzangenfutter</h3> <p>Zum Spannen von Werkzeugen mit Zylinderschaft in ER-Spannzangen.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/5/1/csm_ts_hawk_eye_07abe1a0d5.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "HAWK EYE®",
+     "title": "HAWK EYE®",
+     "href": "myzoller:/shop?kind=tooling&category=hawk_eye",
+     "caption": "<figcaption> <h3>HAWK EYE®</h3> <p>HPC-Präzisions-ER-Spannzangenfutter für die Hochleistungszerspanung.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_ts_weldonaufnahmen_9c7a361d17.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Weldonaufnahmen",
+     "title": "Weldonaufnahmen",
+     "href": "myzoller:/shop?kind=tooling&category=weldon",
+     "caption": "<figcaption> <h3>Weldonaufnahmen</h3> <p>Für Werkzeuge mit Weldon-Spannfläche – ideal ohne innere Kühlmittelzufuhr.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_ts_whistle-notch-aufnahmen_b74918fa98.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Whistle-Notch-Aufnahmen",
+     "title": "Whistle-Notch-Aufnahmen",
+     "href": "myzoller:/shop?kind=tooling&category=whistle_notch",
+     "caption": "<figcaption> <h3>Whistle-Notch-Aufnahmen</h3> <p>Für Werkzeuge mit Zylinderschaft und schräger Whistle-Notch-Spannfläche.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_ts_fuer_einschraubfraeser_e7d8ee83f6.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Aufnahmen für Einschraubfräser",
+     "title": "Aufnahmen für Einschraubfräser",
+     "href": "myzoller:/shop?kind=tooling&category=screw_in",
+     "caption": "<figcaption> <h3>Aufnahmen für Einschraubfräser</h3> <p>Für Fräsköpfe mit Gewindeanschluss.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/2/csm_ts_messerkopfaufnahmen_b76fed0d9d.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Messerkopfaufnahmen",
+     "title": "Messerkopfaufnahmen",
+     "href": "myzoller:/shop?kind=tooling&category=shell_mill",
+     "caption": "<figcaption> <h3>Messerkopfaufnahmen</h3> <p>Zur Aufnahme von Fräsern mit Quernut, mit Kühlmittelzufuhr an die Schneiden.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/a/csm_ts_kombidorne_48f13a98c4.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Kombidorne",
+     "title": "Kombidorne",
+     "href": "myzoller:/shop?kind=tooling&category=combi_shell_mill",
+     "caption": "<figcaption> <h3>Kombidorne</h3> <p>Zur Aufnahme von Fräsern mit Längs- und Quernut.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/f/csm_ts_morsekegelaufnahme_6909dcbe8a.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Morsekegelaufnahmen",
+     "title": "Morsekegelaufnahmen",
+     "href": "myzoller:/shop?kind=tooling&category=morse_taper",
+     "caption": "<figcaption> <h3>Morsekegelaufnahmen</h3> <p>Zur Aufnahme von Morsekegelwerkzeugen mit Austreiblappen nach DIN 2288.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/2/csm_ts_kurzbohrfutter_3c9582d0e0.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Kurzbohrfutter",
+     "title": "Kurzbohrfutter",
+     "href": "myzoller:/shop?kind=tooling&category=drill_chuck",
+     "caption": "<figcaption> <h3>Kurzbohrfutter</h3> <p>Zum Spannen von Bohrern und Werkzeugen mit Zylinderschaft.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/2/csm_ts_er_collet_a62fe34c96.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "ER-Spannzangen",
+     "title": "ER-Spannzangen",
+     "href": "myzoller:/shop?kind=tooling&category=er_collet",
+     "caption": "<figcaption> <h3>ER-Spannzangen</h3> <p>ER und ER «Mini» für Spannzangenfutter und HAWK EYE®.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/a/b/csm_Schrumpfverlaenerungen_category_0b63e58178.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Schrumpfverlängerungen",
+     "title": "Schrumpfverlängerungen",
+     "href": "myzoller:/shop?kind=tooling&category=shrink_extension",
+     "caption": "<figcaption> <h3>Schrumpfverlängerungen</h3> <p>Für Werkzeuge mit Zylinderschaft – mehr Reichweite für tiefe Bearbeitungen.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/c/csm_ts_accessories_651f0aa893.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Zubehör",
+     "title": "Zubehör",
+     "href": "myzoller:/shop?kind=tooling&category=tooling_accessory",
+     "caption": "<figcaption> <h3>Zubehör</h3> <p>Dichtscheiben, Spannmuttern und mehr.</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "id": "sortiment"
+  },
+  {
+   "type": "steps",
+   "id": "bestellen",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>So bestellen Sie</h2>",
+   "items": [
+    {
+     "title": "Aufnahme finden",
+     "text": "Mit dem Finder oben oder direkt im Shop – nach Art, Schnittstelle und Spanndurchmesser."
+    },
+    {
+     "title": "In MYZOLLER anmelden",
+     "text": "Kunden sehen ihre persönlichen Konditionen und bestellen auf Rechnung – Einkauf und Technik im selben Team."
+    },
+    {
+     "title": "Neu bei ZOLLER?",
+     "text": "Auch ohne Kundennummer oder ZOLLER-Gerät: An der Kasse geben Sie Ihre Firmendaten an, wir legen Ihr Kundenkonto an – meist am selben Werktag."
+    },
+    {
+     "title": "Digitaler Zwilling inklusive",
+     "text": "Mit jeder Bestellung erhalten Sie die digitalen Zwillinge – mit einem Klick in ZOLLER TMS und Ihr CAM-System. Den Auftragsstand sehen Sie live in MYZOLLER."
+    }
+   ],
+   "actions": [
+    {
+     "label": "Shop öffnen",
+     "href": "myzoller:/shop?kind=tooling"
+    },
+    {
+     "label": "Konto erstellen",
+     "href": "myzoller:/registrieren?weiter=%2Fshop%3Fkind%3Dtooling",
+     "ghost": true
+    }
+   ]
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> Zuverlässigkeit für höchste Präzision </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/7/6/csm_ts_pin_modul_03_be3bbbf942.webp",
+    "alt": "",
+    "w": 1540,
+    "h": 630
+   },
+   "spots": [
+    {
+     "x": 23.533,
+     "y": 10.226,
+     "label": "Chip-Bohrung",
+     "text": "<h3>Chip-Bohrung</h3> <h4>Chip-Bohrung</h4> <p>Zur Anbringung von Datenträgern wie RFID-Chips oder ZOLLER »idChip« an den ZOLLER Tooling Werkzeug­aufnahmen. Standardmäßig bei Hohlschaftkegeln HSK-A, Steilkegeln SK und Polygonschaftkegeln PSC.</p> <h4>ZOLLER »idChip«</h4> <p>Zur eindeutigen Identifikation Ihrer Werkzeug­halter und für eine maximale Produkt­lebenszeit. Auf Ihren Wunsch hin liefern wir die Werkzeug­halter gewuchtet mit fest integriertem Chip auch direkt in Ihre Fertigung.</p> <h4>3-Rillen-Technologie</h4> <p>In der Chipbohrung der Werkzeugaufnahme garantiert mit dem Kleber einen Formschluss für eine sichere und feste Verbindung.</p>"
+    },
+    {
+     "x": 48.478,
+     "y": 43.161,
+     "label": "Vier Gewinde",
+     "text": "<h3>Vier Gewinde</h3> <h4>Vier Gewinde</h4> <p>Zum nachträglichen Feinwuchten von Standard­schrumpffuttern.</p>"
+    },
+    {
+     "x": 71.685,
+     "y": 51.793,
+     "label": "Lange Schrumpfpassung",
+     "text": "<h3>Lange Schrumpfpassung</h3> <h4>Lange Schrumpf­passung mit Einführradius</h4> <p>Garantiert maximale Schrumpfkräfte, dank der Spannung des Werkzeugs an der gesamten Länge des Schafts.</p>"
+    },
+    {
+     "x": 13.641,
+     "y": 52.722,
+     "label": "Einzugsschulter",
+     "text": "<h3>Einzugsschulter</h3> <h4>Hart nachbearbeitete Einzugsschulter</h4> <p>Garantiert ein optimales Gleiten der Spannsegmente an der Spannschulter und eine ausgezeichnete Spannung in der Spindel. Daraus resultiert ein Rundlauf an der Spannschulter von maximal 10 μm (5x genauer als DIN).</p>"
+    },
+    {
+     "x": 82.12,
+     "y": 56.972,
+     "label": "Rundlauftoleranzen",
+     "text": "<h3>Rundlauftoleranzen</h3> <h4>Rundlauftoleranzen</h4> <p>Tooling Solutions garantieren einen Rundlauf &lt; 3 µm.</p>"
+    },
+    {
+     "x": 24.674,
+     "y": 82.47,
+     "label": "Feingewuchtet",
+     "text": "<h3>Feingewuchtet</h3> <h4>Feingewuchtet</h4> <p><strong>Alle ZOLLER Tooling Werkzeugaufnahmen sind feingewuchtet</strong> – G2,5 bei 25.000 min<sup>-1</sup> oder max. Restunwucht ≤ 1 gmm. Daraus folgt ein ruhiger, lagerschonender Spindellauf bei der Bearbeitung. Sie profitieren von einer längeren Lebensdauer der Spindel, einer optimalen Werkstückoberfläche und höheren Werkzeugstandzeiten.</p>"
+    },
+    {
+     "x": 8.533,
+     "y": 36.919,
+     "label": "Mitnehmernuten",
+     "text": "<h3>Mitnehmernuten</h3> <h4>Hart nachbearbeitete Mitnehmernuten</h4> <p>Garantieren eine 100 %-ige Mittenlage der Nuten, einen perfekten Sitz in der Spindel sowie eine hervorragende Drehmomentübertragung.</p>"
+    },
+    {
+     "x": 23.478,
+     "y": 36.521,
+     "label": "Ausstoßfläche",
+     "text": "<h3>Ausstoßfläche</h3> <h4>Hart nachbearbeitete Ausstoßfläche</h4> <p>Garantiert ein sicheres Lösen der HSK-Werkzeugaufnahme beim Werkzeugwechsel.</p>"
+    },
+    {
+     "x": 75.707,
+     "y": 75.697,
+     "label": "»coolTool«",
+     "text": "<h3>»coolTool«</h3> <h4>»coolTool«</h4> <p>Für eine perfekte, gekühlte Werkzeugschneide, eine optimale Lenkung des Spans und die Vermeidung von Späneansammlungen an der Werkzeugschneide. Die schräge Anbringung der Kühlmittelbohrungen garantiert, dass Ihr Kühlmittel dort ankommt, wo es benötigt wird: an Ihrer Werkzeugschneide. Damit erzielen Sie optimale Zerspanergebnisse und erhöhen die Standzeit Ihrer Werkzeuge.</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "qualitaet",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Werkzeugaufnahme, »idChip« und digitaler Zwilling – alles aus einer Hand</h2>",
+   "body": "<p>Auf Wunsch liefern wir jede Werkzeugaufnahme feingewuchtet und mit fest eingeklebtem »idChip« direkt in Ihre Fertigung. Bei Hohlschaftkegel HSK-A, Steilkegel SK und Polygonschaftkegel PSC ist die Chip-Bohrung Standard.</p> <p>Der DataMatrix-Code macht jeden Halter eindeutig – am Einstell- und Messgerät, am »powerShrink« und an der Maschine. Messen, Schrumpfen und Wuchten sind bei ZOLLER auf die Aufnahmen abgestimmt.</p> <p><a class=\"btn\" href=\"/at/produkte/werkzeugaufnahmen/idchip\">Mehr zum »idChip«</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/7/csm_zoller_smarte_solutions_171a2dc46c.webp",
+     "w": 1454,
+     "h": 1454,
+     "alt": "ZOLLER Tooling Solutions Werkzeugaufnahmen"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "id": "idchip"
+  },
+  {
+   "type": "accordion",
+   "id": "faq",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>Häufige Fragen</h2>",
+   "items": [
+    {
+     "title": "Kann ich auch ohne ZOLLER-Kundennummer bestellen?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>Ja. Legen Sie in MYZOLLER ein Konto an und geben Sie an der Kasse Ihre Firmendaten an. Wir prüfen sie, legen Ihr Kundenkonto an – in der Regel am selben Werktag – und geben Ihre Bestellung dann automatisch weiter. Verbindlich wird sie mit unserer Auftragsbestätigung.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "Welche Preise sehe ich?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>Nach der Anmeldung sehen Sie Listenpreise, als Kunde die persönlichen Konditionen Ihres Kundenkontos. Alle Preise verstehen sich netto zuzüglich Mehrwertsteuer.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "Brauche ich ein ZOLLER-Gerät?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>Nein. Die Werkzeugaufnahmen passen zu jeder Maschine mit der entsprechenden Schnittstelle. Mit ZOLLER-Geräten zum Einstellen, Schrumpfen und Wuchten holen Sie das Beste aus ihnen heraus.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "Was ist der digitale Zwilling?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>Die vollständigen Geometrie- und Stammdaten jeder Aufnahme. Sie erhalten sie mit Ihrer Bestellung und übernehmen sie mit einem Klick in ZOLLER TMS Tool Management Solutions oder Ihr CAM-System.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "Kann ich Werkzeugaufnahmen mit »idChip« bestellen?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>Ja. Bei HSK-A, SK und PSC ist die Chip-Bohrung Standard – den »idChip« wählen Sie im Shop direkt beim Artikel dazu, eingeklebt und feingewuchtet.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "Wie verfolge ich meine Bestellung?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>In MYZOLLER unter „Aufträge“: Auftragsbestätigung, Liefertermin und Sendungsverfolgung – live aus unserem System.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "downloads",
+   "id": "downloads",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>Broschüren</h2>",
+   "files": [
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Broschuere_Tooling_BRTOSO-00_DE.pdf",
+     "name": "Broschüre ZOLLER Tooling Solutions",
+     "size": "2 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/b/a/csm_ZOLLER_Broschuere_Tooling_BRTOSO-00_DE_dfa165c084.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Broschüre ZOLLER Tooling Solutions"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Tooling_Solutions_Hawk-Eye-DE.pdf",
+     "name": "Werkzeug-Spannsysteme HAWK EYE®",
+     "size": "358 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/b/4/csm_ZOLLER_Tooling_Solutions_Hawk-Eye-DE_f065ab4174.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Werkzeug-Spannsysteme HAWK EYE®"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Tooling_Solutions_Spannzangenfutter_DE.pdf",
+     "name": "Werkzeug-Spannsysteme ER & ER »Mini«",
+     "size": "426 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/1/0/csm_ZOLLER_Tooling_Solutions_Spannzangenfutter_DE_7b91896d84.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Werkzeug-Spannsysteme ER & ER »Mini«"
+     }
+    }
+   ]
+  }
+ ],
+ "src_path": "/at/produkte/werkzeugaufnahmen/tooling-shop",
+ "de_path": "/produkte/werkzeugaufnahmen/tooling-shop"
+}

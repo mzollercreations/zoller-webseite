@@ -1,0 +1,611 @@
+{
+ "path": "/製品/工具ホルダー/tooling-shop",
+ "url": "/ja/%E8%A3%BD%E5%93%81/%E5%B7%A5%E5%85%B7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC/tooling-shop",
+ "title": "Tooling Shop",
+ "description": "Tooling Shop - 2,500種類以上のZOLLERツールホルダー：探して、MYZOLLERで注文、デジタルツイン付き",
+ "og_image": "/fileadmin/_processed_/d/c/csm_header_tooling_79126defc9.webp",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "Tooling Shop",
+   "id": "tooling-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "text": "<p>2,500種類以上のツールホルダー。精密バランス調整済み、DIN規格を上回る精度、ご希望により»idChip«付き。最適なホルダーを見つけて、MYZOLLERで直接ご注文いただけます。</p> <p><a class=\"btn\" href=\"#finder\">ホルダーを探す</a> <a class=\"btn btn--ghost\" href=\"myzoller:/shop?kind=tooling\">ショップを開く</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/d/c/csm_header_tooling_79126defc9.webp",
+    "w": 1428,
+    "h": 896,
+    "alt": "ZOLLER Tooling Solutions ツールホルダー"
+   }
+  },
+  {
+   "type": "toolfinder",
+   "id": "finder",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>最適なツールホルダーを見つける</h2>",
+   "intro": "<p>ホルダーの種類と機械のインターフェースを選択してください。ショップで寸法、在庫状況、価格とともに該当するホルダーがすべて表示されます。</p>",
+   "t": {
+    "s1": "ホルダーの種類",
+    "s2": "機械のインターフェース",
+    "s2_none": "インターフェースを問わず使用できます。",
+    "all_cats": "すべてのツールホルダー",
+    "all_ifaces": "すべてのインターフェース",
+    "cta": "ショップで表示",
+    "note": "ショップはZOLLERのカスタマーポータルMYZOLLER上で運営されています。価格はログイン後に表示されます。お客様番号をお持ちでない場合は、初回のご注文と同時にお客様アカウントを作成します。"
+   },
+   "cats": [
+    {
+     "key": "shrink_chuck",
+     "name": "焼きばめホルダー",
+     "iface": true
+    },
+    {
+     "key": "collet_chuck",
+     "name": "コレットチャック",
+     "iface": true
+    },
+    {
+     "key": "hawk_eye",
+     "name": "HAWK EYE®",
+     "iface": true
+    },
+    {
+     "key": "weldon",
+     "name": "ウェルドンホルダー",
+     "iface": true
+    },
+    {
+     "key": "whistle_notch",
+     "name": "ホイッスルノッチホルダー",
+     "iface": true
+    },
+    {
+     "key": "screw_in",
+     "name": "ねじ込み式カッター用ホルダー",
+     "iface": true
+    },
+    {
+     "key": "shell_mill",
+     "name": "フェイスミルアーバー",
+     "iface": true
+    },
+    {
+     "key": "combi_shell_mill",
+     "name": "コンビネーションアーバー",
+     "iface": true
+    },
+    {
+     "key": "morse_taper",
+     "name": "モールステーパーホルダー",
+     "iface": true
+    },
+    {
+     "key": "drill_chuck",
+     "name": "ショートドリルチャック",
+     "iface": true
+    },
+    {
+     "key": "er_collet",
+     "name": "ERコレット",
+     "iface": false
+    },
+    {
+     "key": "shrink_extension",
+     "name": "焼きばめエクステンション",
+     "iface": false
+    },
+    {
+     "key": "tooling_accessory",
+     "name": "アクセサリー",
+     "iface": false
+    }
+   ],
+   "ifaces": [
+    {
+     "family": "HSK-A",
+     "items": [
+      "HSK-A40",
+      "HSK-A50",
+      "HSK-A63",
+      "HSK-A80",
+      "HSK-A100"
+     ]
+    },
+    {
+     "family": "HSK-E",
+     "items": [
+      "HSK-E25",
+      "HSK-E32",
+      "HSK-E40",
+      "HSK-E50"
+     ]
+    },
+    {
+     "family": "HSK-F",
+     "items": [
+      "HSK-F63",
+      "HSK-F80"
+     ]
+    },
+    {
+     "family": "SK",
+     "items": [
+      "SK 40",
+      "SK 50"
+     ]
+    },
+    {
+     "family": "BT",
+     "items": [
+      "BT 30",
+      "BT 40",
+      "BT 50"
+     ]
+    },
+    {
+     "family": "BTD",
+     "items": [
+      "BTD 30",
+      "BTD 40"
+     ]
+    },
+    {
+     "family": "PSC",
+     "items": [
+      "PSC 40",
+      "PSC 50",
+      "PSC 63",
+      "PSC 80"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>製品ラインナップ</h2>",
+   "body": "<p>ZOLLER Toolingのツールホルダーはすべて精密バランス調整済みで、常にDIN規格を上回ります。クリックするとショップでカテゴリーが開きます。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/a/7/csm_ts_schrumpffutter_06c2dea98b.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "焼きばめホルダー",
+     "title": "焼きばめホルダー",
+     "href": "myzoller:/shop?kind=tooling&category=shrink_chuck",
+     "caption": "<figcaption> <h3>焼きばめホルダー</h3> <p>超硬またはHSS製のストレートシャンク工具の把握に。</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/7/csm_ts_spannzangenfutter_eb7fca68dc.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "コレットチャック",
+     "title": "コレットチャック",
+     "href": "myzoller:/shop?kind=tooling&category=collet_chuck",
+     "caption": "<figcaption> <h3>コレットチャック</h3> <p>ERコレットでストレートシャンク工具を把握します。</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/5/1/csm_ts_hawk_eye_07abe1a0d5.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "HAWK EYE®",
+     "title": "HAWK EYE®",
+     "href": "myzoller:/shop?kind=tooling&category=hawk_eye",
+     "caption": "<figcaption> <h3>HAWK EYE®</h3> <p>高能率加工向けHPC高精度ERコレットチャック。</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_ts_weldonaufnahmen_9c7a361d17.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "ウェルドンホルダー",
+     "title": "ウェルドンホルダー",
+     "href": "myzoller:/shop?kind=tooling&category=weldon",
+     "caption": "<figcaption> <h3>ウェルドンホルダー</h3> <p>ウェルドンフラット付き工具用。内部給油なしの用途に最適です。</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_ts_whistle-notch-aufnahmen_b74918fa98.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "ホイッスルノッチホルダー",
+     "title": "ホイッスルノッチホルダー",
+     "href": "myzoller:/shop?kind=tooling&category=whistle_notch",
+     "caption": "<figcaption> <h3>ホイッスルノッチホルダー</h3> <p>傾斜したホイッスルノッチフラット付きストレートシャンク工具用。</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_ts_fuer_einschraubfraeser_e7d8ee83f6.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "ねじ込み式カッター用ホルダー",
+     "title": "ねじ込み式カッター用ホルダー",
+     "href": "myzoller:/shop?kind=tooling&category=screw_in",
+     "caption": "<figcaption> <h3>ねじ込み式カッター用ホルダー</h3> <p>ねじ接続式のミーリングヘッド用。</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/2/csm_ts_messerkopfaufnahmen_b76fed0d9d.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "フェイスミルアーバー",
+     "title": "フェイスミルアーバー",
+     "href": "myzoller:/shop?kind=tooling&category=shell_mill",
+     "caption": "<figcaption> <h3>フェイスミルアーバー</h3> <p>キー溝付きカッター用。切れ刃までクーラントを供給します。</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/a/csm_ts_kombidorne_48f13a98c4.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "コンビネーションアーバー",
+     "title": "コンビネーションアーバー",
+     "href": "myzoller:/shop?kind=tooling&category=combi_shell_mill",
+     "caption": "<figcaption> <h3>コンビネーションアーバー</h3> <p>縦キー溝と横キー溝の両方を持つカッター用。</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/f/csm_ts_morsekegelaufnahme_6909dcbe8a.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "モールステーパーホルダー",
+     "title": "モールステーパーホルダー",
+     "href": "myzoller:/shop?kind=tooling&category=morse_taper",
+     "caption": "<figcaption> <h3>モールステーパーホルダー</h3> <p>DIN 2288準拠のタング付きモールステーパー工具用。</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/2/csm_ts_kurzbohrfutter_3c9582d0e0.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "ショートドリルチャック",
+     "title": "ショートドリルチャック",
+     "href": "myzoller:/shop?kind=tooling&category=drill_chuck",
+     "caption": "<figcaption> <h3>ショートドリルチャック</h3> <p>ドリルやストレートシャンク工具の把握に。</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/2/csm_ts_er_collet_a62fe34c96.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "ERコレット",
+     "title": "ERコレット",
+     "href": "myzoller:/shop?kind=tooling&category=er_collet",
+     "caption": "<figcaption> <h3>ERコレット</h3> <p>コレットチャックおよびHAWK EYE®用のERおよびER «Mini»。</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/a/b/csm_Schrumpfverlaenerungen_category_0b63e58178.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "焼きばめエクステンション",
+     "title": "焼きばめエクステンション",
+     "href": "myzoller:/shop?kind=tooling&category=shrink_extension",
+     "caption": "<figcaption> <h3>焼きばめエクステンション</h3> <p>ストレートシャンク工具用。深い加工に必要な突出し長を確保します。</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/c/csm_ts_accessories_651f0aa893.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "アクセサリー",
+     "title": "アクセサリー",
+     "href": "myzoller:/shop?kind=tooling&category=tooling_accessory",
+     "caption": "<figcaption> <h3>アクセサリー</h3> <p>シールディスク、クランプナットなど。</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "id": "sortiment"
+  },
+  {
+   "type": "steps",
+   "id": "bestellen",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>ご注文の流れ</h2>",
+   "items": [
+    {
+     "title": "ホルダーを探す",
+     "text": "上の検索ツールまたはショップで直接、種類・インターフェース・把握径から絞り込めます。"
+    },
+    {
+     "title": "MYZOLLERにログイン",
+     "text": "お客様は個別の取引条件を確認し、請求書払いでご注文いただけます。購買部門と技術部門が同じチームで利用できます。"
+    },
+    {
+     "title": "ZOLLERは初めてですか？",
+     "text": "お客様番号やZOLLERの機器がなくても大丈夫です。チェックアウト時に会社情報をご入力いただければ、お客様アカウントを作成します。通常は同じ営業日内に完了します。"
+    },
+    {
+     "title": "デジタルツイン付き",
+     "text": "ご注文ごとにデジタルツインが付属し、ワンクリックでZOLLER TMSやCAMシステムに取り込めます。注文状況はMYZOLLERでリアルタイムに確認できます。"
+    }
+   ],
+   "actions": [
+    {
+     "label": "ショップを開く",
+     "href": "myzoller:/shop?kind=tooling"
+    },
+    {
+     "label": "アカウントを作成",
+     "href": "myzoller:/registrieren?weiter=%2Fshop%3Fkind%3Dtooling",
+     "ghost": true
+    }
+   ]
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> 最高の精度を実現する信頼性 </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/7/6/csm_ts_pin_modul_03_be3bbbf942.webp",
+    "alt": "",
+    "w": 1540,
+    "h": 630
+   },
+   "spots": [
+    {
+     "x": 23.533,
+     "y": 10.226,
+     "label": "チップの穴あけ",
+     "text": "<h3>チップの穴あけ</h3> <h4>チップ用穴</h4> <p>RFIDチップやZOLLER »idChip«などのデータキャリアを、ZOLLER Toolingの工具ホルダーに取り付けるためのものです。中空シャンクテーパーHSK-A、急テーパーSK、多角シャンクテーパーPSCには標準装備されています。</p> <h4>ZOLLER »idChip«</h4> <p>工具ホルダーを確実に識別し、製品寿命を最大限に延ばすためのものです。ご要望に応じて、チップが固定された状態でバランス調整済みの工具ホルダーを、お客様の製造現場へ直接お届けします。</p> <h4>3溝技術</h4> <p>チップ穴と工具ホルダーの嵌合部において、接着剤による形状嵌合を保証し、確実かつ強固な結合を実現します。</p>"
+    },
+    {
+     "x": 48.478,
+     "y": 43.161,
+     "label": "4つのネジ穴",
+     "text": "<h3>4つのネジ穴</h3> <h4>4つのネジ穴</h4> <p>標準収縮チャックの事後微調整用。</p>"
+    },
+    {
+     "x": 71.685,
+     "y": 51.793,
+     "label": "長いシュリンクフィット",
+     "text": "<h3>長いシュリンクフィット</h3> <h4>導入半径付きの長尺収縮嵌合</h4> <p>シャフト全長にわたって工具が加圧されるため、最大の収縮力を保証します。</p>"
+    },
+    {
+     "x": 13.641,
+     "y": 52.722,
+     "label": "引き込み肩",
+     "text": "<h3>引き込み肩</h3> <h4>高精度仕上げを施した引き込み肩</h4> <p>これにより、締め付け段における締め付けセグメントの最適な滑走と、スピンドル内の優れた締め付け力が保証されます。その結果、締め付け段における振れは最大10μm（DIN規格の5倍の精度）となります。</p>"
+    },
+    {
+     "x": 82.12,
+     "y": 56.972,
+     "label": "真円度公差",
+     "text": "<h3>真円度公差</h3> <h4>真円度公差</h4> <p>当社のツーリングソリューションは、3 µm未満の真円度を保証します。</p>"
+    },
+    {
+     "x": 24.674,
+     "y": 82.47,
+     "label": "精密バランス調整済み",
+     "text": "<h3>精密バランス調整済み</h3> <h4>精密バランス調整済み</h4> <p><strong>ZOLLER Toolingのすべての工具ホルダーは精密バランス調整済みです</strong>（25,000 min⁻¹でG2.5、または最大残留不均衡量≤1 gmm）。これにより、加工時のスピンドル回転が安定し、ベアリングへの負担が軽減されます。その結果、スピンドルの寿命延長、最適なワーク表面仕上げ、および工具寿命の向上というメリットが得られます。</p>"
+    },
+    {
+     "x": 8.533,
+     "y": 36.919,
+     "label": "ドライブ溝",
+     "text": "<h3>ドライブ溝</h3> <h4>高精度仕上げを施したドライブ溝</h4> <p>溝の位置が100%正確に中心に位置することを保証し、スピンドルへの完璧な嵌合と優れたトルク伝達を実現します。</p>"
+    },
+    {
+     "x": 23.478,
+     "y": 36.521,
+     "label": "放出面積",
+     "text": "<h3>放出面積</h3> <h4>硬質仕上げを施した排出面</h4> <p>工具交換時にHSK工具ホルダーが確実に外れることを保証します。</p>"
+    },
+    {
+     "x": 75.707,
+     "y": 75.697,
+     "label": "»coolTool«",
+     "text": "<h3>»coolTool«</h3> <h4>»coolTool«</h4> <p>工具の刃先を完璧に冷却し、切りくずの流れを最適化し、刃先への切りくずの堆積を防ぎます。冷却剤用穴を斜めに配置することで、冷却剤が必要な場所、つまり工具の刃先に確実に到達します。これにより、最適な切削結果が得られ、工具の寿命を延ばすことができます。</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "qualitaet",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>ツールホルダー、»idChip«、デジタルツインをワンストップで</h2>",
+   "body": "<p>ご希望により、すべてのツールホルダーをバランス調整し»idChip«を接着した状態で生産現場へ直接お届けします。HSK-A、SK、PSCにはチップ穴が標準装備されています。</p> <p>DataMatrixコードにより、プリセッター、»powerShrink«、工作機械のどこでも各ホルダーを一意に識別できます。ZOLLERでは測定、焼きばめ、バランス調整がホルダーに合わせて最適化されています。</p> <p><a class=\"btn\" href=\"/ja/%E8%A3%BD%E5%93%81/%E5%B7%A5%E5%85%B7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC/idchip\">»idChip«の詳細</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/7/csm_zoller_smarte_solutions_171a2dc46c.webp",
+     "w": 1454,
+     "h": 1454,
+     "alt": "ZOLLER Tooling Solutions ツールホルダー"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "id": "idchip"
+  },
+  {
+   "type": "accordion",
+   "id": "faq",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>よくあるご質問</h2>",
+   "items": [
+    {
+     "title": "ZOLLERのお客様番号がなくても注文できますか？",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>はい。MYZOLLERでアカウントを作成し、チェックアウト時に会社情報をご入力ください。内容を確認のうえお客様アカウントを作成し（通常は同じ営業日内）、ご注文を自動的に手配します。ご注文は当社の注文確認をもって確定します。</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "どの価格が表示されますか？",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>ログイン後は定価が表示され、お客様は個別の取引条件が表示されます。価格はすべて税抜きです。</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "ZOLLERの機器が必要ですか？",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>いいえ。ツールホルダーは対応するインターフェースを備えたあらゆる機械でお使いいただけます。ZOLLERのプリセッター、焼きばめ装置、バランス装置と組み合わせると、性能を最大限に引き出せます。</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "デジタルツインとは何ですか？",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>各ホルダーの形状データとマスターデータ一式です。ご注文時に受け取り、ワンクリックでZOLLER TMS Tool Management SolutionsやCAMシステムに取り込めます。</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "»idChip«付きのツールホルダーを注文できますか？",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>はい。HSK-A、SK、PSCにはチップ穴が標準装備されています。ショップで商品に、接着・バランス調整済みの»idChip«を追加するだけです。</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "注文状況はどのように確認できますか？",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>MYZOLLERの「注文」で、注文確認、納期、配送追跡をリアルタイムでご確認いただけます。</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "downloads",
+   "id": "downloads",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>パンフレット</h2>",
+   "files": [
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Broschuere_Tooling_BRTOSO-00_US_01.pdf",
+     "name": "Tooling Solutions",
+     "size": "2 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/6/2/csm_ZOLLER_Broschuere_Tooling_BRTOSO-00_US_01_a9c6bb127e.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Tooling Solutions"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Tooling_Solutions_Hawk-Eye-EN.pdf",
+     "name": "HAWK EYE®",
+     "size": "577 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/6/7/csm_ZOLLER_Tooling_Solutions_Hawk-Eye-EN_3f13651cae.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "HAWK EYE®"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Tooling_Solutions_Spannzangenfutter_EN.pdf",
+     "name": "ER & ER »Mini«",
+     "size": "645 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/f/c/csm_ZOLLER_Tooling_Solutions_Spannzangenfutter_EN_60729ce89b.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ER & ER »Mini«"
+     }
+    }
+   ]
+  }
+ ],
+ "src_path": "/ja/%E8%A3%BD%E5%93%81/%E5%B7%A5%E5%85%B7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC/tooling-shop",
+ "de_path": "/produkte/werkzeugaufnahmen/tooling-shop"
+}

@@ -1,0 +1,611 @@
+{
+ "path": "/products/tooling-solutions/tooling-shop",
+ "url": "/tr/products/tooling-solutions/tooling-shop",
+ "title": "Tooling Shop",
+ "description": "Tooling Shop - 2.500'den fazla ZOLLER takım tutucu: bulun, MYZOLLER'de sipariş verin, dijital ikiz dahil",
+ "og_image": "/fileadmin/_processed_/d/c/csm_header_tooling_79126defc9.webp",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "Tooling Shop",
+   "id": "tooling-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "text": "<p>2.500'den fazla takım tutucu – hassas balanslı, DIN'den daha iyi, istenirse »idChip« ile. Tutucunuzu bulun ve doğrudan MYZOLLER'de sipariş verin.</p> <p><a class=\"btn\" href=\"#finder\">Tutucu bul</a> <a class=\"btn btn--ghost\" href=\"myzoller:/shop?kind=tooling\">Mağazayı aç</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/d/c/csm_header_tooling_79126defc9.webp",
+    "w": 1428,
+    "h": 896,
+    "alt": "ZOLLER Tooling Solutions takım tutucuları"
+   }
+  },
+  {
+   "type": "toolfinder",
+   "id": "finder",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>Doğru takım tutucuyu bulun</h2>",
+   "intro": "<p>Tutucu türünü ve makinenizin arayüzünü seçin – mağaza ölçüler, stok durumu ve fiyatlarla tüm uygun tutucuları gösterir.</p>",
+   "t": {
+    "s1": "Tutucu türü",
+    "s2": "Makinenizin arayüzü",
+    "s2_none": "Arayüzden bağımsız olarak uygundur.",
+    "all_cats": "Tüm takım tutucular",
+    "all_ifaces": "Tüm arayüzler",
+    "cta": "Mağazada göster",
+    "note": "Mağaza, ZOLLER'in müşteri portalı MYZOLLER'de çalışır. Fiyatları giriş yaptıktan sonra görürsünüz; müşteri numaranız yoksa müşteri hesabınızı ilk siparişinizle birlikte oluştururuz."
+   },
+   "cats": [
+    {
+     "key": "shrink_chuck",
+     "name": "Sıcak geçme tutucular",
+     "iface": true
+    },
+    {
+     "key": "collet_chuck",
+     "name": "Pens tutucular",
+     "iface": true
+    },
+    {
+     "key": "hawk_eye",
+     "name": "HAWK EYE®",
+     "iface": true
+    },
+    {
+     "key": "weldon",
+     "name": "Weldon tutucular",
+     "iface": true
+    },
+    {
+     "key": "whistle_notch",
+     "name": "Whistle Notch tutucular",
+     "iface": true
+    },
+    {
+     "key": "screw_in",
+     "name": "Vidalı frezeler için tutucular",
+     "iface": true
+    },
+    {
+     "key": "shell_mill",
+     "name": "Freze kafası tutucuları",
+     "iface": true
+    },
+    {
+     "key": "combi_shell_mill",
+     "name": "Kombine freze mandrelleri",
+     "iface": true
+    },
+    {
+     "key": "morse_taper",
+     "name": "Mors konik tutucular",
+     "iface": true
+    },
+    {
+     "key": "drill_chuck",
+     "name": "Kısa matkap aynaları",
+     "iface": true
+    },
+    {
+     "key": "er_collet",
+     "name": "ER pensler",
+     "iface": false
+    },
+    {
+     "key": "shrink_extension",
+     "name": "Sıcak geçme uzatmalar",
+     "iface": false
+    },
+    {
+     "key": "tooling_accessory",
+     "name": "Aksesuarlar",
+     "iface": false
+    }
+   ],
+   "ifaces": [
+    {
+     "family": "HSK-A",
+     "items": [
+      "HSK-A40",
+      "HSK-A50",
+      "HSK-A63",
+      "HSK-A80",
+      "HSK-A100"
+     ]
+    },
+    {
+     "family": "HSK-E",
+     "items": [
+      "HSK-E25",
+      "HSK-E32",
+      "HSK-E40",
+      "HSK-E50"
+     ]
+    },
+    {
+     "family": "HSK-F",
+     "items": [
+      "HSK-F63",
+      "HSK-F80"
+     ]
+    },
+    {
+     "family": "SK",
+     "items": [
+      "SK 40",
+      "SK 50"
+     ]
+    },
+    {
+     "family": "BT",
+     "items": [
+      "BT 30",
+      "BT 40",
+      "BT 50"
+     ]
+    },
+    {
+     "family": "BTD",
+     "items": [
+      "BTD 30",
+      "BTD 40"
+     ]
+    },
+    {
+     "family": "PSC",
+     "items": [
+      "PSC 40",
+      "PSC 50",
+      "PSC 63",
+      "PSC 80"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Ürün yelpazesi</h2>",
+   "body": "<p>Tüm ZOLLER Tooling takım tutucuları hassas balanslıdır ve her zaman DIN'den daha iyidir. Tek tıkla kategori mağazada açılır.</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/a/7/csm_ts_schrumpffutter_06c2dea98b.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Sıcak geçme tutucular",
+     "title": "Sıcak geçme tutucular",
+     "href": "myzoller:/shop?kind=tooling&category=shrink_chuck",
+     "caption": "<figcaption> <h3>Sıcak geçme tutucular</h3> <p>Karbür veya HSS silindirik saplı takımların sıkılması için.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/7/csm_ts_spannzangenfutter_eb7fca68dc.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Pens tutucular",
+     "title": "Pens tutucular",
+     "href": "myzoller:/shop?kind=tooling&category=collet_chuck",
+     "caption": "<figcaption> <h3>Pens tutucular</h3> <p>Silindirik saplı takımların ER penslerde sıkılması için.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/5/1/csm_ts_hawk_eye_07abe1a0d5.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "HAWK EYE®",
+     "title": "HAWK EYE®",
+     "href": "myzoller:/shop?kind=tooling&category=hawk_eye",
+     "caption": "<figcaption> <h3>HAWK EYE®</h3> <p>Yüksek performanslı işleme için HPC hassas ER pens tutucular.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_ts_weldonaufnahmen_9c7a361d17.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Weldon tutucular",
+     "title": "Weldon tutucular",
+     "href": "myzoller:/shop?kind=tooling&category=weldon",
+     "caption": "<figcaption> <h3>Weldon tutucular</h3> <p>Weldon düzlüğüne sahip takımlar için – iç soğutma olmadan ideal.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_ts_whistle-notch-aufnahmen_b74918fa98.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Whistle Notch tutucular",
+     "title": "Whistle Notch tutucular",
+     "href": "myzoller:/shop?kind=tooling&category=whistle_notch",
+     "caption": "<figcaption> <h3>Whistle Notch tutucular</h3> <p>Silindirik saplı ve eğimli Whistle Notch düzlüğüne sahip takımlar için.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_ts_fuer_einschraubfraeser_e7d8ee83f6.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Vidalı frezeler için tutucular",
+     "title": "Vidalı frezeler için tutucular",
+     "href": "myzoller:/shop?kind=tooling&category=screw_in",
+     "caption": "<figcaption> <h3>Vidalı frezeler için tutucular</h3> <p>Dişli bağlantılı freze kafaları için.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/2/csm_ts_messerkopfaufnahmen_b76fed0d9d.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Freze kafası tutucuları",
+     "title": "Freze kafası tutucuları",
+     "href": "myzoller:/shop?kind=tooling&category=shell_mill",
+     "caption": "<figcaption> <h3>Freze kafası tutucuları</h3> <p>Enine kamalı frezeler için, kesici ağızlara kadar soğutma ile.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/a/csm_ts_kombidorne_48f13a98c4.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Kombine freze mandrelleri",
+     "title": "Kombine freze mandrelleri",
+     "href": "myzoller:/shop?kind=tooling&category=combi_shell_mill",
+     "caption": "<figcaption> <h3>Kombine freze mandrelleri</h3> <p>Boyuna ve enine kamalı frezeler için.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/f/csm_ts_morsekegelaufnahme_6909dcbe8a.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Mors konik tutucular",
+     "title": "Mors konik tutucular",
+     "href": "myzoller:/shop?kind=tooling&category=morse_taper",
+     "caption": "<figcaption> <h3>Mors konik tutucular</h3> <p>DIN 2288'e göre çıkarma dilli Mors konik takımlar için.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/2/csm_ts_kurzbohrfutter_3c9582d0e0.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Kısa matkap aynaları",
+     "title": "Kısa matkap aynaları",
+     "href": "myzoller:/shop?kind=tooling&category=drill_chuck",
+     "caption": "<figcaption> <h3>Kısa matkap aynaları</h3> <p>Matkapların ve silindirik saplı takımların sıkılması için.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/2/csm_ts_er_collet_a62fe34c96.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "ER pensler",
+     "title": "ER pensler",
+     "href": "myzoller:/shop?kind=tooling&category=er_collet",
+     "caption": "<figcaption> <h3>ER pensler</h3> <p>Pens tutucular ve HAWK EYE® için ER ve ER «Mini».</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/a/b/csm_Schrumpfverlaenerungen_category_0b63e58178.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Sıcak geçme uzatmalar",
+     "title": "Sıcak geçme uzatmalar",
+     "href": "myzoller:/shop?kind=tooling&category=shrink_extension",
+     "caption": "<figcaption> <h3>Sıcak geçme uzatmalar</h3> <p>Silindirik saplı takımlar için – derin işlemede daha fazla erişim.</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/c/csm_ts_accessories_651f0aa893.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Aksesuarlar",
+     "title": "Aksesuarlar",
+     "href": "myzoller:/shop?kind=tooling&category=tooling_accessory",
+     "caption": "<figcaption> <h3>Aksesuarlar</h3> <p>Sızdırmazlık diskleri, sıkma somunları ve daha fazlası.</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "id": "sortiment"
+  },
+  {
+   "type": "steps",
+   "id": "bestellen",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>Nasıl sipariş verilir</h2>",
+   "items": [
+    {
+     "title": "Tutucuyu bulun",
+     "text": "Yukarıdaki seçiciyle veya doğrudan mağazada – türe, arayüze ve sıkma çapına göre."
+    },
+    {
+     "title": "MYZOLLER'e giriş yapın",
+     "text": "Müşteriler kendi koşullarını görür ve faturayla sipariş verir – satın alma ve teknik aynı ekipte."
+    },
+    {
+     "title": "ZOLLER'de yeni misiniz?",
+     "text": "Müşteri numarası veya ZOLLER makinesi olmadan da: ödeme adımında firma bilgilerinizi girin, müşteri hesabınızı oluşturalım – genellikle aynı iş günü içinde."
+    },
+    {
+     "title": "Dijital ikiz dahil",
+     "text": "Her siparişle dijital ikizler gelir – tek tıkla ZOLLER TMS'e ve CAM sisteminize. Sipariş durumunu MYZOLLER'de canlı takip edersiniz."
+    }
+   ],
+   "actions": [
+    {
+     "label": "Mağazayı aç",
+     "href": "myzoller:/shop?kind=tooling"
+    },
+    {
+     "label": "Hesap oluştur",
+     "href": "myzoller:/registrieren?weiter=%2Fshop%3Fkind%3Dtooling",
+     "ghost": true
+    }
+   ]
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> Reliability for maximum precision </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/7/6/csm_ts_pin_modul_03_be3bbbf942.webp",
+    "alt": "",
+    "w": 1540,
+    "h": 630
+   },
+   "spots": [
+    {
+     "x": 23.533,
+     "y": 10.226,
+     "label": "Chip drilling",
+     "text": "<h3>Chip drilling</h3> <h4>Chip hole</h4> <p>For attaching data carriers such as RFID chips or ZOLLER »idChip« to the ZOLLER Tooling tool holders. Standard for hollow shank tapers HSK-A, steep tapers SK and polygonal shank tapers PSC.</p> <h4>ZOLLER »idChip«</h4> <p>For unique identification of your tool holders and for maximum product service life. At your request, we can also supply balanced tool holders with a permanently integrated chip directly to your production facility.</p> <h4>3-groove technology</h4> <p>In the chip bore of the tool holder, the adhesive guarantees a positive fit for a secure and firm connection.</p>"
+    },
+    {
+     "x": 48.478,
+     "y": 43.161,
+     "label": "Four threads",
+     "text": "<h3>Four threads</h3> <h4>Four threads</h4> <p>For subsequent fine balancing of standard shrink fit chucks.</p>"
+    },
+    {
+     "x": 71.685,
+     "y": 51.793,
+     "label": "Long shrink fit",
+     "text": "<h3>Long shrink fit</h3> <h4>Long shrink fit with insertion radius</h4> <p>Guarantees maximum shrinking forces thanks to the tension of the tool along the entire length of the shaft.</p>"
+    },
+    {
+     "x": 13.641,
+     "y": 52.722,
+     "label": "Pull-in shoulder",
+     "text": "<h3>Pull-in shoulder</h3> <h4>Hard reworked feed shoulder</h4> <p>Guarantees optimum sliding of the clamping segments on the clamping shoulder and excellent clamping in the spindle. This results in concentricity at the clamping shoulder of maximum 10 μm (5x more accurate than DIN).</p>"
+    },
+    {
+     "x": 82.12,
+     "y": 56.972,
+     "label": "Concentricity tolerances",
+     "text": "<h3>Concentricity tolerances</h3> <h4>Concentricity tolerances</h4> <p>Tooling Solutions guarantee concentricity &lt; 3 µm.</p>"
+    },
+    {
+     "x": 24.674,
+     "y": 82.47,
+     "label": "Finely balanced",
+     "text": "<h3>Finely balanced</h3> <h4>Finely balanced</h4> <p><strong>All ZOLLER Tooling tool holders are precision-balanced</strong> - G2.5 at 25,000 <sup> min-1</sup> or max. residual imbalance ≤ 1 gmm. This results in smooth, bearing-friendly spindle running during machining. You benefit from a longer spindle service life, an optimum workpiece surface and longer tool life.</p>"
+    },
+    {
+     "x": 8.533,
+     "y": 36.919,
+     "label": "Driving grooves",
+     "text": "<h3>Driving grooves</h3> <h4>Hard reworked driver grooves</h4> <p>Guarantee a 100 % center position of the keyways, a perfect fit in the spindle and excellent torque transmission.</p>"
+    },
+    {
+     "x": 23.478,
+     "y": 36.521,
+     "label": "Ejection surface",
+     "text": "<h3>Ejection surface</h3> <h4>Hard reworked ejection surface</h4> <p>Guarantees safe release of the HSK tool holder when changing tools.</p>"
+    },
+    {
+     "x": 75.707,
+     "y": 75.697,
+     "label": "»coolTool«",
+     "text": "<h3>»coolTool«</h3> <h4>»coolTool«</h4> <p>For a perfectly cooled tool cutting edge, optimum chip guidance and the prevention of chip accumulation on the tool cutting edge. The angled positioning of the coolant holes guarantees that your coolant reaches where it is needed: your tool cutting edge. This enables you to achieve optimum cutting results and increase the service life of your tools.</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "qualitaet",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>Takım tutucu, »idChip« ve dijital ikiz – hepsi tek elden</h2>",
+   "body": "<p>İstenirse her takım tutucuyu balanslanmış ve »idChip« yapıştırılmış olarak doğrudan üretiminize teslim ediyoruz. Çip deliği HSK-A, SK ve PSC'de standarttır.</p> <p>DataMatrix kodu her tutucuyu benzersiz kılar – ön ayar cihazında, »powerShrink« üzerinde ve makinede. ZOLLER'de ölçme, sıcak geçme ve balans, tutuculara göre uyumludur.</p> <p><a class=\"btn\" href=\"/tr/products/tooling-solutions/idchip\">»idChip« hakkında daha fazla</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/7/csm_zoller_smarte_solutions_171a2dc46c.webp",
+     "w": 1454,
+     "h": 1454,
+     "alt": "ZOLLER Tooling Solutions takım tutucuları"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "id": "idchip"
+  },
+  {
+   "type": "accordion",
+   "id": "faq",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>Sık sorulan sorular</h2>",
+   "items": [
+    {
+     "title": "ZOLLER müşteri numarası olmadan sipariş verebilir miyim?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>Evet. MYZOLLER'de bir hesap oluşturun ve ödeme adımında firma bilgilerinizi girin. Bilgileri kontrol eder, müşteri hesabınızı genellikle aynı iş günü içinde oluşturur ve siparişinizi otomatik olarak iletiriz. Sipariş, sipariş onayımızla bağlayıcı hale gelir.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "Hangi fiyatları görürüm?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>Giriş yaptıktan sonra liste fiyatlarını, müşteri olarak da hesabınıza özel koşulları görürsünüz. Tüm fiyatlar net olup KDV hariçtir.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "ZOLLER makinesine ihtiyacım var mı?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>Hayır. Takım tutucular uygun arayüze sahip her makineye uyar. ZOLLER ön ayar, sıcak geçme ve balans cihazlarıyla onlardan en iyi şekilde yararlanırsınız.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "Dijital ikiz nedir?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>Her tutucunun eksiksiz geometri ve ana verileridir. Siparişinizle birlikte gelir ve tek tıkla ZOLLER TMS Tool Management Solutions'a veya CAM sisteminize aktarılır.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "»idChip« ile takım tutucu sipariş edebilir miyim?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>Evet. Çip deliği HSK-A, SK ve PSC'de standarttır – mağazada ürüne yapıştırılmış ve balanslanmış »idChip« eklemeniz yeterli.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "Siparişimi nasıl takip ederim?",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>MYZOLLER'de “Siparişler” altında: sipariş onayı, teslim tarihi ve gönderi takibi – sistemimizden canlı olarak.</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "downloads",
+   "id": "downloads",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>Broşürler</h2>",
+   "files": [
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Broschuere_Tooling_BRTOSO-00_US_01.pdf",
+     "name": "ZOLLER Tooling Solutions",
+     "size": "2 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/6/2/csm_ZOLLER_Broschuere_Tooling_BRTOSO-00_US_01_a9c6bb127e.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ZOLLER Tooling Solutions"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Tooling_Solutions_Hawk-Eye-EN.pdf",
+     "name": "HAWK EYE®",
+     "size": "577 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/6/7/csm_ZOLLER_Tooling_Solutions_Hawk-Eye-EN_3f13651cae.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "HAWK EYE®"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Tooling_Solutions_Spannzangenfutter_EN.pdf",
+     "name": "ER & ER »Mini«",
+     "size": "645 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/f/c/csm_ZOLLER_Tooling_Solutions_Spannzangenfutter_EN_60729ce89b.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ER & ER »Mini«"
+     }
+    }
+   ]
+  }
+ ],
+ "src_path": "/tr/products/tooling-solutions/tooling-shop",
+ "de_path": "/produkte/werkzeugaufnahmen/tooling-shop"
+}

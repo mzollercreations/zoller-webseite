@@ -1,0 +1,2215 @@
+{
+  "_info": "Tooling-Shop auf der Webseite (Nutzer 2026-10-15: »mach beides« – Schaufenster auf der Webseite, Bestellung in MYZOLLER). tools/tooling.py erzeugt daraus in jeder Sprachfassung die Seite <Werkzeugaufnahmen>/tooling-shop (Finder, Sortiment, Bestellablauf, Qualität, »idChip«, FAQ, Broschüren), den Menüeintrag und korrigierte Kategorie-Karten auf der Seite Solutions › Werkzeugaufnahmen. Fakten: Tooling-Broschüre BRTOSO-00, Info-Pool Werkzeugaufnahmen (HAWK EYE®, ER), FAQ Werkzeugaufnahmen. Kategorie-Schlüssel = MYZOLLER-Shop (category) = abas yportalkat.",
+  "shop": {
+    "base": "https://mzollercreations.github.io/myzoller-portal-vorschau",
+    "langs": [
+      "de",
+      "en"
+    ],
+    "_hinweis": "Ziel aller Shop-Links (myzoller:/… in den Seiten, alte myzoller.com/…/shop/tooling-Links). Heute die öffentliche MYZOLLER-2.0-Vorschau; sobald MYZOLLER 2.0 unter myzoller.com läuft, hier https://myzoller.com eintragen und alle Seiten neu bauen (build.py)."
+  },
+  "header_img": {
+    "src": "/fileadmin/_processed_/d/c/csm_header_tooling_79126defc9.webp",
+    "w": 1428,
+    "h": 896
+  },
+  "system_img": {
+    "src": "/fileadmin/_processed_/1/7/csm_zoller_smarte_solutions_171a2dc46c.webp",
+    "w": 1454,
+    "h": 1454
+  },
+  "categories": [
+    {
+      "key": "shrink_chuck",
+      "img": {
+        "src": "/fileadmin/_processed_/a/7/csm_ts_schrumpffutter_06c2dea98b.webp",
+        "w": 633,
+        "h": 356
+      },
+      "old": [
+        "schrumpffutter",
+        "shrink-fit-holder"
+      ],
+      "iface": true
+    },
+    {
+      "key": "collet_chuck",
+      "img": {
+        "src": "/fileadmin/_processed_/b/7/csm_ts_spannzangenfutter_eb7fca68dc.webp",
+        "w": 633,
+        "h": 356
+      },
+      "old": [
+        "spannzangenfutter",
+        "collet-chuck"
+      ],
+      "iface": true
+    },
+    {
+      "key": "hawk_eye",
+      "img": {
+        "src": "/fileadmin/_processed_/5/1/csm_ts_hawk_eye_07abe1a0d5.webp",
+        "w": 633,
+        "h": 356
+      },
+      "old": [
+        "hawk-eye"
+      ],
+      "iface": true
+    },
+    {
+      "key": "weldon",
+      "img": {
+        "src": "/fileadmin/_processed_/6/c/csm_ts_weldonaufnahmen_9c7a361d17.webp",
+        "w": 633,
+        "h": 356
+      },
+      "old": [
+        "weldonaufnahmen",
+        "endmill-holder-weldon"
+      ],
+      "iface": true
+    },
+    {
+      "key": "whistle_notch",
+      "img": {
+        "src": "/fileadmin/_processed_/4/c/csm_ts_whistle-notch-aufnahmen_b74918fa98.webp",
+        "w": 633,
+        "h": 356
+      },
+      "old": [
+        "whistle-notch-aufnahmen",
+        "endmill-holder-whistle-notch"
+      ],
+      "iface": true
+    },
+    {
+      "key": "screw_in",
+      "img": {
+        "src": "/fileadmin/_processed_/0/5/csm_ts_fuer_einschraubfraeser_e7d8ee83f6.webp",
+        "w": 633,
+        "h": 356
+      },
+      "old": [
+        "für-einschraubfräsen",
+        "thread-shank-adapter"
+      ],
+      "iface": true
+    },
+    {
+      "key": "shell_mill",
+      "img": {
+        "src": "/fileadmin/_processed_/9/2/csm_ts_messerkopfaufnahmen_b76fed0d9d.webp",
+        "w": 633,
+        "h": 356
+      },
+      "old": [
+        "messerkopfaufnahmen",
+        "shell-mill-holder"
+      ],
+      "iface": true
+    },
+    {
+      "key": "combi_shell_mill",
+      "img": {
+        "src": "/fileadmin/_processed_/3/a/csm_ts_kombidorne_48f13a98c4.webp",
+        "w": 633,
+        "h": 356
+      },
+      "old": [
+        "kombidorne",
+        "combi-shell-mill-holder"
+      ],
+      "iface": true
+    },
+    {
+      "key": "morse_taper",
+      "img": {
+        "src": "/fileadmin/_processed_/c/f/csm_ts_morsekegelaufnahme_6909dcbe8a.webp",
+        "w": 633,
+        "h": 356
+      },
+      "old": [
+        "morsekegelaufnahmen",
+        "morse-taper-adapter"
+      ],
+      "iface": true
+    },
+    {
+      "key": "drill_chuck",
+      "img": {
+        "src": "/fileadmin/_processed_/c/2/csm_ts_kurzbohrfutter_3c9582d0e0.webp",
+        "w": 633,
+        "h": 356
+      },
+      "old": [
+        "kurzbohrfutter",
+        "drill-chuck"
+      ],
+      "iface": true
+    },
+    {
+      "key": "er_collet",
+      "img": {
+        "src": "/fileadmin/_processed_/2/2/csm_ts_er_collet_a62fe34c96.webp",
+        "w": 633,
+        "h": 356
+      },
+      "old": [
+        "er-spannzangen",
+        "er-collet"
+      ],
+      "iface": false
+    },
+    {
+      "key": "shrink_extension",
+      "img": {
+        "src": "/fileadmin/_processed_/a/b/csm_Schrumpfverlaenerungen_category_0b63e58178.webp",
+        "w": 633,
+        "h": 356
+      },
+      "old": [
+        "schrumpfverlängerungen",
+        "shrink-fit-extension"
+      ],
+      "iface": false
+    },
+    {
+      "key": "tooling_accessory",
+      "img": {
+        "src": "/fileadmin/_processed_/2/c/csm_ts_accessories_651f0aa893.webp",
+        "w": 633,
+        "h": 356
+      },
+      "old": [
+        "zubehör",
+        "accessories"
+      ],
+      "iface": false
+    }
+  ],
+  "interfaces": [
+    {
+      "family": "HSK-A",
+      "items": [
+        "HSK-A40",
+        "HSK-A50",
+        "HSK-A63",
+        "HSK-A80",
+        "HSK-A100"
+      ]
+    },
+    {
+      "family": "HSK-E",
+      "items": [
+        "HSK-E25",
+        "HSK-E32",
+        "HSK-E40",
+        "HSK-E50"
+      ]
+    },
+    {
+      "family": "HSK-F",
+      "items": [
+        "HSK-F63",
+        "HSK-F80"
+      ]
+    },
+    {
+      "family": "SK",
+      "items": [
+        "SK 40",
+        "SK 50"
+      ]
+    },
+    {
+      "family": "BT",
+      "items": [
+        "BT 30",
+        "BT 40",
+        "BT 50"
+      ]
+    },
+    {
+      "family": "BTD",
+      "items": [
+        "BTD 30",
+        "BTD 40"
+      ]
+    },
+    {
+      "family": "PSC",
+      "items": [
+        "PSC 40",
+        "PSC 50",
+        "PSC 63",
+        "PSC 80"
+      ]
+    }
+  ],
+  "lang_of_src": {
+    "": "de",
+    "at": "de",
+    "en_DE": "en",
+    "ca": "en",
+    "in": "en",
+    "ru": "ru",
+    "tr": "tr",
+    "ca-fr": "fr",
+    "fr": "fr",
+    "es": "es",
+    "mx": "es-MX",
+    "pt": "pt",
+    "br": "pt-BR",
+    "it": "it",
+    "se": "sv",
+    "pl": "pl",
+    "si": "sl",
+    "cz": "cs",
+    "sk": "sk",
+    "hu": "hu",
+    "ch": "zh",
+    "ja": "ja",
+    "kr": "ko"
+  },
+  "texts": {
+    "de": {
+      "title": "Tooling-Shop",
+      "desc": "Tooling-Shop - Über 2.500 Werkzeugaufnahmen von ZOLLER: finden, in MYZOLLER bestellen, digitaler Zwilling inklusive",
+      "nav_claim": "Über 2.500 Werkzeugaufnahmen",
+      "claim": "Über 2.500 Werkzeugaufnahmen – feingewuchtet, besser als DIN, auf Wunsch mit »idChip«. Finden Sie Ihre Aufnahme und bestellen Sie direkt in MYZOLLER.",
+      "alt": "ZOLLER Tooling Solutions Werkzeugaufnahmen",
+      "b_find": "Werkzeugaufnahme finden",
+      "b_shop": "Shop öffnen",
+      "h_finder": "Die passende Werkzeugaufnahme finden",
+      "p_finder": "Wählen Sie die Art der Aufnahme und die Schnittstelle Ihrer Maschine – der Shop zeigt alle passenden Aufnahmen mit Maßen, Verfügbarkeit und Preisen.",
+      "s1": "Art der Aufnahme",
+      "s2": "Schnittstelle Ihrer Maschine",
+      "s2_none": "Passt unabhängig von der Schnittstelle.",
+      "all_cats": "Alle Werkzeugaufnahmen",
+      "all_ifaces": "Alle Schnittstellen",
+      "cta": "Im Shop anzeigen",
+      "note": "Der Shop läuft in MYZOLLER, dem Kundenportal von ZOLLER. Preise sehen Sie nach der Anmeldung – ohne Kundennummer legen wir Ihr Kundenkonto mit der ersten Bestellung an.",
+      "h_cats": "Das Sortiment",
+      "p_cats": "Alle ZOLLER Tooling Werkzeugaufnahmen sind feingewuchtet und konstant besser als DIN. Ein Klick öffnet die Kategorie im Shop.",
+      "h_order": "So bestellen Sie",
+      "o1t": "Aufnahme finden",
+      "o1": "Mit dem Finder oben oder direkt im Shop – nach Art, Schnittstelle und Spanndurchmesser.",
+      "o2t": "In MYZOLLER anmelden",
+      "o2": "Kunden sehen ihre persönlichen Konditionen und bestellen auf Rechnung – Einkauf und Technik im selben Team.",
+      "o3t": "Neu bei ZOLLER?",
+      "o3": "Auch ohne Kundennummer oder ZOLLER-Gerät: An der Kasse geben Sie Ihre Firmendaten an, wir legen Ihr Kundenkonto an – meist am selben Werktag.",
+      "o4t": "Digitaler Zwilling inklusive",
+      "o4": "Mit jeder Bestellung erhalten Sie die digitalen Zwillinge – mit einem Klick in ZOLLER TMS und Ihr CAM-System. Den Auftragsstand sehen Sie live in MYZOLLER.",
+      "b_register": "Konto erstellen",
+      "h_system": "Werkzeugaufnahme, »idChip« und digitaler Zwilling – alles aus einer Hand",
+      "p_system1": "Auf Wunsch liefern wir jede Werkzeugaufnahme feingewuchtet und mit fest eingeklebtem »idChip« direkt in Ihre Fertigung. Bei Hohlschaftkegel HSK-A, Steilkegel SK und Polygonschaftkegel PSC ist die Chip-Bohrung Standard.",
+      "p_system2": "Der DataMatrix-Code macht jeden Halter eindeutig – am Einstell- und Messgerät, am »powerShrink« und an der Maschine. Messen, Schrumpfen und Wuchten sind bei ZOLLER auf die Aufnahmen abgestimmt.",
+      "l_idchip": "Mehr zum »idChip«",
+      "h_faq": "Häufige Fragen",
+      "q1": "Kann ich auch ohne ZOLLER-Kundennummer bestellen?",
+      "a1": "Ja. Legen Sie in MYZOLLER ein Konto an und geben Sie an der Kasse Ihre Firmendaten an. Wir prüfen sie, legen Ihr Kundenkonto an – in der Regel am selben Werktag – und geben Ihre Bestellung dann automatisch weiter. Verbindlich wird sie mit unserer Auftragsbestätigung.",
+      "q2": "Welche Preise sehe ich?",
+      "a2": "Nach der Anmeldung sehen Sie Listenpreise, als Kunde die persönlichen Konditionen Ihres Kundenkontos. Alle Preise verstehen sich netto zuzüglich Mehrwertsteuer.",
+      "q3": "Brauche ich ein ZOLLER-Gerät?",
+      "a3": "Nein. Die Werkzeugaufnahmen passen zu jeder Maschine mit der entsprechenden Schnittstelle. Mit ZOLLER-Geräten zum Einstellen, Schrumpfen und Wuchten holen Sie das Beste aus ihnen heraus.",
+      "q4": "Was ist der digitale Zwilling?",
+      "a4": "Die vollständigen Geometrie- und Stammdaten jeder Aufnahme. Sie erhalten sie mit Ihrer Bestellung und übernehmen sie mit einem Klick in ZOLLER TMS Tool Management Solutions oder Ihr CAM-System.",
+      "q5": "Kann ich Werkzeugaufnahmen mit »idChip« bestellen?",
+      "a5": "Ja. Bei HSK-A, SK und PSC ist die Chip-Bohrung Standard – den »idChip« wählen Sie im Shop direkt beim Artikel dazu, eingeklebt und feingewuchtet.",
+      "q6": "Wie verfolge ich meine Bestellung?",
+      "a6": "In MYZOLLER unter „Aufträge“: Auftragsbestätigung, Liefertermin und Sendungsverfolgung – live aus unserem System.",
+      "h_dl": "Broschüren",
+      "cats": {
+        "shrink_chuck": [
+          "Schrumpffutter",
+          "Zum Spannen von Werkzeugen mit Zylinderschaft aus Hartmetall oder HSS."
+        ],
+        "collet_chuck": [
+          "Spannzangenfutter",
+          "Zum Spannen von Werkzeugen mit Zylinderschaft in ER-Spannzangen."
+        ],
+        "hawk_eye": [
+          "HAWK EYE®",
+          "HPC-Präzisions-ER-Spannzangenfutter für die Hochleistungszerspanung."
+        ],
+        "weldon": [
+          "Weldonaufnahmen",
+          "Für Werkzeuge mit Weldon-Spannfläche – ideal ohne innere Kühlmittelzufuhr."
+        ],
+        "whistle_notch": [
+          "Whistle-Notch-Aufnahmen",
+          "Für Werkzeuge mit Zylinderschaft und schräger Whistle-Notch-Spannfläche."
+        ],
+        "screw_in": [
+          "Aufnahmen für Einschraubfräser",
+          "Für Fräsköpfe mit Gewindeanschluss."
+        ],
+        "shell_mill": [
+          "Messerkopfaufnahmen",
+          "Zur Aufnahme von Fräsern mit Quernut, mit Kühlmittelzufuhr an die Schneiden."
+        ],
+        "combi_shell_mill": [
+          "Kombidorne",
+          "Zur Aufnahme von Fräsern mit Längs- und Quernut."
+        ],
+        "morse_taper": [
+          "Morsekegelaufnahmen",
+          "Zur Aufnahme von Morsekegelwerkzeugen mit Austreiblappen nach DIN 2288."
+        ],
+        "drill_chuck": [
+          "Kurzbohrfutter",
+          "Zum Spannen von Bohrern und Werkzeugen mit Zylinderschaft."
+        ],
+        "er_collet": [
+          "ER-Spannzangen",
+          "ER und ER «Mini» für Spannzangenfutter und HAWK EYE®."
+        ],
+        "shrink_extension": [
+          "Schrumpfverlängerungen",
+          "Für Werkzeuge mit Zylinderschaft – mehr Reichweite für tiefe Bearbeitungen."
+        ],
+        "tooling_accessory": [
+          "Zubehör",
+          "Dichtscheiben, Spannmuttern und mehr."
+        ]
+      }
+    },
+    "en": {
+      "title": "Tooling Shop",
+      "desc": "Tooling Shop - Over 2,500 ZOLLER tool holders: find them, order in MYZOLLER, digital twin included",
+      "nav_claim": "Over 2,500 tool holders",
+      "claim": "Over 2,500 tool holders – fine-balanced, better than DIN, with »idChip« on request. Find your holder and order it directly in MYZOLLER.",
+      "alt": "ZOLLER Tooling Solutions tool holders",
+      "b_find": "Find a tool holder",
+      "b_shop": "Open the shop",
+      "h_finder": "Find the right tool holder",
+      "p_finder": "Choose the holder type and your machine’s interface – the shop shows every matching holder with dimensions, availability and prices.",
+      "s1": "Holder type",
+      "s2": "Your machine’s interface",
+      "s2_none": "Fits regardless of the interface.",
+      "all_cats": "All tool holders",
+      "all_ifaces": "All interfaces",
+      "cta": "Show in the shop",
+      "note": "The shop runs in MYZOLLER, ZOLLER’s customer portal. Sign in to see prices – no customer number yet? We set up your customer account with your first order.",
+      "h_cats": "The range",
+      "p_cats": "All ZOLLER Tooling tool holders are fine-balanced and consistently better than DIN. One click opens the category in the shop.",
+      "h_order": "How to order",
+      "o1t": "Find your holder",
+      "o1": "With the finder above or directly in the shop – by type, interface and clamping diameter.",
+      "o2t": "Sign in to MYZOLLER",
+      "o2": "Customers see their personal terms and order on account – purchasing and engineering in one team.",
+      "o3t": "New to ZOLLER?",
+      "o3": "No customer number or ZOLLER machine needed: enter your company details at checkout and we set up your customer account – usually on the same working day.",
+      "o4t": "Digital twin included",
+      "o4": "Every order comes with the digital twins – one click into ZOLLER TMS and your CAM system. Follow your order live in MYZOLLER.",
+      "b_register": "Create an account",
+      "h_system": "Tool holder, »idChip« and digital twin – all from one source",
+      "p_system1": "On request we deliver every tool holder fine-balanced with a permanently bonded »idChip« straight to your production. The chip bore is standard on HSK-A hollow taper shanks, SK steep tapers and PSC polygonal taper shanks.",
+      "p_system2": "The DataMatrix code makes every holder unique – on the presetter, on »powerShrink« and at the machine. At ZOLLER, measuring, shrinking and balancing are matched to the holders.",
+      "l_idchip": "More about »idChip«",
+      "h_faq": "Frequently asked questions",
+      "q1": "Can I order without a ZOLLER customer number?",
+      "a1": "Yes. Create an account in MYZOLLER and enter your company details at checkout. We check them, set up your customer account – usually on the same working day – and then pass your order on automatically. It becomes binding with our order confirmation.",
+      "q2": "Which prices do I see?",
+      "a2": "After signing in you see list prices; as a customer you see the personal terms of your customer account. All prices are net plus VAT.",
+      "q3": "Do I need a ZOLLER machine?",
+      "a3": "No. The tool holders fit every machine with the matching interface. With ZOLLER presetters, shrink-fit and balancing machines you get the most out of them.",
+      "q4": "What is the digital twin?",
+      "a4": "The complete geometry and master data of each holder. It comes with your order and goes into ZOLLER TMS Tool Management Solutions or your CAM system with one click.",
+      "q5": "Can I order tool holders with »idChip«?",
+      "a5": "Yes. The chip bore is standard on HSK-A, SK and PSC – simply add the »idChip«, bonded and fine-balanced, to the item in the shop.",
+      "q6": "How do I track my order?",
+      "a6": "In MYZOLLER under “Orders”: order confirmation, delivery date and shipment tracking – live from our system.",
+      "h_dl": "Brochures",
+      "cats": {
+        "shrink_chuck": [
+          "Shrink-fit chucks",
+          "For clamping tools with cylindrical shanks made of carbide or HSS."
+        ],
+        "collet_chuck": [
+          "Collet chucks",
+          "For clamping tools with cylindrical shanks in ER collets."
+        ],
+        "hawk_eye": [
+          "HAWK EYE®",
+          "HPC high-precision ER collet chucks for high-performance cutting."
+        ],
+        "weldon": [
+          "Weldon holders",
+          "For tools with a Weldon flat – ideal without internal coolant supply."
+        ],
+        "whistle_notch": [
+          "Whistle Notch holders",
+          "For tools with cylindrical shanks and an inclined Whistle Notch clamping flat."
+        ],
+        "screw_in": [
+          "Thread shank adapters",
+          "For milling heads with a threaded connection."
+        ],
+        "shell_mill": [
+          "Shell mill holders",
+          "For cutters with a transverse keyway, with coolant to the cutting edges."
+        ],
+        "combi_shell_mill": [
+          "Combi shell mill holders",
+          "For cutters with longitudinal and transverse keyways."
+        ],
+        "morse_taper": [
+          "Morse taper adapters",
+          "For Morse taper tools with tang to DIN 2288."
+        ],
+        "drill_chuck": [
+          "Short drill chucks",
+          "For clamping drills and tools with cylindrical shanks."
+        ],
+        "er_collet": [
+          "ER collets",
+          "ER and ER «Mini» for collet chucks and HAWK EYE®."
+        ],
+        "shrink_extension": [
+          "Shrink-fit extensions",
+          "For tools with cylindrical shanks – extra reach for deep machining."
+        ],
+        "tooling_accessory": [
+          "Accessories",
+          "Sealing discs, clamping nuts and more."
+        ]
+      }
+    },
+    "fr": {
+      "title": "Tooling Shop",
+      "desc": "Tooling Shop - Plus de 2 500 porte-outils ZOLLER : trouver, commander dans MYZOLLER, jumeau numérique inclus",
+      "nav_claim": "Plus de 2 500 porte-outils",
+      "claim": "Plus de 2 500 porte-outils – équilibrés avec précision, meilleurs que la norme DIN, avec »idChip« sur demande. Trouvez votre porte-outil et commandez-le directement dans MYZOLLER.",
+      "alt": "Porte-outils ZOLLER Tooling Solutions",
+      "b_find": "Trouver un porte-outil",
+      "b_shop": "Ouvrir la boutique",
+      "h_finder": "Trouver le bon porte-outil",
+      "p_finder": "Choisissez le type de porte-outil et l’interface de votre machine – la boutique affiche tous les porte-outils adaptés avec dimensions, disponibilité et prix.",
+      "s1": "Type de porte-outil",
+      "s2": "Interface de votre machine",
+      "s2_none": "Convient quelle que soit l’interface.",
+      "all_cats": "Tous les porte-outils",
+      "all_ifaces": "Toutes les interfaces",
+      "cta": "Afficher dans la boutique",
+      "note": "La boutique fonctionne dans MYZOLLER, le portail client de ZOLLER. Les prix s’affichent après connexion – sans numéro client, nous créons votre compte client avec votre première commande.",
+      "h_cats": "La gamme",
+      "p_cats": "Tous les porte-outils ZOLLER Tooling sont équilibrés avec précision et constamment meilleurs que la norme DIN. Un clic ouvre la catégorie dans la boutique.",
+      "h_order": "Comment commander",
+      "o1t": "Trouver le porte-outil",
+      "o1": "Avec le configurateur ci-dessus ou directement dans la boutique – par type, interface et diamètre de serrage.",
+      "o2t": "Se connecter à MYZOLLER",
+      "o2": "Les clients voient leurs conditions personnelles et commandent sur facture – achats et technique dans la même équipe.",
+      "o3t": "Nouveau chez ZOLLER ?",
+      "o3": "Même sans numéro client ni machine ZOLLER : indiquez les données de votre entreprise lors de la commande, nous créons votre compte client – le plus souvent le jour ouvré même.",
+      "o4t": "Jumeau numérique inclus",
+      "o4": "Chaque commande inclut les jumeaux numériques – en un clic dans ZOLLER TMS et votre système FAO. Suivez l’avancement de votre commande en direct dans MYZOLLER.",
+      "b_register": "Créer un compte",
+      "h_system": "Porte-outil, »idChip« et jumeau numérique – tout d’une seule source",
+      "p_system1": "Sur demande, nous livrons chaque porte-outil équilibré et doté d’un »idChip« collé directement dans votre production. Le perçage pour la puce est standard sur les cônes HSK-A, SK et PSC.",
+      "p_system2": "Le code DataMatrix rend chaque porte-outil unique – sur le banc de préréglage, sur le »powerShrink« et sur la machine. Chez ZOLLER, mesure, frettage et équilibrage sont adaptés aux porte-outils.",
+      "l_idchip": "En savoir plus sur »idChip«",
+      "h_faq": "Questions fréquentes",
+      "q1": "Puis-je commander sans numéro client ZOLLER ?",
+      "a1": "Oui. Créez un compte dans MYZOLLER et indiquez les données de votre entreprise lors de la commande. Nous les vérifions, créons votre compte client – le plus souvent le jour ouvré même – puis transmettons automatiquement votre commande. Elle devient ferme avec notre confirmation de commande.",
+      "q2": "Quels prix vois-je ?",
+      "a2": "Après connexion, vous voyez les prix catalogue ; en tant que client, les conditions personnelles de votre compte client. Tous les prix s’entendent hors TVA.",
+      "q3": "Ai-je besoin d’une machine ZOLLER ?",
+      "a3": "Non. Les porte-outils conviennent à toute machine dotée de l’interface correspondante. Avec les bancs de préréglage, appareils de frettage et d’équilibrage ZOLLER, vous en tirez le meilleur parti.",
+      "q4": "Qu’est-ce que le jumeau numérique ?",
+      "a4": "Les données géométriques et de base complètes de chaque porte-outil. Vous les recevez avec votre commande et les reprenez en un clic dans ZOLLER TMS Tool Management Solutions ou votre système FAO.",
+      "q5": "Puis-je commander des porte-outils avec »idChip« ?",
+      "a5": "Oui. Le perçage pour la puce est standard sur HSK-A, SK et PSC – ajoutez simplement l’»idChip«, collé et équilibré, à l’article dans la boutique.",
+      "q6": "Comment suivre ma commande ?",
+      "a6": "Dans MYZOLLER, rubrique « Commandes » : confirmation de commande, date de livraison et suivi de l’envoi – en direct depuis notre système.",
+      "h_dl": "Brochures",
+      "cats": {
+        "shrink_chuck": [
+          "Mandrins de frettage",
+          "Pour le serrage d’outils à queue cylindrique en carbure ou en acier rapide (HSS)."
+        ],
+        "collet_chuck": [
+          "Mandrins à pince",
+          "Pour le serrage d’outils à queue cylindrique dans des pinces ER."
+        ],
+        "hawk_eye": [
+          "HAWK EYE®",
+          "Mandrins à pince ER de précision HPC pour l’usinage à hautes performances."
+        ],
+        "weldon": [
+          "Mandrins Weldon",
+          "Pour outils à méplat Weldon – idéal sans arrosage interne."
+        ],
+        "whistle_notch": [
+          "Mandrins Whistle Notch",
+          "Pour outils à queue cylindrique avec méplat incliné Whistle Notch."
+        ],
+        "screw_in": [
+          "Adaptateurs pour fraises à visser",
+          "Pour têtes de fraisage à raccord fileté."
+        ],
+        "shell_mill": [
+          "Porte-fraises à surfacer",
+          "Pour fraises à rainure transversale, avec arrosage jusqu’aux arêtes de coupe."
+        ],
+        "combi_shell_mill": [
+          "Porte-fraises combinés",
+          "Pour fraises à rainures longitudinale et transversale."
+        ],
+        "morse_taper": [
+          "Adaptateurs cône Morse",
+          "Pour outils à cône Morse avec tenon selon DIN 2288."
+        ],
+        "drill_chuck": [
+          "Mandrins de perçage courts",
+          "Pour le serrage de forets et d’outils à queue cylindrique."
+        ],
+        "er_collet": [
+          "Pinces ER",
+          "ER et ER «Mini» pour mandrins à pince et HAWK EYE®."
+        ],
+        "shrink_extension": [
+          "Rallonges de frettage",
+          "Pour outils à queue cylindrique – plus de portée pour les usinages profonds."
+        ],
+        "tooling_accessory": [
+          "Accessoires",
+          "Disques d’étanchéité, écrous de serrage et plus."
+        ]
+      }
+    },
+    "es": {
+      "title": "Tooling Shop",
+      "desc": "Tooling Shop - Más de 2500 portaherramientas ZOLLER: encontrar, pedir en MYZOLLER, gemelo digital incluido",
+      "nav_claim": "Más de 2500 portaherramientas",
+      "claim": "Más de 2500 portaherramientas: equilibrados con precisión, mejores que la norma DIN y, si lo desea, con »idChip«. Encuentre su portaherramientas y pídalo directamente en MYZOLLER.",
+      "alt": "Portaherramientas ZOLLER Tooling Solutions",
+      "b_find": "Encontrar portaherramientas",
+      "b_shop": "Abrir la tienda",
+      "h_finder": "Encuentre el portaherramientas adecuado",
+      "p_finder": "Elija el tipo de portaherramientas y la interfaz de su máquina: la tienda muestra todos los portaherramientas adecuados con dimensiones, disponibilidad y precios.",
+      "s1": "Tipo de portaherramientas",
+      "s2": "Interfaz de su máquina",
+      "s2_none": "Válido para cualquier interfaz.",
+      "all_cats": "Todos los portaherramientas",
+      "all_ifaces": "Todas las interfaces",
+      "cta": "Ver en la tienda",
+      "note": "La tienda funciona en MYZOLLER, el portal de clientes de ZOLLER. Verá los precios al iniciar sesión; si aún no tiene número de cliente, creamos su cuenta con el primer pedido.",
+      "h_cats": "La gama",
+      "p_cats": "Todos los portaherramientas ZOLLER Tooling están equilibrados con precisión y son siempre mejores que la norma DIN. Un clic abre la categoría en la tienda.",
+      "h_order": "Cómo hacer su pedido",
+      "o1t": "Encontrar el portaherramientas",
+      "o1": "Con el buscador o directamente en la tienda: por tipo, interfaz y diámetro de sujeción.",
+      "o2t": "Iniciar sesión en MYZOLLER",
+      "o2": "Los clientes ven sus condiciones personales y compran con factura; compras y técnica en el mismo equipo.",
+      "o3t": "¿Nuevo en ZOLLER?",
+      "o3": "También sin número de cliente ni máquina ZOLLER: indique los datos de su empresa al finalizar la compra y creamos su cuenta de cliente, normalmente el mismo día laborable.",
+      "o4t": "Gemelo digital incluido",
+      "o4": "Cada pedido incluye los gemelos digitales: con un clic en ZOLLER TMS y en su sistema CAM. Siga el estado de su pedido en directo en MYZOLLER.",
+      "b_register": "Crear una cuenta",
+      "h_system": "Portaherramientas, »idChip« y gemelo digital: todo de un mismo proveedor",
+      "p_system1": "Si lo desea, entregamos cada portaherramientas equilibrado y con »idChip« pegado directamente en su producción. El alojamiento para el chip es estándar en los conos HSK-A, SK y PSC.",
+      "p_system2": "El código DataMatrix identifica cada portaherramientas de forma inequívoca: en el banco de preajuste, en el »powerShrink« y en la máquina. En ZOLLER, medición, contracción y equilibrado están adaptados a los portaherramientas.",
+      "l_idchip": "Más sobre »idChip«",
+      "h_faq": "Preguntas frecuentes",
+      "q1": "¿Puedo pedir sin número de cliente ZOLLER?",
+      "a1": "Sí. Cree una cuenta en MYZOLLER e indique los datos de su empresa al finalizar la compra. Los revisamos, creamos su cuenta de cliente (normalmente el mismo día laborable) y transmitimos su pedido automáticamente. Es vinculante con nuestra confirmación de pedido.",
+      "q2": "¿Qué precios veo?",
+      "a2": "Al iniciar sesión verá los precios de lista; como cliente, las condiciones personales de su cuenta. Todos los precios son netos, más IVA.",
+      "q3": "¿Necesito una máquina ZOLLER?",
+      "a3": "No. Los portaherramientas sirven para cualquier máquina con la interfaz correspondiente. Con los bancos de preajuste y los equipos de contracción y equilibrado de ZOLLER les sacará el máximo partido.",
+      "q4": "¿Qué es el gemelo digital?",
+      "a4": "Los datos geométricos y maestros completos de cada portaherramientas. Los recibe con su pedido y los transfiere con un clic a ZOLLER TMS Tool Management Solutions o a su sistema CAM.",
+      "q5": "¿Puedo pedir portaherramientas con »idChip«?",
+      "a5": "Sí. El alojamiento para el chip es estándar en HSK-A, SK y PSC: añada el »idChip«, pegado y equilibrado, directamente al artículo en la tienda.",
+      "q6": "¿Cómo sigo mi pedido?",
+      "a6": "En MYZOLLER, en «Pedidos»: confirmación, fecha de entrega y seguimiento del envío, en directo desde nuestro sistema.",
+      "h_dl": "Folletos",
+      "cats": {
+        "shrink_chuck": [
+          "Portaherramientas de contracción",
+          "Para la sujeción de herramientas con mango cilíndrico de metal duro o HSS."
+        ],
+        "collet_chuck": [
+          "Portapinzas",
+          "Para la sujeción de herramientas con mango cilíndrico en pinzas ER."
+        ],
+        "hawk_eye": [
+          "HAWK EYE®",
+          "Portapinzas ER de precisión HPC para mecanizado de alto rendimiento."
+        ],
+        "weldon": [
+          "Portaherramientas Weldon",
+          "Para herramientas con plano Weldon; ideal sin refrigeración interna."
+        ],
+        "whistle_notch": [
+          "Portaherramientas Whistle Notch",
+          "Para herramientas con mango cilíndrico y plano inclinado Whistle Notch."
+        ],
+        "screw_in": [
+          "Adaptadores para fresas roscadas",
+          "Para cabezales de fresado con conexión roscada."
+        ],
+        "shell_mill": [
+          "Portafresas para planear",
+          "Para fresas con chavetero transversal, con refrigeración hasta los filos."
+        ],
+        "combi_shell_mill": [
+          "Portafresas combinados",
+          "Para fresas con chavetero longitudinal y transversal."
+        ],
+        "morse_taper": [
+          "Adaptadores de cono Morse",
+          "Para herramientas de cono Morse con lengüeta según DIN 2288."
+        ],
+        "drill_chuck": [
+          "Portabrocas cortos",
+          "Para la sujeción de brocas y herramientas con mango cilíndrico."
+        ],
+        "er_collet": [
+          "Pinzas ER",
+          "ER y ER «Mini» para portapinzas y HAWK EYE®."
+        ],
+        "shrink_extension": [
+          "Prolongaciones de contracción",
+          "Para herramientas con mango cilíndrico: más alcance para mecanizados profundos."
+        ],
+        "tooling_accessory": [
+          "Accesorios",
+          "Discos de estanqueidad, tuercas de apriete y más."
+        ]
+      }
+    },
+    "es-MX": {
+      "title": "Tooling Shop",
+      "desc": "Tooling Shop - Más de 2500 portaherramientas ZOLLER: encontrar, pedir en MYZOLLER, gemelo digital incluido",
+      "nav_claim": "Más de 2500 portaherramientas",
+      "claim": "Más de 2500 portaherramientas: equilibrados con precisión, mejores que la norma DIN y, si lo desea, con »idChip«. Encuentre su portaherramientas y pídalo directamente en MYZOLLER.",
+      "alt": "Portaherramientas ZOLLER Tooling Solutions",
+      "b_find": "Encontrar portaherramientas",
+      "b_shop": "Abrir la tienda",
+      "h_finder": "Encuentre el portaherramientas adecuado",
+      "p_finder": "Elija el tipo de portaherramientas y la interfaz de su máquina: la tienda muestra todos los portaherramientas adecuados con dimensiones, disponibilidad y precios.",
+      "s1": "Tipo de portaherramientas",
+      "s2": "Interfaz de su máquina",
+      "s2_none": "Válido para cualquier interfaz.",
+      "all_cats": "Todos los portaherramientas",
+      "all_ifaces": "Todas las interfaces",
+      "cta": "Ver en la tienda",
+      "note": "La tienda funciona en MYZOLLER, el portal de clientes de ZOLLER. Verá los precios al iniciar sesión; si aún no tiene número de cliente, creamos su cuenta con el primer pedido.",
+      "h_cats": "La gama",
+      "p_cats": "Todos los portaherramientas ZOLLER Tooling están equilibrados con precisión y son siempre mejores que la norma DIN. Un clic abre la categoría en la tienda.",
+      "h_order": "Cómo hacer su pedido",
+      "o1t": "Encontrar el portaherramientas",
+      "o1": "Con el buscador o directamente en la tienda: por tipo, interfaz y diámetro de sujeción.",
+      "o2t": "Iniciar sesión en MYZOLLER",
+      "o2": "Los clientes ven sus condiciones personales y compran con factura; compras y técnica en el mismo equipo.",
+      "o3t": "¿Nuevo en ZOLLER?",
+      "o3": "También sin número de cliente ni máquina ZOLLER: indique los datos de su empresa al finalizar la compra y creamos su cuenta de cliente, normalmente el mismo día hábil.",
+      "o4t": "Gemelo digital incluido",
+      "o4": "Cada pedido incluye los gemelos digitales: con un clic en ZOLLER TMS y en su sistema CAM. Siga el estado de su pedido en tiempo real en MYZOLLER.",
+      "b_register": "Crear una cuenta",
+      "h_system": "Portaherramientas, »idChip« y gemelo digital: todo de un mismo proveedor",
+      "p_system1": "Si lo desea, entregamos cada portaherramientas equilibrado y con »idChip« pegado directamente en su producción. El alojamiento para el chip es estándar en los conos HSK-A, SK y PSC.",
+      "p_system2": "El código DataMatrix identifica cada portaherramientas de forma inequívoca: en el banco de preajuste, en el »powerShrink« y en la máquina. En ZOLLER, medición, contracción y equilibrado están adaptados a los portaherramientas.",
+      "l_idchip": "Más sobre »idChip«",
+      "h_faq": "Preguntas frecuentes",
+      "q1": "¿Puedo pedir sin número de cliente ZOLLER?",
+      "a1": "Sí. Cree una cuenta en MYZOLLER e indique los datos de su empresa al finalizar la compra. Los revisamos, creamos su cuenta de cliente (normalmente el mismo día hábil) y transmitimos su pedido automáticamente. Es vinculante con nuestra confirmación de pedido.",
+      "q2": "¿Qué precios veo?",
+      "a2": "Al iniciar sesión verá los precios de lista; como cliente, las condiciones personales de su cuenta. Todos los precios son netos, más IVA.",
+      "q3": "¿Necesito una máquina ZOLLER?",
+      "a3": "No. Los portaherramientas sirven para cualquier máquina con la interfaz correspondiente. Con los bancos de preajuste y los equipos de contracción y equilibrado de ZOLLER les sacará el máximo partido.",
+      "q4": "¿Qué es el gemelo digital?",
+      "a4": "Los datos geométricos y maestros completos de cada portaherramientas. Los recibe con su pedido y los transfiere con un clic a ZOLLER TMS Tool Management Solutions o a su sistema CAM.",
+      "q5": "¿Puedo pedir portaherramientas con »idChip«?",
+      "a5": "Sí. El alojamiento para el chip es estándar en HSK-A, SK y PSC: añada el »idChip«, pegado y equilibrado, directamente al artículo en la tienda.",
+      "q6": "¿Cómo sigo mi pedido?",
+      "a6": "En MYZOLLER, en «Pedidos»: confirmación, fecha de entrega y rastreo del envío, en tiempo real desde nuestro sistema.",
+      "h_dl": "Folletos",
+      "cats": {
+        "shrink_chuck": [
+          "Portaherramientas de contracción térmica",
+          "Para la sujeción de herramientas con zanco cilíndrico de carburo o HSS."
+        ],
+        "collet_chuck": [
+          "Portapinzas",
+          "Para la sujeción de herramientas con mango cilíndrico en pinzas ER."
+        ],
+        "hawk_eye": [
+          "HAWK EYE®",
+          "Portapinzas ER de precisión HPC para mecanizado de alto rendimiento."
+        ],
+        "weldon": [
+          "Portaherramientas Weldon",
+          "Para herramientas con plano Weldon; ideal sin refrigeración interna."
+        ],
+        "whistle_notch": [
+          "Portaherramientas Whistle Notch",
+          "Para herramientas con mango cilíndrico y plano inclinado Whistle Notch."
+        ],
+        "screw_in": [
+          "Adaptadores para fresas roscadas",
+          "Para cabezales de fresado con conexión roscada."
+        ],
+        "shell_mill": [
+          "Portafresas para planear",
+          "Para fresas con chavetero transversal, con refrigeración hasta los filos."
+        ],
+        "combi_shell_mill": [
+          "Portafresas combinados",
+          "Para fresas con chavetero longitudinal y transversal."
+        ],
+        "morse_taper": [
+          "Adaptadores de cono Morse",
+          "Para herramientas de cono Morse con lengüeta según DIN 2288."
+        ],
+        "drill_chuck": [
+          "Portabrocas cortos",
+          "Para la sujeción de brocas y herramientas con mango cilíndrico."
+        ],
+        "er_collet": [
+          "Pinzas ER",
+          "ER y ER «Mini» para portapinzas y HAWK EYE®."
+        ],
+        "shrink_extension": [
+          "Extensiones de contracción térmica",
+          "Para herramientas con zanco cilíndrico: más alcance para maquinados profundos."
+        ],
+        "tooling_accessory": [
+          "Accesorios",
+          "Discos de estanqueidad, tuercas de apriete y más."
+        ]
+      }
+    },
+    "pt": {
+      "title": "Tooling Shop",
+      "desc": "Tooling Shop - Mais de 2500 porta-ferramentas ZOLLER: encontrar, encomendar no MYZOLLER, gémeo digital incluído",
+      "nav_claim": "Mais de 2500 porta-ferramentas",
+      "claim": "Mais de 2500 porta-ferramentas – equilibrados com precisão, melhores do que a norma DIN e, a pedido, com »idChip«. Encontre o seu porta-ferramentas e encomende-o diretamente no MYZOLLER.",
+      "alt": "Porta-ferramentas ZOLLER Tooling Solutions",
+      "b_find": "Encontrar porta-ferramentas",
+      "b_shop": "Abrir a loja",
+      "h_finder": "Encontrar o porta-ferramentas certo",
+      "p_finder": "Escolha o tipo de porta-ferramentas e a interface da sua máquina – a loja mostra todos os porta-ferramentas adequados com dimensões, disponibilidade e preços.",
+      "s1": "Tipo de porta-ferramentas",
+      "s2": "Interface da sua máquina",
+      "s2_none": "Adequado a qualquer interface.",
+      "all_cats": "Todos os porta-ferramentas",
+      "all_ifaces": "Todas as interfaces",
+      "cta": "Ver na loja",
+      "note": "A loja funciona no MYZOLLER, o portal de clientes da ZOLLER. Vê os preços depois de iniciar sessão – sem número de cliente, criamos a sua conta de cliente com a primeira encomenda.",
+      "h_cats": "A gama",
+      "p_cats": "Todos os porta-ferramentas ZOLLER Tooling são equilibrados com precisão e sempre melhores do que a norma DIN. Um clique abre a categoria na loja.",
+      "h_order": "Como encomendar",
+      "o1t": "Encontrar o porta-ferramentas",
+      "o1": "Com o localizador acima ou diretamente na loja – por tipo, interface e diâmetro de aperto.",
+      "o2t": "Iniciar sessão no MYZOLLER",
+      "o2": "Os clientes veem as suas condições pessoais e compram com fatura – compras e técnica na mesma equipa.",
+      "o3t": "Novo na ZOLLER?",
+      "o3": "Mesmo sem número de cliente ou máquina ZOLLER: indique os dados da sua empresa ao finalizar a encomenda e criamos a sua conta de cliente – normalmente no mesmo dia útil.",
+      "o4t": "Gémeo digital incluído",
+      "o4": "Cada encomenda inclui os gémeos digitais – com um clique no ZOLLER TMS e no seu sistema CAM. Acompanhe a encomenda em tempo real no MYZOLLER.",
+      "b_register": "Criar conta",
+      "h_system": "Porta-ferramentas, »idChip« e gémeo digital – tudo de um só fornecedor",
+      "p_system1": "A pedido, entregamos cada porta-ferramentas equilibrado e com »idChip« colado diretamente na sua produção. O furo para o chip é standard nos cones HSK-A, SK e PSC.",
+      "p_system2": "O código DataMatrix identifica cada porta-ferramentas de forma inequívoca – no aparelho de pré-ajuste, no »powerShrink« e na máquina. Na ZOLLER, medição, contração e equilibragem estão adaptadas aos porta-ferramentas.",
+      "l_idchip": "Mais sobre o »idChip«",
+      "h_faq": "Perguntas frequentes",
+      "q1": "Posso encomendar sem número de cliente ZOLLER?",
+      "a1": "Sim. Crie uma conta no MYZOLLER e indique os dados da sua empresa ao finalizar a encomenda. Verificamos os dados, criamos a sua conta de cliente – normalmente no mesmo dia útil – e transmitimos a encomenda automaticamente. Torna-se vinculativa com a nossa confirmação de encomenda.",
+      "q2": "Que preços vejo?",
+      "a2": "Depois de iniciar sessão vê os preços de tabela; como cliente, as condições pessoais da sua conta. Todos os preços são líquidos, acrescidos de IVA.",
+      "q3": "Preciso de uma máquina ZOLLER?",
+      "a3": "Não. Os porta-ferramentas servem em qualquer máquina com a interface correspondente. Com os aparelhos de pré-ajuste, contração e equilibragem da ZOLLER tira o máximo partido deles.",
+      "q4": "O que é o gémeo digital?",
+      "a4": "Os dados geométricos e mestres completos de cada porta-ferramentas. Recebe-os com a encomenda e transfere-os com um clique para o ZOLLER TMS Tool Management Solutions ou para o seu sistema CAM.",
+      "q5": "Posso encomendar porta-ferramentas com »idChip«?",
+      "a5": "Sim. O furo para o chip é standard em HSK-A, SK e PSC – basta adicionar o »idChip«, colado e equilibrado, ao artigo na loja.",
+      "q6": "Como acompanho a minha encomenda?",
+      "a6": "No MYZOLLER, em «Encomendas»: confirmação, prazo de entrega e seguimento do envio – em tempo real a partir do nosso sistema.",
+      "h_dl": "Brochuras",
+      "cats": {
+        "shrink_chuck": [
+          "Mandris de contração térmica",
+          "Para fixação de ferramentas com haste cilíndrica em metal duro ou HSS."
+        ],
+        "collet_chuck": [
+          "Mandris porta-pinças",
+          "Para fixação de ferramentas com haste cilíndrica em pinças ER."
+        ],
+        "hawk_eye": [
+          "HAWK EYE®",
+          "Mandris porta-pinças ER de precisão HPC para maquinagem de alto rendimento."
+        ],
+        "weldon": [
+          "Mandris Weldon",
+          "Para ferramentas com plano Weldon – ideal sem refrigeração interna."
+        ],
+        "whistle_notch": [
+          "Mandris Whistle Notch",
+          "Para ferramentas com haste cilíndrica e plano inclinado Whistle Notch."
+        ],
+        "screw_in": [
+          "Adaptadores para fresas roscadas",
+          "Para cabeças de fresagem com ligação roscada."
+        ],
+        "shell_mill": [
+          "Mandris porta-fresas",
+          "Para fresas com escatel transversal, com refrigeração até às arestas de corte."
+        ],
+        "combi_shell_mill": [
+          "Mandris porta-fresas combinados",
+          "Para fresas com escatel longitudinal e transversal."
+        ],
+        "morse_taper": [
+          "Adaptadores de cone Morse",
+          "Para ferramentas de cone Morse com lingueta segundo DIN 2288."
+        ],
+        "drill_chuck": [
+          "Mandris de furação curtos",
+          "Para fixação de brocas e ferramentas com haste cilíndrica."
+        ],
+        "er_collet": [
+          "Pinças ER",
+          "ER e ER «Mini» para mandris porta-pinças e HAWK EYE®."
+        ],
+        "shrink_extension": [
+          "Extensões de contração térmica",
+          "Para ferramentas com haste cilíndrica – maior alcance em maquinagens profundas."
+        ],
+        "tooling_accessory": [
+          "Acessórios",
+          "Discos de vedação, porcas de aperto e mais."
+        ]
+      }
+    },
+    "pt-BR": {
+      "title": "Tooling Shop",
+      "desc": "Tooling Shop - Mais de 2500 porta-ferramentas ZOLLER: encontre, compre no MYZOLLER, gêmeo digital incluído",
+      "nav_claim": "Mais de 2500 porta-ferramentas",
+      "claim": "Mais de 2500 porta-ferramentas – balanceados com precisão, melhores que a norma DIN e, se desejar, com »idChip«. Encontre o seu porta-ferramentas e faça o pedido direto no MYZOLLER.",
+      "alt": "Porta-ferramentas ZOLLER Tooling Solutions",
+      "b_find": "Encontrar porta-ferramentas",
+      "b_shop": "Abrir a loja",
+      "h_finder": "Encontre o porta-ferramentas certo",
+      "p_finder": "Escolha o tipo de porta-ferramentas e a interface da sua máquina – a loja mostra todos os porta-ferramentas compatíveis com dimensões, disponibilidade e preços.",
+      "s1": "Tipo de porta-ferramentas",
+      "s2": "Interface da sua máquina",
+      "s2_none": "Compatível com qualquer interface.",
+      "all_cats": "Todos os porta-ferramentas",
+      "all_ifaces": "Todas as interfaces",
+      "cta": "Ver na loja",
+      "note": "A loja funciona no MYZOLLER, o portal do cliente da ZOLLER. Os preços aparecem após o login – sem número de cliente, criamos sua conta de cliente no primeiro pedido.",
+      "h_cats": "A linha de produtos",
+      "p_cats": "Todos os porta-ferramentas ZOLLER Tooling são balanceados com precisão e sempre melhores que a norma DIN. Um clique abre a categoria na loja.",
+      "h_order": "Como comprar",
+      "o1t": "Encontre o porta-ferramentas",
+      "o1": "Com o localizador acima ou direto na loja – por tipo, interface e diâmetro de fixação.",
+      "o2t": "Faça login no MYZOLLER",
+      "o2": "Clientes veem suas condições comerciais e compram com faturamento – compras e engenharia na mesma equipe.",
+      "o3t": "Novo na ZOLLER?",
+      "o3": "Mesmo sem número de cliente ou máquina ZOLLER: informe os dados da sua empresa ao finalizar o pedido e criamos sua conta de cliente – normalmente no mesmo dia útil.",
+      "o4t": "Gêmeo digital incluído",
+      "o4": "Todo pedido inclui os gêmeos digitais – com um clique no ZOLLER TMS e no seu sistema CAM. Acompanhe o status do pedido em tempo real no MYZOLLER.",
+      "b_register": "Criar conta",
+      "h_system": "Porta-ferramentas, »idChip« e gêmeo digital – tudo de um só fornecedor",
+      "p_system1": "Se desejar, entregamos cada porta-ferramentas balanceado e com »idChip« colado direto na sua produção. O furo para o chip é padrão nos cones HSK-A, SK e PSC.",
+      "p_system2": "O código DataMatrix identifica cada porta-ferramentas de forma única – no presetter, no »powerShrink« e na máquina. Na ZOLLER, medição, contração térmica e balanceamento são ajustados aos porta-ferramentas.",
+      "l_idchip": "Saiba mais sobre o »idChip«",
+      "h_faq": "Perguntas frequentes",
+      "q1": "Posso comprar sem número de cliente ZOLLER?",
+      "a1": "Sim. Crie uma conta no MYZOLLER e informe os dados da sua empresa ao finalizar o pedido. Verificamos os dados, criamos sua conta de cliente – normalmente no mesmo dia útil – e encaminhamos seu pedido automaticamente. Ele se torna vinculante com a nossa confirmação de pedido.",
+      "q2": "Quais preços eu vejo?",
+      "a2": "Após o login você vê os preços de lista; como cliente, as condições comerciais da sua conta. Todos os preços são líquidos, sem impostos.",
+      "q3": "Preciso de uma máquina ZOLLER?",
+      "a3": "Não. Os porta-ferramentas servem em qualquer máquina com a interface correspondente. Com os presetters e as máquinas de contração térmica e de balanceamento da ZOLLER, você aproveita o máximo deles.",
+      "q4": "O que é o gêmeo digital?",
+      "a4": "Os dados geométricos e cadastrais completos de cada porta-ferramentas. Você os recebe com o pedido e os importa com um clique no ZOLLER TMS Tool Management Solutions ou no seu sistema CAM.",
+      "q5": "Posso comprar porta-ferramentas com »idChip«?",
+      "a5": "Sim. O furo para o chip é padrão em HSK-A, SK e PSC – basta adicionar o »idChip«, colado e balanceado, ao item na loja.",
+      "q6": "Como acompanho meu pedido?",
+      "a6": "No MYZOLLER, em “Pedidos”: confirmação, prazo de entrega e rastreamento – em tempo real direto do nosso sistema.",
+      "h_dl": "Catálogos",
+      "cats": {
+        "shrink_chuck": [
+          "Mandris térmicos (shrink)",
+          "Para fixação de ferramentas com haste cilíndrica de metal duro ou HSS."
+        ],
+        "collet_chuck": [
+          "Mandris porta-pinça ER",
+          "Para fixação de ferramentas com haste cilíndrica em pinças ER."
+        ],
+        "hawk_eye": [
+          "HAWK EYE®",
+          "Mandris porta-pinça ER de precisão HPC para usinagem de alto desempenho."
+        ],
+        "weldon": [
+          "Mandris Weldon",
+          "Para ferramentas com rebaixo Weldon – ideal sem refrigeração interna."
+        ],
+        "whistle_notch": [
+          "Mandris Whistle Notch",
+          "Para ferramentas com haste cilíndrica e rebaixo inclinado Whistle Notch."
+        ],
+        "screw_in": [
+          "Mandris para fresas roscadas",
+          "Para cabeçotes de fresamento com conexão roscada."
+        ],
+        "shell_mill": [
+          "Mandris porta-cabeçote",
+          "Para fresas com rasgo transversal, com refrigeração até as arestas de corte."
+        ],
+        "combi_shell_mill": [
+          "Mandris porta-fresa combinados",
+          "Para fresas com rasgo longitudinal e transversal."
+        ],
+        "morse_taper": [
+          "Mandris para cone Morse",
+          "Para ferramentas com cone Morse e espiga conforme DIN 2288."
+        ],
+        "drill_chuck": [
+          "Mandris porta-brocas curtos",
+          "Para fixação de brocas e ferramentas com haste cilíndrica."
+        ],
+        "er_collet": [
+          "Pinças ER",
+          "ER e ER «Mini» para mandris porta-pinça e HAWK EYE®."
+        ],
+        "shrink_extension": [
+          "Extensões térmicas (shrink)",
+          "Para ferramentas com haste cilíndrica – maior alcance em usinagens profundas."
+        ],
+        "tooling_accessory": [
+          "Acessórios",
+          "Discos de vedação, porcas de fixação e mais."
+        ]
+      }
+    },
+    "it": {
+      "title": "Tooling Shop",
+      "desc": "Tooling Shop - Oltre 2500 portautensili ZOLLER: trovarli, ordinarli in MYZOLLER, gemello digitale incluso",
+      "nav_claim": "Oltre 2500 portautensili",
+      "claim": "Oltre 2500 portautensili – equilibrati con precisione, migliori della norma DIN e, su richiesta, con »idChip«. Trovi il portautensile giusto e lo ordini direttamente in MYZOLLER.",
+      "alt": "Portautensili ZOLLER Tooling Solutions",
+      "b_find": "Trova portautensile",
+      "b_shop": "Apri lo shop",
+      "h_finder": "Trovare il portautensile giusto",
+      "p_finder": "Scelga il tipo di portautensile e l’interfaccia della sua macchina: lo shop mostra tutti i portautensili adatti con dimensioni, disponibilità e prezzi.",
+      "s1": "Tipo di portautensile",
+      "s2": "Interfaccia della macchina",
+      "s2_none": "Adatto a qualsiasi interfaccia.",
+      "all_cats": "Tutti i portautensili",
+      "all_ifaces": "Tutte le interfacce",
+      "cta": "Mostra nello shop",
+      "note": "Lo shop si trova in MYZOLLER, il portale clienti di ZOLLER. I prezzi sono visibili dopo l’accesso; senza numero cliente creiamo il suo account cliente con il primo ordine.",
+      "h_cats": "La gamma",
+      "p_cats": "Tutti i portautensili ZOLLER Tooling sono equilibrati con precisione e costantemente migliori della norma DIN. Un clic apre la categoria nello shop.",
+      "h_order": "Come ordinare",
+      "o1t": "Trovare il portautensile",
+      "o1": "Con il configuratore qui sopra o direttamente nello shop: per tipo, interfaccia e diametro di serraggio.",
+      "o2t": "Accedere a MYZOLLER",
+      "o2": "I clienti vedono le proprie condizioni e ordinano con fattura: acquisti e reparto tecnico nello stesso team.",
+      "o3t": "Nuovi clienti",
+      "o3": "Anche senza numero cliente o macchina ZOLLER: al checkout indichi i dati della sua azienda e creiamo il suo account cliente, di solito nello stesso giorno lavorativo.",
+      "o4t": "Gemello digitale incluso",
+      "o4": "Ogni ordine include i gemelli digitali: con un clic in ZOLLER TMS e nel suo sistema CAM. Lo stato dell’ordine è visibile in tempo reale in MYZOLLER.",
+      "b_register": "Crea account",
+      "h_system": "Portautensile, »idChip« e gemello digitale: tutto da un unico fornitore",
+      "p_system1": "Su richiesta forniamo ogni portautensile equilibrato e con »idChip« incollato direttamente nella sua produzione. Il foro per il chip è standard sui coni HSK-A, SK e PSC.",
+      "p_system2": "Il codice DataMatrix rende ogni portautensile univoco: sul banco di presetting, sul »powerShrink« e in macchina. In ZOLLER misura, calettamento ed equilibratura sono studiati per i portautensili.",
+      "l_idchip": "Scopri di più su »idChip«",
+      "h_faq": "Domande frequenti",
+      "q1": "Posso ordinare senza numero cliente ZOLLER?",
+      "a1": "Sì. Crei un account in MYZOLLER e al checkout indichi i dati della sua azienda. Li verifichiamo, creiamo il suo account cliente, di solito nello stesso giorno lavorativo, e trasmettiamo automaticamente l’ordine. L’ordine diventa vincolante con la nostra conferma d’ordine.",
+      "q2": "Quali prezzi vedo?",
+      "a2": "Dopo l’accesso vede i prezzi di listino; come cliente, le condizioni personali del suo account. Tutti i prezzi sono netti, IVA esclusa.",
+      "q3": "Mi serve una macchina ZOLLER?",
+      "a3": "No. I portautensili sono adatti a qualsiasi macchina con l’interfaccia corrispondente. Con i banchi di presetting e i sistemi di calettamento e di equilibratura ZOLLER ne sfrutta al meglio le potenzialità.",
+      "q4": "Che cos’è il gemello digitale?",
+      "a4": "I dati geometrici e anagrafici completi di ogni portautensile. Li riceve con l’ordine e li importa con un clic in ZOLLER TMS Tool Management Solutions o nel suo sistema CAM.",
+      "q5": "Posso ordinare portautensili con »idChip«?",
+      "a5": "Sì. Il foro per il chip è standard su HSK-A, SK e PSC: aggiunga l’»idChip«, incollato ed equilibrato, direttamente all’articolo nello shop.",
+      "q6": "Come seguo il mio ordine?",
+      "a6": "In MYZOLLER, alla voce «Ordini»: conferma d’ordine, data di consegna e tracciamento della spedizione, in tempo reale dal nostro sistema.",
+      "h_dl": "Brochure",
+      "cats": {
+        "shrink_chuck": [
+          "Mandrini a calettamento termico",
+          "Per il serraggio di utensili con codolo cilindrico in metallo duro o HSS."
+        ],
+        "collet_chuck": [
+          "Mandrini portapinze",
+          "Per il serraggio di utensili con codolo cilindrico in pinze ER."
+        ],
+        "hawk_eye": [
+          "HAWK EYE®",
+          "Mandrini portapinze ER di precisione HPC per lavorazioni ad alte prestazioni."
+        ],
+        "weldon": [
+          "Mandrini Weldon",
+          "Per utensili con piano Weldon: ideali senza adduzione interna del refrigerante."
+        ],
+        "whistle_notch": [
+          "Mandrini Whistle Notch",
+          "Per utensili con codolo cilindrico e piano inclinato Whistle Notch."
+        ],
+        "screw_in": [
+          "Adattatori per frese ad attacco filettato",
+          "Per teste di fresatura con attacco filettato."
+        ],
+        "shell_mill": [
+          "Mandrini portafrese",
+          "Per frese con cava trasversale, con refrigerante fino ai taglienti."
+        ],
+        "combi_shell_mill": [
+          "Mandrini portafrese combinati",
+          "Per frese con cava longitudinale e trasversale."
+        ],
+        "morse_taper": [
+          "Adattatori cono Morse",
+          "Per utensili con cono Morse e dente di trascinamento secondo DIN 2288."
+        ],
+        "drill_chuck": [
+          "Mandrini portapunte corti",
+          "Per il serraggio di punte e utensili con codolo cilindrico."
+        ],
+        "er_collet": [
+          "Pinze ER",
+          "ER ed ER «Mini» per mandrini portapinze e HAWK EYE®."
+        ],
+        "shrink_extension": [
+          "Prolunghe a calettamento termico",
+          "Per utensili con codolo cilindrico: maggiore sbraccio per lavorazioni profonde."
+        ],
+        "tooling_accessory": [
+          "Accessori",
+          "Dischi di tenuta, ghiere di serraggio e altro."
+        ]
+      }
+    },
+    "sv": {
+      "title": "Tooling Shop",
+      "desc": "Tooling Shop - Över 2 500 verktygshållare från ZOLLER: hitta, beställ i MYZOLLER, digital tvilling ingår",
+      "nav_claim": "Över 2 500 verktygshållare",
+      "claim": "Över 2 500 verktygshållare – finbalanserade, bättre än DIN och på begäran med »idChip«. Hitta din hållare och beställ direkt i MYZOLLER.",
+      "alt": "Verktygshållare ZOLLER Tooling Solutions",
+      "b_find": "Hitta verktygshållare",
+      "b_shop": "Öppna butiken",
+      "h_finder": "Hitta rätt verktygshållare",
+      "p_finder": "Välj typ av hållare och maskinens gränssnitt – butiken visar alla passande hållare med mått, tillgänglighet och priser.",
+      "s1": "Typ av hållare",
+      "s2": "Maskinens gränssnitt",
+      "s2_none": "Passar oavsett gränssnitt.",
+      "all_cats": "Alla verktygshållare",
+      "all_ifaces": "Alla gränssnitt",
+      "cta": "Visa i butiken",
+      "note": "Butiken finns i MYZOLLER, ZOLLERs kundportal. Priser visas när du har loggat in – utan kundnummer skapar vi ditt kundkonto med den första beställningen.",
+      "h_cats": "Sortimentet",
+      "p_cats": "Alla verktygshållare från ZOLLER Tooling är finbalanserade och alltid bättre än DIN. Ett klick öppnar kategorin i butiken.",
+      "h_order": "Så beställer du",
+      "o1t": "Hitta hållaren",
+      "o1": "Med väljaren ovan eller direkt i butiken – efter typ, gränssnitt och spänndiameter.",
+      "o2t": "Logga in i MYZOLLER",
+      "o2": "Kunder ser sina egna villkor och beställer mot faktura – inköp och teknik i samma team.",
+      "o3t": "Ny hos ZOLLER?",
+      "o3": "Även utan kundnummer eller ZOLLER-maskin: ange företagets uppgifter i kassan, så skapar vi ditt kundkonto – oftast samma arbetsdag.",
+      "o4t": "Digital tvilling ingår",
+      "o4": "Varje beställning levereras med de digitala tvillingarna – med ett klick in i ZOLLER TMS och ditt CAM-system. Följ ordern i realtid i MYZOLLER.",
+      "b_register": "Skapa konto",
+      "h_system": "Verktygshållare, »idChip« och digital tvilling – allt från en leverantör",
+      "p_system1": "På begäran levererar vi varje verktygshållare finbalanserad och med fastlimmad »idChip« direkt till din produktion. Chipborrningen är standard på HSK-A, SK och PSC.",
+      "p_system2": "DataMatrix-koden gör varje hållare unik – i förinställningsmaskinen, i »powerShrink« och i maskinen. Hos ZOLLER är mätning, krympning och balansering anpassade till hållarna.",
+      "l_idchip": "Mer om »idChip«",
+      "h_faq": "Vanliga frågor",
+      "q1": "Kan jag beställa utan kundnummer hos ZOLLER?",
+      "a1": "Ja. Skapa ett konto i MYZOLLER och ange företagets uppgifter i kassan. Vi kontrollerar dem, skapar ditt kundkonto – oftast samma arbetsdag – och skickar sedan din beställning vidare automatiskt. Den blir bindande med vår orderbekräftelse.",
+      "q2": "Vilka priser ser jag?",
+      "a2": "När du har loggat in ser du listpriser; som kund ser du de personliga villkoren för ditt kundkonto. Alla priser är exklusive moms.",
+      "q3": "Behöver jag en ZOLLER-maskin?",
+      "a3": "Nej. Verktygshållarna passar alla maskiner med motsvarande gränssnitt. Med ZOLLERs förinställnings-, krymp- och balanseringsmaskiner får du ut mest av dem.",
+      "q4": "Vad är den digitala tvillingen?",
+      "a4": "Fullständiga geometri- och grunddata för varje hållare. Du får dem med beställningen och för över dem med ett klick till ZOLLER TMS Tool Management Solutions eller ditt CAM-system.",
+      "q5": "Kan jag beställa verktygshållare med »idChip«?",
+      "a5": "Ja. Chipborrningen är standard på HSK-A, SK och PSC – lägg bara till »idChip«, fastlimmad och finbalanserad, på artikeln i butiken.",
+      "q6": "Hur följer jag min beställning?",
+      "a6": "I MYZOLLER under ”Order”: orderbekräftelse, leveransdatum och spårning – i realtid från vårt system.",
+      "h_dl": "Broschyrer",
+      "cats": {
+        "shrink_chuck": [
+          "Krympchuckar",
+          "För fastspänning av verktyg med cylindriskt skaft av hårdmetall eller HSS."
+        ],
+        "collet_chuck": [
+          "Spännhylschuckar",
+          "För fastspänning av verktyg med cylindriskt skaft i ER-spännhylsor."
+        ],
+        "hawk_eye": [
+          "HAWK EYE®",
+          "HPC-precisionschuckar för ER-spännhylsor för högpresterande bearbetning."
+        ],
+        "weldon": [
+          "Weldon-hållare",
+          "För verktyg med Weldon-plan – idealiska utan invändig kylvätsketillförsel."
+        ],
+        "whistle_notch": [
+          "Whistle Notch-hållare",
+          "För verktyg med cylindriskt skaft och snedställt Whistle Notch-plan."
+        ],
+        "screw_in": [
+          "Adaptrar för inskruvningsfräsar",
+          "För fräshuvuden med gänganslutning."
+        ],
+        "shell_mill": [
+          "Planfräsdornar",
+          "För fräsar med tvärspår, med kylvätska fram till skären."
+        ],
+        "combi_shell_mill": [
+          "Kombifräsdornar",
+          "För fräsar med längs- och tvärspår."
+        ],
+        "morse_taper": [
+          "Morsekonadaptrar",
+          "För verktyg med morsekona och medbringartapp enligt DIN 2288."
+        ],
+        "drill_chuck": [
+          "Korta borrchuckar",
+          "För fastspänning av borrar och verktyg med cylindriskt skaft."
+        ],
+        "er_collet": [
+          "ER-spännhylsor",
+          "ER och ER «Mini» för spännhylschuckar och HAWK EYE®."
+        ],
+        "shrink_extension": [
+          "Krympförlängningar",
+          "För verktyg med cylindriskt skaft – längre räckvidd för djup bearbetning."
+        ],
+        "tooling_accessory": [
+          "Tillbehör",
+          "Tätningsbrickor, spännmuttrar med mera."
+        ]
+      }
+    },
+    "pl": {
+      "title": "Tooling Shop",
+      "desc": "Tooling Shop - Ponad 2500 oprawek narzędziowych ZOLLER: znajdź, zamów w MYZOLLER, cyfrowy bliźniak w zestawie",
+      "nav_claim": "Ponad 2500 oprawek narzędziowych",
+      "claim": "Ponad 2500 oprawek narzędziowych – precyzyjnie wyważonych, lepszych niż DIN, na życzenie z »idChip«. Znajdź swoją oprawkę i zamów ją bezpośrednio w MYZOLLER.",
+      "alt": "Oprawki narzędziowe ZOLLER Tooling Solutions",
+      "b_find": "Znajdź oprawkę",
+      "b_shop": "Otwórz sklep",
+      "h_finder": "Znajdź odpowiednią oprawkę",
+      "p_finder": "Wybierz rodzaj oprawki i interfejs swojej maszyny – sklep pokaże wszystkie pasujące oprawki z wymiarami, dostępnością i cenami.",
+      "s1": "Rodzaj oprawki",
+      "s2": "Interfejs maszyny",
+      "s2_none": "Pasuje niezależnie od interfejsu.",
+      "all_cats": "Wszystkie oprawki",
+      "all_ifaces": "Wszystkie interfejsy",
+      "cta": "Pokaż w sklepie",
+      "note": "Sklep działa w MYZOLLER, portalu klienta ZOLLER. Ceny są widoczne po zalogowaniu – bez numeru klienta założymy konto klienta przy pierwszym zamówieniu.",
+      "h_cats": "Asortyment",
+      "p_cats": "Wszystkie oprawki ZOLLER Tooling są precyzyjnie wyważone i zawsze lepsze niż wymagania DIN. Jedno kliknięcie otwiera kategorię w sklepie.",
+      "h_order": "Jak zamówić",
+      "o1t": "Znajdź oprawkę",
+      "o1": "Za pomocą wyszukiwarki powyżej lub bezpośrednio w sklepie – według rodzaju, interfejsu i średnicy mocowania.",
+      "o2t": "Zaloguj się do MYZOLLER",
+      "o2": "Klienci widzą swoje indywidualne warunki i kupują na fakturę – zakupy i dział techniczny w jednym zespole.",
+      "o3t": "Nowy klient ZOLLER?",
+      "o3": "Także bez numeru klienta i maszyny ZOLLER: przy składaniu zamówienia podaj dane firmy, a my założymy konto klienta – zwykle tego samego dnia roboczego.",
+      "o4t": "Cyfrowy bliźniak w zestawie",
+      "o4": "Każde zamówienie zawiera cyfrowe bliźniaki – jednym kliknięciem w ZOLLER TMS i w systemie CAM. Status zamówienia śledzisz na bieżąco w MYZOLLER.",
+      "b_register": "Załóż konto",
+      "h_system": "Oprawka, »idChip« i cyfrowy bliźniak – wszystko od jednego dostawcy",
+      "p_system1": "Na życzenie dostarczamy każdą oprawkę wyważoną i z wklejonym »idChip« bezpośrednio do Twojej produkcji. Otwór na chip jest standardem w stożkach HSK-A, SK i PSC.",
+      "p_system2": "Kod DataMatrix jednoznacznie identyfikuje każdą oprawkę – na urządzeniu do ustawiania narzędzi, na »powerShrink« i na maszynie. W ZOLLER pomiar, obkurczanie i wyważanie są dopasowane do oprawek.",
+      "l_idchip": "Więcej o »idChip«",
+      "h_faq": "Najczęstsze pytania",
+      "q1": "Czy mogę zamówić bez numeru klienta ZOLLER?",
+      "a1": "Tak. Załóż konto w MYZOLLER i przy składaniu zamówienia podaj dane firmy. Sprawdzimy je, założymy konto klienta – zwykle tego samego dnia roboczego – i automatycznie przekażemy zamówienie dalej. Staje się ono wiążące z chwilą naszego potwierdzenia zamówienia.",
+      "q2": "Jakie ceny widzę?",
+      "a2": "Po zalogowaniu widzisz ceny katalogowe, a jako klient – indywidualne warunki swojego konta. Wszystkie ceny są cenami netto, do których dolicza się VAT.",
+      "q3": "Czy potrzebuję maszyny ZOLLER?",
+      "a3": "Nie. Oprawki pasują do każdej maszyny z odpowiednim interfejsem. Z urządzeniami ZOLLER do ustawiania, obkurczania i wyważania wykorzystasz je najlepiej.",
+      "q4": "Czym jest cyfrowy bliźniak?",
+      "a4": "To kompletne dane geometryczne i podstawowe każdej oprawki. Otrzymujesz je z zamówieniem i jednym kliknięciem przenosisz do ZOLLER TMS Tool Management Solutions lub systemu CAM.",
+      "q5": "Czy mogę zamówić oprawki z »idChip«?",
+      "a5": "Tak. Otwór na chip jest standardem w HSK-A, SK i PSC – wystarczy dodać do artykułu w sklepie »idChip«, wklejony i wyważony.",
+      "q6": "Jak śledzić zamówienie?",
+      "a6": "W MYZOLLER w zakładce „Zamówienia”: potwierdzenie, termin dostawy i śledzenie przesyłki – na bieżąco z naszego systemu.",
+      "h_dl": "Broszury",
+      "cats": {
+        "shrink_chuck": [
+          "Oprawki termokurczliwe",
+          "Do mocowania narzędzi z chwytem walcowym z węglika spiekanego lub HSS."
+        ],
+        "collet_chuck": [
+          "Oprawki zaciskowe",
+          "Do mocowania narzędzi z chwytem walcowym w tulejkach zaciskowych ER."
+        ],
+        "hawk_eye": [
+          "HAWK EYE®",
+          "Precyzyjne oprawki zaciskowe ER HPC do obróbki wysokowydajnej."
+        ],
+        "weldon": [
+          "Oprawki Weldon",
+          "Do narzędzi z płaszczyzną Weldon – idealne bez wewnętrznego doprowadzenia chłodziwa."
+        ],
+        "whistle_notch": [
+          "Oprawki Whistle Notch",
+          "Do narzędzi z chwytem walcowym i skośną płaszczyzną Whistle Notch."
+        ],
+        "screw_in": [
+          "Oprawki do frezów wkręcanych",
+          "Do głowic frezowych z przyłączem gwintowym."
+        ],
+        "shell_mill": [
+          "Trzpienie do głowic frezowych",
+          "Do frezów z rowkiem poprzecznym, z doprowadzeniem chłodziwa do ostrzy."
+        ],
+        "combi_shell_mill": [
+          "Trzpienie kombinowane",
+          "Do frezów z rowkiem wzdłużnym i poprzecznym."
+        ],
+        "morse_taper": [
+          "Oprawki ze stożkiem Morse’a",
+          "Do narzędzi ze stożkiem Morse’a z płetwą wg DIN 2288."
+        ],
+        "drill_chuck": [
+          "Krótkie uchwyty wiertarskie",
+          "Do mocowania wierteł i narzędzi z chwytem walcowym."
+        ],
+        "er_collet": [
+          "Tulejki zaciskowe ER",
+          "ER i ER «Mini» do oprawek zaciskowych i HAWK EYE®."
+        ],
+        "shrink_extension": [
+          "Przedłużki termokurczliwe",
+          "Do narzędzi z chwytem walcowym – większy wysięg przy obróbce głębokiej."
+        ],
+        "tooling_accessory": [
+          "Akcesoria",
+          "Podkładki uszczelniające, nakrętki zaciskowe i więcej."
+        ]
+      }
+    },
+    "sl": {
+      "title": "Tooling Shop",
+      "desc": "Tooling Shop - Več kot 2500 držal za orodje ZOLLER: poiščite, naročite v MYZOLLER, digitalni dvojček vključen",
+      "nav_claim": "Več kot 2500 držal za orodje",
+      "claim": "Več kot 2500 držal za orodje – fino uravnotežena, boljša od DIN, na željo z »idChip«. Poiščite svoje držalo in ga naročite neposredno v MYZOLLER.",
+      "alt": "Držala za orodje ZOLLER Tooling Solutions",
+      "b_find": "Poišči držalo",
+      "b_shop": "Odpri trgovino",
+      "h_finder": "Poiščite pravo držalo za orodje",
+      "p_finder": "Izberite vrsto držala in vmesnik svojega stroja – trgovina prikaže vsa ustrezna držala z merami, razpoložljivostjo in cenami.",
+      "s1": "Vrsta držala",
+      "s2": "Vmesnik stroja",
+      "s2_none": "Ustreza ne glede na vmesnik.",
+      "all_cats": "Vsa držala za orodje",
+      "all_ifaces": "Vsi vmesniki",
+      "cta": "Prikaži v trgovini",
+      "note": "Trgovina deluje v MYZOLLER, portalu za stranke podjetja ZOLLER. Cene vidite po prijavi – brez številke stranke vam ob prvem naročilu odpremo račun stranke.",
+      "h_cats": "Ponudba",
+      "p_cats": "Vsa držala ZOLLER Tooling so fino uravnotežena in vedno boljša od zahtev DIN. Klik odpre kategorijo v trgovini.",
+      "h_order": "Kako naročiti",
+      "o1t": "Poiščite držalo",
+      "o1": "Z iskalnikom zgoraj ali neposredno v trgovini – po vrsti, vmesniku in premeru vpenjanja.",
+      "o2t": "Prijavite se v MYZOLLER",
+      "o2": "Stranke vidijo svoje pogoje in naročajo na račun – nabava in tehnika v isti ekipi.",
+      "o3t": "Novi pri ZOLLER?",
+      "o3": "Tudi brez številke stranke ali stroja ZOLLER: ob naročilu vnesite podatke podjetja in odpremo vam račun stranke – običajno še isti delovni dan.",
+      "o4t": "Digitalni dvojček vključen",
+      "o4": "Vsako naročilo vključuje digitalne dvojčke – z enim klikom v ZOLLER TMS in vaš sistem CAM. Stanje naročila spremljate v živo v MYZOLLER.",
+      "b_register": "Ustvari račun",
+      "h_system": "Držalo, »idChip« in digitalni dvojček – vse od enega dobavitelja",
+      "p_system1": "Na željo vsako držalo dobavimo uravnoteženo in s trdno vlepljenim »idChip« neposredno v vašo proizvodnjo. Izvrtina za čip je standard pri HSK-A, SK in PSC.",
+      "p_system2": "Koda DataMatrix vsako držalo nedvoumno označi – na napravi za nastavljanje orodij, na »powerShrink« in na stroju. Pri ZOLLER so merjenje, krčenje in uravnoteženje prilagojeni držalom.",
+      "l_idchip": "Več o »idChip«",
+      "h_faq": "Pogosta vprašanja",
+      "q1": "Ali lahko naročim brez številke stranke ZOLLER?",
+      "a1": "Da. V MYZOLLER ustvarite račun in ob naročilu vnesite podatke podjetja. Preverimo jih, odpremo vaš račun stranke – običajno še isti delovni dan – in nato samodejno posredujemo vaše naročilo. Zavezujoče postane z našo potrditvijo naročila.",
+      "q2": "Katere cene vidim?",
+      "a2": "Po prijavi vidite cenikovne cene, kot stranka pa osebne pogoje svojega računa stranke. Vse cene so neto, brez DDV.",
+      "q3": "Ali potrebujem stroj ZOLLER?",
+      "a3": "Ne. Držala ustrezajo vsakemu stroju z ustreznim vmesnikom. Z napravami ZOLLER za nastavljanje, krčenje in uravnoteženje jih izkoristite najbolje.",
+      "q4": "Kaj je digitalni dvojček?",
+      "a4": "Popolni geometrijski in osnovni podatki vsakega držala. Prejmete jih z naročilom in jih z enim klikom prenesete v ZOLLER TMS Tool Management Solutions ali svoj sistem CAM.",
+      "q5": "Ali lahko naročim držala z »idChip«?",
+      "a5": "Da. Izvrtina za čip je standard pri HSK-A, SK in PSC – v trgovini artiklu preprosto dodajte »idChip«, vlepljen in uravnotežen.",
+      "q6": "Kako spremljam svoje naročilo?",
+      "a6": "V MYZOLLER pod »Naročila«: potrditev naročila, rok dobave in sledenje pošiljki – v živo iz našega sistema.",
+      "h_dl": "Brošure",
+      "cats": {
+        "shrink_chuck": [
+          "Krčna držala",
+          "Za vpenjanje orodij s cilindričnim steblom iz karbidne trdine ali HSS."
+        ],
+        "collet_chuck": [
+          "Vpenjalne glave za puše",
+          "Za vpenjanje orodij s cilindričnim steblom v vpenjalnih pušah ER."
+        ],
+        "hawk_eye": [
+          "HAWK EYE®",
+          "Precizne vpenjalne glave ER HPC za visokozmogljivo obdelavo."
+        ],
+        "weldon": [
+          "Držala Weldon",
+          "Za orodja s ploskvijo Weldon – idealna brez notranjega dovoda hladilnega sredstva."
+        ],
+        "whistle_notch": [
+          "Držala Whistle Notch",
+          "Za orodja s cilindričnim steblom in poševno ploskvijo Whistle Notch."
+        ],
+        "screw_in": [
+          "Držala za privijačna rezkala",
+          "Za rezkalne glave z navojnim priključkom."
+        ],
+        "shell_mill": [
+          "Držala za rezkalne glave",
+          "Za rezkala s prečnim utorom, z dovodom hladilnega sredstva do rezil."
+        ],
+        "combi_shell_mill": [
+          "Kombinirani trni",
+          "Za rezkala z vzdolžnim in prečnim utorom."
+        ],
+        "morse_taper": [
+          "Držala z Morsejevim stožcem",
+          "Za orodja z Morsejevim stožcem in izbijalnim jezičkom po DIN 2288."
+        ],
+        "drill_chuck": [
+          "Kratke vrtalne glave",
+          "Za vpenjanje svedrov in orodij s cilindričnim steblom."
+        ],
+        "er_collet": [
+          "Vpenjalne puše ER",
+          "ER in ER «Mini» za vpenjalne glave in HAWK EYE®."
+        ],
+        "shrink_extension": [
+          "Krčni podaljški",
+          "Za orodja s cilindričnim steblom – večji doseg pri globoki obdelavi."
+        ],
+        "tooling_accessory": [
+          "Dodatna oprema",
+          "Tesnilne ploščice, vpenjalne matice in več."
+        ]
+      }
+    },
+    "cs": {
+      "title": "Tooling Shop",
+      "desc": "Tooling Shop - Více než 2 500 nástrojových upínačů ZOLLER: najít, objednat v MYZOLLER, digitální dvojče v ceně",
+      "nav_claim": "Více než 2 500 upínačů",
+      "claim": "Více než 2 500 nástrojových upínačů – jemně vyvážených, lepších než DIN, na přání s »idChip«. Najděte svůj upínač a objednejte ho přímo v MYZOLLER.",
+      "alt": "Nástrojové upínače ZOLLER Tooling Solutions",
+      "b_find": "Najít upínač",
+      "b_shop": "Otevřít obchod",
+      "h_finder": "Najděte správný upínač",
+      "p_finder": "Zvolte druh upínače a rozhraní svého stroje – obchod zobrazí všechny vhodné upínače s rozměry, dostupností a cenami.",
+      "s1": "Druh upínače",
+      "s2": "Rozhraní stroje",
+      "s2_none": "Hodí se pro jakékoli rozhraní.",
+      "all_cats": "Všechny upínače",
+      "all_ifaces": "Všechna rozhraní",
+      "cta": "Zobrazit v obchodě",
+      "note": "Obchod běží v MYZOLLER, zákaznickém portálu společnosti ZOLLER. Ceny uvidíte po přihlášení – bez zákaznického čísla vám zákaznický účet založíme s první objednávkou.",
+      "h_cats": "Sortiment",
+      "p_cats": "Všechny upínače ZOLLER Tooling jsou jemně vyvážené a trvale lepší než DIN. Jedním kliknutím otevřete kategorii v obchodě.",
+      "h_order": "Jak objednat",
+      "o1t": "Najděte upínač",
+      "o1": "Pomocí vyhledávače výše nebo přímo v obchodě – podle druhu, rozhraní a upínacího průměru.",
+      "o2t": "Přihlaste se do MYZOLLER",
+      "o2": "Zákazníci vidí své individuální podmínky a objednávají na fakturu – nákup i technika v jednom týmu.",
+      "o3t": "Noví u ZOLLER?",
+      "o3": "I bez zákaznického čísla nebo stroje ZOLLER: v pokladně zadejte údaje o firmě a my vám založíme zákaznický účet – obvykle ještě týž pracovní den.",
+      "o4t": "Digitální dvojče v ceně",
+      "o4": "Každá objednávka obsahuje digitální dvojčata – jedním kliknutím do ZOLLER TMS a vašeho systému CAM. Stav objednávky sledujete živě v MYZOLLER.",
+      "b_register": "Vytvořit účet",
+      "h_system": "Upínač, »idChip« a digitální dvojče – vše od jednoho dodavatele",
+      "p_system1": "Na přání dodáme každý upínač vyvážený a s pevně vlepeným »idChip« přímo do vaší výroby. Otvor pro čip je standardem u HSK-A, SK a PSC.",
+      "p_system2": "Kód DataMatrix jednoznačně identifikuje každý upínač – na seřizovacím přístroji, na »powerShrink« i na stroji. U ZOLLER jsou měření, tepelné upínání a vyvažování sladěny s upínači.",
+      "l_idchip": "Více o »idChip«",
+      "h_faq": "Časté dotazy",
+      "q1": "Mohu objednat bez zákaznického čísla ZOLLER?",
+      "a1": "Ano. Vytvořte si účet v MYZOLLER a v pokladně zadejte údaje o firmě. Zkontrolujeme je, založíme vám zákaznický účet – obvykle ještě týž pracovní den – a pak vaši objednávku automaticky předáme dál. Závaznou se stává naším potvrzením objednávky.",
+      "q2": "Jaké ceny uvidím?",
+      "a2": "Po přihlášení vidíte ceníkové ceny, jako zákazník individuální podmínky svého zákaznického účtu. Všechny ceny jsou bez DPH.",
+      "q3": "Potřebuji stroj ZOLLER?",
+      "a3": "Ne. Upínače se hodí ke každému stroji s odpovídajícím rozhraním. S přístroji ZOLLER pro seřizování, tepelné upínání a vyvažování z nich vytěžíte maximum.",
+      "q4": "Co je digitální dvojče?",
+      "a4": "Úplná geometrická a kmenová data každého upínače. Dostanete je s objednávkou a jedním kliknutím je převezmete do ZOLLER TMS Tool Management Solutions nebo svého systému CAM.",
+      "q5": "Mohu objednat upínače s »idChip«?",
+      "a5": "Ano. Otvor pro čip je standardem u HSK-A, SK a PSC – v obchodě k položce jednoduše přidejte »idChip«, vlepený a vyvážený.",
+      "q6": "Jak sleduji svou objednávku?",
+      "a6": "V MYZOLLER v části „Zakázky“: potvrzení objednávky, termín dodání a sledování zásilky – živě z našeho systému.",
+      "h_dl": "Brožury",
+      "cats": {
+        "shrink_chuck": [
+          "Tepelné upínače",
+          "K upínání nástrojů s válcovou stopkou ze slinutého karbidu nebo HSS."
+        ],
+        "collet_chuck": [
+          "Kleštinové upínače",
+          "K upínání nástrojů s válcovou stopkou v kleštinách ER."
+        ],
+        "hawk_eye": [
+          "HAWK EYE®",
+          "Přesné kleštinové upínače ER HPC pro vysoce výkonné obrábění."
+        ],
+        "weldon": [
+          "Upínače Weldon",
+          "Pro nástroje s plochou Weldon – ideální bez vnitřního přívodu chladiva."
+        ],
+        "whistle_notch": [
+          "Upínače Whistle Notch",
+          "Pro nástroje s válcovou stopkou a šikmou plochou Whistle Notch."
+        ],
+        "screw_in": [
+          "Upínače pro šroubovací frézy",
+          "Pro frézovací hlavy se závitovým připojením."
+        ],
+        "shell_mill": [
+          "Nástrčné frézovací trny",
+          "Pro frézy s příčnou drážkou, s přívodem chladiva k břitům."
+        ],
+        "combi_shell_mill": [
+          "Kombinované frézovací trny",
+          "Pro frézy s podélnou a příčnou drážkou."
+        ],
+        "morse_taper": [
+          "Upínače s Morseovým kuželem",
+          "Pro nástroje s Morseovým kuželem a plochým unášecím koncem podle DIN 2288."
+        ],
+        "drill_chuck": [
+          "Krátká vrtací sklíčidla",
+          "K upínání vrtáků a nástrojů s válcovou stopkou."
+        ],
+        "er_collet": [
+          "Kleštiny ER",
+          "ER a ER «Mini» pro kleštinové upínače a HAWK EYE®."
+        ],
+        "shrink_extension": [
+          "Tepelná prodloužení",
+          "Pro nástroje s válcovou stopkou – větší vyložení pro hluboké obrábění."
+        ],
+        "tooling_accessory": [
+          "Příslušenství",
+          "Těsnicí podložky, upínací matice a další."
+        ]
+      }
+    },
+    "sk": {
+      "title": "Tooling Shop",
+      "desc": "Tooling Shop - Viac ako 2 500 nástrojových upínačov ZOLLER: nájsť, objednať v MYZOLLER, digitálne dvojča v cene",
+      "nav_claim": "Viac ako 2 500 upínačov",
+      "claim": "Viac ako 2 500 nástrojových upínačov – jemne vyvážených, lepších ako DIN, na želanie s »idChip«. Nájdite svoj upínač a objednajte ho priamo v MYZOLLER.",
+      "alt": "Nástrojové upínače ZOLLER Tooling Solutions",
+      "b_find": "Nájsť upínač",
+      "b_shop": "Otvoriť obchod",
+      "h_finder": "Nájdite správny upínač",
+      "p_finder": "Zvoľte druh upínača a rozhranie svojho stroja – obchod zobrazí všetky vhodné upínače s rozmermi, dostupnosťou a cenami.",
+      "s1": "Druh upínača",
+      "s2": "Rozhranie stroja",
+      "s2_none": "Hodí sa pre akékoľvek rozhranie.",
+      "all_cats": "Všetky upínače",
+      "all_ifaces": "Všetky rozhrania",
+      "cta": "Zobraziť v obchode",
+      "note": "Obchod beží v MYZOLLER, zákazníckom portáli spoločnosti ZOLLER. Ceny uvidíte po prihlásení – bez zákazníckeho čísla vám zákaznícky účet založíme s prvou objednávkou.",
+      "h_cats": "Sortiment",
+      "p_cats": "Všetky upínače ZOLLER Tooling sú jemne vyvážené a trvalo lepšie ako DIN. Jedným kliknutím otvoríte kategóriu v obchode.",
+      "h_order": "Ako objednať",
+      "o1t": "Nájdite upínač",
+      "o1": "Pomocou vyhľadávača vyššie alebo priamo v obchode – podľa druhu, rozhrania a upínacieho priemeru.",
+      "o2t": "Prihláste sa do MYZOLLER",
+      "o2": "Zákazníci vidia svoje individuálne podmienky a objednávajú na faktúru – nákup aj technika v jednom tíme.",
+      "o3t": "Noví v ZOLLER?",
+      "o3": "Aj bez zákazníckeho čísla alebo stroja ZOLLER: v pokladni zadajte údaje o firme a my vám založíme zákaznícky účet – zvyčajne ešte v ten istý pracovný deň.",
+      "o4t": "Digitálne dvojča v cene",
+      "o4": "Každá objednávka obsahuje digitálne dvojčatá – jedným kliknutím do ZOLLER TMS a vášho systému CAM. Stav objednávky sledujete naživo v MYZOLLER.",
+      "b_register": "Vytvoriť účet",
+      "h_system": "Upínač, »idChip« a digitálne dvojča – všetko od jedného dodávateľa",
+      "p_system1": "Na želanie dodáme každý upínač vyvážený a s pevne vlepeným »idChip« priamo do vašej výroby. Otvor pre čip je štandardom pri HSK-A, SK a PSC.",
+      "p_system2": "Kód DataMatrix jednoznačne identifikuje každý upínač – na nastavovacom prístroji, na »powerShrink« aj na stroji. V ZOLLER sú meranie, tepelné upínanie a vyvažovanie zladené s upínačmi.",
+      "l_idchip": "Viac o »idChip«",
+      "h_faq": "Časté otázky",
+      "q1": "Môžem objednať bez zákazníckeho čísla ZOLLER?",
+      "a1": "Áno. Vytvorte si účet v MYZOLLER a v pokladni zadajte údaje o firme. Skontrolujeme ich, založíme vám zákaznícky účet – zvyčajne ešte v ten istý pracovný deň – a potom vašu objednávku automaticky odovzdáme ďalej. Záväznou sa stáva naším potvrdením objednávky.",
+      "q2": "Aké ceny uvidím?",
+      "a2": "Po prihlásení vidíte cenníkové ceny, ako zákazník individuálne podmienky svojho zákazníckeho účtu. Všetky ceny sú bez DPH.",
+      "q3": "Potrebujem stroj ZOLLER?",
+      "a3": "Nie. Upínače sa hodia ku každému stroju s príslušným rozhraním. S prístrojmi ZOLLER na nastavovanie, tepelné upínanie a vyvažovanie z nich vyťažíte maximum.",
+      "q4": "Čo je digitálne dvojča?",
+      "a4": "Úplné geometrické a kmeňové údaje každého upínača. Dostanete ich s objednávkou a jedným kliknutím ich prevezmete do ZOLLER TMS Tool Management Solutions alebo svojho systému CAM.",
+      "q5": "Môžem objednať upínače s »idChip«?",
+      "a5": "Áno. Otvor pre čip je štandardom pri HSK-A, SK a PSC – v obchode k položke jednoducho pridajte »idChip«, vlepený a vyvážený.",
+      "q6": "Ako sledujem svoju objednávku?",
+      "a6": "V MYZOLLER v časti „Zákazky“: potvrdenie objednávky, termín dodania a sledovanie zásielky – naživo z nášho systému.",
+      "h_dl": "Brožúry",
+      "cats": {
+        "shrink_chuck": [
+          "Tepelné upínače",
+          "Na upínanie nástrojov s valcovou stopkou zo spekaného karbidu alebo HSS."
+        ],
+        "collet_chuck": [
+          "Klieštinové upínače",
+          "Na upínanie nástrojov s valcovou stopkou v klieštinách ER."
+        ],
+        "hawk_eye": [
+          "HAWK EYE®",
+          "Presné klieštinové upínače ER HPC na vysokovýkonné obrábanie."
+        ],
+        "weldon": [
+          "Upínače Weldon",
+          "Pre nástroje s plochou Weldon – ideálne bez vnútorného prívodu chladiva."
+        ],
+        "whistle_notch": [
+          "Upínače Whistle Notch",
+          "Pre nástroje s valcovou stopkou a šikmou plochou Whistle Notch."
+        ],
+        "screw_in": [
+          "Upínače pre skrutkovacie frézy",
+          "Pre frézovacie hlavy so závitovým pripojením."
+        ],
+        "shell_mill": [
+          "Nástrčné frézovacie tŕne",
+          "Pre frézy s priečnou drážkou, s prívodom chladiva k britom."
+        ],
+        "combi_shell_mill": [
+          "Kombinované frézovacie tŕne",
+          "Pre frézy s pozdĺžnou a priečnou drážkou."
+        ],
+        "morse_taper": [
+          "Upínače s Morseovým kužeľom",
+          "Pre nástroje s Morseovým kužeľom a plochým unášacím koncom podľa DIN 2288."
+        ],
+        "drill_chuck": [
+          "Krátke vŕtacie skľučovadlá",
+          "Na upínanie vrtákov a nástrojov s valcovou stopkou."
+        ],
+        "er_collet": [
+          "Klieštiny ER",
+          "ER a ER «Mini» pre klieštinové upínače a HAWK EYE®."
+        ],
+        "shrink_extension": [
+          "Tepelné predĺženia",
+          "Pre nástroje s valcovou stopkou – väčšie vyloženie pri hlbokom obrábaní."
+        ],
+        "tooling_accessory": [
+          "Príslušenstvo",
+          "Tesniace podložky, upínacie matice a ďalšie."
+        ]
+      }
+    },
+    "hu": {
+      "title": "Tooling Shop",
+      "desc": "Tooling Shop - Több mint 2500 ZOLLER szerszámbefogó: keresés, rendelés a MYZOLLER-ben, digitális ikerpárral",
+      "nav_claim": "Több mint 2500 szerszámbefogó",
+      "claim": "Több mint 2500 szerszámbefogó – finoman kiegyensúlyozva, jobb a DIN-nél, kérésre »idChip«-pel. Keresse meg a megfelelő befogót, és rendelje meg közvetlenül a MYZOLLER-ben.",
+      "alt": "ZOLLER Tooling Solutions szerszámbefogók",
+      "b_find": "Befogó keresése",
+      "b_shop": "Webshop megnyitása",
+      "h_finder": "Találja meg a megfelelő szerszámbefogót",
+      "p_finder": "Válassza ki a befogó típusát és a gépe csatlakozóját – a webshop megmutatja az összes megfelelő befogót méretekkel, elérhetőséggel és árakkal.",
+      "s1": "Befogó típusa",
+      "s2": "A gép csatlakozója",
+      "s2_none": "Csatlakozótól függetlenül használható.",
+      "all_cats": "Összes szerszámbefogó",
+      "all_ifaces": "Összes csatlakozó",
+      "cta": "Megjelenítés a webshopban",
+      "note": "A webshop a MYZOLLER-ben, a ZOLLER ügyfélportálján működik. Az árakat bejelentkezés után látja – vevőszám nélkül az első rendeléssel létrehozzuk ügyfélfiókját.",
+      "h_cats": "A kínálat",
+      "p_cats": "Minden ZOLLER Tooling szerszámbefogó finoman kiegyensúlyozott, és mindig jobb a DIN előírásainál. Egy kattintás megnyitja a kategóriát a webshopban.",
+      "h_order": "Így rendelhet",
+      "o1t": "Befogó keresése",
+      "o1": "A fenti keresővel vagy közvetlenül a webshopban – típus, csatlakozó és befogási átmérő szerint.",
+      "o2t": "Bejelentkezés a MYZOLLER-be",
+      "o2": "Ügyfeleink saját kondícióikat látják, és számlára rendelnek – a beszerzés és a műszaki terület egy csapatban.",
+      "o3t": "Új a ZOLLER-nél?",
+      "o3": "Vevőszám és ZOLLER-gép nélkül is: a pénztárnál adja meg cége adatait, mi pedig létrehozzuk ügyfélfiókját – általában még aznap.",
+      "o4t": "Digitális ikerpár mellékelve",
+      "o4": "Minden rendeléshez megkapja a digitális ikerpárokat – egy kattintással a ZOLLER TMS-be és CAM-rendszerébe. A rendelés állapotát élőben követheti a MYZOLLER-ben.",
+      "b_register": "Fiók létrehozása",
+      "h_system": "Szerszámbefogó, »idChip« és digitális ikerpár – minden egy kézből",
+      "p_system1": "Kérésre minden befogót kiegyensúlyozva, beragasztott »idChip«-pel szállítunk közvetlenül a gyártásába. A chipfurat a HSK-A, SK és PSC csatlakozóknál alapfelszereltség.",
+      "p_system2": "A DataMatrix-kód minden befogót egyértelműen azonosít – a beállítókészüléken, a »powerShrink«-en és a gépen. A ZOLLER-nél a mérés, a zsugorbefogás és a kiegyensúlyozás a befogókhoz igazodik.",
+      "l_idchip": "Bővebben az »idChip«-ről",
+      "h_faq": "Gyakori kérdések",
+      "q1": "Rendelhetek ZOLLER vevőszám nélkül?",
+      "a1": "Igen. Hozzon létre fiókot a MYZOLLER-ben, és a pénztárnál adja meg cége adatait. Ellenőrizzük azokat, létrehozzuk ügyfélfiókját – általában még aznap –, majd automatikusan továbbítjuk rendelését. A rendelés a visszaigazolásunkkal válik kötelező érvényűvé.",
+      "q2": "Milyen árakat látok?",
+      "a2": "Bejelentkezés után listaárakat lát, ügyfélként pedig ügyfélfiókja egyedi kondícióit. Minden ár nettó, az áfa külön értendő.",
+      "q3": "Szükségem van ZOLLER-gépre?",
+      "a3": "Nem. A befogók minden megfelelő csatlakozóval rendelkező géphez illeszkednek. A ZOLLER beállító-, zsugorbefogó- és kiegyensúlyozó gépeivel hozhatja ki belőlük a legtöbbet.",
+      "q4": "Mi a digitális ikerpár?",
+      "a4": "Minden befogó teljes geometriai és törzsadata. A rendeléssel együtt kapja meg, és egy kattintással átveheti a ZOLLER TMS Tool Management Solutions-be vagy CAM-rendszerébe.",
+      "q5": "Rendelhetek befogókat »idChip«-pel?",
+      "a5": "Igen. A chipfurat a HSK-A, SK és PSC csatlakozóknál alapfelszereltség – a webshopban egyszerűen adja hozzá a tételhez a beragasztott, kiegyensúlyozott »idChip«-et.",
+      "q6": "Hogyan követhetem a rendelésemet?",
+      "a6": "A MYZOLLER-ben a „Megrendelések” menüpontban: visszaigazolás, szállítási határidő és csomagkövetés – élőben a rendszerünkből.",
+      "h_dl": "Prospektusok",
+      "cats": {
+        "shrink_chuck": [
+          "Zsugortokmányok",
+          "Keményfém vagy HSS hengeres szárú szerszámok befogásához."
+        ],
+        "collet_chuck": [
+          "Befogópatronos tokmányok",
+          "Hengeres szárú szerszámok befogásához ER befogópatronokban."
+        ],
+        "hawk_eye": [
+          "HAWK EYE®",
+          "HPC precíziós ER befogópatronos tokmányok nagy teljesítményű forgácsoláshoz."
+        ],
+        "weldon": [
+          "Weldon befogók",
+          "Weldon-felületű szerszámokhoz – ideális belső hűtés nélkül."
+        ],
+        "whistle_notch": [
+          "Whistle Notch befogók",
+          "Hengeres szárú, ferde Whistle Notch felületű szerszámokhoz."
+        ],
+        "screw_in": [
+          "Befogók becsavarható marókhoz",
+          "Menetes csatlakozású marófejekhez."
+        ],
+        "shell_mill": [
+          "Marófej-befogók",
+          "Keresztirányú horonnyal rendelkező marókhoz, hűtőfolyadékkal a vágóélekig."
+        ],
+        "combi_shell_mill": [
+          "Kombinált feltűzőtüskék",
+          "Hossz- és keresztirányú horonnyal rendelkező marókhoz."
+        ],
+        "morse_taper": [
+          "Morse-kúpos befogók",
+          "DIN 2288 szerinti kiütőnyelves Morse-kúpos szerszámokhoz."
+        ],
+        "drill_chuck": [
+          "Rövid fúrótokmányok",
+          "Fúrók és hengeres szárú szerszámok befogásához."
+        ],
+        "er_collet": [
+          "ER befogópatronok",
+          "ER és ER «Mini» befogópatronos tokmányokhoz és HAWK EYE®-hoz."
+        ],
+        "shrink_extension": [
+          "Zsugorhosszabbítók",
+          "Hengeres szárú szerszámokhoz – nagyobb kinyúlás mély megmunkáláshoz."
+        ],
+        "tooling_accessory": [
+          "Tartozékok",
+          "Tömítőtárcsák, befogóanyák és egyebek."
+        ]
+      }
+    },
+    "ru": {
+      "title": "Tooling Shop",
+      "desc": "Tooling Shop - Более 2500 инструментальных патронов ZOLLER: подобрать, заказать в MYZOLLER, цифровой двойник в комплекте",
+      "nav_claim": "Более 2500 инструментальных патронов",
+      "claim": "Более 2500 инструментальных патронов – точно сбалансированы, лучше требований DIN, по запросу с »idChip«. Подберите патрон и закажите его прямо в MYZOLLER.",
+      "alt": "Инструментальные патроны ZOLLER Tooling Solutions",
+      "b_find": "Подобрать патрон",
+      "b_shop": "Открыть магазин",
+      "h_finder": "Подберите подходящий патрон",
+      "p_finder": "Выберите тип патрона и интерфейс вашего станка – магазин покажет все подходящие патроны с размерами, наличием и ценами.",
+      "s1": "Тип патрона",
+      "s2": "Интерфейс станка",
+      "s2_none": "Подходит для любого интерфейса.",
+      "all_cats": "Все патроны",
+      "all_ifaces": "Все интерфейсы",
+      "cta": "Показать в магазине",
+      "note": "Магазин работает в MYZOLLER – клиентском портале ZOLLER. Цены видны после входа; если у вас ещё нет номера клиента, мы создадим учётную запись клиента вместе с первым заказом.",
+      "h_cats": "Ассортимент",
+      "p_cats": "Все патроны ZOLLER Tooling точно сбалансированы и стабильно превосходят требования DIN. Один щелчок открывает категорию в магазине.",
+      "h_order": "Как заказать",
+      "o1t": "Подберите патрон",
+      "o1": "С помощью подбора выше или прямо в магазине – по типу, интерфейсу и диаметру зажима.",
+      "o2t": "Войдите в MYZOLLER",
+      "o2": "Клиенты видят свои индивидуальные условия и заказывают по счёту – закупки и технологи в одной команде.",
+      "o3t": "Впервые в ZOLLER?",
+      "o3": "Даже без номера клиента и станка ZOLLER: укажите данные компании при оформлении заказа, и мы создадим учётную запись клиента – обычно в тот же рабочий день.",
+      "o4t": "Цифровой двойник в комплекте",
+      "o4": "К каждому заказу прилагаются цифровые двойники – одним щелчком в ZOLLER TMS и вашу CAM-систему. Статус заказа виден в MYZOLLER в реальном времени.",
+      "b_register": "Создать аккаунт",
+      "h_system": "Патрон, »idChip« и цифровой двойник – всё из одних рук",
+      "p_system1": "По запросу мы поставляем каждый патрон сбалансированным и с вклеенным »idChip« прямо на ваше производство. Отверстие под чип – стандарт для HSK-A, SK и PSC.",
+      "p_system2": "Код DataMatrix однозначно идентифицирует каждый патрон – на приборе для настройки инструмента, на »powerShrink« и на станке. В ZOLLER измерение, термозажим и балансировка согласованы с патронами.",
+      "l_idchip": "Подробнее об »idChip«",
+      "h_faq": "Частые вопросы",
+      "q1": "Можно ли заказать без номера клиента ZOLLER?",
+      "a1": "Да. Создайте аккаунт в MYZOLLER и при оформлении заказа укажите данные компании. Мы проверим их, создадим учётную запись клиента – обычно в тот же рабочий день – и автоматически передадим заказ дальше. Заказ становится обязательным после нашего подтверждения.",
+      "q2": "Какие цены я вижу?",
+      "a2": "После входа вы видите прейскурантные цены, как клиент – индивидуальные условия своей учётной записи. Все цены указаны без НДС.",
+      "q3": "Нужен ли мне станок ZOLLER?",
+      "a3": "Нет. Патроны подходят для любого станка с соответствующим интерфейсом. С приборами ZOLLER для настройки, термозажима и балансировки вы используете их наиболее эффективно.",
+      "q4": "Что такое цифровой двойник?",
+      "a4": "Полные геометрические и основные данные каждого патрона. Вы получаете их вместе с заказом и одним щелчком переносите в ZOLLER TMS Tool Management Solutions или в CAM-систему.",
+      "q5": "Можно ли заказать патроны с »idChip«?",
+      "a5": "Да. Отверстие под чип – стандарт для HSK-A, SK и PSC: просто добавьте к позиции в магазине »idChip«, вклеенный и сбалансированный.",
+      "q6": "Как отследить заказ?",
+      "a6": "В MYZOLLER в разделе «Заказы»: подтверждение, срок поставки и отслеживание отправления – в реальном времени из нашей системы.",
+      "h_dl": "Брошюры",
+      "cats": {
+        "shrink_chuck": [
+          "Термопатроны",
+          "Для зажима инструмента с цилиндрическим хвостовиком из твёрдого сплава или HSS."
+        ],
+        "collet_chuck": [
+          "Цанговые патроны",
+          "Для зажима инструмента с цилиндрическим хвостовиком в цангах ER."
+        ],
+        "hawk_eye": [
+          "HAWK EYE®",
+          "Прецизионные цанговые патроны ER HPC для высокопроизводительной обработки."
+        ],
+        "weldon": [
+          "Патроны Weldon",
+          "Для инструмента с лыской Weldon – идеальны без внутренней подачи СОЖ."
+        ],
+        "whistle_notch": [
+          "Патроны Whistle Notch",
+          "Для инструмента с цилиндрическим хвостовиком и наклонной лыской Whistle Notch."
+        ],
+        "screw_in": [
+          "Патроны для ввинчиваемых фрез",
+          "Для фрезерных головок с резьбовым соединением."
+        ],
+        "shell_mill": [
+          "Оправки для насадных фрез",
+          "Для фрез с поперечным пазом, с подачей СОЖ к режущим кромкам."
+        ],
+        "combi_shell_mill": [
+          "Комбинированные оправки",
+          "Для фрез с продольным и поперечным пазом."
+        ],
+        "morse_taper": [
+          "Переходники с конусом Морзе",
+          "Для инструмента с конусом Морзе и лапкой по DIN 2288."
+        ],
+        "drill_chuck": [
+          "Короткие сверлильные патроны",
+          "Для зажима свёрл и инструмента с цилиндрическим хвостовиком."
+        ],
+        "er_collet": [
+          "Цанги ER",
+          "ER и ER «Mini» для цанговых патронов и HAWK EYE®."
+        ],
+        "shrink_extension": [
+          "Термоудлинители",
+          "Для инструмента с цилиндрическим хвостовиком – больший вылет для глубокой обработки."
+        ],
+        "tooling_accessory": [
+          "Принадлежности",
+          "Уплотнительные шайбы, зажимные гайки и другое."
+        ]
+      }
+    },
+    "tr": {
+      "title": "Tooling Shop",
+      "desc": "Tooling Shop - 2.500'den fazla ZOLLER takım tutucu: bulun, MYZOLLER'de sipariş verin, dijital ikiz dahil",
+      "nav_claim": "2.500'den fazla takım tutucu",
+      "claim": "2.500'den fazla takım tutucu – hassas balanslı, DIN'den daha iyi, istenirse »idChip« ile. Tutucunuzu bulun ve doğrudan MYZOLLER'de sipariş verin.",
+      "alt": "ZOLLER Tooling Solutions takım tutucuları",
+      "b_find": "Tutucu bul",
+      "b_shop": "Mağazayı aç",
+      "h_finder": "Doğru takım tutucuyu bulun",
+      "p_finder": "Tutucu türünü ve makinenizin arayüzünü seçin – mağaza ölçüler, stok durumu ve fiyatlarla tüm uygun tutucuları gösterir.",
+      "s1": "Tutucu türü",
+      "s2": "Makinenizin arayüzü",
+      "s2_none": "Arayüzden bağımsız olarak uygundur.",
+      "all_cats": "Tüm takım tutucular",
+      "all_ifaces": "Tüm arayüzler",
+      "cta": "Mağazada göster",
+      "note": "Mağaza, ZOLLER'in müşteri portalı MYZOLLER'de çalışır. Fiyatları giriş yaptıktan sonra görürsünüz; müşteri numaranız yoksa müşteri hesabınızı ilk siparişinizle birlikte oluştururuz.",
+      "h_cats": "Ürün yelpazesi",
+      "p_cats": "Tüm ZOLLER Tooling takım tutucuları hassas balanslıdır ve her zaman DIN'den daha iyidir. Tek tıkla kategori mağazada açılır.",
+      "h_order": "Nasıl sipariş verilir",
+      "o1t": "Tutucuyu bulun",
+      "o1": "Yukarıdaki seçiciyle veya doğrudan mağazada – türe, arayüze ve sıkma çapına göre.",
+      "o2t": "MYZOLLER'e giriş yapın",
+      "o2": "Müşteriler kendi koşullarını görür ve faturayla sipariş verir – satın alma ve teknik aynı ekipte.",
+      "o3t": "ZOLLER'de yeni misiniz?",
+      "o3": "Müşteri numarası veya ZOLLER makinesi olmadan da: ödeme adımında firma bilgilerinizi girin, müşteri hesabınızı oluşturalım – genellikle aynı iş günü içinde.",
+      "o4t": "Dijital ikiz dahil",
+      "o4": "Her siparişle dijital ikizler gelir – tek tıkla ZOLLER TMS'e ve CAM sisteminize. Sipariş durumunu MYZOLLER'de canlı takip edersiniz.",
+      "b_register": "Hesap oluştur",
+      "h_system": "Takım tutucu, »idChip« ve dijital ikiz – hepsi tek elden",
+      "p_system1": "İstenirse her takım tutucuyu balanslanmış ve »idChip« yapıştırılmış olarak doğrudan üretiminize teslim ediyoruz. Çip deliği HSK-A, SK ve PSC'de standarttır.",
+      "p_system2": "DataMatrix kodu her tutucuyu benzersiz kılar – ön ayar cihazında, »powerShrink« üzerinde ve makinede. ZOLLER'de ölçme, sıcak geçme ve balans, tutuculara göre uyumludur.",
+      "l_idchip": "»idChip« hakkında daha fazla",
+      "h_faq": "Sık sorulan sorular",
+      "q1": "ZOLLER müşteri numarası olmadan sipariş verebilir miyim?",
+      "a1": "Evet. MYZOLLER'de bir hesap oluşturun ve ödeme adımında firma bilgilerinizi girin. Bilgileri kontrol eder, müşteri hesabınızı genellikle aynı iş günü içinde oluşturur ve siparişinizi otomatik olarak iletiriz. Sipariş, sipariş onayımızla bağlayıcı hale gelir.",
+      "q2": "Hangi fiyatları görürüm?",
+      "a2": "Giriş yaptıktan sonra liste fiyatlarını, müşteri olarak da hesabınıza özel koşulları görürsünüz. Tüm fiyatlar net olup KDV hariçtir.",
+      "q3": "ZOLLER makinesine ihtiyacım var mı?",
+      "a3": "Hayır. Takım tutucular uygun arayüze sahip her makineye uyar. ZOLLER ön ayar, sıcak geçme ve balans cihazlarıyla onlardan en iyi şekilde yararlanırsınız.",
+      "q4": "Dijital ikiz nedir?",
+      "a4": "Her tutucunun eksiksiz geometri ve ana verileridir. Siparişinizle birlikte gelir ve tek tıkla ZOLLER TMS Tool Management Solutions'a veya CAM sisteminize aktarılır.",
+      "q5": "»idChip« ile takım tutucu sipariş edebilir miyim?",
+      "a5": "Evet. Çip deliği HSK-A, SK ve PSC'de standarttır – mağazada ürüne yapıştırılmış ve balanslanmış »idChip« eklemeniz yeterli.",
+      "q6": "Siparişimi nasıl takip ederim?",
+      "a6": "MYZOLLER'de “Siparişler” altında: sipariş onayı, teslim tarihi ve gönderi takibi – sistemimizden canlı olarak.",
+      "h_dl": "Broşürler",
+      "cats": {
+        "shrink_chuck": [
+          "Sıcak geçme tutucular",
+          "Karbür veya HSS silindirik saplı takımların sıkılması için."
+        ],
+        "collet_chuck": [
+          "Pens tutucular",
+          "Silindirik saplı takımların ER penslerde sıkılması için."
+        ],
+        "hawk_eye": [
+          "HAWK EYE®",
+          "Yüksek performanslı işleme için HPC hassas ER pens tutucular."
+        ],
+        "weldon": [
+          "Weldon tutucular",
+          "Weldon düzlüğüne sahip takımlar için – iç soğutma olmadan ideal."
+        ],
+        "whistle_notch": [
+          "Whistle Notch tutucular",
+          "Silindirik saplı ve eğimli Whistle Notch düzlüğüne sahip takımlar için."
+        ],
+        "screw_in": [
+          "Vidalı frezeler için tutucular",
+          "Dişli bağlantılı freze kafaları için."
+        ],
+        "shell_mill": [
+          "Freze kafası tutucuları",
+          "Enine kamalı frezeler için, kesici ağızlara kadar soğutma ile."
+        ],
+        "combi_shell_mill": [
+          "Kombine freze mandrelleri",
+          "Boyuna ve enine kamalı frezeler için."
+        ],
+        "morse_taper": [
+          "Mors konik tutucular",
+          "DIN 2288'e göre çıkarma dilli Mors konik takımlar için."
+        ],
+        "drill_chuck": [
+          "Kısa matkap aynaları",
+          "Matkapların ve silindirik saplı takımların sıkılması için."
+        ],
+        "er_collet": [
+          "ER pensler",
+          "Pens tutucular ve HAWK EYE® için ER ve ER «Mini»."
+        ],
+        "shrink_extension": [
+          "Sıcak geçme uzatmalar",
+          "Silindirik saplı takımlar için – derin işlemede daha fazla erişim."
+        ],
+        "tooling_accessory": [
+          "Aksesuarlar",
+          "Sızdırmazlık diskleri, sıkma somunları ve daha fazlası."
+        ]
+      }
+    },
+    "zh": {
+      "title": "Tooling Shop",
+      "desc": "Tooling Shop - 2500 多种 ZOLLER 刀柄：查找、在 MYZOLLER 订购，附带数字孪生",
+      "nav_claim": "2500 多种刀柄",
+      "claim": "2500 多种刀柄——精密动平衡，优于 DIN 标准，可按需配备 »idChip«。找到合适的刀柄，直接在 MYZOLLER 订购。",
+      "alt": "ZOLLER Tooling Solutions 刀柄",
+      "b_find": "查找刀柄",
+      "b_shop": "打开商城",
+      "h_finder": "找到合适的刀柄",
+      "p_finder": "选择刀柄类型和机床接口——商城会显示所有匹配的刀柄及尺寸、库存和价格。",
+      "s1": "刀柄类型",
+      "s2": "机床接口",
+      "s2_none": "适用于任何接口。",
+      "all_cats": "全部刀柄",
+      "all_ifaces": "全部接口",
+      "cta": "在商城中查看",
+      "note": "商城运行在 ZOLLER 客户门户 MYZOLLER 中。登录后即可查看价格；如果您还没有客户编号，我们会在您首次下单时为您开设客户账户。",
+      "h_cats": "产品系列",
+      "p_cats": "所有 ZOLLER Tooling 刀柄均经过精密动平衡，始终优于 DIN 标准。点击即可在商城中打开对应类别。",
+      "h_order": "如何订购",
+      "o1t": "查找刀柄",
+      "o1": "使用上方的选型工具或直接在商城中——按类型、接口和夹持直径筛选。",
+      "o2t": "登录 MYZOLLER",
+      "o2": "客户可查看专属价格条件并凭发票订购——采购和技术人员在同一团队中协作。",
+      "o3t": "首次接触 ZOLLER？",
+      "o3": "即使没有客户编号或 ZOLLER 设备也可以：结账时填写公司信息，我们会为您开设客户账户——通常在同一个工作日内完成。",
+      "o4t": "附带数字孪生",
+      "o4": "每笔订单都附带数字孪生——一键导入 ZOLLER TMS 和您的 CAM 系统。订单进度可在 MYZOLLER 中实时查看。",
+      "b_register": "创建账户",
+      "h_system": "刀柄、»idChip« 与数字孪生——一站式提供",
+      "p_system1": "我们可按需将每个刀柄经动平衡并牢固粘贴 »idChip« 后直接交付到您的生产现场。HSK-A、SK 和 PSC 刀柄标配芯片孔。",
+      "p_system2": "DataMatrix 码让每个刀柄都具有唯一标识——在对刀仪上、在 »powerShrink« 上以及在机床上。在 ZOLLER，测量、热缩和动平衡均与刀柄相互匹配。",
+      "l_idchip": "了解 »idChip«",
+      "h_faq": "常见问题",
+      "q1": "没有 ZOLLER 客户编号也能订购吗？",
+      "a1": "可以。在 MYZOLLER 中创建账户，并在结账时填写公司信息。我们核实后会为您开设客户账户（通常在同一个工作日内），随后自动转交您的订单。订单在我们发出订单确认后生效。",
+      "q2": "我能看到哪些价格？",
+      "a2": "登录后可看到目录价格；作为客户，可看到您客户账户的专属条件。所有价格均为不含增值税的净价。",
+      "q3": "我需要 ZOLLER 设备吗？",
+      "a3": "不需要。这些刀柄适用于任何具有相应接口的机床。配合 ZOLLER 对刀仪、热缩机和动平衡机使用，可发挥最大效益。",
+      "q4": "什么是数字孪生？",
+      "a4": "即每个刀柄完整的几何数据和主数据。您会随订单一起获得，并可一键导入 ZOLLER TMS Tool Management Solutions 或您的 CAM 系统。",
+      "q5": "可以订购带 »idChip« 的刀柄吗？",
+      "a5": "可以。HSK-A、SK 和 PSC 刀柄标配芯片孔——只需在商城中为商品添加已粘贴并经动平衡的 »idChip«。",
+      "q6": "如何跟踪我的订单？",
+      "a6": "在 MYZOLLER 的“订单”中：订单确认、交货日期和物流跟踪——实时来自我们的系统。",
+      "h_dl": "宣传册",
+      "cats": {
+        "shrink_chuck": [
+          "热缩刀柄",
+          "用于夹持硬质合金或高速钢圆柱柄刀具。"
+        ],
+        "collet_chuck": [
+          "弹簧夹头刀柄",
+          "用于以 ER 弹簧夹头夹持圆柱柄刀具。"
+        ],
+        "hawk_eye": [
+          "HAWK EYE®",
+          "用于高性能切削的 HPC 精密 ER 弹簧夹头刀柄。"
+        ],
+        "weldon": [
+          "侧固式刀柄（Weldon）",
+          "适用于带 Weldon 削平面的刀具——无内冷时的理想选择。"
+        ],
+        "whistle_notch": [
+          "Whistle Notch 刀柄",
+          "适用于带斜削平面（Whistle Notch）的圆柱柄刀具。"
+        ],
+        "screw_in": [
+          "螺纹连接铣刀刀柄",
+          "适用于螺纹连接的铣刀头。"
+        ],
+        "shell_mill": [
+          "面铣刀刀柄",
+          "适用于带端键槽的铣刀，冷却液直达切削刃。"
+        ],
+        "combi_shell_mill": [
+          "组合式面铣刀刀柄",
+          "适用于带纵向和端键槽的铣刀。"
+        ],
+        "morse_taper": [
+          "莫氏锥度刀柄",
+          "适用于符合 DIN 2288、带扁尾的莫氏锥柄刀具。"
+        ],
+        "drill_chuck": [
+          "短型钻夹头",
+          "用于夹持钻头和圆柱柄刀具。"
+        ],
+        "er_collet": [
+          "ER 弹簧夹头",
+          "用于弹簧夹头刀柄和 HAWK EYE® 的 ER 及 ER «Mini» 夹头。"
+        ],
+        "shrink_extension": [
+          "热缩加长杆",
+          "适用于圆柱柄刀具——为深腔加工提供更长的伸长量。"
+        ],
+        "tooling_accessory": [
+          "附件",
+          "密封盘、锁紧螺母等。"
+        ]
+      }
+    },
+    "ja": {
+      "title": "Tooling Shop",
+      "desc": "Tooling Shop - 2,500種類以上のZOLLERツールホルダー：探して、MYZOLLERで注文、デジタルツイン付き",
+      "nav_claim": "2,500種類以上のツールホルダー",
+      "claim": "2,500種類以上のツールホルダー。精密バランス調整済み、DIN規格を上回る精度、ご希望により»idChip«付き。最適なホルダーを見つけて、MYZOLLERで直接ご注文いただけます。",
+      "alt": "ZOLLER Tooling Solutions ツールホルダー",
+      "b_find": "ホルダーを探す",
+      "b_shop": "ショップを開く",
+      "h_finder": "最適なツールホルダーを見つける",
+      "p_finder": "ホルダーの種類と機械のインターフェースを選択してください。ショップで寸法、在庫状況、価格とともに該当するホルダーがすべて表示されます。",
+      "s1": "ホルダーの種類",
+      "s2": "機械のインターフェース",
+      "s2_none": "インターフェースを問わず使用できます。",
+      "all_cats": "すべてのツールホルダー",
+      "all_ifaces": "すべてのインターフェース",
+      "cta": "ショップで表示",
+      "note": "ショップはZOLLERのカスタマーポータルMYZOLLER上で運営されています。価格はログイン後に表示されます。お客様番号をお持ちでない場合は、初回のご注文と同時にお客様アカウントを作成します。",
+      "h_cats": "製品ラインナップ",
+      "p_cats": "ZOLLER Toolingのツールホルダーはすべて精密バランス調整済みで、常にDIN規格を上回ります。クリックするとショップでカテゴリーが開きます。",
+      "h_order": "ご注文の流れ",
+      "o1t": "ホルダーを探す",
+      "o1": "上の検索ツールまたはショップで直接、種類・インターフェース・把握径から絞り込めます。",
+      "o2t": "MYZOLLERにログイン",
+      "o2": "お客様は個別の取引条件を確認し、請求書払いでご注文いただけます。購買部門と技術部門が同じチームで利用できます。",
+      "o3t": "ZOLLERは初めてですか？",
+      "o3": "お客様番号やZOLLERの機器がなくても大丈夫です。チェックアウト時に会社情報をご入力いただければ、お客様アカウントを作成します。通常は同じ営業日内に完了します。",
+      "o4t": "デジタルツイン付き",
+      "o4": "ご注文ごとにデジタルツインが付属し、ワンクリックでZOLLER TMSやCAMシステムに取り込めます。注文状況はMYZOLLERでリアルタイムに確認できます。",
+      "b_register": "アカウントを作成",
+      "h_system": "ツールホルダー、»idChip«、デジタルツインをワンストップで",
+      "p_system1": "ご希望により、すべてのツールホルダーをバランス調整し»idChip«を接着した状態で生産現場へ直接お届けします。HSK-A、SK、PSCにはチップ穴が標準装備されています。",
+      "p_system2": "DataMatrixコードにより、プリセッター、»powerShrink«、工作機械のどこでも各ホルダーを一意に識別できます。ZOLLERでは測定、焼きばめ、バランス調整がホルダーに合わせて最適化されています。",
+      "l_idchip": "»idChip«の詳細",
+      "h_faq": "よくあるご質問",
+      "q1": "ZOLLERのお客様番号がなくても注文できますか？",
+      "a1": "はい。MYZOLLERでアカウントを作成し、チェックアウト時に会社情報をご入力ください。内容を確認のうえお客様アカウントを作成し（通常は同じ営業日内）、ご注文を自動的に手配します。ご注文は当社の注文確認をもって確定します。",
+      "q2": "どの価格が表示されますか？",
+      "a2": "ログイン後は定価が表示され、お客様は個別の取引条件が表示されます。価格はすべて税抜きです。",
+      "q3": "ZOLLERの機器が必要ですか？",
+      "a3": "いいえ。ツールホルダーは対応するインターフェースを備えたあらゆる機械でお使いいただけます。ZOLLERのプリセッター、焼きばめ装置、バランス装置と組み合わせると、性能を最大限に引き出せます。",
+      "q4": "デジタルツインとは何ですか？",
+      "a4": "各ホルダーの形状データとマスターデータ一式です。ご注文時に受け取り、ワンクリックでZOLLER TMS Tool Management SolutionsやCAMシステムに取り込めます。",
+      "q5": "»idChip«付きのツールホルダーを注文できますか？",
+      "a5": "はい。HSK-A、SK、PSCにはチップ穴が標準装備されています。ショップで商品に、接着・バランス調整済みの»idChip«を追加するだけです。",
+      "q6": "注文状況はどのように確認できますか？",
+      "a6": "MYZOLLERの「注文」で、注文確認、納期、配送追跡をリアルタイムでご確認いただけます。",
+      "h_dl": "パンフレット",
+      "cats": {
+        "shrink_chuck": [
+          "焼きばめホルダー",
+          "超硬またはHSS製のストレートシャンク工具の把握に。"
+        ],
+        "collet_chuck": [
+          "コレットチャック",
+          "ERコレットでストレートシャンク工具を把握します。"
+        ],
+        "hawk_eye": [
+          "HAWK EYE®",
+          "高能率加工向けHPC高精度ERコレットチャック。"
+        ],
+        "weldon": [
+          "ウェルドンホルダー",
+          "ウェルドンフラット付き工具用。内部給油なしの用途に最適です。"
+        ],
+        "whistle_notch": [
+          "ホイッスルノッチホルダー",
+          "傾斜したホイッスルノッチフラット付きストレートシャンク工具用。"
+        ],
+        "screw_in": [
+          "ねじ込み式カッター用ホルダー",
+          "ねじ接続式のミーリングヘッド用。"
+        ],
+        "shell_mill": [
+          "フェイスミルアーバー",
+          "キー溝付きカッター用。切れ刃までクーラントを供給します。"
+        ],
+        "combi_shell_mill": [
+          "コンビネーションアーバー",
+          "縦キー溝と横キー溝の両方を持つカッター用。"
+        ],
+        "morse_taper": [
+          "モールステーパーホルダー",
+          "DIN 2288準拠のタング付きモールステーパー工具用。"
+        ],
+        "drill_chuck": [
+          "ショートドリルチャック",
+          "ドリルやストレートシャンク工具の把握に。"
+        ],
+        "er_collet": [
+          "ERコレット",
+          "コレットチャックおよびHAWK EYE®用のERおよびER «Mini»。"
+        ],
+        "shrink_extension": [
+          "焼きばめエクステンション",
+          "ストレートシャンク工具用。深い加工に必要な突出し長を確保します。"
+        ],
+        "tooling_accessory": [
+          "アクセサリー",
+          "シールディスク、クランプナットなど。"
+        ]
+      }
+    },
+    "ko": {
+      "title": "Tooling Shop",
+      "desc": "Tooling Shop - 2,500종 이상의 ZOLLER 공구 홀더: 찾고, MYZOLLER에서 주문하고, 디지털 트윈 포함",
+      "nav_claim": "2,500종 이상의 공구 홀더",
+      "claim": "2,500종 이상의 공구 홀더 – 정밀 밸런싱, DIN보다 우수한 정밀도, 요청 시 »idChip« 장착. 맞는 홀더를 찾아 MYZOLLER에서 바로 주문하세요.",
+      "alt": "ZOLLER Tooling Solutions 공구 홀더",
+      "b_find": "홀더 찾기",
+      "b_shop": "숍 열기",
+      "h_finder": "맞는 공구 홀더 찾기",
+      "p_finder": "홀더 유형과 기계의 인터페이스를 선택하세요. 숍에서 치수, 재고, 가격과 함께 맞는 홀더를 모두 보여 드립니다.",
+      "s1": "홀더 유형",
+      "s2": "기계 인터페이스",
+      "s2_none": "인터페이스와 관계없이 사용할 수 있습니다.",
+      "all_cats": "모든 공구 홀더",
+      "all_ifaces": "모든 인터페이스",
+      "cta": "숍에서 보기",
+      "note": "숍은 ZOLLER 고객 포털 MYZOLLER에서 운영됩니다. 가격은 로그인 후 표시되며, 고객 번호가 없으면 첫 주문과 함께 고객 계정을 만들어 드립니다.",
+      "h_cats": "제품군",
+      "p_cats": "모든 ZOLLER Tooling 공구 홀더는 정밀 밸런싱되어 있으며 항상 DIN보다 우수합니다. 클릭하면 숍에서 해당 카테고리가 열립니다.",
+      "h_order": "주문 방법",
+      "o1t": "홀더 찾기",
+      "o1": "위의 검색 도구나 숍에서 바로 유형, 인터페이스, 클램핑 지름으로 찾을 수 있습니다.",
+      "o2t": "MYZOLLER 로그인",
+      "o2": "고객은 개별 거래 조건을 확인하고 청구서 결제로 주문합니다. 구매팀과 기술팀이 한 팀으로 함께 사용합니다.",
+      "o3t": "ZOLLER가 처음이신가요?",
+      "o3": "고객 번호나 ZOLLER 장비가 없어도 괜찮습니다. 결제 시 회사 정보를 입력하시면 고객 계정을 만들어 드립니다. 보통 같은 영업일에 완료됩니다.",
+      "o4t": "디지털 트윈 포함",
+      "o4": "모든 주문에 디지털 트윈이 포함되어 클릭 한 번으로 ZOLLER TMS와 CAM 시스템에 가져올 수 있습니다. 주문 진행 상황은 MYZOLLER에서 실시간으로 확인합니다.",
+      "b_register": "계정 만들기",
+      "h_system": "공구 홀더, »idChip«, 디지털 트윈을 한 곳에서",
+      "p_system1": "요청 시 모든 공구 홀더를 밸런싱하고 »idChip«을 접착한 상태로 생산 현장에 직접 납품합니다. HSK-A, SK, PSC에는 칩 보어가 기본입니다.",
+      "p_system2": "DataMatrix 코드로 프리세터, »powerShrink«, 공작기계 어디서나 각 홀더를 고유하게 식별합니다. ZOLLER에서는 측정, 열박음, 밸런싱이 홀더에 맞게 최적화되어 있습니다.",
+      "l_idchip": "»idChip« 자세히 보기",
+      "h_faq": "자주 묻는 질문",
+      "q1": "ZOLLER 고객 번호 없이 주문할 수 있나요?",
+      "a1": "네. MYZOLLER에서 계정을 만들고 결제 시 회사 정보를 입력하세요. 확인 후 고객 계정을 만들고(보통 같은 영업일), 주문을 자동으로 전달합니다. 주문은 당사의 주문 확인으로 확정됩니다.",
+      "q2": "어떤 가격이 표시되나요?",
+      "a2": "로그인하면 정가가 표시되고, 고객은 고객 계정의 개별 조건이 표시됩니다. 모든 가격은 부가세 별도입니다.",
+      "q3": "ZOLLER 장비가 필요한가요?",
+      "a3": "아니요. 공구 홀더는 해당 인터페이스를 갖춘 모든 기계에 맞습니다. ZOLLER 프리세터, 열박음 장비, 밸런싱 장비와 함께 사용하면 성능을 최대로 활용할 수 있습니다.",
+      "q4": "디지털 트윈이란 무엇인가요?",
+      "a4": "각 홀더의 완전한 형상 데이터와 기본 데이터입니다. 주문과 함께 받아 클릭 한 번으로 ZOLLER TMS Tool Management Solutions나 CAM 시스템에 가져올 수 있습니다.",
+      "q5": "»idChip«이 장착된 공구 홀더를 주문할 수 있나요?",
+      "a5": "네. HSK-A, SK, PSC에는 칩 보어가 기본입니다. 숍에서 품목에 접착 및 밸런싱된 »idChip«을 추가하기만 하면 됩니다.",
+      "q6": "주문은 어떻게 추적하나요?",
+      "a6": "MYZOLLER의 '주문'에서 주문 확인, 납기, 배송 추적을 시스템에서 실시간으로 확인할 수 있습니다.",
+      "h_dl": "브로슈어",
+      "cats": {
+        "shrink_chuck": [
+          "열박음 척",
+          "초경 또는 HSS 원통 생크 공구 클램핑용."
+        ],
+        "collet_chuck": [
+          "콜릿 척",
+          "ER 콜릿으로 원통 생크 공구를 클램핑합니다."
+        ],
+        "hawk_eye": [
+          "HAWK EYE®",
+          "고성능 가공을 위한 HPC 정밀 ER 콜릿 척."
+        ],
+        "weldon": [
+          "웰던 홀더",
+          "웰던 플랫이 있는 공구용 – 내부 절삭유 공급이 없을 때 이상적입니다."
+        ],
+        "whistle_notch": [
+          "휘슬 노치 홀더",
+          "경사진 휘슬 노치 플랫이 있는 원통 생크 공구용."
+        ],
+        "screw_in": [
+          "스크루인 커터용 홀더",
+          "나사 연결식 밀링 헤드용."
+        ],
+        "shell_mill": [
+          "페이스밀 아버",
+          "횡방향 키홈이 있는 커터용, 절삭날까지 절삭유 공급."
+        ],
+        "combi_shell_mill": [
+          "콤비네이션 아버",
+          "종방향 및 횡방향 키홈이 있는 커터용."
+        ],
+        "morse_taper": [
+          "모스 테이퍼 홀더",
+          "DIN 2288에 따른 탱이 있는 모스 테이퍼 공구용."
+        ],
+        "drill_chuck": [
+          "쇼트 드릴 척",
+          "드릴과 원통 생크 공구 클램핑용."
+        ],
+        "er_collet": [
+          "ER 콜릿",
+          "콜릿 척과 HAWK EYE®용 ER 및 ER «Mini»."
+        ],
+        "shrink_extension": [
+          "열박음 연장 홀더",
+          "원통 생크 공구용 – 깊은 가공을 위한 더 긴 돌출 길이."
+        ],
+        "tooling_accessory": [
+          "액세서리",
+          "실링 디스크, 클램핑 너트 등."
+        ]
+      }
+    }
+  }
+}

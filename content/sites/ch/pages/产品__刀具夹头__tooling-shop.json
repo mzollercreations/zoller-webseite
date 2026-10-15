@@ -1,0 +1,611 @@
+{
+ "path": "/产品/刀具夹头/tooling-shop",
+ "url": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E5%A4%B9%E5%A4%B4/tooling-shop",
+ "title": "Tooling Shop",
+ "description": "Tooling Shop - 2500 多种 ZOLLER 刀柄：查找、在 MYZOLLER 订购，附带数字孪生",
+ "og_image": "/fileadmin/_processed_/d/c/csm_header_tooling_79126defc9.webp",
+ "breadcrumb": [],
+ "languages": [],
+ "blocks": [
+  {
+   "type": "product_header",
+   "title": "Tooling Shop",
+   "id": "tooling-header",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "text": "<p>2500 多种刀柄——精密动平衡，优于 DIN 标准，可按需配备 »idChip«。找到合适的刀柄，直接在 MYZOLLER 订购。</p> <p><a class=\"btn\" href=\"#finder\">查找刀柄</a> <a class=\"btn btn--ghost\" href=\"myzoller:/shop?kind=tooling\">打开商城</a></p>",
+   "img": {
+    "src": "/fileadmin/_processed_/d/c/csm_header_tooling_79126defc9.webp",
+    "w": 1428,
+    "h": 896,
+    "alt": "ZOLLER Tooling Solutions 刀柄"
+   }
+  },
+  {
+   "type": "toolfinder",
+   "id": "finder",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>找到合适的刀柄</h2>",
+   "intro": "<p>选择刀柄类型和机床接口——商城会显示所有匹配的刀柄及尺寸、库存和价格。</p>",
+   "t": {
+    "s1": "刀柄类型",
+    "s2": "机床接口",
+    "s2_none": "适用于任何接口。",
+    "all_cats": "全部刀柄",
+    "all_ifaces": "全部接口",
+    "cta": "在商城中查看",
+    "note": "商城运行在 ZOLLER 客户门户 MYZOLLER 中。登录后即可查看价格；如果您还没有客户编号，我们会在您首次下单时为您开设客户账户。"
+   },
+   "cats": [
+    {
+     "key": "shrink_chuck",
+     "name": "热缩刀柄",
+     "iface": true
+    },
+    {
+     "key": "collet_chuck",
+     "name": "弹簧夹头刀柄",
+     "iface": true
+    },
+    {
+     "key": "hawk_eye",
+     "name": "HAWK EYE®",
+     "iface": true
+    },
+    {
+     "key": "weldon",
+     "name": "侧固式刀柄（Weldon）",
+     "iface": true
+    },
+    {
+     "key": "whistle_notch",
+     "name": "Whistle Notch 刀柄",
+     "iface": true
+    },
+    {
+     "key": "screw_in",
+     "name": "螺纹连接铣刀刀柄",
+     "iface": true
+    },
+    {
+     "key": "shell_mill",
+     "name": "面铣刀刀柄",
+     "iface": true
+    },
+    {
+     "key": "combi_shell_mill",
+     "name": "组合式面铣刀刀柄",
+     "iface": true
+    },
+    {
+     "key": "morse_taper",
+     "name": "莫氏锥度刀柄",
+     "iface": true
+    },
+    {
+     "key": "drill_chuck",
+     "name": "短型钻夹头",
+     "iface": true
+    },
+    {
+     "key": "er_collet",
+     "name": "ER 弹簧夹头",
+     "iface": false
+    },
+    {
+     "key": "shrink_extension",
+     "name": "热缩加长杆",
+     "iface": false
+    },
+    {
+     "key": "tooling_accessory",
+     "name": "附件",
+     "iface": false
+    }
+   ],
+   "ifaces": [
+    {
+     "family": "HSK-A",
+     "items": [
+      "HSK-A40",
+      "HSK-A50",
+      "HSK-A63",
+      "HSK-A80",
+      "HSK-A100"
+     ]
+    },
+    {
+     "family": "HSK-E",
+     "items": [
+      "HSK-E25",
+      "HSK-E32",
+      "HSK-E40",
+      "HSK-E50"
+     ]
+    },
+    {
+     "family": "HSK-F",
+     "items": [
+      "HSK-F63",
+      "HSK-F80"
+     ]
+    },
+    {
+     "family": "SK",
+     "items": [
+      "SK 40",
+      "SK 50"
+     ]
+    },
+    {
+     "family": "BT",
+     "items": [
+      "BT 30",
+      "BT 40",
+      "BT 50"
+     ]
+    },
+    {
+     "family": "BTD",
+     "items": [
+      "BTD 30",
+      "BTD 40"
+     ]
+    },
+    {
+     "family": "PSC",
+     "items": [
+      "PSC 40",
+      "PSC 50",
+      "PSC 63",
+      "PSC 80"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>产品系列</h2>",
+   "body": "<p>所有 ZOLLER Tooling 刀柄均经过精密动平衡，始终优于 DIN 标准。点击即可在商城中打开对应类别。</p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/a/7/csm_ts_schrumpffutter_06c2dea98b.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "热缩刀柄",
+     "title": "热缩刀柄",
+     "href": "myzoller:/shop?kind=tooling&category=shrink_chuck",
+     "caption": "<figcaption> <h3>热缩刀柄</h3> <p>用于夹持硬质合金或高速钢圆柱柄刀具。</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/b/7/csm_ts_spannzangenfutter_eb7fca68dc.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "弹簧夹头刀柄",
+     "title": "弹簧夹头刀柄",
+     "href": "myzoller:/shop?kind=tooling&category=collet_chuck",
+     "caption": "<figcaption> <h3>弹簧夹头刀柄</h3> <p>用于以 ER 弹簧夹头夹持圆柱柄刀具。</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/5/1/csm_ts_hawk_eye_07abe1a0d5.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "HAWK EYE®",
+     "title": "HAWK EYE®",
+     "href": "myzoller:/shop?kind=tooling&category=hawk_eye",
+     "caption": "<figcaption> <h3>HAWK EYE®</h3> <p>用于高性能切削的 HPC 精密 ER 弹簧夹头刀柄。</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/6/c/csm_ts_weldonaufnahmen_9c7a361d17.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "侧固式刀柄（Weldon）",
+     "title": "侧固式刀柄（Weldon）",
+     "href": "myzoller:/shop?kind=tooling&category=weldon",
+     "caption": "<figcaption> <h3>侧固式刀柄（Weldon）</h3> <p>适用于带 Weldon 削平面的刀具——无内冷时的理想选择。</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/4/c/csm_ts_whistle-notch-aufnahmen_b74918fa98.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "Whistle Notch 刀柄",
+     "title": "Whistle Notch 刀柄",
+     "href": "myzoller:/shop?kind=tooling&category=whistle_notch",
+     "caption": "<figcaption> <h3>Whistle Notch 刀柄</h3> <p>适用于带斜削平面（Whistle Notch）的圆柱柄刀具。</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/0/5/csm_ts_fuer_einschraubfraeser_e7d8ee83f6.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "螺纹连接铣刀刀柄",
+     "title": "螺纹连接铣刀刀柄",
+     "href": "myzoller:/shop?kind=tooling&category=screw_in",
+     "caption": "<figcaption> <h3>螺纹连接铣刀刀柄</h3> <p>适用于螺纹连接的铣刀头。</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/9/2/csm_ts_messerkopfaufnahmen_b76fed0d9d.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "面铣刀刀柄",
+     "title": "面铣刀刀柄",
+     "href": "myzoller:/shop?kind=tooling&category=shell_mill",
+     "caption": "<figcaption> <h3>面铣刀刀柄</h3> <p>适用于带端键槽的铣刀，冷却液直达切削刃。</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/3/a/csm_ts_kombidorne_48f13a98c4.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "组合式面铣刀刀柄",
+     "title": "组合式面铣刀刀柄",
+     "href": "myzoller:/shop?kind=tooling&category=combi_shell_mill",
+     "caption": "<figcaption> <h3>组合式面铣刀刀柄</h3> <p>适用于带纵向和端键槽的铣刀。</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/f/csm_ts_morsekegelaufnahme_6909dcbe8a.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "莫氏锥度刀柄",
+     "title": "莫氏锥度刀柄",
+     "href": "myzoller:/shop?kind=tooling&category=morse_taper",
+     "caption": "<figcaption> <h3>莫氏锥度刀柄</h3> <p>适用于符合 DIN 2288、带扁尾的莫氏锥柄刀具。</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/c/2/csm_ts_kurzbohrfutter_3c9582d0e0.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "短型钻夹头",
+     "title": "短型钻夹头",
+     "href": "myzoller:/shop?kind=tooling&category=drill_chuck",
+     "caption": "<figcaption> <h3>短型钻夹头</h3> <p>用于夹持钻头和圆柱柄刀具。</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/2/csm_ts_er_collet_a62fe34c96.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "ER 弹簧夹头",
+     "title": "ER 弹簧夹头",
+     "href": "myzoller:/shop?kind=tooling&category=er_collet",
+     "caption": "<figcaption> <h3>ER 弹簧夹头</h3> <p>用于弹簧夹头刀柄和 HAWK EYE® 的 ER 及 ER «Mini» 夹头。</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/a/b/csm_Schrumpfverlaenerungen_category_0b63e58178.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "热缩加长杆",
+     "title": "热缩加长杆",
+     "href": "myzoller:/shop?kind=tooling&category=shrink_extension",
+     "caption": "<figcaption> <h3>热缩加长杆</h3> <p>适用于圆柱柄刀具——为深腔加工提供更长的伸长量。</p> </figcaption>"
+    },
+    {
+     "src": "/fileadmin/_processed_/2/c/csm_ts_accessories_651f0aa893.webp",
+     "w": 633,
+     "h": 356,
+     "alt": "附件",
+     "title": "附件",
+     "href": "myzoller:/shop?kind=tooling&category=tooling_accessory",
+     "caption": "<figcaption> <h3>附件</h3> <p>密封盘、锁紧螺母等。</p> </figcaption>"
+    }
+   ],
+   "videos": [],
+   "pos": "below",
+   "cols": 3,
+   "valign": "top",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "id": "sortiment"
+  },
+  {
+   "type": "steps",
+   "id": "bestellen",
+   "bg": "black",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>如何订购</h2>",
+   "items": [
+    {
+     "title": "查找刀柄",
+     "text": "使用上方的选型工具或直接在商城中——按类型、接口和夹持直径筛选。"
+    },
+    {
+     "title": "登录 MYZOLLER",
+     "text": "客户可查看专属价格条件并凭发票订购——采购和技术人员在同一团队中协作。"
+    },
+    {
+     "title": "首次接触 ZOLLER？",
+     "text": "即使没有客户编号或 ZOLLER 设备也可以：结账时填写公司信息，我们会为您开设客户账户——通常在同一个工作日内完成。"
+    },
+    {
+     "title": "附带数字孪生",
+     "text": "每笔订单都附带数字孪生——一键导入 ZOLLER TMS 和您的 CAM 系统。订单进度可在 MYZOLLER 中实时查看。"
+    }
+   ],
+   "actions": [
+    {
+     "label": "打开商城",
+     "href": "myzoller:/shop?kind=tooling"
+    },
+    {
+     "label": "创建账户",
+     "href": "myzoller:/registrieren?weiter=%2Fshop%3Fkind%3Dtooling",
+     "ghost": true
+    }
+   ]
+  },
+  {
+   "type": "hotspots",
+   "header": "<h2> 可靠性，成就极致精度 </h2>",
+   "intro": "",
+   "img": {
+    "src": "/fileadmin/_processed_/7/6/csm_ts_pin_modul_03_be3bbbf942.webp",
+    "alt": "",
+    "w": 1540,
+    "h": 630
+   },
+   "spots": [
+    {
+     "x": 23.533,
+     "y": 10.226,
+     "label": "芯片钻孔",
+     "text": "<h3>芯片钻孔</h3> <h4>芯片孔</h4> <p>用于将 RFID 芯片或 ZOLLER »idChip« 等数据载体安装在 ZOLLER Tooling 刀具夹头上。HSK-A 空心锥、SK 大锥度和 PSC 多边形锥为标准配置。</p> <h4>ZOLLER »idChip«</h4> <p>用于明确识别您的刀柄，并最大限度延长刀具使用寿命。根据您的要求，我们可将经过动平衡处理且内置集成芯片的刀柄直接送至您的生产车间。</p> <h4>3 槽技术</h4> <p>在刀柄的芯片孔中，通过粘合剂确保形成合力，从而实现安全牢固的连接。</p>"
+    },
+    {
+     "x": 48.478,
+     "y": 43.161,
+     "label": "四个螺纹",
+     "text": "<h3>四个螺纹</h3> <h4>四个螺纹</h4> <p>用于对标准热缩夹头进行后续精密动平衡。</p>"
+    },
+    {
+     "x": 71.685,
+     "y": 51.793,
+     "label": "长款热缩刀柄",
+     "text": "<h3>长款热缩刀柄</h3> <h4>长款热缩刀柄，带插入圆角</h4> <p>由于刀具沿刀柄全长施加压力，可确保实现最大的热缩力。</p>"
+    },
+    {
+     "x": 13.641,
+     "y": 52.722,
+     "label": "硬态精加工进给台肩",
+     "text": "<h3>硬态精加工进给台肩</h3> <h4>硬态精加工进给台肩</h4> <p>确保夹紧段在夹紧肩部实现最佳滑动，并确保主轴具有出色的张力。由此，夹紧肩的径向跳动最大为10微米（比DIN标准精度高5倍）。</p>"
+    },
+    {
+     "x": 82.12,
+     "y": 56.972,
+     "label": "同心度公差",
+     "text": "<h3>同心度公差</h3> <h4>同心度公差</h4> <p>确保径向跳动小于 3 µm。</p>"
+    },
+    {
+     "x": 24.674,
+     "y": 82.47,
+     "label": "精密动平衡",
+     "text": "<h3>精密动平衡</h3> <h4>精密动平衡</h4> <p><strong>所有 ZOLLER刀柄均经过精密动平衡处理 </strong>— 在 25,000 转/分钟<sup>下</sup><strong>达到</strong> G2.5 级，或最大残余不平衡量 ≤ 1 gmm，从而确保加工过程中主轴运行平稳，从而延长轴承使用寿命。 您将受益于更长的主轴使用寿命、更优异的工件表面质量以及更长的刀具使用寿命。</p>"
+    },
+    {
+     "x": 8.533,
+     "y": 36.919,
+     "label": "硬态精加工驱动槽",
+     "text": "<h3>硬态精加工驱动槽</h3> <h4>硬态精加工驱动槽</h4> <p>确保槽100%居中，在主轴上完美就位，并实现出色的扭矩传递。</p>"
+    },
+    {
+     "x": 23.478,
+     "y": 36.521,
+     "label": "硬态精加工顶出面",
+     "text": "<h3>硬态精加工顶出面</h3> <h4>硬态精加工顶出面</h4> <p>确保在更换刀具时，HSK刀柄能够安全松脱。</p>"
+    },
+    {
+     "x": 75.707,
+     "y": 75.697,
+     "label": "»coolTool«",
+     "text": "<h3>»coolTool«</h3> <h4>»coolTool«</h4> <p>确保刀具切削刃冷却效果完美，实现最佳的切屑导向，并防止切屑在刀具切削刃处堆积。 冷却液孔的倾斜布置确保冷却液能精准到达所需位置：刀具切削刃，从而实现最佳的切削效果，并延长刀具的使用寿命。</p>"
+    }
+   ],
+   "ftype": "zoller_image-hotspots",
+   "id": "qualitaet",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   }
+  },
+  {
+   "type": "textmedia",
+   "header": "<h2>刀柄、»idChip« 与数字孪生——一站式提供</h2>",
+   "body": "<p>我们可按需将每个刀柄经动平衡并牢固粘贴 »idChip« 后直接交付到您的生产现场。HSK-A、SK 和 PSC 刀柄标配芯片孔。</p> <p>DataMatrix 码让每个刀柄都具有唯一标识——在对刀仪上、在 »powerShrink« 上以及在机床上。在 ZOLLER，测量、热缩和动平衡均与刀柄相互匹配。</p> <p><a class=\"btn\" href=\"/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E5%A4%B9%E5%A4%B4/idchip\">了解 »idChip«</a></p>",
+   "images": [
+    {
+     "src": "/fileadmin/_processed_/1/7/csm_zoller_smarte_solutions_171a2dc46c.webp",
+     "w": 1454,
+     "h": 1454,
+     "alt": "ZOLLER Tooling Solutions 刀柄"
+    }
+   ],
+   "videos": [],
+   "pos": "right",
+   "cols": 1,
+   "valign": "center",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "id": "idchip"
+  },
+  {
+   "type": "accordion",
+   "id": "faq",
+   "bg": "",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>常见问题</h2>",
+   "items": [
+    {
+     "title": "没有 ZOLLER 客户编号也能订购吗？",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>可以。在 MYZOLLER 中创建账户，并在结账时填写公司信息。我们核实后会为您开设客户账户（通常在同一个工作日内），随后自动转交您的订单。订单在我们发出订单确认后生效。</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "我能看到哪些价格？",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>登录后可看到目录价格；作为客户，可看到您客户账户的专属条件。所有价格均为不含增值税的净价。</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "我需要 ZOLLER 设备吗？",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>不需要。这些刀柄适用于任何具有相应接口的机床。配合 ZOLLER 对刀仪、热缩机和动平衡机使用，可发挥最大效益。</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "什么是数字孪生？",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>即每个刀柄完整的几何数据和主数据。您会随订单一起获得，并可一键导入 ZOLLER TMS Tool Management Solutions 或您的 CAM 系统。</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "可以订购带 »idChip« 的刀柄吗？",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>可以。HSK-A、SK 和 PSC 刀柄标配芯片孔——只需在商城中为商品添加已粘贴并经动平衡的 »idChip«。</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    },
+    {
+     "title": "如何跟踪我的订单？",
+     "blocks": [
+      {
+       "type": "textmedia",
+       "header": "",
+       "body": "<p>在 MYZOLLER 的“订单”中：订单确认、交货日期和物流跟踪——实时来自我们的系统。</p>",
+       "images": [],
+       "videos": [],
+       "pos": "text",
+       "cols": 1,
+       "valign": "top",
+       "bg": "",
+       "space": {}
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "downloads",
+   "id": "downloads",
+   "bg": "lightgray",
+   "space": {
+    "before": "default",
+    "after": "default"
+   },
+   "header": "<h2>宣传册</h2>",
+   "files": [
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Broschuere_Tooling_BRTOSO-00_US_01.pdf",
+     "name": "Tooling Solutions",
+     "size": "2 MB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/6/2/csm_ZOLLER_Broschuere_Tooling_BRTOSO-00_US_01_a9c6bb127e.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "Tooling Solutions"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Tooling_Solutions_Hawk-Eye-EN.pdf",
+     "name": "HAWK EYE®",
+     "size": "577 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/6/7/csm_ZOLLER_Tooling_Solutions_Hawk-Eye-EN_3f13651cae.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "HAWK EYE®"
+     }
+    },
+    {
+     "href": "/fileadmin/02_Products/Tooling_Solutions/02_info-pool/ZOLLER_Tooling_Solutions_Spannzangenfutter_EN.pdf",
+     "name": "ER & ER »Mini«",
+     "size": "645 KB",
+     "desc": "",
+     "thumb": {
+      "src": "/fileadmin/_processed_/f/c/csm_ZOLLER_Tooling_Solutions_Spannzangenfutter_EN_60729ce89b.png",
+      "alt": "",
+      "w": 310,
+      "h": 437,
+      "title": "ER & ER »Mini«"
+     }
+    }
+   ]
+  }
+ ],
+ "src_path": "/ch/%E4%BA%A7%E5%93%81/%E5%88%80%E5%85%B7%E5%A4%B9%E5%A4%B4/tooling-shop",
+ "de_path": "/produkte/werkzeugaufnahmen/tooling-shop"
+}
