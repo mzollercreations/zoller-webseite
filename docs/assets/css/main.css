@@ -716,8 +716,11 @@ figcaption { font-size: var(--fs-small); color: var(--gray-600); margin-top: .6r
 .cta-banner { position: relative; min-height: clamp(380px, 50vw, 640px); border-radius: var(--radius); overflow: hidden; display: flex; align-items: flex-end; color: var(--white); isolation: isolate; }
 .cta-banner img { position: absolute; inset: -10% 0 auto; width: 100%; height: 120%; object-fit: cover; z-index: -2; }
 .cta-banner::after { content: ""; position: absolute; inset: 0; z-index: -1; background: linear-gradient(90deg, rgba(0, 0, 0, .7) 0%, rgba(0, 0, 0, .1) 70%); }
-.cta-banner__content { padding: clamp(2rem, 1rem + 4vw, 5rem); max-width: 40rem; }
-.cta-banner__content h2, .cta-banner__content h3 { font-size: var(--fs-h1); }
+.cta-banner__content { padding: clamp(2rem, 1rem + 4vw, 5rem); max-width: 50rem; }   /* breit genug für »1:1-Expertengespräch« in einer Zeile */
+/* Kurze Titel: nie im Wort trennen (am Handy nach »1:1-« statt »Expert-engespräch«), Schrift so klein, dass das längste Wort
+   ab 320 px in eine Zeile passt; Schatten hält die Zeile lesbar, wo sie über helle Bildteile läuft */
+.cta-banner__content h2, .cta-banner__content h3 { font-size: min(var(--fs-h1), 9.4vw); -webkit-hyphens: manual; hyphens: manual; overflow-wrap: break-word;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, .3), 0 6px 32px rgba(0, 0, 0, .5); }
 
 /* Slider (horizontal, Scroll-Snap) */
 .slider { position: relative; }
@@ -929,10 +932,17 @@ tr:hover td { background: rgba(240, 230, 0, .08); }
 
 /* Pinned horizontaler Scroll (Startseite: Fräsen/Drehen/Schleifen) */
 .hscroll { position: relative; }
-.hscroll__pin { height: 100vh; height: 100svh; display: flex; flex-direction: column; justify-content: center; overflow: hidden; }
-.hscroll__track { display: flex; gap: clamp(1rem, .5rem + 1.5vw, 2rem); padding-inline: var(--gutter); will-change: transform; }
-.hscroll__item { flex: none; width: min(78vw, 980px); }
-.hscroll .app-card { position: relative; border-radius: var(--radius); overflow: hidden; height: min(68vh, 640px); color: var(--white); display: flex; align-items: flex-end; isolation: isolate; }
+/* Abstand oben/unten steckt im festgehaltenen Bereich: als Abschnitts-Abstand würde er den Bereich nach unten aus dem Bild schieben */
+.hscroll.section { padding-block: 0; }
+.hscroll__pin { height: 100vh; height: 100svh; display: flex; flex-direction: column; justify-content: center; overflow: hidden;
+  padding-block: calc(var(--header-h) + clamp(1rem, 3vh, 2.5rem)) clamp(1.25rem, 4vh, 3rem); }
+/* Kartenreihe nimmt die Höhe, die nach Überschrift und Fortschrittsbalken übrig bleibt (höchstens 68vh / 640px) */
+.hscroll__track { flex: 0 1 min(68vh, 640px); min-height: 0; display: flex; gap: clamp(1rem, .5rem + 1.5vw, 2rem); padding-inline: var(--gutter); will-change: transform; }
+.hscroll__item { flex: none; width: min(78vw, 980px); display: flex; }
+.hscroll .app-card { flex: 1; min-width: 0; position: relative; border-radius: var(--radius); overflow: hidden; color: var(--white); display: flex; align-items: flex-end; isolation: isolate; }
+.hscroll .app-card__text { padding-block: min(clamp(1.5rem, 1rem + 2vw, 3rem), 5vh); }   /* niedrige Fenster: Text bleibt unter der Nummer */
+.hscroll .app-card__text h3 { font-size: min(var(--fs-h1), 9vh); }
+.reduced-motion .hscroll__track { overflow-x: auto; scroll-snap-type: x mandatory; }   /* ohne Bewegung wird nicht gepinnt: Karten seitlich wischen */
 .app-card img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; z-index: -2; transform: scale(1.12); }
 .app-card::after { content: ""; position: absolute; inset: 0; z-index: -1; background: linear-gradient(180deg, rgba(0, 0, 0, 0) 30%, rgba(0, 0, 0, .82) 100%); }
 .app-card__text { padding: clamp(1.5rem, 1rem + 2vw, 3rem); max-width: 40rem; }
