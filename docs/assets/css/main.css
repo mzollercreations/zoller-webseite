@@ -2376,3 +2376,215 @@ table.proto.proto-in td:first-child { animation: proto-tick 1.3s var(--ease-out)
   .ar__hint { animation: none; }
 }
 .ar__go[hidden] { display: none; }
+
+/* =========================================================================
+   Seite »Das System« (build.py render_system, Bewegung: assets/js/systemfx.js)
+   Leitmotiv Kreis: Messring im Hero → Gelb des Statements → Systemring wächst als dunkler Kreis → vier Werte als vier
+   Viertel eines Rings → Smart Factory hinter einer Iris → 80 | 60 | 14 | 7. Ohne JS bzw. »Bewegung reduzieren«: alles steht.
+   ========================================================================= */
+.sys { position: relative; overflow-x: clip; --sys-dark: #0c0c0d; }
+.sys h2, .sys h3 { text-wrap: balance; }
+
+/* ---------- Hero: Messring mit umlaufendem Lichtpunkt ---------- */
+.sys-hero { background: var(--sys-dark); color: var(--white); }
+.sys-hero__stage { position: relative; height: 100vh; height: 100svh; min-height: 540px; overflow: hidden; isolation: isolate; display: flex; align-items: flex-end;
+  background: radial-gradient(115% 95% at 68% 44%, #2b2c2e 0%, #151516 46%, #080808 100%); }
+.js:not(.reduced-motion) .sys-hero { height: 230vh; }
+.js:not(.reduced-motion) .sys-hero__stage { position: sticky; top: 0; }
+.sys-hero__ringbox { position: absolute; z-index: -1; left: 67%; top: 50%; width: min(94vh, 64vw); aspect-ratio: 1; translate: -50% -50%; transform-origin: 50% 50%; }
+.sys-hero__ring { width: 100%; height: 100%; overflow: visible; }
+.sys-hero__inner { fill: none; stroke: rgba(255, 255, 255, .07); stroke-width: 1.5; }
+.sys-hero__track { fill: none; stroke: rgba(255, 255, 255, .2); stroke-width: 2; }
+.sys-hero__ticks { fill: none; stroke: rgba(255, 255, 255, .3); stroke-width: 12; }
+.sys-hero__major { fill: none; stroke: rgba(255, 255, 255, .55); stroke-width: 22; }
+.sys-hero__dot { fill: rgba(255, 255, 255, .5); transform-box: fill-box; transform-origin: center; animation: sys-dot .9s var(--ease-out) both; animation-delay: calc(.5s + var(--i) * 60ms); }
+@keyframes sys-dot { from { opacity: 0; transform: scale(0); } 60% { opacity: 1; transform: scale(1.8); fill: var(--yellow); } to { opacity: 1; transform: scale(1); } }
+.sys-hero__runner { animation: sys-spin 16s linear infinite; }
+@keyframes sys-spin { to { transform: rotate(360deg); } }
+.sys-hero__trail { fill: none; stroke: var(--yellow); stroke-width: 3; opacity: .55; }
+.sys-hero__halo { fill: url(#sys-halo); opacity: .9; }
+.sys-hero__light { fill: #fff; }
+.sys-hero__core { fill: #0b0b0c; stroke: var(--yellow); stroke-width: 3; }
+.sys-hero__fill { position: absolute; inset: 0; z-index: 0; background: var(--yellow); clip-path: circle(0 at 50% 50%); pointer-events: none; }
+.sys-hero__copy { position: relative; z-index: 1; width: 100%; padding-block: calc(var(--header-h) + 2rem) clamp(3rem, 2rem + 5vw, 7rem); }
+.sys-hero__title { max-width: 11ch; }
+.sys-hero__title--long { font-size: var(--fs-h1); max-width: 16ch; }
+.sys-hero__text { max-width: 34rem; font-size: var(--fs-lead); line-height: 1.45; color: rgba(255, 255, 255, .82); }
+.sys-hero__text p { margin: 0; }
+@media (max-width: 860px), (orientation: portrait) and (max-width: 1100px) {
+  .sys-hero__ringbox { left: 50%; top: 36%; width: min(94vw, 58vh); }
+  .sys-hero__text br { display: none; }
+}
+
+/* ---------- Statement (gelb) ---------- */
+.sys-statement { background: var(--yellow); color: var(--black); padding-block: clamp(4.5rem, 2.5rem + 8vw, 11rem) clamp(5rem, 3rem + 8vw, 11rem); }
+.sys-statement__title { font-size: var(--fs-display); line-height: .98; letter-spacing: -.035em; max-width: 13ch; margin-bottom: clamp(2.25rem, 1.25rem + 3vw, 4.5rem); }
+.sys-statement__lead { font-size: clamp(1.5rem, 1.05rem + 1.7vw, 2.75rem); line-height: 1.22; letter-spacing: -.015em; font-weight: 500; max-width: 34ch; margin: 0; }
+.sys-statement p[data-words] .w { color: rgba(0, 0, 0, .22); }
+.sys-statement p[data-words] .w.is-lit { color: inherit; }
+.sys-statement__cols { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.5rem clamp(2rem, 1rem + 4vw, 6rem); margin-top: clamp(2.5rem, 1.5rem + 3vw, 4.5rem); max-width: 78rem;
+  padding-top: clamp(1.75rem, 1rem + 2vw, 2.75rem); border-top: 2px solid var(--black); font-size: var(--fs-lead); line-height: 1.45; }
+.sys-statement__cols p { margin: 0; }
+@media (max-width: 760px) { .sys-statement__cols { grid-template-columns: 1fr; } }
+
+/* ---------- Systemring ---------- */
+.sys-map { background: var(--yellow); color: var(--white); }
+.sys-map__veil { position: absolute; inset: 0; z-index: 0; background: var(--sys-dark); }
+.sys-map__grid { position: relative; z-index: 1; display: grid; grid-template-columns: minmax(0, 1.45fr) minmax(0, 1fr); gap: clamp(1.5rem, .5rem + 2.5vw, 4.5rem);
+  max-width: var(--maxw); margin-inline: auto; padding-inline: var(--gutter); }
+.sys-map__stage { position: sticky; top: 0; height: 100vh; height: 100svh; display: flex; flex-direction: column; align-items: center; justify-content: center; padding-block: 4.5rem 1.5rem; }
+.sys-map__stage::before { content: ""; position: absolute; inset: 8% 0; z-index: -1; pointer-events: none;
+  background: radial-gradient(closest-side, rgba(240, 230, 0, .07), rgba(240, 230, 0, 0)); }
+.sys-map__board { position: relative; width: min(100%, calc((100svh - 8.5rem) * 1.2093)); aspect-ratio: 1040 / 860; }
+.sys-map__svg { position: absolute; inset: 0; width: 100%; height: 100%; overflow: visible; }
+.sys-ring { fill: none; stroke: rgba(255, 255, 255, .2); stroke-width: 2; }
+.sys-ring--r2 { stroke: rgba(240, 230, 0, .45); stroke-width: 2; stroke-dasharray: 3 9; }
+.sys-ring__ticks { fill: none; stroke: rgba(255, 255, 255, .2); stroke-width: 10; }
+.sys-ring__major { fill: none; stroke: rgba(255, 255, 255, .4); stroke-width: 16; }
+.sys-line { fill: none; stroke: rgba(255, 255, 255, .17); stroke-width: 1.6; stroke-linecap: round; transition: stroke .6s, stroke-width .6s; }
+.sys-line--r2 { stroke: rgba(240, 230, 0, .3); }
+.sys-line--io { stroke: rgba(255, 255, 255, .3); stroke-width: 2.2; }
+.sys-line.is-done { stroke: rgba(255, 255, 255, .42); }
+.sys-line--r2.is-done { stroke: rgba(240, 230, 0, .6); }
+.sys-line.is-on { stroke: var(--yellow); stroke-width: 3; }
+.sys-hub__halo { fill: rgba(240, 230, 0, .06); stroke: rgba(240, 230, 0, .18); stroke-width: 1; }
+.sys-hub__ticks { fill: none; stroke: rgba(240, 230, 0, .6); stroke-width: 9; transform-origin: 0 0; animation: sys-spin 40s linear infinite; }
+.sys-hub__disc { fill: #050505; stroke: var(--yellow); stroke-width: 3.5; }
+.sys-hub__t1 { fill: var(--white); font: 500 40px var(--font); letter-spacing: -.01em; text-anchor: middle; }
+.sys-hub__t2 { fill: var(--yellow); font: 500 23px var(--font); letter-spacing: .1em; text-anchor: middle; }
+.sys-packet { fill: var(--yellow); }
+.sys-packet--dim { fill: rgba(255, 255, 255, .7); }
+/* Stationen: Gerät auf heller Scheibe, CAD/CAM und Fertigung als Symbol im Ring */
+.sys-st { position: absolute; left: var(--x); top: var(--y); width: var(--s); aspect-ratio: 1; translate: -50% -50%; z-index: 2; border-radius: 50%; -webkit-tap-highlight-color: transparent; }
+.sys-st__disc { display: grid; place-items: center; width: 100%; height: 100%; border-radius: 50%; overflow: hidden;
+  background: radial-gradient(circle at 50% 32%, #fff 0%, #efefed 52%, #cfcfcc 100%);
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, .18), 0 14px 30px -12px rgba(0, 0, 0, .8);
+  transition: transform .7s var(--ease-out), box-shadow .45s, opacity .6s, filter .6s; }
+.sys-st__disc img { width: 100%; height: 100%; object-fit: contain; padding: 8%; }
+.sys-st--io .sys-st__disc { background: #141415; color: var(--white); box-shadow: inset 0 0 0 2px rgba(255, 255, 255, .45); }
+.sys-st--io svg { width: 54%; height: 54%; fill: none; stroke: currentColor; stroke-width: 1.35; stroke-linecap: round; stroke-linejoin: round; }
+.sys-st__label { position: absolute; left: 50%; top: calc(100% + .45rem); translate: -50% 4px; z-index: 3; width: max-content; max-width: 15em; text-align: center;
+  font-size: clamp(.6875rem, .5rem + .45vw, .9375rem); line-height: 1.2; font-weight: 500; padding: .38em .8em; border-radius: 999px;
+  background: rgba(10, 10, 10, .82); color: var(--white); opacity: 0; pointer-events: none; transition: opacity .35s, translate .5s var(--ease-out), background-color .35s, color .35s; }
+.sys-st--above .sys-st__label { top: auto; bottom: calc(100% + .45rem); translate: -50% -4px; }
+.sys-st:hover .sys-st__disc, .sys-st:focus-visible .sys-st__disc { transform: scale(1.08); }
+.sys-st:hover .sys-st__label, .sys-st:focus-visible .sys-st__label { opacity: 1; translate: -50% 0; }
+.sys-st:focus-visible { outline: 2px solid var(--yellow); outline-offset: 4px; }
+.sys-map.is-live .sys-st:not(.is-on):not(.is-done) .sys-st__disc { opacity: .32; filter: grayscale(1) brightness(.8); }
+.sys-st.is-on { z-index: 4; }
+.sys-st.is-on .sys-st__disc { transform: scale(1.16); box-shadow: 0 0 0 3px var(--yellow), 0 0 46px 4px rgba(240, 230, 0, .38), 0 14px 30px -12px rgba(0, 0, 0, .8); }
+.sys-st.is-on .sys-st__label { opacity: 1; translate: -50% 0; background: var(--yellow); color: var(--black); }
+.sys-st--io.is-on .sys-st__disc { color: var(--yellow); }
+.sys-map__legend { display: flex; flex-wrap: wrap; justify-content: center; gap: .4rem 1.5rem; margin: 1.1rem 0 0; font-size: .6875rem; font-weight: 500; letter-spacing: .12em; text-transform: uppercase; color: rgba(255, 255, 255, .55); }
+.sys-map__legend span::before { content: ""; display: inline-block; width: 22px; height: 2px; margin-right: .6rem; vertical-align: middle; background: rgba(255, 255, 255, .5); }
+.sys-map__legend .is-r2::before { background: repeating-linear-gradient(90deg, var(--yellow) 0 4px, transparent 4px 8px); }
+/* Erzählung */
+.sys-map__story { padding-block: 22vh 30vh; }
+.sys-phase { display: flex; flex-direction: column; justify-content: center; gap: 1rem; padding-block: 2.5rem; }
+.sys-map.is-live .sys-phase { min-height: 78vh; }   /* Platz für die Scroll-Erzählung (ohne Bewegung stehen die Karten dicht) */
+.sys-map.is-live .sys-phase { opacity: .28; transition: opacity .6s; }
+.sys-map.is-live .sys-phase.is-on { opacity: 1; }
+.sys-phase__kicker { margin: 0; color: var(--yellow); font-size: .75rem; font-weight: 700; letter-spacing: .16em; text-transform: uppercase; }
+.sys-phase__title { font-size: var(--fs-h1); line-height: 1; letter-spacing: -.03em; margin: 0; }
+.sys-phase__lead { margin: 0; font-size: var(--fs-lead); line-height: 1.4; color: rgba(255, 255, 255, .78); max-width: 30ch; }
+.sys-card { position: relative; padding: 1.25rem 1.4rem 1.15rem; border-radius: var(--radius-sm); background: rgba(255, 255, 255, .045); border: 1px solid rgba(255, 255, 255, .09);
+  transition: border-color .5s, background-color .5s; scroll-margin-top: 30vh; }
+.sys-card.is-hl { border-color: var(--yellow); background: rgba(240, 230, 0, .07); }
+.sys-card__title { display: flex; align-items: baseline; gap: .7rem; font-size: var(--fs-h4); line-height: 1.25; margin: 0 0 .45rem; }
+.sys-card__num { flex: none; color: var(--yellow); font-size: .75rem; font-weight: 700; letter-spacing: .1em; font-variant-numeric: tabular-nums; }
+.sys-card p { margin: 0 0 .7rem; color: rgba(255, 255, 255, .72); font-size: .9375rem; line-height: 1.55; }
+.sys-card p:last-child { margin-bottom: 0; }
+.sys-card__links { display: flex; flex-wrap: wrap; gap: .3rem 1.4rem; }
+.sys-link { display: inline-flex; align-items: center; gap: .4rem; color: var(--white); font-size: .875rem; font-weight: 500; padding-block: .2rem; border-bottom: 1px solid rgba(240, 230, 0, .7); transition: color .25s, border-color .25s; }
+.sys-link svg { width: 14px; height: 14px; flex: none; transition: translate .35s var(--ease-out); }
+.sys-link:hover { color: var(--yellow); border-color: var(--yellow); }
+.sys-link:hover svg { translate: 3px 0; }
+/* Hochformat und schmale Fenster: Ring klebt oben, die Erzählung läuft darunter */
+@media (max-width: 1023px), (orientation: portrait) and (max-width: 1100px) {
+  .sys-map__grid { grid-template-columns: minmax(0, 1fr); gap: 0; }
+  .sys-map__stage { z-index: 3; height: auto; padding-block: .75rem 1.75rem; margin-inline: calc(var(--gutter) * -1); padding-inline: var(--gutter);
+    background: linear-gradient(var(--sys-dark) 82%, rgba(12, 12, 13, 0)); }
+  .sys-map.is-entering .sys-map__stage { background: none; }
+  .sys-map__board { width: min(100%, calc(46svh * 1.2093)); }
+  .sys-map__legend { margin-top: .6rem; font-size: .625rem; }
+  .sys-map__story { padding-block: 6vh 34vh; }
+  .sys-phase { min-height: 0; padding-block: 3rem; }
+  .sys-map.is-live .sys-phase { min-height: 46vh; }
+  .sys-card { scroll-margin-top: 62svh; }
+  .sys-st__label { font-size: .6875rem; padding: .3em .65em; max-width: 11em; }
+}
+
+/* ---------- Wertesystem: vier Viertel eines Rings ---------- */
+.sys-values { background: var(--sys-dark); color: var(--white); padding-block: clamp(4rem, 2rem + 6vw, 9rem) clamp(5rem, 3rem + 6vw, 10rem); }
+.sys-values__head { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.1fr); gap: 1.5rem clamp(2rem, 1rem + 4vw, 6rem); align-items: end; margin-bottom: clamp(3rem, 2rem + 4vw, 6rem); }
+.sys-values__title { font-size: var(--fs-h1); line-height: 1.02; letter-spacing: -.03em; margin: 0; max-width: 13ch; }
+.sys-values__intro .rte p, .sys-values__intro p { margin: 0; font-size: var(--fs-lead); line-height: 1.45; color: rgba(255, 255, 255, .78); }
+.sys-values__grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: clamp(1.25rem, .5rem + 2.5vw, 3rem); }
+.sys-value__dial { position: relative; display: grid; place-items: center; aspect-ratio: 1; margin: 0 auto 1.5rem; width: min(100%, 300px); }
+.sys-value__dial svg { position: absolute; inset: 0; width: 100%; height: 100%; overflow: visible; }
+.sys-value__track { fill: none; stroke: rgba(255, 255, 255, .14); stroke-width: 1.5; }
+.sys-value__ticks { fill: none; stroke: rgba(255, 255, 255, .26); stroke-width: 7; transform-origin: 0 0; transition: transform 1.6s var(--ease-out); }
+.sys-value:hover .sys-value__ticks { transform: rotate(24deg); }
+.sys-value__arc { fill: none; stroke: var(--yellow); stroke-width: 3.5; stroke-linecap: round; }
+.sys-value__dot { fill: var(--sys-dark); stroke: var(--yellow); stroke-width: 4.5; }
+.sys-value__word { position: relative; margin: 0; max-width: 72%; text-align: center; font-size: clamp(1.25rem, .85rem + 1.1vw, 2rem); line-height: 1.1; letter-spacing: -.01em; hyphens: auto; overflow-wrap: anywhere; }
+.sys-value__text p { margin: 0; color: rgba(255, 255, 255, .72); font-size: 1rem; line-height: 1.55; }
+@media (max-width: 1023px) { .sys-values__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); row-gap: 3rem; } .sys-values__head { grid-template-columns: 1fr; } }
+@media (max-width: 560px) {
+  .sys-values__grid { grid-template-columns: 1fr; row-gap: 2.25rem; }
+  .sys-value { display: grid; grid-template-columns: 40% minmax(0, 1fr); gap: 1.25rem; align-items: center; }
+  .sys-value__dial { margin: 0; }
+  .sys-value__word { font-size: 1.0625rem; }
+  .sys-value__text p { font-size: .9375rem; }
+}
+
+/* ---------- Smart Factory hinter der Iris-Blende ---------- */
+.sys-iris { background: var(--sys-dark); color: var(--black); }
+.sys-iris__stage { position: relative; height: 100vh; height: 100svh; overflow: hidden; }
+.js:not(.reduced-motion) .sys-iris__stage { position: sticky; top: 0; }
+.sys-iris__media { position: absolute; inset: 0; }
+.sys-iris__media img { width: 100%; height: 100%; object-fit: cover; transform-origin: 50% 55%; }
+.sys-iris__ring { position: absolute; inset: 0; width: 100%; height: 100%; overflow: visible; pointer-events: none; opacity: 0; }
+.sys-iris__ticks { fill: none; stroke: rgba(255, 255, 255, .5); stroke-width: 10; }
+.sys-iris__quad { fill: none; stroke: var(--yellow); stroke-width: 3.5; stroke-linecap: round; }
+.sys-iris__content { position: relative; z-index: 2; margin-top: -42svh; padding-bottom: clamp(4rem, 3rem + 6vw, 9rem); }
+.js:not(.reduced-motion) .sys-iris__content { margin-top: 30svh; }
+.sys-iris__card { max-width: 38rem; padding: clamp(1.75rem, 1rem + 2.5vw, 3rem); border-radius: var(--radius); background: rgba(255, 255, 255, .94);
+  -webkit-backdrop-filter: blur(18px) saturate(160%); backdrop-filter: blur(18px) saturate(160%); box-shadow: var(--shadow-lg); }
+.sys-iris__card h2 { font-size: var(--fs-h2); }
+.sys-iris__card p { margin: 0 0 1rem; }
+
+/* ---------- 80 | 60 | 14 | 7 ---------- */
+.sys-nums { z-index: 3; background: var(--white); color: var(--black); margin-top: calc(-1 * var(--sheet-r)); border-radius: var(--sheet-r) var(--sheet-r) 0 0;
+  padding-block: clamp(4rem, 2.5rem + 5vw, 8rem); }
+.sys-nums__head h2 { font-size: var(--fs-h2); max-width: 20ch; margin: 0; }
+.sys-nums__row { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); margin-block: clamp(2.5rem, 1.5rem + 4vw, 5.5rem); }
+.sys-num { padding-inline: clamp(.75rem, .25rem + 1.6vw, 2.25rem); border-left: 2px solid var(--black); }
+.sys-num:first-child { padding-left: 0; border-left: 0; }
+.sys-num__v { display: block; font-size: clamp(3.75rem, 1.5rem + 8.5vw, 10.5rem); font-weight: 500; line-height: .92; letter-spacing: -.045em; font-variant-numeric: tabular-nums; }
+.sys-num__l { display: block; margin-top: .9rem; padding-top: .7rem; border-top: 4px solid var(--yellow); width: fit-content; max-width: 100%; font-size: var(--fs-h4); line-height: 1.25; color: var(--gray-700); }
+.sys-nums__text { max-width: 46rem; }
+.sys-nums__text p { font-size: var(--fs-lead); line-height: 1.45; }
+@media (max-width: 760px) {
+  .sys-nums__row { grid-template-columns: repeat(2, minmax(0, 1fr)); row-gap: 2.5rem; }
+  .sys-num:nth-child(odd) { padding-left: 0; border-left: 0; }
+}
+.sys-st--left .sys-st__label { left: auto; top: 50%; right: calc(100% + .45rem); translate: 4px -50%; }
+.sys-st--left:hover .sys-st__label, .sys-st--left:focus-visible .sys-st__label, .sys-st--left.is-on .sys-st__label { translate: 0 -50%; }
+@media (max-width: 600px) { .sys-st__label { display: none; } }   /* Handy: Namen stehen in den Karten direkt darunter */
+.sys-map__story { transition: opacity .7s var(--ease-out); }
+.sys-map.is-entering .sys-map__story { opacity: 0; }   /* erst lesen, wenn der dunkle Kreis den Bildschirm füllt */
+
+/* ---------- Produkt-Teaser nach dem Wertesystem (einige Sprachfassungen) ---------- */
+.sys-teasers { z-index: 3; background: var(--white); color: var(--black); margin-top: calc(-1 * var(--sheet-r)); border-radius: var(--sheet-r) var(--sheet-r) 0 0;
+  padding-block: clamp(3.5rem, 2rem + 5vw, 7rem); }
+.sys-teasers__grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 22rem), 1fr)); gap: clamp(1.25rem, .5rem + 2.5vw, 3rem); }
+.sys-teaser { display: flex; flex-direction: column; border-radius: var(--radius); overflow: hidden; background: var(--gray-50); }
+.sys-teaser__media { aspect-ratio: 16 / 10; overflow: hidden; }
+.sys-teaser__media img { width: 100%; height: 100%; object-fit: cover; transition: transform 1.2s var(--ease-out); }
+.sys-teaser:hover .sys-teaser__media img { transform: scale(1.04); }
+.sys-teaser__body { padding: clamp(1.5rem, 1rem + 1.5vw, 2.5rem); }
+.sys-teaser__body h3 { font-size: var(--fs-h3); }
+.sys-teaser__body p { margin: 0 0 1rem; }
+.sys-map__legend { transition: opacity .5s; }
+.sys-map.is-entering .sys-map__legend { opacity: 0; }

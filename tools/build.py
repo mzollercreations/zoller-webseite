@@ -12,6 +12,7 @@ import functools
 import glob
 import html
 import json
+import math
 import os
 import re
 import shutil
@@ -185,7 +186,7 @@ def _asset_version():
     import hashlib
     h = hashlib.md5()
     for rel in ("assets/css/main.css", "assets/js/main.js", "assets/js/scrollfx.js", "assets/js/homefilm.js", "assets/js/productstage.js",
-                "assets/js/worldflight.js", "assets/js/world.js", "assets/js/eventagenda.js", "assets/js/zoomfx.js",
+                "assets/js/worldflight.js", "assets/js/world.js", "assets/js/eventagenda.js", "assets/js/zoomfx.js", "assets/js/systemfx.js",
                 "assets/js/globe.js", "assets/js/globe-land.js", "assets/js/traycalc.js", "assets/js/toolfinder.js", "assets/js/arview.js", "assets/js/currency.js",
                 "content/ar_models.json"):
         if not os.path.exists(os.path.join(ROOT, rel)):
@@ -2096,6 +2097,456 @@ def zoom_mask(ctx, b, word, kicker=""):
 </section>'''
 
 
+# ========================================================== Das System ====
+# Seite »Das System« (in jeder Sprachfassung): eigene Gestaltung statt der Blöcke von zoller.info (Video, Hotspot-Bild,
+# Werte als Bilder mit eingebranntem deutschem Text). Leitmotiv ist der Kreis – ZOLLER-Symbol, Messring, Iris:
+#   Hero mit Messring → man fliegt durch den Ring ins Gelb des Statements → der Systemring (z.One + TMS in der Mitte,
+#   Solutions und Automation auf zwei Ringen, CAD/CAM → Fertigung) wächst als dunkler Kreis aus dem Gelb und wird beim
+#   Scrollen Station für Station erzählt → Wertesystem als vier Viertel eines Rings → Smart Factory hinter einer
+#   Iris-Blende → 80 | 60 | 14 | 7 als Zählwerk. Bewegung: assets/js/systemfx.js; ohne JS steht alles einfach da.
+# Texte kommen aus den Blöcken der Sprachfassung, feste Wörter (Werte, Zahlen, Nabe) aus SYS_TEXTS, fehlende Stationstexte aus content/system.json.
+SYS_DE_PATH = "/das-system"
+SYS_VB = (-520, -430, 1040, 860)        # viewBox des Systemrings
+SYS_R1, SYS_R2, SYS_HUB = 228, 388, 92  # Solutions-Ring, Automation-Ring, Nabe z.One + TMS
+SYS_IO_Y = 37                           # Datenlinie CAD/CAM → Nabe → Fertigung (läuft zwischen den Stationen durch)
+SYS_DISC = {"r1": 96, "r2": 108, "io": 80}
+# Stationen: id, Hotspot im alten Bild (x, y – gleich in allen Sprachfassungen), Ort (r1/r2 = Ring + Winkel, io = Punkt),
+# Bild (assets/img/system, tools/system_assets.py) oder Symbol, Kapitel der Erzählung, deutsche Ziele der Links
+SYS_STATIONS = (
+    ("cad", (27, 39), "io", (-468, SYS_IO_Y - 104), "icon:cad", 1, ()),
+    ("cam", (39, 30), "io", (-468, SYS_IO_Y), "icon:cam", 1, ()),
+    ("idchip", (38, 59), "r1", -170, "idchip", 2, ("/solutions/werkzeugaufnahmen", TOOLING_DE_PATH)),
+    ("zidcode", (85, 71), "r1", -130, "zidcode", 2, ("/produkte/toolmanagement/zidcode",)),
+    ("toolmanagement", (72, 20), "r1", -90, "keeper", 2, ("/produkte/toolmanagement",)),
+    ("schrumpf", (87, 38), "r1", -50, "powershrink", 3, ("/solutions/schrumpftechnik", "/produkte/schrumpftechnik")),
+    ("wucht", (89, 55), "r1", -10, "toolbalancer", 3, ("/solutions/wuchttechnik", "/produkte/wuchttechnik")),
+    ("einstellen", (68, 69), "r1", 30, "venturion", 3, ("/solutions/einstellen-messen", "/produkte/einstellen-messen")),
+    ("bereitstellung", (38, 48), "r2", -150, "loadbox", 4, ("/solutions/automation", "/produkte/automation/werkzeugbereitstellung")),
+    ("vorbereitung", (57, 31), "r2", -30, "corameasure", 4, ("/solutions/automation", "/produkte/automation/werkzeugvorbereitung")),
+    ("logistik", (69, 45), "r2", 50, "coralogistic", 4, ("/solutions/automation", "/produkte/automation/werkzeuglogistik")),
+    ("inspektion", (56, 61), "r2", 130, "roboset", 4, ("/solutions/automation", "/produkte/automation/werkzeuginspektion")),
+    ("toolcart", (76, 33), "r1", 70, "toolcart", 5, ("/produkte/toolmanagement/smart-cabinets/toolcart",)),
+    ("fraesen", (75, 84), "io", (468, SYS_IO_Y - 104), "icon:machine", 5, ("/fraesen",)),
+    ("drehen", (85, 84), "io", (468, SYS_IO_Y), "icon:machine", 5, ("/drehen",)),
+    ("schleifen", (65, 85), "io", (468, SYS_IO_Y + 104), "icon:machine", 5, ("/werkzeuge-schleifen",)),
+    ("pruefen", (42, 78), "r1", 110, "genius", 6, ("/solutions/pruefen-messen", "/produkte/pruefen-messen")),
+    ("pom", (51, 21), "r1", 150, "pombasic", 6, ("/solutions/pruefen-messen", "/produkte/pruefen-messen/prozessorientertes-messen/pombasic")),
+)
+# Buttons, deren Ziel zoller.info beim Abruf verloren hat (»Ihre Vorteile«, »Mehr über Schnittstellen« stehen nur als Text da)
+SYS_ORPHAN = {"toolmanagement": ("/solutions/toolmanagement",), "cad": ("/solutions/toolmanagement",),
+              "cam": ("/produkte/toolmanagement/software/add-on-zcam-integration",)}
+# Beschriftung neben der Scheibe statt darunter (CAD/CAM und Maschinen stehen dicht übereinander)
+SYS_LABEL_SIDE = {"cad": "above", "cam": "below", "fraesen": "above", "drehen": "left", "schleifen": "below"}
+# Sprachfassungen, in denen zoller.info die Hotspots nicht geliefert hat: Texte aus einer Fassung derselben Sprache
+SYS_DONOR = {"at": "pages/das-system.json", "ca": "sites/en_DE/pages/the-system.json", "ca-fr": "sites/fr/pages/le-systeme.json"}
+SYS_ICONS = {
+    "cad": '<rect x="3" y="3.5" width="18" height="12.5" rx="1.6"/><path d="M9 20.5h6M12 16v4.5"/><path d="M12 6.4l3.4 1.9v3.9L12 14.1l-3.4-1.9V8.3zM8.6 8.3l3.4 1.9 3.4-1.9M12 10.2v3.9"/>',
+    "cam": '<rect x="3" y="3.5" width="18" height="12.5" rx="1.6"/><path d="M9 20.5h6M12 16v4.5"/><path d="M6.5 12.5V7.5h2.6v4h2.6v-4h2.6v4h2.6"/>',
+    "machine": '<rect x="2.8" y="4" width="18.4" height="15" rx="1.6"/><rect x="5.6" y="7" width="9.4" height="8.6" rx="1"/><path d="M18 7.6v2.2M18 12.2v2.2M2.8 21h18.4"/>',
+}
+SYS_ARROW = '<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 8h9M8.5 4.5 12 8l-3.5 3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>'
+# Feste Wörter der Seite je Sprache: vier Werte (wie im Einleitungstext der Sprachfassung), Beschriftung der vier Zahlen
+# (die vierte ist der Menütext »Solutions«), Satz zur Nabe (stand im alten Bild), CAD/CAM für Fassungen ohne Hotspots
+SYS_TEXTS = {
+    "de": {"values": ("Innovation", "Qualität", "Präzision", "Service"), "nums": ("Jahre Erfahrung", "Produkte", "Millionen Zeilen Code"),
+           "hub": "ZOLLER bietet mit einer zentralen Datenbank durchgängiges Toolmanagement von CAD/CAM bis zum fertigen Bauteil.",
+           "cad": "CAD-Konstruktion", "cam": "CAM-Fertigung"},
+    "en": {"values": ("Innovation", "Quality", "Precision", "Service"), "nums": ("years of experience", "products", "million lines of code"),
+           "hub": "With one central database, ZOLLER provides end-to-end tool management – from CAD/CAM to the finished part.",
+           "cad": "CAD Design", "cam": "CAM Manufacturing"},
+    "fr": {"values": ("Innovation", "Qualité", "Précision", "Service"), "nums": ("ans d’expérience", "produits", "millions de lignes de code"),
+           "hub": "Avec une base de données centrale, ZOLLER assure une gestion des outils continue – de la CAO/FAO jusqu’à la pièce finie.",
+           "cad": "Conception CAO", "cam": "Fabrication FAO"},
+    "es": {"values": ("Innovación", "Calidad", "Precisión", "Servicio"), "nums": ("años de experiencia", "productos", "millones de líneas de código"),
+           "hub": "Con una base de datos central, ZOLLER ofrece una gestión de herramientas integral: desde el CAD/CAM hasta la pieza terminada.",
+           "cad": "Diseño CAD", "cam": "Fabricación CAM"},
+    "it": {"values": ("Innovazione", "Qualità", "Precisione", "Assistenza"), "nums": ("anni di esperienza", "prodotti", "milioni di righe di codice"),
+           "hub": "Con un database centrale, ZOLLER offre una gestione utensili continua – dal CAD/CAM fino al pezzo finito.",
+           "cad": "Progettazione CAD", "cam": "Produzione CAM"},
+    "pt": {"values": ("Inovação", "Qualidade", "Precisão", "Serviço"), "nums": ("anos de experiência", "produtos", "milhões de linhas de código"),
+           "hub": "Com uma base de dados central, a ZOLLER oferece uma gestão de ferramentas integral – do CAD/CAM até à peça acabada.",
+           "cad": "Projeto CAD", "cam": "Fabrico CAM"},
+    "pt-BR": {"hub": "Com um banco de dados central, a ZOLLER oferece um gerenciamento de ferramentas integrado – do CAD/CAM até a peça pronta.",
+              "cam": "Fabricação CAM"},
+    "sv": {"values": ("Innovation", "Kvalitet", "Precision", "Service"), "nums": ("års erfarenhet", "produkter", "miljoner rader kod"),
+           "hub": "Med en central databas erbjuder ZOLLER heltäckande verktygshantering – från CAD/CAM till färdig detalj.",
+           "cad": "CAD-konstruktion", "cam": "CAM-tillverkning"},
+    "pl": {"values": ("Innowacyjność", "Jakość", "Precyzja", "Obsługa"), "nums": ("lat doświadczenia", "produktów", "mln linii kodu"),
+           "hub": "Dzięki centralnej bazie danych ZOLLER zapewnia kompleksowe zarządzanie narzędziami – od CAD/CAM aż po gotowy detal.",
+           "cad": "Konstrukcja CAD", "cam": "Produkcja CAM"},
+    "sl": {"values": ("Inovativnost", "Kakovost", "Natančnost", "Storitve"), "nums": ("let izkušenj", "izdelkov", "milijonov vrstic kode"),
+           "hub": "Z osrednjo podatkovno bazo ZOLLER zagotavlja celovito upravljanje orodij – od CAD/CAM do končnega izdelka.",
+           "cad": "Konstruiranje CAD", "cam": "Izdelava CAM"},
+    "cs": {"values": ("Inovace", "Kvalita", "Přesnost", "Servis"), "nums": ("let zkušeností", "produktů", "milionů řádků kódu"),
+           "hub": "Díky centrální databázi nabízí ZOLLER ucelenou správu nástrojů – od CAD/CAM až po hotový obrobek.",
+           "cad": "Konstrukce CAD", "cam": "Výroba CAM"},
+    "hu": {"values": ("Innováció", "Minőség", "Pontosság", "Szolgáltatás"), "nums": ("év tapasztalat", "termék", "millió sor programkód"),
+           "hub": "A ZOLLER egy központi adatbázissal teljes körű szerszámkezelést kínál – a CAD/CAM-től a kész munkadarabig.",
+           "cad": "CAD-tervezés", "cam": "CAM-gyártás"},
+    "sk": {"values": ("Inovácia", "Kvalita", "Presnosť", "Servis"), "nums": ("rokov skúseností", "produktov", "miliónov riadkov kódu"),
+           "hub": "Vďaka centrálnej databáze ponúka ZOLLER ucelenú správu nástrojov – od CAD/CAM až po hotový obrobok.",
+           "cad": "Konštrukcia CAD", "cam": "Výroba CAM"},
+    "zh": {"values": ("创新", "质量", "精度", "服务"), "nums": ("年经验", "款产品", "百万行代码"),
+           "hub": "ZOLLER 以一个中央数据库实现端到端的刀具管理——从 CAD/CAM 直到成品零件。",
+           "cad": "CAD 设计", "cam": "CAM 制造"},
+    "ja": {"values": ("革新", "品質", "精度", "サービス"), "nums": ("年の経験", "製品", "百万行のプログラムコード"),
+           "hub": "ZOLLERは一元化されたデータベースにより、CAD/CAMから完成部品まで一貫したツール管理を実現します。",
+           "cad": "CAD設計", "cam": "CAM加工"},
+    "ko": {"values": ("혁신", "품질", "정밀성", "서비스"), "nums": ("년의 경험", "개 제품", "백만 줄의 코드"),
+           "hub": "ZOLLER는 하나의 중앙 데이터베이스로 CAD/CAM부터 완성 부품까지 일관된 공구 관리를 제공합니다.",
+           "cad": "CAD 설계", "cam": "CAM 가공"},
+    "ru": {"values": ("Инновации", "Качество", "Точность", "Сервис"), "nums": ("лет опыта", "продуктов", "млн строк кода"),
+           "hub": "Благодаря единой центральной базе данных ZOLLER обеспечивает сквозное управление инструментом – от CAD/CAM до готовой детали.",
+           "cad": "Конструирование в CAD", "cam": "Производство с CAM"},
+    "tr": {"values": ("Yenilik", "Kalite", "Hassasiyet", "Hizmet"), "nums": ("yıllık deneyim", "ürün", "milyon satır kod"),
+           "hub": "ZOLLER, merkezi bir veri tabanıyla CAD/CAM'den bitmiş parçaya kadar kesintisiz takım yönetimi sunar.",
+           "cad": "CAD tasarımı", "cam": "CAM üretimi"},
+}
+
+
+def sys_t(key):
+    """Fester Text der Seite »Das System« in der Sprache der Fassung (Landesvariante vor Sprache, sonst Englisch)."""
+    for k in (LOC["code"], LANG, "en"):
+        if key in SYS_TEXTS.get(k, {}):
+            return SYS_TEXTS[k][key]
+    return SYS_TEXTS["de"][key]
+
+
+def sys_dash(r, n, w):
+    """stroke-dasharray für n gleichmäßige Striche der Breite w auf einem Kreis mit Radius r (Messskala)."""
+    c = 2 * math.pi * r
+    return f'stroke-dasharray="{w} {c / n - w:.3f}"'
+
+
+def sys_pos(st):
+    """Mittelpunkt einer Station im viewBox des Systemrings."""
+    where, a = st[2], st[3]
+    if where == "io":
+        return a
+    r = SYS_R1 if where == "r1" else SYS_R2
+    return (round(r * math.cos(math.radians(a)), 1), round(r * math.sin(math.radians(a)), 1))
+
+
+_SYS_OWN_FILE = os.path.join(ROOT, "content", "system.json")
+SYS_OWN = json.load(open(_SYS_OWN_FILE, encoding="utf-8")) if os.path.exists(_SYS_OWN_FILE) else {}
+
+
+def sys_spots(page):
+    """Hotspot-Texte je Station: {id: (Titel, HTML, Links oder None = Buttons im HTML)} – aus der eigenen Sprachfassung,
+    sonst aus content/system.json (Schweden, China), sonst aus einer Fassung derselben Sprache (SYS_DONOR, die Links
+    zeigen dann auf die deutschen Ziele in der eigenen Fassung), sonst nur Titel aus dem Menü."""
+    hs = next((b for b in page["blocks"] if b["type"] == "hotspots"), {})
+    key = lambda s: (round(s["x"]), round(s["y"]))
+    own = {key(s): s for s in hs.get("spots") or []}
+    out = {}
+    if own:
+        for st in SYS_STATIONS:
+            s = own.get(st[1])
+            if s:
+                out[st[0]] = (s["label"], s.get("text", ""), None)
+        return out
+    texts = SYS_OWN.get(LOC["src"])
+    if texts:
+        for st in SYS_STATIONS:
+            e = texts.get(st[0])
+            if e:
+                out[st[0]] = (e["label"], f'<p>{esc(e["text"])}</p>', [(L(d), lab) for lab, d in e.get("links", []) if L(d)])
+        return out
+    donor = {}
+    f = SYS_DONOR.get(LOC["src"])
+    if f and os.path.exists(os.path.join(ROOT, "content", f)):
+        d = json.load(open(os.path.join(ROOT, "content", f), encoding="utf-8"))
+        donor = {key(s): s for b in d["blocks"] if b["type"] == "hotspots" for s in b.get("spots") or []}
+    for st in SYS_STATIONS:
+        s = donor.get(st[1])
+        if s:
+            n = iter(range(len(st[6]) + 9))
+
+            def target(m, st=st, n=n):
+                k = next(n)
+                loc = L(st[6][k]) if k < len(st[6]) else None
+                return f'href="{esc(loc, quote=True)}"' if loc else 'href=""'
+            out[st[0]] = (s["label"], re.sub(r'(?<=<a class="btn" )href="[^"]*"', target, s["text"]), None)
+            continue
+        label = local_title(st[6][0]) if st[6] else sys_t(st[0])
+        if label:
+            out[st[0]] = (label, "", [(L(d), _("Mehr erfahren")) for d in st[6][:1] if L(d)])
+    return out
+
+
+def sys_card(ctx, st, label, text, links, num):
+    """Karte einer Station in der Erzählung neben dem Systemring: Titel, Text, Links als ruhige Textlinks."""
+    body = ctx.rewrite(re.sub(r"<h3[^>]*>.*?</h3>", "", text or "", flags=re.S))
+    orphans = []   # Button-Beschriftungen ohne Link (Ziel aus SYS_ORPHAN)
+    if links is None:   # Links stehen als Buttons im Hotspot-Text
+        links = []
+        for p in re.findall(r"<p[^>]*>(?:(?!</p>).)*<a [^>]*class=\"btn\".*?</p>", body, re.S):
+            for href, lab in re.findall(r'<a [^>]*href="([^"]+)"[^>]*>(.*?)</a>', p, re.S):
+                links.append((html.unescape(href), strip_tags(lab)))
+            rest = strip_tags(re.sub(r"<a .*?</a>", "", p, flags=re.S)).strip(" –-")
+            if rest:
+                orphans.append(rest)
+            body = body.replace(p, "")
+    else:
+        links = [(ctx.url(h), lab) for h, lab in links]
+    paras = [x.strip() for x in re.findall(r"<p[^>]*>(.*?)</p>", body, re.S) if strip_tags(x)]
+    while len(paras) > 1 and len(strip_tags(paras[-1])) < 48 and not re.search(r"[.!?。！？]$", strip_tags(paras[-1])):
+        orphans.insert(0, strip_tags(paras.pop()))
+    targets = [L(d) for d in SYS_ORPHAN.get(st[0], ())]
+    links = [(ctx.url(t), o) for o, t in zip(orphans, targets) if t] + links
+    paras = "".join(f"<p>{x}</p>" for x in paras)
+    seen, lk = set(), []
+    for href, lab in links:
+        if href in seen:
+            continue
+        seen.add(href)
+        ext = ' target="_blank" rel="noopener"' if href.startswith("http") else ""
+        lk.append(f'<a class="sys-link" href="{esc(href, quote=True)}"{ext}><span>{esc(lab)}</span>{SYS_ARROW}</a>')
+    links_html = f'<p class="sys-card__links">{"".join(lk)}</p>' if lk else ""
+    return (f'<article class="sys-card" id="sys-{st[0]}" data-st="{st[0]}"><h3 class="sys-card__title">'
+            f'<span class="sys-card__num" aria-hidden="true">{num}</span>{esc(label)}</h3>{paras}{links_html}</article>')
+
+
+def sys_hero(ctx, b):
+    s0 = next((s for s in b.get("slides", []) if s.get("title")), {})
+    title = s0.get("title", "")
+    text = s0.get("text", "")
+    long = len(title) > 38
+    # 18 Stationen als Punkte auf dem Messring, Lichtpunkt läuft um (Vorgeschmack auf den Systemring)
+    dots = "".join(f'<circle class="sys-hero__dot" r="5" cx="{400 * math.cos(math.radians(a)):.1f}" cy="{400 * math.sin(math.radians(a)):.1f}" style="--i:{i}"/>'
+                   for i, a in enumerate(range(-90, 270, 20)))
+    return f'''<section class="sys sys-hero" data-sys="hero">
+  <div class="sys-hero__stage">
+    <div class="sys-hero__ringbox" aria-hidden="true">
+      <svg class="sys-hero__ring" viewBox="-500 -500 1000 1000">
+        <defs><radialGradient id="sys-halo"><stop offset="0" stop-color="#fff"/><stop offset=".18" stop-color="#f0e600"/><stop offset=".45" stop-color="#f0e600" stop-opacity=".35"/><stop offset="1" stop-color="#f0e600" stop-opacity="0"/></radialGradient></defs>
+        <circle class="sys-hero__inner" r="250"/>
+        <circle class="sys-hero__track" r="400"/>
+        <circle class="sys-hero__ticks" r="410" {sys_dash(410, 180, 2)}/>
+        <circle class="sys-hero__major" r="416" {sys_dash(416, 36, 3)}/>
+        {dots}
+        <g class="sys-hero__runner"><circle class="sys-hero__trail" r="400" transform="rotate(-140)" stroke-dasharray="{2 * math.pi * 400 * 50 / 360:.1f} 3000"/>
+          <circle class="sys-hero__halo" cy="-400" r="46"/><circle class="sys-hero__light" cy="-400" r="9"/></g>
+        <circle class="sys-hero__core" r="{SYS_HUB}"/>
+      </svg>
+    </div>
+    <div class="sys-hero__fill" aria-hidden="true"></div>
+    <div class="wrap sys-hero__copy">
+      <h1 class="hero__title sys-hero__title{" sys-hero__title--long" if long else ""}">{esc(title)}</h1>
+      {rte(ctx, text, "sys-hero__text")}
+    </div>
+  </div>
+</section>'''
+
+
+def sys_statement(ctx, b):
+    tm = b
+    if b["type"] == "cols":
+        tm = next((x for col in b.get("columns", []) for x in col if x.get("type") == "textmedia"), {})
+    head = strip_tags(tm.get("header", ""))
+    paras = [p.strip() for p in re.findall(r"<p[^>]*>(.*?)</p>", ctx.rewrite(tm.get("body", "")), re.S) if strip_tags(p)]
+    if not paras:
+        return render_block(ctx, b)
+    lead, rest = paras[0], paras[1:]
+    cols = "".join(f'<p data-reveal style="--d:{i * 0.1}s">{p}</p>' for i, p in enumerate(rest))
+    return f'''<section class="sys sys-statement" data-sys="statement">
+  <div class="wrap">
+    <h2 class="sys-statement__title" data-reveal>{esc(head)}</h2>
+    <p class="sys-statement__lead" data-words>{lead}</p>
+    {f'<div class="sys-statement__cols">{cols}</div>' if cols else ""}
+  </div>
+</section>'''
+
+
+def sys_map(ctx, page):
+    """Systemring statt des alten Hotspot-Bilds: links (Hochformat: oben) klebt der Ring, daneben läuft die Erzählung
+    in sechs Kapiteln; jedes Kapitel hebt seine Stationen hervor und schickt Datenpunkte über die Leitungen."""
+    spots = sys_spots(page)
+    vx, vy, vw, vh = SYS_VB
+    pct = lambda x, y: (f"{(x - vx) / vw * 100:.3f}%", f"{(y - vy) / vh * 100:.3f}%")
+    svg, nodes, phases = [], [], {}
+    hub = SYS_HUB
+    # Ringe mit Messskala
+    svg.append(f'<circle class="sys-ring sys-ring--r2" r="{SYS_R2}"/><circle class="sys-ring__ticks" r="{SYS_R2 + 14}" {sys_dash(SYS_R2 + 14, 180, 1.6)}/>'
+               f'<circle class="sys-ring__major" r="{SYS_R2 + 17}" {sys_dash(SYS_R2 + 17, 24, 2.4)}/><circle class="sys-ring sys-ring--r1" r="{SYS_R1}"/>')
+    # Leitungen: Nabe → Ring-Stationen (Speichen), CAD → CAM → Nabe → Fertigung
+    io_x = math.sqrt(hub * hub - SYS_IO_Y * SYS_IO_Y)
+    d_in = SYS_DISC["io"] / 2
+    paths = {
+        "cad": f"M-468 {SYS_IO_Y - 104 + d_in:.1f}V{SYS_IO_Y - d_in:.1f}",
+        "cam": f"M{-468 + d_in:.1f} {SYS_IO_Y}H{-io_x:.1f}",
+        "drehen": f"M{io_x:.1f} {SYS_IO_Y}H{468 - d_in:.1f}",
+        "fraesen": f"M{io_x:.1f} {SYS_IO_Y}H380Q404 {SYS_IO_Y} 404 {SYS_IO_Y - 24}V{SYS_IO_Y - 80}Q404 {SYS_IO_Y - 104} 428 {SYS_IO_Y - 104}",
+        "schleifen": f"M{io_x:.1f} {SYS_IO_Y}H380Q404 {SYS_IO_Y} 404 {SYS_IO_Y + 24}V{SYS_IO_Y + 80}Q404 {SYS_IO_Y + 104} 428 {SYS_IO_Y + 104}",
+    }
+    for st in SYS_STATIONS:
+        if st[2] in ("r1", "r2"):
+            a = math.radians(st[3])
+            r_end = (SYS_R1 if st[2] == "r1" else SYS_R2) - SYS_DISC[st[2]] / 2
+            paths[st[0]] = f"M{hub * math.cos(a):.1f} {hub * math.sin(a):.1f}L{r_end * math.cos(a):.1f} {r_end * math.sin(a):.1f}"
+    for sid, d in paths.items():
+        kind = next(s[2] for s in SYS_STATIONS if s[0] == sid)
+        svg.append(f'<path class="sys-line sys-line--{kind}" data-st="{sid}" d="{d}"/>')
+    svg.append('<g class="sys-packets"></g>')
+    svg.append(f'<g class="sys-hub"><circle class="sys-hub__halo" r="{hub + 30}"/><circle class="sys-hub__ticks" r="{hub + 13}" {sys_dash(hub + 13, 60, 1.6)}/>'
+               f'<circle class="sys-hub__disc" r="{hub}"/><text class="sys-hub__t1" y="2">z.One</text><text class="sys-hub__t2" y="36">+ TMS</text></g>')
+    for st in SYS_STATIONS:
+        sid, where, img, ph = st[0], st[2], st[4], st[5]
+        if sid not in spots:
+            continue
+        label, text, links = spots[sid]
+        x, y = sys_pos(st)
+        left, top = pct(x, y)
+        size = f"{SYS_DISC[where] / vw * 100:.3f}%"
+        side = SYS_LABEL_SIDE.get(sid) or ("above" if y < -60 else "below")
+        if img.startswith("icon:"):
+            disc = f'<svg viewBox="0 0 24 24" aria-hidden="true">{SYS_ICONS[img[5:]]}</svg>'
+        else:
+            disc = f'<img src="{ctx.prefix}assets/img/system/{img}.webp?v={ASSET_VER}" alt="" width="360" height="360" decoding="async" fetchpriority="low">'
+        nodes.append(f'<a class="sys-st sys-st--{where} sys-st--{side}" href="#sys-{sid}" aria-label="{esc(label, quote=True)}" data-st="{sid}" data-phase="{ph}" '
+                     f'style="--x:{left};--y:{top};--s:{size}"><span class="sys-st__disc">{disc}</span>'
+                     f'<span class="sys-st__label">{esc(label)}</span></a>')
+        n = sum(1 for p in phases.values() for _c in p) + 1
+        phases.setdefault(ph, []).append(sys_card(ctx, st, label, text, links, f"{n:02d}"))
+    story = [f'<div class="sys-phase sys-phase--intro" data-phase="0"><p class="sys-phase__kicker">ZOLLER Solutions · Connected Data</p>'
+             f'<h2 class="sys-phase__title" id="sys-map-title">z.One + TMS</h2>'
+             f'<p class="sys-phase__lead">{esc(sys_t("hub"))}</p></div>']
+    for ph in sorted(phases):
+        story.append(f'<div class="sys-phase" data-phase="{ph}">{"".join(phases[ph])}</div>')
+    legend = ('<p class="sys-map__legend" aria-hidden="true"><span class="is-r1">ZOLLER Solutions – Connected Data</span>'
+              '<span class="is-r2">ZOLLER Automation</span></p>')
+    return f'''<section class="sys sys-map" data-sys="map" aria-labelledby="sys-map-title">
+  <i class="sys-map__veil" aria-hidden="true"></i>
+  <div class="sys-map__grid">
+    <div class="sys-map__stage">
+      <div class="sys-map__board">
+        <svg class="sys-map__svg" viewBox="{vx} {vy} {vw} {vh}" aria-hidden="true">{"".join(svg)}</svg>
+        {"".join(nodes)}
+      </div>
+      {legend}
+    </div>
+    <div class="sys-map__story">{"".join(story)}</div>
+  </div>
+</section>'''
+
+
+def sys_values(ctx, intro, b):
+    """Wertesystem: vier Werte als vier Viertel eines Messrings (zusammen ein Kreis) statt Bildern mit Text."""
+    head = ""
+    if intro:
+        h = strip_tags(re.sub(r"</?h[1-6][^>]*>", "", intro.get("header", "")))
+        head = (f'<div class="sys-values__head"><h2 class="sys-values__title" data-reveal>{esc(h)}</h2>'
+                f'<div class="sys-values__intro" data-reveal style="--d:.1s">{rte(ctx, intro.get("body", ""))}</div></div>')
+    tiles = []
+    for i, t in enumerate((b.get("tiles") or [])[:4]):
+        word = sys_t("values")[i]
+        a0, q = -90 + 90 * i, 2 * math.pi * 96 / 4
+        # Viertel i des Rings (Innovation oben rechts, dann im Uhrzeigersinn); ohne JS fertig gezeichnet
+        tiles.append(f'''<article class="sys-value" style="--q:{i}" data-a0="{a0}">
+  <div class="sys-value__dial">
+    <svg viewBox="-120 -120 240 240" aria-hidden="true">
+      <circle class="sys-value__track" r="96"/><circle class="sys-value__ticks" r="105" {sys_dash(105, 120, 1.4)}/>
+      <g transform="rotate({a0})"><circle class="sys-value__arc" r="96" stroke-dasharray="{q:.2f} 700" stroke-dashoffset="0"/></g>
+      <g class="sys-value__dotg" transform="rotate({a0 + 90})"><circle class="sys-value__dot" cx="96" cy="0" r="8"/></g>
+    </svg>
+    <h3 class="sys-value__word">{esc(word)}</h3>
+  </div>
+  <div class="sys-value__text">{ctx.rewrite(t.get("text", ""))}</div>
+</article>''')
+    return f'''<section class="sys sys-values" data-sys="values">
+  <div class="wrap">{head}<div class="sys-values__grid">{"".join(tiles)}</div></div>
+</section>'''
+
+
+def sys_iris(ctx, b):
+    """Smart Factory hinter einer Iris-Blende: das Bild öffnet sich als Kreis aus dem Schwarz der Werte, die Karte
+    mit dem Text gleitet danach darüber."""
+    im = (b.get("images") or [None])[0]
+    return f'''<section class="sys sys-iris" data-sys="iris">
+  <div class="sys-iris__stage">
+    <div class="sys-iris__media">{img_tag(ctx, im, alt="")}</div>
+    <svg class="sys-iris__ring" aria-hidden="true"><circle class="sys-iris__ticks"/><circle class="sys-iris__quad"/></svg>
+  </div>
+  <div class="wrap sys-iris__content"><div class="sys-iris__card" data-reveal>{ctx.rewrite(b.get("header", ""))}{rte(ctx, b.get("body", ""))}</div></div>
+</section>'''
+
+
+def sys_numbers(ctx, b):
+    """80 | 60 | 14 | 7 als großes Zählwerk mit Beschriftung (Zahlen aus dem Text der Sprachfassung)."""
+    body = b.get("body", "")
+    m = re.search(r"(\d+)\s*\|\s*(\d+)\s*\|\s*(\d+)\s*\|\s*(\d+)", strip_tags(body))
+    vals = m.groups() if m else ("80", "60", "14", "7")
+    sol = next((n["label"] for n in NAV["main"] if n["href"].rstrip("/").endswith("/solutions")), "Solutions")
+    labels = list(sys_t("nums")) + [sol]
+    nums = "".join(f'<div class="sys-num" data-reveal style="--d:{i * 0.08}s"><span class="sys-num__v" data-count>{v}</span>'
+                   f'<span class="sys-num__l">{esc(labels[i])}</span></div>' for i, v in enumerate(vals))
+    head = ctx.rewrite(re.sub(r"<h1", "<h2", re.sub(r"</h1>", "</h2>", b.get("header", ""))))
+    return f'''<section class="sys sys-nums" data-sys="nums">
+  <div class="wrap">
+    <div class="sys-nums__head" data-reveal>{head}</div>
+    <div class="sys-nums__row">{nums}</div>
+    <div class="sys-nums__text" data-reveal>{rte(ctx, body)}</div>
+  </div>
+</section>'''
+
+
+def sys_teasers(ctx, blocks):
+    """Produkt-Teaser nach dem Wertesystem als Kartenpaar (Bild, Titel, Text, Link) – weißes Blatt über dem Schwarz."""
+    cards = []
+    for i, b in enumerate(blocks):
+        head = ctx.rewrite(re.sub(r"<(/?)h[1-6]", r"<\1h3", b.get("header", "")))
+        cards.append(f'<article class="sys-teaser" data-reveal style="--d:{i * 0.1}s"><div class="sys-teaser__media">'
+                     f'{img_tag(ctx, (b.get("images") or [None])[0], alt="")}</div><div class="sys-teaser__body">{head}{rte(ctx, b.get("body", ""))}</div></article>')
+    return f'''<section class="sys sys-teasers" data-sys="teasers">
+  <div class="wrap"><div class="sys-teasers__grid">{"".join(cards)}</div></div>
+</section>'''
+
+
+def render_system(ctx, page):
+    """Seite »Das System«: Blöcke der Sprachfassung in der neuen Reihenfolge; Unbekanntes bleibt als normaler Block."""
+    blocks = list(page["blocks"])
+    used = set()
+
+    def take(pred):
+        for i, b in enumerate(blocks):
+            if i not in used and pred(b):
+                used.add(i)
+                return b
+        return None
+    hero = take(lambda b: b["type"] == "hero")
+    statement = take(lambda b: b["type"] in ("cols", "textmedia") and (b.get("bg") == "yellow" or "extra-large-text" in json.dumps(b)))
+    take(lambda b: b["type"] == "hotspots")
+    vi = next((i for i, b in enumerate(blocks) if b["type"] == "values"), None)
+    values = blocks[vi] if vi is not None else None
+    intro = blocks[vi - 1] if vi and blocks[vi - 1]["type"] == "textmedia" and vi - 1 not in used else None
+    for b in (values, intro):
+        if b is not None:
+            used.add(blocks.index(b))
+    nums = take(lambda b: b["type"] == "textmedia" and re.search(r"\d+\s*\|\s*\d+\s*\|\s*\d+\s*\|\s*\d+", strip_tags(b.get("body", ""))))
+    is_sf = lambda b: (b["type"] == "textmedia" and b.get("images") and
+                       ("smartfactory" in json.dumps(b.get("images")).lower().replace("_", "")
+                        or any(de_of(h) == "/unternehmen/kontakt/smart-factory" for h in re.findall(r'href="([^"]+)"', b.get("body", "")))))
+    iris = take(is_sf)
+    teasers = []
+    while True:   # Produkt-Teaser einiger Sprachfassungen (»toolBalancer«, »powerShrink«) statt Smart Factory und Zahlen
+        t = take(lambda b: b["type"] == "textmedia" and b.get("images") and b.get("header"))
+        if not t:
+            break
+        teasers.append(t)
+    ctx.has_system = True
+    parts = [sys_hero(ctx, hero) if hero else "", sys_statement(ctx, statement) if statement else "", sys_map(ctx, page)]
+    if values:
+        parts.append(sys_values(ctx, intro, values))
+    if iris:
+        parts.append(sys_iris(ctx, iris))
+    if nums:
+        parts.append(sys_numbers(ctx, nums))
+    if teasers:
+        parts.append(sys_teasers(ctx, teasers))
+    parts += [render_block(ctx, b) for i, b in enumerate(blocks) if i not in used]
+    return "\n".join(p for p in parts if p)
+
+
 def homefilm(ctx, hero, sub, p1, p2):
     """Startseite oben: Kamerafahrt durch einen Werkzeugraum, die Geräte links und rechts in der Reihenfolge des
     Werkzeugkreislaufs (Video aus video/home-hero, assets/js/homefilm.js). Drei Text-Panels wechseln beim Scrollen."""
@@ -2692,9 +3143,12 @@ def render_page(page):
     ctx.has_traycalc = False
     ctx.has_toolfinder = False
     ctx.has_ar = False
+    ctx.has_system = False
     is_home = page["path"] == HOME
     if is_home:
         body = render_home(ctx, page)
+    elif de_of(page["path"]) == SYS_DE_PATH and any(b["type"] == "values" for b in page["blocks"]):
+        body = render_system(ctx, page)
     else:
         blocks = page["blocks"]
         # Hintergrund-Folgen markieren
@@ -2753,7 +3207,7 @@ def render_page(page):
     full_title = f"{title} | ZOLLER" if "ZOLLER" not in title else title
     desc = page.get("description") or ""
     og = ctx.url(page.get("og_image") or "") if page.get("og_image") else ""
-    body_cls = "page-home" if is_home else ("page-product" if ctx.has_subnav else "page")
+    body_cls = "page-home" if is_home else ("page-product" if ctx.has_subnav else ("page page-system" if ctx.has_system else "page"))
     # Gleiche Seite in den anderen Ländern/Sprachen (hreflang) und kanonische Adresse
     alts = ALT.get(de_of(page["path"]), {}) if page["path"] != "/404" else {}
     own = alts.get((SITE_ID, LOC["code"]))
@@ -2801,6 +3255,9 @@ try{{var za=JSON.parse(sessionStorage.getItem('zoller-arrive')||'null');sessionS
     if ctx.has_zoom:
         scripts += f'''
 <script src="{ctx.prefix}assets/js/zoomfx.js?v={ASSET_VER}" defer></script>'''
+    if ctx.has_system:
+        scripts += f'''
+<script src="{ctx.prefix}assets/js/systemfx.js?v={ASSET_VER}" defer></script>'''
     if ctx.has_traycalc:
         scripts += f'''
 <script src="{ctx.prefix}assets/js/traycalc.js?v={ASSET_VER}" defer></script>'''
