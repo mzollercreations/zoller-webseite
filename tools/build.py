@@ -187,7 +187,7 @@ def _asset_version():
     h = hashlib.md5()
     for rel in ("assets/css/main.css", "assets/js/main.js", "assets/js/scrollfx.js", "assets/js/homefilm.js", "assets/js/productstage.js",
                 "assets/js/worldflight.js", "assets/js/world.js", "assets/js/eventagenda.js", "assets/js/zoomfx.js", "assets/js/systemfx.js",
-                "assets/js/globe.js", "assets/js/globe-land.js", "assets/js/traycalc.js", "assets/js/toolfinder.js", "assets/js/arview.js", "assets/js/currency.js",
+                "assets/js/globe.js", "assets/js/globe-land.js", "assets/js/traycalc.js", "assets/js/toolconfig.js", "assets/js/toolfinder.js", "assets/js/arview.js", "assets/js/currency.js",
                 "content/ar_models.json"):
         if not os.path.exists(os.path.join(ROOT, rel)):
             continue
@@ -1851,7 +1851,7 @@ def r_traycalc(ctx, b):
     # Handy: kurze Ergebniszeile, die beim Einstellen am unteren Rand mitläuft (das große Ergebnis steht unter dem Formular)
     bar = (f'<div class="traycalc__bar" aria-hidden="true"><span>{esc(t["k_trays"])}: {esc(t["approx"])} <b data-bar="trays">–</b></span>'
            f'<span>{esc(t["k_tools"])}: {esc(t["upto"])} <b data-bar="tools">–</b></span></div>')
-    return section(ctx, b, head + f'<div class="traycalc" data-traycalc=\'{esc(json.dumps(cfg, ensure_ascii=False), quote=False)}\'>'
+    return section(ctx, b, head + f'<div class="traycalc" data-traycalc=\'{esc(json.dumps(cfg, ensure_ascii=False), quote=True)}\'>'
                    f'{form}{bar}{out}</div>{how}')
 
 
@@ -1885,7 +1885,105 @@ def r_toolfinder(ctx, b):
            f'<p class="toolfinder__note">{esc(t.get("note", ""))}</p></div>')
     cfg = {"shop": base, "all_cats": t.get("all_cats", ""), "all_ifaces": t.get("all_ifaces", ""), "s2_none": t.get("s2_none", "")}
     head = f'<div class="section-head" data-reveal>{ctx.rewrite(b.get("header", ""))}{rte(ctx, b.get("intro", ""))}</div>'
-    return section(ctx, b, head + f'<div class="toolfinder" data-toolfinder=\'{esc(json.dumps(cfg, ensure_ascii=False), quote=False)}\'>{form}{out}</div>')
+    return section(ctx, b, head + f'<div class="toolfinder" data-toolfinder=\'{esc(json.dumps(cfg, ensure_ascii=False), quote=True)}\'>{form}{out}</div>')
+
+
+TCFG_HEIGHTS = ((600, 875), (900, 1175), (1225, 1500))     # Nutzhöhe -> Schrankhöhe (Flyer »toolOrganizer«, Version 13)
+TCFG_CTRL = ("desk", "cockpit", "tms", "device", "other", "none")
+TCFG_CTRL_IMG = {"desk": "desk", "cockpit": "cockpit", "tms": "tms"}
+TCFG_ICON = {   # Strichsymbole für die Ansteuerungen ohne Foto
+    "device": '<path d="M7 42h34M12 42V30h24v12M20 30V8h8v22M20 14h-6v6h6"/>',
+    "other": '<rect x="10" y="6" width="28" height="36" rx="3"/><path d="M14 14h20M14 21h20M14 28h20M14 35h20"/>',
+    "none": '<rect x="12" y="21" width="24" height="19" rx="3"/><path d="M17 21v-6a7 7 0 0 1 14 0v6M24 28v5"/>',
+}
+
+
+def r_toolconfig(ctx, b):
+    """»toolOrganizer«: Konfigurator (assets/js/toolconfig.js) nach dem Flyer »toolOrganizer« (Version 13, 2024-08):
+    1 Nutzhöhe, 2 Ansteuerung, 3 Ausführung, 4 Schubladenhöhen, 5 Einteilung, dazu Vorderansicht, Draufsicht der
+    Schublade, Stückliste mit Artikelnummern und Anfrage per E-Mail. Texte im Block (content/toolorganizer.json)."""
+    ctx.has_toolconfig = True
+    t = b.get("t", {})
+    uid = ctx.next_id("tcfg")
+    num = lambda v: f"{v:,}".replace(",", t.get("sep", "."))
+    img = lambda name: f'{ctx.prefix}assets/img/toolorganizer/{name}.webp?v={ASSET_VER}'
+
+    def step(no, key, inner, extra=""):
+        return (f'<fieldset class="tcfg__step" data-step="{no}"{extra}><legend><span class="tcfg__no" aria-hidden="true">{no}</span>'
+                f'{esc(t[key])}</legend>{inner}</fieldset>')
+
+    def mini(nutz, total):   # kleiner Schrank, maßstäblich zur größten Ausführung
+        s = 56 / 1500
+        h, n = total * s, int(nutz / 100)
+        y0 = 56 - h
+        rows = "".join(f'<rect x="5" y="{y0 + 4.2 + i * (nutz * s / n):.1f}" width="20" height="{nutz * s / n - 1:.1f}" rx=".6"/>'
+                       for i in range(n))
+        return (f'<svg class="tcfg__mini" viewBox="0 0 30 56" aria-hidden="true"><rect class="tcfg__mini-body" x="2" y="{y0:.1f}" '
+                f'width="26" height="{h:.1f}" rx="2"/><g class="tcfg__mini-dr">{rows}</g></svg>')
+
+    heights = "".join(
+        f'<label class="tcfg__hcard"><input type="radio" name="{uid}-H" value="{n}"{" checked" if n == 900 else ""}>'
+        f'<span class="tcfg__hcard-in">{mini(n, H)}<b><span data-n="{n}">{num(n)}</span> <small>{esc(t["u_mm"])}</small></b>'
+        f'<span data-cab="{H}">{esc(t["s1_cab"].replace("{H}", num(H)))}</span></span></label>' for n, H in TCFG_HEIGHTS)
+    s1 = step(1, "s1", f'<div class="tcfg__hcards">{heights}</div><p class="tcfg__hint">{esc(t["s1_hint"])}</p>')
+
+    def ctrl(key):
+        thumb = (f'<img src="{img(TCFG_CTRL_IMG[key])}" alt="" width="64" height="48" loading="lazy" decoding="async">'
+                 if key in TCFG_CTRL_IMG else
+                 f'<svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" '
+                 f'stroke-linejoin="round" aria-hidden="true">{TCFG_ICON[key]}</svg>')
+        return (f'<label class="tcfg__opt"><input type="radio" name="{uid}-ctrl" value="{key}"{" checked" if key == "desk" else ""}>'
+                f'<span class="tcfg__opt-in"><span class="tcfg__thumb">{thumb}</span><span class="tcfg__opt-txt">'
+                f'<b>{ctx.rewrite(t["c_" + key])}</b><span>{ctx.rewrite(t["c_" + key + "_d"])}</span></span></span></label>')
+    s2 = step(2, "s2", f'<div class="tcfg__opts">{"".join(ctrl(k) for k in TCFG_CTRL)}</div><p class="tcfg__hint">{esc(t["s2_hint"])}</p>')
+
+    def execc(key, name):
+        return (f'<label class="tcfg__xcard"><input type="radio" name="{uid}-exec" value="{key}"{" checked" if key == "e" else ""}>'
+                f'<span class="tcfg__xcard-in"><span class="tcfg__xcard-img"><img src="{img(name)}" alt="" loading="lazy" decoding="async"></span>'
+                f'<span class="tcfg__xcard-txt"><small>{esc(t["x_mech_k" if key == "m" else "x_elec_k"])}</small>'
+                f'<b>{ctx.rewrite(t["x_" + name])}</b><span>{ctx.rewrite(t["x_" + name + "_d"])}</span></span></span></label>')
+    s3 = step(3, "s3", f'<div class="tcfg__xcards">{execc("m", "mech")}{execc("e", "elec")}{execc("f", "fach")}</div>'
+                       f'<p class="tcfg__hint" data-out="mixed" hidden></p>')
+
+    s4 = step(4, "s4", f'<div class="tcfg__meter" aria-hidden="true"><div class="tcfg__meter-bar" data-out="meter"></div></div>'
+                       f'<p class="tcfg__meter-txt" data-out="meter-txt"></p>'
+                       f'<div class="tcfg__add"><span class="tcfg__label">{esc(t["add"])}</span><div class="tcfg__chips" data-out="add"></div></div>'
+                       f'<div class="tcfg__tools"><button type="button" class="tcfg__tool" data-act="fill">{esc(t["fill"])}</button>'
+                       f'<button type="button" class="tcfg__tool" data-act="preset">{esc(t["preset"])}</button>'
+                       f'<button type="button" class="tcfg__tool" data-act="clear">{esc(t["clear"])}</button></div>'
+                       f'<ol class="tcfg__list" data-out="list"></ol><p class="tcfg__hint">{esc(t["s4_hint"])}</p>')
+    s5 = step(5, "s5", '<div data-out="div"></div>')
+    form = f'<form class="tcfg__form" novalidate>{s1}{s2}{s3}{s4}{s5}</form>'
+
+    kpi = lambda key, cls="": (f'<div class="tcfg__kpi{cls}"><b data-out="k-{key}">–</b>'
+                                f'<span>{esc(t["k_" + key])}</span></div>')
+    out = (f'<aside class="tcfg__out" aria-label="{esc(t["out_label"], quote=True)}">'
+           f'<div class="tcfg__kpis">{kpi("comp", " tcfg__kpi--main")}{kpi("drawers")}{kpi("height")}</div>'
+           f'<p class="tcfg__status" data-out="status" aria-live="polite"></p>'
+           f'<div class="tcfg__figs"><figure class="tcfg__fig tcfg__fig--front"><svg class="tcfg__svg" data-out="front" role="img" '
+           f'aria-label="{esc(t["svg_front"], quote=True)}"></svg><figcaption data-out="front-cap"></figcaption></figure>'
+           f'<figure class="tcfg__fig tcfg__fig--top"><svg class="tcfg__svg" data-out="top" role="img" '
+           f'aria-label="{esc(t["svg_top"], quote=True)}"></svg><figcaption data-out="top-cap"></figcaption></figure></div>'
+           f'<a class="btn" data-out="mail" href="mailto:{esc(SITE["company"]["email"], quote=True)}">{esc(t["cta"])}</a></aside>')
+    bar = (f'<div class="tcfg__bar" aria-hidden="true"><svg class="tcfg__barcab" data-out="barcab" viewBox="0 0 30 56"></svg>'
+           f'<span data-out="bar"></span></div>')
+    summary = (f'<div class="tcfg__sum"><div class="tcfg__sum-head"><h3>{esc(t["sum_t"])}</h3>'
+               f'<p data-out="sum-sub"></p></div><div class="tcfg__table-wrap"><table class="tcfg__table"><thead><tr>'
+               f'<th scope="col">{esc(t["col_qty"])}</th><th scope="col">{esc(t["col_item"])}</th><th scope="col">{esc(t["col_art"])}</th>'
+               f'</tr></thead><tbody data-out="parts"></tbody></table></div>'
+               f'<p class="tcfg__note">{ctx.rewrite(t["note"])}</p>'
+               f'<div class="tcfg__acts"><a class="btn" data-out="mail2" href="mailto:{esc(SITE["company"]["email"], quote=True)}">{esc(t["cta"])}</a>'
+               f'<button type="button" class="btn btn--ghost" data-act="print">{esc(t["print"])}</button>'
+               f'<button type="button" class="btn btn--ghost" data-act="share">{esc(t["share"])}</button></div></div>')
+    how = "".join(f"<li>{ctx.rewrite(x)}</li>" for x in t.get("how", []))
+    how = (f'<div class="accordion tcfg__how"><details><summary>{esc(t["how_t"])}<span class="acc-icon" aria-hidden="true"></span></summary>'
+           f'<div class="accordion__body rte"><ul>{how}</ul></div></details></div>') if how else ""
+    cfg = {"mail": SITE["company"]["email"], "flyer": b.get("flyer", ""),
+           "t": {k: v for k, v in t.items() if k not in ("how", "how_t", "note")}}
+    head = f'<div class="section-head" data-reveal>{ctx.rewrite(b.get("header", ""))}{rte(ctx, b.get("intro", ""))}</div>'
+    noscript = f'<noscript><p class="tcfg__hint">{esc(t["nojs"])}</p></noscript>'
+    return section(ctx, b, head + noscript + f'<div class="tcfg" data-tcfg=\'{esc(json.dumps(cfg, ensure_ascii=False), quote=True)}\'>'
+                   f'{form}{bar}{out}</div>{summary}{how}')
 
 
 def r_steps(ctx, b):
@@ -1916,7 +2014,7 @@ RENDER = {
     "locations": r_locations, "events": r_events, "academy": r_academy, "search": r_search,
     "event_hero": r_event_hero, "event_facts": r_event_facts, "event_video": r_event_video, "event_products": r_event_products,
     "agenda": r_agenda, "event_venue": r_event_venue, "event_teaser": r_event_teaser, "events_world": r_events_world, "event_detail": r_event_detail,
-    "article": r_article, "traycalc": r_traycalc, "ar": r_ar, "toolfinder": r_toolfinder, "steps": r_steps, "raw": r_raw,
+    "article": r_article, "traycalc": r_traycalc, "toolconfig": r_toolconfig, "ar": r_ar, "toolfinder": r_toolfinder, "steps": r_steps, "raw": r_raw,
 }
 
 
@@ -3141,6 +3239,7 @@ def render_page(page):
     ctx.has_globe = False
     ctx.has_zoom = False
     ctx.has_traycalc = False
+    ctx.has_toolconfig = False
     ctx.has_toolfinder = False
     ctx.has_ar = False
     ctx.has_system = False
@@ -3261,6 +3360,9 @@ try{{var za=JSON.parse(sessionStorage.getItem('zoller-arrive')||'null');sessionS
     if ctx.has_traycalc:
         scripts += f'''
 <script src="{ctx.prefix}assets/js/traycalc.js?v={ASSET_VER}" defer></script>'''
+    if ctx.has_toolconfig:
+        scripts += f'''
+<script src="{ctx.prefix}assets/js/toolconfig.js?v={ASSET_VER}" defer></script>'''
     if ctx.has_toolfinder:
         scripts += f'''
 <script src="{ctx.prefix}assets/js/toolfinder.js?v={ASSET_VER}" defer></script>'''
