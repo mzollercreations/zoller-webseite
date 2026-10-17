@@ -970,9 +970,10 @@ def upload_pages(sid, publish, only=None):
     if publish:
         drafts = [p for p in existing.values() if p.get("id") and (p.get("currentState") or p.get("state") or "DRAFT").startswith("DRAFT")
                   and p.get("templatePath") in wanted and (only is None or p.get("templatePath") in only)]
-        when = (datetime.now(timezone.utc) + timedelta(minutes=1)).strftime("%Y-%m-%dT%H:%M:%SZ")
-        n = 0
+        n, when = 0, ""
         for p in drafts:
+            # Zeitpunkt je Seite neu: bei Hunderten Seiten liegt ein einmal berechneter Termin sonst schon in der Vergangenheit
+            when = (datetime.now(timezone.utc) + timedelta(seconds=45)).strftime("%Y-%m-%dT%H:%M:%SZ")
             try:
                 api("POST", "/cms/v3/pages/site-pages/schedule", body={"id": str(p["id"]), "publishDate": when})
                 n += 1

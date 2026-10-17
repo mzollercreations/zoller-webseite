@@ -65,11 +65,11 @@
   window.addEventListener('scroll', onScroll, { passive: true });
   onScroll();
 
-  // Passen Menü und Werkzeuge nicht nebeneinander (lange Menütexte, z. B. Französisch), blenden fit-1 … fit-5
+  // Passen Menü und Werkzeuge nicht nebeneinander (lange Menütexte, z. B. Französisch), blenden fit-1 … fit-7
   // nacheinander Zusätze aus (main.css) – zuletzt wandert das Menü hinter den Burger
   const mainList = $('.mainnav__list');
   const headerTools = $('.site-header__tools');
-  const FIT = ['fit-1', 'fit-2', 'fit-3', 'fit-4', 'fit-5'];
+  const FIT = ['fit-1', 'fit-2', 'fit-3', 'fit-4', 'fit-5', 'fit-6', 'fit-7'];
   const fitHeader = () => {
     header.classList.remove(...FIT);
     for (const cls of FIT) {

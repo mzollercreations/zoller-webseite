@@ -205,25 +205,22 @@ html:not(.js) .cur-btn, html:not(.js) .mobile-nav__cur, html:not(.js) .cur-chip 
 .showroom-link svg { width: 17px; height: 17px; flex: none; }
 .showroom-link:hover { transform: translateY(-1px); box-shadow: 0 8px 24px -8px rgba(240, 230, 0, .8); }
 .showroom-link__short { display: none; }
-/* Werkzeugraum-Planer neben dem 3D-Showroom (eigenes Repo zoller-werkzeugraum-planer) */
-.planer-link { display: inline-flex; align-items: center; gap: .45rem; margin-left: .4rem; padding: .5rem .95rem .5rem .75rem; border-radius: 999px; background: var(--black); color: var(--white); box-shadow: inset 0 0 0 1px rgba(255, 255, 255, .22); font-size: .8125rem; font-weight: 500; line-height: 1; white-space: nowrap; transition: transform .35s var(--ease-out), box-shadow .35s var(--ease-out); }
-.planer-link svg { width: 17px; height: 17px; flex: none; color: var(--yellow); }
-.planer-link:hover { transform: translateY(-1px); box-shadow: inset 0 0 0 1px rgba(255, 255, 255, .22), 0 8px 24px -8px rgba(0, 0, 0, .55); }
-.planer-link__short { display: none; }
-@media (max-width: 1599px) { .planer-link__full { display: none; } .planer-link__short { display: inline; } }
+/* Werkzeugraum-Planer (»Toolroom Planner«) neben dem 3D-Showroom (eigenes Repo zoller-werkzeugraum-planer): gelb wie der
+   Showroom und immer mit vollem Namen – erst wenn sonst nichts mehr hilft (fit-6) und auf dem Telefon bleibt das Symbol */
+.planer-link { display: inline-flex; align-items: center; gap: .45rem; margin-left: .4rem; padding: .5rem .95rem .5rem .75rem; border-radius: 999px; background: var(--yellow); color: var(--black); font-size: .8125rem; font-weight: 500; line-height: 1; white-space: nowrap; transition: transform .35s var(--ease-out), box-shadow .35s var(--ease-out); }
+.planer-link svg { width: 17px; height: 17px; flex: none; }
+.planer-link:hover { transform: translateY(-1px); box-shadow: 0 8px 24px -8px rgba(240, 230, 0, .8); }
 @media (max-width: 1279px) { .planer-link { margin: 0 .25rem 0 0; padding: .45rem .7rem .45rem .6rem; } }
 @media (min-width: 601px) and (max-width: 1279px) {   /* Platz für den Planer: Showroom zeigt dann nur »3D« */
   .site-header .showroom-link__full { display: none !important; }
   .site-header .showroom-link__short { display: inline !important; font-weight: 700; }
 }
-@media (min-width: 1024px) and (max-width: 1179px), (max-width: 600px) {   /* enge Kopfzeile: nur das Symbol */
+@media (max-width: 600px) {   /* Telefon: nur das Symbol (im Menü steht der Planer mit Namen) */
   .planer-link { width: 36px; height: 36px; padding: 0; justify-content: center; }
-  .planer-link__short { display: none; }
+  .planer-link__full { display: none; }
 }
-.site-header.fit-1 .planer-link__full { display: none; }
-.site-header.fit-1 .planer-link__short { display: inline; }
-.site-header.fit-4 .planer-link__short { display: none; }
-.site-header.fit-4 .planer-link { padding-inline: .55rem; }
+.site-header.fit-6 .planer-link__full { display: none; }
+.site-header.fit-6 .planer-link { width: 36px; height: 36px; padding: 0; justify-content: center; }
 .burger { display: none; }
 .burger__close, .nav-open .burger__open { display: none; }
 .nav-open .burger__close { display: block; }
@@ -1274,8 +1271,11 @@ main .bg-black, .site-footer { overflow-x: clip; }
 .site-header.fit-4 .mainnav__link.is-active::after { left: .45rem; right: .45rem; }
 .site-header.fit-4 .lang-btn { gap: .3rem; padding: 0 .45rem 0 .4rem; }
 .site-header.fit-4 .lang-btn > svg:first-child { width: 18px; height: 18px; }
-.site-header.fit-5 .mainnav { display: none; }
-.site-header.fit-5 .burger { display: grid; }
+/* fit-5: Showroom nur noch als Würfel, fit-6: Planer nur als Symbol (oben), fit-7: Menü hinter den Burger */
+.site-header.fit-5 .showroom-link { width: 36px; height: 36px; padding: 0; justify-content: center; }
+.site-header.fit-5 .showroom-link__full, .site-header.fit-5 .showroom-link__short { display: none !important; }
+.site-header.fit-7 .mainnav { display: none; }
+.site-header.fit-7 .burger { display: grid; }
 
 /* ---------- Scroll-Effekte: Vorhang-Hero, Lesefortschritt, Zeitstrahl, Events, Hotspots ---------- */
 /* Vorhang: das erste Hero bleibt stehen und dunkelt ab, der Inhalt gleitet als Blatt mit runden Ecken darüber */
