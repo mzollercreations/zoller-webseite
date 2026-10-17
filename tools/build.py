@@ -385,7 +385,12 @@ def img_tag(ctx, im, cls="", sizes="", eager=False, alt=None, extra=""):
         wh = f' width="{im["w"]}" height="{im["h"]}"'
     load = 'fetchpriority="high"' if eager else 'loading="lazy" decoding="async"'
     c = f' class="{cls}"' if cls else ""
-    return f'<img src="{esc(ctx.img(im["src"]), quote=True)}" alt="{a}"{wh}{c} {load}{extra}>'
+    src = ctx.img(im["src"])
+    if re.search(r"\.(mp4|webm|mov)(?:[?#]|$)", src, re.I):
+        # zoller.info zeigt in manchen Kacheln ein Video statt eines Bildes (z. B. »Automation« auf /solutions) – als
+        # stummes Schleifenvideo; es lädt und läuft erst, wenn es ins Bild kommt (main.js, video[data-inview])
+        return f'<video src="{esc(src, quote=True)}"{wh}{c} muted loop playsinline preload="none" data-inview aria-hidden="true"{extra}></video>'
+    return f'<img src="{esc(src, quote=True)}" alt="{a}"{wh}{c} {load}{extra}>'
 
 
 def bg_class(bg):

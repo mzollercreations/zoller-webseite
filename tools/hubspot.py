@@ -7,6 +7,14 @@ Aufruf:  python3 tools/hubspot.py export us|ca|mx|de|all    gebaute Seite -> dis
          python3 tools/hubspot.py upload us [files] [theme] [pages] [--test] [--publish] [--force]
                                     --test: nur Startseite, eine Produktbühne, Standort-Globus und 404 (erster Test)
          python3 tools/hubspot.py check us                   Live-Seite und Dateitypen auf der Domain prüfen
+         python3 tools/hubspot.py token [--sandbox]          Schlüssel verdeckt einfügen, speichern und prüfen
+         python3 tools/hubspot.py forms [--sandbox]          Kontaktfelder + HubSpot-Formular anlegen (danach export/upload)
+
+         --sandbox (bei jedem Befehl): Test-Konto (HubSpot-Sandbox). Eigenes Token (~/.config/zoller/hubspot-token-sandbox
+                   oder HUBSPOT_TOKEN_SANDBOX), eigener Export nach dist/hubspot-sandbox/, eigener Upload-Stand. HubSpot hostet
+                   dort nur die Seiten; Bilder, CSS und JS kommen von GitHub Pages, weil eine Sandbox keine eigene Domain hat und
+                   HubSpot JS aus dem Dateimanager auf der Systemdomain als text/plain ausliefert (3D und Animationen liefen nicht).
+                   Veröffentlichen geht dort ohne Domain (Systemdomain …hs-sites.com). Bricht ab, wenn das Token kein Sandbox-Konto ist.
 
 Aufbau auf HubSpot:
   Dateimanager   /<files_folder>/…   Bilder, Videos, PDFs, Schriften, CSS und JS aller Länderseiten. Die Ordnerstruktur
@@ -21,7 +29,7 @@ Inhalte werden weiter in content/ gepflegt: build.py -> hubspot.py export -> hub
 den Templates (live, sobald hochgeladen), Änderungen im HubSpot-Seiteneditor würden beim nächsten Upload überschrieben.
 
 Zugang: Private App (in neueren Konten „Legacy-App“) mit den Scopes `content` und `files`. Token in der Umgebungsvariable
-HUBSPOT_TOKEN oder in der Datei ~/.config/zoller/hubspot-token. Das Token wird nie ausgegeben.
+HUBSPOT_TOKEN oder in der Datei ~/.config/zoller/hubspot-token (Sandbox: …-sandbox, s. o.). Das Token wird nie ausgegeben.
 Domains, Theme-Namen und Dateiordner: content/hubspot.json. Nur Python-Standardbibliothek nötig.
 """
 import hashlib
@@ -44,10 +52,11 @@ from datetime import datetime, timedelta, timezone
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITES = json.load(open(os.path.join(ROOT, "content", "sites.json"), encoding="utf-8"))
 CFG = json.load(open(os.path.join(ROOT, "content", "hubspot.json"), encoding="utf-8"))
-OUT = os.path.join(ROOT, "dist", "hubspot")
+SANDBOX = "--sandbox" in sys.argv   # Test-Konto: nur Seiten auf HubSpot, Dateien von GitHub Pages (s. oben)
+OUT = os.path.join(ROOT, "dist", "hubspot-sandbox" if SANDBOX else "hubspot")
 FOLDER = CFG["files_folder"].strip("/")
 ASSET_BASE = f"/hubfs/{FOLDER}/"
-FILES = os.path.join(OUT, "files")
+FILES = os.path.join(ROOT, "dist", "hubspot", "files")   # Dateimanager-Inhalt (nur Produktivkonto)
 FILE_DIRS = ("assets", "fileadmin", "_assets", "typo3temp", "typo3conf")
 API = "https://api.hubapi.com"
 WARN = []
@@ -60,8 +69,116 @@ def warn(msg):
         WARN.append(msg)
 
 
+# ============================================================ Formulare ====
+# Die Formulare stammen aus dem TYPO3-Formular-Framework von zoller.info; die Feldnamen (text-2 …) sind in allen Sprachen gleich.
+# Angebunden werden Kontakt-, Ticket-, Angebots-, Gebrauchtgeräte- und Newsletter-Formulare. Bewerbungen (Dateianhänge, HR)
+# und die Seriennummern-Abfrage bleiben bewusst E-Mail. Felder ohne Zuordnung landen lesbar in »zoller_formular«.
+FORM_KEY = "sandbox" if SANDBOX else "prod"
+TYPO3_CONTACT = {"text-2": "firstname", "text-3": "lastname", "email-1": "email", "telephone-1": "phone", "text-1": "company",
+                 "text-4": "jobtitle", "text-5": "address", "text-6": "city", "text-7": "state", "text-8": "zip",
+                 "textarea-1": "message", "checkbox-2": "zoller_newsletter", "checkbox-1": "consent"}
+# Kontakteigenschaften, die »hubspot.py forms« anlegt (Gruppe »ZOLLER Webseite«), plus die HubSpot-Standardfelder des Formulars
+HS_PROPS = [
+    ("zoller_anfrage", "Anfrage (Webseite)", "string", "text", "Betreff des Formulars, z. B. »Kontakt« oder »Ticket-Code anfordern«"),
+    ("zoller_formular", "Formularangaben (Webseite)", "string", "textarea", "Alle Angaben der letzten Anfrage, lesbar wie in der E-Mail"),
+    ("zoller_website", "Länderseite (Webseite)", "string", "text", "Länderseite und Sprache, von der die Anfrage kam"),
+    ("zoller_waehrung", "Währung (Webseite)", "string", "text", "Währung des Besuchers (Standort oder Währungs-Knopf, ISO-Code wie USD)"),
+    ("zoller_newsletter", "Newsletter gewünscht (Webseite)", "bool", "booleancheckbox", "Im Formular »Newsletter abonnieren« angehakt"),
+]
+HS_STANDARD = [("email", "E-Mail", "email", True), ("firstname", "Vorname", "single_line_text", False),
+               ("lastname", "Nachname", "single_line_text", False), ("company", "Firma", "single_line_text", False),
+               ("jobtitle", "Position", "single_line_text", False), ("phone", "Telefon", "phone", False),
+               ("address", "Straße", "single_line_text", False), ("city", "Ort", "single_line_text", False),
+               ("state", "Bundesland/Staat", "single_line_text", False), ("zip", "PLZ", "single_line_text", False),
+               ("country", "Land", "single_line_text", False), ("message", "Nachricht", "multi_line_text", False)]
+
+
+def form_map(form_id):
+    """Feldzuordnung eines Formulars (TYPO3-Bezeichner -> HubSpot-Eigenschaft) oder None = bleibt E-Mail."""
+    base = re.sub(r"-\d+$", "", form_id)
+    if "GrindingSale" in base:
+        return {"text-1": "firstname", "text-2": "lastname", "email": "email", "text-3": "company", "countryselect-1": "country"}
+    if base == "newsletter":
+        return {"firstname": "firstname", "lastname": "lastname", "email": "email", "checkbox-data-protection": "consent"}
+    if re.search(r"(?i)contactform|ticket|terminvereinbaren|anfrage", base):
+        return TYPO3_CONTACT
+    return None
+
+
+_I18N = None
+
+
+def tr(s, lang):
+    """Fester Text in der Sprache der Seite – gleiche Quelle wie build.py (tools/i18n.py, Schlüssel = deutscher Text)."""
+    global _I18N
+    if _I18N is None:
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        import i18n
+        _I18N = i18n.T
+    if lang.lower().startswith("de"):
+        return s
+    for code in (lang, lang.split("-")[0].lower()):
+        if s in _I18N.get(code, {}):
+            return _I18N[code][s]
+    warn(f"Übersetzung fehlt ({lang}): {s}")
+    return s
+
+
+FORM_TEXTS = ["Wird gesendet …", "Vielen Dank – Ihre Angaben sind bei ZOLLER angekommen. Wir melden uns in Kürze.",
+              "Das Senden hat nicht geklappt – Ihr E-Mail-Programm öffnet sich stattdessen mit der fertigen Nachricht."]
+
+
+def connect_forms(sid, lang, body):
+    """Mailto-Formulare der statischen Seite an das HubSpot-Formular hängen (s. tools/hubspot_forms.js)."""
+    fc = CFG.get("forms", {}).get(FORM_KEY) or {}
+    if "data-mailto=" not in body:
+        return body
+    if not (fc.get("portal") and fc.get("form")):
+        warn(f"Formulare bleiben E-Mail – zuerst: python3 tools/hubspot.py forms{' --sandbox' if SANDBOX else ''}")
+        return body
+    n = 0
+
+    def one(m):
+        nonlocal n
+        form, rest = m.group(1), m.group(2)
+        fid = attr(re.match(r"<form\b[^>]*>", form).group(0), "id")
+        fmap = form_map(fid)
+        if fmap is None:
+            return m.group(0)
+        n += 1
+        site = f"{CFG['sites'][sid]['label']} ({lang})"
+        news = ' data-hs-newsletter="1"' if fid.startswith("newsletter") else ""
+        form = re.sub(r'<form\b([^>]*?) data-mailto="([^"]*)"', lambda f: (
+            f'<form{f.group(1)} data-hs-portal="{esc(str(fc["portal"]))}" data-hs-form="{esc(fc["form"])}" data-hs-site="{esc(site)}"'
+            f'{news} data-hs-do-not-collect="true" data-mailto-fallback="{f.group(2)}"'), form, count=1)
+
+        def field(fm):
+            key = [k for k in re.findall(r"\[([^\]]*)\]", attr(fm.group(0), "name")) if k][-1:] or [""]
+            prop = fmap.get(key[0])
+            return fm.group(0) if not prop or ' type="hidden"' in fm.group(0) else fm.group(0)[:len(fm.group(1)) + 1] + f' data-hs="{prop}"' + fm.group(0)[len(fm.group(1)) + 1:]
+        form = re.sub(r"<(input|select|textarea)\b[^>]*>", field, form)
+        # Hinweis unter dem Formular: statt »E-Mail-Programm öffnet sich …« die Übermittlung an ZOLLER
+        def note(nm):
+            links = re.findall(r"<a\b[^>]*>.*?</a>", nm.group(0), re.S)
+            priv = links[-1] if links else tr("Datenschutzerklärung", lang)
+            end = tr("verarbeitet.", lang)
+            return (f'<p class="form-note">{esc(tr("Ihre Angaben werden sicher an ZOLLER übermittelt und gemäß der", lang), quote=False)} '
+                    f'{priv}{"" if end == "." else " "}{esc(end, quote=False)}</p>')
+        rest = re.sub(r'^(\s*)<p class="form-note">.*?</p>', lambda nm: nm.group(1) + note(nm), rest, count=1, flags=re.S)
+        return form + rest
+
+    body = re.sub(r"(<form\b[^>]*data-mailto=.*?</form>)((?:\s*<p class=\"form-note\">.*?</p>)?)", one, body, flags=re.S)
+    if n:
+        texts = {k: tr(k, lang) for k in FORM_TEXTS}
+        js = open(os.path.join(ROOT, "tools", "hubspot_forms.js"), encoding="utf-8").read().replace("</", "<\\/")
+        body += f"\n<script>window.ZHS={json.dumps(texts, ensure_ascii=False)};</script>\n<script>\n{js}</script>"
+    return body
+
+
 def site_url(sid):
-    """Adresse der Länderseite auf HubSpot (https://domain/) – leer, solange keine Domain eingetragen ist."""
+    """Adresse der Länderseite auf HubSpot (https://domain/) – leer, solange keine Domain eingetragen ist (und in der Sandbox)."""
+    if SANDBOX:
+        return ""
     d = CFG["sites"].get(sid, {}).get("domain", "").strip().strip("/")
     d = re.sub(r"^https?://", "", d)
     return f"https://{d}/" if d else ""
@@ -122,15 +239,18 @@ class Page:
             tail = ("?" + query if query else "") + ("#" + frag if frag else "")
             own = site_url(self.sid)
             if path.split("/")[0] in FILE_DIRS:
+                if SANDBOX:
+                    return full   # Datei von GitHub Pages (richtiger MIME-Typ, CORS *)
                 return (own.rstrip("/") if absolute and own else "") + ASSET_BASE + safe_path(path) + tail
             path = re.sub(r"(^|/)index\.html$", "", path).rstrip("/")
             target = site_url(sid)
             if sid == self.sid:
-                if absolute and not target:
+                if absolute and not target and not SANDBOX:
                     warn(f"Keine Domain für »{sid}« in content/hubspot.json – hreflang/og:image bleiben relativ.")
                 return (target.rstrip("/") if absolute and target else "") + "/" + path + tail
             if not target:
-                warn(f"Keine Domain für »{sid}« in content/hubspot.json – Links dorthin zeigen weiter auf GitHub Pages.")
+                if not SANDBOX:
+                    warn(f"Keine Domain für »{sid}« in content/hubspot.json – Links dorthin zeigen weiter auf GitHub Pages.")
                 return val if val.startswith("http") else full
             return target + path + tail
         return val
@@ -155,7 +275,22 @@ class Page:
             if new == val:
                 return m.group(0)
             return f'{lead}{name}="{new.replace("&", "&amp;").replace(chr(34), "&quot;")}"'
-        return re.sub(r'(\s+)([^\s=>/"\']+)="([^"]*)"', one, s)
+
+        def one_json(m):
+            # Konfiguration als JSON in einfachen Anführungszeichen (data-ar, data-ar-launch …): relative Pfade darin
+            # (»../../assets/ar/x.glb«, »../../company/contact/«) wie Attribute umschreiben, sonst lädt die Seite auf
+            # HubSpot z. B. /assets/vendor/qrcode.js von der eigenen Domain (404).
+            lead, name, raw = m.group(1), m.group(2), m.group(3)
+            val = html.unescape(raw)
+            if not val.lstrip().startswith(("{", "[")):
+                return m.group(0)
+            new = re.sub(r'"((?:\.\.?/)+[^"]*|(?:assets|fileadmin)/[^"]*)"',
+                         lambda u: json.dumps(self.map(u.group(1)), ensure_ascii=False), val)
+            if new == val:
+                return m.group(0)
+            return f"{lead}{name}='{new.replace('&', '&amp;').replace(chr(39), '&#39;')}'"
+        s = re.sub(r'(\s+)([^\s=>/"\']+)="([^"]*)"', one, s)
+        return re.sub(r"(\s+)([^\s=>/\"']+)='([^']*)'", one_json, s)
 
     def rewrite(self, doc):
         """Alle Links und Dateipfade eines HTML-Stücks: Tags, Inline-JSON (Importmap, Globus-Daten) und <style>."""
@@ -304,6 +439,29 @@ BASE = """<!--
 </html>
 """
 
+def livechat(cfg):
+    """Chat-Fenster unten rechts wie auf dem bisherigen zoller-usa.com: LiveChat (livechatinc.com), Lizenz in
+    content/hubspot.json (sites.<id>.livechat). Beantwortet wird er von der Landesgesellschaft in der LiveChat-App.
+    Zusätzlich sieht der Mitarbeiter Länderseite, Sprache und Währung des Besuchers (Sitzungsvariablen)."""
+    lic = int(cfg["livechat"])
+    site = json.dumps(cfg["label"], ensure_ascii=False)
+    return f"""{{% raw %}}<!-- LiveChat (livechatinc.com), wie bisher auf zoller-usa.com -->
+<script>
+document.documentElement.classList.add('has-livechat');
+window.__lc = window.__lc || {{}};
+window.__lc.license = {lic};
+window.__lc.integration_name = "manual_channels";
+window.__lc.product_name = "livechat";
+;(function(n,t,c){{function i(n){{return e._h?e._h.apply(null,n):e._q.push(n)}}var e={{_q:[],_h:null,_v:"2.0",on:function(){{i(["on",c.call(arguments)])}},once:function(){{i(["once",c.call(arguments)])}},off:function(){{i(["off",c.call(arguments)])}},get:function(){{if(!e._h)throw new Error("[LiveChatWidget] You can't use getters before load.");return i(["get",c.call(arguments)])}},call:function(){{i(["call",c.call(arguments)])}},init:function(){{var n=t.createElement("script");n.async=!0,n.type="text/javascript",n.src="https://cdn.livechatinc.com/tracking.js",t.head.appendChild(n)}}}};!n.__lc.asyncInit&&e.init(),n.LiveChatWidget=n.LiveChatWidget||e}}(window,document,[].slice));
+LiveChatWidget.on('ready', function () {{
+  try {{
+    LiveChatWidget.call('set_session_variables', {{ site: {site}, language: document.documentElement.lang,
+      currency: window.ZCurrency ? window.ZCurrency.get() : '' }});
+  }} catch (e) {{}}
+}});
+</script>{{% endraw %}}"""
+
+
 # Vom Kopf der statischen Seite entfallen: Titel/Beschreibung (Seiteneinstellungen), canonical und og:title (setzt HubSpot)
 HEAD_DROP = re.compile(r'<meta charset="[^"]*">\n?|<title>.*?</title>\n?|<meta name="description"[^>]*>\n?|<link rel="canonical"[^>]*>\n?'
                        r'|<meta property="og:title"[^>]*>\n?|<base [^>]*>\n?', re.S)
@@ -318,10 +476,14 @@ def convert(sid, rel_dir, doc, index_of):
     desc = attr(re.search(r'<meta name="description"[^>]*>', head).group(0), "content") if '<meta name="description"' in head else ""
     head = page.rewrite(HEAD_DROP.sub("", head)).strip("\n")
     head = re.sub(r"\n{2,}", "\n", head)
-    idx = index_of(attr(body_attrs, "data-index"))
     cls = attr(body_attrs, "class")
-    body_attrs = f'class="{esc(cls)}" data-root="/" data-assets="{ASSET_BASE}" data-index="{idx}"'
-    return lang, title, desc, head, body_attrs, page.rewrite(body).strip("\n")
+    if SANDBOX:   # Dateien und Suchindex der GitHub-Pages-Fassung
+        idx = attr(body_attrs, "data-index") or "assets/search-index.json"
+        body_attrs = f'class="{esc(cls)}" data-root="/" data-assets="{SITES[sid]["url"]}" data-index="{esc(idx)}"'
+    else:
+        idx = index_of(attr(body_attrs, "data-index"))
+        body_attrs = f'class="{esc(cls)}" data-root="/" data-assets="{ASSET_BASE}" data-index="{idx}"'
+    return lang, title, desc, head, body_attrs, connect_forms(sid, lang, page.rewrite(body)).strip("\n")
 
 
 def export(sid):
@@ -337,7 +499,7 @@ def export(sid):
     import shutil
     shutil.rmtree(os.path.join(out, "theme"), ignore_errors=True)
     os.makedirs(os.path.join(tdir, "templates", "layouts"))
-    n_files, n_changed, size = export_files(sid)
+    n_files, n_changed, size = (0, 0, 0) if SANDBOX else export_files(sid)
 
     default_lang = SITES[sid]["locales"][0]["lang"]
 
@@ -363,13 +525,20 @@ def export(sid):
     tpl_rel = "templates/system/404.html"
     os.makedirs(os.path.join(tdir, "templates", "system"), exist_ok=True)
     open(os.path.join(tdir, tpl_rel), "w", encoding="utf-8").write(template(f"{label} · 404", "error_page", tpl_rel, lang, title, desc, head, battrs, body))
-    open(os.path.join(tdir, "templates", "layouts", "base.html"), "w", encoding="utf-8").write(BASE)
+    base = BASE
+    if cfg.get("livechat"):
+        base = base.replace("{{ standard_footer_includes }}", livechat(cfg) + "\n{{ standard_footer_includes }}")
+    open(os.path.join(tdir, "templates", "layouts", "base.html"), "w", encoding="utf-8").write(base)
     json.dump({"label": label, "preview_path": "./templates/pages/index.html", "enable_domain_stylesheets": False, "version": "1.0",
                "author": {"name": "mzollercreations", "url": "https://github.com/mzollercreations"}, "is_available_for_new_content": True},
               open(os.path.join(tdir, "theme.json"), "w", encoding="utf-8"), indent=2, ensure_ascii=False)
     json.dump({"site": sid, "theme": theme, "domain": cfg.get("domain", ""), "files_folder": FOLDER, "pages": pages,
                "system": {"404": f"{theme}/{tpl_rel}"}}, open(os.path.join(out, "pages.json"), "w", encoding="utf-8"), indent=1, ensure_ascii=False)
     audit(sid, tdir, {p["slug"] for p in pages})
+    if SANDBOX:
+        print(f"{label} (Sandbox): {len(pages)} Seiten-Templates + 404 -> {os.path.relpath(tdir, ROOT)} | Dateien von {SITES[sid]['url']} "
+              f"(dort muss der aktuelle Stand veröffentlicht sein) | {time.time() - t0:.1f} s")
+        return
     print(f"{label}: {len(pages)} Seiten-Templates + 404 -> {os.path.relpath(tdir, ROOT)} | "
           f"{n_files} Dateien ({size / 1e6:.0f} MB, {n_changed} neu/geändert) -> {os.path.relpath(os.path.join(FILES, FOLDER), ROOT)} "
           f"| {time.time() - t0:.1f} s")
@@ -495,14 +664,83 @@ class ApiError(Exception):
 
 
 def token():
-    t = os.environ.get("HUBSPOT_TOKEN", "").strip()
-    f = os.path.expanduser("~/.config/zoller/hubspot-token")
+    var, name = ("HUBSPOT_TOKEN_SANDBOX", "hubspot-token-sandbox") if SANDBOX else ("HUBSPOT_TOKEN", "hubspot-token")
+    t = os.environ.get(var, "").strip()
+    f = os.path.expanduser("~/.config/zoller/" + name)
     if not t and os.path.exists(f):
         t = open(f, encoding="utf-8").read().strip()
     if not t:
-        sys.exit("Kein HubSpot-Token: Private App mit den Scopes »content« und »files« anlegen und das Token in "
-                 "~/.config/zoller/hubspot-token speichern (oder HUBSPOT_TOKEN setzen).")
+        sys.exit(f"Kein HubSpot-Token{' für die Sandbox' if SANDBOX else ''}: Private App mit den Scopes »content« und »files« "
+                 f"anlegen und das Token in ~/.config/zoller/{name} speichern (oder {var} setzen).")
     return t
+
+
+def mac_dialog(text, ask=False):
+    """Mac-Fenster: Eingabe mit verdecktem Feld (ask) oder Meldung. Rückgabe: Eingabe, "" bei Abbruch."""
+    import subprocess
+    title = "ZOLLER · HubSpot" + (" (Sandbox)" if SANDBOX else "")
+    q = lambda s: '"' + s.replace("\\", "\\\\").replace('"', '\\"') + '"'
+    if ask:
+        script = (f"text returned of (display dialog {q(text)} default answer \"\" with hidden answer with title {q(title)} "
+                  f"buttons {{\"Abbrechen\", \"Speichern\"}} default button \"Speichern\" cancel button \"Abbrechen\")")
+    else:
+        script = f"display dialog {q(text)} with title {q(title)} buttons {{\"OK\"}} default button \"OK\""
+    r = subprocess.run(["osascript", "-e", script], capture_output=True, text=True)
+    return r.stdout.strip() if r.returncode == 0 else ""
+
+
+def save_token():
+    """Schlüssel (Service Key oder Private-App-Token) verdeckt abfragen, in ~/.config/zoller/… (nur für dich lesbar) ablegen und
+    sofort prüfen – das Token erscheint nie im Terminal oder in einer Datei im Repo. Auf dem Mac in einem eigenen Fenster
+    (Einfügen mit Cmd+V klappt dort sicher), mit --terminal verdeckt im Terminal."""
+    global TOKEN
+    import getpass
+    name = "hubspot-token-sandbox" if SANDBOX else "hubspot-token"
+    f = os.path.expanduser("~/.config/zoller/" + name)
+    gui = sys.platform == "darwin" and "--terminal" not in sys.argv
+    if gui:
+        print("Es öffnet sich ein Fenster »ZOLLER · HubSpot« – dort den Schlüssel mit Cmd+V einfügen und »Speichern« klicken.")
+        TOKEN = mac_dialog("HubSpot-Schlüssel (Service Key) hier mit Cmd+V einfügen.\n\nEr bleibt verdeckt und wird nur auf diesem Mac "
+                           "gespeichert.", ask=True).strip()
+    else:
+        TOKEN = getpass.getpass(f"HubSpot-Schlüssel {'(Sandbox) ' if SANDBOX else ''}einfügen (bleibt unsichtbar), dann Enter: ").strip()
+
+    def stop(msg):
+        if gui:
+            mac_dialog(msg)
+        sys.exit(msg)
+    if not TOKEN:
+        stop("Nichts eingegeben – nichts gespeichert.")
+    try:
+        info = account()
+    except ApiError as e:
+        stop(f"HubSpot lehnt den Schlüssel ab ({e.code}) – nichts gespeichert. Den aktuellen Schlüssel in HubSpot neu kopieren "
+             f"(Development › Keys › Service keys › Show › Copy).")
+    except SystemExit as e:   # z. B. kein Sandbox-Konto
+        stop(str(e))
+    os.makedirs(os.path.dirname(f), mode=0o700, exist_ok=True)
+    fd = os.open(f, os.O_WRONLY | os.O_CREAT | os.O_TRUNC, 0o600)
+    with os.fdopen(fd, "w", encoding="utf-8") as fh:
+        fh.write(TOKEN + "\n")
+    os.chmod(f, 0o600)
+    msg = f"Gespeichert ✓ – Portal {info.get('portalId')} ({info.get('accountType', '?')})."
+    print(msg)
+    if gui:
+        mac_dialog(msg + "\n\nDu kannst Claude jetzt »fertig« schreiben.")
+    status()
+
+
+def account():
+    """Portal prüfen: --sandbox nur mit Sandbox-/Testkonto, ohne --sandbox nie in eine Sandbox."""
+    info = api("GET", "/account-info/v3/details")
+    kind = str(info.get("accountType", "")).upper()
+    test = any(k in kind for k in ("SANDBOX", "TEST"))
+    if SANDBOX and not test:
+        sys.exit(f"Abbruch: Das Sandbox-Token gehört zu Portal {info.get('portalId')} ({kind or 'Typ unbekannt'}), "
+                 "keinem Sandbox-Konto. Token in ~/.config/zoller/hubspot-token-sandbox prüfen.")
+    if not SANDBOX and test:
+        sys.exit(f"Abbruch: Das Token gehört zum Testkonto {info.get('portalId')} ({kind}) – dafür --sandbox verwenden.")
+    return info
 
 
 def multipart(fields):
@@ -664,9 +902,21 @@ def list_pages():
 def upload_pages(sid, publish, only=None):
     man = json.load(open(os.path.join(OUT, sid, "pages.json"), encoding="utf-8"))
     domain = re.sub(r"^https?://", "", CFG["sites"][sid].get("domain", "")).strip("/")
-    if publish and not domain:
+    if publish and not domain and not SANDBOX:
         sys.exit(f"Veröffentlichen erst mit eigener Domain für »{sid}« in content/hubspot.json.")
-    if not domain:
+    if not SANDBOX and not domain:
+        # Ohne eingetragene Domain legt HubSpot neue Seiten auf die Standard-Domain des Kontos – im ZOLLER-Konto wäre das
+        # eine Live-Seite (z. B. zoller-usa.com läuft auf HubSpot). Dann nur mit ausdrücklich eingetragener Domain.
+        try:
+            live = [d.get("domain") for d in api("GET", "/cms/v3/domains/").get("results", []) if d.get("isUsedForSitePage")]
+        except ApiError:
+            live = []
+        if live:
+            sys.exit(f"Abbruch: Dieses Konto hat schon Website-Domains ({', '.join(live[:5])}). Ohne eigene Domain für »{sid}« "
+                     "in content/hubspot.json würden die Seiten dort landen. Erst eine eigene (Test-)Domain eintragen.")
+    if SANDBOX:
+        print("  Sandbox: Seiten liegen auf der Systemdomain des Testkontos (…hs-sites.com).")
+    elif not domain:
         print("  Ohne eigene Domain: Entwürfe liegen auf der HubSpot-Systemdomain (Vorschau nur für eingeloggte HubSpot-Nutzer).")
     todo = [p for p in man["pages"] if only is None or p["template"] in only]
     prefix = man["theme"] + "/templates/pages/"
@@ -691,10 +941,13 @@ def upload_pages(sid, publish, only=None):
         cur = existing.get(p["template"])
         try:
             if not cur:
-                existing[p["template"]] = create(p)
+                new = existing[p["template"]] = create(p)
                 created += 1
+                if (new.get("slug") or "") != p["slug"]:   # Entwurf der Startseite bekommt sonst »-temporary-slug-…«
+                    existing[p["template"]] = api("PATCH", f"/cms/v3/pages/site-pages/{new['id']}", body={"slug": p["slug"]})
             else:
-                diff = {k: v for k, v in (("htmlTitle", p["title"]), ("metaDescription", p["description"])) if (cur.get(k) or "") != v}
+                diff = {k: v for k, v in (("htmlTitle", p["title"]), ("metaDescription", p["description"]), ("slug", p["slug"]))
+                        if (cur.get(k) or "") != v}
                 if domain and (cur.get("domain") or "") != domain:
                     diff["domain"] = domain   # Entwurf von der Systemdomain auf die eigene Domain umziehen
                 if diff:
@@ -745,6 +998,10 @@ def test_selection(sid):
             if p not in pages and marker in open(os.path.join(tdir, p["template"]), encoding="utf-8").read():
                 pages.append(p)
                 break
+    for p in sorted(man["pages"], key=lambda p: (p["slug"].count("/"), p["slug"])):   # eine Seite mit angebundenem Formular
+        if p not in pages and "data-hs-form=" in open(os.path.join(tdir, p["template"]), encoding="utf-8").read():
+            pages.append(p)
+            break
     templates = {p["template"] for p in pages} | {man["system"]["404"]}
     files = set()
     for t in templates:
@@ -757,9 +1014,96 @@ def test_selection(sid):
     return templates, files
 
 
+def save_cfg():
+    """content/hubspot.json zurückschreiben – je Länderseite eine Zeile wie bisher."""
+    lines = ["{"]
+    items = list(CFG.items())
+    for i, (k, v) in enumerate(items):
+        comma = "," if i < len(items) - 1 else ""
+        if k == "sites":
+            rows = [f'  {json.dumps(sid)}: {json.dumps(c, ensure_ascii=False)}' for sid, c in v.items()]
+            lines.append(f' "sites": {{\n' + ",\n".join(rows) + f"\n }}{comma}")
+        else:
+            lines.append(f" {json.dumps(k)}: {json.dumps(v, ensure_ascii=False)}{comma}")
+    lines.append("}")
+    open(os.path.join(ROOT, "content", "hubspot.json"), "w", encoding="utf-8").write("\n".join(lines) + "\n")
+
+
+def setup_forms():
+    """Kontaktfelder (Gruppe »ZOLLER Webseite«) und das Formular »ZOLLER Webseite – Anfragen« anlegen bzw. abgleichen.
+    Ein Formular für alle Länderseiten und Sprachen; es wird nie angezeigt, die Seiten senden über die Forms-API
+    (tools/hubspot_forms.js). Portal und Formular-ID landen in content/hubspot.json (forms.sandbox / forms.prod)."""
+    info = account()
+    portal = str(info.get("portalId"))
+    try:
+        api("POST", "/crm/v3/properties/contacts/groups", body={"name": "zoller_webseite", "label": "ZOLLER Webseite", "displayOrder": -1})
+        print("Eigenschaftsgruppe »ZOLLER Webseite« angelegt")
+    except ApiError as e:
+        if e.code != 409:
+            raise
+    have = {p["name"]: p for p in api("GET", "/crm/v3/properties/contacts").get("results", [])}
+    for name, label, typ, ftype, desc in HS_PROPS:
+        body = {"label": label, "fieldType": ftype, "groupName": "zoller_webseite", "description": desc, "formField": True}
+        if typ == "bool":
+            body["options"] = [{"label": "Ja", "value": "true", "displayOrder": 0}, {"label": "Nein", "value": "false", "displayOrder": 1}]
+        if name in have:
+            api("PATCH", f"/crm/v3/properties/contacts/{name}", body=body)
+            print(f"  Kontaktfeld {name}: abgeglichen")
+        else:
+            api("POST", "/crm/v3/properties/contacts", body={"name": name, "type": typ, **body})
+            print(f"  Kontaktfeld {name}: angelegt")
+    std = [f for f in HS_STANDARD if f[0] in have]
+    for n, *_ in HS_STANDARD:
+        if n not in have:
+            print(f"  Hinweis: Standardfeld »{n}« gibt es in diesem Konto nicht – bleibt im Text »zoller_formular«.")
+
+    def field(name, label, ftype, required=False, hidden=False):
+        f = {"objectTypeId": "0-1", "name": name, "label": label, "required": required, "hidden": hidden, "fieldType": ftype,
+             "dependentFields": []}
+        if ftype == "email":
+            f["validation"] = {"blockedEmailDomains": [], "useDefaultBlockList": False}
+        if ftype == "phone":
+            f.update(useCountryCodeSelect=False, validation={"minAllowedDigits": 3, "maxAllowedDigits": 20})
+        return f
+    fields = [field(n, l, t, req) for n, l, t, req in std]
+    fields += [field(n, l, "single_checkbox" if typ == "bool" else ("multi_line_text" if ft == "textarea" else "single_line_text"), hidden=True)
+               for n, l, typ, ft, _d in HS_PROPS]
+    groups = [{"groupType": "default_group", "richTextType": "text", "fields": [f]} for f in fields]
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.000Z")
+    form = {"formType": "hubspot", "name": "ZOLLER Webseite – Anfragen", "archived": False, "createdAt": now, "updatedAt": now,
+            "fieldGroups": groups, "legalConsentOptions": {"type": "none"},
+            "configuration": {"language": "de", "createNewContactForNewEmail": True, "editable": True, "archivable": True,
+                              "cloneable": True, "allowLinkToResetKnownValues": False, "lifecycleStages": [], "notifyContactOwner": False,
+                              "notifyRecipients": [], "prePopulateKnownValues": False, "recaptchaEnabled": False,
+                              "postSubmitAction": {"type": "thank_you", "value": "Vielen Dank"}},
+            "displayOptions": {"renderRawHtml": False, "theme": "default_style", "submitButtonText": "Senden",
+                               "style": {"fontFamily": "arial, helvetica, sans-serif", "backgroundWidth": "100%",
+                                         "labelTextColor": "#33475b", "labelTextSize": "14px", "helpTextColor": "#7C98B6",
+                                         "helpTextSize": "11px", "legalConsentTextColor": "#33475b", "legalConsentTextSize": "14px",
+                                         "submitAlignment": "left", "submitColor": "#000000", "submitFontColor": "#ffffff",
+                                         "submitSize": "12px"}}}
+    fc = (CFG.get("forms") or {}).get(FORM_KEY) or {}
+    guid = fc.get("form") if str(fc.get("portal")) == portal else None
+    if guid:
+        try:
+            api("PATCH", f"/marketing/v3/forms/{guid}", body={k: form[k] for k in ("name", "fieldGroups", "configuration")})
+            print(f"Formular »{form['name']}« abgeglichen ({guid})")
+        except ApiError as e:
+            if e.code != 404:
+                raise
+            guid = None
+    if not guid:
+        guid = api("POST", "/marketing/v3/forms", body=form)["id"]
+        print(f"Formular »{form['name']}« angelegt ({guid})")
+    CFG.setdefault("forms", {})[FORM_KEY] = {"portal": portal, "form": guid, "hosting": info.get("dataHostingLocation", "")}
+    save_cfg()
+    print(f"In content/hubspot.json gemerkt (forms.{FORM_KEY}). Weiter: python3 tools/hubspot.py export us{' --sandbox' if SANDBOX else ''}")
+
+
 def status():
-    info = api("GET", "/account-info/v3/details")
-    print(f"Portal {info.get('portalId')} ({info.get('accountType', '')}, Datenhaltung {info.get('dataHostingLocation', '?')})")
+    info = account()
+    print(f"Portal {info.get('portalId')} ({info.get('accountType', '')}, Datenhaltung {info.get('dataHostingLocation', '?')})"
+          f"{' – Sandbox-Modus' if SANDBOX else ''}")
     try:
         doms = api("GET", "/cms/v3/domains/").get("results", [])
     except ApiError as e:
@@ -769,6 +1113,11 @@ def status():
     for d in doms:
         print(f"  Domain {d.get('domain')}: {'aktiv' if d.get('isResolving') else 'DNS noch nicht aktiv'}"
               f"{', Website-Seiten' if d.get('isUsedForSitePage') else ''}")
+    fc = (CFG.get("forms") or {}).get(FORM_KEY) or {}
+    if str(fc.get("portal")) == str(info.get("portalId")) and fc.get("form"):
+        print(f"  Formulare: an HubSpot-Formular {fc['form']} angebunden")
+    else:
+        print(f"  Formulare: noch E-Mail – python3 tools/hubspot.py forms{' --sandbox' if SANDBOX else ''}")
     for sid, c in CFG["sites"].items():
         d = c.get("domain", "")
         state = "nicht eingetragen" if not d else ("verbunden" if d in names else "NICHT in HubSpot verbunden")
@@ -795,7 +1144,7 @@ def check(sid):
 def main():
     global TOKEN
     args = sys.argv[1:]
-    if not args or args[0] not in ("export", "preview", "status", "upload", "check"):
+    if not args or args[0] not in ("export", "preview", "status", "upload", "check", "token", "forms"):
         sys.exit(__doc__)
     cmd = args[0]
     sid = args[1] if len(args) > 1 and not args[1].startswith("-") else ""
@@ -811,15 +1160,25 @@ def main():
         port = int(args[args.index("--port") + 1]) if "--port" in args else 8795
         return preview(sid or "us", port)
     if cmd == "check":
+        if SANDBOX:
+            sys.exit("check braucht eine eigene Domain – in der Sandbox die Seiten in HubSpot über Vorschau/Systemdomain ansehen.")
         return check(sid)
+    if cmd == "token":
+        return save_token()
     TOKEN = token()
     if cmd == "status":
         return status()
+    if cmd == "forms":
+        return setup_forms()
     if sid not in CFG["sites"]:
         sys.exit("upload us|ca|mx|de [files] [theme] [pages] [--test] [--publish] [--force]")
     if not os.path.exists(os.path.join(OUT, sid, "pages.json")):
-        sys.exit(f"Zuerst exportieren: python3 tools/hubspot.py export {sid}")
+        sys.exit(f"Zuerst exportieren: python3 tools/hubspot.py export {sid}{' --sandbox' if SANDBOX else ''}")
     parts = [a for a in args[2:] if not a.startswith("-")] or ["files", "theme", "pages"]
+    if SANDBOX and "files" in parts:
+        parts.remove("files")
+        print("Sandbox: kein Upload in den Dateimanager – Bilder, CSS und JS kommen von GitHub Pages.")
+    account()
     force = "--force" in args
     templates = files = None
     if "--test" in args:

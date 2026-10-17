@@ -736,6 +736,17 @@
     if (img.complete && img.naturalWidth === 0 && img.src) hide(); else img.addEventListener('error', hide, { once: true });
   });
 
+  /* ---------------------------- Kachel-Videos (statt Bild): laden und laufen nur, solange sie zu sehen sind */
+  const inviewVideos = $$('video[data-inview]');
+  if (inviewVideos.length && 'IntersectionObserver' in window) {
+    const io = new IntersectionObserver(entries => entries.forEach(({ target: v, isIntersecting }) => {
+      if (isIntersecting && !reduced) v.play().catch(() => {});
+      else if (!v.paused) v.pause();
+      if (isIntersecting && reduced && v.preload === 'none') v.preload = 'metadata';   // erstes Bild zeigen, nicht abspielen
+    }), { rootMargin: '200px 0px' });
+    inviewVideos.forEach(v => io.observe(v));
+  }
+
   /* -------------------------------------------------- Externe Links kennzeichnen */
   $$('a[href^="http"]').forEach(a => {
     if (!a.target && !a.href.includes(location.host)) { a.target = '_blank'; a.rel = 'noopener'; }

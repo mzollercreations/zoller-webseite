@@ -1,10 +1,11 @@
 {
- "_info": "HubSpot (Content Hub): Domain je Länderseite eintragen, sobald sie in HubSpot verbunden ist (z. B. \"us.zoller-beispiel.com\"). Leer = Links auf diese Länderseite zeigen weiter auf GitHub Pages. files_folder = Ordner im HubSpot-Dateimanager für Bilder, Videos, PDFs, CSS, JS (gemeinsam für alle Länderseiten). theme = Ordner im Design-Manager.",
+ "_info": "HubSpot (Content Hub): Domain je Länderseite eintragen, sobald sie in HubSpot verbunden ist (z. B. \"us.zoller-beispiel.com\"). Leer = Links auf diese Länderseite zeigen weiter auf GitHub Pages. files_folder = Ordner im HubSpot-Dateimanager für Bilder, Videos, PDFs, CSS, JS (gemeinsam für alle Länderseiten). theme = Ordner im Design-Manager. livechat = LiveChat-Lizenz (Chat-Fenster unten rechts wie bisher auf zoller-usa.com, tools/hubspot.py livechat()).",
  "files_folder": "zoller",
  "sites": {
-  "us": {"label": "ZOLLER USA", "theme": "zoller-usa", "domain": ""},
+  "us": {"label": "ZOLLER USA", "theme": "zoller-usa", "domain": "", "livechat": 19074998},
   "ca": {"label": "ZOLLER Canada", "theme": "zoller-canada", "domain": ""},
   "mx": {"label": "ZOLLER México", "theme": "zoller-mexico", "domain": ""},
   "de": {"label": "ZOLLER Deutschland", "theme": "zoller-deutschland", "domain": ""}
- }
+ },
+ "forms": {"sandbox": {"portal": "51718791", "form": "a0ff6904-15e6-4b00-8541-e52282e48630", "hosting": "na1"}}
 }

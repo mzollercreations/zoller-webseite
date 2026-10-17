@@ -666,8 +666,8 @@ figcaption { font-size: var(--fs-small); color: var(--gray-600); margin-top: .6r
 .bento { display: grid; grid-template-columns: repeat(2, 1fr); gap: clamp(.75rem, .5rem + .8vw, 1.25rem); }
 .bento__tile { position: relative; overflow: hidden; border-radius: var(--radius); min-height: clamp(360px, 42vw, 560px); color: var(--white); display: flex; align-items: flex-end; isolation: isolate; background: var(--black); }
 .bento__tile--full { grid-column: 1 / -1; min-height: clamp(420px, 52vw, 720px); }
-.bento__tile img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; z-index: -2; transition: transform 1.4s var(--ease-out); }
-.bento__tile:hover img { transform: scale(1.05); }
+.bento__tile :is(img, video) { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; z-index: -2; transition: transform 1.4s var(--ease-out); }
+.bento__tile:hover :is(img, video) { transform: scale(1.05); }
 .bento__tile::after { content: ""; position: absolute; inset: 0; z-index: -1; background: linear-gradient(180deg, rgba(0, 0, 0, 0) 35%, rgba(0, 0, 0, .75) 100%); }
 .bento__text { padding: clamp(1.5rem, 1rem + 2vw, 3rem); max-width: 36rem; }
 .bento__text h2, .bento__text h3 { font-size: var(--fs-h2); margin-bottom: .5rem; }
@@ -986,6 +986,8 @@ tr:hover td { background: rgba(240, 230, 0, .08); }
 .to-top { position: fixed; right: 1.25rem; bottom: 1.25rem; z-index: 80; width: 48px; height: 48px; border-radius: 50%; background: var(--yellow); color: var(--black); display: grid; place-items: center; box-shadow: 0 10px 30px -10px rgba(0, 0, 0, .5); opacity: 0; transform: translateY(16px); transition: opacity .3s, transform .5s var(--ease-out); pointer-events: none; }
 .to-top.is-visible { opacity: 1; transform: none; pointer-events: auto; }
 .to-top svg { width: 18px; height: 18px; }
+/* Länderseiten mit LiveChat (HubSpot-Export, content/hubspot.json »livechat«): Chat-Blase 84 × 84 px unten rechts */
+.has-livechat .to-top { right: 18px; bottom: calc(84px + .25rem); }
 
 /* Cookie-Hinweis */
 .consent { position: fixed; left: 1rem; right: 1rem; bottom: 1rem; z-index: 300; max-width: 560px; padding: 1.5rem; border-radius: var(--radius); background: rgba(16, 16, 16, .96); color: var(--white); box-shadow: var(--shadow-lg); -webkit-backdrop-filter: blur(16px); backdrop-filter: blur(16px); font-size: .9375rem; }
@@ -1990,7 +1992,7 @@ html.has-mscale .scroll-progress { display: none; }
 /* Bild-Kacheln (Bento, Werte, News-Karten): das Bild wandert beim Vorbeiscrollen langsamer als die Kachel.
    Reine CSS-Scroll-Animation über die Einzel-Eigenschaften translate/scale – der Hover-Zoom (transform) bleibt frei. */
 @supports (animation-timeline: view()) {
-  .js :is(.bento__tile, .value-tile) > img { animation: tile-drift linear both; animation-timeline: view(); animation-range: cover; }
+  .js :is(.bento__tile, .value-tile) > :is(img, video) { animation: tile-drift linear both; animation-timeline: view(); animation-range: cover; }
   .js .card__media img { animation: card-drift linear both; animation-timeline: view(); animation-range: cover; }
   @keyframes tile-drift { from { translate: 0 -7%; scale: 1.16; } to { translate: 0 7%; scale: 1.16; } }
   @keyframes card-drift { from { translate: 0 -5%; scale: 1.12; } to { translate: 0 5%; scale: 1.12; } }
@@ -1998,7 +2000,7 @@ html.has-mscale .scroll-progress { display: none; }
 
 @media (prefers-reduced-motion: reduce) {
   .mscale, .homefilm__dim { display: none; }
-  :is(.bento__tile, .value-tile) > img, .card__media img { animation: none !important; }
+  :is(.bento__tile, .value-tile) > :is(img, video), .card__media img { animation: none !important; }
 }
 @media print {
   .mscale, .footer-mark, .homefilm__dim { display: none !important; }
